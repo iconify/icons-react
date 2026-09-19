@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cjuv5pbie.css';
+
+const viewBox = {"width":1280,"height":1536};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="cjuv5pbie"/>`,
+		"fallback": "vs:file-download-o",
+	});
+}
+
+export default Component;

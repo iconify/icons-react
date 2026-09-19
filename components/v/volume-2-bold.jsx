@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/c/cbwoj0bxn.css';
+import '../../css/f/f7vgr860k.css';
+
+const viewBox = {"width":80,"height":80};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="cbwoj0bxn"/><path class="f7vgr860k"/></g>`,
+		"fallback": "glyphs:volume-2-bold",
+	});
+}
+
+export default Component;

@@ -1,0 +1,415 @@
+{
+  "name": "@iconify-react/flat-ui",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/flat-ui/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android.jsx"
+    },
+    "./android1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android1.jsx"
+    },
+    "./app-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-store.jsx"
+    },
+    "./arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow.jsx"
+    },
+    "./art": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/art.jsx"
+    },
+    "./bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag.jsx"
+    },
+    "./basket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket.jsx"
+    },
+    "./book": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book.jsx"
+    },
+    "./bowling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowling.jsx"
+    },
+    "./box": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box.jsx"
+    },
+    "./brush": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush.jsx"
+    },
+    "./building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building.jsx"
+    },
+    "./bulb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bulb.jsx"
+    },
+    "./button": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/button.jsx"
+    },
+    "./calculator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera.jsx"
+    },
+    "./car": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car.jsx"
+    },
+    "./card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/card.jsx"
+    },
+    "./chair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chair.jsx"
+    },
+    "./chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat.jsx"
+    },
+    "./clipboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard.jsx"
+    },
+    "./clocks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clocks.jsx"
+    },
+    "./compas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compas.jsx"
+    },
+    "./converse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/converse.jsx"
+    },
+    "./cup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cup.jsx"
+    },
+    "./dj": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dj.jsx"
+    },
+    "./donut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/donut.jsx"
+    },
+    "./dude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dude.jsx"
+    },
+    "./dynamite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dynamite.jsx"
+    },
+    "./earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth.jsx"
+    },
+    "./egg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/egg.jsx"
+    },
+    "./eye": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye.jsx"
+    },
+    "./file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file.jsx"
+    },
+    "./fit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fit.jsx"
+    },
+    "./flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag.jsx"
+    },
+    "./flask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask.jsx"
+    },
+    "./flower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flower.jsx"
+    },
+    "./games": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/games.jsx"
+    },
+    "./gift-box": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-box.jsx"
+    },
+    "./girl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/girl.jsx"
+    },
+    "./goal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goal.jsx"
+    },
+    "./google": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google.jsx"
+    },
+    "./graph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph.jsx"
+    },
+    "./icecream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icecream.jsx"
+    },
+    "./imac": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imac.jsx"
+    },
+    "./ipad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ipad.jsx"
+    },
+    "./iphone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iphone.jsx"
+    },
+    "./key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key.jsx"
+    },
+    "./lettersymbol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lettersymbol.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./loop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loop.jsx"
+    },
+    "./macbook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/macbook.jsx"
+    },
+    "./magic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magic.jsx"
+    },
+    "./magicmouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magicmouse.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
+    "./map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map.jsx"
+    },
+    "./medal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medal.jsx"
+    },
+    "./mic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic.jsx"
+    },
+    "./money": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money.jsx"
+    },
+    "./mortarboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mortarboard.jsx"
+    },
+    "./mountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mountain.jsx"
+    },
+    "./news": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/news.jsx"
+    },
+    "./paper-bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag.jsx"
+    },
+    "./pc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pc.jsx"
+    },
+    "./pencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil.jsx"
+    },
+    "./pencils": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencils.jsx"
+    },
+    "./picture": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picture.jsx"
+    },
+    "./pig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pig.jsx"
+    },
+    "./pills": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pills.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./printer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/printer.jsx"
+    },
+    "./responsive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/responsive.jsx"
+    },
+    "./retina": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retina.jsx"
+    },
+    "./ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ring.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
+    },
+    "./rss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss.jsx"
+    },
+    "./safe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safe.jsx"
+    },
+    "./save": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/save.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./settings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings.jsx"
+    },
+    "./shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield.jsx"
+    },
+    "./shirt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt.jsx"
+    },
+    "./skateboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skateboard.jsx"
+    },
+    "./spray": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spray.jsx"
+    },
+    "./storage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storage.jsx"
+    },
+    "./support": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/support.jsx"
+    },
+    "./ticket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ticket.jsx"
+    },
+    "./toilet-paper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilet-paper.jsx"
+    },
+    "./touch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch.jsx"
+    },
+    "./trash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash.jsx"
+    },
+    "./trip-bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trip-bag.jsx"
+    },
+    "./trunk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trunk.jsx"
+    },
+    "./ubmrella": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubmrella.jsx"
+    },
+    "./user-interface": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-interface.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./weather": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weather.jsx"
+    },
+    "./wi-fi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wi-fi.jsx"
+    },
+    "./wine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wine.jsx"
+    },
+    "./yinyang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yinyang.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#flat-ui"
+}

@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/i/ifu1uib-c.css';
+import '../../css/a/ao5aovb8e.css';
+import '../../css/r/rp97lfoxd.css';
+import '../../css/w/wt3xu0b5y.css';
+import '../../css/o/ohydfkbdo.css';
+import '../../css/h/h6a_5hb-s.css';
+
+const viewBox = {"width":80,"height":80};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="ifu1uib-c"/><path class="ao5aovb8e"/><g clip-path="url(#SVGCJ1qKcFD)" class="rp97lfoxd"><path clip-rule="evenodd" class="wt3xu0b5y"/><path class="ohydfkbdo"/></g><defs><clipPath id="SVGCJ1qKcFD"><path class="h6a_5hb-s"/></clipPath></defs></g>`,
+		"fallback": "glyphs-poly:shield-2",
+	});
+}
+
+export default Component;

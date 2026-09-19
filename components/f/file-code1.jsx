@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/p/pr52f_b5y.css';
+import '../../css/b/bmclaqh6n.css';
+import '../../css/f/firaupb-q.css';
+import '../../css/j/jld36xayb.css';
+import '../../css/y/yw8d2bczl.css';
+import '../../css/g/gwc7mubyo.css';
+import '../../css/g/g2v1ghhpn.css';
+import '../../css/d/dc9_a-8dw.css';
+import '../../css/w/w0tp6nb0c.css';
+import '../../css/e/ebjws-y5t.css';
+import '../../css/c/cm4q0_bxl.css';
+import '../../css/t/t0a--rbop.css';
+import '../../css/e/edleauvrq.css';
+import '../../css/n/nwd_k-d9x.css';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="pr52f_b5y"><path class="bmclaqh6n"/><path class="firaupb-q"/><path class="jld36xayb"/><path class="yw8d2bczl"/><path class="gwc7mubyo"/><path transform="scale(-1 1)" class="g2v1ghhpn"/><path transform="scale(-1)" class="dc9_a-8dw"/><path class="w0tp6nb0c"/><path transform="scale(-1 1)" class="ebjws-y5t"/><path class="cm4q0_bxl"/><path class="t0a--rbop"/><path class="edleauvrq"/><path class="nwd_k-d9x"/></g>`,
+		"fallback": "gala:file-code1",
+	});
+}
+
+export default Component;

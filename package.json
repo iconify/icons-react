@@ -1,0 +1,235 @@
+{
+  "name": "@iconify-react/gala",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/gala/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "GPL-3.0",
+  "exports": {
+    "./add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add.jsx"
+    },
+    "./airplay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airplay.jsx"
+    },
+    "./apple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple.jsx"
+    },
+    "./bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag.jsx"
+    },
+    "./bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell.jsx"
+    },
+    "./book": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book.jsx"
+    },
+    "./brochure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brochure.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./chart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart.jsx"
+    },
+    "./chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./copy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy.jsx"
+    },
+    "./data": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data.jsx"
+    },
+    "./display": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/display.jsx"
+    },
+    "./editor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/editor.jsx"
+    },
+    "./file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file.jsx"
+    },
+    "./file-code1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-code1.jsx"
+    },
+    "./file-code2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-code2.jsx"
+    },
+    "./file-document": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-document.jsx"
+    },
+    "./file-error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-error.jsx"
+    },
+    "./file-script": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-script.jsx"
+    },
+    "./file-spreadsheet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-spreadsheet.jsx"
+    },
+    "./file-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-text.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./help": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./issue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue.jsx"
+    },
+    "./layer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./mouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mouse.jsx"
+    },
+    "./multi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multi.jsx"
+    },
+    "./orbit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orbit.jsx"
+    },
+    "./portrait1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/portrait1.jsx"
+    },
+    "./portrait2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/portrait2.jsx"
+    },
+    "./radar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radar.jsx"
+    },
+    "./remove": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remove.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./secure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/secure.jsx"
+    },
+    "./select": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/select.jsx"
+    },
+    "./settings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings.jsx"
+    },
+    "./shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield.jsx"
+    },
+    "./sidebar-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-left.jsx"
+    },
+    "./sidebar-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-right.jsx"
+    },
+    "./store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/store.jsx"
+    },
+    "./terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal.jsx"
+    },
+    "./tv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tv.jsx"
+    },
+    "./unlock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock.jsx"
+    },
+    "./usb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/usb.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/window.jsx"
+    },
+    "./file-csv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-csv.jsx"
+    },
+    "./file-doc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-doc.jsx"
+    },
+    "./menu-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-left.jsx"
+    },
+    "./menu-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-right.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#gala"
+}

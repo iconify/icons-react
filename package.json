@@ -1,0 +1,215 @@
+{
+  "name": "@iconify-react/ginetex",
+  "type": "module",
+  "version": "1.0.1",
+  "homepage": "https://icon-sets.iconify.design/ginetex/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./30c-fine-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/30c-fine-wash.jsx"
+    },
+    "./30c-mild-fine-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/30c-mild-fine-wash.jsx"
+    },
+    "./30c-very-mild-fine-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/30c-very-mild-fine-wash.jsx"
+    },
+    "./40c-coloured-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/4/40c-coloured-wash.jsx"
+    },
+    "./40c-mild-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/4/40c-mild-wash.jsx"
+    },
+    "./40c-very-mild-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/4/40c-very-mild-wash.jsx"
+    },
+    "./60c-coloured-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/6/60c-coloured-wash.jsx"
+    },
+    "./60c-coloured-wash-easy-care": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/6/60c-coloured-wash-easy-care.jsx"
+    },
+    "./70c-boil-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/7/70c-boil-wash.jsx"
+    },
+    "./95c-boil-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/9/95c-boil-wash.jsx"
+    },
+    "./any-bleach-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/any-bleach-allowed.jsx"
+    },
+    "./bleaching": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bleaching.jsx"
+    },
+    "./do-not-bleach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-bleach.jsx"
+    },
+    "./do-not-dry-clean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-dry-clean.jsx"
+    },
+    "./do-not-iron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-iron.jsx"
+    },
+    "./do-not-wash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-wash.jsx"
+    },
+    "./do-not-wet-clean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-wet-clean.jsx"
+    },
+    "./drip-flat-drying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drip-flat-drying.jsx"
+    },
+    "./drip-flat-drying-in-the-shade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drip-flat-drying-in-the-shade.jsx"
+    },
+    "./drip-line-drying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drip-line-drying.jsx"
+    },
+    "./drip-line-drying-in-the-shade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drip-line-drying-in-the-shade.jsx"
+    },
+    "./dry-cleaning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dry-cleaning.jsx"
+    },
+    "./drying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drying.jsx"
+    },
+    "./flat-drying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-drying.jsx"
+    },
+    "./flat-drying-in-the-shade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-drying-in-the-shade.jsx"
+    },
+    "./hand-wash-ambient-temperature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-wash-ambient-temperature.jsx"
+    },
+    "./hand-wash-at-40c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-wash-at-40c.jsx"
+    },
+    "./hot-iron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hot-iron.jsx"
+    },
+    "./iron-at-low-temperature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iron-at-low-temperature.jsx"
+    },
+    "./iron-at-low-temperature-without-steam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iron-at-low-temperature-without-steam.jsx"
+    },
+    "./iron-at-moderate-temperature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iron-at-moderate-temperature.jsx"
+    },
+    "./ironing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ironing.jsx"
+    },
+    "./line-drying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-drying.jsx"
+    },
+    "./line-drying-in-the-shade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-drying-in-the-shade.jsx"
+    },
+    "./mild-drying-processes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mild-drying-processes.jsx"
+    },
+    "./mild-professional-wet-cleaning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mild-professional-wet-cleaning.jsx"
+    },
+    "./natural-drying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/natural-drying.jsx"
+    },
+    "./normal-drying-process": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/normal-drying-process.jsx"
+    },
+    "./only-oxygen-bleach-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/only-oxygen-bleach-allowed.jsx"
+    },
+    "./professional-care": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/professional-care.jsx"
+    },
+    "./professional-dry-cleaning-in-hydrocarbons-heavy-benzines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/professional-dry-cleaning-in-hydrocarbons-heavy-benzines.jsx"
+    },
+    "./professional-dry-cleaning-in-hydrocarbons-heavy-benzines-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/professional-dry-cleaning-in-hydrocarbons-heavy-benzines-1.jsx"
+    },
+    "./professional-dry-cleaning-in-perchloroethylene-hydrocarbons-heavy-benzines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/professional-dry-cleaning-in-perchloroethylene-hydrocarbons-heavy-benzines.jsx"
+    },
+    "./professional-dry-cleaning-in-perchloroethylene-hydrocarbons-heavy-benzines-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/professional-dry-cleaning-in-perchloroethylene-hydrocarbons-heavy-benzines-1.jsx"
+    },
+    "./professional-wet-cleaning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/professional-wet-cleaning.jsx"
+    },
+    "./tumble-drying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumble-drying.jsx"
+    },
+    "./tumble-drying-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumble-drying-1.jsx"
+    },
+    "./very-mild-professional-wet-cleaning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/very-mild-professional-wet-cleaning.jsx"
+    },
+    "./washing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/washing.jsx"
+    },
+    "./wet-cleaning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wet-cleaning.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#ginetex"
+}

@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/j/jz3u-pjdm.css';
+
+const viewBox = {"width":640,"height":640};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="jz3u-pjdm"/>`,
+		"fallback": "fa7-solid:map-marked",
+	});
+}
+
+export default Component;

@@ -1,0 +1,195 @@
+{
+  "name": "@iconify-react/brandico",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/brandico/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC-BY-SA-3.0",
+  "exports": {
+    "./amex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amex.jsx"
+    },
+    "./bandcamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bandcamp.jsx"
+    },
+    "./blogger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blogger.jsx"
+    },
+    "./blogger-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blogger-rect.jsx"
+    },
+    "./box": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box.jsx"
+    },
+    "./box-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-rect.jsx"
+    },
+    "./codepen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codepen.jsx"
+    },
+    "./deviantart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deviantart.jsx"
+    },
+    "./diigo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diigo.jsx"
+    },
+    "./discover": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discover.jsx"
+    },
+    "./facebook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook.jsx"
+    },
+    "./facebook-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook-rect.jsx"
+    },
+    "./friendfeed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/friendfeed.jsx"
+    },
+    "./friendfeed-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/friendfeed-rect.jsx"
+    },
+    "./github": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github.jsx"
+    },
+    "./github-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-text.jsx"
+    },
+    "./googleplus-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/googleplus-rect.jsx"
+    },
+    "./houzz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/houzz.jsx"
+    },
+    "./icq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icq.jsx"
+    },
+    "./instagram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram.jsx"
+    },
+    "./instagram-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram-filled.jsx"
+    },
+    "./jabber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jabber.jsx"
+    },
+    "./lastfm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lastfm.jsx"
+    },
+    "./lastfm-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lastfm-rect.jsx"
+    },
+    "./linkedin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin.jsx"
+    },
+    "./linkedin-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin-rect.jsx"
+    },
+    "./mastercard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastercard.jsx"
+    },
+    "./odnoklassniki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odnoklassniki.jsx"
+    },
+    "./odnoklassniki-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odnoklassniki-rect.jsx"
+    },
+    "./picasa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picasa.jsx"
+    },
+    "./skype": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skype.jsx"
+    },
+    "./tudou": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tudou.jsx"
+    },
+    "./tumblr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumblr.jsx"
+    },
+    "./tumblr-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumblr-rect.jsx"
+    },
+    "./twitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter.jsx"
+    },
+    "./twitter-bird": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter-bird.jsx"
+    },
+    "./vimeo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vimeo.jsx"
+    },
+    "./vimeo-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vimeo-rect.jsx"
+    },
+    "./visa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visa.jsx"
+    },
+    "./vkontakte-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vkontakte-rect.jsx"
+    },
+    "./win8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/win8.jsx"
+    },
+    "./wordpress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wordpress.jsx"
+    },
+    "./yandex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yandex.jsx"
+    },
+    "./yandex-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yandex-rect.jsx"
+    },
+    "./youku": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youku.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#brandico"
+}

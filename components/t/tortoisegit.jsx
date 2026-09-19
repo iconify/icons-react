@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/s/sz0kxdb2u.css';
+import '../../css/b/b5q998adc.css';
+import '../../css/i/ieesa9btj.css';
+import '../../css/y/yefg016-l.css';
+import '../../css/t/tpuc-hf5m.css';
+
+const viewBox = {"width":128,"height":128};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="sz0kxdb2u"/><path class="b5q998adc"/><path class="ieesa9btj"/><path class="yefg016-l"/><path class="tpuc-hf5m"/>`,
+		"fallback": "devicon:tortoisegit",
+	});
+}
+
+export default Component;

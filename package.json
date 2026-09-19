@@ -1,0 +1,1027 @@
+{
+  "name": "@iconify-react/eos-icons",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/eos-icons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./3d-print": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3d-print.jsx"
+    },
+    "./abstract": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abstract.jsx"
+    },
+    "./abstract-incomplete": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abstract-incomplete.jsx"
+    },
+    "./abstract-instance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abstract-instance.jsx"
+    },
+    "./abstract-instance-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abstract-instance-outlined.jsx"
+    },
+    "./abstract-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abstract-outlined.jsx"
+    },
+    "./action-chains": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/action-chains.jsx"
+    },
+    "./action-chains-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/action-chains-outlined.jsx"
+    },
+    "./activate-subscriptions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activate-subscriptions.jsx"
+    },
+    "./activate-subscriptions-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activate-subscriptions-outlined.jsx"
+    },
+    "./admin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/admin.jsx"
+    },
+    "./admin-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/admin-outlined.jsx"
+    },
+    "./ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai.jsx"
+    },
+    "./ai-healing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-healing.jsx"
+    },
+    "./ai-healing-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-healing-outlined.jsx"
+    },
+    "./ai-operator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-operator.jsx"
+    },
+    "./api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api.jsx"
+    },
+    "./api-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api-outlined.jsx"
+    },
+    "./application": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application.jsx"
+    },
+    "./application-incomplete": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application-incomplete.jsx"
+    },
+    "./application-incomplete-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application-incomplete-outlined.jsx"
+    },
+    "./application-instance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application-instance.jsx"
+    },
+    "./application-instance-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application-instance-outlined.jsx"
+    },
+    "./application-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application-outlined.jsx"
+    },
+    "./application-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application-window.jsx"
+    },
+    "./application-window-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application-window-outlined.jsx"
+    },
+    "./arrow-rotate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-rotate.jsx"
+    },
+    "./atom-electron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atom-electron.jsx"
+    },
+    "./augmented-reality": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/augmented-reality.jsx"
+    },
+    "./autoinstallation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autoinstallation.jsx"
+    },
+    "./background-tasks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/background-tasks.jsx"
+    },
+    "./big-data": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/big-data.jsx"
+    },
+    "./big-data-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/big-data-outlined.jsx"
+    },
+    "./blockchain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blockchain.jsx"
+    },
+    "./bootstrapping": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bootstrapping.jsx"
+    },
+    "./bootstrapping-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bootstrapping-outlined.jsx"
+    },
+    "./branch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/branch.jsx"
+    },
+    "./branch-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/branch-outlined.jsx"
+    },
+    "./bubble-loading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-loading.jsx"
+    },
+    "./cleanup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cleanup.jsx"
+    },
+    "./cloud-computing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-computing.jsx"
+    },
+    "./cloud-computing-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-computing-outlined.jsx"
+    },
+    "./cloud-controller-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-controller-manager.jsx"
+    },
+    "./cluster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cluster.jsx"
+    },
+    "./cluster-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cluster-management.jsx"
+    },
+    "./cluster-management-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cluster-management-outlined.jsx"
+    },
+    "./cluster-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cluster-outlined.jsx"
+    },
+    "./cluster-role": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cluster-role.jsx"
+    },
+    "./cluster-role-binding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cluster-role-binding.jsx"
+    },
+    "./code-deploy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-deploy.jsx"
+    },
+    "./code-deploy-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-deploy-outlined.jsx"
+    },
+    "./collocation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/collocation.jsx"
+    },
+    "./commit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commit.jsx"
+    },
+    "./commit-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commit-outlined.jsx"
+    },
+    "./compare-states": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compare-states.jsx"
+    },
+    "./compare-states-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compare-states-outlined.jsx"
+    },
+    "./compass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass.jsx"
+    },
+    "./config-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-map.jsx"
+    },
+    "./configuration-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/configuration-file.jsx"
+    },
+    "./configuration-file-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/configuration-file-outlined.jsx"
+    },
+    "./constraint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/constraint.jsx"
+    },
+    "./container": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/container.jsx"
+    },
+    "./container-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/container-outlined.jsx"
+    },
+    "./content-deleted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-deleted.jsx"
+    },
+    "./content-lifecycle-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-lifecycle-management.jsx"
+    },
+    "./content-modified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-modified.jsx"
+    },
+    "./content-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-new.jsx"
+    },
+    "./counting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/counting.jsx"
+    },
+    "./critical-bug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/critical-bug.jsx"
+    },
+    "./critical-bug-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/critical-bug-outlined.jsx"
+    },
+    "./cronjob": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cronjob.jsx"
+    },
+    "./csv-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csv-file.jsx"
+    },
+    "./daemon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/daemon.jsx"
+    },
+    "./daemon-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/daemon-outlined.jsx"
+    },
+    "./daemon-set": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/daemon-set.jsx"
+    },
+    "./daemon-set-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/daemon-set-outlined.jsx"
+    },
+    "./data-mining": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-mining.jsx"
+    },
+    "./data-scientist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-scientist.jsx"
+    },
+    "./data-scientist-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-scientist-outlined.jsx"
+    },
+    "./database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database.jsx"
+    },
+    "./database-migration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-migration.jsx"
+    },
+    "./database-migration-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-migration-outlined.jsx"
+    },
+    "./database-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-outlined.jsx"
+    },
+    "./deploy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deploy.jsx"
+    },
+    "./diff-modified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diff-modified.jsx"
+    },
+    "./diff-modified-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diff-modified-outlined.jsx"
+    },
+    "./dns": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dns.jsx"
+    },
+    "./drone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone.jsx"
+    },
+    "./edge-computing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edge-computing.jsx"
+    },
+    "./edge-computing-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edge-computing-outlined.jsx"
+    },
+    "./endpoints": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/endpoints.jsx"
+    },
+    "./endpoints-connected": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/endpoints-connected.jsx"
+    },
+    "./endpoints-disconnected": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/endpoints-disconnected.jsx"
+    },
+    "./enhancement": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/enhancement.jsx"
+    },
+    "./env": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/env.jsx"
+    },
+    "./file-system": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-system.jsx"
+    },
+    "./file-system-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-system-outlined.jsx"
+    },
+    "./flask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask.jsx"
+    },
+    "./fork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork.jsx"
+    },
+    "./fork-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork-outlined.jsx"
+    },
+    "./genomic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/genomic.jsx"
+    },
+    "./hardware-circuit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardware-circuit.jsx"
+    },
+    "./hourglass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hourglass.jsx"
+    },
+    "./inbound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbound.jsx"
+    },
+    "./infinity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity.jsx"
+    },
+    "./ingress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ingress.jsx"
+    },
+    "./init-container": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/init-container.jsx"
+    },
+    "./init-container-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/init-container-outlined.jsx"
+    },
+    "./installing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/installing.jsx"
+    },
+    "./iot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iot.jsx"
+    },
+    "./ip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ip.jsx"
+    },
+    "./ip-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ip-outlined.jsx"
+    },
+    "./job": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/job.jsx"
+    },
+    "./kubelet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubelet.jsx"
+    },
+    "./kubelet-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubelet-outlined.jsx"
+    },
+    "./loading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loading.jsx"
+    },
+    "./locked-env": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/locked-env.jsx"
+    },
+    "./locked-env-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/locked-env-outlined.jsx"
+    },
+    "./machine-learning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/machine-learning.jsx"
+    },
+    "./machine-learning-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/machine-learning-outlined.jsx"
+    },
+    "./master": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/master.jsx"
+    },
+    "./master-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/master-outlined.jsx"
+    },
+    "./merge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge.jsx"
+    },
+    "./merge-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge-outlined.jsx"
+    },
+    "./miscellaneous": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/miscellaneous.jsx"
+    },
+    "./miscellaneous-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/miscellaneous-outlined.jsx"
+    },
+    "./modified-date": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modified-date.jsx"
+    },
+    "./modified-date-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modified-date-outlined.jsx"
+    },
+    "./molecules": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/molecules.jsx"
+    },
+    "./molecules-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/molecules-outlined.jsx"
+    },
+    "./monitoring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitoring.jsx"
+    },
+    "./move": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/move.jsx"
+    },
+    "./multistate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multistate.jsx"
+    },
+    "./namespace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/namespace.jsx"
+    },
+    "./network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network.jsx"
+    },
+    "./network-file-system": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-file-system.jsx"
+    },
+    "./network-file-system-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-file-system-outlined.jsx"
+    },
+    "./network-policy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-policy.jsx"
+    },
+    "./network-policy-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-policy-outlined.jsx"
+    },
+    "./neural-network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neural-network.jsx"
+    },
+    "./node": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/node.jsx"
+    },
+    "./node-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/node-outlined.jsx"
+    },
+    "./organisms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/organisms.jsx"
+    },
+    "./organisms-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/organisms-outlined.jsx"
+    },
+    "./organization": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/organization.jsx"
+    },
+    "./organization-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/organization-outlined.jsx"
+    },
+    "./outbound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/outbound.jsx"
+    },
+    "./package": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package.jsx"
+    },
+    "./package-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-outlined.jsx"
+    },
+    "./package-upgrade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-upgrade.jsx"
+    },
+    "./package-upgrade-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-upgrade-outlined.jsx"
+    },
+    "./packages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/packages.jsx"
+    },
+    "./packages-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/packages-outlined.jsx"
+    },
+    "./patch-fixes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patch-fixes.jsx"
+    },
+    "./patch-fixes-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patch-fixes-outlined.jsx"
+    },
+    "./patterns": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patterns.jsx"
+    },
+    "./patterns-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patterns-outlined.jsx"
+    },
+    "./performance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/performance.jsx"
+    },
+    "./persistent-volume": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/persistent-volume.jsx"
+    },
+    "./pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin.jsx"
+    },
+    "./pin-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-outlined.jsx"
+    },
+    "./pipeline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pipeline.jsx"
+    },
+    "./pipeline-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pipeline-outlined.jsx"
+    },
+    "./pod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod.jsx"
+    },
+    "./pod-autoscaler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod-autoscaler.jsx"
+    },
+    "./pod-autoscaler-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod-autoscaler-outlined.jsx"
+    },
+    "./pod-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod-outlined.jsx"
+    },
+    "./pod-security": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod-security.jsx"
+    },
+    "./pod-security-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod-security-outlined.jsx"
+    },
+    "./primitive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/primitive.jsx"
+    },
+    "./product-classes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-classes.jsx"
+    },
+    "./product-classes-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-classes-outlined.jsx"
+    },
+    "./product-subscriptions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-subscriptions.jsx"
+    },
+    "./product-subscriptions-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-subscriptions-outlined.jsx"
+    },
+    "./products": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/products.jsx"
+    },
+    "./products-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/products-outlined.jsx"
+    },
+    "./project": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/project.jsx"
+    },
+    "./project-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/project-outlined.jsx"
+    },
+    "./proxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proxy.jsx"
+    },
+    "./proxy-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proxy-outlined.jsx"
+    },
+    "./pull-request": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request.jsx"
+    },
+    "./pull-request-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request-outlined.jsx"
+    },
+    "./push-pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/push-pin.jsx"
+    },
+    "./push-pin-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/push-pin-outlined.jsx"
+    },
+    "./quota": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quota.jsx"
+    },
+    "./quota-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quota-outlined.jsx"
+    },
+    "./replica": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replica.jsx"
+    },
+    "./replica-set": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replica-set.jsx"
+    },
+    "./repositories": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repositories.jsx"
+    },
+    "./role-binding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/role-binding.jsx"
+    },
+    "./role-binding-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/role-binding-outlined.jsx"
+    },
+    "./rotating-gear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotating-gear.jsx"
+    },
+    "./route": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route.jsx"
+    },
+    "./sandbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sandbox.jsx"
+    },
+    "./sandbox-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sandbox-outlined.jsx"
+    },
+    "./satellite-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-alt.jsx"
+    },
+    "./satellite-alt-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-alt-outlined.jsx"
+    },
+    "./science": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/science.jsx"
+    },
+    "./science-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/science-outlined.jsx"
+    },
+    "./scientist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scientist.jsx"
+    },
+    "./scientist-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scientist-outlined.jsx"
+    },
+    "./secret": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/secret.jsx"
+    },
+    "./secret-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/secret-outlined.jsx"
+    },
+    "./secure-data": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/secure-data.jsx"
+    },
+    "./secure-data-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/secure-data-outlined.jsx"
+    },
+    "./self-healing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/self-healing.jsx"
+    },
+    "./service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service.jsx"
+    },
+    "./service-instance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-instance.jsx"
+    },
+    "./service-instance-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-instance-outlined.jsx"
+    },
+    "./service-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-outlined.jsx"
+    },
+    "./service-plan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-plan.jsx"
+    },
+    "./service-plan-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-plan-outlined.jsx"
+    },
+    "./snapshot-rollback": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapshot-rollback.jsx"
+    },
+    "./software": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/software.jsx"
+    },
+    "./software-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/software-outlined.jsx"
+    },
+    "./spinner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spinner.jsx"
+    },
+    "./state": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/state.jsx"
+    },
+    "./stateful-set": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stateful-set.jsx"
+    },
+    "./stateful-set-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stateful-set-outlined.jsx"
+    },
+    "./storage-class": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storage-class.jsx"
+    },
+    "./storage-class-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storage-class-outlined.jsx"
+    },
+    "./subscription-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subscription-management.jsx"
+    },
+    "./subscriptions-created": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subscriptions-created.jsx"
+    },
+    "./subscriptions-created-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subscriptions-created-outlined.jsx"
+    },
+    "./symlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symlink.jsx"
+    },
+    "./symlink-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symlink-outlined.jsx"
+    },
+    "./system-group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/system-group.jsx"
+    },
+    "./system-image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/system-image.jsx"
+    },
+    "./system-image-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/system-image-outlined.jsx"
+    },
+    "./system-ok": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/system-ok.jsx"
+    },
+    "./system-ok-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/system-ok-outlined.jsx"
+    },
+    "./system-re-registered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/system-re-registered.jsx"
+    },
+    "./system-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/system-warning.jsx"
+    },
+    "./templates": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/templates.jsx"
+    },
+    "./templates-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/templates-outlined.jsx"
+    },
+    "./terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal.jsx"
+    },
+    "./terminal-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-outlined.jsx"
+    },
+    "./test-tube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube.jsx"
+    },
+    "./three-dots-loading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/three-dots-loading.jsx"
+    },
+    "./timeout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/timeout.jsx"
+    },
+    "./troubleshooting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/troubleshooting.jsx"
+    },
+    "./trusted-organization": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trusted-organization.jsx"
+    },
+    "./typing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typing.jsx"
+    },
+    "./virtual-guest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtual-guest.jsx"
+    },
+    "./virtual-host-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtual-host-manager.jsx"
+    },
+    "./virtual-reality": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtual-reality.jsx"
+    },
+    "./virtual-reality-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtual-reality-outlined.jsx"
+    },
+    "./virtual-space": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtual-space.jsx"
+    },
+    "./volume": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume.jsx"
+    },
+    "./volume-binding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-binding.jsx"
+    },
+    "./volume-binding-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-binding-outlined.jsx"
+    },
+    "./volume-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-outlined.jsx"
+    },
+    "./workload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/workload.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#eos-icons"
+}

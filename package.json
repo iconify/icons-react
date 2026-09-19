@@ -1,0 +1,843 @@
+{
+  "name": "@iconify-react/gridicons",
+  "type": "module",
+  "version": "1.0.4",
+  "homepage": "https://icon-sets.iconify.design/gridicons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "GPL-2.0-only",
+  "exports": {
+    "./add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add.jsx"
+    },
+    "./add-image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-image.jsx"
+    },
+    "./add-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-outline.jsx"
+    },
+    "./align-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center.jsx"
+    },
+    "./align-image-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-image-center.jsx"
+    },
+    "./align-image-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-image-left.jsx"
+    },
+    "./align-image-none": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-image-none.jsx"
+    },
+    "./align-image-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-image-right.jsx"
+    },
+    "./align-justify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-justify.jsx"
+    },
+    "./align-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-left.jsx"
+    },
+    "./align-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-right.jsx"
+    },
+    "./arrow-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down.jsx"
+    },
+    "./arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left.jsx"
+    },
+    "./arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right.jsx"
+    },
+    "./arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up.jsx"
+    },
+    "./aside": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aside.jsx"
+    },
+    "./attachment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attachment.jsx"
+    },
+    "./audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio.jsx"
+    },
+    "./bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell.jsx"
+    },
+    "./block": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/block.jsx"
+    },
+    "./bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bold.jsx"
+    },
+    "./book": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book.jsx"
+    },
+    "./bookmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark.jsx"
+    },
+    "./bookmark-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-outline.jsx"
+    },
+    "./briefcase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase.jsx"
+    },
+    "./bug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera.jsx"
+    },
+    "./caption": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caption.jsx"
+    },
+    "./cart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart.jsx"
+    },
+    "./chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat.jsx"
+    },
+    "./checkmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkmark.jsx"
+    },
+    "./checkmark-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkmark-circle.jsx"
+    },
+    "./chevron-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-down.jsx"
+    },
+    "./chevron-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-left.jsx"
+    },
+    "./chevron-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-right.jsx"
+    },
+    "./chevron-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up.jsx"
+    },
+    "./clear-formatting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-formatting.jsx"
+    },
+    "./clipboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard.jsx"
+    },
+    "./cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud.jsx"
+    },
+    "./cloud-download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-download.jsx"
+    },
+    "./cloud-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-outline.jsx"
+    },
+    "./cloud-upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-upload.jsx"
+    },
+    "./code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code.jsx"
+    },
+    "./cog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cog.jsx"
+    },
+    "./comment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment.jsx"
+    },
+    "./computer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer.jsx"
+    },
+    "./coupon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coupon.jsx"
+    },
+    "./create": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/create.jsx"
+    },
+    "./credit-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card.jsx"
+    },
+    "./crop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop.jsx"
+    },
+    "./cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross.jsx"
+    },
+    "./cross-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross-circle.jsx"
+    },
+    "./cross-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross-small.jsx"
+    },
+    "./custom-post-type": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/custom-post-type.jsx"
+    },
+    "./customize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customize.jsx"
+    },
+    "./domains": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/domains.jsx"
+    },
+    "./dropdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dropdown.jsx"
+    },
+    "./ellipsis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipsis.jsx"
+    },
+    "./ellipsis-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipsis-circle.jsx"
+    },
+    "./external": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/external.jsx"
+    },
+    "./filter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter.jsx"
+    },
+    "./fire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire.jsx"
+    },
+    "./flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag.jsx"
+    },
+    "./flip-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-horizontal.jsx"
+    },
+    "./flip-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-vertical.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./folder-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-multiple.jsx"
+    },
+    "./fullscreen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fullscreen.jsx"
+    },
+    "./fullscreen-exit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fullscreen-exit.jsx"
+    },
+    "./gift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift.jsx"
+    },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid.jsx"
+    },
+    "./heading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading.jsx"
+    },
+    "./heading-h1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading-h1.jsx"
+    },
+    "./heading-h2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading-h2.jsx"
+    },
+    "./heading-h3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading-h3.jsx"
+    },
+    "./heading-h4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading-h4.jsx"
+    },
+    "./heading-h5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading-h5.jsx"
+    },
+    "./heading-h6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading-h6.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./heart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-outline.jsx"
+    },
+    "./help": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help.jsx"
+    },
+    "./help-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help-outline.jsx"
+    },
+    "./history": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history.jsx"
+    },
+    "./house": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./image-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-multiple.jsx"
+    },
+    "./image-remove": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-remove.jsx"
+    },
+    "./indent-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-left.jsx"
+    },
+    "./indent-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-right.jsx"
+    },
+    "./info": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info.jsx"
+    },
+    "./info-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-outline.jsx"
+    },
+    "./ink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ink.jsx"
+    },
+    "./institution": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/institution.jsx"
+    },
+    "./italic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/italic.jsx"
+    },
+    "./layout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout.jsx"
+    },
+    "./layout-blocks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-blocks.jsx"
+    },
+    "./line-graph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-graph.jsx"
+    },
+    "./link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link.jsx"
+    },
+    "./link-break": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-break.jsx"
+    },
+    "./list-checkmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-checkmark.jsx"
+    },
+    "./list-ordered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-ordered.jsx"
+    },
+    "./list-ordered-rtl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-ordered-rtl.jsx"
+    },
+    "./list-unordered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered.jsx"
+    },
+    "./location": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
+    "./mention": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mention.jsx"
+    },
+    "./menu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu.jsx"
+    },
+    "./menus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menus.jsx"
+    },
+    "./microphone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone.jsx"
+    },
+    "./minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus.jsx"
+    },
+    "./minus-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-small.jsx"
+    },
+    "./money": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money.jsx"
+    },
+    "./multiple-users": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multiple-users.jsx"
+    },
+    "./my-sites": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/my-sites.jsx"
+    },
+    "./my-sites-horizon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/my-sites-horizon.jsx"
+    },
+    "./nametag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nametag.jsx"
+    },
+    "./next-page": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-page.jsx"
+    },
+    "./not-visible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/not-visible.jsx"
+    },
+    "./notice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notice.jsx"
+    },
+    "./notice-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notice-outline.jsx"
+    },
+    "./offline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/offline.jsx"
+    },
+    "./pages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pages.jsx"
+    },
+    "./pause": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause.jsx"
+    },
+    "./pencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil.jsx"
+    },
+    "./phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone.jsx"
+    },
+    "./pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin.jsx"
+    },
+    "./plans": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plans.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./plugins": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plugins.jsx"
+    },
+    "./plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus.jsx"
+    },
+    "./plus-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-small.jsx"
+    },
+    "./popout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/popout.jsx"
+    },
+    "./posts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/posts.jsx"
+    },
+    "./print": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print.jsx"
+    },
+    "./product": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product.jsx"
+    },
+    "./product-downloadable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-downloadable.jsx"
+    },
+    "./product-external": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-external.jsx"
+    },
+    "./product-virtual": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-virtual.jsx"
+    },
+    "./quote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote.jsx"
+    },
+    "./read-more": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/read-more.jsx"
+    },
+    "./reader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader.jsx"
+    },
+    "./reader-comment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-comment.jsx"
+    },
+    "./reader-external": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-external.jsx"
+    },
+    "./reader-follow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-follow.jsx"
+    },
+    "./reader-follow-conversation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-follow-conversation.jsx"
+    },
+    "./reader-following": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-following.jsx"
+    },
+    "./reader-following-conversation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-following-conversation.jsx"
+    },
+    "./reader-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-share.jsx"
+    },
+    "./reader-star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reader-star.jsx"
+    },
+    "./reblog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reblog.jsx"
+    },
+    "./recent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recent.jsx"
+    },
+    "./redo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redo.jsx"
+    },
+    "./refresh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh.jsx"
+    },
+    "./refund": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refund.jsx"
+    },
+    "./reply": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reply.jsx"
+    },
+    "./resize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/resize.jsx"
+    },
+    "./rotate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate.jsx"
+    },
+    "./scheduled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scheduled.jsx"
+    },
+    "./science": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/science.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share.jsx"
+    },
+    "./share-computer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-computer.jsx"
+    },
+    "./share-ios": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-ios.jsx"
+    },
+    "./shipping": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shipping.jsx"
+    },
+    "./shutter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shutter.jsx"
+    },
+    "./sign-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sign-out.jsx"
+    },
+    "./site": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/site.jsx"
+    },
+    "./spam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spam.jsx"
+    },
+    "./speaker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/speaker.jsx"
+    },
+    "./special-character": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/special-character.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./star-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-outline.jsx"
+    },
+    "./stats": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats.jsx"
+    },
+    "./stats-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats-alt.jsx"
+    },
+    "./stats-alt-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats-alt-2.jsx"
+    },
+    "./stats-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats-down.jsx"
+    },
+    "./stats-down-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats-down-alt.jsx"
+    },
+    "./stats-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats-up.jsx"
+    },
+    "./stats-up-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats-up-alt.jsx"
+    },
+    "./status": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status.jsx"
+    },
+    "./story": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/story.jsx"
+    },
+    "./strikethrough": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strikethrough.jsx"
+    },
+    "./sync": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sync.jsx"
+    },
+    "./tablet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tablet.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./text-color": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-color.jsx"
+    },
+    "./themes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/themes.jsx"
+    },
+    "./thumbs-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-up.jsx"
+    },
+    "./time": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time.jsx"
+    },
+    "./trash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash.jsx"
+    },
+    "./trending": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending.jsx"
+    },
+    "./trophy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trophy.jsx"
+    },
+    "./types": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/types.jsx"
+    },
+    "./underline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/underline.jsx"
+    },
+    "./undo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undo.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./user-add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-add.jsx"
+    },
+    "./user-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./video-camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-camera.jsx"
+    },
+    "./video-remove": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-remove.jsx"
+    },
+    "./visible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visible.jsx"
+    },
+    "./zoom-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-in.jsx"
+    },
+    "./zoom-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-out.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#gridicons"
+}

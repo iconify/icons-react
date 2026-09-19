@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/w/wj6jfsbht.css';
+import '../../css/z/zalemybnx.css';
+
+const viewBox = {"width":512,"height":512};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="wj6jfsbht"/><path class="zalemybnx"/>`,
+		"fallback": "fxemoji:poultryleg",
+	});
+}
+
+export default Component;

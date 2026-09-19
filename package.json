@@ -1,0 +1,327 @@
+{
+  "name": "@iconify-react/codex",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/codex/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./add-background": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-background.jsx"
+    },
+    "./add-border": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-border.jsx"
+    },
+    "./align-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center.jsx"
+    },
+    "./align-justify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-justify.jsx"
+    },
+    "./align-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-left.jsx"
+    },
+    "./align-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-right.jsx"
+    },
+    "./bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bold.jsx"
+    },
+    "./brackets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brackets.jsx"
+    },
+    "./brackets-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brackets-vertical.jsx"
+    },
+    "./check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check.jsx"
+    },
+    "./checklist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checklist.jsx"
+    },
+    "./chevron-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-down.jsx"
+    },
+    "./chevron-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-left.jsx"
+    },
+    "./chevron-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-right.jsx"
+    },
+    "./chevron-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up.jsx"
+    },
+    "./clipboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard.jsx"
+    },
+    "./collapse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/collapse.jsx"
+    },
+    "./color": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/color.jsx"
+    },
+    "./copy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy.jsx"
+    },
+    "./cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross.jsx"
+    },
+    "./curly-brackets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curly-brackets.jsx"
+    },
+    "./delimiter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delimiter.jsx"
+    },
+    "./direction-down-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-down-right.jsx"
+    },
+    "./direction-left-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-left-down.jsx"
+    },
+    "./direction-right-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-right-down.jsx"
+    },
+    "./direction-up-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-up-right.jsx"
+    },
+    "./dot-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dot-circle.jsx"
+    },
+    "./etc-horisontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/etc-horisontal.jsx"
+    },
+    "./etc-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/etc-vertical.jsx"
+    },
+    "./file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file.jsx"
+    },
+    "./gift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift.jsx"
+    },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./h1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h1.jsx"
+    },
+    "./h2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h2.jsx"
+    },
+    "./h3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h3.jsx"
+    },
+    "./h4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h4.jsx"
+    },
+    "./h5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h5.jsx"
+    },
+    "./h6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h6.jsx"
+    },
+    "./heading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./hidden": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hidden.jsx"
+    },
+    "./html": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html.jsx"
+    },
+    "./instagram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram.jsx"
+    },
+    "./italic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/italic.jsx"
+    },
+    "./link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link.jsx"
+    },
+    "./linkedin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin.jsx"
+    },
+    "./list-bulleted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-bulleted.jsx"
+    },
+    "./list-numbered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-numbered.jsx"
+    },
+    "./loader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loader.jsx"
+    },
+    "./marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker.jsx"
+    },
+    "./menu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu.jsx"
+    },
+    "./menu-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-small.jsx"
+    },
+    "./picture": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picture.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus.jsx"
+    },
+    "./question": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question.jsx"
+    },
+    "./quote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote.jsx"
+    },
+    "./redo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redo.jsx"
+    },
+    "./remove-background": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remove-background.jsx"
+    },
+    "./replace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replace.jsx"
+    },
+    "./save": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/save.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./stretch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stretch.jsx"
+    },
+    "./strikethrough": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strikethrough.jsx"
+    },
+    "./table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table.jsx"
+    },
+    "./table-with-headings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-with-headings.jsx"
+    },
+    "./table-without-headings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-without-headings.jsx"
+    },
+    "./text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text.jsx"
+    },
+    "./translate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate.jsx"
+    },
+    "./trash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash.jsx"
+    },
+    "./twitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter.jsx"
+    },
+    "./underline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/underline.jsx"
+    },
+    "./undo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undo.jsx"
+    },
+    "./unlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlink.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./users-group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/users-group.jsx"
+    },
+    "./warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warning.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#codex"
+}

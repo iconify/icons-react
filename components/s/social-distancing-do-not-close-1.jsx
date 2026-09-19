@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/h/hntgybcog.css';
+import '../../css/v/v3sj5xh4o.css';
+import '../../css/s/sc6t3k8wf.css';
+import '../../css/h/h58nbxbdd.css';
+
+const viewBox = {"width":24,"height":25};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="hntgybcog"><path class="v3sj5xh4o"/><path class="sc6t3k8wf"/><path class="h58nbxbdd"/></g>`,
+		"fallback": "covid:social-distancing-do-not-close-1",
+	});
+}
+
+export default Component;

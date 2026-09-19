@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/b/bc1fd0lxe.css';
+import '../../css/p/p-omwrg-z.css';
+import '../../css/o/odjjfk8-t.css';
+import '../../css/l/lpph90syc.css';
+import '../../css/z/zhmv2h01p.css';
+import '../../css/u/uie5hganl.css';
+import '../../css/d/dlksd0b4d.css';
+
+const viewBox = {"width":512,"height":512};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<mask id="SVGqdEcMdXs"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGqdEcMdXs)"><path class="p-omwrg-z"/><path class="odjjfk8-t"/><circle class="lpph90syc"/><circle class="zhmv2h01p"/><path class="uie5hganl"/><path class="dlksd0b4d"/></g>`,
+		"fallback": "circle-flags:pirate",
+	});
+}
+
+export default Component;

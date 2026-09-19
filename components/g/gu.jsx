@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/b/bc1fd0lxe.css';
+import '../../css/d/d0_rmwbgb.css';
+import '../../css/w/wh71m4bqn.css';
+import '../../css/d/dq-4tabui.css';
+import '../../css/t/tz3g9lvdp.css';
+import '../../css/u/uct80jb0p.css';
+import '../../css/d/du_8ut9hm.css';
+import '../../css/j/jsycjbc0e.css';
+import '../../css/y/yjg0wowyx.css';
+
+const viewBox = {"width":512,"height":512};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<mask id="SVGqdEcMdXs"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGqdEcMdXs)"><path class="d0_rmwbgb"/><path class="wh71m4bqn"/><path class="dq-4tabui"/><path class="tz3g9lvdp"/><path class="uct80jb0p"/><path class="du_8ut9hm"/><path class="jsycjbc0e"/><path class="yjg0wowyx"/></g>`,
+		"fallback": "circle-flags:gu",
+	});
+}
+
+export default Component;

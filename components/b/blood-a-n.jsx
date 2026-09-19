@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/s/skuh4r3wi.css';
+import '../../css/u/uam7o_q-z.css';
+import '../../css/b/bl595ebnf.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="skuh4r3wi"/><path class="uam7o_q-z"/><path clip-rule="evenodd" class="bl595ebnf"/></g>`,
+		"fallback": "healthicons:blood-a-n",
+	});
+}
+
+export default Component;

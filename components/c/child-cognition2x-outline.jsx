@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/k/kje9bbc1f.css';
+import '../../css/l/l5wvy5nfl.css';
+import '../../css/b/b6ckcbcik.css';
+import '../../css/l/lh9yiybsb.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="kje9bbc1f"/><path clip-rule="evenodd" class="l5wvy5nfl"/><path class="b6ckcbcik"/><path clip-rule="evenodd" class="lh9yiybsb"/></g>`,
+		"fallback": "healthicons:child-cognition2x-outline",
+	});
+}
+
+export default Component;

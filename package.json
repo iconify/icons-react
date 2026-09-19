@@ -1,0 +1,3219 @@
+{
+  "name": "@iconify-react/devicon-plain",
+  "type": "module",
+  "version": "1.0.8",
+  "homepage": "https://icon-sets.iconify.design/devicon-plain/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./aarch64": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aarch64.jsx"
+    },
+    "./aframe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aframe.jsx"
+    },
+    "./aftereffects": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aftereffects.jsx"
+    },
+    "./aiassistant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aiassistant.jsx"
+    },
+    "./aiassistant-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aiassistant-wordmark.jsx"
+    },
+    "./akka": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/akka.jsx"
+    },
+    "./akka-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/akka-wordmark.jsx"
+    },
+    "./almalinux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/almalinux.jsx"
+    },
+    "./almalinux-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/almalinux-wordmark.jsx"
+    },
+    "./amazonwebservices": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amazonwebservices.jsx"
+    },
+    "./android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android.jsx"
+    },
+    "./android-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android-wordmark.jsx"
+    },
+    "./androidstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/androidstudio.jsx"
+    },
+    "./androidstudio-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/androidstudio-wordmark.jsx"
+    },
+    "./angular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular.jsx"
+    },
+    "./angular-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-wordmark.jsx"
+    },
+    "./angularjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angularjs.jsx"
+    },
+    "./angularjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angularjs-wordmark.jsx"
+    },
+    "./angularmaterial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angularmaterial.jsx"
+    },
+    "./ansible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansible.jsx"
+    },
+    "./ansible-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansible-wordmark.jsx"
+    },
+    "./ansys": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansys.jsx"
+    },
+    "./ansys-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansys-wordmark.jsx"
+    },
+    "./apache": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache.jsx"
+    },
+    "./apache-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache-wordmark.jsx"
+    },
+    "./apacheairflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apacheairflow.jsx"
+    },
+    "./apacheairflow-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apacheairflow-wordmark.jsx"
+    },
+    "./apacheignite-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apacheignite-wordmark.jsx"
+    },
+    "./apachespark-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apachespark-wordmark.jsx"
+    },
+    "./apify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apify.jsx"
+    },
+    "./apify-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apify-wordmark.jsx"
+    },
+    "./apl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apl.jsx"
+    },
+    "./appcelerator-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appcelerator-wordmark.jsx"
+    },
+    "./appwrite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appwrite.jsx"
+    },
+    "./appwrite-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appwrite-wordmark.jsx"
+    },
+    "./archlinux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archlinux.jsx"
+    },
+    "./archlinux-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archlinux-wordmark.jsx"
+    },
+    "./arduino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arduino.jsx"
+    },
+    "./arduino-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arduino-wordmark.jsx"
+    },
+    "./argocd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/argocd.jsx"
+    },
+    "./argocd-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/argocd-wordmark.jsx"
+    },
+    "./artixlinux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artixlinux.jsx"
+    },
+    "./artixlinux-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artixlinux-wordmark.jsx"
+    },
+    "./astro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astro.jsx"
+    },
+    "./astro-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astro-wordmark.jsx"
+    },
+    "./awk-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/awk-wordmark.jsx"
+    },
+    "./axios": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/axios.jsx"
+    },
+    "./axios-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/axios-wordmark.jsx"
+    },
+    "./azure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure.jsx"
+    },
+    "./azure-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-wordmark.jsx"
+    },
+    "./azuredatafactory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azuredatafactory.jsx"
+    },
+    "./azuredevops": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azuredevops.jsx"
+    },
+    "./azuresqldatabase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azuresqldatabase.jsx"
+    },
+    "./babel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babel.jsx"
+    },
+    "./babylonjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babylonjs.jsx"
+    },
+    "./babylonjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babylonjs-wordmark.jsx"
+    },
+    "./backbonejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backbonejs.jsx"
+    },
+    "./backbonejs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backbonejs-wordmark.jsx"
+    },
+    "./bash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bash.jsx"
+    },
+    "./bazel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel.jsx"
+    },
+    "./bazel-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel-wordmark.jsx"
+    },
+    "./beats": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beats.jsx"
+    },
+    "./behance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/behance.jsx"
+    },
+    "./behance-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/behance-wordmark.jsx"
+    },
+    "./bevyengine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bevyengine.jsx"
+    },
+    "./bevyengine-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bevyengine-wordmark.jsx"
+    },
+    "./biome-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biome-wordmark.jsx"
+    },
+    "./bootstrap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bootstrap.jsx"
+    },
+    "./bootstrap-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bootstrap-wordmark.jsx"
+    },
+    "./bower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bower.jsx"
+    },
+    "./bower-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bower-wordmark.jsx"
+    },
+    "./browserstack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserstack.jsx"
+    },
+    "./browserstack-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserstack-wordmark.jsx"
+    },
+    "./bruno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bruno.jsx"
+    },
+    "./bruno-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bruno-wordmark.jsx"
+    },
+    "./bulma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bulma.jsx"
+    },
+    "./bun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bun.jsx"
+    },
+    "./burpsuite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/burpsuite.jsx"
+    },
+    "./burpsuite-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/burpsuite-wordmark.jsx"
+    },
+    "./c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c.jsx"
+    },
+    "./cachyos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cachyos.jsx"
+    },
+    "./cairo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cairo.jsx"
+    },
+    "./cairo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cairo-wordmark.jsx"
+    },
+    "./cake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cake.jsx"
+    },
+    "./cakephp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cakephp.jsx"
+    },
+    "./cakephp-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cakephp-wordmark.jsx"
+    },
+    "./capacitor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/capacitor.jsx"
+    },
+    "./capacitor-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/capacitor-wordmark.jsx"
+    },
+    "./cassandra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cassandra.jsx"
+    },
+    "./cassandra-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cassandra-wordmark.jsx"
+    },
+    "./centos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/centos.jsx"
+    },
+    "./centos-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/centos-wordmark.jsx"
+    },
+    "./ceph-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ceph-wordmark.jsx"
+    },
+    "./ceylon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ceylon.jsx"
+    },
+    "./ceylon-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ceylon-wordmark.jsx"
+    },
+    "./chakraui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chakraui.jsx"
+    },
+    "./chakraui-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chakraui-wordmark.jsx"
+    },
+    "./chrome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chrome.jsx"
+    },
+    "./chrome-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chrome-wordmark.jsx"
+    },
+    "./circleci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circleci.jsx"
+    },
+    "./circleci-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circleci-wordmark.jsx"
+    },
+    "./clarity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clarity.jsx"
+    },
+    "./clarity-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clarity-wordmark.jsx"
+    },
+    "./claude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/claude.jsx"
+    },
+    "./clickhouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clickhouse.jsx"
+    },
+    "./clion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clion.jsx"
+    },
+    "./clion-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clion-wordmark.jsx"
+    },
+    "./cloudflare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudflare.jsx"
+    },
+    "./cloudflare-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudflare-wordmark.jsx"
+    },
+    "./cloudflareworkers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudflareworkers.jsx"
+    },
+    "./cloudflareworkers-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudflareworkers-wordmark.jsx"
+    },
+    "./cloudrun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudrun.jsx"
+    },
+    "./cmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake.jsx"
+    },
+    "./cmake-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake-wordmark.jsx"
+    },
+    "./codeberg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeberg.jsx"
+    },
+    "./codeberg-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeberg-wordmark.jsx"
+    },
+    "./codecov": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codecov.jsx"
+    },
+    "./codeigniter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeigniter.jsx"
+    },
+    "./codeigniter-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeigniter-wordmark.jsx"
+    },
+    "./codepen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codepen.jsx"
+    },
+    "./codex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codex.jsx"
+    },
+    "./confluence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confluence.jsx"
+    },
+    "./confluence-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confluence-wordmark.jsx"
+    },
+    "./consul-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/consul-wordmark.jsx"
+    },
+    "./cordova": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cordova.jsx"
+    },
+    "./cordova-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cordova-wordmark.jsx"
+    },
+    "./cosmosdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cosmosdb.jsx"
+    },
+    "./cosmosdb-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cosmosdb-wordmark.jsx"
+    },
+    "./couchbase-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/couchbase-wordmark.jsx"
+    },
+    "./couchdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/couchdb.jsx"
+    },
+    "./couchdb-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/couchdb-wordmark.jsx"
+    },
+    "./cplusplus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cplusplus.jsx"
+    },
+    "./csharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csharp.jsx"
+    },
+    "./css": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css.jsx"
+    },
+    "./css3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css3.jsx"
+    },
+    "./css3-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css3-wordmark.jsx"
+    },
+    "./cucumber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cucumber.jsx"
+    },
+    "./cucumber-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cucumber-wordmark.jsx"
+    },
+    "./cursor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor.jsx"
+    },
+    "./cypressio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cypressio.jsx"
+    },
+    "./cypressio-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cypressio-wordmark.jsx"
+    },
+    "./dart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart.jsx"
+    },
+    "./dart-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart-wordmark.jsx"
+    },
+    "./datagrip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datagrip.jsx"
+    },
+    "./datagrip-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datagrip-wordmark.jsx"
+    },
+    "./dataspell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataspell.jsx"
+    },
+    "./dataspell-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataspell-wordmark.jsx"
+    },
+    "./dbeaver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dbeaver.jsx"
+    },
+    "./debian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/debian.jsx"
+    },
+    "./debian-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/debian-wordmark.jsx"
+    },
+    "./delphi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delphi.jsx"
+    },
+    "./devicon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devicon.jsx"
+    },
+    "./devicon-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devicon-wordmark.jsx"
+    },
+    "./digitalocean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digitalocean.jsx"
+    },
+    "./digitalocean-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digitalocean-wordmark.jsx"
+    },
+    "./discloud-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discloud-wordmark.jsx"
+    },
+    "./discordjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discordjs.jsx"
+    },
+    "./discordjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discordjs-wordmark.jsx"
+    },
+    "./django": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/django.jsx"
+    },
+    "./django-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/django-wordmark.jsx"
+    },
+    "./djangorest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/djangorest.jsx"
+    },
+    "./djangorest-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/djangorest-wordmark.jsx"
+    },
+    "./docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker.jsx"
+    },
+    "./docker-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-wordmark.jsx"
+    },
+    "./doctrine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doctrine.jsx"
+    },
+    "./doctrine-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doctrine-wordmark.jsx"
+    },
+    "./dot-net": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dot-net.jsx"
+    },
+    "./dot-net-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dot-net-wordmark.jsx"
+    },
+    "./dotnetcore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dotnetcore.jsx"
+    },
+    "./dovecot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dovecot.jsx"
+    },
+    "./dreamweaver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dreamweaver.jsx"
+    },
+    "./dropwizard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dropwizard.jsx"
+    },
+    "./drupal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drupal.jsx"
+    },
+    "./drupal-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drupal-wordmark.jsx"
+    },
+    "./duckdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duckdb.jsx"
+    },
+    "./dyalog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dyalog.jsx"
+    },
+    "./dynamodb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dynamodb.jsx"
+    },
+    "./dynatrace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dynatrace.jsx"
+    },
+    "./dynatrace-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dynatrace-wordmark.jsx"
+    },
+    "./eclipse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipse.jsx"
+    },
+    "./eclipse-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipse-wordmark.jsx"
+    },
+    "./ecto-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ecto-wordmark.jsx"
+    },
+    "./elasticsearch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elasticsearch.jsx"
+    },
+    "./elasticsearch-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elasticsearch-wordmark.jsx"
+    },
+    "./eleventy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eleventy.jsx"
+    },
+    "./elixir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir.jsx"
+    },
+    "./elixir-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir-wordmark.jsx"
+    },
+    "./elm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elm.jsx"
+    },
+    "./elm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elm-wordmark.jsx"
+    },
+    "./emailjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emailjs-wordmark.jsx"
+    },
+    "./embeddedc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/embeddedc.jsx"
+    },
+    "./embeddedc-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/embeddedc-wordmark.jsx"
+    },
+    "./ember": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ember.jsx"
+    },
+    "./entityframeworkcore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entityframeworkcore.jsx"
+    },
+    "./envoy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envoy.jsx"
+    },
+    "./envoy-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envoy-wordmark.jsx"
+    },
+    "./erlang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/erlang.jsx"
+    },
+    "./erlang-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/erlang-wordmark.jsx"
+    },
+    "./eslint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint.jsx"
+    },
+    "./eslint-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint-wordmark.jsx"
+    },
+    "./facebook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook.jsx"
+    },
+    "./fastapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fastapi.jsx"
+    },
+    "./fastapi-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fastapi-wordmark.jsx"
+    },
+    "./fastify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fastify.jsx"
+    },
+    "./fastify-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fastify-wordmark.jsx"
+    },
+    "./fedora": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fedora.jsx"
+    },
+    "./fiber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fiber.jsx"
+    },
+    "./figma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma.jsx"
+    },
+    "./filezilla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filezilla.jsx"
+    },
+    "./filezilla-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filezilla-wordmark.jsx"
+    },
+    "./firebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase.jsx"
+    },
+    "./firebase-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase-wordmark.jsx"
+    },
+    "./firebird": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebird.jsx"
+    },
+    "./firefox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firefox.jsx"
+    },
+    "./firefox-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firefox-wordmark.jsx"
+    },
+    "./fish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fish.jsx"
+    },
+    "./flutter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flutter.jsx"
+    },
+    "./forgejo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forgejo.jsx"
+    },
+    "./forgejo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forgejo-wordmark.jsx"
+    },
+    "./foundation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/foundation.jsx"
+    },
+    "./foundation-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/foundation-wordmark.jsx"
+    },
+    "./frankenphp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frankenphp.jsx"
+    },
+    "./frankenphp-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frankenphp-wordmark.jsx"
+    },
+    "./fsharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fsharp.jsx"
+    },
+    "./fusion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fusion.jsx"
+    },
+    "./gardener": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gardener.jsx"
+    },
+    "./gatling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatling.jsx"
+    },
+    "./gatling-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatling-wordmark.jsx"
+    },
+    "./gatsby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsby.jsx"
+    },
+    "./gatsby-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsby-wordmark.jsx"
+    },
+    "./gazebo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gazebo.jsx"
+    },
+    "./gazebo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gazebo-wordmark.jsx"
+    },
+    "./gcc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gcc.jsx"
+    },
+    "./gentoo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gentoo.jsx"
+    },
+    "./gentoo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gentoo-wordmark.jsx"
+    },
+    "./ghidra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghidra.jsx"
+    },
+    "./gimp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gimp.jsx"
+    },
+    "./gimp-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gimp-wordmark.jsx"
+    },
+    "./git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git.jsx"
+    },
+    "./git-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-wordmark.jsx"
+    },
+    "./gitea-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitea-wordmark.jsx"
+    },
+    "./githubactions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/githubactions.jsx"
+    },
+    "./githubactions-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/githubactions-wordmark.jsx"
+    },
+    "./githubcodespaces": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/githubcodespaces.jsx"
+    },
+    "./githubcopilot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/githubcopilot.jsx"
+    },
+    "./githubcopilot-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/githubcopilot-wordmark.jsx"
+    },
+    "./gitkraken-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitkraken-wordmark.jsx"
+    },
+    "./gitlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab.jsx"
+    },
+    "./gitlab-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab-wordmark.jsx"
+    },
+    "./gitpod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitpod.jsx"
+    },
+    "./gitpod-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitpod-wordmark.jsx"
+    },
+    "./gitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitter.jsx"
+    },
+    "./gitter-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitter-wordmark.jsx"
+    },
+    "./gleam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gleam.jsx"
+    },
+    "./glitch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glitch.jsx"
+    },
+    "./gnuradio-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnuradio-wordmark.jsx"
+    },
+    "./go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go.jsx"
+    },
+    "./godot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot.jsx"
+    },
+    "./godot-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot-wordmark.jsx"
+    },
+    "./goland": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goland.jsx"
+    },
+    "./goland-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goland-wordmark.jsx"
+    },
+    "./google": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google.jsx"
+    },
+    "./google-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-wordmark.jsx"
+    },
+    "./googleappscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/googleappscript.jsx"
+    },
+    "./googlecloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/googlecloud.jsx"
+    },
+    "./googlecloud-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/googlecloud-wordmark.jsx"
+    },
+    "./googlecolab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/googlecolab.jsx"
+    },
+    "./gradle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle.jsx"
+    },
+    "./gradle-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle-wordmark.jsx"
+    },
+    "./grafana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafana.jsx"
+    },
+    "./grafana-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafana-wordmark.jsx"
+    },
+    "./grafanaloki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafanaloki.jsx"
+    },
+    "./grafanaloki-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafanaloki-wordmark.jsx"
+    },
+    "./grails": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grails.jsx"
+    },
+    "./graphql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql.jsx"
+    },
+    "./graphql-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql-wordmark.jsx"
+    },
+    "./groovy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groovy.jsx"
+    },
+    "./grpc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grpc.jsx"
+    },
+    "./grunt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grunt.jsx"
+    },
+    "./grunt-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grunt-wordmark.jsx"
+    },
+    "./gulp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gulp.jsx"
+    },
+    "./hadoop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hadoop.jsx"
+    },
+    "./hadoop-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hadoop-wordmark.jsx"
+    },
+    "./haproxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haproxy.jsx"
+    },
+    "./haproxy-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haproxy-wordmark.jsx"
+    },
+    "./harbor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harbor.jsx"
+    },
+    "./harbor-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harbor-wordmark.jsx"
+    },
+    "./hardhat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardhat.jsx"
+    },
+    "./hardhat-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardhat-wordmark.jsx"
+    },
+    "./harvester-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harvester-wordmark.jsx"
+    },
+    "./haskell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haskell.jsx"
+    },
+    "./haskell-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haskell-wordmark.jsx"
+    },
+    "./haxe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxe.jsx"
+    },
+    "./helix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helix.jsx"
+    },
+    "./heroku": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heroku.jsx"
+    },
+    "./heroku-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heroku-wordmark.jsx"
+    },
+    "./hibernate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hibernate.jsx"
+    },
+    "./hibernate-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hibernate-wordmark.jsx"
+    },
+    "./homebrew": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homebrew.jsx"
+    },
+    "./homebrew-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homebrew-wordmark.jsx"
+    },
+    "./hoppscotch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hoppscotch.jsx"
+    },
+    "./html5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html5.jsx"
+    },
+    "./html5-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html5-wordmark.jsx"
+    },
+    "./htmx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/htmx.jsx"
+    },
+    "./htmx-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/htmx-wordmark.jsx"
+    },
+    "./huggingface": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/huggingface.jsx"
+    },
+    "./huggingface-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/huggingface-wordmark.jsx"
+    },
+    "./hugo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hugo.jsx"
+    },
+    "./hugo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hugo-wordmark.jsx"
+    },
+    "./hyperv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hyperv.jsx"
+    },
+    "./hyprland": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hyprland.jsx"
+    },
+    "./hyprland-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hyprland-wordmark.jsx"
+    },
+    "./illustrator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/illustrator.jsx"
+    },
+    "./inertiajs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inertiajs.jsx"
+    },
+    "./inertiajs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inertiajs-wordmark.jsx"
+    },
+    "./inkscape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inkscape.jsx"
+    },
+    "./inkscape-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inkscape-wordmark.jsx"
+    },
+    "./insomnia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/insomnia.jsx"
+    },
+    "./insomnia-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/insomnia-wordmark.jsx"
+    },
+    "./intellij": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intellij.jsx"
+    },
+    "./intellij-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intellij-wordmark.jsx"
+    },
+    "./jaegertracing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jaegertracing.jsx"
+    },
+    "./jaegertracing-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jaegertracing-wordmark.jsx"
+    },
+    "./jamstack-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jamstack-wordmark.jsx"
+    },
+    "./jasmine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jasmine.jsx"
+    },
+    "./jasmine-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jasmine-wordmark.jsx"
+    },
+    "./java": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java.jsx"
+    },
+    "./java-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-wordmark.jsx"
+    },
+    "./javascript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript.jsx"
+    },
+    "./jeet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jeet.jsx"
+    },
+    "./jeet-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jeet-wordmark.jsx"
+    },
+    "./jekyll": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jekyll.jsx"
+    },
+    "./jekyll-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jekyll-wordmark.jsx"
+    },
+    "./jenkins": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jenkins.jsx"
+    },
+    "./jest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jest.jsx"
+    },
+    "./jetbrains": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jetbrains.jsx"
+    },
+    "./jetpackcompose": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jetpackcompose.jsx"
+    },
+    "./jetpackcompose-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jetpackcompose-wordmark.jsx"
+    },
+    "./jhipster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jhipster.jsx"
+    },
+    "./jhipster-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jhipster-wordmark.jsx"
+    },
+    "./jira": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jira.jsx"
+    },
+    "./jira-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jira-wordmark.jsx"
+    },
+    "./jiraalign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jiraalign.jsx"
+    },
+    "./jiraalign-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jiraalign-wordmark.jsx"
+    },
+    "./jquery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jquery.jsx"
+    },
+    "./jquery-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jquery-wordmark.jsx"
+    },
+    "./json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json.jsx"
+    },
+    "./julia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/julia.jsx"
+    },
+    "./julia-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/julia-wordmark.jsx"
+    },
+    "./junie-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/junie-wordmark.jsx"
+    },
+    "./junit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/junit.jsx"
+    },
+    "./junit-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/junit-wordmark.jsx"
+    },
+    "./jupyter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jupyter.jsx"
+    },
+    "./jupyter-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jupyter-wordmark.jsx"
+    },
+    "./jwt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jwt.jsx"
+    },
+    "./jwt-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jwt-wordmark.jsx"
+    },
+    "./k3os-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/k3os-wordmark.jsx"
+    },
+    "./k3s-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/k3s-wordmark.jsx"
+    },
+    "./kaldi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kaldi.jsx"
+    },
+    "./kaldi-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kaldi-wordmark.jsx"
+    },
+    "./kalilinux-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kalilinux-wordmark.jsx"
+    },
+    "./karatelabs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karatelabs.jsx"
+    },
+    "./karatelabs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karatelabs-wordmark.jsx"
+    },
+    "./karma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karma.jsx"
+    },
+    "./kdeneon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kdeneon.jsx"
+    },
+    "./keras": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keras.jsx"
+    },
+    "./keras-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keras-wordmark.jsx"
+    },
+    "./kibana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kibana.jsx"
+    },
+    "./kibana-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kibana-wordmark.jsx"
+    },
+    "./knexjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knexjs-wordmark.jsx"
+    },
+    "./knockout-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knockout-wordmark.jsx"
+    },
+    "./kotlin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin.jsx"
+    },
+    "./kotlin-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin-wordmark.jsx"
+    },
+    "./krakenjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/krakenjs.jsx"
+    },
+    "./krakenjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/krakenjs-wordmark.jsx"
+    },
+    "./ktor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ktor.jsx"
+    },
+    "./ktor-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ktor-wordmark.jsx"
+    },
+    "./kubeflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubeflow.jsx"
+    },
+    "./kubeflow-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubeflow-wordmark.jsx"
+    },
+    "./kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes.jsx"
+    },
+    "./kubernetes-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes-wordmark.jsx"
+    },
+    "./labview": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/labview.jsx"
+    },
+    "./labview-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/labview-wordmark.jsx"
+    },
+    "./laravel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel.jsx"
+    },
+    "./laravel-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel-wordmark.jsx"
+    },
+    "./laraveljetstream-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laraveljetstream-wordmark.jsx"
+    },
+    "./leetcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leetcode.jsx"
+    },
+    "./leetcode-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leetcode-wordmark.jsx"
+    },
+    "./less-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/less-wordmark.jsx"
+    },
+    "./libgdx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/libgdx.jsx"
+    },
+    "./linkedin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin.jsx"
+    },
+    "./linkedin-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin-wordmark.jsx"
+    },
+    "./linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux.jsx"
+    },
+    "./linuxmint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linuxmint.jsx"
+    },
+    "./linuxmint-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linuxmint-wordmark.jsx"
+    },
+    "./livewire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/livewire.jsx"
+    },
+    "./livewire-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/livewire-wordmark.jsx"
+    },
+    "./llvm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/llvm.jsx"
+    },
+    "./lodash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lodash.jsx"
+    },
+    "./logstash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logstash.jsx"
+    },
+    "./logstash-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logstash-wordmark.jsx"
+    },
+    "./lovable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lovable.jsx"
+    },
+    "./lovable-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lovable-wordmark.jsx"
+    },
+    "./love2d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/love2d.jsx"
+    },
+    "./lua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua.jsx"
+    },
+    "./lua-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-wordmark.jsx"
+    },
+    "./luau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau.jsx"
+    },
+    "./magento-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magento-wordmark.jsx"
+    },
+    "./materializecss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/materializecss.jsx"
+    },
+    "./materialui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/materialui.jsx"
+    },
+    "./matlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matlab.jsx"
+    },
+    "./matplotlib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matplotlib.jsx"
+    },
+    "./matplotlib-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matplotlib-wordmark.jsx"
+    },
+    "./maven": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maven.jsx"
+    },
+    "./maven-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maven-wordmark.jsx"
+    },
+    "./maya": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maya.jsx"
+    },
+    "./maya-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maya-wordmark.jsx"
+    },
+    "./memcached": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memcached.jsx"
+    },
+    "./memcached-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memcached-wordmark.jsx"
+    },
+    "./mercurial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mercurial.jsx"
+    },
+    "./mercurial-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mercurial-wordmark.jsx"
+    },
+    "./metabase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metabase.jsx"
+    },
+    "./meteor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meteor.jsx"
+    },
+    "./meteor-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meteor-wordmark.jsx"
+    },
+    "./microsoftsqlserver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoftsqlserver.jsx"
+    },
+    "./microsoftsqlserver-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoftsqlserver-wordmark.jsx"
+    },
+    "./minitab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minitab.jsx"
+    },
+    "./mobx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobx.jsx"
+    },
+    "./mocha": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mocha.jsx"
+    },
+    "./modx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modx.jsx"
+    },
+    "./modx-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modx-wordmark.jsx"
+    },
+    "./mongock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongock.jsx"
+    },
+    "./mongodb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongodb.jsx"
+    },
+    "./mongodb-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongodb-wordmark.jsx"
+    },
+    "./monogame-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monogame-wordmark.jsx"
+    },
+    "./moodle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moodle.jsx"
+    },
+    "./moodle-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moodle-wordmark.jsx"
+    },
+    "./msbuild": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/msbuild.jsx"
+    },
+    "./msdos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/msdos.jsx"
+    },
+    "./mysql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysql.jsx"
+    },
+    "./mysql-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysql-wordmark.jsx"
+    },
+    "./n8n-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/n8n-wordmark.jsx"
+    },
+    "./nano": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nano.jsx"
+    },
+    "./nano-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nano-wordmark.jsx"
+    },
+    "./nasm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nasm.jsx"
+    },
+    "./nasm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nasm-wordmark.jsx"
+    },
+    "./nats": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nats.jsx"
+    },
+    "./neo4j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neo4j.jsx"
+    },
+    "./neo4j-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neo4j-wordmark.jsx"
+    },
+    "./neovim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neovim.jsx"
+    },
+    "./neovim-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neovim-wordmark.jsx"
+    },
+    "./nestjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nestjs.jsx"
+    },
+    "./nestjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nestjs-wordmark.jsx"
+    },
+    "./netbeans": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netbeans.jsx"
+    },
+    "./netbeans-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netbeans-wordmark.jsx"
+    },
+    "./netbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netbox.jsx"
+    },
+    "./netbox-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netbox-wordmark.jsx"
+    },
+    "./netlify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify.jsx"
+    },
+    "./netlify-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify-wordmark.jsx"
+    },
+    "./networkx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/networkx.jsx"
+    },
+    "./networkx-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/networkx-wordmark.jsx"
+    },
+    "./newrelic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newrelic.jsx"
+    },
+    "./nextjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextjs.jsx"
+    },
+    "./ngrx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx.jsx"
+    },
+    "./nhibernate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nhibernate.jsx"
+    },
+    "./nhibernate-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nhibernate-wordmark.jsx"
+    },
+    "./nim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nim.jsx"
+    },
+    "./nim-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nim-wordmark.jsx"
+    },
+    "./nimble": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nimble.jsx"
+    },
+    "./nixos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nixos.jsx"
+    },
+    "./nixos-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nixos-wordmark.jsx"
+    },
+    "./nodejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs.jsx"
+    },
+    "./nodejs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs-wordmark.jsx"
+    },
+    "./nodemon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodemon.jsx"
+    },
+    "./nodered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodered.jsx"
+    },
+    "./nodewebkit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodewebkit.jsx"
+    },
+    "./nodewebkit-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodewebkit-wordmark.jsx"
+    },
+    "./nomad-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nomad-wordmark.jsx"
+    },
+    "./norg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/norg.jsx"
+    },
+    "./notion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notion.jsx"
+    },
+    "./novelwriter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/novelwriter.jsx"
+    },
+    "./npm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm.jsx"
+    },
+    "./npss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npss.jsx"
+    },
+    "./numpy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/numpy.jsx"
+    },
+    "./numpy-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/numpy-wordmark.jsx"
+    },
+    "./nuxt-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxt-wordmark.jsx"
+    },
+    "./nuxtjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxtjs.jsx"
+    },
+    "./nuxtjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxtjs-wordmark.jsx"
+    },
+    "./oauth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oauth.jsx"
+    },
+    "./objectivec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/objectivec.jsx"
+    },
+    "./ocaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ocaml.jsx"
+    },
+    "./ocaml-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ocaml-wordmark.jsx"
+    },
+    "./odin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odin.jsx"
+    },
+    "./odin-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odin-wordmark.jsx"
+    },
+    "./ohmyzsh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ohmyzsh.jsx"
+    },
+    "./okta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/okta.jsx"
+    },
+    "./okta-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/okta-wordmark.jsx"
+    },
+    "./openal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openal.jsx"
+    },
+    "./openapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openapi.jsx"
+    },
+    "./openapi-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openapi-wordmark.jsx"
+    },
+    "./opencl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencl.jsx"
+    },
+    "./opencv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencv.jsx"
+    },
+    "./opencv-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencv-wordmark.jsx"
+    },
+    "./opengl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opengl.jsx"
+    },
+    "./openstack-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openstack-wordmark.jsx"
+    },
+    "./opensuse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opensuse.jsx"
+    },
+    "./opensuse-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opensuse-wordmark.jsx"
+    },
+    "./opentelemetry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentelemetry.jsx"
+    },
+    "./opentelemetry-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentelemetry-wordmark.jsx"
+    },
+    "./opera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opera.jsx"
+    },
+    "./opera-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opera-wordmark.jsx"
+    },
+    "./opnsense-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opnsense-wordmark.jsx"
+    },
+    "./packer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/packer.jsx"
+    },
+    "./packer-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/packer-wordmark.jsx"
+    },
+    "./pandas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pandas.jsx"
+    },
+    "./pandas-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pandas-wordmark.jsx"
+    },
+    "./passport": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport.jsx"
+    },
+    "./perl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perl.jsx"
+    },
+    "./phalcon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phalcon.jsx"
+    },
+    "./phoenix-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phoenix-wordmark.jsx"
+    },
+    "./photonengine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photonengine.jsx"
+    },
+    "./photoshop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photoshop.jsx"
+    },
+    "./php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php.jsx"
+    },
+    "./phpstorm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpstorm.jsx"
+    },
+    "./phpstorm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpstorm-wordmark.jsx"
+    },
+    "./pixijs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixijs.jsx"
+    },
+    "./pixijs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixijs-wordmark.jsx"
+    },
+    "./playwright": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playwright.jsx"
+    },
+    "./plotly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plotly.jsx"
+    },
+    "./plotly-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plotly-wordmark.jsx"
+    },
+    "./pm2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pm2.jsx"
+    },
+    "./pm2-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pm2-wordmark.jsx"
+    },
+    "./pnpm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm.jsx"
+    },
+    "./pnpm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm-wordmark.jsx"
+    },
+    "./podman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/podman.jsx"
+    },
+    "./podman-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/podman-wordmark.jsx"
+    },
+    "./poetry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poetry.jsx"
+    },
+    "./polygon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon.jsx"
+    },
+    "./polygon-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon-wordmark.jsx"
+    },
+    "./positron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/positron.jsx"
+    },
+    "./postcss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcss.jsx"
+    },
+    "./postcss-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcss-wordmark.jsx"
+    },
+    "./postgresql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postgresql.jsx"
+    },
+    "./postgresql-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postgresql-wordmark.jsx"
+    },
+    "./postman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postman.jsx"
+    },
+    "./postman-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postman-wordmark.jsx"
+    },
+    "./powershell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powershell.jsx"
+    },
+    "./premierepro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/premierepro.jsx"
+    },
+    "./prestashop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prestashop.jsx"
+    },
+    "./prestashop-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prestashop-wordmark.jsx"
+    },
+    "./primeng": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/primeng.jsx"
+    },
+    "./processing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processing.jsx"
+    },
+    "./processing-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processing-wordmark.jsx"
+    },
+    "./processwire-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processwire-wordmark.jsx"
+    },
+    "./prolog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prolog.jsx"
+    },
+    "./prolog-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prolog-wordmark.jsx"
+    },
+    "./prometheus-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prometheus-wordmark.jsx"
+    },
+    "./protractor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/protractor.jsx"
+    },
+    "./protractor-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/protractor-wordmark.jsx"
+    },
+    "./proxmox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proxmox.jsx"
+    },
+    "./proxmox-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proxmox-wordmark.jsx"
+    },
+    "./pug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pug.jsx"
+    },
+    "./pulumi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulumi.jsx"
+    },
+    "./pulumi-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulumi-wordmark.jsx"
+    },
+    "./puppeteer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puppeteer.jsx"
+    },
+    "./putty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/putty.jsx"
+    },
+    "./pycharm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pycharm.jsx"
+    },
+    "./pycharm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pycharm-wordmark.jsx"
+    },
+    "./pypi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pypi.jsx"
+    },
+    "./pypi-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pypi-wordmark.jsx"
+    },
+    "./pyscript-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pyscript-wordmark.jsx"
+    },
+    "./pytest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytest.jsx"
+    },
+    "./pytest-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytest-wordmark.jsx"
+    },
+    "./python": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python.jsx"
+    },
+    "./python-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-wordmark.jsx"
+    },
+    "./pytorch-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytorch-wordmark.jsx"
+    },
+    "./qodana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodana.jsx"
+    },
+    "./qodana-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodana-wordmark.jsx"
+    },
+    "./quarkus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quarkus.jsx"
+    },
+    "./quarkus-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quarkus-wordmark.jsx"
+    },
+    "./quasar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quasar.jsx"
+    },
+    "./quasar-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quasar-wordmark.jsx"
+    },
+    "./qwik": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwik.jsx"
+    },
+    "./qwik-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwik-wordmark.jsx"
+    },
+    "./r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r.jsx"
+    },
+    "./rabbitmq-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rabbitmq-wordmark.jsx"
+    },
+    "./racket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racket.jsx"
+    },
+    "./radstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radstudio.jsx"
+    },
+    "./rails": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rails.jsx"
+    },
+    "./rails-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rails-wordmark.jsx"
+    },
+    "./rancher-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rancher-wordmark.jsx"
+    },
+    "./raspberrypi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raspberrypi.jsx"
+    },
+    "./raspberrypi-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raspberrypi-wordmark.jsx"
+    },
+    "./reach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reach.jsx"
+    },
+    "./reactrouter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reactrouter.jsx"
+    },
+    "./reactrouter-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reactrouter-wordmark.jsx"
+    },
+    "./realm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/realm.jsx"
+    },
+    "./realm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/realm-wordmark.jsx"
+    },
+    "./rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rect.jsx"
+    },
+    "./redhat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redhat.jsx"
+    },
+    "./redhat-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redhat-wordmark.jsx"
+    },
+    "./redis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redis.jsx"
+    },
+    "./redis-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redis-wordmark.jsx"
+    },
+    "./reflex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reflex.jsx"
+    },
+    "./reflex-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reflex-wordmark.jsx"
+    },
+    "./renpy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/renpy.jsx"
+    },
+    "./replit-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replit-wordmark.jsx"
+    },
+    "./rexx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rexx.jsx"
+    },
+    "./rexx-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rexx-wordmark.jsx"
+    },
+    "./rider": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rider.jsx"
+    },
+    "./rider-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rider-wordmark.jsx"
+    },
+    "./rocksdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocksdb.jsx"
+    },
+    "./rockylinux-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rockylinux-wordmark.jsx"
+    },
+    "./rollup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollup.jsx"
+    },
+    "./rollup-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollup-wordmark.jsx"
+    },
+    "./rspec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rspec.jsx"
+    },
+    "./rspec-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rspec-wordmark.jsx"
+    },
+    "./rstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rstudio.jsx"
+    },
+    "./ruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby.jsx"
+    },
+    "./ruby-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby-wordmark.jsx"
+    },
+    "./rubymine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rubymine.jsx"
+    },
+    "./rubymine-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rubymine-wordmark.jsx"
+    },
+    "./rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust.jsx"
+    },
+    "./rxjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rxjs.jsx"
+    },
+    "./safari": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safari.jsx"
+    },
+    "./safari-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safari-wordmark.jsx"
+    },
+    "./salesforce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salesforce.jsx"
+    },
+    "./sanity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sanity.jsx"
+    },
+    "./scala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala.jsx"
+    },
+    "./scala-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala-wordmark.jsx"
+    },
+    "./scalingo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scalingo.jsx"
+    },
+    "./scalingo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scalingo-wordmark.jsx"
+    },
+    "./scikitlearn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scikitlearn.jsx"
+    },
+    "./sdl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sdl.jsx"
+    },
+    "./seaborn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/seaborn.jsx"
+    },
+    "./seaborn-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/seaborn-wordmark.jsx"
+    },
+    "./sequelize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sequelize.jsx"
+    },
+    "./sequelize-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sequelize-wordmark.jsx"
+    },
+    "./sfml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sfml.jsx"
+    },
+    "./shotgrid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shotgrid.jsx"
+    },
+    "./sketch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketch.jsx"
+    },
+    "./sketch-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketch-wordmark.jsx"
+    },
+    "./slack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slack.jsx"
+    },
+    "./slack-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slack-wordmark.jsx"
+    },
+    "./solidity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidity.jsx"
+    },
+    "./solidjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidjs.jsx"
+    },
+    "./solidjs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidjs-wordmark.jsx"
+    },
+    "./sonarqube-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sonarqube-wordmark.jsx"
+    },
+    "./sourceengine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sourceengine.jsx"
+    },
+    "./sourceengine-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sourceengine-wordmark.jsx"
+    },
+    "./spack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spack.jsx"
+    },
+    "./spicedb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spicedb.jsx"
+    },
+    "./spring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spring.jsx"
+    },
+    "./spring-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spring-wordmark.jsx"
+    },
+    "./spss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spss.jsx"
+    },
+    "./spyder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spyder.jsx"
+    },
+    "./spyder-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spyder-wordmark.jsx"
+    },
+    "./sqlalchemy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqlalchemy.jsx"
+    },
+    "./sqlalchemy-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqlalchemy-wordmark.jsx"
+    },
+    "./sqldeveloper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqldeveloper.jsx"
+    },
+    "./sqlite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqlite.jsx"
+    },
+    "./sqlite-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqlite-wordmark.jsx"
+    },
+    "./stackblitz-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackblitz-wordmark.jsx"
+    },
+    "./stackoverflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow.jsx"
+    },
+    "./stackoverflow-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow-wordmark.jsx"
+    },
+    "./starship": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/starship.jsx"
+    },
+    "./starship-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/starship-wordmark.jsx"
+    },
+    "./stenciljs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stenciljs.jsx"
+    },
+    "./stenciljs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stenciljs-wordmark.jsx"
+    },
+    "./stimulus-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stimulus-wordmark.jsx"
+    },
+    "./storybook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook.jsx"
+    },
+    "./storybook-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook-wordmark.jsx"
+    },
+    "./streamlit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/streamlit.jsx"
+    },
+    "./streamlit-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/streamlit-wordmark.jsx"
+    },
+    "./styledcomponents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/styledcomponents.jsx"
+    },
+    "./styledcomponents-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/styledcomponents-wordmark.jsx"
+    },
+    "./subversion-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subversion-wordmark.jsx"
+    },
+    "./supabase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supabase.jsx"
+    },
+    "./supabase-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supabase-wordmark.jsx"
+    },
+    "./surrealdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/surrealdb.jsx"
+    },
+    "./surrealdb-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/surrealdb-wordmark.jsx"
+    },
+    "./svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte.jsx"
+    },
+    "./svelte-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte-wordmark.jsx"
+    },
+    "./svgo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svgo.jsx"
+    },
+    "./svgo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svgo-wordmark.jsx"
+    },
+    "./swagger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swagger.jsx"
+    },
+    "./swagger-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swagger-wordmark.jsx"
+    },
+    "./swift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swift.jsx"
+    },
+    "./swift-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swift-wordmark.jsx"
+    },
+    "./tailwindcss-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwindcss-wordmark.jsx"
+    },
+    "./talos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/talos.jsx"
+    },
+    "./tauri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tauri.jsx"
+    },
+    "./tauri-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tauri-wordmark.jsx"
+    },
+    "./teamcity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teamcity.jsx"
+    },
+    "./teamcity-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teamcity-wordmark.jsx"
+    },
+    "./terraform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform.jsx"
+    },
+    "./terraform-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform-wordmark.jsx"
+    },
+    "./testrail-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/testrail-wordmark.jsx"
+    },
+    "./thealgorithms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thealgorithms.jsx"
+    },
+    "./thealgorithms-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thealgorithms-wordmark.jsx"
+    },
+    "./threedsmax": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/threedsmax.jsx"
+    },
+    "./thymeleaf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thymeleaf.jsx"
+    },
+    "./thymeleaf-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thymeleaf-wordmark.jsx"
+    },
+    "./tinygo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tinygo.jsx"
+    },
+    "./tmux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tmux.jsx"
+    },
+    "./tmux-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tmux-wordmark.jsx"
+    },
+    "./tortoisegit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tortoisegit.jsx"
+    },
+    "./towergit-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/towergit-wordmark.jsx"
+    },
+    "./traefikmesh-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traefikmesh-wordmark.jsx"
+    },
+    "./traefikproxy-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traefikproxy-wordmark.jsx"
+    },
+    "./travis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/travis.jsx"
+    },
+    "./travis-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/travis-wordmark.jsx"
+    },
+    "./trello": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trello.jsx"
+    },
+    "./trello-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trello-wordmark.jsx"
+    },
+    "./trpc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trpc.jsx"
+    },
+    "./trpc-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trpc-wordmark.jsx"
+    },
+    "./turbo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turbo-wordmark.jsx"
+    },
+    "./typeorm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typeorm.jsx"
+    },
+    "./typeorm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typeorm-wordmark.jsx"
+    },
+    "./typer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typer.jsx"
+    },
+    "./typer-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typer-wordmark.jsx"
+    },
+    "./typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript.jsx"
+    },
+    "./typo3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typo3.jsx"
+    },
+    "./typo3-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typo3-wordmark.jsx"
+    },
+    "./ubuntu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubuntu.jsx"
+    },
+    "./ubuntu-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubuntu-wordmark.jsx"
+    },
+    "./unifiedmodelinglanguage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unifiedmodelinglanguage.jsx"
+    },
+    "./unifiedmodelinglanguage-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unifiedmodelinglanguage-wordmark.jsx"
+    },
+    "./unity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unity.jsx"
+    },
+    "./unity-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unity-wordmark.jsx"
+    },
+    "./uwsgi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uwsgi.jsx"
+    },
+    "./v8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v8.jsx"
+    },
+    "./vagrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vagrant.jsx"
+    },
+    "./vagrant-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vagrant-wordmark.jsx"
+    },
+    "./vala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vala.jsx"
+    },
+    "./vala-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vala-wordmark.jsx"
+    },
+    "./vapor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vapor.jsx"
+    },
+    "./vapor-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vapor-wordmark.jsx"
+    },
+    "./vault-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vault-wordmark.jsx"
+    },
+    "./vertx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vertx.jsx"
+    },
+    "./vertx-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vertx-wordmark.jsx"
+    },
+    "./vim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim.jsx"
+    },
+    "./visualbasic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visualbasic.jsx"
+    },
+    "./visualstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visualstudio.jsx"
+    },
+    "./visualstudio-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visualstudio-wordmark.jsx"
+    },
+    "./vitejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitejs.jsx"
+    },
+    "./vitess": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitess.jsx"
+    },
+    "./vitess-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitess-wordmark.jsx"
+    },
+    "./vitest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitest.jsx"
+    },
+    "./vlang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vlang.jsx"
+    },
+    "./vscode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode.jsx"
+    },
+    "./vscode-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode-wordmark.jsx"
+    },
+    "./vscodium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscodium.jsx"
+    },
+    "./vsphere": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vsphere.jsx"
+    },
+    "./vsphere-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vsphere-wordmark.jsx"
+    },
+    "./vuejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuejs.jsx"
+    },
+    "./vuejs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuejs-wordmark.jsx"
+    },
+    "./vuestorefront": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuestorefront.jsx"
+    },
+    "./vuetify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuetify.jsx"
+    },
+    "./vyper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vyper.jsx"
+    },
+    "./vyper-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vyper-wordmark.jsx"
+    },
+    "./waku": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waku.jsx"
+    },
+    "./wasm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wasm-wordmark.jsx"
+    },
+    "./wasp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wasp.jsx"
+    },
+    "./web2py": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web2py.jsx"
+    },
+    "./web3js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web3js.jsx"
+    },
+    "./webgpu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webgpu.jsx"
+    },
+    "./webgpu-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webgpu-wordmark.jsx"
+    },
+    "./weblate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weblate.jsx"
+    },
+    "./weblate-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weblate-wordmark.jsx"
+    },
+    "./webpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack.jsx"
+    },
+    "./webpack-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack-wordmark.jsx"
+    },
+    "./webstorm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webstorm.jsx"
+    },
+    "./webstorm-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webstorm-wordmark.jsx"
+    },
+    "./wireguard-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wireguard-wordmark.jsx"
+    },
+    "./wolfram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wolfram.jsx"
+    },
+    "./wolfram-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wolfram-wordmark.jsx"
+    },
+    "./woocommerce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/woocommerce.jsx"
+    },
+    "./woocommerce-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/woocommerce-wordmark.jsx"
+    },
+    "./wordpress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wordpress.jsx"
+    },
+    "./wordpress-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wordpress-wordmark.jsx"
+    },
+    "./xcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xcode.jsx"
+    },
+    "./xd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xd.jsx"
+    },
+    "./xml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xml.jsx"
+    },
+    "./yaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml.jsx"
+    },
+    "./yii": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yii.jsx"
+    },
+    "./yii-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yii-wordmark.jsx"
+    },
+    "./youtrack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youtrack.jsx"
+    },
+    "./youtrack-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youtrack-wordmark.jsx"
+    },
+    "./yugabytedb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yugabytedb.jsx"
+    },
+    "./yugabytedb-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yugabytedb-wordmark.jsx"
+    },
+    "./yunohost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yunohost.jsx"
+    },
+    "./zend": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zend.jsx"
+    },
+    "./zend-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zend-wordmark.jsx"
+    },
+    "./zig-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zig-wordmark.jsx"
+    },
+    "./zsh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zsh.jsx"
+    },
+    "./zsh-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zsh-wordmark.jsx"
+    },
+    "./zustand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zustand.jsx"
+    },
+    "./3dsmax": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3dsmax.jsx"
+    },
+    "./amazonwebservices-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amazonwebservices-wordmark.jsx"
+    },
+    "./web3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web3.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#devicon-plain"
+}

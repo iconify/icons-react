@@ -1,0 +1,355 @@
+{
+  "name": "@iconify-react/websymbol",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/websymbol/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "OFL-1.1",
+  "exports": {
+    "./archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive.jsx"
+    },
+    "./arrows-cw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-cw.jsx"
+    },
+    "./attach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attach.jsx"
+    },
+    "./attention": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attention.jsx"
+    },
+    "./block": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/block.jsx"
+    },
+    "./cancel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cancel.jsx"
+    },
+    "./cancel-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cancel-circle.jsx"
+    },
+    "./chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud.jsx"
+    },
+    "./code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code.jsx"
+    },
+    "./cog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cog.jsx"
+    },
+    "./comment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment.jsx"
+    },
+    "./comment-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment-alt.jsx"
+    },
+    "./cw-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cw-circle.jsx"
+    },
+    "./doc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc.jsx"
+    },
+    "./docs-landscape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docs-landscape.jsx"
+    },
+    "./down-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-circle.jsx"
+    },
+    "./down-dir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-dir.jsx"
+    },
+    "./down-micro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-micro.jsx"
+    },
+    "./facebook-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook-rect.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./font": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/font.jsx"
+    },
+    "./forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward.jsx"
+    },
+    "./googleplus-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/googleplus-rect.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./heart-empty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-empty.jsx"
+    },
+    "./indent-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-left.jsx"
+    },
+    "./indent-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-right.jsx"
+    },
+    "./left-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-circle.jsx"
+    },
+    "./left-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-open.jsx"
+    },
+    "./link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link.jsx"
+    },
+    "./linkedin-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin-rect.jsx"
+    },
+    "./list": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list.jsx"
+    },
+    "./list-numbered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-numbered.jsx"
+    },
+    "./location": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./lock-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-open.jsx"
+    },
+    "./logout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logout.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
+    "./minus-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-circle.jsx"
+    },
+    "./odnoklassniki-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odnoklassniki-rect.jsx"
+    },
+    "./ok": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ok.jsx"
+    },
+    "./ok-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ok-circle.jsx"
+    },
+    "./picture": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picture.jsx"
+    },
+    "./plus-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-circle.jsx"
+    },
+    "./popup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/popup.jsx"
+    },
+    "./progress-0": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-0.jsx"
+    },
+    "./progress-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-1.jsx"
+    },
+    "./progress-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-2.jsx"
+    },
+    "./progress-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-3.jsx"
+    },
+    "./progress-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-4.jsx"
+    },
+    "./progress-5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-5.jsx"
+    },
+    "./progress-6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-6.jsx"
+    },
+    "./progress-7": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-7.jsx"
+    },
+    "./reply": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reply.jsx"
+    },
+    "./reply-all": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reply-all.jsx"
+    },
+    "./resize-full": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/resize-full.jsx"
+    },
+    "./resize-full-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/resize-full-circle.jsx"
+    },
+    "./retweet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retweet.jsx"
+    },
+    "./right-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-circle.jsx"
+    },
+    "./right-dir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-dir.jsx"
+    },
+    "./right-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-open.jsx"
+    },
+    "./rss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss.jsx"
+    },
+    "./rss-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-alt.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal.jsx"
+    },
+    "./skype": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skype.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./target": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/target.jsx"
+    },
+    "./terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal.jsx"
+    },
+    "./th": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/th.jsx"
+    },
+    "./th-large": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/th-large.jsx"
+    },
+    "./th-list": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/th-list.jsx"
+    },
+    "./tumblr-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumblr-rect.jsx"
+    },
+    "./twitter-bird": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter-bird.jsx"
+    },
+    "./up-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-circle.jsx"
+    },
+    "./up-micro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-micro.jsx"
+    },
+    "./updown-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/updown-circle.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./vimeo-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vimeo-rect.jsx"
+    },
+    "./vkontakte-rect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vkontakte-rect.jsx"
+    },
+    "./youtube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youtube.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#websymbol"
+}

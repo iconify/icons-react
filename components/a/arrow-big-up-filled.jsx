@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/o/oez6-234v.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="oez6-234v"/>`,
+		"fallback": "boxicons:arrow-big-up-filled",
+	});
+}
+
+export default Component;

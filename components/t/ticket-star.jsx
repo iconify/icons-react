@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/z/zn1isfbbx.css';
+import '../../css/d/d_e6qbb_q.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="zn1isfbbx"/><path class="d_e6qbb_q"/>`,
+		"fallback": "boxicons:ticket-star",
+	});
+}
+
+export default Component;

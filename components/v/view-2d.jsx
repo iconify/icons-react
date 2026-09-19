@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/a/akta-9j2t.css';
+
+const viewBox = {"width":56,"height":56};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="akta-9j2t"/>`,
+		"fallback": "f7:view-2d",
+	});
+}
+
+export default Component;

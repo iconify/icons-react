@@ -1,0 +1,45 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gp27y-2_s {
+  cx: 19.43px;
+  cy: 19.928px;
+  r: 4.083px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.t7xrq-b1p {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M30.629 28.831c3.346 2.827 11.01 8.916 11.653 10.445s-.181 2.744-1.868 2.291s-8.165-7.912-11.143-11.204m-1.065-12.462a3.83 3.83 0 0 1 .037 3.142c-1.082 1.961-2.351 4.668-4.202 6.563a4.36 4.36 0 0 1-3.83.874a3.6 3.6 0 0 0-2.547.428a3.7 3.7 0 0 1-3.068.335a2.63 2.63 0 0 1-1.71-2.343c.145-1.377-1.286-2.176-2.045-3.16c-.942-1.223-.172-4.95.335-7.326c.367-1.721 2.483-2.143 4.072-3.57c1.282-1.151 3.618-2.428 4.982-1.376a8.8 8.8 0 0 0 2.659 1.525a3.9 3.9 0 0 1 2.175 1.338c1.084 1.388 2.559 2.136 3.142 3.57");
+}
+
+.tvvl_sb7e {
+  cx: 19.5px;
+  cy: 20.337px;
+  r: 14px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+</style><circle class="tvvl_sb7e"/><circle class="gp27y-2_s"/><path class="t7xrq-b1p"/>`,
+		"fallback": "arcticons:based-cooking",
+	});
+}
+
+export default Component;

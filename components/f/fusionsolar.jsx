@@ -1,0 +1,41 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b55unvb8t {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M37.279 19.451A13.72 13.72 0 0 0 25.94 13.47a13.73 13.73 0 0 0-13.733 13.732c0 2.752.81 5.315 2.204 7.464m-4.88-4.596l-5.031.973m6.567-13.106l-4.052-2.748m14.48-4.608l-.972-4.693m13.401 6.595l2.495-4.016");
+}
+
+.k8fdlyyao {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M33.803 19.67a11.08 11.08 0 0 0-8.131-3.552c-4.786 0-8.873 3.048-10.421 7.305a11 11 0 0 0-.664 3.78");
+}
+
+.o-i_i3m5l {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M23.376 23.426L43.5 20.889l-9.554 21.223l-17.165-3.129zm8.995-1.134l-7.948 18.084m-4.399-9.042h18.785m-26.601 4.444l-2.283 1.803m-.749-13.884l-2.894-.296m9.323-10.27l-1.691-2.367m13.923-.676l.311-2.424m10.399 9.187l2.254-1.465m-9.331 5.017a8.8 8.8 0 0 0-12.886 1.882a8.8 8.8 0 0 0-1.008 2");
+}
+</style><path class="o-i_i3m5l"/><path class="k8fdlyyao"/><path class="b55unvb8t"/>`,
+		"fallback": "arcticons:fusionsolar",
+	});
+}
+
+export default Component;

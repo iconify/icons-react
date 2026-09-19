@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.vr5sto_qn {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M22.468 18.28C17.291 24.39 3.5 28.378 3.5 28.378s2.754-.33 4.34 0s3.965-1.388 3.965-1.388s1.434-.118 1.918.04l1.74-1.12l-.551 1.807l.837.703s.33.831.33.813s2.137-3.058 2.137-3.058l.66 2.18l1.697-2.312l.463 1.432l-.463 1.916l.727.353l1.85-2.049l.199-1.656l1.41 1.942l.903.463l.397 1.168l1.365-.838l.309-2.269l1.696 1.917l3.349 1.322l-1.873-2.093l-.727-2.952l1.998 2.108l2.849 2.426l-.769-2.634l1.694-.005l.617 1.013l2.504.09c1.814 1.122 5.429.476 5.429.476c-5.356-1.403-15.203-6.267-18.111-9.893c0 0-1.784-.053-3.921 0");
+}
+</style><path class="vr5sto_qn"/>`,
+		"fallback": "arcticons:japan-communications",
+	});
+}
+
+export default Component;

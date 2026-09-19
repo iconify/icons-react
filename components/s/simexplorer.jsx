@@ -1,0 +1,41 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cqm6v2b7a {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M38.87 28.74h-4.73v2.68h-4.69v2.68h-9.38v-5.36h4.69v-2.68h4.69v-2.68h9.42ZM41.68 13H24.77c-2-.1-5.93-4.23-8.19-4.23h-9.9A2.18 2.18 0 0 0 4.5 11h0v7.29h39v-3.42A1.83 1.83 0 0 0 41.68 13");
+}
+
+.hrll78j7d {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M43.5 18.28h-39V37a2.18 2.18 0 0 0 2.17 2.2h34.65A2.18 2.18 0 0 0 43.5 37h0Z");
+}
+
+.wv4odjb5e {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M29.45 26.06v2.68h4.69m-9.38 0v2.68h4.71");
+}
+</style><path class="cqm6v2b7a"/><path class="hrll78j7d"/><path class="wv4odjb5e"/>`,
+		"fallback": "arcticons:simexplorer",
+	});
+}
+
+export default Component;

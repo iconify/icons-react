@@ -1,0 +1,61 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.d0ojfbbie {
+  width: 4.292px;
+  height: 5.687px;
+  x: 23.583px;
+  y: 26.526px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  rx: 2.146px;
+  ry: 2.146px;
+}
+
+.fh2s3t1yr {
+  cx: 30.073px;
+  cy: 23.897px;
+  r: 0.75px;
+  fill: currentColor;
+}
+
+.heuj-zb6g {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M24.53 12.89v5.74a2.843 2.843 0 1 0 5.687 0v-5.74m-12.434 4.292h2.798m1.494 4.292h-4.292V12.89h4.292M11.5 23.629v8.584h4.292m12.083-5.687v6.438a2.146 2.146 0 0 1-2.146 2.146h0a2.14 2.14 0 0 1-1.518-.628");
+}
+
+.hzpqnlmob {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M9.5 5.5h29a4 4 0 0 1 4 4v29a4 4 0 0 1-4 4h-29a4 4 0 0 1-4-4v-29a4 4 0 0 1 4-4");
+}
+
+.owfe1ccnn {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M30.073 26.526v5.687m6.427 0v-3.54c0-1.186-.96-2.147-2.146-2.147h0a2.146 2.146 0 0 0-2.146 2.146m0 3.541v-5.687m-14.995 2.146a2.146 2.146 0 0 1 4.292 0v1.395a2.146 2.146 0 0 1-4.292 0z");
+}
+</style><path class="hzpqnlmob"/><path class="heuj-zb6g"/><rect transform="matrix(-1 0 0 -1 51.457 58.74)" class="d0ojfbbie"/><circle class="fh2s3t1yr"/><path class="owfe1ccnn"/>`,
+		"fallback": "arcticons:eu-login-mobile",
+	});
+}
+
+export default Component;

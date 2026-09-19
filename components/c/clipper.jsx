@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.uxz4shgft {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m27.81 43.147l9.948-12.673a.923.923 0 0 0-.726-1.492H17.138a.923.923 0 0 0-.726 1.492l9.947 12.673a.923.923 0 0 0 1.451 0M26.652 18.15l-5.939 7.567a.55.55 0 0 0 .433.89h11.877a.55.55 0 0 0 .433-.89l-5.938-7.566a.55.55 0 0 0-.866 0m-9.685 9.189l5.938-7.566a.55.55 0 0 0-.433-.89H10.596a.55.55 0 0 0-.434.89l5.939 7.566a.55.55 0 0 0 .866 0m9.798-17.314l-4.385 5.587a.407.407 0 0 0 .32.658h8.77c.339 0 .53-.391.32-.658l-4.385-5.587a.407.407 0 0 0-.64 0m.32-5.526l-3.078 3.921h6.155zm-10.482 8.275l-3.477 4.429h6.954zm0-4.541l-2.473 3.151h4.946zm0-3.734l-1.84 2.345h3.68z");
+}
+</style><path class="uxz4shgft"/>`,
+		"fallback": "arcticons:clipper",
+	});
+}
+
+export default Component;

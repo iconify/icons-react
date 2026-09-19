@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.qm-1rdblb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M5.5 41.8V6.2m27.762 5.31H42.5m-15.08 0h1.627m-6.937 0h1.096m-9.326 0h4.015M5.5 11.511h4.164M42.5 41.8V6.2m-1.834 13.544H42.5m-7.676 0h1.627m-14.106 0h8.264m-13.84 0h1.36m-12.629 0h7.053m25.489 8.232H42.5m-12.455 0h3.782m-11.482 0h3.485m-9.061 0h1.36m-12.629 0h7.053M9.664 11.51a2.108 2.108 0 1 0 4.216.001a2.108 2.108 0 0 0-4.216 0m8.231-.001a2.108 2.108 0 1 0 4.216.001a2.108 2.108 0 0 0-4.216 0m5.311-.001a2.108 2.108 0 1 0 4.215.004v-.003a2.108 2.108 0 1 0-4.215 0m5.841-.001a2.108 2.108 0 1 0 4.216.001a2.108 2.108 0 0 0-4.216 0m-16.494 8.233a2.108 2.108 0 1 0 4.215 0h0a2.108 2.108 0 1 0-4.215 0m5.577 0a2.108 2.108 0 1 0 4.215 0h0a2.108 2.108 0 1 0-4.216 0m12.48 0a2.108 2.108 0 1 0 4.215 0h0a2.108 2.108 0 1 0-4.215 0m5.841 0a2.108 2.108 0 1 0 4.216 0h0a2.108 2.108 0 1 0-4.215 0m-23.898 8.232a2.108 2.108 0 1 0 4.216 0a2.108 2.108 0 0 0-4.216 0m5.577 0a2.108 2.108 0 1 0 4.215 0a2.108 2.108 0 0 0-4.216 0m7.701 0a2.108 2.108 0 1 0 4.215 0a2.108 2.108 0 0 0-4.216 0m7.998 0a2.108 2.108 0 1 0 4.215 0a2.108 2.108 0 0 0-4.215 0");
+}
+</style><path class="qm-1rdblb"/>`,
+		"fallback": "arcticons:emoji-abacus",
+	});
+}
+
+export default Component;

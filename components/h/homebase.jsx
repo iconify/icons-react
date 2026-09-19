@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.f3-ghe2fy {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  d: path("M29.276 43.5a.43.43 0 0 1-.416-.416V27.679c0-3.33-1.75-4.385-4.496-4.385c-1.86 0-3.278.748-4.274 1.633a2.8 2.8 0 0 0-.976 2.114v16.043a.43.43 0 0 1-.416.416h-7.826a.43.43 0 0 1-.416-.416V4.916c0-.22.195-.416.416-.416h7.826c.221 0 .416.195.416.416v13.63c0 .357.443.552.697.305c1.776-1.665 4.716-3.246 8.717-3.246c6.187 0 9.016 3.493 9.016 8.522v18.957a.43.43 0 0 1-.416.416z");
+}
+</style><path class="f3-ghe2fy"/>`,
+		"fallback": "arcticons:homebase",
+	});
+}
+
+export default Component;

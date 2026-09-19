@@ -1,0 +1,48 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ewp7szb3n {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M17.365 20.384v4.962a3.007 3.007 0 0 0 3.007 3.007h0a3.007 3.007 0 0 0 3.008-3.007v-4.962");
+}
+
+.f1tt0d4id {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M35.447 20.384v7.969M11.5 17.902v7.444a3.007 3.007 0 0 0 3.008 3.007h.407M11.5 20.384h3.039m11.801 3.007a3.007 3.007 0 0 1 3.008-3.007h0a3.007 3.007 0 0 1 3.008 3.007v1.955a3.007 3.007 0 0 1-3.008 3.007h0a3.007 3.007 0 0 1-3.007-3.007m0 0v-9.023");
+}
+
+.f7f2h1b2c {
+  cx: 35.447px;
+  cy: 16.699px;
+  r: 0.75px;
+  fill: currentColor;
+}
+
+.uo47pyvli {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M9.5 42.5h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4");
+}
+</style><path class="uo47pyvli"/><path class="ewp7szb3n"/><circle class="f7f2h1b2c"/><path class="f1tt0d4id"/>`,
+		"fallback": "arcticons:tubi",
+	});
+}
+
+export default Component;

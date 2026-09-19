@@ -1,0 +1,45 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fsg5_ubsv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M23.224 31.315h5.278a4.113 4.113 0 0 0 4.113-4.113h0a4.113 4.113 0 0 0-4.114-4.114H15.386");
+}
+
+.s4_gmnovw {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M30.542 10.903V7.268A2.77 2.77 0 0 0 27.774 4.5h-7.548a2.77 2.77 0 0 0-2.768 2.768v3.635");
+}
+
+.tk1y-acic {
+  width: 29.99px;
+  height: 32.597px;
+  x: 9.005px;
+  y: 10.903px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  rx: 1.384px;
+}
+</style><path class="fsg5_ubsv"/><rect class="tk1y-acic"/><path class="s4_gmnovw"/>`,
+		"fallback": "arcticons:dasher",
+	});
+}
+
+export default Component;

@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.immc8tb4r {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M8.904 37.132c-.396 1.312-2.28 2.78-3.404 2.951l30.283.008c1.113 0 1.56-.295 2.015-2.015S42.5 16.812 42.5 16.812c0-.371-.3-.672-.672-.672H14.236c-.371 0-.672.3-.672.672c0 0-4.264 19.007-4.66 20.32");
+}
+
+.thfopg6av {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M35.758 16.14v-4.948l-18.362-.002a.244.244 0 0 1-.241-.247l-.046-1.02c-.078-1.2-.9-2.016-2.013-2.016H7.515A2.015 2.015 0 0 0 5.5 9.922v30.171");
+}
+</style><path class="thfopg6av"/><path class="immc8tb4r"/>`,
+		"fallback": "arcticons:emoji-open-file-folder",
+	});
+}
+
+export default Component;

@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ktoerlbuz {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M15.293 9.588S4.55 13.002 4.5 17.388c-.044 3.874 7.78 5.1 10.797 7.528c2.848 2.293 4.306 4.667 7.603 5.778c7.355 1.849 14.006-1.364 20.487-4.175");
+}
+
+.ynljd-b1k {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M18.423 27.776s1.343 1.201 1.938 1.874c2.291 2.59 4.357 7.414 6.249 8.28c4.766 2.18 16.89-3.741 16.89-3.741M9.697 22.13s1.823.885 2.75.95c.929.065 2.219-.147 2.618-.532c1.11-1.074-.277-3.452.793-4.567c.737-.768 2.235-1.264 3.122-.674c.858.572.948 2.086.563 3.043c-.563 1.4-3.098 1.249-3.675 2.643c-.18.433-.189 1.46.064 2.12c.235.613 1.272 1.503 1.272 1.503");
+}
+</style><path class="ktoerlbuz"/><path class="ynljd-b1k"/>`,
+		"fallback": "arcticons:vertical-life",
+	});
+}
+
+export default Component;

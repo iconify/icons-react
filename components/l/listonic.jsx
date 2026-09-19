@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ufojpybmg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M12.968 41.684A7.465 7.465 0 0 1 5.5 34.217V6.316h2.23c0 1.005.818 1.822 1.823 1.822s1.823-.817 1.823-1.822h2.408c0 1.005.807 1.822 1.812 1.822s1.823-.817 1.823-1.822h2.409c0 1.005.817 1.822 1.822 1.822s1.822-.817 1.822-1.822h2.41a1.823 1.823 0 0 0 3.645 0h2.23v27.367");
+}
+
+.xaufo0dhk {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M12.967 41.684a7.466 7.466 0 0 0 7.466-7.467H42.5a7.466 7.466 0 0 1-7.466 7.467zm-1.358-25.856H27.23m-15.621 6.519H27.23m-15.621 6.519H27.23");
+}
+</style><path class="xaufo0dhk"/><path class="ufojpybmg"/>`,
+		"fallback": "arcticons:listonic",
+	});
+}
+
+export default Component;

@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.yjy4facvu {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m11.315 11.315l.048-4.709l4.492 1.409l1.501-4.463l3.838 2.729L24 2.5l2.806 3.781l3.838-2.729l1.501 4.463l4.492-1.409l.048 4.709l4.709.048l-1.409 4.492l4.463 1.501l-2.729 3.838L45.5 24l-3.781 2.806l2.729 3.838l-4.463 1.501l1.409 4.492l-4.709.048l-.048 4.709l-4.492-1.409l-1.501 4.463l-3.838-2.729L24 45.5l-2.806-3.781l-3.838 2.729l-1.501-4.463l-4.492 1.409l-.048-4.709l-4.709-.048l1.409-4.492l-4.463-1.501l2.729-3.838L2.5 24l3.781-2.806l-2.729-3.838l4.463-1.501l-1.409-4.492z");
+}
+</style><path class="yjy4facvu"/>`,
+		"fallback": "arcticons:coupang",
+	});
+}
+
+export default Component;

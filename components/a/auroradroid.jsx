@@ -1,0 +1,41 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.arke00bpw {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M29.55 14.64a1.9 1.9 0 1 1-1.91 1.9a1.9 1.9 0 0 1 1.91-1.9m-11.08 0a1.9 1.9 0 1 1-1.9 1.9a1.91 1.91 0 0 1 1.9-1.9m17.22 7.54H12.31a1.87 1.87 0 0 0-1.87 1.87v5.89a13.56 13.56 0 0 0 27.12 0v-5.89a1.87 1.87 0 0 0-1.87-1.87");
+}
+
+.c1l9prbps {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M30.35 37.09a1.7 1.7 0 0 1-1.46.84h-9.78a1.69 1.69 0 0 1-1.47-2.52l4.89-8.62a1.69 1.69 0 0 1 2.94 0l4.89 8.62a1.71 1.71 0 0 1-.01 1.68M24 6.75a13.56 13.56 0 0 1 13.56 13.56v0a1.87 1.87 0 0 1-1.87 1.87H12.31a1.87 1.87 0 0 1-1.87-1.87v0A13.56 13.56 0 0 1 24 6.75M11.76 4.87l4.4 4.39m20.07-4.39l-4.39 4.4");
+}
+
+.dbzgq8nzm {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M22.01 34.55h3.98L24 31.04z");
+}
+</style><path class="arke00bpw"/><path class="dbzgq8nzm"/><path class="c1l9prbps"/>`,
+		"fallback": "arcticons:auroradroid",
+	});
+}
+
+export default Component;

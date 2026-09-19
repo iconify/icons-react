@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gge9i0bps {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M17.5 4.5h5.57v1.86h1.86v3.71h1.86v1.86h-7.43v1.86h3.71v1.85h11.14v1.86h1.86v3.71h-3.71v-1.85h-9.29v5.57h-3.71v1.86h1.85v1.85h1.86v5.57h1.86v5.58h3.71v1.85h-3.71v1.86h-3.72v-9.29H17.5v3.72h-1.86v3.71h3.72v1.86h-5.57v-1.86h-1.86v-3.71h1.86v-3.72h1.85V17.5h1.86v-3.71h-1.86V6.36h1.86Zm3.71 3.71v1.86h1.86V8.21Z");
+}
+</style><path class="gge9i0bps"/>`,
+		"fallback": "arcticons:organtrail",
+	});
+}
+
+export default Component;

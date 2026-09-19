@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.tyb3eebyc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m39.894 16.02l-2.33 1.69v-1.314c0-4.182-3.422-7.603-7.604-7.603H12.104c-4.182 0-7.604 3.421-7.604 7.603v15.208c0 4.182 3.422 7.604 7.604 7.604H29.96c4.182 0 7.604-3.422 7.604-7.604v-1.86l2.33 1.69c1.502 1.09 3.606.017 3.606-1.838V17.859c0-1.856-2.104-2.928-3.606-1.839");
+}
+
+.xd0mq776c {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M27.393 24.736c0-3.513-6.36-9.566-6.36-9.566s-6.362 6.053-6.362 9.566a6.361 6.361 0 0 0 12.722 0m-3.699-6.723l-8.673 8.803m11.269-5.247l-8.447 8.67");
+}
+</style><path class="tyb3eebyc"/><path class="xd0mq776c"/>`,
+		"fallback": "arcticons:video-eraser",
+	});
+}
+
+export default Component;

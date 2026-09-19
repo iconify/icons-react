@@ -1,0 +1,41 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.nwxufkbna {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m9.213 32.102l9.407 5.402V26.7l-9.407-5.402zM7.514 14.599l1.699 6.699M7.514 33.533l1.699-1.431M24 43l-5.38-5.496M24 24.066L18.62 26.7M7.514 14.599l6.929-1.873M24 6.8l-9.557 5.926M24 18.472l-9.557-5.746M24 24.066l16.486-9.467v18.934L24 43m16.486-28.401L24 5");
+}
+
+.r0i0cm8xv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m38.787 32.102l-9.407 5.402V26.7l9.407-5.402zm1.699-17.503l-1.699 6.699m1.699 12.235l-1.699-1.431M24 43l5.38-5.496M24 24.066l5.38 2.634m11.106-12.101l-6.929-1.873M24 6.8l9.557 5.926M24 18.472l9.557-5.746");
+}
+
+.xne681wjc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M7.514 33.533L24 43V24.066L7.514 14.599zM24 24.066v-5.594M24 6.8V5M7.514 14.599L24 5");
+}
+</style><path class="xne681wjc"/><path class="nwxufkbna"/><path class="r0i0cm8xv"/>`,
+		"fallback": "arcticons:quiztallography",
+	});
+}
+
+export default Component;

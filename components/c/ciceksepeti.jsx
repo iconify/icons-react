@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.mtjm5w9qt {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M15.953 21.053c-3.167-.693-6.489-1.627-8.954-3.82c-2.064-1.76-2.036-5.26.33-6.741c6.284-3.455 12.435 6.42 14.43 11.326a41.5 41.5 0 0 1-5.806-.765m13.786 0c3.166-.693 6.488-1.627 8.954-3.82c2.063-1.76 2.035-5.26-.33-6.741c-6.285-3.455-12.436 6.42-14.43 11.326a41.5 41.5 0 0 0 5.806-.765m-13.786 3.298c-3.167.694-6.489 1.627-8.954 3.82c-2.064 1.76-2.036 5.261.33 6.741c6.284 3.456 12.435-6.42 14.43-11.326a41.5 41.5 0 0 0-5.806.765m16.095 2.596c3.166.693 6.488 1.627 8.953 3.82c2.064 1.76 2.036 5.26-.33 6.741c-6.284 3.455-12.435-6.42-14.43-11.326a41.5 41.5 0 0 1 5.807.765");
+}
+</style><path class="mtjm5w9qt"/>`,
+		"fallback": "arcticons:ciceksepeti",
+	});
+}
+
+export default Component;

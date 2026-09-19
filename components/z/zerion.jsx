@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ifoqg8bnx {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M7.382 5.635h31.97c2.309 0 3.83 2.406 2.841 4.492l-6.432 13.568a3.144 3.144 0 0 1-4.536 1.302L6.37 9.097c-1.582-1.012-.865-3.462 1.012-3.462m33.236 36.73H8.648c-2.309 0-3.83-2.405-2.841-4.492l6.432-13.568a3.144 3.144 0 0 1 4.536-1.302l24.855 15.9c1.582 1.012.865 3.462-1.012 3.462");
+}
+</style><path class="ifoqg8bnx"/>`,
+		"fallback": "arcticons:zerion",
+	});
+}
+
+export default Component;

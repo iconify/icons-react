@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.m5bn4_bhv {
+  fill: none;
+  stroke: currentColor;
+  stroke-dashoffset: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m37.528 10.601l-17.133.308c-7.602 4.096-14.952 19.305-15.42 26.49h14.786c1.118-9.687 7.612-20.468 17.766-26.798m-7.874 23.847h5.31c.843-4.409 2.507-8.528 8.061-12.93l-6.862.123");
+}
+
+.u0g4u8bcj {
+  fill: none;
+  stroke: currentColor;
+  stroke-dashoffset: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M20.018 35.657h9.437c.957-6.48 3.464-12.614 12.071-18.407l-11.873.215");
+}
+</style><path class="m5bn4_bhv"/><path class="u0g4u8bcj"/>`,
+		"fallback": "arcticons:postbank",
+	});
+}
+
+export default Component;

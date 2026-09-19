@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.zt2bgsrtm {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M24.22 10.319c9.891-7.86 18.28-1.413 18.28 7.329c0 7.947-14.217 18.986-20.575 23.578m-4.15-5.564C7.794 26.302 5.5 24.36 5.5 18.354s8.124-11.215 13.687-3.09");
+}
+</style><path class="zt2bgsrtm"/>`,
+		"fallback": "arcticons:salland",
+	});
+}
+
+export default Component;

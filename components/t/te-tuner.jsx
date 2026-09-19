@@ -1,0 +1,63 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cpk0fnbgt {
+  cx: 24px;
+  cy: 24px;
+  r: 21.5px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.s-tu1sj_i {
+  cx: 24px;
+  cy: 24px;
+  r: 6.5px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.sl3b6fbyh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m37.973 27.811l6.303 1.689m-41.052-11L10 20.316m27.985-.13l6.291-1.686m-41.052 11L10 27.684m3.648-13.786L8.724 8.974m30.052 30.052l-4.674-4.674m.023-20.727l4.65-4.65M8.724 39.026l4.924-4.924M27.519 9.933l1.73-6.459M18.25 44.526l1.766-6.592m7.495.104l1.739 6.488m-11-41.052l1.766 6.592");
+}
+
+.vhssv_bdy {
+  cx: 24px;
+  cy: 24px;
+  r: 14.45px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.xc1wb4_-j {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M23.007 13.382V26.79c0 .599.614.942.993.942s.992-.324.992-.942V13.382M24 27.788v7.093");
+}
+</style><path class="sl3b6fbyh"/><circle class="cpk0fnbgt"/><circle class="vhssv_bdy"/><circle class="s-tu1sj_i"/><path class="xc1wb4_-j"/>`,
+		"fallback": "arcticons:te-tuner",
+	});
+}
+
+export default Component;

@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.au8wihnqs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M41.929 24.677v-1.404C41.854 13.46 33.84 5.5 23.999 5.5S6.147 13.46 6.073 23.273v1.404");
+}
+
+.oeb2sbche {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M15.894 42.5h16.212c5.416 0 9.822-4.402 9.822-9.812v-8.01H36.31v-1.264c0-6.77-5.513-12.278-12.29-12.278s-12.29 5.507-12.29 12.278v1.263H6.072v8.011c0 5.41 4.406 9.812 9.822 9.812m-.109-19.086c0-4.536 3.694-8.226 8.234-8.226s8.235 3.69 8.235 8.226v1.263h-16.47z");
+}
+</style><path class="oeb2sbche"/><path class="au8wihnqs"/>`,
+		"fallback": "arcticons:flashfood",
+	});
+}
+
+export default Component;

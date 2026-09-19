@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a0ghfzy0z {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M37.877 23.142a11.42 11.42 0 0 1 4.623 9.134h0a11.42 11.42 0 0 1-4.614 9.134m-2.45-14.99a7.35 7.35 0 0 1 3.059 5.856a7.35 7.35 0 0 1-3.068 5.87m-2.295-8.68a3.522 3.522 0 0 1 0 5.62");
+}
+
+.sxh2dnbpz {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M36.866 6.59H9.399a3.9 3.9 0 0 0-3.899 3.9v17.66a3.9 3.9 0 0 0 3.898 3.899h.473v4.508c0 1.562 1.89 2.345 2.994 1.24l5.748-5.748h18.253a3.9 3.9 0 0 0 3.898-3.899V10.49a3.9 3.9 0 0 0-3.898-3.899Zm-26.168 7.797h24.868m-24.868 5.058h19.316m-19.316 5.058h14.295");
+}
+</style><path class="sxh2dnbpz"/><path class="a0ghfzy0z"/>`,
+		"fallback": "arcticons:speech-assistant",
+	});
+}
+
+export default Component;

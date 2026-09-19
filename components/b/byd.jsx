@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.kt13lvb9a {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M29.733 20.111V23c0 .554-.446 1-1 1H24v3.889m-1.5-3.89h-3.233c-.554 0-1-.445-1-1v-2.888m13.766 7.778l7.58-.006a3.886 3.886 0 0 0 0-7.772h-7.58m-27.533 0h9.522a1.945 1.945 0 0 1 0 3.889a1.945 1.945 0 0 1 0 3.889H4.5M14.022 24H4.5");
+}
+</style><path class="kt13lvb9a"/>`,
+		"fallback": "arcticons:byd",
+	});
+}
+
+export default Component;

@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.lsqn0ip2g {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M14.524 11.353c-2.622 1.407-3.682 4.815-2.369 7.617l7.093 15.146c1.318 2.8 4.51 3.932 7.134 2.53c2.623-1.407 3.683-4.816 2.37-7.618l-7.094-15.146c-.632-1.344-1.738-2.365-3.075-2.84a5 5 0 0 0-4.059.311m14.186 0c-2.622 1.407-3.682 4.815-2.369 7.617l7.093 15.146c1.318 2.8 4.51 3.932 7.134 2.53c2.623-1.407 3.683-4.816 2.37-7.618l-7.094-15.146c-.632-1.344-1.738-2.365-3.076-2.84s-2.797-.363-4.058.311M9.82 18.87L5.063 29.028c-1.314 2.802-.254 6.21 2.369 7.617c2.624 1.403 5.816.271 7.134-2.529l1.192-2.545z");
+}
+</style><path class="lsqn0ip2g"/>`,
+		"fallback": "arcticons:mosburger",
+	});
+}
+
+export default Component;

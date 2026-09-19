@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jibjbna8j {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m20.335 27.665l-5.66-5.66l4.987-4.987a1.6 1.6 0 0 0 0-2.264L11.74 6.83a1.6 1.6 0 0 0-2.264 0l-1.26 1.26c-5.438 5.438-2.341 17.353 6 25.694m.46-11.779l-5.432 5.432m5.432-5.432l-8.957-8.957m14.616 14.617l5.66 5.66l4.987-4.988a1.6 1.6 0 0 1 2.264 0l7.923 7.923a1.6 1.6 0 0 1 0 2.264l-1.259 1.26c-5.438 5.438-17.352 2.341-25.694-6m11.779-.46l-5.432 5.432m5.432-5.432l8.957 8.957M42.5 22.26v-.871A15.89 15.89 0 0 0 26.611 5.5h-.871a.8.8 0 0 0-.8.8v15.96a.8.8 0 0 0 .8.8H41.7a.8.8 0 0 0 .8-.8");
+}
+
+.qg9kaabuv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M35.238 23.06v-.221a10.077 10.077 0 0 0-10.077-10.077h-.221");
+}
+</style><path class="jibjbna8j"/><path class="qg9kaabuv"/>`,
+		"fallback": "arcticons:google-voice-alt-1",
+	});
+}
+
+export default Component;

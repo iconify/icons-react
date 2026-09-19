@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.dwgcnkbua {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M10.914 31.52C11.784 38.293 16.57 43.5 24 43.5c7.434 0 12.216-5.206 13.086-11.98M24 10.918a3.21 3.21 0 1 1 .002-6.42a3.21 3.21 0 0 1-.002 6.42m-8.904 10.325h17.808");
+}
+</style><path class="dwgcnkbua"/>`,
+		"fallback": "arcticons:skippo",
+	});
+}
+
+export default Component;

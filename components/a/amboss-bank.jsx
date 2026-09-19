@@ -1,0 +1,51 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hp6-8bbsv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m38.44 31.01l-11.43-19.8l-14.6 25.28L9.23 42h22.1");
+}
+
+.imu-ntbes {
+  cx: 36.964px;
+  cy: 37.845px;
+  r: 7px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.nc8gz0bny {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m39.614 41.845l-2.65-2.618m0-5.382a2.65 2.65 0 0 1 2.65 2.65v2.7a2.65 2.65 0 0 1-2.65 2.65h0a2.65 2.65 0 0 1-2.65-2.65v-2.7a2.65 2.65 0 0 1 2.65-2.65M33.03 32.05L27.23 22");
+}
+
+.utn25qz1p {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M30.09 36.49H6.39L24 6");
+}
+</style><circle class="imu-ntbes"/><path class="nc8gz0bny"/><path class="hp6-8bbsv"/><path class="utn25qz1p"/>`,
+		"fallback": "arcticons:amboss-bank",
+	});
+}
+
+export default Component;

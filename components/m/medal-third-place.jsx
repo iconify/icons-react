@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/j/jx0p4fbya.css';
+import '../../css/z/zja3j4evs.css';
+import '../../css/l/l40iy_69f.css';
+import '../../css/w/wx3_y2t5j.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="jx0p4fbya"><path class="zja3j4evs"/><circle class="l40iy_69f"/><path class="wx3_y2t5j"/></g>`,
+		"fallback": "hugeicons:medal-third-place",
+	});
+}
+
+export default Component;

@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/j/jx0p4fbya.css';
+import '../../css/n/nw4n_tb5y.css';
+import '../../css/j/jqmfhccyc.css';
+import '../../css/n/no9almpsf.css';
+import '../../css/h/hp3nybfqx.css';
+import '../../css/u/udnigi2cc.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="jx0p4fbya"><path class="nw4n_tb5y"/><path class="jqmfhccyc"/><path class="no9almpsf"/><path class="hp3nybfqx"/><path class="udnigi2cc"/></g>`,
+		"fallback": "hugeicons:guitar",
+	});
+}
+
+export default Component;

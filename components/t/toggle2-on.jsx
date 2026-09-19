@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/p/pw4z0kdtu.css';
+import '../../css/j/j8ptqlb4o.css';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="pw4z0kdtu"/><path class="j8ptqlb4o"/></g>`,
+		"fallback": "bi:toggle2-on",
+	});
+}
+
+export default Component;

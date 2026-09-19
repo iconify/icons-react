@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/v/vtrg6izee.css';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="vtrg6izee"/>`,
+		"fallback": "bi:caret-right-square-fill",
+	});
+}
+
+export default Component;

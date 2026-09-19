@@ -1,0 +1,40 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/d/d6nytvq1i.css';
+import '../../css/b/b_-o3pc1m.css';
+import '../../css/e/en_ylbbie.css';
+import '../../css/h/hf240obwq.css';
+import '../../css/k/k989l8bna.css';
+import '../../css/z/z4qg_cq5l.css';
+import '../../css/b/bk5hkll4w.css';
+import '../../css/z/zdbc1bh6b.css';
+import '../../css/i/i_nvebh0m.css';
+import '../../css/z/zzr75wyjq.css';
+import '../../css/o/ori1b5bmx.css';
+import '../../css/r/rcj4ynaog.css';
+import '../../css/s/sfe7hrbck.css';
+import '../../css/d/d-tyd1i3u.css';
+import '../../css/t/tqbnedbao.css';
+import '../../css/i/id03x7bjp.css';
+import '../../css/j/j2pgr5qgr.css';
+import '../../css/g/gala5b-rh.css';
+import '../../css/t/tye9z0_8x.css';
+import '../../css/z/zmnzzvbgz.css';
+import '../../css/r/rpt-jccnx.css';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="d6nytvq1i"/><path class="b_-o3pc1m"/><path class="en_ylbbie"/><path class="hf240obwq"/><path class="k989l8bna"/><path class="z4qg_cq5l"/><path class="bk5hkll4w"/><path class="zdbc1bh6b"/><path class="i_nvebh0m"/><path class="zzr75wyjq"/><path class="ori1b5bmx"/><path class="rcj4ynaog"/><path class="sfe7hrbck"/><path class="d-tyd1i3u"/><path class="tqbnedbao"/><path class="id03x7bjp"/><path class="j2pgr5qgr"/><path class="gala5b-rh"/><path class="tye9z0_8x"/><path class="zmnzzvbgz"/><path class="rpt-jccnx"/></g>`,
+		"fallback": "fluent-emoji-flat:person-with-white-cane-facing-right-dark",
+	});
+}
+
+export default Component;

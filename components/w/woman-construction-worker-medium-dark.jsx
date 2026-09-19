@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/s/s8qrx0b-x.css';
+import '../../css/x/x35jo7aza.css';
+import '../../css/z/z3crd8hsq.css';
+import '../../css/l/ltpknqbfh.css';
+import '../../css/e/e4yj3bcao.css';
+import '../../css/j/j6nazuboy.css';
+import '../../css/w/wvt5j2bra.css';
+import '../../css/i/il5s_hbvs.css';
+import '../../css/m/mxfleqv-a.css';
+import '../../css/k/kn7jv3-yl.css';
+import '../../css/n/nlwde00dz.css';
+import '../../css/d/d9st9p20x.css';
+import '../../css/l/ldqcri7bi.css';
+import '../../css/x/x2eix9w8e.css';
+import '../../css/s/sl4bhdfcm.css';
+import '../../css/o/o46pa3bti.css';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="s8qrx0b-x"/><path class="x35jo7aza"/><path class="z3crd8hsq"/><path class="ltpknqbfh"/><path class="e4yj3bcao"/><path class="j6nazuboy"/><path class="wvt5j2bra"/><path class="il5s_hbvs"/><path class="mxfleqv-a"/><path class="kn7jv3-yl"/><path class="nlwde00dz"/><path class="d9st9p20x"/><path class="ldqcri7bi"/><path class="x2eix9w8e"/><path class="sl4bhdfcm"/><path class="o46pa3bti"/></g>`,
+		"fallback": "fluent-emoji-flat:woman-construction-worker-medium-dark",
+	});
+}
+
+export default Component;

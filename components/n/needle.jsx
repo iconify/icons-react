@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/a/a0a9vkbzg.css';
+import '../../css/l/lq0t2kc3i.css';
+import '../../css/x/x9x8z7zsn.css';
+import '../../css/z/zcgug9b-t.css';
+import '../../css/w/woff6o3ry.css';
+import '../../css/c/c2mf5ccrl.css';
+import '../../css/p/pllf7xbyy.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="a0a9vkbzg"><path class="lq0t2kc3i"/><path class="x9x8z7zsn"/><path class="zcgug9b-t"/><path class="woff6o3ry"/><path class="c2mf5ccrl"/><path class="pllf7xbyy"/></g>`,
+		"fallback": "icon-park:needle",
+	});
+}
+
+export default Component;

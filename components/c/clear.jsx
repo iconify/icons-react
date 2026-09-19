@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/u/ufeehvblu.css';
+import '../../css/x/xvd3pkbjc.css';
+import '../../css/t/tek6cfbxc.css';
+import '../../css/t/t32bs5kub.css';
+import '../../css/c/c-u1scctq.css';
+import '../../css/u/uzcaltb9w.css';
+import '../../css/n/nd713rb6a.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ufeehvblu"><path clip-rule="evenodd" class="xvd3pkbjc"/><path class="tek6cfbxc"/><path class="t32bs5kub"/><path class="c-u1scctq"/><path class="uzcaltb9w"/><path class="nd713rb6a"/></g>`,
+		"fallback": "icon-park:clear",
+	});
+}
+
+export default Component;

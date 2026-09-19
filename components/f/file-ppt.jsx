@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/l/l3lph30dl.css';
+import '../../css/a/ay4r_tb8p.css';
+import '../../css/t/t8sktm35q.css';
+import '../../css/i/i2k2vwt1z.css';
+import '../../css/j/j71kmgb7h.css';
+import '../../css/e/eey14195s.css';
+import '../../css/l/leu9btbun.css';
+import '../../css/g/goabkcc5y.css';
+import '../../css/a/ax389zhzk.css';
+import '../../css/p/pzp9yt_7a.css';
+import '../../css/d/d0299e7is.css';
+import '../../css/a/azfakybtf.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="l3lph30dl"><path class="ay4r_tb8p"/><path class="t8sktm35q"/><path class="i2k2vwt1z"/><path class="j71kmgb7h"/><rect class="eey14195s"/><path class="leu9btbun"/><path class="goabkcc5y"/><path class="ax389zhzk"/><path class="pzp9yt_7a"/><path class="d0299e7is"/><path class="azfakybtf"/></g>`,
+		"fallback": "icon-park:file-ppt",
+	});
+}
+
+export default Component;

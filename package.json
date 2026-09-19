@@ -1,0 +1,295 @@
+{
+  "name": "@iconify-react/ei",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/ei/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive.jsx"
+    },
+    "./arrow-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down.jsx"
+    },
+    "./arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left.jsx"
+    },
+    "./arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right.jsx"
+    },
+    "./arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up.jsx"
+    },
+    "./bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera.jsx"
+    },
+    "./cart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart.jsx"
+    },
+    "./chart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart.jsx"
+    },
+    "./check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check.jsx"
+    },
+    "./chevron-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-down.jsx"
+    },
+    "./chevron-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-left.jsx"
+    },
+    "./chevron-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-right.jsx"
+    },
+    "./chevron-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/close.jsx"
+    },
+    "./close-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/close-o.jsx"
+    },
+    "./comment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment.jsx"
+    },
+    "./credit-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card.jsx"
+    },
+    "./envelope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope.jsx"
+    },
+    "./exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation.jsx"
+    },
+    "./external-link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/external-link.jsx"
+    },
+    "./eye": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye.jsx"
+    },
+    "./gear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gear.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./like": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/like.jsx"
+    },
+    "./link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link.jsx"
+    },
+    "./location": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus.jsx"
+    },
+    "./navicon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/navicon.jsx"
+    },
+    "./paperclip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paperclip.jsx"
+    },
+    "./pencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus.jsx"
+    },
+    "./pointer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pointer.jsx"
+    },
+    "./question": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question.jsx"
+    },
+    "./redo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redo.jsx"
+    },
+    "./refresh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh.jsx"
+    },
+    "./retweet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retweet.jsx"
+    },
+    "./sc-facebook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-facebook.jsx"
+    },
+    "./sc-github": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-github.jsx"
+    },
+    "./sc-google-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-google-plus.jsx"
+    },
+    "./sc-instagram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-instagram.jsx"
+    },
+    "./sc-linkedin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-linkedin.jsx"
+    },
+    "./sc-odnoklassniki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-odnoklassniki.jsx"
+    },
+    "./sc-pinterest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-pinterest.jsx"
+    },
+    "./sc-skype": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-skype.jsx"
+    },
+    "./sc-soundcloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-soundcloud.jsx"
+    },
+    "./sc-telegram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-telegram.jsx"
+    },
+    "./sc-tumblr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-tumblr.jsx"
+    },
+    "./sc-twitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-twitter.jsx"
+    },
+    "./sc-vimeo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-vimeo.jsx"
+    },
+    "./sc-vk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-vk.jsx"
+    },
+    "./sc-youtube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-youtube.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./share-apple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-apple.jsx"
+    },
+    "./share-google": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-google.jsx"
+    },
+    "./spinner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spinner.jsx"
+    },
+    "./spinner-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spinner-2.jsx"
+    },
+    "./spinner-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spinner-3.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./trash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash.jsx"
+    },
+    "./trophy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trophy.jsx"
+    },
+    "./undo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undo.jsx"
+    },
+    "./unlock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#ei"
+}

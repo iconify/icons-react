@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/z/zjma_2vhh.css';
+
+const viewBox = {"width":12,"height":12};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="zjma_2vhh"/>`,
+		"fallback": "dinkie-icons:black-left-double-triangle-with-vertical-bar-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/g/gbk1xnc1c.css';
+
+const viewBox = {"width":8,"height":8};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="gbk1xnc1c"/>`,
+		"fallback": "dinkie-icons:automobile-small",
+	});
+}
+
+export default Component;

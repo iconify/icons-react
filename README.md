@@ -28,7 +28,9 @@ Few usage examples:
 import SampleIcon from '@iconify-react/academicons/conversation';
 
 function Test() {
-  return (<SampleIcon />);
+  return (
+    <SampleIcon />
+  );
 }
 ```
 
@@ -38,7 +40,9 @@ To resize icon, set `width` and/or `height` parameters:
 import SampleIcon from '@iconify-react/academicons/crossref-square';
 
 function Test() {
-  return (<SampleIcon height="1em" />);
+  return (
+    <SampleIcon height="1em" />
+  );
 }
 ```
 
@@ -48,6 +52,8 @@ To change icon color, use style:
 import SampleIcon from '@iconify-react/academicons/stackoverflow';
 
 function Test() {
-  return (<SampleIcon style={{color: 'red'}} />);
+  return (
+    <SampleIcon style={{color: 'red'}} />
+  );
 }
 ```

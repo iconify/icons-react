@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/t/to0c2ub7t.css';
+import '../../css/e/e2idw3kgh.css';
+import '../../css/h/hll5x1bic.css';
+import '../../css/f/f5ay05zjp.css';
+import '../../css/v/vwl1wf1bw.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="to0c2ub7t"><path class="e2idw3kgh"/><circle transform="rotate(90 19 9)" class="hll5x1bic"/><circle transform="rotate(90 12 17)" class="f5ay05zjp"/><circle transform="rotate(90 5 7)" class="vwl1wf1bw"/></g>`,
+		"fallback": "akar-icons:settings-vertical",
+	});
+}
+
+export default Component;

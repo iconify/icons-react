@@ -1,0 +1,871 @@
+{
+  "name": "@iconify-react/gcp",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/gcp/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "Apache-2.0",
+  "exports": {
+    "./access-context-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/access-context-manager.jsx"
+    },
+    "./administration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/administration.jsx"
+    },
+    "./advanced-agent-modeling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/advanced-agent-modeling.jsx"
+    },
+    "./advanced-solutions-lab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/advanced-solutions-lab.jsx"
+    },
+    "./agent-assist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agent-assist.jsx"
+    },
+    "./ai-hub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-hub.jsx"
+    },
+    "./ai-platform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-platform.jsx"
+    },
+    "./ai-platform-unified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-platform-unified.jsx"
+    },
+    "./analytics-hub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/analytics-hub.jsx"
+    },
+    "./anthos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anthos.jsx"
+    },
+    "./anthos-config-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anthos-config-management.jsx"
+    },
+    "./anthos-service-mesh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anthos-service-mesh.jsx"
+    },
+    "./api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api.jsx"
+    },
+    "./api-analytics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api-analytics.jsx"
+    },
+    "./api-monetization": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api-monetization.jsx"
+    },
+    "./apigee-api-platform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apigee-api-platform.jsx"
+    },
+    "./apigee-sense": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apigee-sense.jsx"
+    },
+    "./app-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-engine.jsx"
+    },
+    "./artifact-registry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artifact-registry.jsx"
+    },
+    "./asset-inventory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asset-inventory.jsx"
+    },
+    "./assured-workloads": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assured-workloads.jsx"
+    },
+    "./automl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automl.jsx"
+    },
+    "./automl-natural-language": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automl-natural-language.jsx"
+    },
+    "./automl-tables": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automl-tables.jsx"
+    },
+    "./automl-translation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automl-translation.jsx"
+    },
+    "./automl-video-intelligence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automl-video-intelligence.jsx"
+    },
+    "./automl-vision": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automl-vision.jsx"
+    },
+    "./bare-metal-solutions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bare-metal-solutions.jsx"
+    },
+    "./batch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/batch.jsx"
+    },
+    "./beyondcorp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beyondcorp.jsx"
+    },
+    "./bigquery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bigquery.jsx"
+    },
+    "./bigtable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bigtable.jsx"
+    },
+    "./billing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/billing.jsx"
+    },
+    "./binary-authorization": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binary-authorization.jsx"
+    },
+    "./catalog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/catalog.jsx"
+    },
+    "./certificate-authority-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certificate-authority-service.jsx"
+    },
+    "./certificate-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certificate-manager.jsx"
+    },
+    "./cloud-api-gateway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-api-gateway.jsx"
+    },
+    "./cloud-apis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-apis.jsx"
+    },
+    "./cloud-armor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-armor.jsx"
+    },
+    "./cloud-asset-inventory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-asset-inventory.jsx"
+    },
+    "./cloud-audit-logs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-audit-logs.jsx"
+    },
+    "./cloud-build": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-build.jsx"
+    },
+    "./cloud-cdn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-cdn.jsx"
+    },
+    "./cloud-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-code.jsx"
+    },
+    "./cloud-composer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-composer.jsx"
+    },
+    "./cloud-data-fusion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-data-fusion.jsx"
+    },
+    "./cloud-deploy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-deploy.jsx"
+    },
+    "./cloud-deployment-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-deployment-manager.jsx"
+    },
+    "./cloud-dns": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-dns.jsx"
+    },
+    "./cloud-domains": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-domains.jsx"
+    },
+    "./cloud-ekm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-ekm.jsx"
+    },
+    "./cloud-endpoints": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-endpoints.jsx"
+    },
+    "./cloud-external-ip-addresses": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-external-ip-addresses.jsx"
+    },
+    "./cloud-firewall-rules": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-firewall-rules.jsx"
+    },
+    "./cloud-for-marketing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-for-marketing.jsx"
+    },
+    "./cloud-functions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-functions.jsx"
+    },
+    "./cloud-generic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-generic.jsx"
+    },
+    "./cloud-gpu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-gpu.jsx"
+    },
+    "./cloud-healthcare-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-healthcare-api.jsx"
+    },
+    "./cloud-healthcare-marketplace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-healthcare-marketplace.jsx"
+    },
+    "./cloud-hsm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-hsm.jsx"
+    },
+    "./cloud-ids": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-ids.jsx"
+    },
+    "./cloud-inference-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-inference-api.jsx"
+    },
+    "./cloud-interconnect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-interconnect.jsx"
+    },
+    "./cloud-jobs-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-jobs-api.jsx"
+    },
+    "./cloud-load-balancing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-load-balancing.jsx"
+    },
+    "./cloud-logging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-logging.jsx"
+    },
+    "./cloud-media-edge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-media-edge.jsx"
+    },
+    "./cloud-monitoring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-monitoring.jsx"
+    },
+    "./cloud-nat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-nat.jsx"
+    },
+    "./cloud-natural-language-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-natural-language-api.jsx"
+    },
+    "./cloud-network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-network.jsx"
+    },
+    "./cloud-ops": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-ops.jsx"
+    },
+    "./cloud-optimization-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-optimization-ai.jsx"
+    },
+    "./cloud-optimization-ai-fleet-routing-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-optimization-ai-fleet-routing-api.jsx"
+    },
+    "./cloud-router": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-router.jsx"
+    },
+    "./cloud-routes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-routes.jsx"
+    },
+    "./cloud-run": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-run.jsx"
+    },
+    "./cloud-run-for-anthos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-run-for-anthos.jsx"
+    },
+    "./cloud-scheduler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-scheduler.jsx"
+    },
+    "./cloud-security-scanner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-security-scanner.jsx"
+    },
+    "./cloud-shell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-shell.jsx"
+    },
+    "./cloud-spanner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-spanner.jsx"
+    },
+    "./cloud-sql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sql.jsx"
+    },
+    "./cloud-storage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-storage.jsx"
+    },
+    "./cloud-tasks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-tasks.jsx"
+    },
+    "./cloud-test-lab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-test-lab.jsx"
+    },
+    "./cloud-tpu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-tpu.jsx"
+    },
+    "./cloud-translation-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-translation-api.jsx"
+    },
+    "./cloud-vision-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-vision-api.jsx"
+    },
+    "./cloud-vpn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-vpn.jsx"
+    },
+    "./compute-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compute-engine.jsx"
+    },
+    "./configuration-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/configuration-management.jsx"
+    },
+    "./connectivity-test": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connectivity-test.jsx"
+    },
+    "./connectors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connectors.jsx"
+    },
+    "./contact-center-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contact-center-ai.jsx"
+    },
+    "./container-optimized-os": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/container-optimized-os.jsx"
+    },
+    "./container-registry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/container-registry.jsx"
+    },
+    "./data-catalog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-catalog.jsx"
+    },
+    "./data-labeling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-labeling.jsx"
+    },
+    "./data-layers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-layers.jsx"
+    },
+    "./data-loss-prevention-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-loss-prevention-api.jsx"
+    },
+    "./data-qna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-qna.jsx"
+    },
+    "./data-studio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-studio.jsx"
+    },
+    "./data-transfer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-transfer.jsx"
+    },
+    "./database-migration-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-migration-service.jsx"
+    },
+    "./dataflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataflow.jsx"
+    },
+    "./datalab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datalab.jsx"
+    },
+    "./dataplex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataplex.jsx"
+    },
+    "./datapol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datapol.jsx"
+    },
+    "./dataprep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataprep.jsx"
+    },
+    "./dataproc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataproc.jsx"
+    },
+    "./dataproc-metastore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataproc-metastore.jsx"
+    },
+    "./datashare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datashare.jsx"
+    },
+    "./datastore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datastore.jsx"
+    },
+    "./datastream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datastream.jsx"
+    },
+    "./debugger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/debugger.jsx"
+    },
+    "./developer-portal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/developer-portal.jsx"
+    },
+    "./dialogflow-cx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialogflow-cx.jsx"
+    },
+    "./dialogflow-insights": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialogflow-insights.jsx"
+    },
+    "./document-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-ai.jsx"
+    },
+    "./early-access-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/early-access-center.jsx"
+    },
+    "./error-reporting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/error-reporting.jsx"
+    },
+    "./eventarc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eventarc.jsx"
+    },
+    "./filestore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filestore.jsx"
+    },
+    "./financial-services-marketplace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/financial-services-marketplace.jsx"
+    },
+    "./firestore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firestore.jsx"
+    },
+    "./fleet-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fleet-engine.jsx"
+    },
+    "./free-trial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/free-trial.jsx"
+    },
+    "./game-servers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/game-servers.jsx"
+    },
+    "./gce-systems-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gce-systems-management.jsx"
+    },
+    "./genomics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/genomics.jsx"
+    },
+    "./gke-on-prem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gke-on-prem.jsx"
+    },
+    "./google-cloud-marketplace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-cloud-marketplace.jsx"
+    },
+    "./google-kubernetes-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-kubernetes-engine.jsx"
+    },
+    "./google-maps-platform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-maps-platform.jsx"
+    },
+    "./healthcare-nlp-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/healthcare-nlp-api.jsx"
+    },
+    "./home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home.jsx"
+    },
+    "./identity-and-access-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/identity-and-access-management.jsx"
+    },
+    "./identity-aware-proxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/identity-aware-proxy.jsx"
+    },
+    "./identity-platform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/identity-platform.jsx"
+    },
+    "./iot-core": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iot-core.jsx"
+    },
+    "./iot-edge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iot-edge.jsx"
+    },
+    "./key-access-justifications": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-access-justifications.jsx"
+    },
+    "./key-management-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-management-service.jsx"
+    },
+    "./kuberun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kuberun.jsx"
+    },
+    "./launcher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/launcher.jsx"
+    },
+    "./local-ssd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/local-ssd.jsx"
+    },
+    "./managed-service-for-microsoft-active-directory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/managed-service-for-microsoft-active-directory.jsx"
+    },
+    "./media-translation-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/media-translation-api.jsx"
+    },
+    "./memorystore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memorystore.jsx"
+    },
+    "./migrate-for-anthos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/migrate-for-anthos.jsx"
+    },
+    "./migrate-for-compute-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/migrate-for-compute-engine.jsx"
+    },
+    "./my-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/my-cloud.jsx"
+    },
+    "./network-connectivity-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-connectivity-center.jsx"
+    },
+    "./network-intelligence-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-intelligence-center.jsx"
+    },
+    "./network-security": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-security.jsx"
+    },
+    "./network-tiers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-tiers.jsx"
+    },
+    "./network-topology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-topology.jsx"
+    },
+    "./onboarding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/onboarding.jsx"
+    },
+    "./os-configuration-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/os-configuration-management.jsx"
+    },
+    "./os-inventory-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/os-inventory-management.jsx"
+    },
+    "./os-patch-management": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/os-patch-management.jsx"
+    },
+    "./partner-interconnect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partner-interconnect.jsx"
+    },
+    "./partner-portal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partner-portal.jsx"
+    },
+    "./performance-dashboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/performance-dashboard.jsx"
+    },
+    "./permissions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/permissions.jsx"
+    },
+    "./persistent-disk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/persistent-disk.jsx"
+    },
+    "./phishing-protection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phishing-protection.jsx"
+    },
+    "./policy-analyzer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/policy-analyzer.jsx"
+    },
+    "./premium-network-tier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/premium-network-tier.jsx"
+    },
+    "./private-connectivity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/private-connectivity.jsx"
+    },
+    "./private-service-connect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/private-service-connect.jsx"
+    },
+    "./producer-portal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/producer-portal.jsx"
+    },
+    "./profiler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/profiler.jsx"
+    },
+    "./project": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/project.jsx"
+    },
+    "./pubsub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pubsub.jsx"
+    },
+    "./quantum-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quantum-engine.jsx"
+    },
+    "./quotas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quotas.jsx"
+    },
+    "./real-world-insights": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/real-world-insights.jsx"
+    },
+    "./recommendations-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recommendations-ai.jsx"
+    },
+    "./release-notes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/release-notes.jsx"
+    },
+    "./retail-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retail-api.jsx"
+    },
+    "./risk-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/risk-manager.jsx"
+    },
+    "./runtime-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/runtime-config.jsx"
+    },
+    "./secret-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/secret-manager.jsx"
+    },
+    "./security": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/security.jsx"
+    },
+    "./security-command-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/security-command-center.jsx"
+    },
+    "./security-health-advisor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/security-health-advisor.jsx"
+    },
+    "./security-key-enforcement": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/security-key-enforcement.jsx"
+    },
+    "./service-discovery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-discovery.jsx"
+    },
+    "./speech-to-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/speech-to-text.jsx"
+    },
+    "./stackdriver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackdriver.jsx"
+    },
+    "./standard-network-tier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/standard-network-tier.jsx"
+    },
+    "./stream-suite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stream-suite.jsx"
+    },
+    "./support": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/support.jsx"
+    },
+    "./tensorflow-enterprise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tensorflow-enterprise.jsx"
+    },
+    "./text-to-speech": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-to-speech.jsx"
+    },
+    "./tools-for-powershell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tools-for-powershell.jsx"
+    },
+    "./trace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trace.jsx"
+    },
+    "./traffic-director": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traffic-director.jsx"
+    },
+    "./transfer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transfer.jsx"
+    },
+    "./transfer-appliance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transfer-appliance.jsx"
+    },
+    "./user-preferences": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-preferences.jsx"
+    },
+    "./vertexai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vertexai.jsx"
+    },
+    "./video-intelligence-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-intelligence-api.jsx"
+    },
+    "./virtual-private-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtual-private-cloud.jsx"
+    },
+    "./visual-inspection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visual-inspection.jsx"
+    },
+    "./vmware-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vmware-engine.jsx"
+    },
+    "./web-risk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-risk.jsx"
+    },
+    "./web-security-scanner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-security-scanner.jsx"
+    },
+    "./workflows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/workflows.jsx"
+    },
+    "./workload-identity-pool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/workload-identity-pool.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#gcp"
+}

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/nz_20wbpz.css';
+import '../../css/i/ihrkb6bvf.css';
+import '../../css/c/c12_yhz0x.css';
+import '../../css/u/u0j7o5bno.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="nz_20wbpz"><rect class="ihrkb6bvf"/><rect class="c12_yhz0x"/><path class="u0j7o5bno"/></g>`,
+		"fallback": "icon-park-outline:exclude-selection",
+	});
+}
+
+export default Component;

@@ -1,0 +1,463 @@
+{
+  "name": "@iconify-react/bpmn",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/bpmn/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "OFL-1.1",
+  "exports": {
+    "./ad-hoc-marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ad-hoc-marker.jsx"
+    },
+    "./business-rule": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/business-rule.jsx"
+    },
+    "./business-rule-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/business-rule-task.jsx"
+    },
+    "./call-activity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/call-activity.jsx"
+    },
+    "./compensation-marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compensation-marker.jsx"
+    },
+    "./conditional-flow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conditional-flow.jsx"
+    },
+    "./connection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connection.jsx"
+    },
+    "./connection-multi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connection-multi.jsx"
+    },
+    "./data-input": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-input.jsx"
+    },
+    "./data-object": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-object.jsx"
+    },
+    "./data-output": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-output.jsx"
+    },
+    "./data-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/data-store.jsx"
+    },
+    "./default-flow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/default-flow.jsx"
+    },
+    "./end-event": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event.jsx"
+    },
+    "./end-event-cancel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-cancel.jsx"
+    },
+    "./end-event-compensation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-compensation.jsx"
+    },
+    "./end-event-error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-error.jsx"
+    },
+    "./end-event-escalation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-escalation.jsx"
+    },
+    "./end-event-link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-link.jsx"
+    },
+    "./end-event-message": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-message.jsx"
+    },
+    "./end-event-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-multiple.jsx"
+    },
+    "./end-event-none": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-none.jsx"
+    },
+    "./end-event-signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-signal.jsx"
+    },
+    "./end-event-terminate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/end-event-terminate.jsx"
+    },
+    "./event-subprocess-expanded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/event-subprocess-expanded.jsx"
+    },
+    "./gateway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gateway.jsx"
+    },
+    "./gateway-complex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gateway-complex.jsx"
+    },
+    "./gateway-eventbased": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gateway-eventbased.jsx"
+    },
+    "./gateway-none": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gateway-none.jsx"
+    },
+    "./gateway-or": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gateway-or.jsx"
+    },
+    "./gateway-parallel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gateway-parallel.jsx"
+    },
+    "./gateway-xor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gateway-xor.jsx"
+    },
+    "./group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group.jsx"
+    },
+    "./hand-tool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-tool.jsx"
+    },
+    "./intermediate-event": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event.jsx"
+    },
+    "./intermediate-event-catch-cancel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-cancel.jsx"
+    },
+    "./intermediate-event-catch-compensation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-compensation.jsx"
+    },
+    "./intermediate-event-catch-condition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-condition.jsx"
+    },
+    "./intermediate-event-catch-error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-error.jsx"
+    },
+    "./intermediate-event-catch-escalation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-escalation.jsx"
+    },
+    "./intermediate-event-catch-link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-link.jsx"
+    },
+    "./intermediate-event-catch-message": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-message.jsx"
+    },
+    "./intermediate-event-catch-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-multiple.jsx"
+    },
+    "./intermediate-event-catch-non-interrupting-condition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-non-interrupting-condition.jsx"
+    },
+    "./intermediate-event-catch-non-interrupting-escalation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-non-interrupting-escalation.jsx"
+    },
+    "./intermediate-event-catch-non-interrupting-message": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-non-interrupting-message.jsx"
+    },
+    "./intermediate-event-catch-non-interrupting-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-non-interrupting-multiple.jsx"
+    },
+    "./intermediate-event-catch-non-interrupting-parallel-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-non-interrupting-parallel-multiple.jsx"
+    },
+    "./intermediate-event-catch-non-interrupting-signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-non-interrupting-signal.jsx"
+    },
+    "./intermediate-event-catch-non-interrupting-timer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-non-interrupting-timer.jsx"
+    },
+    "./intermediate-event-catch-parallel-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-parallel-multiple.jsx"
+    },
+    "./intermediate-event-catch-signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-signal.jsx"
+    },
+    "./intermediate-event-catch-timer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-catch-timer.jsx"
+    },
+    "./intermediate-event-non-interrupting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-non-interrupting.jsx"
+    },
+    "./intermediate-event-none": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-none.jsx"
+    },
+    "./intermediate-event-throw-compensation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-throw-compensation.jsx"
+    },
+    "./intermediate-event-throw-escalation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-throw-escalation.jsx"
+    },
+    "./intermediate-event-throw-link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-throw-link.jsx"
+    },
+    "./intermediate-event-throw-message": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-throw-message.jsx"
+    },
+    "./intermediate-event-throw-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-throw-multiple.jsx"
+    },
+    "./intermediate-event-throw-signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intermediate-event-throw-signal.jsx"
+    },
+    "./lane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lane.jsx"
+    },
+    "./lane-divide-three": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lane-divide-three.jsx"
+    },
+    "./lane-divide-two": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lane-divide-two.jsx"
+    },
+    "./lane-insert-above": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lane-insert-above.jsx"
+    },
+    "./lane-insert-below": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lane-insert-below.jsx"
+    },
+    "./lasso-tool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lasso-tool.jsx"
+    },
+    "./loop-marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loop-marker.jsx"
+    },
+    "./manual": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/manual.jsx"
+    },
+    "./manual-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/manual-task.jsx"
+    },
+    "./parallel-mi-marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parallel-mi-marker.jsx"
+    },
+    "./participant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/participant.jsx"
+    },
+    "./receive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/receive.jsx"
+    },
+    "./receive-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/receive-task.jsx"
+    },
+    "./screw-wrench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screw-wrench.jsx"
+    },
+    "./script": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/script.jsx"
+    },
+    "./script-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/script-task.jsx"
+    },
+    "./send": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send.jsx"
+    },
+    "./send-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-task.jsx"
+    },
+    "./sequential-mi-marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sequential-mi-marker.jsx"
+    },
+    "./service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service.jsx"
+    },
+    "./service-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-task.jsx"
+    },
+    "./space-tool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-tool.jsx"
+    },
+    "./start-event": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event.jsx"
+    },
+    "./start-event-compensation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-compensation.jsx"
+    },
+    "./start-event-condition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-condition.jsx"
+    },
+    "./start-event-error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-error.jsx"
+    },
+    "./start-event-escalation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-escalation.jsx"
+    },
+    "./start-event-message": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-message.jsx"
+    },
+    "./start-event-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-multiple.jsx"
+    },
+    "./start-event-non-interrupting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting.jsx"
+    },
+    "./start-event-non-interrupting-condition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting-condition.jsx"
+    },
+    "./start-event-non-interrupting-escalation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting-escalation.jsx"
+    },
+    "./start-event-non-interrupting-message": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting-message.jsx"
+    },
+    "./start-event-non-interrupting-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting-multiple.jsx"
+    },
+    "./start-event-non-interrupting-parallel-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting-parallel-multiple.jsx"
+    },
+    "./start-event-non-interrupting-signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting-signal.jsx"
+    },
+    "./start-event-non-interrupting-timer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-non-interrupting-timer.jsx"
+    },
+    "./start-event-none": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-none.jsx"
+    },
+    "./start-event-parallel-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-parallel-multiple.jsx"
+    },
+    "./start-event-signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-signal.jsx"
+    },
+    "./start-event-timer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-event-timer.jsx"
+    },
+    "./sub-process-marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sub-process-marker.jsx"
+    },
+    "./subprocess-collapsed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subprocess-collapsed.jsx"
+    },
+    "./subprocess-expanded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subprocess-expanded.jsx"
+    },
+    "./task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/task.jsx"
+    },
+    "./task-none": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/task-none.jsx"
+    },
+    "./text-annotation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-annotation.jsx"
+    },
+    "./transaction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transaction.jsx"
+    },
+    "./trash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./user-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-task.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#bpmn"
+}

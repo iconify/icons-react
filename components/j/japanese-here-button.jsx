@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.w2b--sbkw {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M29.628 18.687H3.633a.624.624 0 0 0-.623.623v3.606c0 .344.281.625.623.625h21.766v16.03c-20.913 0-20.915 0-20.897.004H3.184a.625.625 0 0 0-.625.625v3.455c0 .342.28.622.625.622l26.453.005a.616.616 0 0 0 .614-.615V19.312a.62.62 0 0 0-.623-.622m30.343-.006H33.977a.624.624 0 0 0-.624.623v3.606c0 .344.281.625.624.625h21.766v16.03c-17.896 0-20.488 0-20.897.009l-1.319-.005a.625.625 0 0 0-.624.624v3.457c0 .342.281.622.624.622l26.454.003a.613.613 0 0 0 .614-.613V19.309a.623.623 0 0 0-.624-.622");
+}
+
+.z-s9b3bkf {
+  fill: var(--svg-color--1b75bb, #1b75bb);
+  d: path("M63.927 57.036a6.89 6.89 0 0 1-6.887 6.896H6.889A6.893 6.893 0 0 1 0 57.036V6.891A6.893 6.893 0 0 1 6.889 0H57.04a6.89 6.89 0 0 1 6.887 6.891z");
+}
+</style><path class="z-s9b3bkf"/><path class="w2b--sbkw"/>`,
+		"fallback": "emojione-v1:japanese-here-button",
+	});
+}
+
+export default Component;

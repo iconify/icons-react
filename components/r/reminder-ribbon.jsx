@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.trjbudy9i {
+  fill: currentColor;
+  d: path("M52 18.719C52 1.131 34.117 2.055 34.117 2.055l.091.013A35 35 0 0 0 32.102 2h-.016s-.962.001-2.396.104C28.556 2.067 12 1.829 12 18.815c0 7.552 5.762 16.579 12.332 24.424c-4.788 4.521-8.453 7.528-8.453 7.528l4.896 11.139s5.101-4.183 11.178-10.325C38.072 57.776 43.225 62 43.225 62l4.898-11.137s-3.712-3.041-8.549-7.605C46.184 35.386 52 26.309 52 18.719m-6.325-3.067c-2.005 6.232-7.784 13.593-13.733 19.962c-6.045-6.47-11.909-13.951-13.82-20.232c2.222-2.727 7.498-4.649 13.67-4.649c6.373 0 11.798 2.049 13.883 4.919");
+}
+</style><path class="trjbudy9i"/>`,
+		"fallback": "emojione-monotone:reminder-ribbon",
+	});
+}
+
+export default Component;

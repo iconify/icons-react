@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.f23xxgbiv {
+  fill: currentColor;
+  d: path("M38.408 27.813h-4.625a1.83 1.83 0 0 0-.944-1.09L32 15.286l-.839 11.438c-.612.3-1.036.911-1.036 1.624c0 1.009.84 1.826 1.875 1.826c.842 0 1.545-.543 1.781-1.288h4.627c.16.746.632 1.288 1.192 1.288c.688 0 2.712-1.826 2.712-1.826s-2.023-1.826-2.712-1.826c-.56-.001-1.032.542-1.192 1.291");
+}
+
+.ocwp4yp2n {
+  fill: currentColor;
+  d: path("M58.25 39.305c-4.677 0-8.438-7.306-8.438-11.87C49.813 18.308 41.354 11 32 11c-9.353 0-17.813 7.308-17.813 16.435c0 4.564-3.761 11.87-8.438 11.87H2v11.869h2.813V53h7.5v-1.826h39.375V53h7.5v-1.826H62V39.305zM32 42.043c-7.766 0-14.063-6.131-14.063-13.695c0-7.565 6.297-13.695 14.063-13.695c7.768 0 14.063 6.13 14.063 13.695c0 7.564-6.295 13.695-14.063 13.695");
+}
+</style><path class="ocwp4yp2n"/><path class="f23xxgbiv"/>`,
+		"fallback": "emojione-monotone:mantelpiece-clock",
+	});
+}
+
+export default Component;

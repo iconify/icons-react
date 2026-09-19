@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cwy4nibze {
+  fill: currentColor;
+  d: path("M2 10v44h60V10zm22.727 29.333H9.272V17.334h15.454v21.999zm12.727 5.502H26.545V12.75h10.909zm1.818-10.797a7.17 7.17 0 0 0 4.546 1.629c4.017 0 7.271-3.284 7.271-7.334S47.834 21 43.818 21a7.17 7.17 0 0 0-4.546 1.629v-5.295h15.454v21.999H39.272zm0 8.045h18.182V14.584H39.272v-2.75h20.909v33H39.272zM3.818 11.834h20.908v2.75H6.545v27.499h18.182v2.751H3.818z");
+}
+
+.skqc26qsh {
+  fill: currentColor;
+  d: path("M17.454 32.917a1.83 1.83 0 0 1-1.818-1.834h-1.817a3.65 3.65 0 0 0 2.727 3.536v1.048h1.818v-1.048a3.655 3.655 0 0 0 2.727-3.536c0-2.021-1.631-3.666-3.636-3.666a1.83 1.83 0 0 1-1.818-1.833c0-1.013.816-1.834 1.818-1.834s1.818.821 1.818 1.834h1.817a3.65 3.65 0 0 0-2.727-3.536V21h-1.818v1.048a3.655 3.655 0 0 0-2.727 3.536c0 2.021 1.631 3.666 3.636 3.666c1.003 0 1.818.822 1.818 1.833a1.827 1.827 0 0 1-1.818 1.834");
+}
+</style><path class="cwy4nibze"/><path class="skqc26qsh"/>`,
+		"fallback": "emojione-monotone:dollar-banknote",
+	});
+}
+
+export default Component;

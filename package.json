@@ -1,0 +1,151 @@
+{
+  "name": "@iconify-react/fontelico",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/fontelico/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC-BY-SA-3.0",
+  "exports": {
+    "./chrome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chrome.jsx"
+    },
+    "./crown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crown.jsx"
+    },
+    "./crown-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crown-minus.jsx"
+    },
+    "./crown-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crown-plus.jsx"
+    },
+    "./emo-angry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-angry.jsx"
+    },
+    "./emo-beer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-beer.jsx"
+    },
+    "./emo-coffee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-coffee.jsx"
+    },
+    "./emo-cry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-cry.jsx"
+    },
+    "./emo-devil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-devil.jsx"
+    },
+    "./emo-displeased": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-displeased.jsx"
+    },
+    "./emo-grin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-grin.jsx"
+    },
+    "./emo-happy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-happy.jsx"
+    },
+    "./emo-laugh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-laugh.jsx"
+    },
+    "./emo-saint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-saint.jsx"
+    },
+    "./emo-shoot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-shoot.jsx"
+    },
+    "./emo-sleep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-sleep.jsx"
+    },
+    "./emo-squint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-squint.jsx"
+    },
+    "./emo-sunglasses": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-sunglasses.jsx"
+    },
+    "./emo-surprised": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-surprised.jsx"
+    },
+    "./emo-thumbsup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-thumbsup.jsx"
+    },
+    "./emo-tongue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-tongue.jsx"
+    },
+    "./emo-unhappy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-unhappy.jsx"
+    },
+    "./emo-wink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-wink.jsx"
+    },
+    "./emo-wink2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emo-wink2.jsx"
+    },
+    "./firefox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firefox.jsx"
+    },
+    "./ie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ie.jsx"
+    },
+    "./marquee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marquee.jsx"
+    },
+    "./opera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opera.jsx"
+    },
+    "./spin1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spin1.jsx"
+    },
+    "./spin2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spin2.jsx"
+    },
+    "./spin3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spin3.jsx"
+    },
+    "./spin4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spin4.jsx"
+    },
+    "./spin5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spin5.jsx"
+    },
+    "./spin6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spin6.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#fontelico"
+}

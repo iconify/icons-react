@@ -1,0 +1,1483 @@
+{
+  "name": "@iconify-react/gis",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/gis/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC-BY-4.0",
+  "exports": {
+    "./360": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/360.jsx"
+    },
+    "./3dtiles-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3dtiles-file.jsx"
+    },
+    "./3dtiles-web": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3dtiles-web.jsx"
+    },
+    "./arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow.jsx"
+    },
+    "./arrow-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-o.jsx"
+    },
+    "./azimuth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azimuth.jsx"
+    },
+    "./bbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bbox.jsx"
+    },
+    "./bbox-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bbox-alt.jsx"
+    },
+    "./bicycle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle.jsx"
+    },
+    "./bookmark-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-poi.jsx"
+    },
+    "./bookmark-poi-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-poi-b.jsx"
+    },
+    "./buffer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buffer.jsx"
+    },
+    "./bus-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-map.jsx"
+    },
+    "./cadastre-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cadastre-map.jsx"
+    },
+    "./car": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car.jsx"
+    },
+    "./circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle.jsx"
+    },
+    "./circle-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-o.jsx"
+    },
+    "./color": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/color.jsx"
+    },
+    "./compare-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compare-map.jsx"
+    },
+    "./compass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass.jsx"
+    },
+    "./compass-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-alt.jsx"
+    },
+    "./compass-alt-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-alt-o.jsx"
+    },
+    "./compass-needle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-needle.jsx"
+    },
+    "./compass-rose": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-rose.jsx"
+    },
+    "./compass-rose-n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-rose-n.jsx"
+    },
+    "./contour-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contour-map.jsx"
+    },
+    "./convex-hull": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convex-hull.jsx"
+    },
+    "./coord-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coord-grid.jsx"
+    },
+    "./coord-system": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coord-system.jsx"
+    },
+    "./coord-system-3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coord-system-3d.jsx"
+    },
+    "./coord-system-3d-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coord-system-3d-alt.jsx"
+    },
+    "./coord-system-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coord-system-alt.jsx"
+    },
+    "./copy-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-line.jsx"
+    },
+    "./copy-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-point.jsx"
+    },
+    "./copy-poly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-poly.jsx"
+    },
+    "./csw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csw.jsx"
+    },
+    "./cube-3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cube-3d.jsx"
+    },
+    "./difference": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/difference.jsx"
+    },
+    "./dilatation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dilatation.jsx"
+    },
+    "./direct": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direct.jsx"
+    },
+    "./direction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction.jsx"
+    },
+    "./directions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/directions.jsx"
+    },
+    "./drone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone.jsx"
+    },
+    "./earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth.jsx"
+    },
+    "./earth-america": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-america.jsx"
+    },
+    "./earth-america-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-america-o.jsx"
+    },
+    "./earth-asia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-asia.jsx"
+    },
+    "./earth-asia-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-asia-o.jsx"
+    },
+    "./earth-atlantic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-atlantic.jsx"
+    },
+    "./earth-atlantic-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-atlantic-o.jsx"
+    },
+    "./earth-australia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-australia.jsx"
+    },
+    "./earth-australia-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-australia-o.jsx"
+    },
+    "./earth-euro-africa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-euro-africa.jsx"
+    },
+    "./earth-euro-africa-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-euro-africa-o.jsx"
+    },
+    "./earth-gear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-gear.jsx"
+    },
+    "./earth-net": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-net.jsx"
+    },
+    "./earth-net-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-net-o.jsx"
+    },
+    "./earth-network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-network.jsx"
+    },
+    "./earth-network-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-network-o.jsx"
+    },
+    "./earth-north": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-north.jsx"
+    },
+    "./earth-north-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-north-o.jsx"
+    },
+    "./earth-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-o.jsx"
+    },
+    "./earth-pacific": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-pacific.jsx"
+    },
+    "./earth-pacific-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-pacific-o.jsx"
+    },
+    "./earth-south": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-south.jsx"
+    },
+    "./earth-south-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-south-o.jsx"
+    },
+    "./erosion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/erosion.jsx"
+    },
+    "./esri-json-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/esri-json-file.jsx"
+    },
+    "./extent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extent.jsx"
+    },
+    "./extent-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extent-alt.jsx"
+    },
+    "./finish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/finish.jsx"
+    },
+    "./flab-b-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flab-b-o.jsx"
+    },
+    "./flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag.jsx"
+    },
+    "./flag-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-b.jsx"
+    },
+    "./flag-finish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-finish.jsx"
+    },
+    "./flag-finish-b-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-finish-b-o.jsx"
+    },
+    "./flag-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-o.jsx"
+    },
+    "./flag-start": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-start.jsx"
+    },
+    "./flag-start-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-start-b.jsx"
+    },
+    "./flag-start-b-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-start-b-o.jsx"
+    },
+    "./flag-start-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-start-o.jsx"
+    },
+    "./flip-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-h.jsx"
+    },
+    "./flip-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-v.jsx"
+    },
+    "./flow-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flow-map.jsx"
+    },
+    "./folder-globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-globe.jsx"
+    },
+    "./folder-globe-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-globe-o.jsx"
+    },
+    "./folder-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-map.jsx"
+    },
+    "./folder-maps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-maps.jsx"
+    },
+    "./folder-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-poi.jsx"
+    },
+    "./folder-poi-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-poi-o.jsx"
+    },
+    "./folder-pois": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pois.jsx"
+    },
+    "./full-screen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/full-screen.jsx"
+    },
+    "./geojson-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/geojson-file.jsx"
+    },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./globe-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-alt.jsx"
+    },
+    "./globe-alt-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-alt-o.jsx"
+    },
+    "./globe-earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-earth.jsx"
+    },
+    "./globe-earth-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-earth-alt.jsx"
+    },
+    "./globe-favorite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-favorite.jsx"
+    },
+    "./globe-gear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-gear.jsx"
+    },
+    "./globe-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-o.jsx"
+    },
+    "./globe-options": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-options.jsx"
+    },
+    "./globe-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-poi.jsx"
+    },
+    "./globe-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-share.jsx"
+    },
+    "./globe-shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-shield.jsx"
+    },
+    "./globe-smiley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-smiley.jsx"
+    },
+    "./globe-star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-star.jsx"
+    },
+    "./globe-user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-user.jsx"
+    },
+    "./globe-users": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-users.jsx"
+    },
+    "./gnss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnss.jsx"
+    },
+    "./gnss-antenna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnss-antenna.jsx"
+    },
+    "./gpx-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gpx-file.jsx"
+    },
+    "./grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid.jsx"
+    },
+    "./height-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/height-map.jsx"
+    },
+    "./help-larrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help-larrow.jsx"
+    },
+    "./help-rarrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help-rarrow.jsx"
+    },
+    "./hex-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hex-map.jsx"
+    },
+    "./hiker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hiker.jsx"
+    },
+    "./home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home.jsx"
+    },
+    "./hydro-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hydro-map.jsx"
+    },
+    "./i3s-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i3s-file.jsx"
+    },
+    "./i3s-web": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i3s-web.jsx"
+    },
+    "./intersection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersection.jsx"
+    },
+    "./kml-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kml-file.jsx"
+    },
+    "./landcover-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landcover-map.jsx"
+    },
+    "./layer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer.jsx"
+    },
+    "./layer-2-add-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-2-add-o.jsx"
+    },
+    "./layer-2-rm-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-2-rm-o.jsx"
+    },
+    "./layer-add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-add.jsx"
+    },
+    "./layer-add-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-add-o.jsx"
+    },
+    "./layer-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-alt.jsx"
+    },
+    "./layer-alt-add-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-alt-add-o.jsx"
+    },
+    "./layer-alt-edit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-alt-edit.jsx"
+    },
+    "./layer-alt-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-alt-o.jsx"
+    },
+    "./layer-alt-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-alt-poi.jsx"
+    },
+    "./layer-alt-rm-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-alt-rm-o.jsx"
+    },
+    "./layer-alt-x-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-alt-x-o.jsx"
+    },
+    "./layer-contour": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-contour.jsx"
+    },
+    "./layer-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-down.jsx"
+    },
+    "./layer-download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-download.jsx"
+    },
+    "./layer-edit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-edit.jsx"
+    },
+    "./layer-height": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-height.jsx"
+    },
+    "./layer-hydro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-hydro.jsx"
+    },
+    "./layer-landcover": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-landcover.jsx"
+    },
+    "./layer-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-o.jsx"
+    },
+    "./layer-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-poi.jsx"
+    },
+    "./layer-rm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-rm.jsx"
+    },
+    "./layer-rm-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-rm-o.jsx"
+    },
+    "./layer-road": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-road.jsx"
+    },
+    "./layer-stack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-stack.jsx"
+    },
+    "./layer-stack-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-stack-o.jsx"
+    },
+    "./layer-stat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-stat.jsx"
+    },
+    "./layer-stat-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-stat-alt.jsx"
+    },
+    "./layer-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-up.jsx"
+    },
+    "./layer-upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-upload.jsx"
+    },
+    "./layers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers.jsx"
+    },
+    "./layers-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-o.jsx"
+    },
+    "./layers-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-poi.jsx"
+    },
+    "./location": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location.jsx"
+    },
+    "./location-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-arrow.jsx"
+    },
+    "./location-arrow-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-arrow-o.jsx"
+    },
+    "./location-man": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-man.jsx"
+    },
+    "./location-man-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-man-alt.jsx"
+    },
+    "./location-on": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-on.jsx"
+    },
+    "./location-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-poi.jsx"
+    },
+    "./location-poi-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-poi-o.jsx"
+    },
+    "./magnify-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnify-map.jsx"
+    },
+    "./map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map.jsx"
+    },
+    "./map-add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-add.jsx"
+    },
+    "./map-book": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-book.jsx"
+    },
+    "./map-bookmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-bookmark.jsx"
+    },
+    "./map-control": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-control.jsx"
+    },
+    "./map-edit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-edit.jsx"
+    },
+    "./map-extent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-extent.jsx"
+    },
+    "./map-favorite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-favorite.jsx"
+    },
+    "./map-legend": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-legend.jsx"
+    },
+    "./map-legend-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-legend-o.jsx"
+    },
+    "./map-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-lock.jsx"
+    },
+    "./map-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-o.jsx"
+    },
+    "./map-options": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-options.jsx"
+    },
+    "./map-options-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-options-alt.jsx"
+    },
+    "./map-play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-play.jsx"
+    },
+    "./map-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-poi.jsx"
+    },
+    "./map-print": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-print.jsx"
+    },
+    "./map-rm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-rm.jsx"
+    },
+    "./map-route": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-route.jsx"
+    },
+    "./map-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-search.jsx"
+    },
+    "./map-send": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-send.jsx"
+    },
+    "./map-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-share.jsx"
+    },
+    "./map-share-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-share-alt.jsx"
+    },
+    "./map-smiley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-smiley.jsx"
+    },
+    "./map-star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-star.jsx"
+    },
+    "./map-stat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-stat.jsx"
+    },
+    "./map-tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-tag.jsx"
+    },
+    "./map-tags": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-tags.jsx"
+    },
+    "./map-time": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-time.jsx"
+    },
+    "./map-unlock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-unlock.jsx"
+    },
+    "./map-user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-user.jsx"
+    },
+    "./map-users": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-users.jsx"
+    },
+    "./measure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/measure.jsx"
+    },
+    "./measure-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/measure-area.jsx"
+    },
+    "./measure-area-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/measure-area-alt.jsx"
+    },
+    "./measure-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/measure-line.jsx"
+    },
+    "./modify-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modify-line.jsx"
+    },
+    "./modify-poly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modify-poly.jsx"
+    },
+    "./modify-poly-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modify-poly-o.jsx"
+    },
+    "./mosaic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mosaic.jsx"
+    },
+    "./move": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/move.jsx"
+    },
+    "./move-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/move-alt.jsx"
+    },
+    "./multipoint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multipoint.jsx"
+    },
+    "./mvt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mvt.jsx"
+    },
+    "./network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network.jsx"
+    },
+    "./network-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/network-o.jsx"
+    },
+    "./north-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/north-arrow.jsx"
+    },
+    "./north-arrow-n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/north-arrow-n.jsx"
+    },
+    "./offset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/offset.jsx"
+    },
+    "./openls": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openls.jsx"
+    },
+    "./pedestrian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pedestrian.jsx"
+    },
+    "./phone-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-map.jsx"
+    },
+    "./phone-route": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-route.jsx"
+    },
+    "./phone-route-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-route-alt.jsx"
+    },
+    "./phone-route-alt-r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-route-alt-r.jsx"
+    },
+    "./photogrammetry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photogrammetry.jsx"
+    },
+    "./pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin.jsx"
+    },
+    "./pin-earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-earth.jsx"
+    },
+    "./pirate-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pirate-map.jsx"
+    },
+    "./pirate-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pirate-poi.jsx"
+    },
+    "./poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi.jsx"
+    },
+    "./poi-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-alt.jsx"
+    },
+    "./poi-alt-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-alt-o.jsx"
+    },
+    "./poi-earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-earth.jsx"
+    },
+    "./poi-favorite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-favorite.jsx"
+    },
+    "./poi-favorite-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-favorite-o.jsx"
+    },
+    "./poi-home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-home.jsx"
+    },
+    "./poi-home-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-home-o.jsx"
+    },
+    "./poi-info": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-info.jsx"
+    },
+    "./poi-info-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-info-o.jsx"
+    },
+    "./poi-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-map.jsx"
+    },
+    "./poi-map-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-map-o.jsx"
+    },
+    "./poi-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-o.jsx"
+    },
+    "./poi-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-slash.jsx"
+    },
+    "./poi-slash-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poi-slash-o.jsx"
+    },
+    "./point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/point.jsx"
+    },
+    "./pois": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pois.jsx"
+    },
+    "./pois-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pois-o.jsx"
+    },
+    "./polygon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon.jsx"
+    },
+    "./polygon-hole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon-hole.jsx"
+    },
+    "./polygon-hole-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon-hole-o.jsx"
+    },
+    "./polygon-hole-pt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon-hole-pt.jsx"
+    },
+    "./polygon-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon-o.jsx"
+    },
+    "./polygon-o-dash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon-o-dash.jsx"
+    },
+    "./polygon-pt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon-pt.jsx"
+    },
+    "./polyline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polyline.jsx"
+    },
+    "./polyline-dash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polyline-dash.jsx"
+    },
+    "./polyline-pt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polyline-pt.jsx"
+    },
+    "./position": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/position.jsx"
+    },
+    "./position-man": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/position-man.jsx"
+    },
+    "./position-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/position-o.jsx"
+    },
+    "./profile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/profile.jsx"
+    },
+    "./profile-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/profile-o.jsx"
+    },
+    "./proj-conic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proj-conic.jsx"
+    },
+    "./proj-geo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proj-geo.jsx"
+    },
+    "./proj-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proj-point.jsx"
+    },
+    "./proj-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proj-square.jsx"
+    },
+    "./proj-stereo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proj-stereo.jsx"
+    },
+    "./proj-utm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proj-utm.jsx"
+    },
+    "./pushpin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pushpin.jsx"
+    },
+    "./pyramid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pyramid.jsx"
+    },
+    "./rectangle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle.jsx"
+    },
+    "./rectangle-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-o.jsx"
+    },
+    "./rectangle-pt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-pt.jsx"
+    },
+    "./regular-shape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regular-shape.jsx"
+    },
+    "./regular-shape-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regular-shape-o.jsx"
+    },
+    "./regular-shape-pt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regular-shape-pt.jsx"
+    },
+    "./revers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/revers.jsx"
+    },
+    "./road-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/road-map.jsx"
+    },
+    "./rotate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate.jsx"
+    },
+    "./route": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route.jsx"
+    },
+    "./route-end": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route-end.jsx"
+    },
+    "./route-start": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route-start.jsx"
+    },
+    "./satellite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite.jsx"
+    },
+    "./satellite-earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-earth.jsx"
+    },
+    "./scale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scale.jsx"
+    },
+    "./scale-poly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scale-poly.jsx"
+    },
+    "./screen-dub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-dub.jsx"
+    },
+    "./screen-dub-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-dub-o.jsx"
+    },
+    "./screen-dub1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-dub1.jsx"
+    },
+    "./screen-dub2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-dub2.jsx"
+    },
+    "./screen-mag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-mag.jsx"
+    },
+    "./screen-mag-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-mag-alt.jsx"
+    },
+    "./screen-mag-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-mag-o.jsx"
+    },
+    "./screen-split-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-split-h.jsx"
+    },
+    "./screen-split-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-split-v.jsx"
+    },
+    "./search-address": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-address.jsx"
+    },
+    "./search-attribtues": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-attribtues.jsx"
+    },
+    "./search-coord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-coord.jsx"
+    },
+    "./search-country": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-country.jsx"
+    },
+    "./search-data": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-data.jsx"
+    },
+    "./search-feature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-feature.jsx"
+    },
+    "./search-globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-globe.jsx"
+    },
+    "./search-globe-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-globe-alt.jsx"
+    },
+    "./search-home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-home.jsx"
+    },
+    "./search-layer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-layer.jsx"
+    },
+    "./search-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-map.jsx"
+    },
+    "./search-poi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-poi.jsx"
+    },
+    "./search-propertie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-propertie.jsx"
+    },
+    "./select-extent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/select-extent.jsx"
+    },
+    "./shape-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shape-file.jsx"
+    },
+    "./signpost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signpost.jsx"
+    },
+    "./simplify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simplify.jsx"
+    },
+    "./skeletonize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skeletonize.jsx"
+    },
+    "./sld": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sld.jsx"
+    },
+    "./snap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snap.jsx"
+    },
+    "./snap-ortho": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snap-ortho.jsx"
+    },
+    "./sos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sos.jsx"
+    },
+    "./split": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/split.jsx"
+    },
+    "./split-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/split-line.jsx"
+    },
+    "./split-polygon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/split-polygon.jsx"
+    },
+    "./sps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sps.jsx"
+    },
+    "./square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square.jsx"
+    },
+    "./square-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-o.jsx"
+    },
+    "./square-pt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-pt.jsx"
+    },
+    "./start": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start.jsx"
+    },
+    "./start-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/start-o.jsx"
+    },
+    "./statistic-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statistic-map.jsx"
+    },
+    "./step": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step.jsx"
+    },
+    "./step-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-o.jsx"
+    },
+    "./story-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/story-map.jsx"
+    },
+    "./story-map-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/story-map-o.jsx"
+    },
+    "./story-maps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/story-maps.jsx"
+    },
+    "./swipe-map-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swipe-map-h.jsx"
+    },
+    "./swipe-map-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swipe-map-v.jsx"
+    },
+    "./sym-difference": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sym-difference.jsx"
+    },
+    "./tacheometer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tacheometer.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./tag-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-o.jsx"
+    },
+    "./tags": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags.jsx"
+    },
+    "./tags-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags-o.jsx"
+    },
+    "./theodolite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theodolite.jsx"
+    },
+    "./time-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-map.jsx"
+    },
+    "./timer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/timer.jsx"
+    },
+    "./tjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tjs.jsx"
+    },
+    "./topography": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/topography.jsx"
+    },
+    "./topojson-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/topojson-file.jsx"
+    },
+    "./translate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate.jsx"
+    },
+    "./translate-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-x.jsx"
+    },
+    "./translate-y": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-y.jsx"
+    },
+    "./triangle-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-map.jsx"
+    },
+    "./union": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/union.jsx"
+    },
+    "./voronoi-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/voronoi-map.jsx"
+    },
+    "./wcps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wcps.jsx"
+    },
+    "./wcs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wcs.jsx"
+    },
+    "./weather-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weather-map.jsx"
+    },
+    "./wfs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wfs.jsx"
+    },
+    "./wfs-t": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wfs-t.jsx"
+    },
+    "./wmc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wmc.jsx"
+    },
+    "./wms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wms.jsx"
+    },
+    "./wmts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wmts.jsx"
+    },
+    "./world-folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/world-folder.jsx"
+    },
+    "./world-folder-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/world-folder-o.jsx"
+    },
+    "./world-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/world-map.jsx"
+    },
+    "./world-map-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/world-map-alt.jsx"
+    },
+    "./world-map-alt-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/world-map-alt-o.jsx"
+    },
+    "./wps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wps.jsx"
+    },
+    "./xyz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xyz.jsx"
+    },
+    "./zoom-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-in.jsx"
+    },
+    "./zoom-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-out.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#gis"
+}

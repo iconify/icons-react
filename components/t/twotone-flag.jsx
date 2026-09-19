@@ -1,0 +1,28 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fahtusbff {
+  fill: currentColor;
+  d: path("M12.36 6H7v6h7.24l.4 2H18V8h-5.24z");
+  opacity: var(--svg-opacity--0-3, 0.3);
+}
+
+.isrkkfbce {
+  fill: currentColor;
+  d: path("M14.4 6L14 4H5v17h2v-7h5.6l.4 2h7V6zm3.6 8h-3.36l-.4-2H7V6h5.36l.4 2H18z");
+}
+</style><path class="fahtusbff"/><path class="isrkkfbce"/>`,
+		"fallback": "ic:twotone-flag",
+	});
+}
+
+export default Component;

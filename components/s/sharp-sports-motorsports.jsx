@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.asdaibbnv {
+  fill: currentColor;
+  d: path("M12 11.39c0-.65-.39-1.23-.98-1.48L5.44 7.55c-1.48 1.68-2.32 3.7-2.8 5.45h7.75c.89 0 1.61-.72 1.61-1.61");
+}
+
+.con0ejjfj {
+  fill: currentColor;
+  d: path("M21.96 11.22c-.41-4.41-4.56-7.49-8.98-7.2c-2.51.16-4.44.94-5.93 2.04l4.74 2.01c1.33.57 2.2 1.87 2.2 3.32c0 1.99-1.62 3.61-3.61 3.61H2.21C2 16.31 2 17.2 2 17.2V20h12c4.67 0 8.41-4.01 7.96-8.78");
+}
+</style><path class="asdaibbnv"/><path class="con0ejjfj"/>`,
+		"fallback": "ic:sharp-sports-motorsports",
+	});
+}
+
+export default Component;

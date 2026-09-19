@@ -1,0 +1,46 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bp68och9l {
+  cx: 18px;
+  cy: 5px;
+  r: 1px;
+  fill: currentColor;
+  opacity: var(--svg-opacity--0-3, 0.3);
+}
+
+.rm0lqnbcs {
+  cx: 18px;
+  cy: 19.02px;
+  r: 1px;
+  fill: currentColor;
+  opacity: var(--svg-opacity--0-3, 0.3);
+}
+
+.w13pmvx5v {
+  fill: currentColor;
+  d: path("M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81c1.66 0 3-1.34 3-3s-1.34-3-3-3s-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65c0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92M18 4c.55 0 1 .45 1 1s-.45 1-1 1s-1-.45-1-1s.45-1 1-1M6 13c-.55 0-1-.45-1-1s.45-1 1-1s1 .45 1 1s-.45 1-1 1m12 7.02c-.55 0-1-.45-1-1s.45-1 1-1s1 .45 1 1s-.45 1-1 1");
+}
+
+.zgo-kf_cw {
+  cx: 6px;
+  cy: 12px;
+  r: 1px;
+  fill: currentColor;
+  opacity: var(--svg-opacity--0-3, 0.3);
+}
+</style><circle class="bp68och9l"/><circle class="zgo-kf_cw"/><circle class="rm0lqnbcs"/><path class="w13pmvx5v"/>`,
+		"fallback": "ic:twotone-share",
+	});
+}
+
+export default Component;

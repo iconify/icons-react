@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/k/kn-606c3s.css';
+import '../../css/k/kvzkehbps.css';
+import '../../css/a/a6tunsbtf.css';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="kn-606c3s"/><path class="kvzkehbps"/><path class="a6tunsbtf"/></g>`,
+		"fallback": "fluent-emoji-high-contrast:woman-in-steamy-room",
+	});
+}
+
+export default Component;

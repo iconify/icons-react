@@ -1,0 +1,2655 @@
+{
+  "name": "@iconify-react/catppuccin",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/catppuccin/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3d.jsx"
+    },
+    "./adobe-ae": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-ae.jsx"
+    },
+    "./adobe-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-ai.jsx"
+    },
+    "./adobe-id": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-id.jsx"
+    },
+    "./adobe-ps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-ps.jsx"
+    },
+    "./adobe-xd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-xd.jsx"
+    },
+    "./adonis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adonis.jsx"
+    },
+    "./alex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alex.jsx"
+    },
+    "./amber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amber.jsx"
+    },
+    "./android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android.jsx"
+    },
+    "./angular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular.jsx"
+    },
+    "./angular-component": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-component.jsx"
+    },
+    "./angular-directive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-directive.jsx"
+    },
+    "./angular-guard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-guard.jsx"
+    },
+    "./angular-pipe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-pipe.jsx"
+    },
+    "./angular-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-service.jsx"
+    },
+    "./ansible-lint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansible-lint.jsx"
+    },
+    "./antlr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/antlr.jsx"
+    },
+    "./apache": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache.jsx"
+    },
+    "./api-blueprint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api-blueprint.jsx"
+    },
+    "./apollo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apollo.jsx"
+    },
+    "./apple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple.jsx"
+    },
+    "./arduino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arduino.jsx"
+    },
+    "./asciidoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asciidoc.jsx"
+    },
+    "./assembly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly.jsx"
+    },
+    "./astro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astro.jsx"
+    },
+    "./astro-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astro-config.jsx"
+    },
+    "./audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio.jsx"
+    },
+    "./autohotkey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autohotkey.jsx"
+    },
+    "./azure-pipelines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-pipelines.jsx"
+    },
+    "./babel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babel.jsx"
+    },
+    "./bash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bash.jsx"
+    },
+    "./batch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/batch.jsx"
+    },
+    "./bazel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel.jsx"
+    },
+    "./benchmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/benchmark.jsx"
+    },
+    "./bicep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicep.jsx"
+    },
+    "./binary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binary.jsx"
+    },
+    "./biome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biome.jsx"
+    },
+    "./bitbucket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket.jsx"
+    },
+    "./blink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blink.jsx"
+    },
+    "./blitz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blitz.jsx"
+    },
+    "./bower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bower.jsx"
+    },
+    "./browserslist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserslist.jsx"
+    },
+    "./bun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bun.jsx"
+    },
+    "./bun-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bun-lock.jsx"
+    },
+    "./c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c.jsx"
+    },
+    "./c-header": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-header.jsx"
+    },
+    "./cabal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cabal.jsx"
+    },
+    "./caddy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caddy.jsx"
+    },
+    "./capacitor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/capacitor.jsx"
+    },
+    "./cargo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cargo.jsx"
+    },
+    "./cargo-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cargo-lock.jsx"
+    },
+    "./certificate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certificate.jsx"
+    },
+    "./changelog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changelog.jsx"
+    },
+    "./circle-ci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-ci.jsx"
+    },
+    "./clojure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clojure.jsx"
+    },
+    "./cmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake.jsx"
+    },
+    "./cobol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cobol.jsx"
+    },
+    "./code-climate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-climate.jsx"
+    },
+    "./code-of-conduct": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-of-conduct.jsx"
+    },
+    "./codeowners": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeowners.jsx"
+    },
+    "./coffeescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffeescript.jsx"
+    },
+    "./commitlint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commitlint.jsx"
+    },
+    "./config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config.jsx"
+    },
+    "./contributing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contributing.jsx"
+    },
+    "./cpp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpp.jsx"
+    },
+    "./cpp-header": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpp-header.jsx"
+    },
+    "./crystal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crystal.jsx"
+    },
+    "./csharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csharp.jsx"
+    },
+    "./cspell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cspell.jsx"
+    },
+    "./css": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css.jsx"
+    },
+    "./css-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css-map.jsx"
+    },
+    "./css3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css3.jsx"
+    },
+    "./csv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csv.jsx"
+    },
+    "./cucumber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cucumber.jsx"
+    },
+    "./cuda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cuda.jsx"
+    },
+    "./cue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cue.jsx"
+    },
+    "./cursor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor.jsx"
+    },
+    "./cursor-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-ignore.jsx"
+    },
+    "./cypress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cypress.jsx"
+    },
+    "./d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d.jsx"
+    },
+    "./darklua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/darklua.jsx"
+    },
+    "./dart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart.jsx"
+    },
+    "./dart-generated": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart-generated.jsx"
+    },
+    "./database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database.jsx"
+    },
+    "./deno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno.jsx"
+    },
+    "./deno-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno-lock.jsx"
+    },
+    "./dependabot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dependabot.jsx"
+    },
+    "./devcontainer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devcontainer.jsx"
+    },
+    "./dhall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dhall.jsx"
+    },
+    "./diff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diff.jsx"
+    },
+    "./django": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/django.jsx"
+    },
+    "./docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker.jsx"
+    },
+    "./docker-compose": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-compose.jsx"
+    },
+    "./docker-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-ignore.jsx"
+    },
+    "./docusaurus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docusaurus.jsx"
+    },
+    "./drawio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drawio.jsx"
+    },
+    "./drizzle-orm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drizzle-orm.jsx"
+    },
+    "./dub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dub.jsx"
+    },
+    "./dub-selections": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dub-selections.jsx"
+    },
+    "./editorconfig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/editorconfig.jsx"
+    },
+    "./ejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ejs.jsx"
+    },
+    "./eleventy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eleventy.jsx"
+    },
+    "./elixir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir.jsx"
+    },
+    "./elm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elm.jsx"
+    },
+    "./ember": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ember.jsx"
+    },
+    "./env": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/env.jsx"
+    },
+    "./envrc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envrc.jsx"
+    },
+    "./erlang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/erlang.jsx"
+    },
+    "./esbuild": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/esbuild.jsx"
+    },
+    "./eslint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint.jsx"
+    },
+    "./eslint-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint-ignore.jsx"
+    },
+    "./exe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exe.jsx"
+    },
+    "./fastlane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fastlane.jsx"
+    },
+    "./favicon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/favicon.jsx"
+    },
+    "./figma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma.jsx"
+    },
+    "./file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file.jsx"
+    },
+    "./firebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase.jsx"
+    },
+    "./flutter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flutter.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./folder-admin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-admin.jsx"
+    },
+    "./folder-admin-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-admin-open.jsx"
+    },
+    "./folder-android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-android.jsx"
+    },
+    "./folder-android-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-android-open.jsx"
+    },
+    "./folder-animation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-animation.jsx"
+    },
+    "./folder-animation-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-animation-open.jsx"
+    },
+    "./folder-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-api.jsx"
+    },
+    "./folder-api-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-api-open.jsx"
+    },
+    "./folder-app": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-app.jsx"
+    },
+    "./folder-app-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-app-open.jsx"
+    },
+    "./folder-assets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-assets.jsx"
+    },
+    "./folder-assets-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-assets-open.jsx"
+    },
+    "./folder-audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-audio.jsx"
+    },
+    "./folder-audio-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-audio-open.jsx"
+    },
+    "./folder-audit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-audit.jsx"
+    },
+    "./folder-audit-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-audit-open.jsx"
+    },
+    "./folder-aws": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-aws.jsx"
+    },
+    "./folder-aws-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-aws-open.jsx"
+    },
+    "./folder-azure-devops": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-azure-devops.jsx"
+    },
+    "./folder-azure-devops-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-azure-devops-open.jsx"
+    },
+    "./folder-azure-pipelines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-azure-pipelines.jsx"
+    },
+    "./folder-azure-pipelines-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-azure-pipelines-open.jsx"
+    },
+    "./folder-benchmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-benchmark.jsx"
+    },
+    "./folder-benchmark-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-benchmark-open.jsx"
+    },
+    "./folder-caddy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-caddy.jsx"
+    },
+    "./folder-caddy-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-caddy-open.jsx"
+    },
+    "./folder-cargo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cargo.jsx"
+    },
+    "./folder-cargo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cargo-open.jsx"
+    },
+    "./folder-circle-ci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-circle-ci.jsx"
+    },
+    "./folder-circle-ci-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-circle-ci-open.jsx"
+    },
+    "./folder-client": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-client.jsx"
+    },
+    "./folder-client-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-client-open.jsx"
+    },
+    "./folder-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cloud.jsx"
+    },
+    "./folder-cloud-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cloud-open.jsx"
+    },
+    "./folder-command": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-command.jsx"
+    },
+    "./folder-command-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-command-open.jsx"
+    },
+    "./folder-components": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-components.jsx"
+    },
+    "./folder-components-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-components-open.jsx"
+    },
+    "./folder-composables": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-composables.jsx"
+    },
+    "./folder-composables-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-composables-open.jsx"
+    },
+    "./folder-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-config.jsx"
+    },
+    "./folder-config-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-config-open.jsx"
+    },
+    "./folder-connection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-connection.jsx"
+    },
+    "./folder-connection-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-connection-open.jsx"
+    },
+    "./folder-constant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-constant.jsx"
+    },
+    "./folder-constant-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-constant-open.jsx"
+    },
+    "./folder-content": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-content.jsx"
+    },
+    "./folder-content-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-content-open.jsx"
+    },
+    "./folder-controllers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-controllers.jsx"
+    },
+    "./folder-controllers-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-controllers-open.jsx"
+    },
+    "./folder-core": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-core.jsx"
+    },
+    "./folder-core-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-core-open.jsx"
+    },
+    "./folder-coverage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-coverage.jsx"
+    },
+    "./folder-coverage-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-coverage-open.jsx"
+    },
+    "./folder-cursor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cursor.jsx"
+    },
+    "./folder-cursor-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cursor-open.jsx"
+    },
+    "./folder-cypress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cypress.jsx"
+    },
+    "./folder-cypress-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cypress-open.jsx"
+    },
+    "./folder-database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-database.jsx"
+    },
+    "./folder-database-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-database-open.jsx"
+    },
+    "./folder-debug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-debug.jsx"
+    },
+    "./folder-debug-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-debug-open.jsx"
+    },
+    "./folder-devcontainer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-devcontainer.jsx"
+    },
+    "./folder-devcontainer-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-devcontainer-open.jsx"
+    },
+    "./folder-direnv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-direnv.jsx"
+    },
+    "./folder-direnv-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-direnv-open.jsx"
+    },
+    "./folder-dist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dist.jsx"
+    },
+    "./folder-dist-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dist-open.jsx"
+    },
+    "./folder-docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docker.jsx"
+    },
+    "./folder-docker-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docker-open.jsx"
+    },
+    "./folder-docs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docs.jsx"
+    },
+    "./folder-docs-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docs-open.jsx"
+    },
+    "./folder-download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-download.jsx"
+    },
+    "./folder-download-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-download-open.jsx"
+    },
+    "./folder-drizzle-orm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-drizzle-orm.jsx"
+    },
+    "./folder-drizzle-orm-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-drizzle-orm-open.jsx"
+    },
+    "./folder-examples": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-examples.jsx"
+    },
+    "./folder-examples-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-examples-open.jsx"
+    },
+    "./folder-fastlane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fastlane.jsx"
+    },
+    "./folder-fastlane-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fastlane-open.jsx"
+    },
+    "./folder-firebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-firebase.jsx"
+    },
+    "./folder-firebase-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-firebase-open.jsx"
+    },
+    "./folder-fonts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fonts.jsx"
+    },
+    "./folder-fonts-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fonts-open.jsx"
+    },
+    "./folder-forgejo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-forgejo.jsx"
+    },
+    "./folder-forgejo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-forgejo-open.jsx"
+    },
+    "./folder-functions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-functions.jsx"
+    },
+    "./folder-functions-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-functions-open.jsx"
+    },
+    "./folder-fvm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fvm.jsx"
+    },
+    "./folder-fvm-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fvm-open.jsx"
+    },
+    "./folder-git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-git.jsx"
+    },
+    "./folder-git-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-git-open.jsx"
+    },
+    "./folder-github": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-github.jsx"
+    },
+    "./folder-github-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-github-open.jsx"
+    },
+    "./folder-gitlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gitlab.jsx"
+    },
+    "./folder-gitlab-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gitlab-open.jsx"
+    },
+    "./folder-gradle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gradle.jsx"
+    },
+    "./folder-gradle-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gradle-open.jsx"
+    },
+    "./folder-graphql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-graphql.jsx"
+    },
+    "./folder-graphql-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-graphql-open.jsx"
+    },
+    "./folder-hooks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-hooks.jsx"
+    },
+    "./folder-hooks-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-hooks-open.jsx"
+    },
+    "./folder-husky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-husky.jsx"
+    },
+    "./folder-husky-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-husky-open.jsx"
+    },
+    "./folder-images": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-images.jsx"
+    },
+    "./folder-images-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-images-open.jsx"
+    },
+    "./folder-include": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-include.jsx"
+    },
+    "./folder-include-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-include-open.jsx"
+    },
+    "./folder-intellij": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-intellij.jsx"
+    },
+    "./folder-intellij-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-intellij-open.jsx"
+    },
+    "./folder-javascript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-javascript.jsx"
+    },
+    "./folder-javascript-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-javascript-open.jsx"
+    },
+    "./folder-kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kubernetes.jsx"
+    },
+    "./folder-kubernetes-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kubernetes-open.jsx"
+    },
+    "./folder-layouts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-layouts.jsx"
+    },
+    "./folder-layouts-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-layouts-open.jsx"
+    },
+    "./folder-lib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lib.jsx"
+    },
+    "./folder-lib-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lib-open.jsx"
+    },
+    "./folder-linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-linux.jsx"
+    },
+    "./folder-linux-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-linux-open.jsx"
+    },
+    "./folder-locales": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-locales.jsx"
+    },
+    "./folder-locales-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-locales-open.jsx"
+    },
+    "./folder-luau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-luau.jsx"
+    },
+    "./folder-luau-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-luau-open.jsx"
+    },
+    "./folder-lune": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lune.jsx"
+    },
+    "./folder-lune-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lune-open.jsx"
+    },
+    "./folder-macos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-macos.jsx"
+    },
+    "./folder-macos-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-macos-open.jsx"
+    },
+    "./folder-messages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-messages.jsx"
+    },
+    "./folder-messages-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-messages-open.jsx"
+    },
+    "./folder-middleware": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-middleware.jsx"
+    },
+    "./folder-middleware-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-middleware-open.jsx"
+    },
+    "./folder-mocks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mocks.jsx"
+    },
+    "./folder-mocks-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mocks-open.jsx"
+    },
+    "./folder-moonrepo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-moonrepo.jsx"
+    },
+    "./folder-moonrepo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-moonrepo-open.jsx"
+    },
+    "./folder-next": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-next.jsx"
+    },
+    "./folder-next-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-next-open.jsx"
+    },
+    "./folder-nix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nix.jsx"
+    },
+    "./folder-nix-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nix-open.jsx"
+    },
+    "./folder-node": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-node.jsx"
+    },
+    "./folder-node-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-node-open.jsx"
+    },
+    "./folder-nuxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nuxt.jsx"
+    },
+    "./folder-nuxt-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nuxt-open.jsx"
+    },
+    "./folder-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open.jsx"
+    },
+    "./folder-packages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-packages.jsx"
+    },
+    "./folder-packages-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-packages-open.jsx"
+    },
+    "./folder-pesde": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pesde.jsx"
+    },
+    "./folder-pesde-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pesde-open.jsx"
+    },
+    "./folder-plugins": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plugins.jsx"
+    },
+    "./folder-plugins-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plugins-open.jsx"
+    },
+    "./folder-pre-commit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pre-commit.jsx"
+    },
+    "./folder-pre-commit-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pre-commit-open.jsx"
+    },
+    "./folder-prisma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-prisma.jsx"
+    },
+    "./folder-prisma-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-prisma-open.jsx"
+    },
+    "./folder-private": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-private.jsx"
+    },
+    "./folder-private-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-private-open.jsx"
+    },
+    "./folder-proto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-proto.jsx"
+    },
+    "./folder-proto-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-proto-open.jsx"
+    },
+    "./folder-public": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-public.jsx"
+    },
+    "./folder-public-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-public-open.jsx"
+    },
+    "./folder-queue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-queue.jsx"
+    },
+    "./folder-queue-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-queue-open.jsx"
+    },
+    "./folder-redux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-redux.jsx"
+    },
+    "./folder-redux-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-redux-open.jsx"
+    },
+    "./folder-renovate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-renovate.jsx"
+    },
+    "./folder-renovate-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-renovate-open.jsx"
+    },
+    "./folder-roblox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-roblox.jsx"
+    },
+    "./folder-roblox-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-roblox-open.jsx"
+    },
+    "./folder-routes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-routes.jsx"
+    },
+    "./folder-routes-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-routes-open.jsx"
+    },
+    "./folder-sass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sass.jsx"
+    },
+    "./folder-sass-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sass-open.jsx"
+    },
+    "./folder-scripts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scripts.jsx"
+    },
+    "./folder-scripts-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scripts-open.jsx"
+    },
+    "./folder-security": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-security.jsx"
+    },
+    "./folder-security-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-security-open.jsx"
+    },
+    "./folder-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-server.jsx"
+    },
+    "./folder-server-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-server-open.jsx"
+    },
+    "./folder-shared": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-shared.jsx"
+    },
+    "./folder-shared-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-shared-open.jsx"
+    },
+    "./folder-src": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-src.jsx"
+    },
+    "./folder-src-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-src-open.jsx"
+    },
+    "./folder-storybook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-storybook.jsx"
+    },
+    "./folder-storybook-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-storybook-open.jsx"
+    },
+    "./folder-styles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-styles.jsx"
+    },
+    "./folder-styles-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-styles-open.jsx"
+    },
+    "./folder-svg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-svg.jsx"
+    },
+    "./folder-svg-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-svg-open.jsx"
+    },
+    "./folder-symlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-symlink.jsx"
+    },
+    "./folder-symlink-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-symlink-open.jsx"
+    },
+    "./folder-tauri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tauri.jsx"
+    },
+    "./folder-tauri-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tauri-open.jsx"
+    },
+    "./folder-temp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-temp.jsx"
+    },
+    "./folder-temp-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-temp-open.jsx"
+    },
+    "./folder-templates": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-templates.jsx"
+    },
+    "./folder-templates-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-templates-open.jsx"
+    },
+    "./folder-tests": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tests.jsx"
+    },
+    "./folder-tests-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tests-open.jsx"
+    },
+    "./folder-themes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-themes.jsx"
+    },
+    "./folder-themes-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-themes-open.jsx"
+    },
+    "./folder-turbo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-turbo.jsx"
+    },
+    "./folder-turbo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-turbo-open.jsx"
+    },
+    "./folder-types": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-types.jsx"
+    },
+    "./folder-types-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-types-open.jsx"
+    },
+    "./folder-upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-upload.jsx"
+    },
+    "./folder-upload-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-upload-open.jsx"
+    },
+    "./folder-utils": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-utils.jsx"
+    },
+    "./folder-utils-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-utils-open.jsx"
+    },
+    "./folder-vercel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vercel.jsx"
+    },
+    "./folder-vercel-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vercel-open.jsx"
+    },
+    "./folder-video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-video.jsx"
+    },
+    "./folder-video-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-video-open.jsx"
+    },
+    "./folder-views": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-views.jsx"
+    },
+    "./folder-views-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-views-open.jsx"
+    },
+    "./folder-vscode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vscode.jsx"
+    },
+    "./folder-vscode-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vscode-open.jsx"
+    },
+    "./folder-windows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-windows.jsx"
+    },
+    "./folder-windows-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-windows-open.jsx"
+    },
+    "./folder-workflows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-workflows.jsx"
+    },
+    "./folder-workflows-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-workflows-open.jsx"
+    },
+    "./folder-wxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-wxt.jsx"
+    },
+    "./folder-wxt-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-wxt-open.jsx"
+    },
+    "./folder-xcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-xcode.jsx"
+    },
+    "./folder-xcode-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-xcode-open.jsx"
+    },
+    "./folder-xmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-xmake.jsx"
+    },
+    "./folder-xmake-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-xmake-open.jsx"
+    },
+    "./folder-yarn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-yarn.jsx"
+    },
+    "./folder-yarn-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-yarn-open.jsx"
+    },
+    "./font": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/font.jsx"
+    },
+    "./foreman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/foreman.jsx"
+    },
+    "./forgejo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forgejo.jsx"
+    },
+    "./fortran": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fortran.jsx"
+    },
+    "./fsharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fsharp.jsx"
+    },
+    "./fvm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fvm.jsx"
+    },
+    "./gatsby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsby.jsx"
+    },
+    "./gcp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gcp.jsx"
+    },
+    "./git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git.jsx"
+    },
+    "./git-cliff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-cliff.jsx"
+    },
+    "./gitlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab.jsx"
+    },
+    "./gitpod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitpod.jsx"
+    },
+    "./gleam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gleam.jsx"
+    },
+    "./gleam-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gleam-config.jsx"
+    },
+    "./go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go.jsx"
+    },
+    "./go-mod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go-mod.jsx"
+    },
+    "./go-template": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go-template.jsx"
+    },
+    "./godot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot.jsx"
+    },
+    "./godot-assets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot-assets.jsx"
+    },
+    "./gradle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle.jsx"
+    },
+    "./graphql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql.jsx"
+    },
+    "./groovy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groovy.jsx"
+    },
+    "./gulp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gulp.jsx"
+    },
+    "./hacking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hacking.jsx"
+    },
+    "./haml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haml.jsx"
+    },
+    "./handlebars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handlebars.jsx"
+    },
+    "./hardhat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardhat.jsx"
+    },
+    "./hare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hare.jsx"
+    },
+    "./haskell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haskell.jsx"
+    },
+    "./haxe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxe.jsx"
+    },
+    "./helm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helm.jsx"
+    },
+    "./heroku": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heroku.jsx"
+    },
+    "./histoire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/histoire.jsx"
+    },
+    "./html": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html.jsx"
+    },
+    "./http": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/http.jsx"
+    },
+    "./huff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/huff.jsx"
+    },
+    "./hugo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hugo.jsx"
+    },
+    "./humans": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/humans.jsx"
+    },
+    "./husky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/husky.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./ionic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ionic.jsx"
+    },
+    "./java": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java.jsx"
+    },
+    "./java-alt-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-alt-1.jsx"
+    },
+    "./java-alt-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-alt-2.jsx"
+    },
+    "./java-alt-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-alt-3.jsx"
+    },
+    "./java-annotation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-annotation.jsx"
+    },
+    "./java-class": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-class.jsx"
+    },
+    "./java-class-abstract": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-class-abstract.jsx"
+    },
+    "./java-class-final": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-class-final.jsx"
+    },
+    "./java-class-sealed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-class-sealed.jsx"
+    },
+    "./java-enum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-enum.jsx"
+    },
+    "./java-exception": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-exception.jsx"
+    },
+    "./java-interface": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-interface.jsx"
+    },
+    "./java-jar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-jar.jsx"
+    },
+    "./java-record": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-record.jsx"
+    },
+    "./javascript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript.jsx"
+    },
+    "./javascript-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-config.jsx"
+    },
+    "./javascript-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-map.jsx"
+    },
+    "./javascript-react": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-react.jsx"
+    },
+    "./javascript-test": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-test.jsx"
+    },
+    "./jest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jest.jsx"
+    },
+    "./jinja": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jinja.jsx"
+    },
+    "./json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json.jsx"
+    },
+    "./json-schema": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json-schema.jsx"
+    },
+    "./juce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/juce.jsx"
+    },
+    "./jule": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jule.jsx"
+    },
+    "./julia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/julia.jsx"
+    },
+    "./jupyter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jupyter.jsx"
+    },
+    "./just": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/just.jsx"
+    },
+    "./kdl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kdl.jsx"
+    },
+    "./key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key.jsx"
+    },
+    "./knip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knip.jsx"
+    },
+    "./kotlin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin.jsx"
+    },
+    "./laravel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel.jsx"
+    },
+    "./latex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latex.jsx"
+    },
+    "./latte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latte.jsx"
+    },
+    "./lerna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lerna.jsx"
+    },
+    "./less": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/less.jsx"
+    },
+    "./lib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lib.jsx"
+    },
+    "./license": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license.jsx"
+    },
+    "./lint-staged": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lint-staged.jsx"
+    },
+    "./liquid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/liquid.jsx"
+    },
+    "./lisp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lisp.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./log": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log.jsx"
+    },
+    "./lua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua.jsx"
+    },
+    "./lua-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-check.jsx"
+    },
+    "./lua-client": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-client.jsx"
+    },
+    "./lua-rocks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-rocks.jsx"
+    },
+    "./lua-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-server.jsx"
+    },
+    "./lua-test": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-test.jsx"
+    },
+    "./luau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau.jsx"
+    },
+    "./luau-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau-check.jsx"
+    },
+    "./luau-client": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau-client.jsx"
+    },
+    "./luau-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau-config.jsx"
+    },
+    "./luau-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau-server.jsx"
+    },
+    "./luau-test": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau-test.jsx"
+    },
+    "./macos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/macos.jsx"
+    },
+    "./makefile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/makefile.jsx"
+    },
+    "./mantle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mantle.jsx"
+    },
+    "./markdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown.jsx"
+    },
+    "./markdown-mdx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-mdx.jsx"
+    },
+    "./marko": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marko.jsx"
+    },
+    "./matlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matlab.jsx"
+    },
+    "./mdbook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mdbook.jsx"
+    },
+    "./mermaid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mermaid.jsx"
+    },
+    "./meson": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meson.jsx"
+    },
+    "./midi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/midi.jsx"
+    },
+    "./mjml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mjml.jsx"
+    },
+    "./modernizr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modernizr.jsx"
+    },
+    "./moonrepo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moonrepo.jsx"
+    },
+    "./moonwave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moonwave.jsx"
+    },
+    "./ms-excel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-excel.jsx"
+    },
+    "./ms-powerpoint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-powerpoint.jsx"
+    },
+    "./ms-word": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-word.jsx"
+    },
+    "./msbuild": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/msbuild.jsx"
+    },
+    "./nativescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nativescript.jsx"
+    },
+    "./nest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest.jsx"
+    },
+    "./nest-controller": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-controller.jsx"
+    },
+    "./nest-decorator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-decorator.jsx"
+    },
+    "./nest-filter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-filter.jsx"
+    },
+    "./nest-gateway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-gateway.jsx"
+    },
+    "./nest-guard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-guard.jsx"
+    },
+    "./nest-middleware": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-middleware.jsx"
+    },
+    "./nest-pipe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-pipe.jsx"
+    },
+    "./nest-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest-service.jsx"
+    },
+    "./netlify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify.jsx"
+    },
+    "./next": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next.jsx"
+    },
+    "./nextflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextflow.jsx"
+    },
+    "./nginx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nginx.jsx"
+    },
+    "./nim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nim.jsx"
+    },
+    "./ninja": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ninja.jsx"
+    },
+    "./nix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nix.jsx"
+    },
+    "./nix-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nix-lock.jsx"
+    },
+    "./nodemon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodemon.jsx"
+    },
+    "./npm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm.jsx"
+    },
+    "./npm-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-ignore.jsx"
+    },
+    "./npm-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-lock.jsx"
+    },
+    "./nuget": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuget.jsx"
+    },
+    "./nunjucks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nunjucks.jsx"
+    },
+    "./nuxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxt.jsx"
+    },
+    "./nuxt-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxt-ignore.jsx"
+    },
+    "./nx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nx.jsx"
+    },
+    "./nx-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nx-ignore.jsx"
+    },
+    "./ocaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ocaml.jsx"
+    },
+    "./odin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odin.jsx"
+    },
+    "./opentofu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentofu.jsx"
+    },
+    "./org": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/org.jsx"
+    },
+    "./package-json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-json.jsx"
+    },
+    "./panda-css": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/panda-css.jsx"
+    },
+    "./pdf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pdf.jsx"
+    },
+    "./perl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perl.jsx"
+    },
+    "./pesde": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pesde.jsx"
+    },
+    "./pesde-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pesde-lock.jsx"
+    },
+    "./php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php.jsx"
+    },
+    "./phrase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phrase.jsx"
+    },
+    "./phtml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phtml.jsx"
+    },
+    "./pixi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixi.jsx"
+    },
+    "./pixi-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixi-lock.jsx"
+    },
+    "./plantuml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plantuml.jsx"
+    },
+    "./playwright": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playwright.jsx"
+    },
+    "./plop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plop.jsx"
+    },
+    "./pnpm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm.jsx"
+    },
+    "./pnpm-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm-lock.jsx"
+    },
+    "./poetry-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poetry-lock.jsx"
+    },
+    "./postcss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcss.jsx"
+    },
+    "./powershell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powershell.jsx"
+    },
+    "./pre-commit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pre-commit.jsx"
+    },
+    "./premake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/premake.jsx"
+    },
+    "./prettier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prettier.jsx"
+    },
+    "./prettier-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prettier-ignore.jsx"
+    },
+    "./prisma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prisma.jsx"
+    },
+    "./prolog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prolog.jsx"
+    },
+    "./properties": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/properties.jsx"
+    },
+    "./proto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proto.jsx"
+    },
+    "./prototools": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prototools.jsx"
+    },
+    "./pug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pug.jsx"
+    },
+    "./puppet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puppet.jsx"
+    },
+    "./puppeteer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puppeteer.jsx"
+    },
+    "./python": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python.jsx"
+    },
+    "./python-compiled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-compiled.jsx"
+    },
+    "./python-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-config.jsx"
+    },
+    "./qwik": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwik.jsx"
+    },
+    "./r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r.jsx"
+    },
+    "./racket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racket.jsx"
+    },
+    "./razor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/razor.jsx"
+    },
+    "./rdata": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rdata.jsx"
+    },
+    "./readme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/readme.jsx"
+    },
+    "./reason": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reason.jsx"
+    },
+    "./redwood": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redwood.jsx"
+    },
+    "./release": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/release.jsx"
+    },
+    "./remix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remix.jsx"
+    },
+    "./renovate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/renovate.jsx"
+    },
+    "./rescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rescript.jsx"
+    },
+    "./rmd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rmd.jsx"
+    },
+    "./roblox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roblox.jsx"
+    },
+    "./robots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robots.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
+    },
+    "./rojo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rojo.jsx"
+    },
+    "./rokit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rokit.jsx"
+    },
+    "./rollup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollup.jsx"
+    },
+    "./root": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/root.jsx"
+    },
+    "./root-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/root-open.jsx"
+    },
+    "./rproj": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rproj.jsx"
+    },
+    "./rsml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rsml.jsx"
+    },
+    "./ruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby.jsx"
+    },
+    "./ruby-gem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby-gem.jsx"
+    },
+    "./ruby-gem-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby-gem-lock.jsx"
+    },
+    "./ruff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruff.jsx"
+    },
+    "./rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust.jsx"
+    },
+    "./rust-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust-alt.jsx"
+    },
+    "./rust-alt-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust-alt-config.jsx"
+    },
+    "./rust-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust-config.jsx"
+    },
+    "./salesforce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salesforce.jsx"
+    },
+    "./sass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sass.jsx"
+    },
+    "./scala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala.jsx"
+    },
+    "./scheme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scheme.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./security": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/security.jsx"
+    },
+    "./semantic-release": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semantic-release.jsx"
+    },
+    "./semgrep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semgrep.jsx"
+    },
+    "./semgrep-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semgrep-ignore.jsx"
+    },
+    "./sentry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sentry.jsx"
+    },
+    "./serverless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/serverless.jsx"
+    },
+    "./shader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shader.jsx"
+    },
+    "./sketch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketch.jsx"
+    },
+    "./slidesk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slidesk.jsx"
+    },
+    "./snowpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowpack.jsx"
+    },
+    "./solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solid.jsx"
+    },
+    "./solidity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidity.jsx"
+    },
+    "./sonar-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sonar-cloud.jsx"
+    },
+    "./spwn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spwn.jsx"
+    },
+    "./squirrel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/squirrel.jsx"
+    },
+    "./stackblitz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackblitz.jsx"
+    },
+    "./stata": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stata.jsx"
+    },
+    "./stencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stencil.jsx"
+    },
+    "./stitches": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stitches.jsx"
+    },
+    "./storybook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook.jsx"
+    },
+    "./storybook-svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook-svelte.jsx"
+    },
+    "./storybook-vue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook-vue.jsx"
+    },
+    "./stylelint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylelint.jsx"
+    },
+    "./stylelint-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylelint-ignore.jsx"
+    },
+    "./stylua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylua.jsx"
+    },
+    "./stylua-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylua-ignore.jsx"
+    },
+    "./sublime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sublime.jsx"
+    },
+    "./super-collider": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/super-collider.jsx"
+    },
+    "./svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte.jsx"
+    },
+    "./svelte-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte-config.jsx"
+    },
+    "./svg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svg.jsx"
+    },
+    "./swift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swift.jsx"
+    },
+    "./swiftformat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swiftformat.jsx"
+    },
+    "./symlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symlink.jsx"
+    },
+    "./tailwind": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwind.jsx"
+    },
+    "./taskfile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskfile.jsx"
+    },
+    "./tauri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tauri.jsx"
+    },
+    "./tauri-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tauri-ignore.jsx"
+    },
+    "./terraform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform.jsx"
+    },
+    "./text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text.jsx"
+    },
+    "./todo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/todo.jsx"
+    },
+    "./toml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toml.jsx"
+    },
+    "./turbo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turbo.jsx"
+    },
+    "./twig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twig.jsx"
+    },
+    "./twine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twine.jsx"
+    },
+    "./typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript.jsx"
+    },
+    "./typescript-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-config.jsx"
+    },
+    "./typescript-def": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-def.jsx"
+    },
+    "./typescript-react": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-react.jsx"
+    },
+    "./typescript-test": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-test.jsx"
+    },
+    "./typst": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typst.jsx"
+    },
+    "./unity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unity.jsx"
+    },
+    "./unocss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unocss.jsx"
+    },
+    "./url": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/url.jsx"
+    },
+    "./uv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv.jsx"
+    },
+    "./v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v.jsx"
+    },
+    "./vala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vala.jsx"
+    },
+    "./vanilla-extract": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vanilla-extract.jsx"
+    },
+    "./vapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vapi.jsx"
+    },
+    "./vento": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vento.jsx"
+    },
+    "./vercel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vercel.jsx"
+    },
+    "./vercel-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vercel-ignore.jsx"
+    },
+    "./verilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verilog.jsx"
+    },
+    "./vhs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vhs.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./vim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim.jsx"
+    },
+    "./visual-studio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visual-studio.jsx"
+    },
+    "./vital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vital.jsx"
+    },
+    "./vite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vite.jsx"
+    },
+    "./vitest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitest.jsx"
+    },
+    "./vs-codium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vs-codium.jsx"
+    },
+    "./vscode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode.jsx"
+    },
+    "./vscode-ignore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode-ignore.jsx"
+    },
+    "./vue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue.jsx"
+    },
+    "./vue-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue-config.jsx"
+    },
+    "./wally": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wally.jsx"
+    },
+    "./web-assembly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-assembly.jsx"
+    },
+    "./webpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack.jsx"
+    },
+    "./windi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windi.jsx"
+    },
+    "./workflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/workflow.jsx"
+    },
+    "./wrangler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrangler.jsx"
+    },
+    "./wxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wxt.jsx"
+    },
+    "./xaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xaml.jsx"
+    },
+    "./xcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xcode.jsx"
+    },
+    "./xmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xmake.jsx"
+    },
+    "./xml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xml.jsx"
+    },
+    "./yaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml.jsx"
+    },
+    "./yarn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn.jsx"
+    },
+    "./yarn-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn-lock.jsx"
+    },
+    "./zap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap.jsx"
+    },
+    "./zig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zig.jsx"
+    },
+    "./zip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zip.jsx"
+    },
+    "./maven": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maven.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#catppuccin"
+}

@@ -1,0 +1,647 @@
+{
+  "name": "@iconify-react/academicons",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/academicons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "OFL-1.1",
+  "exports": {
+    "./academia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/academia.jsx"
+    },
+    "./academia-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/academia-square.jsx"
+    },
+    "./acclaim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acclaim.jsx"
+    },
+    "./acclaim-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acclaim-square.jsx"
+    },
+    "./acm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acm.jsx"
+    },
+    "./acm-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acm-square.jsx"
+    },
+    "./acmdl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acmdl.jsx"
+    },
+    "./acmdl-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acmdl-square.jsx"
+    },
+    "./ads": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ads.jsx"
+    },
+    "./ads-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ads-square.jsx"
+    },
+    "./africarxiv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/africarxiv.jsx"
+    },
+    "./africarxiv-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/africarxiv-square.jsx"
+    },
+    "./archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive.jsx"
+    },
+    "./archive-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-square.jsx"
+    },
+    "./arxiv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arxiv.jsx"
+    },
+    "./arxiv-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arxiv-square.jsx"
+    },
+    "./biorxiv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biorxiv.jsx"
+    },
+    "./biorxiv-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biorxiv-square.jsx"
+    },
+    "./ceur": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ceur.jsx"
+    },
+    "./ceur-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ceur-square.jsx"
+    },
+    "./ciencia-vitae": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ciencia-vitae.jsx"
+    },
+    "./ciencia-vitae-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ciencia-vitae-square.jsx"
+    },
+    "./clarivate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clarivate.jsx"
+    },
+    "./clarivate-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clarivate-square.jsx"
+    },
+    "./closed-access": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-access.jsx"
+    },
+    "./closed-access-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-access-square.jsx"
+    },
+    "./conversation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conversation.jsx"
+    },
+    "./conversation-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conversation-square.jsx"
+    },
+    "./coursera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coursera.jsx"
+    },
+    "./coursera-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coursera-square.jsx"
+    },
+    "./crossref": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crossref.jsx"
+    },
+    "./crossref-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crossref-square.jsx"
+    },
+    "./cv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cv.jsx"
+    },
+    "./cv-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cv-square.jsx"
+    },
+    "./datacite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datacite.jsx"
+    },
+    "./datacite-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/datacite-square.jsx"
+    },
+    "./dataverse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataverse.jsx"
+    },
+    "./dataverse-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataverse-square.jsx"
+    },
+    "./dblp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dblp.jsx"
+    },
+    "./dblp-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dblp-square.jsx"
+    },
+    "./depsy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/depsy.jsx"
+    },
+    "./depsy-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/depsy-square.jsx"
+    },
+    "./doi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doi.jsx"
+    },
+    "./doi-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doi-square.jsx"
+    },
+    "./dryad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dryad.jsx"
+    },
+    "./dryad-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dryad-square.jsx"
+    },
+    "./elsevier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elsevier.jsx"
+    },
+    "./elsevier-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elsevier-square.jsx"
+    },
+    "./figshare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figshare.jsx"
+    },
+    "./figshare-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figshare-square.jsx"
+    },
+    "./google-scholar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-scholar.jsx"
+    },
+    "./google-scholar-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-scholar-square.jsx"
+    },
+    "./hal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hal.jsx"
+    },
+    "./hal-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hal-square.jsx"
+    },
+    "./hypothesis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hypothesis.jsx"
+    },
+    "./hypothesis-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hypothesis-square.jsx"
+    },
+    "./ideas-repec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ideas-repec.jsx"
+    },
+    "./ideas-repec-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ideas-repec-square.jsx"
+    },
+    "./ieee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ieee.jsx"
+    },
+    "./ieee-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ieee-square.jsx"
+    },
+    "./impactstory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/impactstory.jsx"
+    },
+    "./impactstory-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/impactstory-square.jsx"
+    },
+    "./inaturalist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inaturalist.jsx"
+    },
+    "./inaturalist-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inaturalist-square.jsx"
+    },
+    "./inpn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inpn.jsx"
+    },
+    "./inpn-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inpn-square.jsx"
+    },
+    "./inspire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inspire.jsx"
+    },
+    "./inspire-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inspire-square.jsx"
+    },
+    "./isidore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/isidore.jsx"
+    },
+    "./isidore-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/isidore-square.jsx"
+    },
+    "./isni": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/isni.jsx"
+    },
+    "./isni-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/isni-square.jsx"
+    },
+    "./jstor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jstor.jsx"
+    },
+    "./jstor-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jstor-square.jsx"
+    },
+    "./lattes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattes.jsx"
+    },
+    "./lattes-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattes-square.jsx"
+    },
+    "./mathoverflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mathoverflow.jsx"
+    },
+    "./mathoverflow-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mathoverflow-square.jsx"
+    },
+    "./mendeley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mendeley.jsx"
+    },
+    "./mendeley-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mendeley-square.jsx"
+    },
+    "./moodle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moodle.jsx"
+    },
+    "./moodle-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moodle-square.jsx"
+    },
+    "./mtmt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mtmt.jsx"
+    },
+    "./mtmt-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mtmt-square.jsx"
+    },
+    "./nakala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nakala.jsx"
+    },
+    "./nakala-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nakala-square.jsx"
+    },
+    "./obp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/obp.jsx"
+    },
+    "./obp-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/obp-square.jsx"
+    },
+    "./open-access": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-access.jsx"
+    },
+    "./open-access-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-access-square.jsx"
+    },
+    "./open-data": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-data.jsx"
+    },
+    "./open-data-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-data-square.jsx"
+    },
+    "./open-materials": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-materials.jsx"
+    },
+    "./open-materials-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-materials-square.jsx"
+    },
+    "./openedition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openedition.jsx"
+    },
+    "./openedition-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openedition-square.jsx"
+    },
+    "./orcid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orcid.jsx"
+    },
+    "./orcid-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orcid-square.jsx"
+    },
+    "./osf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/osf.jsx"
+    },
+    "./osf-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/osf-square.jsx"
+    },
+    "./overleaf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overleaf.jsx"
+    },
+    "./overleaf-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overleaf-square.jsx"
+    },
+    "./philpapers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/philpapers.jsx"
+    },
+    "./philpapers-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/philpapers-square.jsx"
+    },
+    "./piazza": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/piazza.jsx"
+    },
+    "./piazza-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/piazza-square.jsx"
+    },
+    "./preregistered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered.jsx"
+    },
+    "./preregistered-de": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de.jsx"
+    },
+    "./preregistered-de-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de-plus.jsx"
+    },
+    "./preregistered-de-plus-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de-plus-square.jsx"
+    },
+    "./preregistered-de-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de-square.jsx"
+    },
+    "./preregistered-de-tc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de-tc.jsx"
+    },
+    "./preregistered-de-tc-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de-tc-plus.jsx"
+    },
+    "./preregistered-de-tc-plus-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de-tc-plus-square.jsx"
+    },
+    "./preregistered-de-tc-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-de-tc-square.jsx"
+    },
+    "./preregistered-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-square.jsx"
+    },
+    "./preregistered-tc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-tc.jsx"
+    },
+    "./preregistered-tc-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-tc-plus.jsx"
+    },
+    "./preregistered-tc-plus-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-tc-plus-square.jsx"
+    },
+    "./preregistered-tc-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preregistered-tc-square.jsx"
+    },
+    "./protocols": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/protocols.jsx"
+    },
+    "./protocols-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/protocols-square.jsx"
+    },
+    "./psyarxiv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/psyarxiv.jsx"
+    },
+    "./psyarxiv-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/psyarxiv-square.jsx"
+    },
+    "./publons": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/publons.jsx"
+    },
+    "./publons-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/publons-square.jsx"
+    },
+    "./pubmed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pubmed.jsx"
+    },
+    "./pubmed-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pubmed-square.jsx"
+    },
+    "./pubpeer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pubpeer.jsx"
+    },
+    "./pubpeer-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pubpeer-square.jsx"
+    },
+    "./researcherid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/researcherid.jsx"
+    },
+    "./researcherid-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/researcherid-square.jsx"
+    },
+    "./researchgate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/researchgate.jsx"
+    },
+    "./researchgate-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/researchgate-square.jsx"
+    },
+    "./ror": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ror.jsx"
+    },
+    "./ror-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ror-square.jsx"
+    },
+    "./sci-hub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sci-hub.jsx"
+    },
+    "./sci-hub-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sci-hub-square.jsx"
+    },
+    "./scirate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scirate.jsx"
+    },
+    "./scirate-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scirate-square.jsx"
+    },
+    "./scopus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scopus.jsx"
+    },
+    "./scopus-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scopus-square.jsx"
+    },
+    "./semantic-scholar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semantic-scholar.jsx"
+    },
+    "./semantic-scholar-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semantic-scholar-square.jsx"
+    },
+    "./springer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/springer.jsx"
+    },
+    "./springer-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/springer-square.jsx"
+    },
+    "./ssrn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/ssrn.jsx"
+    },
+    "./ssrn-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/ssrn-square.jsx"
+    },
+    "./stackoverflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow.jsx"
+    },
+    "./stackoverflow-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow-square.jsx"
+    },
+    "./viaf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viaf.jsx"
+    },
+    "./viaf-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viaf-square.jsx"
+    },
+    "./wiley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wiley.jsx"
+    },
+    "./wiley-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wiley-square.jsx"
+    },
+    "./zenodo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zenodo.jsx"
+    },
+    "./zenodo-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zenodo-square.jsx"
+    },
+    "./zotero": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zotero.jsx"
+    },
+    "./zotero-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zotero-square.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#academicons"
+}

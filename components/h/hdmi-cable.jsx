@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/w/wwvp95byt.css';
+import '../../css/f/fin8fqq1t.css';
+import '../../css/y/y_rgry6sf.css';
+import '../../css/b/bl95smbeo.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<defs><mask id="SVG5o6YId2w"><g class="wwvp95byt"><path class="fin8fqq1t"/><path class="y_rgry6sf"/></g></mask></defs><path mask="url(#SVG5o6YId2w)" class="bl95smbeo"/>`,
+		"fallback": "icon-park-solid:hdmi-cable",
+	});
+}
+
+export default Component;

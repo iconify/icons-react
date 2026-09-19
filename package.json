@@ -1,0 +1,3339 @@
+{
+  "name": "@iconify-react/cib",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/cib/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC0-1.0",
+  "exports": {
+    "./500px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/5/500px.jsx"
+    },
+    "./500px-5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/5/500px-5.jsx"
+    },
+    "./about-me": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/about-me.jsx"
+    },
+    "./abstract": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abstract.jsx"
+    },
+    "./acm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acm.jsx"
+    },
+    "./addthis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/addthis.jsx"
+    },
+    "./adguard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adguard.jsx"
+    },
+    "./adobe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe.jsx"
+    },
+    "./adobe-acrobat-reader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-acrobat-reader.jsx"
+    },
+    "./adobe-after-effects": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-after-effects.jsx"
+    },
+    "./adobe-audition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-audition.jsx"
+    },
+    "./adobe-creative-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-creative-cloud.jsx"
+    },
+    "./adobe-dreamweaver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-dreamweaver.jsx"
+    },
+    "./adobe-illustrator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-illustrator.jsx"
+    },
+    "./adobe-indesign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-indesign.jsx"
+    },
+    "./adobe-lightroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-lightroom.jsx"
+    },
+    "./adobe-lightroom-classic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-lightroom-classic.jsx"
+    },
+    "./adobe-photoshop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-photoshop.jsx"
+    },
+    "./adobe-premiere": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-premiere.jsx"
+    },
+    "./adobe-typekit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-typekit.jsx"
+    },
+    "./adobe-xd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-xd.jsx"
+    },
+    "./airbnb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airbnb.jsx"
+    },
+    "./algolia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/algolia.jsx"
+    },
+    "./alipay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alipay.jsx"
+    },
+    "./allocine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/allocine.jsx"
+    },
+    "./amazon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amazon.jsx"
+    },
+    "./amazon-aws": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amazon-aws.jsx"
+    },
+    "./amazon-pay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amazon-pay.jsx"
+    },
+    "./amd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amd.jsx"
+    },
+    "./american-express": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/american-express.jsx"
+    },
+    "./anaconda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anaconda.jsx"
+    },
+    "./analogue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/analogue.jsx"
+    },
+    "./android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android.jsx"
+    },
+    "./android-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android-alt.jsx"
+    },
+    "./angellist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angellist.jsx"
+    },
+    "./angular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular.jsx"
+    },
+    "./angular-universal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-universal.jsx"
+    },
+    "./ansible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansible.jsx"
+    },
+    "./apache": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache.jsx"
+    },
+    "./apache-airflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache-airflow.jsx"
+    },
+    "./apache-flink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache-flink.jsx"
+    },
+    "./apache-spark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache-spark.jsx"
+    },
+    "./app-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-store.jsx"
+    },
+    "./app-store-ios": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-store-ios.jsx"
+    },
+    "./apple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple.jsx"
+    },
+    "./apple-music": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-music.jsx"
+    },
+    "./apple-pay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-pay.jsx"
+    },
+    "./apple-podcasts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-podcasts.jsx"
+    },
+    "./appveyor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appveyor.jsx"
+    },
+    "./aral": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aral.jsx"
+    },
+    "./arch-linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arch-linux.jsx"
+    },
+    "./archive-of-our-own": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-of-our-own.jsx"
+    },
+    "./arduino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arduino.jsx"
+    },
+    "./artstation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artstation.jsx"
+    },
+    "./arxiv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arxiv.jsx"
+    },
+    "./asana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asana.jsx"
+    },
+    "./at-and-t": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-and-t.jsx"
+    },
+    "./atlassian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atlassian.jsx"
+    },
+    "./atom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atom.jsx"
+    },
+    "./audible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audible.jsx"
+    },
+    "./aurelia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aurelia.jsx"
+    },
+    "./auth0": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/auth0.jsx"
+    },
+    "./automatic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automatic.jsx"
+    },
+    "./autotask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autotask.jsx"
+    },
+    "./aventrix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aventrix.jsx"
+    },
+    "./azure-artifacts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-artifacts.jsx"
+    },
+    "./azure-devops": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-devops.jsx"
+    },
+    "./azure-pipelines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-pipelines.jsx"
+    },
+    "./babel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babel.jsx"
+    },
+    "./baidu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baidu.jsx"
+    },
+    "./bamboo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bamboo.jsx"
+    },
+    "./bancontact": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bancontact.jsx"
+    },
+    "./bandcamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bandcamp.jsx"
+    },
+    "./basecamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basecamp.jsx"
+    },
+    "./bathasu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bathasu.jsx"
+    },
+    "./behance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/behance.jsx"
+    },
+    "./big-cartel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/big-cartel.jsx"
+    },
+    "./bing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bing.jsx"
+    },
+    "./bit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bit.jsx"
+    },
+    "./bitbucket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket.jsx"
+    },
+    "./bitcoin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitcoin.jsx"
+    },
+    "./bitdefender": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitdefender.jsx"
+    },
+    "./bitly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitly.jsx"
+    },
+    "./blackberry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blackberry.jsx"
+    },
+    "./blender": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blender.jsx"
+    },
+    "./blogger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blogger.jsx"
+    },
+    "./blogger-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blogger-b.jsx"
+    },
+    "./bluetooth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth.jsx"
+    },
+    "./bluetooth-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth-b.jsx"
+    },
+    "./boeing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boeing.jsx"
+    },
+    "./boost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boost.jsx"
+    },
+    "./bootstrap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bootstrap.jsx"
+    },
+    "./bower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bower.jsx"
+    },
+    "./brand-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brand-ai.jsx"
+    },
+    "./brave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brave.jsx"
+    },
+    "./btc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/btc.jsx"
+    },
+    "./buddy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buddy.jsx"
+    },
+    "./buffer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buffer.jsx"
+    },
+    "./buy-me-a-coffee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buy-me-a-coffee.jsx"
+    },
+    "./buysellads": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buysellads.jsx"
+    },
+    "./buzzfeed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buzzfeed.jsx"
+    },
+    "./c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c.jsx"
+    },
+    "./cakephp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cakephp.jsx"
+    },
+    "./campaign-monitor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campaign-monitor.jsx"
+    },
+    "./canva": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/canva.jsx"
+    },
+    "./cashapp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cashapp.jsx"
+    },
+    "./cassandra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cassandra.jsx"
+    },
+    "./castro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castro.jsx"
+    },
+    "./cc-amazon-pay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-amazon-pay.jsx"
+    },
+    "./cc-amex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-amex.jsx"
+    },
+    "./cc-apple-pay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-apple-pay.jsx"
+    },
+    "./cc-diners-club": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-diners-club.jsx"
+    },
+    "./cc-discover": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-discover.jsx"
+    },
+    "./cc-jcb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-jcb.jsx"
+    },
+    "./cc-mastercard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-mastercard.jsx"
+    },
+    "./cc-paypal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-paypal.jsx"
+    },
+    "./cc-stripe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-stripe.jsx"
+    },
+    "./cc-visa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-visa.jsx"
+    },
+    "./centos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/centos.jsx"
+    },
+    "./cevo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cevo.jsx"
+    },
+    "./chase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chase.jsx"
+    },
+    "./chef": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chef.jsx"
+    },
+    "./chromecast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chromecast.jsx"
+    },
+    "./circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle.jsx"
+    },
+    "./circleci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circleci.jsx"
+    },
+    "./cirrusci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cirrusci.jsx"
+    },
+    "./cisco": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cisco.jsx"
+    },
+    "./civicrm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/civicrm.jsx"
+    },
+    "./clockify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clockify.jsx"
+    },
+    "./clojure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clojure.jsx"
+    },
+    "./cloudbees": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudbees.jsx"
+    },
+    "./cloudflare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudflare.jsx"
+    },
+    "./cmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake.jsx"
+    },
+    "./co-op": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/co-op.jsx"
+    },
+    "./codacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codacy.jsx"
+    },
+    "./code-climate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-climate.jsx"
+    },
+    "./codecademy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codecademy.jsx"
+    },
+    "./codecov": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codecov.jsx"
+    },
+    "./codeigniter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeigniter.jsx"
+    },
+    "./codepen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codepen.jsx"
+    },
+    "./coderwall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coderwall.jsx"
+    },
+    "./codesandbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codesandbox.jsx"
+    },
+    "./codeship": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeship.jsx"
+    },
+    "./codewars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codewars.jsx"
+    },
+    "./codio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codio.jsx"
+    },
+    "./coffeescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffeescript.jsx"
+    },
+    "./common-workflow-language": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/common-workflow-language.jsx"
+    },
+    "./composer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/composer.jsx"
+    },
+    "./conda-forge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conda-forge.jsx"
+    },
+    "./conekta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conekta.jsx"
+    },
+    "./confluence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confluence.jsx"
+    },
+    "./coreui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coreui.jsx"
+    },
+    "./coreui-c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coreui-c.jsx"
+    },
+    "./coursera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coursera.jsx"
+    },
+    "./coveralls": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coveralls.jsx"
+    },
+    "./cpanel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpanel.jsx"
+    },
+    "./cplusplus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cplusplus.jsx"
+    },
+    "./creative-commons": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons.jsx"
+    },
+    "./creative-commons-by": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-by.jsx"
+    },
+    "./creative-commons-nc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-nc.jsx"
+    },
+    "./creative-commons-nc-eu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-nc-eu.jsx"
+    },
+    "./creative-commons-nc-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-nc-jp.jsx"
+    },
+    "./creative-commons-nd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-nd.jsx"
+    },
+    "./creative-commons-pd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-pd.jsx"
+    },
+    "./creative-commons-pd-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-pd-alt.jsx"
+    },
+    "./creative-commons-remix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-remix.jsx"
+    },
+    "./creative-commons-sa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-sa.jsx"
+    },
+    "./creative-commons-sampling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-sampling.jsx"
+    },
+    "./creative-commons-sampling-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-sampling-plus.jsx"
+    },
+    "./creative-commons-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-share.jsx"
+    },
+    "./creative-commons-zero": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creative-commons-zero.jsx"
+    },
+    "./crunchbase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crunchbase.jsx"
+    },
+    "./crunchyroll": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crunchyroll.jsx"
+    },
+    "./css3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css3.jsx"
+    },
+    "./css3-shiled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css3-shiled.jsx"
+    },
+    "./csswizardry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csswizardry.jsx"
+    },
+    "./d3-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d3-js.jsx"
+    },
+    "./dailymotion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dailymotion.jsx"
+    },
+    "./dashlane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dashlane.jsx"
+    },
+    "./dazn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dazn.jsx"
+    },
+    "./dblp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dblp.jsx"
+    },
+    "./debian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/debian.jsx"
+    },
+    "./deepin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deepin.jsx"
+    },
+    "./deezer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deezer.jsx"
+    },
+    "./delicious": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delicious.jsx"
+    },
+    "./dell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dell.jsx"
+    },
+    "./deno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno.jsx"
+    },
+    "./dependabot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dependabot.jsx"
+    },
+    "./designer-news": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/designer-news.jsx"
+    },
+    "./dev-to": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dev-to.jsx"
+    },
+    "./deviantart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deviantart.jsx"
+    },
+    "./devrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devrant.jsx"
+    },
+    "./diaspora": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diaspora.jsx"
+    },
+    "./digg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digg.jsx"
+    },
+    "./digital-ocean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital-ocean.jsx"
+    },
+    "./discord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discord.jsx"
+    },
+    "./discourse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discourse.jsx"
+    },
+    "./discover": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discover.jsx"
+    },
+    "./disqus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/disqus.jsx"
+    },
+    "./disroot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/disroot.jsx"
+    },
+    "./django": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/django.jsx"
+    },
+    "./docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker.jsx"
+    },
+    "./docusign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docusign.jsx"
+    },
+    "./dot-net": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dot-net.jsx"
+    },
+    "./draugiem-lv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/draugiem-lv.jsx"
+    },
+    "./dribbble": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dribbble.jsx"
+    },
+    "./drone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone.jsx"
+    },
+    "./dropbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dropbox.jsx"
+    },
+    "./drupal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drupal.jsx"
+    },
+    "./dtube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dtube.jsx"
+    },
+    "./duckduckgo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duckduckgo.jsx"
+    },
+    "./dynatrace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dynatrace.jsx"
+    },
+    "./ebay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ebay.jsx"
+    },
+    "./eclipseide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipseide.jsx"
+    },
+    "./elastic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elastic.jsx"
+    },
+    "./elastic-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elastic-cloud.jsx"
+    },
+    "./elastic-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elastic-search.jsx"
+    },
+    "./elastic-stack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elastic-stack.jsx"
+    },
+    "./electron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/electron.jsx"
+    },
+    "./elementary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elementary.jsx"
+    },
+    "./eleventy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eleventy.jsx"
+    },
+    "./ello": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ello.jsx"
+    },
+    "./elsevier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elsevier.jsx"
+    },
+    "./emlakjet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emlakjet.jsx"
+    },
+    "./empirekred": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/empirekred.jsx"
+    },
+    "./envato": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envato.jsx"
+    },
+    "./epic-games": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/epic-games.jsx"
+    },
+    "./epson": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/epson.jsx"
+    },
+    "./esea": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/esea.jsx"
+    },
+    "./eslint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint.jsx"
+    },
+    "./ethereum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethereum.jsx"
+    },
+    "./etsy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/etsy.jsx"
+    },
+    "./event-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/event-store.jsx"
+    },
+    "./eventbrite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eventbrite.jsx"
+    },
+    "./evernote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/evernote.jsx"
+    },
+    "./everplaces": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/everplaces.jsx"
+    },
+    "./evry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/evry.jsx"
+    },
+    "./exercism": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exercism.jsx"
+    },
+    "./experts-exchange": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/experts-exchange.jsx"
+    },
+    "./expo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expo.jsx"
+    },
+    "./eyeem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eyeem.jsx"
+    },
+    "./f-secure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/f-secure.jsx"
+    },
+    "./facebook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook.jsx"
+    },
+    "./facebook-f": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook-f.jsx"
+    },
+    "./faceit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/faceit.jsx"
+    },
+    "./fandango": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fandango.jsx"
+    },
+    "./favro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/favro.jsx"
+    },
+    "./feathub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/feathub.jsx"
+    },
+    "./fedex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fedex.jsx"
+    },
+    "./fedora": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fedora.jsx"
+    },
+    "./feedly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/feedly.jsx"
+    },
+    "./fido-alliance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fido-alliance.jsx"
+    },
+    "./figma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma.jsx"
+    },
+    "./filezilla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filezilla.jsx"
+    },
+    "./firebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase.jsx"
+    },
+    "./fitbit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fitbit.jsx"
+    },
+    "./flask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask.jsx"
+    },
+    "./flattr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flattr.jsx"
+    },
+    "./flickr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flickr.jsx"
+    },
+    "./flipboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flipboard.jsx"
+    },
+    "./flutter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flutter.jsx"
+    },
+    "./fnac": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fnac.jsx"
+    },
+    "./foursquare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/foursquare.jsx"
+    },
+    "./framer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/framer.jsx"
+    },
+    "./freebsd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freebsd.jsx"
+    },
+    "./freecodecamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freecodecamp.jsx"
+    },
+    "./fur-affinity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fur-affinity.jsx"
+    },
+    "./furry-network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/furry-network.jsx"
+    },
+    "./garmin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garmin.jsx"
+    },
+    "./gatsby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsby.jsx"
+    },
+    "./gauges": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauges.jsx"
+    },
+    "./genius": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/genius.jsx"
+    },
+    "./gentoo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gentoo.jsx"
+    },
+    "./geocaching": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/geocaching.jsx"
+    },
+    "./gerrit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gerrit.jsx"
+    },
+    "./gg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gg.jsx"
+    },
+    "./ghost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghost.jsx"
+    },
+    "./gimp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gimp.jsx"
+    },
+    "./git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git.jsx"
+    },
+    "./gitea": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitea.jsx"
+    },
+    "./github": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github.jsx"
+    },
+    "./gitkraken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitkraken.jsx"
+    },
+    "./gitlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab.jsx"
+    },
+    "./gitpod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitpod.jsx"
+    },
+    "./gitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitter.jsx"
+    },
+    "./glassdoor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glassdoor.jsx"
+    },
+    "./glitch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glitch.jsx"
+    },
+    "./gmail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gmail.jsx"
+    },
+    "./gnu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnu.jsx"
+    },
+    "./gnu-privacy-guard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnu-privacy-guard.jsx"
+    },
+    "./gnu-social": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnu-social.jsx"
+    },
+    "./go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go.jsx"
+    },
+    "./godot-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot-engine.jsx"
+    },
+    "./gog-com": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gog-com.jsx"
+    },
+    "./goldenline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goldenline.jsx"
+    },
+    "./goodreads": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goodreads.jsx"
+    },
+    "./google": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google.jsx"
+    },
+    "./google-ads": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-ads.jsx"
+    },
+    "./google-allo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-allo.jsx"
+    },
+    "./google-analytics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-analytics.jsx"
+    },
+    "./google-chrome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-chrome.jsx"
+    },
+    "./google-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-cloud.jsx"
+    },
+    "./google-keep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-keep.jsx"
+    },
+    "./google-pay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-pay.jsx"
+    },
+    "./google-play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-play.jsx"
+    },
+    "./google-podcasts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-podcasts.jsx"
+    },
+    "./googles-cholar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/googles-cholar.jsx"
+    },
+    "./gov-uk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gov-uk.jsx"
+    },
+    "./gradle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle.jsx"
+    },
+    "./grafana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafana.jsx"
+    },
+    "./graphcool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphcool.jsx"
+    },
+    "./graphql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql.jsx"
+    },
+    "./grav": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grav.jsx"
+    },
+    "./gravatar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gravatar.jsx"
+    },
+    "./greenkeeper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/greenkeeper.jsx"
+    },
+    "./greensock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/greensock.jsx"
+    },
+    "./groovy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groovy.jsx"
+    },
+    "./groupon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groupon.jsx"
+    },
+    "./grunt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grunt.jsx"
+    },
+    "./gulp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gulp.jsx"
+    },
+    "./gumroad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gumroad.jsx"
+    },
+    "./gumtree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gumtree.jsx"
+    },
+    "./habr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/habr.jsx"
+    },
+    "./hackaday": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hackaday.jsx"
+    },
+    "./hackerearth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hackerearth.jsx"
+    },
+    "./hackerone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hackerone.jsx"
+    },
+    "./hackerrank": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hackerrank.jsx"
+    },
+    "./hackhands": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hackhands.jsx"
+    },
+    "./hackster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hackster.jsx"
+    },
+    "./happycow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/happycow.jsx"
+    },
+    "./hashnode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hashnode.jsx"
+    },
+    "./haskell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haskell.jsx"
+    },
+    "./hatena-bookmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hatena-bookmark.jsx"
+    },
+    "./haxe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxe.jsx"
+    },
+    "./helm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helm.jsx"
+    },
+    "./here": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/here.jsx"
+    },
+    "./heroku": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heroku.jsx"
+    },
+    "./hexo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hexo.jsx"
+    },
+    "./highly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/highly.jsx"
+    },
+    "./hipchat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hipchat.jsx"
+    },
+    "./hitachi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hitachi.jsx"
+    },
+    "./hockeyapp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hockeyapp.jsx"
+    },
+    "./homify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homify.jsx"
+    },
+    "./hootsuite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hootsuite.jsx"
+    },
+    "./hotjar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hotjar.jsx"
+    },
+    "./houzz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/houzz.jsx"
+    },
+    "./hp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hp.jsx"
+    },
+    "./html5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html5.jsx"
+    },
+    "./html5-shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html5-shield.jsx"
+    },
+    "./htmlacademy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/htmlacademy.jsx"
+    },
+    "./huawei": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/huawei.jsx"
+    },
+    "./hubspot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hubspot.jsx"
+    },
+    "./hulu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hulu.jsx"
+    },
+    "./humble-bundle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/humble-bundle.jsx"
+    },
+    "./iata": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iata.jsx"
+    },
+    "./ibm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ibm.jsx"
+    },
+    "./icloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icloud.jsx"
+    },
+    "./iconjar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iconjar.jsx"
+    },
+    "./icq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icq.jsx"
+    },
+    "./ideal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ideal.jsx"
+    },
+    "./ifixit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ifixit.jsx"
+    },
+    "./imdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imdb.jsx"
+    },
+    "./indeed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indeed.jsx"
+    },
+    "./inkscape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inkscape.jsx"
+    },
+    "./instacart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instacart.jsx"
+    },
+    "./instagram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram.jsx"
+    },
+    "./instapaper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instapaper.jsx"
+    },
+    "./intel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intel.jsx"
+    },
+    "./intellijidea": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intellijidea.jsx"
+    },
+    "./intercom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intercom.jsx"
+    },
+    "./internet-explorer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/internet-explorer.jsx"
+    },
+    "./invision": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/invision.jsx"
+    },
+    "./ionic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ionic.jsx"
+    },
+    "./issuu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issuu.jsx"
+    },
+    "./itch-io": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/itch-io.jsx"
+    },
+    "./jabber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jabber.jsx"
+    },
+    "./java": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java.jsx"
+    },
+    "./javascript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript.jsx"
+    },
+    "./jekyll": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jekyll.jsx"
+    },
+    "./jenkins": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jenkins.jsx"
+    },
+    "./jest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jest.jsx"
+    },
+    "./jet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jet.jsx"
+    },
+    "./jetbrains": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jetbrains.jsx"
+    },
+    "./jira": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jira.jsx"
+    },
+    "./joomla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/joomla.jsx"
+    },
+    "./jquery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jquery.jsx"
+    },
+    "./js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/js.jsx"
+    },
+    "./jsdelivr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsdelivr.jsx"
+    },
+    "./jsfiddle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsfiddle.jsx"
+    },
+    "./json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json.jsx"
+    },
+    "./jupyter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jupyter.jsx"
+    },
+    "./justgiving": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/justgiving.jsx"
+    },
+    "./kaggle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kaggle.jsx"
+    },
+    "./kaios": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kaios.jsx"
+    },
+    "./kaspersky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kaspersky.jsx"
+    },
+    "./kentico": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kentico.jsx"
+    },
+    "./keras": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keras.jsx"
+    },
+    "./keybase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keybase.jsx"
+    },
+    "./keycdn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keycdn.jsx"
+    },
+    "./khan-academy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/khan-academy.jsx"
+    },
+    "./kibana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kibana.jsx"
+    },
+    "./kickstarter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kickstarter.jsx"
+    },
+    "./kik": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kik.jsx"
+    },
+    "./kirby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kirby.jsx"
+    },
+    "./klout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/klout.jsx"
+    },
+    "./known": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/known.jsx"
+    },
+    "./ko-fi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ko-fi.jsx"
+    },
+    "./kodi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kodi.jsx"
+    },
+    "./koding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/koding.jsx"
+    },
+    "./kotlin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin.jsx"
+    },
+    "./krita": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/krita.jsx"
+    },
+    "./kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes.jsx"
+    },
+    "./lanyrd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lanyrd.jsx"
+    },
+    "./laravel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel.jsx"
+    },
+    "./laravel-horizon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel-horizon.jsx"
+    },
+    "./laravel-nova": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel-nova.jsx"
+    },
+    "./last-fm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/last-fm.jsx"
+    },
+    "./latex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latex.jsx"
+    },
+    "./launchpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/launchpad.jsx"
+    },
+    "./leetcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leetcode.jsx"
+    },
+    "./lenovo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lenovo.jsx"
+    },
+    "./less": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/less.jsx"
+    },
+    "./lets-encrypt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lets-encrypt.jsx"
+    },
+    "./letterboxd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letterboxd.jsx"
+    },
+    "./lgtm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lgtm.jsx"
+    },
+    "./liberapay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/liberapay.jsx"
+    },
+    "./librarything": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/librarything.jsx"
+    },
+    "./libreoffice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/libreoffice.jsx"
+    },
+    "./line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line.jsx"
+    },
+    "./linkedin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin.jsx"
+    },
+    "./linkedin-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin-in.jsx"
+    },
+    "./linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux.jsx"
+    },
+    "./linux-foundation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-foundation.jsx"
+    },
+    "./linux-mint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-mint.jsx"
+    },
+    "./livejournal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/livejournal.jsx"
+    },
+    "./livestream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/livestream.jsx"
+    },
+    "./logstash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logstash.jsx"
+    },
+    "./lua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua.jsx"
+    },
+    "./lumen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lumen.jsx"
+    },
+    "./lyft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lyft.jsx"
+    },
+    "./macys": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/macys.jsx"
+    },
+    "./magento": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magento.jsx"
+    },
+    "./magisk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magisk.jsx"
+    },
+    "./mail-ru": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-ru.jsx"
+    },
+    "./mailchimp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mailchimp.jsx"
+    },
+    "./makerbot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/makerbot.jsx"
+    },
+    "./manjaro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/manjaro.jsx"
+    },
+    "./markdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown.jsx"
+    },
+    "./marketo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marketo.jsx"
+    },
+    "./mastercard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastercard.jsx"
+    },
+    "./mastodon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastodon.jsx"
+    },
+    "./material-design": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/material-design.jsx"
+    },
+    "./mathworks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mathworks.jsx"
+    },
+    "./matrix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matrix.jsx"
+    },
+    "./mattermost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mattermost.jsx"
+    },
+    "./matternet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matternet.jsx"
+    },
+    "./maxcdn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maxcdn.jsx"
+    },
+    "./mcafee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mcafee.jsx"
+    },
+    "./media-temple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/media-temple.jsx"
+    },
+    "./mediafire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mediafire.jsx"
+    },
+    "./medium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medium.jsx"
+    },
+    "./medium-m": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medium-m.jsx"
+    },
+    "./meetup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meetup.jsx"
+    },
+    "./mega": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mega.jsx"
+    },
+    "./mendeley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mendeley.jsx"
+    },
+    "./messenger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/messenger.jsx"
+    },
+    "./meteor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meteor.jsx"
+    },
+    "./micro-blog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/micro-blog.jsx"
+    },
+    "./microgenetics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microgenetics.jsx"
+    },
+    "./microsoft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft.jsx"
+    },
+    "./microsoft-edge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-edge.jsx"
+    },
+    "./minetest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minetest.jsx"
+    },
+    "./minutemailer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minutemailer.jsx"
+    },
+    "./mix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mix.jsx"
+    },
+    "./mixcloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mixcloud.jsx"
+    },
+    "./mixer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mixer.jsx"
+    },
+    "./mojang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mojang.jsx"
+    },
+    "./monero": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monero.jsx"
+    },
+    "./mongodb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongodb.jsx"
+    },
+    "./monkeytie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monkeytie.jsx"
+    },
+    "./monogram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monogram.jsx"
+    },
+    "./monzo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monzo.jsx"
+    },
+    "./moo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moo.jsx"
+    },
+    "./mozilla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mozilla.jsx"
+    },
+    "./mozilla-firefox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mozilla-firefox.jsx"
+    },
+    "./musescore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/musescore.jsx"
+    },
+    "./mxlinux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mxlinux.jsx"
+    },
+    "./myspace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/myspace.jsx"
+    },
+    "./mysql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysql.jsx"
+    },
+    "./nativescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nativescript.jsx"
+    },
+    "./nec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nec.jsx"
+    },
+    "./neo4j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neo4j.jsx"
+    },
+    "./netflix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netflix.jsx"
+    },
+    "./netlify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify.jsx"
+    },
+    "./next-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-js.jsx"
+    },
+    "./nextcloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextcloud.jsx"
+    },
+    "./nextdoor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextdoor.jsx"
+    },
+    "./nginx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nginx.jsx"
+    },
+    "./nim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nim.jsx"
+    },
+    "./nintendo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nintendo.jsx"
+    },
+    "./nintendo-3ds": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nintendo-3ds.jsx"
+    },
+    "./nintendo-gamecube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nintendo-gamecube.jsx"
+    },
+    "./nintendo-switch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nintendo-switch.jsx"
+    },
+    "./node-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/node-js.jsx"
+    },
+    "./node-red": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/node-red.jsx"
+    },
+    "./nodemon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodemon.jsx"
+    },
+    "./nokia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nokia.jsx"
+    },
+    "./notion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notion.jsx"
+    },
+    "./npm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm.jsx"
+    },
+    "./nucleo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nucleo.jsx"
+    },
+    "./nuget": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuget.jsx"
+    },
+    "./nuxt-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxt-js.jsx"
+    },
+    "./nvidia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nvidia.jsx"
+    },
+    "./ocaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ocaml.jsx"
+    },
+    "./octave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octave.jsx"
+    },
+    "./octopus-deploy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octopus-deploy.jsx"
+    },
+    "./oculus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oculus.jsx"
+    },
+    "./odnoklassniki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odnoklassniki.jsx"
+    },
+    "./open-access": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-access.jsx"
+    },
+    "./open-collective": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-collective.jsx"
+    },
+    "./open-id": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-id.jsx"
+    },
+    "./open-source-initiative": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-source-initiative.jsx"
+    },
+    "./openstreetmap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openstreetmap.jsx"
+    },
+    "./opensuse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opensuse.jsx"
+    },
+    "./openvpn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openvpn.jsx"
+    },
+    "./opera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opera.jsx"
+    },
+    "./opsgenie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opsgenie.jsx"
+    },
+    "./oracle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oracle.jsx"
+    },
+    "./oracle-netsuite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oracle-netsuite.jsx"
+    },
+    "./orcid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orcid.jsx"
+    },
+    "./origin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/origin.jsx"
+    },
+    "./osi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/osi.jsx"
+    },
+    "./osmc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/osmc.jsx"
+    },
+    "./overcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast.jsx"
+    },
+    "./overleaf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overleaf.jsx"
+    },
+    "./ovh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ovh.jsx"
+    },
+    "./pagekit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pagekit.jsx"
+    },
+    "./palantir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palantir.jsx"
+    },
+    "./pandora": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pandora.jsx"
+    },
+    "./pantheon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pantheon.jsx"
+    },
+    "./patreon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patreon.jsx"
+    },
+    "./paypal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paypal.jsx"
+    },
+    "./periscope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/periscope.jsx"
+    },
+    "./php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php.jsx"
+    },
+    "./picarto-tv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picarto-tv.jsx"
+    },
+    "./pinboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinboard.jsx"
+    },
+    "./pingdom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pingdom.jsx"
+    },
+    "./pingup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pingup.jsx"
+    },
+    "./pinterest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinterest.jsx"
+    },
+    "./pinterest-p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinterest-p.jsx"
+    },
+    "./pivotaltracker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pivotaltracker.jsx"
+    },
+    "./plangrid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plangrid.jsx"
+    },
+    "./player-me": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/player-me.jsx"
+    },
+    "./playerfm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playerfm.jsx"
+    },
+    "./playstation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playstation.jsx"
+    },
+    "./playstation3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playstation3.jsx"
+    },
+    "./playstation4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playstation4.jsx"
+    },
+    "./plesk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plesk.jsx"
+    },
+    "./plex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plex.jsx"
+    },
+    "./pluralsight": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pluralsight.jsx"
+    },
+    "./plurk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plurk.jsx"
+    },
+    "./pocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pocket.jsx"
+    },
+    "./postgresql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postgresql.jsx"
+    },
+    "./postman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postman.jsx"
+    },
+    "./postwoman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postwoman.jsx"
+    },
+    "./powershell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powershell.jsx"
+    },
+    "./prettier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prettier.jsx"
+    },
+    "./prismic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prismic.jsx"
+    },
+    "./probot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/probot.jsx"
+    },
+    "./processwire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processwire.jsx"
+    },
+    "./product-hunt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-hunt.jsx"
+    },
+    "./proto-io": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proto-io.jsx"
+    },
+    "./protonmail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/protonmail.jsx"
+    },
+    "./proxmox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proxmox.jsx"
+    },
+    "./pypi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pypi.jsx"
+    },
+    "./python": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python.jsx"
+    },
+    "./pytorch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytorch.jsx"
+    },
+    "./qgis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qgis.jsx"
+    },
+    "./qiita": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qiita.jsx"
+    },
+    "./qq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qq.jsx"
+    },
+    "./qualcomm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qualcomm.jsx"
+    },
+    "./quantcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quantcast.jsx"
+    },
+    "./quantopian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quantopian.jsx"
+    },
+    "./quarkus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quarkus.jsx"
+    },
+    "./quora": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quora.jsx"
+    },
+    "./qwiklabs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwiklabs.jsx"
+    },
+    "./qzone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qzone.jsx"
+    },
+    "./r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r.jsx"
+    },
+    "./radiopublic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radiopublic.jsx"
+    },
+    "./rails": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rails.jsx"
+    },
+    "./raspberry-pi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raspberry-pi.jsx"
+    },
+    "./react": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react.jsx"
+    },
+    "./read-the-docs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/read-the-docs.jsx"
+    },
+    "./readme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/readme.jsx"
+    },
+    "./realm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/realm.jsx"
+    },
+    "./reason": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reason.jsx"
+    },
+    "./redbubble": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redbubble.jsx"
+    },
+    "./reddit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reddit.jsx"
+    },
+    "./reddit-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reddit-alt.jsx"
+    },
+    "./redhat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redhat.jsx"
+    },
+    "./redis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redis.jsx"
+    },
+    "./redux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redux.jsx"
+    },
+    "./renren": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/renren.jsx"
+    },
+    "./reverbnation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reverbnation.jsx"
+    },
+    "./riot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/riot.jsx"
+    },
+    "./ripple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ripple.jsx"
+    },
+    "./riseup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/riseup.jsx"
+    },
+    "./rollup-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollup-js.jsx"
+    },
+    "./roots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roots.jsx"
+    },
+    "./roundcube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roundcube.jsx"
+    },
+    "./rss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss.jsx"
+    },
+    "./rstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rstudio.jsx"
+    },
+    "./ruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby.jsx"
+    },
+    "./rubygems": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rubygems.jsx"
+    },
+    "./runkeeper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/runkeeper.jsx"
+    },
+    "./rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust.jsx"
+    },
+    "./safari": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safari.jsx"
+    },
+    "./sahibinden": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sahibinden.jsx"
+    },
+    "./salesforce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salesforce.jsx"
+    },
+    "./saltstack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saltstack.jsx"
+    },
+    "./samsung": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/samsung.jsx"
+    },
+    "./samsung-pay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/samsung-pay.jsx"
+    },
+    "./sap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sap.jsx"
+    },
+    "./sass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sass.jsx"
+    },
+    "./sass-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sass-alt.jsx"
+    },
+    "./saucelabs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saucelabs.jsx"
+    },
+    "./scala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala.jsx"
+    },
+    "./scaleway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scaleway.jsx"
+    },
+    "./scribd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scribd.jsx"
+    },
+    "./scrutinizerci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scrutinizerci.jsx"
+    },
+    "./seagate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/seagate.jsx"
+    },
+    "./sega": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sega.jsx"
+    },
+    "./sellfy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sellfy.jsx"
+    },
+    "./semaphoreci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semaphoreci.jsx"
+    },
+    "./sensu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sensu.jsx"
+    },
+    "./sentry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sentry.jsx"
+    },
+    "./server-fault": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/server-fault.jsx"
+    },
+    "./shazam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shazam.jsx"
+    },
+    "./shell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shell.jsx"
+    },
+    "./shopify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopify.jsx"
+    },
+    "./showpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/showpad.jsx"
+    },
+    "./siemens": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/siemens.jsx"
+    },
+    "./signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal.jsx"
+    },
+    "./sina-weibo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sina-weibo.jsx"
+    },
+    "./sitepoint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sitepoint.jsx"
+    },
+    "./sketch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketch.jsx"
+    },
+    "./skillshare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skillshare.jsx"
+    },
+    "./skyliner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skyliner.jsx"
+    },
+    "./skype": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skype.jsx"
+    },
+    "./slack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slack.jsx"
+    },
+    "./slashdot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slashdot.jsx"
+    },
+    "./slickpic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slickpic.jsx"
+    },
+    "./slides": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slides.jsx"
+    },
+    "./slideshare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slideshare.jsx"
+    },
+    "./smashingmagazine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smashingmagazine.jsx"
+    },
+    "./snapchat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapchat.jsx"
+    },
+    "./snapcraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapcraft.jsx"
+    },
+    "./snyk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snyk.jsx"
+    },
+    "./society6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/society6.jsx"
+    },
+    "./socket-io": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/socket-io.jsx"
+    },
+    "./sogou": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sogou.jsx"
+    },
+    "./solus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solus.jsx"
+    },
+    "./songkick": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/songkick.jsx"
+    },
+    "./sonos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sonos.jsx"
+    },
+    "./soundcloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soundcloud.jsx"
+    },
+    "./sourceforge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sourceforge.jsx"
+    },
+    "./sourcegraph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sourcegraph.jsx"
+    },
+    "./spacemacs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spacemacs.jsx"
+    },
+    "./spacex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spacex.jsx"
+    },
+    "./sparkfun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkfun.jsx"
+    },
+    "./sparkpost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkpost.jsx"
+    },
+    "./spdx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spdx.jsx"
+    },
+    "./speaker-deck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/speaker-deck.jsx"
+    },
+    "./spectrum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spectrum.jsx"
+    },
+    "./spotify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spotify.jsx"
+    },
+    "./spotlight": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spotlight.jsx"
+    },
+    "./spreaker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spreaker.jsx"
+    },
+    "./spring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spring.jsx"
+    },
+    "./sprint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sprint.jsx"
+    },
+    "./squarespace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/squarespace.jsx"
+    },
+    "./stackbit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackbit.jsx"
+    },
+    "./stackexchange": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackexchange.jsx"
+    },
+    "./stackoverflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow.jsx"
+    },
+    "./stackpath": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackpath.jsx"
+    },
+    "./stackshare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackshare.jsx"
+    },
+    "./stadia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stadia.jsx"
+    },
+    "./statamic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statamic.jsx"
+    },
+    "./staticman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/staticman.jsx"
+    },
+    "./statuspage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statuspage.jsx"
+    },
+    "./steam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steam.jsx"
+    },
+    "./steem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steem.jsx"
+    },
+    "./steemit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steemit.jsx"
+    },
+    "./stitcher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stitcher.jsx"
+    },
+    "./storify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storify.jsx"
+    },
+    "./storybook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook.jsx"
+    },
+    "./strapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strapi.jsx"
+    },
+    "./strava": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strava.jsx"
+    },
+    "./stripe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stripe.jsx"
+    },
+    "./stripe-s": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stripe-s.jsx"
+    },
+    "./stubhub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stubhub.jsx"
+    },
+    "./stumbleupon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stumbleupon.jsx"
+    },
+    "./styleshare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/styleshare.jsx"
+    },
+    "./stylus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylus.jsx"
+    },
+    "./sublime-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sublime-text.jsx"
+    },
+    "./subversion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subversion.jsx"
+    },
+    "./superuser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/superuser.jsx"
+    },
+    "./svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte.jsx"
+    },
+    "./svg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svg.jsx"
+    },
+    "./swagger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swagger.jsx"
+    },
+    "./swarm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swarm.jsx"
+    },
+    "./swift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swift.jsx"
+    },
+    "./symantec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symantec.jsx"
+    },
+    "./symfony": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symfony.jsx"
+    },
+    "./synology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/synology.jsx"
+    },
+    "./t-mobile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/t-mobile.jsx"
+    },
+    "./tableau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tableau.jsx"
+    },
+    "./tails": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tails.jsx"
+    },
+    "./tapas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tapas.jsx"
+    },
+    "./teamviewer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teamviewer.jsx"
+    },
+    "./ted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ted.jsx"
+    },
+    "./teespring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teespring.jsx"
+    },
+    "./telegram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telegram.jsx"
+    },
+    "./telegram-plane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telegram-plane.jsx"
+    },
+    "./tencent-qq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tencent-qq.jsx"
+    },
+    "./tencent-weibo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tencent-weibo.jsx"
+    },
+    "./tensorflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tensorflow.jsx"
+    },
+    "./terraform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform.jsx"
+    },
+    "./tesla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tesla.jsx"
+    },
+    "./the-mighty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-mighty.jsx"
+    },
+    "./the-movie-database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-movie-database.jsx"
+    },
+    "./tidal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tidal.jsx"
+    },
+    "./tiktok": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tiktok.jsx"
+    },
+    "./tinder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tinder.jsx"
+    },
+    "./todoist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/todoist.jsx"
+    },
+    "./toggl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggl.jsx"
+    },
+    "./topcoder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/topcoder.jsx"
+    },
+    "./toptal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toptal.jsx"
+    },
+    "./tor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tor.jsx"
+    },
+    "./toshiba": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toshiba.jsx"
+    },
+    "./trainerroad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trainerroad.jsx"
+    },
+    "./trakt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trakt.jsx"
+    },
+    "./travisci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/travisci.jsx"
+    },
+    "./treehouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/treehouse.jsx"
+    },
+    "./trello": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trello.jsx"
+    },
+    "./tripadvisor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tripadvisor.jsx"
+    },
+    "./trulia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trulia.jsx"
+    },
+    "./tumblr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumblr.jsx"
+    },
+    "./twilio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twilio.jsx"
+    },
+    "./twitch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitch.jsx"
+    },
+    "./twitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter.jsx"
+    },
+    "./twoo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twoo.jsx"
+    },
+    "./typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript.jsx"
+    },
+    "./typo3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typo3.jsx"
+    },
+    "./uber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uber.jsx"
+    },
+    "./ubisoft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubisoft.jsx"
+    },
+    "./ublock-origin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ublock-origin.jsx"
+    },
+    "./ubuntu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubuntu.jsx"
+    },
+    "./udacity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/udacity.jsx"
+    },
+    "./udemy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/udemy.jsx"
+    },
+    "./uikit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uikit.jsx"
+    },
+    "./umbraco": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbraco.jsx"
+    },
+    "./unity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unity.jsx"
+    },
+    "./unreal-engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unreal-engine.jsx"
+    },
+    "./unsplash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unsplash.jsx"
+    },
+    "./untappd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/untappd.jsx"
+    },
+    "./upwork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upwork.jsx"
+    },
+    "./usb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/usb.jsx"
+    },
+    "./v8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v8.jsx"
+    },
+    "./vagrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vagrant.jsx"
+    },
+    "./venmo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/venmo.jsx"
+    },
+    "./verizon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verizon.jsx"
+    },
+    "./viadeo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viadeo.jsx"
+    },
+    "./viber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viber.jsx"
+    },
+    "./vim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim.jsx"
+    },
+    "./vimeo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vimeo.jsx"
+    },
+    "./vimeo-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vimeo-v.jsx"
+    },
+    "./vine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vine.jsx"
+    },
+    "./virb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virb.jsx"
+    },
+    "./visa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visa.jsx"
+    },
+    "./visual-studio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visual-studio.jsx"
+    },
+    "./visual-studio-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visual-studio-code.jsx"
+    },
+    "./vk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vk.jsx"
+    },
+    "./vlc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vlc.jsx"
+    },
+    "./vsco": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vsco.jsx"
+    },
+    "./vue-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue-js.jsx"
+    },
+    "./wattpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wattpad.jsx"
+    },
+    "./weasyl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weasyl.jsx"
+    },
+    "./webcomponents-org": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webcomponents-org.jsx"
+    },
+    "./webpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack.jsx"
+    },
+    "./webstorm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webstorm.jsx"
+    },
+    "./wechat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wechat.jsx"
+    },
+    "./whatsapp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whatsapp.jsx"
+    },
+    "./when-i-work": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/when-i-work.jsx"
+    },
+    "./wii": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wii.jsx"
+    },
+    "./wiiu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wiiu.jsx"
+    },
+    "./wikipedia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wikipedia.jsx"
+    },
+    "./windows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windows.jsx"
+    },
+    "./wire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wire.jsx"
+    },
+    "./wireguard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wireguard.jsx"
+    },
+    "./wix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wix.jsx"
+    },
+    "./wolfram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wolfram.jsx"
+    },
+    "./wolfram-language": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wolfram-language.jsx"
+    },
+    "./wolfram-mathematica": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wolfram-mathematica.jsx"
+    },
+    "./wordpress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wordpress.jsx"
+    },
+    "./wpengine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wpengine.jsx"
+    },
+    "./x-pack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-pack.jsx"
+    },
+    "./xbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xbox.jsx"
+    },
+    "./xcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xcode.jsx"
+    },
+    "./xero": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xero.jsx"
+    },
+    "./xiaomi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xiaomi.jsx"
+    },
+    "./xing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xing.jsx"
+    },
+    "./xrp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xrp.jsx"
+    },
+    "./xsplit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xsplit.jsx"
+    },
+    "./y-combinator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/y-combinator.jsx"
+    },
+    "./yahoo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yahoo.jsx"
+    },
+    "./yammer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yammer.jsx"
+    },
+    "./yandex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yandex.jsx"
+    },
+    "./yarn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn.jsx"
+    },
+    "./yelp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yelp.jsx"
+    },
+    "./youtube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youtube.jsx"
+    },
+    "./zalando": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zalando.jsx"
+    },
+    "./zapier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zapier.jsx"
+    },
+    "./zeit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zeit.jsx"
+    },
+    "./zendesk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zendesk.jsx"
+    },
+    "./zerply": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zerply.jsx"
+    },
+    "./zillow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zillow.jsx"
+    },
+    "./zingat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zingat.jsx"
+    },
+    "./zoom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom.jsx"
+    },
+    "./zorin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zorin.jsx"
+    },
+    "./zulip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zulip.jsx"
+    },
+    "./stack-overflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-overflow.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#cib"
+}

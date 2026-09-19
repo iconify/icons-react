@@ -1,0 +1,3735 @@
+{
+  "name": "@iconify-react/file-icons",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/file-icons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "ISC",
+  "exports": {
+    "./1c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/1/1c.jsx"
+    },
+    "./1c-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/1/1c-alt.jsx"
+    },
+    "./3d-model": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3d-model.jsx"
+    },
+    "./3ds-max": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3ds-max.jsx"
+    },
+    "./4d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/4/4d.jsx"
+    },
+    "./a": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/a.jsx"
+    },
+    "./abap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abap.jsx"
+    },
+    "./abif": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abif.jsx"
+    },
+    "./acre": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acre.jsx"
+    },
+    "./actionscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/actionscript.jsx"
+    },
+    "./ada": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ada.jsx"
+    },
+    "./adobe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe.jsx"
+    },
+    "./adobe-acrobat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-acrobat.jsx"
+    },
+    "./adobe-aftereffects": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-aftereffects.jsx"
+    },
+    "./adobe-animate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-animate.jsx"
+    },
+    "./adobe-audition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-audition.jsx"
+    },
+    "./adobe-bridge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-bridge.jsx"
+    },
+    "./adobe-characteranimator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-characteranimator.jsx"
+    },
+    "./adobe-creativecloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-creativecloud.jsx"
+    },
+    "./adobe-dimension": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-dimension.jsx"
+    },
+    "./adobe-dreamweaver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-dreamweaver.jsx"
+    },
+    "./adobe-flash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-flash.jsx"
+    },
+    "./adobe-fuse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-fuse.jsx"
+    },
+    "./adobe-illustrator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-illustrator.jsx"
+    },
+    "./adobe-incopy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-incopy.jsx"
+    },
+    "./adobe-indesign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-indesign.jsx"
+    },
+    "./adobe-lightroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-lightroom.jsx"
+    },
+    "./adobe-mediaencoder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-mediaencoder.jsx"
+    },
+    "./adobe-photoshop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-photoshop.jsx"
+    },
+    "./adobe-prelude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-prelude.jsx"
+    },
+    "./adobe-premiere": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-premiere.jsx"
+    },
+    "./adobe-premiererush": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-premiererush.jsx"
+    },
+    "./adobe-xd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-xd.jsx"
+    },
+    "./adonisjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adonisjs.jsx"
+    },
+    "./aeternity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aeternity.jsx"
+    },
+    "./affectscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/affectscript.jsx"
+    },
+    "./affinitydesigner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/affinitydesigner.jsx"
+    },
+    "./agc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agc.jsx"
+    },
+    "./agda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agda.jsx"
+    },
+    "./akka": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/akka.jsx"
+    },
+    "./alacritty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alacritty.jsx"
+    },
+    "./alacritty-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alacritty-alt.jsx"
+    },
+    "./alex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alex.jsx"
+    },
+    "./alloy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alloy.jsx"
+    },
+    "./alpine-linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alpine-linux.jsx"
+    },
+    "./amd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amd.jsx"
+    },
+    "./amigaos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amigaos.jsx"
+    },
+    "./ampl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ampl.jsx"
+    },
+    "./amusewiki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amusewiki.jsx"
+    },
+    "./analytica": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/analytica.jsx"
+    },
+    "./angelscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angelscript.jsx"
+    },
+    "./animestudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/animestudio.jsx"
+    },
+    "./ansible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansible.jsx"
+    },
+    "./ansible-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansible-alt.jsx"
+    },
+    "./antlr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/antlr.jsx"
+    },
+    "./antwar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/antwar.jsx"
+    },
+    "./anyscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anyscript.jsx"
+    },
+    "./apache-ant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apache-ant.jsx"
+    },
+    "./api-blueprint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api-blueprint.jsx"
+    },
+    "./apiextractor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apiextractor.jsx"
+    },
+    "./apl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apl.jsx"
+    },
+    "./apl-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apl-old.jsx"
+    },
+    "./apollo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apollo.jsx"
+    },
+    "./apple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple.jsx"
+    },
+    "./appveyor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appveyor.jsx"
+    },
+    "./arc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arc.jsx"
+    },
+    "./arch-linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arch-linux.jsx"
+    },
+    "./arduino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arduino.jsx"
+    },
+    "./arm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arm.jsx"
+    },
+    "./arttext": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arttext.jsx"
+    },
+    "./arttext4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arttext4.jsx"
+    },
+    "./asciidoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asciidoc.jsx"
+    },
+    "./asciidoctor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asciidoctor.jsx"
+    },
+    "./assembly-agc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-agc.jsx"
+    },
+    "./assembly-amd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-amd.jsx"
+    },
+    "./assembly-arm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-arm.jsx"
+    },
+    "./assembly-att": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-att.jsx"
+    },
+    "./assembly-avr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-avr.jsx"
+    },
+    "./assembly-generic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-generic.jsx"
+    },
+    "./assembly-hitachi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-hitachi.jsx"
+    },
+    "./assembly-intel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-intel.jsx"
+    },
+    "./assembly-motorola": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-motorola.jsx"
+    },
+    "./assembly-powerpc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-powerpc.jsx"
+    },
+    "./assembly-riscv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-riscv.jsx"
+    },
+    "./assembly-sparc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-sparc.jsx"
+    },
+    "./assembly-vax": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-vax.jsx"
+    },
+    "./assembly-zilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly-zilog.jsx"
+    },
+    "./asymptote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asymptote.jsx"
+    },
+    "./asymptote-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asymptote-alt.jsx"
+    },
+    "./atoum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atoum.jsx"
+    },
+    "./ats": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ats.jsx"
+    },
+    "./att": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/att.jsx"
+    },
+    "./audacity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audacity.jsx"
+    },
+    "./augeas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/augeas.jsx"
+    },
+    "./aurelia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aurelia.jsx"
+    },
+    "./autohotkey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autohotkey.jsx"
+    },
+    "./autoit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autoit.jsx"
+    },
+    "./automator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automator.jsx"
+    },
+    "./avr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/avr.jsx"
+    },
+    "./avro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/avro.jsx"
+    },
+    "./awk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/awk.jsx"
+    },
+    "./azure-pipelines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-pipelines.jsx"
+    },
+    "./babel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babel.jsx"
+    },
+    "./ballerina": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/ballerina.jsx"
+    },
+    "./bazaar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazaar.jsx"
+    },
+    "./bazel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel.jsx"
+    },
+    "./bazel-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel-old.jsx"
+    },
+    "./behat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/behat.jsx"
+    },
+    "./bem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bem.jsx"
+    },
+    "./bibtex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bibtex.jsx"
+    },
+    "./bikeshed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bikeshed.jsx"
+    },
+    "./biml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biml.jsx"
+    },
+    "./binder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binder.jsx"
+    },
+    "./bintray": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bintray.jsx"
+    },
+    "./bison": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bison.jsx"
+    },
+    "./bithound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bithound.jsx"
+    },
+    "./blender": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blender.jsx"
+    },
+    "./blitzbasic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blitzbasic.jsx"
+    },
+    "./bloc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bloc.jsx"
+    },
+    "./bluespec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluespec.jsx"
+    },
+    "./bnf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bnf.jsx"
+    },
+    "./boo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boo.jsx"
+    },
+    "./bors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bors.jsx"
+    },
+    "./bosque": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bosque.jsx"
+    },
+    "./brainfuck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brainfuck.jsx"
+    },
+    "./brakeman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brakeman.jsx"
+    },
+    "./bro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bro.jsx"
+    },
+    "./broccoli": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/broccoli.jsx"
+    },
+    "./brotli": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brotli.jsx"
+    },
+    "./brotli-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brotli-old.jsx"
+    },
+    "./browserslist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserslist.jsx"
+    },
+    "./browsersync": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browsersync.jsx"
+    },
+    "./brunch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brunch.jsx"
+    },
+    "./buck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buck.jsx"
+    },
+    "./build-boot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/build-boot.jsx"
+    },
+    "./buildkite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buildkite.jsx"
+    },
+    "./bundler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bundler.jsx"
+    },
+    "./byond": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/byond.jsx"
+    },
+    "./c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c.jsx"
+    },
+    "./c-script": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-script.jsx"
+    },
+    "./cabal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cabal.jsx"
+    },
+    "./caddy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caddy.jsx"
+    },
+    "./caddy-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caddy-old.jsx"
+    },
+    "./caffe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caffe.jsx"
+    },
+    "./caffe2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caffe2.jsx"
+    },
+    "./cairo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cairo.jsx"
+    },
+    "./cake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cake.jsx"
+    },
+    "./cakefile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cakefile.jsx"
+    },
+    "./cakephp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cakephp.jsx"
+    },
+    "./cakephp-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cakephp-old.jsx"
+    },
+    "./calva": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calva.jsx"
+    },
+    "./carthage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carthage.jsx"
+    },
+    "./casc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/casc.jsx"
+    },
+    "./cdf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cdf.jsx"
+    },
+    "./ceylon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ceylon.jsx"
+    },
+    "./chai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chai.jsx"
+    },
+    "./chapel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chapel.jsx"
+    },
+    "./chartjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chartjs.jsx"
+    },
+    "./cheetah3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cheetah3d.jsx"
+    },
+    "./chef": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chef.jsx"
+    },
+    "./chocolatey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chocolatey.jsx"
+    },
+    "./chuck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chuck.jsx"
+    },
+    "./circleci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circleci.jsx"
+    },
+    "./cirru": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cirru.jsx"
+    },
+    "./ckeditor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ckeditor.jsx"
+    },
+    "./clarion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clarion.jsx"
+    },
+    "./clean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clean.jsx"
+    },
+    "./click": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/click.jsx"
+    },
+    "./clips": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clips.jsx"
+    },
+    "./clojurejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clojurejs.jsx"
+    },
+    "./closuretemplate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closuretemplate.jsx"
+    },
+    "./cloudfoundry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudfoundry.jsx"
+    },
+    "./cmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake.jsx"
+    },
+    "./cnab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cnab.jsx"
+    },
+    "./cobol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cobol.jsx"
+    },
+    "./cocoapods": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cocoapods.jsx"
+    },
+    "./codacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codacy.jsx"
+    },
+    "./code-climate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-climate.jsx"
+    },
+    "./codecov": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codecov.jsx"
+    },
+    "./codekit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codekit.jsx"
+    },
+    "./codemeta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codemeta.jsx"
+    },
+    "./codemirror": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codemirror.jsx"
+    },
+    "./codeship": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeship.jsx"
+    },
+    "./coldfusion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coldfusion.jsx"
+    },
+    "./commitizen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commitizen.jsx"
+    },
+    "./commitlint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commitlint.jsx"
+    },
+    "./common-lisp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/common-lisp.jsx"
+    },
+    "./component-pascal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/component-pascal.jsx"
+    },
+    "./composer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/composer.jsx"
+    },
+    "./conan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conan.jsx"
+    },
+    "./conda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conda.jsx"
+    },
+    "./config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config.jsx"
+    },
+    "./config-coffeescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-coffeescript.jsx"
+    },
+    "./config-go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-go.jsx"
+    },
+    "./config-haskell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-haskell.jsx"
+    },
+    "./config-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-js.jsx"
+    },
+    "./config-perl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-perl.jsx"
+    },
+    "./config-python": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-python.jsx"
+    },
+    "./config-react": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-react.jsx"
+    },
+    "./config-ruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-ruby.jsx"
+    },
+    "./config-rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-rust.jsx"
+    },
+    "./config-typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/config-typescript.jsx"
+    },
+    "./conll": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conll.jsx"
+    },
+    "./coq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coq.jsx"
+    },
+    "./cordova": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cordova.jsx"
+    },
+    "./coreldraw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coreldraw.jsx"
+    },
+    "./coreldraw-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coreldraw-alt.jsx"
+    },
+    "./coveralls": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coveralls.jsx"
+    },
+    "./cpan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpan.jsx"
+    },
+    "./cpcdosc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpcdosc.jsx"
+    },
+    "./crafttweaker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crafttweaker.jsx"
+    },
+    "./creole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/creole.jsx"
+    },
+    "./crowdin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crowdin.jsx"
+    },
+    "./crystal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crystal.jsx"
+    },
+    "./csound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csound.jsx"
+    },
+    "./cubit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cubit.jsx"
+    },
+    "./cucumber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cucumber.jsx"
+    },
+    "./cuneiform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cuneiform.jsx"
+    },
+    "./curl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curl.jsx"
+    },
+    "./curl-lang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curl-lang.jsx"
+    },
+    "./curry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curry.jsx"
+    },
+    "./cvs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cvs.jsx"
+    },
+    "./cwl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cwl.jsx"
+    },
+    "./cython": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cython.jsx"
+    },
+    "./d3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d3.jsx"
+    },
+    "./dafny": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dafny.jsx"
+    },
+    "./darcs-patch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/darcs-patch.jsx"
+    },
+    "./dashboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dashboard.jsx"
+    },
+    "./dataweave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dataweave.jsx"
+    },
+    "./dbase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dbase.jsx"
+    },
+    "./default": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/default.jsx"
+    },
+    "./delphi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delphi.jsx"
+    },
+    "./deno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno.jsx"
+    },
+    "./dependabot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dependabot.jsx"
+    },
+    "./devcontainer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devcontainer.jsx"
+    },
+    "./devicetree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devicetree.jsx"
+    },
+    "./dhall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dhall.jsx"
+    },
+    "./dia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dia.jsx"
+    },
+    "./diff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diff.jsx"
+    },
+    "./digdag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digdag.jsx"
+    },
+    "./dna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dna.jsx"
+    },
+    "./docbook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docbook.jsx"
+    },
+    "./docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker.jsx"
+    },
+    "./doclets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doclets.jsx"
+    },
+    "./docpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docpad.jsx"
+    },
+    "./docz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docz.jsx"
+    },
+    "./dogescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dogescript.jsx"
+    },
+    "./dom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dom.jsx"
+    },
+    "./donejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/donejs.jsx"
+    },
+    "./dosbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dosbox.jsx"
+    },
+    "./dosbox-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dosbox-alt.jsx"
+    },
+    "./dotenv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dotenv.jsx"
+    },
+    "./dotjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dotjs.jsx"
+    },
+    "./doxygen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doxygen.jsx"
+    },
+    "./dragonflybsd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dragonflybsd.jsx"
+    },
+    "./dragula": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dragula.jsx"
+    },
+    "./draw-io": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/draw-io.jsx"
+    },
+    "./drone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone.jsx"
+    },
+    "./dub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dub.jsx"
+    },
+    "./dvc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dvc.jsx"
+    },
+    "./dyalog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dyalog.jsx"
+    },
+    "./dylib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dylib.jsx"
+    },
+    "./e": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/e.jsx"
+    },
+    "./eagle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eagle.jsx"
+    },
+    "./easybuild": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easybuild.jsx"
+    },
+    "./ec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ec.jsx"
+    },
+    "./ecere": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ecere.jsx"
+    },
+    "./eclipse-lang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipse-lang.jsx"
+    },
+    "./edge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edge.jsx"
+    },
+    "./editorconfig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/editorconfig.jsx"
+    },
+    "./eiffel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eiffel.jsx"
+    },
+    "./ejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ejs.jsx"
+    },
+    "./electron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/electron.jsx"
+    },
+    "./elementaryos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elementaryos.jsx"
+    },
+    "./elm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elm.jsx"
+    },
+    "./emacs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emacs.jsx"
+    },
+    "./ember": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ember.jsx"
+    },
+    "./emberscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emberscript.jsx"
+    },
+    "./ensime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ensime.jsx"
+    },
+    "./eq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eq.jsx"
+    },
+    "./esdoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/esdoc.jsx"
+    },
+    "./eslint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint.jsx"
+    },
+    "./eslint-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint-old.jsx"
+    },
+    "./expo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expo.jsx"
+    },
+    "./fabfile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fabfile.jsx"
+    },
+    "./fabric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fabric.jsx"
+    },
+    "./factor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/factor.jsx"
+    },
+    "./falcon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/falcon.jsx"
+    },
+    "./fancy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fancy.jsx"
+    },
+    "./fantom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fantom.jsx"
+    },
+    "./fauna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fauna.jsx"
+    },
+    "./faust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/faust.jsx"
+    },
+    "./fbx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fbx.jsx"
+    },
+    "./fexl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fexl.jsx"
+    },
+    "./ffmpeg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ffmpeg.jsx"
+    },
+    "./fiddle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fiddle.jsx"
+    },
+    "./figma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma.jsx"
+    },
+    "./finaldraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/finaldraft.jsx"
+    },
+    "./finder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/finder.jsx"
+    },
+    "./firebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase.jsx"
+    },
+    "./firebase-bolt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase-bolt.jsx"
+    },
+    "./flask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask.jsx"
+    },
+    "./floobits": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/floobits.jsx"
+    },
+    "./flow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flow.jsx"
+    },
+    "./flutter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flutter.jsx"
+    },
+    "./flux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flux.jsx"
+    },
+    "./font": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/font.jsx"
+    },
+    "./font-bitmap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/font-bitmap.jsx"
+    },
+    "./font-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/font-outline.jsx"
+    },
+    "./fontforge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fontforge.jsx"
+    },
+    "./fork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork.jsx"
+    },
+    "./fortherecord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fortherecord.jsx"
+    },
+    "./fortran": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fortran.jsx"
+    },
+    "./fossa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fossa.jsx"
+    },
+    "./fossil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fossil.jsx"
+    },
+    "./fountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain.jsx"
+    },
+    "./franca": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/franca.jsx"
+    },
+    "./freedesktop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freedesktop.jsx"
+    },
+    "./freedos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freedos.jsx"
+    },
+    "./freemarker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freemarker.jsx"
+    },
+    "./freemat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freemat.jsx"
+    },
+    "./frege": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frege.jsx"
+    },
+    "./fthtml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fthtml.jsx"
+    },
+    "./fuelux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fuelux.jsx"
+    },
+    "./fusebox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fusebox.jsx"
+    },
+    "./futhark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/futhark.jsx"
+    },
+    "./galaxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/galaxy.jsx"
+    },
+    "./galen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/galen.jsx"
+    },
+    "./gamemaker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gamemaker.jsx"
+    },
+    "./gams": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gams.jsx"
+    },
+    "./gap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gap.jsx"
+    },
+    "./gatsby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsby.jsx"
+    },
+    "./gauss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauss.jsx"
+    },
+    "./gdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gdb.jsx"
+    },
+    "./genshi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/genshi.jsx"
+    },
+    "./genstat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/genstat.jsx"
+    },
+    "./gentoo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gentoo.jsx"
+    },
+    "./gf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gf.jsx"
+    },
+    "./ghostscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghostscript.jsx"
+    },
+    "./gimp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gimp.jsx"
+    },
+    "./gitlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab.jsx"
+    },
+    "./gitpod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitpod.jsx"
+    },
+    "./glade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glade.jsx"
+    },
+    "./glide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glide.jsx"
+    },
+    "./gltf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gltf.jsx"
+    },
+    "./glyphs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glyphs.jsx"
+    },
+    "./gn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gn.jsx"
+    },
+    "./gnu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnu.jsx"
+    },
+    "./gnuplot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnuplot.jsx"
+    },
+    "./go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go.jsx"
+    },
+    "./go-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go-old.jsx"
+    },
+    "./godot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot.jsx"
+    },
+    "./golo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golo.jsx"
+    },
+    "./goreleaser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goreleaser.jsx"
+    },
+    "./gosu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gosu.jsx"
+    },
+    "./gradle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle.jsx"
+    },
+    "./grapher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grapher.jsx"
+    },
+    "./graphite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphite.jsx"
+    },
+    "./graphql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql.jsx"
+    },
+    "./graphql-codegenerator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql-codegenerator.jsx"
+    },
+    "./graphviz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphviz.jsx"
+    },
+    "./gravit-designer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gravit-designer.jsx"
+    },
+    "./greenkeeper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/greenkeeper.jsx"
+    },
+    "./gridsome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gridsome.jsx"
+    },
+    "./groovy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groovy.jsx"
+    },
+    "./grunt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grunt.jsx"
+    },
+    "./gulp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gulp.jsx"
+    },
+    "./hack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hack.jsx"
+    },
+    "./haml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haml.jsx"
+    },
+    "./harbour": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harbour.jsx"
+    },
+    "./hashicorp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hashicorp.jsx"
+    },
+    "./haxe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxe.jsx"
+    },
+    "./haxedevelop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxedevelop.jsx"
+    },
+    "./helix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helix.jsx"
+    },
+    "./hewlettpackard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hewlettpackard.jsx"
+    },
+    "./hie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hie.jsx"
+    },
+    "./hitachi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hitachi.jsx"
+    },
+    "./hjson": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hjson.jsx"
+    },
+    "./homebrew": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homebrew.jsx"
+    },
+    "./hop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hop.jsx"
+    },
+    "./hoplon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hoplon.jsx"
+    },
+    "./houdini": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/houdini.jsx"
+    },
+    "./houndci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/houndci.jsx"
+    },
+    "./hugo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hugo.jsx"
+    },
+    "./husky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/husky.jsx"
+    },
+    "./hy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hy.jsx"
+    },
+    "./hygen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hygen.jsx"
+    },
+    "./hyper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hyper.jsx"
+    },
+    "./icomoon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icomoon.jsx"
+    },
+    "./icu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icu.jsx"
+    },
+    "./idl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/idl.jsx"
+    },
+    "./idris": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/idris.jsx"
+    },
+    "./igor-pro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/igor-pro.jsx"
+    },
+    "./illumos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/illumos.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./imba": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imba.jsx"
+    },
+    "./imba-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imba-alt.jsx"
+    },
+    "./imba-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imba-old.jsx"
+    },
+    "./imgbot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imgbot.jsx"
+    },
+    "./influxdata": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/influxdata.jsx"
+    },
+    "./inform7": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inform7.jsx"
+    },
+    "./ink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ink.jsx"
+    },
+    "./inkscape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inkscape.jsx"
+    },
+    "./innosetup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/innosetup.jsx"
+    },
+    "./intel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intel.jsx"
+    },
+    "./io": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/io.jsx"
+    },
+    "./ioke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ioke.jsx"
+    },
+    "./ionic-project": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ionic-project.jsx"
+    },
+    "./isabelle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/isabelle.jsx"
+    },
+    "./istanbul": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/istanbul.jsx"
+    },
+    "./j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/j.jsx"
+    },
+    "./jade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jade.jsx"
+    },
+    "./jakefile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jakefile.jsx"
+    },
+    "./janet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/janet.jsx"
+    },
+    "./jasmine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jasmine.jsx"
+    },
+    "./jenkins": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jenkins.jsx"
+    },
+    "./jest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jest.jsx"
+    },
+    "./jinja": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jinja.jsx"
+    },
+    "./jison": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jison.jsx"
+    },
+    "./jolie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jolie.jsx"
+    },
+    "./jscpd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jscpd.jsx"
+    },
+    "./json-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json-1.jsx"
+    },
+    "./json-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json-2.jsx"
+    },
+    "./json-ld1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json-ld1.jsx"
+    },
+    "./json-ld2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json-ld2.jsx"
+    },
+    "./json5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json5.jsx"
+    },
+    "./jsonnet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsonnet.jsx"
+    },
+    "./jsx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsx.jsx"
+    },
+    "./jsx-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsx-alt.jsx"
+    },
+    "./jsx-atom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsx-atom.jsx"
+    },
+    "./julia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/julia.jsx"
+    },
+    "./junos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/junos.jsx"
+    },
+    "./jupyter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jupyter.jsx"
+    },
+    "./kaitai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kaitai.jsx"
+    },
+    "./karma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karma.jsx"
+    },
+    "./keybase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keybase.jsx"
+    },
+    "./keynote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keynote.jsx"
+    },
+    "./khronos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/khronos.jsx"
+    },
+    "./kibo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kibo.jsx"
+    },
+    "./kicad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kicad.jsx"
+    },
+    "./kitchenci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kitchenci.jsx"
+    },
+    "./kivy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kivy.jsx"
+    },
+    "./knime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knime.jsx"
+    },
+    "./knockout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knockout.jsx"
+    },
+    "./kos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kos.jsx"
+    },
+    "./kotlin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin.jsx"
+    },
+    "./krl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/krl.jsx"
+    },
+    "./kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes.jsx"
+    },
+    "./kusto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kusto.jsx"
+    },
+    "./kusto-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kusto-alt.jsx"
+    },
+    "./kx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kx.jsx"
+    },
+    "./labview": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/labview.jsx"
+    },
+    "./laravel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel.jsx"
+    },
+    "./lark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lark.jsx"
+    },
+    "./lasso": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lasso.jsx"
+    },
+    "./latex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latex.jsx"
+    },
+    "./latino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latino.jsx"
+    },
+    "./leaflet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leaflet.jsx"
+    },
+    "./lean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lean.jsx"
+    },
+    "./lefthook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lefthook.jsx"
+    },
+    "./lefthook-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lefthook-alt.jsx"
+    },
+    "./leiningen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leiningen.jsx"
+    },
+    "./lektor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lektor.jsx"
+    },
+    "./lerna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lerna.jsx"
+    },
+    "./lex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lex.jsx"
+    },
+    "./lex-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lex-alt.jsx"
+    },
+    "./lfe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lfe.jsx"
+    },
+    "./lgtm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lgtm.jsx"
+    },
+    "./libuv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/libuv.jsx"
+    },
+    "./lighthouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse.jsx"
+    },
+    "./lightwave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightwave.jsx"
+    },
+    "./lilypond": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lilypond.jsx"
+    },
+    "./lime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lime.jsx"
+    },
+    "./linqpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linqpad.jsx"
+    },
+    "./lisp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lisp.jsx"
+    },
+    "./livescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/livescript.jsx"
+    },
+    "./llvm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/llvm.jsx"
+    },
+    "./logtalk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logtalk.jsx"
+    },
+    "./lolcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lolcode.jsx"
+    },
+    "./lookml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lookml.jsx"
+    },
+    "./lsl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lsl.jsx"
+    },
+    "./lua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua.jsx"
+    },
+    "./macaulay2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/macaulay2.jsx"
+    },
+    "./macvim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/macvim.jsx"
+    },
+    "./magit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magit.jsx"
+    },
+    "./mako": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mako.jsx"
+    },
+    "./manjaro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/manjaro.jsx"
+    },
+    "./manpage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/manpage.jsx"
+    },
+    "./mapbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mapbox.jsx"
+    },
+    "./markdownlint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdownlint.jsx"
+    },
+    "./marko": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marko.jsx"
+    },
+    "./mathematica": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mathematica.jsx"
+    },
+    "./mathjax": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mathjax.jsx"
+    },
+    "./matlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matlab.jsx"
+    },
+    "./matroska": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matroska.jsx"
+    },
+    "./max": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/max.jsx"
+    },
+    "./maya": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maya.jsx"
+    },
+    "./mdx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mdx.jsx"
+    },
+    "./mediawiki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mediawiki.jsx"
+    },
+    "./melpa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/melpa.jsx"
+    },
+    "./mercurial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mercurial.jsx"
+    },
+    "./mercury": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mercury.jsx"
+    },
+    "./mermaid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mermaid.jsx"
+    },
+    "./meson": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meson.jsx"
+    },
+    "./meson-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meson-old.jsx"
+    },
+    "./metal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metal.jsx"
+    },
+    "./metapost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metapost.jsx"
+    },
+    "./meteor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meteor.jsx"
+    },
+    "./microsoft-access": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-access.jsx"
+    },
+    "./microsoft-excel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-excel.jsx"
+    },
+    "./microsoft-infopath": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-infopath.jsx"
+    },
+    "./microsoft-lync": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-lync.jsx"
+    },
+    "./microsoft-onenote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-onenote.jsx"
+    },
+    "./microsoft-outlook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-outlook.jsx"
+    },
+    "./microsoft-powerpoint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-powerpoint.jsx"
+    },
+    "./microsoft-project": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-project.jsx"
+    },
+    "./microsoft-publisher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-publisher.jsx"
+    },
+    "./microsoft-visio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-visio.jsx"
+    },
+    "./microsoft-word": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-word.jsx"
+    },
+    "./minecraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minecraft.jsx"
+    },
+    "./minizinc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minizinc.jsx"
+    },
+    "./mint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mint.jsx"
+    },
+    "./mirah": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirah.jsx"
+    },
+    "./miranda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/miranda.jsx"
+    },
+    "./mirc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirc.jsx"
+    },
+    "./mixin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mixin.jsx"
+    },
+    "./mjml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mjml.jsx"
+    },
+    "./mocha": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mocha.jsx"
+    },
+    "./modelica": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modelica.jsx"
+    },
+    "./modernweb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modernweb.jsx"
+    },
+    "./modo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modo.jsx"
+    },
+    "./modula-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modula-2.jsx"
+    },
+    "./modula-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modula-3.jsx"
+    },
+    "./moho": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moho.jsx"
+    },
+    "./moleculer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moleculer.jsx"
+    },
+    "./moment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moment.jsx"
+    },
+    "./moment-timezone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moment-timezone.jsx"
+    },
+    "./monkey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monkey.jsx"
+    },
+    "./mono": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mono.jsx"
+    },
+    "./monotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monotone.jsx"
+    },
+    "./motorola": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/motorola.jsx"
+    },
+    "./moustache": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moustache.jsx"
+    },
+    "./mruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mruby.jsx"
+    },
+    "./ms-dos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-dos.jsx"
+    },
+    "./mupad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mupad.jsx"
+    },
+    "./nano": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nano.jsx"
+    },
+    "./nanoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nanoc.jsx"
+    },
+    "./nant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nant.jsx"
+    },
+    "./nasm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nasm.jsx"
+    },
+    "./ndepend": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ndepend.jsx"
+    },
+    "./neko": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neko.jsx"
+    },
+    "./nemerle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nemerle.jsx"
+    },
+    "./neo4j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neo4j.jsx"
+    },
+    "./neon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neon.jsx"
+    },
+    "./nessus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nessus.jsx"
+    },
+    "./nestjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nestjs.jsx"
+    },
+    "./netlify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify.jsx"
+    },
+    "./netlinx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlinx.jsx"
+    },
+    "./netlogo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlogo.jsx"
+    },
+    "./new-relic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/new-relic.jsx"
+    },
+    "./nextflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextflow.jsx"
+    },
+    "./nextjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextjs.jsx"
+    },
+    "./nginx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nginx.jsx"
+    },
+    "./ngrx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx.jsx"
+    },
+    "./nib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nib.jsx"
+    },
+    "./nickle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nickle.jsx"
+    },
+    "./nightwatch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nightwatch.jsx"
+    },
+    "./nimble": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nimble.jsx"
+    },
+    "./nimrod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nimrod.jsx"
+    },
+    "./nintendo64": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nintendo64.jsx"
+    },
+    "./nit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nit.jsx"
+    },
+    "./nix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nix.jsx"
+    },
+    "./nmap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nmap.jsx"
+    },
+    "./nodemon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodemon.jsx"
+    },
+    "./nokogiri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nokogiri.jsx"
+    },
+    "./nomad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nomad.jsx"
+    },
+    "./noon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noon.jsx"
+    },
+    "./normalise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/normalise.jsx"
+    },
+    "./npm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm.jsx"
+    },
+    "./npm-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-old.jsx"
+    },
+    "./nsis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nsis.jsx"
+    },
+    "./nsis-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nsis-old.jsx"
+    },
+    "./nsri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nsri.jsx"
+    },
+    "./nsri-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nsri-alt.jsx"
+    },
+    "./nuclide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuclide.jsx"
+    },
+    "./nuget": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuget.jsx"
+    },
+    "./numpy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/numpy.jsx"
+    },
+    "./numpy-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/numpy-old.jsx"
+    },
+    "./nunjucks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nunjucks.jsx"
+    },
+    "./nuxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxt.jsx"
+    },
+    "./nvidia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nvidia.jsx"
+    },
+    "./nwscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nwscript.jsx"
+    },
+    "./nx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nx.jsx"
+    },
+    "./nxc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nxc.jsx"
+    },
+    "./oberon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oberon.jsx"
+    },
+    "./objective-j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/objective-j.jsx"
+    },
+    "./ocaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ocaml.jsx"
+    },
+    "./octave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octave.jsx"
+    },
+    "./odin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odin.jsx"
+    },
+    "./ogone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ogone.jsx"
+    },
+    "./omnigraffle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omnigraffle.jsx"
+    },
+    "./ooc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ooc.jsx"
+    },
+    "./opa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opa.jsx"
+    },
+    "./openapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openapi.jsx"
+    },
+    "./openbsd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openbsd.jsx"
+    },
+    "./openbsd-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openbsd-alt.jsx"
+    },
+    "./opencl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencl.jsx"
+    },
+    "./opencv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencv.jsx"
+    },
+    "./openexr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openexr.jsx"
+    },
+    "./opengl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opengl.jsx"
+    },
+    "./openindiana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openindiana.jsx"
+    },
+    "./openoffice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openoffice.jsx"
+    },
+    "./openpolicyagent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openpolicyagent.jsx"
+    },
+    "./openscad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openscad.jsx"
+    },
+    "./opensolaris": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opensolaris.jsx"
+    },
+    "./openstack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openstack.jsx"
+    },
+    "./openvms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openvms.jsx"
+    },
+    "./openvpn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openvpn.jsx"
+    },
+    "./openzfs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openzfs.jsx"
+    },
+    "./org-mode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/org-mode.jsx"
+    },
+    "./os2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/os2.jsx"
+    },
+    "./owl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/owl.jsx"
+    },
+    "./ox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ox.jsx"
+    },
+    "./oxygene": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oxygene.jsx"
+    },
+    "./oz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oz.jsx"
+    },
+    "./p4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p4.jsx"
+    },
+    "./pan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pan.jsx"
+    },
+    "./papyrus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/papyrus.jsx"
+    },
+    "./parrot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parrot.jsx"
+    },
+    "./pascal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pascal.jsx"
+    },
+    "./patch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patch.jsx"
+    },
+    "./patreon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patreon.jsx"
+    },
+    "./pawn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pawn.jsx"
+    },
+    "./pcd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pcd.jsx"
+    },
+    "./pegjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pegjs.jsx"
+    },
+    "./perl6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perl6.jsx"
+    },
+    "./phalcon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phalcon.jsx"
+    },
+    "./phoenix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phoenix.jsx"
+    },
+    "./photorec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photorec.jsx"
+    },
+    "./php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php.jsx"
+    },
+    "./phpunit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpunit.jsx"
+    },
+    "./phraseapp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phraseapp.jsx"
+    },
+    "./pickle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pickle.jsx"
+    },
+    "./pico-8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pico-8.jsx"
+    },
+    "./picolisp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picolisp.jsx"
+    },
+    "./pike": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pike.jsx"
+    },
+    "./pinescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinescript.jsx"
+    },
+    "./pipenv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pipenv.jsx"
+    },
+    "./pkgsrc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pkgsrc.jsx"
+    },
+    "./platformio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/platformio.jsx"
+    },
+    "./pm2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pm2.jsx"
+    },
+    "./pnpm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm.jsx"
+    },
+    "./pod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod.jsx"
+    },
+    "./pogoscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pogoscript.jsx"
+    },
+    "./pointwise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pointwise.jsx"
+    },
+    "./polymer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polymer.jsx"
+    },
+    "./pony": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pony.jsx"
+    },
+    "./postcss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcss.jsx"
+    },
+    "./postscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postscript.jsx"
+    },
+    "./pov-ray": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pov-ray.jsx"
+    },
+    "./powerbuilder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powerbuilder.jsx"
+    },
+    "./powerpc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powerpc.jsx"
+    },
+    "./powershell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powershell.jsx"
+    },
+    "./precision": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/precision.jsx"
+    },
+    "./precommit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/precommit.jsx"
+    },
+    "./prettier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prettier.jsx"
+    },
+    "./prisma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prisma.jsx"
+    },
+    "./processing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processing.jsx"
+    },
+    "./progress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress.jsx"
+    },
+    "./progress-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress-old.jsx"
+    },
+    "./propeller": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/propeller.jsx"
+    },
+    "./pros": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pros.jsx"
+    },
+    "./proselint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proselint.jsx"
+    },
+    "./protractor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/protractor.jsx"
+    },
+    "./pug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pug.jsx"
+    },
+    "./pug-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pug-old.jsx"
+    },
+    "./pullapprove": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pullapprove.jsx"
+    },
+    "./puppet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puppet.jsx"
+    },
+    "./pure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pure.jsx"
+    },
+    "./purebasic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/purebasic.jsx"
+    },
+    "./purescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/purescript.jsx"
+    },
+    "./pypi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pypi.jsx"
+    },
+    "./pyret": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pyret.jsx"
+    },
+    "./pytest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytest.jsx"
+    },
+    "./pyup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pyup.jsx"
+    },
+    "./q": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/q.jsx"
+    },
+    "./qiskit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qiskit.jsx"
+    },
+    "./qlikview": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qlikview.jsx"
+    },
+    "./qt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qt.jsx"
+    },
+    "./quasar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quasar.jsx"
+    },
+    "./r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r.jsx"
+    },
+    "./racket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racket.jsx"
+    },
+    "./raml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raml.jsx"
+    },
+    "./rascal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rascal.jsx"
+    },
+    "./razzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/razzle.jsx"
+    },
+    "./rdata": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rdata.jsx"
+    },
+    "./rdoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rdoc.jsx"
+    },
+    "./reactos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reactos.jsx"
+    },
+    "./readthedocs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/readthedocs.jsx"
+    },
+    "./realbasic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/realbasic.jsx"
+    },
+    "./reason": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reason.jsx"
+    },
+    "./reasonstudios": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reasonstudios.jsx"
+    },
+    "./reasonstudios-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reasonstudios-alt.jsx"
+    },
+    "./rebol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rebol.jsx"
+    },
+    "./red": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/red.jsx"
+    },
+    "./red-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/red-old.jsx"
+    },
+    "./redux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redux.jsx"
+    },
+    "./reek": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reek.jsx"
+    },
+    "./regex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regex.jsx"
+    },
+    "./remark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remark.jsx"
+    },
+    "./renovate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/renovate.jsx"
+    },
+    "./rescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rescript.jsx"
+    },
+    "./restql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restql.jsx"
+    },
+    "./restructuredtext": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restructuredtext.jsx"
+    },
+    "./rexx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rexx.jsx"
+    },
+    "./rhino3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rhino3d.jsx"
+    },
+    "./ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ring.jsx"
+    },
+    "./riot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/riot.jsx"
+    },
+    "./riot-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/riot-old.jsx"
+    },
+    "./risc-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/risc-v.jsx"
+    },
+    "./rmarkdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rmarkdown.jsx"
+    },
+    "./robotframework": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robotframework.jsx"
+    },
+    "./robotframework-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robotframework-old.jsx"
+    },
+    "./robots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robots.jsx"
+    },
+    "./rollup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollup.jsx"
+    },
+    "./rollup-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollup-old.jsx"
+    },
+    "./rspec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rspec.jsx"
+    },
+    "./rstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rstudio.jsx"
+    },
+    "./rsync": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rsync.jsx"
+    },
+    "./rubocop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rubocop.jsx"
+    },
+    "./rubygems": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rubygems.jsx"
+    },
+    "./sac": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sac.jsx"
+    },
+    "./sage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sage.jsx"
+    },
+    "./sails": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sails.jsx"
+    },
+    "./saltstack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saltstack.jsx"
+    },
+    "./san": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/san.jsx"
+    },
+    "./sandbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sandbox.jsx"
+    },
+    "./sas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sas.jsx"
+    },
+    "./sbt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sbt.jsx"
+    },
+    "./scheme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scheme.jsx"
+    },
+    "./scilab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scilab.jsx"
+    },
+    "./scilla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scilla.jsx"
+    },
+    "./scratch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scratch.jsx"
+    },
+    "./scrutinizer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scrutinizer.jsx"
+    },
+    "./self": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/self.jsx"
+    },
+    "./semanticrelease": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semanticrelease.jsx"
+    },
+    "./sentry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sentry.jsx"
+    },
+    "./sequelize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sequelize.jsx"
+    },
+    "./serverless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/serverless.jsx"
+    },
+    "./service-fabric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-fabric.jsx"
+    },
+    "./shadowcljs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shadowcljs.jsx"
+    },
+    "./shellcheck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shellcheck.jsx"
+    },
+    "./shen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shen.jsx"
+    },
+    "./shipit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shipit.jsx"
+    },
+    "./shippable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shippable.jsx"
+    },
+    "./shopify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopify.jsx"
+    },
+    "./shuriken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shuriken.jsx"
+    },
+    "./sigils": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sigils.jsx"
+    },
+    "./silicongraphics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/silicongraphics.jsx"
+    },
+    "./silverstripe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/silverstripe.jsx"
+    },
+    "./sinatra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sinatra.jsx"
+    },
+    "./sketch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketch.jsx"
+    },
+    "./sketchup-layout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketchup-layout.jsx"
+    },
+    "./sketchup-make": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketchup-make.jsx"
+    },
+    "./sketchup-stylebuilder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketchup-stylebuilder.jsx"
+    },
+    "./slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slash.jsx"
+    },
+    "./smartos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartos.jsx"
+    },
+    "./smartos-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartos-alt.jsx"
+    },
+    "./snapcraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapcraft.jsx"
+    },
+    "./snort": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snort.jsx"
+    },
+    "./snowpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowpack.jsx"
+    },
+    "./snyk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snyk.jsx"
+    },
+    "./solidarity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidarity.jsx"
+    },
+    "./solidity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidity.jsx"
+    },
+    "./sophia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sophia.jsx"
+    },
+    "./sorbet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sorbet.jsx"
+    },
+    "./source": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/source.jsx"
+    },
+    "./spacemacs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spacemacs.jsx"
+    },
+    "./spacengine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spacengine.jsx"
+    },
+    "./sparc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparc.jsx"
+    },
+    "./spray": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spray.jsx"
+    },
+    "./sqf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqf.jsx"
+    },
+    "./sqlite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqlite.jsx"
+    },
+    "./squarespace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/squarespace.jsx"
+    },
+    "./stan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stan.jsx"
+    },
+    "./stata": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stata.jsx"
+    },
+    "./stdlibjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stdlibjs.jsx"
+    },
+    "./stencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stencil.jsx"
+    },
+    "./stitches": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stitches.jsx"
+    },
+    "./storybook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook.jsx"
+    },
+    "./storyist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storyist.jsx"
+    },
+    "./strings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strings.jsx"
+    },
+    "./stylable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylable.jsx"
+    },
+    "./styledcomponents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/styledcomponents.jsx"
+    },
+    "./stylelint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylelint.jsx"
+    },
+    "./stylishhaskell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylishhaskell.jsx"
+    },
+    "./stylus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylus.jsx"
+    },
+    "./stylus-orb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylus-orb.jsx"
+    },
+    "./stylus-s": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylus-s.jsx"
+    },
+    "./sublime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sublime.jsx"
+    },
+    "./supercollider": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supercollider.jsx"
+    },
+    "./svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte.jsx"
+    },
+    "./svn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svn.jsx"
+    },
+    "./swagger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swagger.jsx"
+    },
+    "./systemverilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/systemverilog.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./tailwind": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwind.jsx"
+    },
+    "./tcl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tcl.jsx"
+    },
+    "./telegram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telegram.jsx"
+    },
+    "./templatetoolkit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/templatetoolkit.jsx"
+    },
+    "./templeos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/templeos.jsx"
+    },
+    "./terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal.jsx"
+    },
+    "./tern": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tern.jsx"
+    },
+    "./terraform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform.jsx"
+    },
+    "./terser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terser.jsx"
+    },
+    "./test-coffeescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-coffeescript.jsx"
+    },
+    "./test-directory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-directory.jsx"
+    },
+    "./test-generic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-generic.jsx"
+    },
+    "./test-go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-go.jsx"
+    },
+    "./test-haskell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-haskell.jsx"
+    },
+    "./test-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-js.jsx"
+    },
+    "./test-perl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-perl.jsx"
+    },
+    "./test-python": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-python.jsx"
+    },
+    "./test-react": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-react.jsx"
+    },
+    "./test-ruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-ruby.jsx"
+    },
+    "./test-rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-rust.jsx"
+    },
+    "./test-typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-typescript.jsx"
+    },
+    "./testcafe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/testcafe.jsx"
+    },
+    "./textile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/textile.jsx"
+    },
+    "./textmate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/textmate.jsx"
+    },
+    "./tfs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tfs.jsx"
+    },
+    "./thor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thor.jsx"
+    },
+    "./tilt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tilt.jsx"
+    },
+    "./tinymce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tinymce.jsx"
+    },
+    "./tipe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tipe.jsx"
+    },
+    "./tla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tla.jsx"
+    },
+    "./tmux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tmux.jsx"
+    },
+    "./toml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toml.jsx"
+    },
+    "./tortoisesvn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tortoisesvn.jsx"
+    },
+    "./totvs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/totvs.jsx"
+    },
+    "./truffle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truffle.jsx"
+    },
+    "./tsx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tsx.jsx"
+    },
+    "./tsx-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tsx-alt.jsx"
+    },
+    "./ttcn-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ttcn-3.jsx"
+    },
+    "./turing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turing.jsx"
+    },
+    "./twig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twig.jsx"
+    },
+    "./twine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twine.jsx"
+    },
+    "./txl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/txl.jsx"
+    },
+    "./typedoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typedoc.jsx"
+    },
+    "./typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript.jsx"
+    },
+    "./typescript-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-alt.jsx"
+    },
+    "./typings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typings.jsx"
+    },
+    "./ufo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ufo.jsx"
+    },
+    "./unibeautify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unibeautify.jsx"
+    },
+    "./unicode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unicode.jsx"
+    },
+    "./uno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uno.jsx"
+    },
+    "./unrealscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unrealscript.jsx"
+    },
+    "./urweb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/urweb.jsx"
+    },
+    "./v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v.jsx"
+    },
+    "./v-ray": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v-ray.jsx"
+    },
+    "./v8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v8.jsx"
+    },
+    "./v8-turbofan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v8-turbofan.jsx"
+    },
+    "./vagrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vagrant.jsx"
+    },
+    "./vala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vala.jsx"
+    },
+    "./vax": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vax.jsx"
+    },
+    "./vcl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vcl.jsx"
+    },
+    "./velocity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/velocity.jsx"
+    },
+    "./verilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verilog.jsx"
+    },
+    "./vertexshader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vertexshader.jsx"
+    },
+    "./vhdl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vhdl.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./virtualbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtualbox.jsx"
+    },
+    "./virtualbox-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtualbox-alt.jsx"
+    },
+    "./vite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vite.jsx"
+    },
+    "./vmware": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vmware.jsx"
+    },
+    "./vscode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode.jsx"
+    },
+    "./vsts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vsts.jsx"
+    },
+    "./vue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue.jsx"
+    },
+    "./vyper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vyper.jsx"
+    },
+    "./w3c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/w3c.jsx"
+    },
+    "./wallaby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallaby.jsx"
+    },
+    "./walt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/walt.jsx"
+    },
+    "./warcraft-iii": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warcraft-iii.jsx"
+    },
+    "./wasi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wasi.jsx"
+    },
+    "./watchman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watchman.jsx"
+    },
+    "./wdl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wdl.jsx"
+    },
+    "./webassembly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webassembly.jsx"
+    },
+    "./webgl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webgl.jsx"
+    },
+    "./webhint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webhint.jsx"
+    },
+    "./webpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack.jsx"
+    },
+    "./webpack-old": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack-old.jsx"
+    },
+    "./webvtt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webvtt.jsx"
+    },
+    "./wenyan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wenyan.jsx"
+    },
+    "./wercker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wercker.jsx"
+    },
+    "./wget": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wget.jsx"
+    },
+    "./windi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windi.jsx"
+    },
+    "./wine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wine.jsx"
+    },
+    "./winui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/winui.jsx"
+    },
+    "./wix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wix.jsx"
+    },
+    "./wolfram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wolfram.jsx"
+    },
+    "./workbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/workbox.jsx"
+    },
+    "./wurst": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wurst.jsx"
+    },
+    "./x10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x10.jsx"
+    },
+    "./xamarin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xamarin.jsx"
+    },
+    "./xmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xmake.jsx"
+    },
+    "./xmos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xmos.jsx"
+    },
+    "./xpages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xpages.jsx"
+    },
+    "./xtend": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xtend.jsx"
+    },
+    "./xubuntu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xubuntu.jsx"
+    },
+    "./yaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml.jsx"
+    },
+    "./yaml-alt1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml-alt1.jsx"
+    },
+    "./yaml-alt2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml-alt2.jsx"
+    },
+    "./yaml-alt3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml-alt3.jsx"
+    },
+    "./yaml-alt4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml-alt4.jsx"
+    },
+    "./yamllint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yamllint.jsx"
+    },
+    "./yandex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yandex.jsx"
+    },
+    "./yang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yang.jsx"
+    },
+    "./yara": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yara.jsx"
+    },
+    "./yarn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn.jsx"
+    },
+    "./yasm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yasm.jsx"
+    },
+    "./yorick": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yorick.jsx"
+    },
+    "./yui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yui.jsx"
+    },
+    "./zbrush": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zbrush.jsx"
+    },
+    "./zeit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zeit.jsx"
+    },
+    "./zephir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zephir.jsx"
+    },
+    "./zig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zig.jsx"
+    },
+    "./zilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zilog.jsx"
+    },
+    "./zimpl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zimpl.jsx"
+    },
+    "./zorinos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zorinos.jsx"
+    },
+    "./zork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zork.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#file-icons"
+}

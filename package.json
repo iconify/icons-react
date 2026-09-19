@@ -1,0 +1,743 @@
+{
+  "name": "@iconify-react/cuida",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/cuida/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "Apache-2.0",
+  "exports": {
+    "./alert-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alert-outline.jsx"
+    },
+    "./ambulance-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ambulance-outline.jsx"
+    },
+    "./arrow-down-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-circle-outline.jsx"
+    },
+    "./arrow-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-outline.jsx"
+    },
+    "./arrow-left-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-circle-outline.jsx"
+    },
+    "./arrow-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-outline.jsx"
+    },
+    "./arrow-right-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-circle-outline.jsx"
+    },
+    "./arrow-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-outline.jsx"
+    },
+    "./arrow-up-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-circle-outline.jsx"
+    },
+    "./arrow-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-outline.jsx"
+    },
+    "./at-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-outline.jsx"
+    },
+    "./attachment-clip-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attachment-clip-outline.jsx"
+    },
+    "./bed-outiline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed-outiline.jsx"
+    },
+    "./block-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/block-outline.jsx"
+    },
+    "./bolt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bolt-outline.jsx"
+    },
+    "./bookmark-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-outline.jsx"
+    },
+    "./box-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-outline.jsx"
+    },
+    "./briefcase-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase-outline.jsx"
+    },
+    "./building-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-outline.jsx"
+    },
+    "./bullet-list-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bullet-list-outline.jsx"
+    },
+    "./bullseye-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bullseye-outline.jsx"
+    },
+    "./calendar-clear-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-clear-outline.jsx"
+    },
+    "./calendar-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-outline.jsx"
+    },
+    "./caret-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down-outline.jsx"
+    },
+    "./caret-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-left-outline.jsx"
+    },
+    "./caret-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-right-outline.jsx"
+    },
+    "./caret-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-up-outline.jsx"
+    },
+    "./chart-column-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-outline.jsx"
+    },
+    "./chatbubble-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chatbubble-outline.jsx"
+    },
+    "./chatbubbles-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chatbubbles-outline.jsx"
+    },
+    "./check-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-outline.jsx"
+    },
+    "./check-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-outline.jsx"
+    },
+    "./checkbox-checked-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkbox-checked-outlined.jsx"
+    },
+    "./checkbox-unchecked-outlined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkbox-unchecked-outlined.jsx"
+    },
+    "./clipboard-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-outline.jsx"
+    },
+    "./clipboard-text-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-text-outline.jsx"
+    },
+    "./clock-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-outline.jsx"
+    },
+    "./copy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-outline.jsx"
+    },
+    "./dashboard-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dashboard-outline.jsx"
+    },
+    "./divider-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divider-outline.jsx"
+    },
+    "./document-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-outline.jsx"
+    },
+    "./document-text-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-text-outline.jsx"
+    },
+    "./document-texts-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-texts-outline.jsx"
+    },
+    "./download-cloud-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download-cloud-outline.jsx"
+    },
+    "./download-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download-outline.jsx"
+    },
+    "./dropdown-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dropdown-outline.jsx"
+    },
+    "./edit-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-outline.jsx"
+    },
+    "./expand-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-outline.jsx"
+    },
+    "./figma-logo-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma-logo-outline.jsx"
+    },
+    "./filter-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-outline.jsx"
+    },
+    "./fire-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-outline.jsx"
+    },
+    "./flag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-outline.jsx"
+    },
+    "./folder-open-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open-outline.jsx"
+    },
+    "./folder-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-outline.jsx"
+    },
+    "./framer-logo-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/framer-logo-outline.jsx"
+    },
+    "./funnel-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/funnel-outline.jsx"
+    },
+    "./github-logo-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-logo-outline.jsx"
+    },
+    "./gitlab-logo-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab-logo-outline.jsx"
+    },
+    "./grid-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-outline.jsx"
+    },
+    "./hashtag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hashtag-outline.jsx"
+    },
+    "./heading1-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading1-outline.jsx"
+    },
+    "./heading2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading2-outline.jsx"
+    },
+    "./heading3-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading3-outline.jsx"
+    },
+    "./headphone-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphone-outline.jsx"
+    },
+    "./headset-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-outline.jsx"
+    },
+    "./heart-rate-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-rate-outline.jsx"
+    },
+    "./help-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help-outline.jsx"
+    },
+    "./history-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-outline.jsx"
+    },
+    "./home-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-outline.jsx"
+    },
+    "./image-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-outline.jsx"
+    },
+    "./info-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-outline.jsx"
+    },
+    "./key-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-outline.jsx"
+    },
+    "./lamp-on-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lamp-on-outline.jsx"
+    },
+    "./lamp-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lamp-outline.jsx"
+    },
+    "./layers-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-outline.jsx"
+    },
+    "./lifebuoy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lifebuoy-outline.jsx"
+    },
+    "./link-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-outline.jsx"
+    },
+    "./list-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-outline.jsx"
+    },
+    "./loading-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loading-left-outline.jsx"
+    },
+    "./loading-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loading-right-outline.jsx"
+    },
+    "./lock-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-outline.jsx"
+    },
+    "./login-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/login-outline.jsx"
+    },
+    "./logout-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logout-outline.jsx"
+    },
+    "./long-text-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/long-text-outline.jsx"
+    },
+    "./loop-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loop-outline.jsx"
+    },
+    "./mail-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-outline.jsx"
+    },
+    "./map-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-outline.jsx"
+    },
+    "./map-pin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-outline.jsx"
+    },
+    "./maximize-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maximize-outline.jsx"
+    },
+    "./medicine-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medicine-outline.jsx"
+    },
+    "./menu-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-outline.jsx"
+    },
+    "./minimize-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minimize-outline.jsx"
+    },
+    "./minus-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-circle-outline.jsx"
+    },
+    "./minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-outline.jsx"
+    },
+    "./monitor-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-outline.jsx"
+    },
+    "./moon-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-outline.jsx"
+    },
+    "./more-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more-horizontal-outline.jsx"
+    },
+    "./more-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more-vertical-outline.jsx"
+    },
+    "./mouse-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mouse-outline.jsx"
+    },
+    "./move-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/move-outline.jsx"
+    },
+    "./notification-bell-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notification-bell-outline.jsx"
+    },
+    "./notification-bell-timer-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notification-bell-timer-outline.jsx"
+    },
+    "./number-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/number-outline.jsx"
+    },
+    "./open-book-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-book-outline.jsx"
+    },
+    "./open-in-new-tab-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-in-new-tab-outline.jsx"
+    },
+    "./package-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-outline.jsx"
+    },
+    "./paragraph-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paragraph-outline.jsx"
+    },
+    "./pause-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-circle-outline.jsx"
+    },
+    "./pause-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-outline.jsx"
+    },
+    "./phone-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-outline.jsx"
+    },
+    "./pie-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pie-chart-outline.jsx"
+    },
+    "./pin-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-fill.jsx"
+    },
+    "./pin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-outline.jsx"
+    },
+    "./play-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-circle-outline.jsx"
+    },
+    "./play-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-outline.jsx"
+    },
+    "./plus-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-circle-outline.jsx"
+    },
+    "./plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-outline.jsx"
+    },
+    "./power-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-outline.jsx"
+    },
+    "./printer-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/printer-outline.jsx"
+    },
+    "./radar-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radar-outline.jsx"
+    },
+    "./refresh-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-outline.jsx"
+    },
+    "./rendo-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rendo-outline.jsx"
+    },
+    "./reorder-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reorder-outline.jsx"
+    },
+    "./rotate-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-left-outline.jsx"
+    },
+    "./rotate-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-right-outline.jsx"
+    },
+    "./sample-container-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sample-container-outline.jsx"
+    },
+    "./scope-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scope-outline.jsx"
+    },
+    "./search-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-outline.jsx"
+    },
+    "./settings-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings-outline.jsx"
+    },
+    "./share-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-outline.jsx"
+    },
+    "./shield-alert-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-alert-outline.jsx"
+    },
+    "./shield-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-outline.jsx"
+    },
+    "./shield-tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-tick-outline.jsx"
+    },
+    "./short-text-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/short-text-outline.jsx"
+    },
+    "./shrink-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shrink-outline.jsx"
+    },
+    "./shuffle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shuffle-outline.jsx"
+    },
+    "./sidebar-collapse-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-collapse-outline.jsx"
+    },
+    "./sidebar-expand-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-expand-outline.jsx"
+    },
+    "./single-select-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/single-select-outline.jsx"
+    },
+    "./sliders-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-outline.jsx"
+    },
+    "./sort-ascending-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-ascending-duotone.jsx"
+    },
+    "./sort-descending-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-descending-duotone.jsx"
+    },
+    "./sparks-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparks-outline.jsx"
+    },
+    "./star-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-outline.jsx"
+    },
+    "./stethoscope-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stethoscope-outline.jsx"
+    },
+    "./stop-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-circle-outline.jsx"
+    },
+    "./subtask-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtask-outline.jsx"
+    },
+    "./sun-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-outline.jsx"
+    },
+    "./swap-horizontal-arrows-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swap-horizontal-arrows-outline.jsx"
+    },
+    "./swap-vertical-arrows-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swap-vertical-arrows-outline.jsx"
+    },
+    "./syringe-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/syringe-outline.jsx"
+    },
+    "./tag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-outline.jsx"
+    },
+    "./test-tube-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube-outline.jsx"
+    },
+    "./text-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-outline.jsx"
+    },
+    "./ticket-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ticket-outline.jsx"
+    },
+    "./totem-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/totem-outline.jsx"
+    },
+    "./translate-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-outline.jsx"
+    },
+    "./trash-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-outline.jsx"
+    },
+    "./trending-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-down-outline.jsx"
+    },
+    "./trending-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-outline.jsx"
+    },
+    "./trophy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trophy-outline.jsx"
+    },
+    "./tube-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-outline.jsx"
+    },
+    "./tv-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tv-outline.jsx"
+    },
+    "./undo-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undo-outline.jsx"
+    },
+    "./unfold-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unfold-horizontal-outline.jsx"
+    },
+    "./unfold-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unfold-vertical-outline.jsx"
+    },
+    "./unlock-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock-outline.jsx"
+    },
+    "./upload-cloud-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload-cloud-outline.jsx"
+    },
+    "./upload-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload-outline.jsx"
+    },
+    "./user-add-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-add-outline.jsx"
+    },
+    "./user-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-outline.jsx"
+    },
+    "./user-remove-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-remove-outline.jsx"
+    },
+    "./users-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/users-outline.jsx"
+    },
+    "./videocam-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/videocam-outline.jsx"
+    },
+    "./visibility-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visibility-off-outline.jsx"
+    },
+    "./visibility-on-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visibility-on-outline.jsx"
+    },
+    "./volume-1-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-1-outline.jsx"
+    },
+    "./volume-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-2-outline.jsx"
+    },
+    "./warning-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warning-outline.jsx"
+    },
+    "./weight-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weight-outline.jsx"
+    },
+    "./x-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-outline.jsx"
+    },
+    "./x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-outline.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#cuida"
+}

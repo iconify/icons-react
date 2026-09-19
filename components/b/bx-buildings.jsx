@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/z/znfwbkb8v.css';
+import '../../css/p/pqx863b7a.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="znfwbkb8v"/><path class="pqx863b7a"/>`,
+		"fallback": "bx:bx-buildings",
+	});
+}
+
+export default Component;

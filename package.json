@@ -1,0 +1,135 @@
+{
+  "name": "@iconify-react/geo",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/geo/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./turf-along": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-along.jsx"
+    },
+    "./turf-bbox-polygon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-bbox-polygon.jsx"
+    },
+    "./turf-bezier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-bezier.jsx"
+    },
+    "./turf-buffer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-buffer.jsx"
+    },
+    "./turf-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-center.jsx"
+    },
+    "./turf-centroid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-centroid.jsx"
+    },
+    "./turf-concave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-concave.jsx"
+    },
+    "./turf-convex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-convex.jsx"
+    },
+    "./turf-destination": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-destination.jsx"
+    },
+    "./turf-envelope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-envelope.jsx"
+    },
+    "./turf-erased": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-erased.jsx"
+    },
+    "./turf-explode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-explode.jsx"
+    },
+    "./turf-extent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-extent.jsx"
+    },
+    "./turf-intersect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-intersect.jsx"
+    },
+    "./turf-kinks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-kinks.jsx"
+    },
+    "./turf-line-slice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-line-slice.jsx"
+    },
+    "./turf-merge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-merge.jsx"
+    },
+    "./turf-midpoint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-midpoint.jsx"
+    },
+    "./turf-point-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-point-grid.jsx"
+    },
+    "./turf-point-on-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-point-on-line.jsx"
+    },
+    "./turf-point-on-surface": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-point-on-surface.jsx"
+    },
+    "./turf-simplify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-simplify.jsx"
+    },
+    "./turf-size": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-size.jsx"
+    },
+    "./turf-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-square.jsx"
+    },
+    "./turf-square-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-square-grid.jsx"
+    },
+    "./turf-tin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-tin.jsx"
+    },
+    "./turf-triangle-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-triangle-grid.jsx"
+    },
+    "./turf-union": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turf-union.jsx"
+    },
+    "./ui-earth-east": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ui-earth-east.jsx"
+    },
+    "./ui-earth-west": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ui-earth-west.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#geo"
+}

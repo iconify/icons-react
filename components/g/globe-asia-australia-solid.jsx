@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/d/dmfzoerqw.css';
+import '../../css/p/p48ok_bis.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="dmfzoerqw"/><path clip-rule="evenodd" class="p48ok_bis"/></g>`,
+		"fallback": "heroicons:globe-asia-australia-solid",
+	});
+}
+
+export default Component;

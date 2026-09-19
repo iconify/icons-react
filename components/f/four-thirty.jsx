@@ -1,0 +1,49 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a2o09kb0k {
+  d: path("M30 26h4v32h-4z");
+}
+
+.fcq8r33rh {
+  cx: 32px;
+  cy: 32px;
+  r: 30px;
+  fill: var(--svg-color--62727a, #62727a);
+}
+
+.jdt-jdbfh {
+  d: path("m26.03 28.86l2.827-2.829l17.117 17.107l-2.828 2.83z");
+}
+
+.n1mjunbsu {
+  fill: var(--svg-color--fff, #fff);
+}
+
+.uzm2mooko {
+  cx: 32px;
+  cy: 32px;
+  r: 3px;
+  fill: var(--svg-color--62727a, #62727a);
+}
+
+.xq6jaeb2t {
+  cx: 32px;
+  cy: 32px;
+  r: 4px;
+}
+</style><circle class="fcq8r33rh"/><g class="n1mjunbsu"><path class="a2o09kb0k"/><path class="jdt-jdbfh"/><circle class="xq6jaeb2t"/></g><circle class="uzm2mooko"/>`,
+		"fallback": "emojione:four-thirty",
+	});
+}
+
+export default Component;

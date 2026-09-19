@@ -1,0 +1,36 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bgatx5byk {
+  cx: 32px;
+  cy: 32px;
+  r: 30px;
+  fill: var(--svg-color--4fd1d9, #4fd1d9);
+}
+
+.n1mjunbsu {
+  fill: var(--svg-color--fff, #fff);
+}
+
+.t7euexfny {
+  d: path("M49 39.6L42.6 46v-3.9H37c-1.6 0-4.5-1-5.7-4.7L29.7 33l-1.6-4.6c-.3-1.1-.8-1.2-1-1.3H15v-5h12.2c1.6 0 4.5 1 5.7 4.7l1.6 4.4l1.6 4.6c.3 1.1.8 1.2 1 1.3h5.5v-3.9z");
+}
+
+.zsi5qxb-h {
+  d: path("m28.4 35l-.2.7c-.3 1.1-.8 1.2-1 1.3H15v5h12.2c.9 0 2.3-.3 3.5-1.4c-.5-.8-1-1.6-1.3-2.7zm7.4-6l.3-.8c.3-1.1.8-1.2 1-1.3h5.5v3.9l6.4-6.4l-6.4-6.4v3.9H37c-.9 0-2.4.4-3.6 1.4c.6.8 1 1.7 1.4 2.8z");
+}
+</style><circle class="bgatx5byk"/><g class="n1mjunbsu"><path class="t7euexfny"/><path class="zsi5qxb-h"/></g>`,
+		"fallback": "emojione:shuffle-tracks-button",
+	});
+}
+
+export default Component;

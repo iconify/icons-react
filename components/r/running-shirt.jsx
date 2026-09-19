@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.nagl03bvl {
+  fill: var(--svg-color--6adbc6, #6adbc6);
+  d: path("M49.4 4.7C49.2 3.1 49 1.5 49 0h-3.9c.1.5.1 1 .1 1.6c0 6.5-5.9 11.8-13.2 11.8S18.8 8.1 18.8 1.6c0-.5 0-1.1.1-1.6H15c0 1.5-.2 3.1-.4 4.7c-1.7 9.7-4.1 17.6-10.7 19.5c0 0 2.8 4.5 2.8 12.3C6.7 50 3.9 64 3.9 64h56.2s-3.5-14-3.5-27.9c0-7.4 3.5-11.9 3.5-11.9c-6.5-1.9-9-9.8-10.7-19.5");
+}
+
+.qcxjl8azj {
+  fill: var(--svg-color--ffce31, #ffce31);
+  d: path("M5.4 54.8c-.8 6-1.5 9.2-1.5 9.2h8.3l42.9-43.1c-2.2-2.6-3.5-6.3-4.6-10.6z");
+}
+
+.vafd7ibwa {
+  fill: var(--svg-color--428bc1, #428bc1);
+  d: path("M32 13.4c7.3 0 13.2-5.3 13.2-11.8c0-.5 0-1.1-.1-1.6c-3.6 1.6-7 3.7-13.1 3.7c-6.2 0-9.4-2-13.1-3.7c-.1.5-.1 1-.1 1.6c0 6.5 5.9 11.8 13.2 11.8");
+}
+</style><path class="nagl03bvl"/><path class="vafd7ibwa"/><path class="qcxjl8azj"/>`,
+		"fallback": "emojione:running-shirt",
+	});
+}
+
+export default Component;

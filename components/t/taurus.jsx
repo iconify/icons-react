@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bj1uzgb0b {
+  fill: var(--svg-color--fff, #fff);
+  stroke: var(--svg-color--fff, #fff);
+  stroke-miterlimit: 10;
+  d: path("M46.6 17c-2.3 0-5 .4-6.8 1.9c-2.6 2.1-4.1 6.8-7.8 7.1c-3.7-.3-5.2-4.9-7.8-7.1c-1.8-1.5-4.5-1.8-6.8-1.9c-1.9 0-1.9 3 0 3c3.8 0 5.9 1.7 8 4.8c.6.9 1.3 1.7 1.9 2.3c-3.3 1.8-5.4 5.6-5.6 9.4c-.3 5.9 4.9 10.2 10.2 10.5c5.6.3 9.7-4.7 10.2-10c0-.1.1-.3 0-.4v-.4c-.3-4-2.5-7.2-5.7-8.8c.8-.7 1.4-1.5 2.1-2.5c2.1-3.1 4.2-4.7 8-4.8c2-.1 2-3.1.1-3.1zm-7.3 19.5c-.5 9.7-14.1 9.7-14.6 0c-.6-9.7 14.1-9.6 14.6 0z");
+}
+
+.kjg8ifbfm {
+  cx: 32px;
+  cy: 32px;
+  r: 30px;
+  fill: var(--svg-color--e26a3b, #e26a3b);
+}
+</style><circle class="kjg8ifbfm"/><path class="bj1uzgb0b"/>`,
+		"fallback": "emojione:taurus",
+	});
+}
+
+export default Component;

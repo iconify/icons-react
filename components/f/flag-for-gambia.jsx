@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":64,"height":64};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.p0olq01ds {
+  fill: var(--svg-color--2a5f9e, #2a5f9e);
+  d: path("M62 32c0-3.1-.5-6.2-1.4-9H3.4C2.5 25.8 2 28.9 2 32s.5 6.2 1.4 9h57.2c.9-2.8 1.4-5.9 1.4-9");
+}
+
+.thtb18bks {
+  fill: var(--svg-color--f42f4c, #f42f4c);
+  d: path("M32 2C19.3 2 8.5 9.9 4.1 21h55.8C55.5 9.9 44.7 2 32 2");
+}
+
+.xtn1_zhmg {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M60.3 22c-.1-.3-.3-.7-.4-1H4.1c-.1.3-.3.7-.4 1s-.2.7-.3 1h57.2c-.1-.3-.2-.7-.3-1M3.7 42c.1.3.3.7.4 1h55.8c.1-.3.3-.7.4-1s.2-.7.3-1H3.4c.1.3.2.7.3 1");
+}
+
+.ykwb9xbol {
+  fill: var(--svg-color--699635, #699635);
+  d: path("M32 62c12.7 0 23.5-7.9 27.9-19H4.1C8.5 54.1 19.3 62 32 62");
+}
+</style><path class="thtb18bks"/><path class="ykwb9xbol"/><path class="p0olq01ds"/><path class="xtn1_zhmg"/>`,
+		"fallback": "emojione:flag-for-gambia",
+	});
+}
+
+export default Component;

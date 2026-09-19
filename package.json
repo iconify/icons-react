@@ -1,0 +1,1455 @@
+{
+  "name": "@iconify-react/guidance",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/guidance/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC-BY-4.0",
+  "exports": {
+    "./24-hours": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/2/24-hours.jsx"
+    },
+    "./accesible-restroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accesible-restroom.jsx"
+    },
+    "./access-for-hearing-loss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/access-for-hearing-loss.jsx"
+    },
+    "./access-to-low-vision": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/access-to-low-vision.jsx"
+    },
+    "./accessible-exit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessible-exit.jsx"
+    },
+    "./accessible-exit-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessible-exit-2.jsx"
+    },
+    "./accessible-men-restroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessible-men-restroom.jsx"
+    },
+    "./accessible-women-restroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessible-women-restroom.jsx"
+    },
+    "./airplane-mode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airplane-mode.jsx"
+    },
+    "./airplane-mode-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airplane-mode-off.jsx"
+    },
+    "./alarm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alarm.jsx"
+    },
+    "./alarm-bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alarm-bell.jsx"
+    },
+    "./alert-octagon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alert-octagon.jsx"
+    },
+    "./alert-triangle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alert-triangle.jsx"
+    },
+    "./ambulance-entrance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ambulance-entrance.jsx"
+    },
+    "./amusement-park": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amusement-park.jsx"
+    },
+    "./aquarium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aquarium.jsx"
+    },
+    "./arcade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arcade.jsx"
+    },
+    "./arrival": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrival.jsx"
+    },
+    "./assistive-listening-device": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assistive-listening-device.jsx"
+    },
+    "./atm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atm.jsx"
+    },
+    "./audio-description": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-description.jsx"
+    },
+    "./auditorium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/auditorium.jsx"
+    },
+    "./bank": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank.jsx"
+    },
+    "./bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar.jsx"
+    },
+    "./bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell.jsx"
+    },
+    "./bicycle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle.jsx"
+    },
+    "./billing-department": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/billing-department.jsx"
+    },
+    "./bin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bin.jsx"
+    },
+    "./bin-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bin-person.jsx"
+    },
+    "./bin-throw-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bin-throw-person.jsx"
+    },
+    "./bowling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowling.jsx"
+    },
+    "./boxing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boxing.jsx"
+    },
+    "./braille": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/braille.jsx"
+    },
+    "./bus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus.jsx"
+    },
+    "./cablecar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cablecar.jsx"
+    },
+    "./cafeteria": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cafeteria.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera.jsx"
+    },
+    "./campfires": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campfires.jsx"
+    },
+    "./campground": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campground.jsx"
+    },
+    "./car": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car.jsx"
+    },
+    "./car-rental": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-rental.jsx"
+    },
+    "./card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/card.jsx"
+    },
+    "./care-staff-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/care-staff-area.jsx"
+    },
+    "./casino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/casino.jsx"
+    },
+    "./changin-room-disabled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changin-room-disabled.jsx"
+    },
+    "./changin-room-family": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changin-room-family.jsx"
+    },
+    "./changin-room-man": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changin-room-man.jsx"
+    },
+    "./changin-room-woman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changin-room-woman.jsx"
+    },
+    "./changing-room-hanger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changing-room-hanger.jsx"
+    },
+    "./chapel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chapel.jsx"
+    },
+    "./charging-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-station.jsx"
+    },
+    "./chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat.jsx"
+    },
+    "./children-must-be-supervised": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/children-must-be-supervised.jsx"
+    },
+    "./cleaning-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cleaning-room.jsx"
+    },
+    "./cleaning-room-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cleaning-room-2.jsx"
+    },
+    "./climbing-wall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/climbing-wall.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./closed-captioning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-captioning.jsx"
+    },
+    "./cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud.jsx"
+    },
+    "./coffee-shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffee-shop.jsx"
+    },
+    "./computer-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-room.jsx"
+    },
+    "./conference-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conference-room.jsx"
+    },
+    "./coworking-space": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coworking-space.jsx"
+    },
+    "./crutch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crutch.jsx"
+    },
+    "./currency-exchange": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/currency-exchange.jsx"
+    },
+    "./customs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customs.jsx"
+    },
+    "./danger-poison": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/danger-poison.jsx"
+    },
+    "./departure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/departure.jsx"
+    },
+    "./desk-for-laptop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/desk-for-laptop.jsx"
+    },
+    "./discotheque": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discotheque.jsx"
+    },
+    "./dislike": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dislike.jsx"
+    },
+    "./do-not-sit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-sit.jsx"
+    },
+    "./do-not-skateboard-rollerboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-skateboard-rollerboard.jsx"
+    },
+    "./do-not-stand-here": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-not-stand-here.jsx"
+    },
+    "./down-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-2-short-arrow.jsx"
+    },
+    "./down-angle-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-angle-arrow.jsx"
+    },
+    "./down-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-arrow.jsx"
+    },
+    "./down-left-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-left-2-short-arrow.jsx"
+    },
+    "./down-left-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-left-arrow.jsx"
+    },
+    "./down-right-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-right-2-short-arrow.jsx"
+    },
+    "./down-right-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-right-arrow.jsx"
+    },
+    "./drinking-fountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-fountain.jsx"
+    },
+    "./drinking-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-water.jsx"
+    },
+    "./drone-zone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone-zone.jsx"
+    },
+    "./e-bike-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/e-bike-1.jsx"
+    },
+    "./e-bike-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/e-bike-2.jsx"
+    },
+    "./elderly-people-priority-seating": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elderly-people-priority-seating.jsx"
+    },
+    "./electric-scooter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/electric-scooter.jsx"
+    },
+    "./electric-wheelchair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/electric-wheelchair.jsx"
+    },
+    "./elevator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator.jsx"
+    },
+    "./elevator-accesible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator-accesible.jsx"
+    },
+    "./elevator-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator-person.jsx"
+    },
+    "./emergency-exit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emergency-exit.jsx"
+    },
+    "./entry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entry.jsx"
+    },
+    "./escalator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escalator.jsx"
+    },
+    "./escalator-down-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escalator-down-arrow.jsx"
+    },
+    "./escalator-down-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escalator-down-person.jsx"
+    },
+    "./escalator-up-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escalator-up-arrow.jsx"
+    },
+    "./escalator-up-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escalator-up-person.jsx"
+    },
+    "./exclamation-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-mark.jsx"
+    },
+    "./exit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exit.jsx"
+    },
+    "./eye": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye.jsx"
+    },
+    "./face-scan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-scan.jsx"
+    },
+    "./falling-rocks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/falling-rocks.jsx"
+    },
+    "./female-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/female-sign.jsx"
+    },
+    "./fingerprint-scan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingerprint-scan.jsx"
+    },
+    "./fire-alarm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-alarm.jsx"
+    },
+    "./fire-extinguisher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-extinguisher.jsx"
+    },
+    "./fire-hazard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-hazard.jsx"
+    },
+    "./fire-hose": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-hose.jsx"
+    },
+    "./first-aid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/first-aid.jsx"
+    },
+    "./fishing-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fishing-area.jsx"
+    },
+    "./fishing-area-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fishing-area-1.jsx"
+    },
+    "./fishing-area-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fishing-area-2.jsx"
+    },
+    "./flash-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flash-allowed.jsx"
+    },
+    "./flash-not-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flash-not-allowed.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./forbidden": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forbidden.jsx"
+    },
+    "./forbidden-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forbidden-2.jsx"
+    },
+    "./fountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain.jsx"
+    },
+    "./fragile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fragile.jsx"
+    },
+    "./funicular-railway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/funicular-railway.jsx"
+    },
+    "./gallery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gallery.jsx"
+    },
+    "./garden": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden.jsx"
+    },
+    "./gas-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gas-station.jsx"
+    },
+    "./gift-shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-shop.jsx"
+    },
+    "./glass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glass.jsx"
+    },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./golf-course": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golf-course.jsx"
+    },
+    "./group-training": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-training.jsx"
+    },
+    "./guest-height-limit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guest-height-limit.jsx"
+    },
+    "./guest-within-height-limit-must-be-supervised": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guest-within-height-limit-must-be-supervised.jsx"
+    },
+    "./gym": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gym.jsx"
+    },
+    "./hairdresser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hairdresser.jsx"
+    },
+    "./headphones": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones.jsx"
+    },
+    "./health-services": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/health-services.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./helicopter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helicopter.jsx"
+    },
+    "./hide-eye-crossbar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hide-eye-crossbar.jsx"
+    },
+    "./high-voltage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/high-voltage.jsx"
+    },
+    "./hiking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hiking.jsx"
+    },
+    "./hold-tight": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hold-tight.jsx"
+    },
+    "./home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home.jsx"
+    },
+    "./home-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-2.jsx"
+    },
+    "./hospital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital.jsx"
+    },
+    "./hotel-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hotel-room.jsx"
+    },
+    "./hotel-room-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hotel-room-2.jsx"
+    },
+    "./hydrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hydrant.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./in-patient": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-patient.jsx"
+    },
+    "./information-desk-people": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-desk-people.jsx"
+    },
+    "./information-desk-symbol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-desk-symbol.jsx"
+    },
+    "./intensive-care": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intensive-care.jsx"
+    },
+    "./iris-scan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iris-scan.jsx"
+    },
+    "./kitchen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kitchen.jsx"
+    },
+    "./laboratory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laboratory.jsx"
+    },
+    "./laundry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laundry.jsx"
+    },
+    "./laundry-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laundry-2.jsx"
+    },
+    "./left-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-2-short-arrow.jsx"
+    },
+    "./left-angle-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-angle-arrow.jsx"
+    },
+    "./left-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-arrow.jsx"
+    },
+    "./left-luggage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-luggage.jsx"
+    },
+    "./less-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/less-minus.jsx"
+    },
+    "./lgbt-friendly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lgbt-friendly.jsx"
+    },
+    "./library": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/library.jsx"
+    },
+    "./like": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/like.jsx"
+    },
+    "./location-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-off.jsx"
+    },
+    "./location-pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-pin.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./lockers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lockers.jsx"
+    },
+    "./lost-and-found": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lost-and-found.jsx"
+    },
+    "./lounge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lounge.jsx"
+    },
+    "./luggage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luggage.jsx"
+    },
+    "./luggage-check-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luggage-check-in.jsx"
+    },
+    "./luggage-conveyor-belt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luggage-conveyor-belt.jsx"
+    },
+    "./luggage-lockers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luggage-lockers.jsx"
+    },
+    "./luggage-trolley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luggage-trolley.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
+    "./mailbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mailbox.jsx"
+    },
+    "./male-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/male-sign.jsx"
+    },
+    "./map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map.jsx"
+    },
+    "./massage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/massage.jsx"
+    },
+    "./medical-laboratory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medical-laboratory.jsx"
+    },
+    "./meeting-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meeting-point.jsx"
+    },
+    "./meeting-point-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meeting-point-2.jsx"
+    },
+    "./meeting-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meeting-room.jsx"
+    },
+    "./men-restroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/men-restroom.jsx"
+    },
+    "./money": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money.jsx"
+    },
+    "./more-add-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more-add-plus.jsx"
+    },
+    "./motorcycle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/motorcycle.jsx"
+    },
+    "./mri-pet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mri-pet.jsx"
+    },
+    "./museum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/museum.jsx"
+    },
+    "./music-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-room.jsx"
+    },
+    "./mute-notification": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mute-notification.jsx"
+    },
+    "./newspapers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspapers.jsx"
+    },
+    "./no-access-for-service-animal-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-access-for-service-animal-2.jsx"
+    },
+    "./no-access-for-service-animal-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-access-for-service-animal-3.jsx"
+    },
+    "./no-access-for-service-animal-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-access-for-service-animal-4.jsx"
+    },
+    "./no-alcohol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-alcohol.jsx"
+    },
+    "./no-drinking-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-drinking-water.jsx"
+    },
+    "./no-drone-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-drone-allowed.jsx"
+    },
+    "./no-drug-or-substance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-drug-or-substance.jsx"
+    },
+    "./no-electric-scooter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-electric-scooter.jsx"
+    },
+    "./no-entry-for-pedestrians": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-entry-for-pedestrians.jsx"
+    },
+    "./no-firearm-weapon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-firearm-weapon.jsx"
+    },
+    "./no-fishing-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-fishing-1.jsx"
+    },
+    "./no-food": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-food.jsx"
+    },
+    "./no-litter-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-litter-2.jsx"
+    },
+    "./no-luggage-trolleys-beyond-this-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-luggage-trolleys-beyond-this-point.jsx"
+    },
+    "./no-noise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-noise.jsx"
+    },
+    "./no-parking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-parking.jsx"
+    },
+    "./no-pets-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-pets-allowed.jsx"
+    },
+    "./no-pictures": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-pictures.jsx"
+    },
+    "./no-running": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-running.jsx"
+    },
+    "./no-selfie-stick-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-selfie-stick-allowed.jsx"
+    },
+    "./no-smoking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-smoking.jsx"
+    },
+    "./no-touch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-touch.jsx"
+    },
+    "./no-video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-video.jsx"
+    },
+    "./no-wheelchair-access": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-wheelchair-access.jsx"
+    },
+    "./nursery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nursery.jsx"
+    },
+    "./office": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/office.jsx"
+    },
+    "./office-pod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/office-pod.jsx"
+    },
+    "./paper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper.jsx"
+    },
+    "./parent-and-infant-priority-seating": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parent-and-infant-priority-seating.jsx"
+    },
+    "./park": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/park.jsx"
+    },
+    "./parking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking.jsx"
+    },
+    "./passports": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passports.jsx"
+    },
+    "./patio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patio.jsx"
+    },
+    "./pedestrians": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pedestrians.jsx"
+    },
+    "./pen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen.jsx"
+    },
+    "./personal-training": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/personal-training.jsx"
+    },
+    "./pets-allowed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pets-allowed.jsx"
+    },
+    "./pharmacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pharmacy.jsx"
+    },
+    "./phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone.jsx"
+    },
+    "./physical-therapy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/physical-therapy.jsx"
+    },
+    "./pilates": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pilates.jsx"
+    },
+    "./plane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plane.jsx"
+    },
+    "./plastic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plastic.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./play-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-room.jsx"
+    },
+    "./playground": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playground.jsx"
+    },
+    "./police": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police.jsx"
+    },
+    "./port": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/port.jsx"
+    },
+    "./praying-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/praying-room.jsx"
+    },
+    "./pregnant-woman-priority-seating": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pregnant-woman-priority-seating.jsx"
+    },
+    "./printer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/printer.jsx"
+    },
+    "./projection-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/projection-room.jsx"
+    },
+    "./prosthetic-arm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prosthetic-arm.jsx"
+    },
+    "./prosthetic-leg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prosthetic-leg.jsx"
+    },
+    "./pull": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull.jsx"
+    },
+    "./push": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/push.jsx"
+    },
+    "./question-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-mark.jsx"
+    },
+    "./quiet-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quiet-area.jsx"
+    },
+    "./radiation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radiation.jsx"
+    },
+    "./radiology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radiology.jsx"
+    },
+    "./ramp-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ramp-down.jsx"
+    },
+    "./ramp-down-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ramp-down-arrow.jsx"
+    },
+    "./ramp-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ramp-up.jsx"
+    },
+    "./ramp-up-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ramp-up-arrow.jsx"
+    },
+    "./reception-hotel-bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reception-hotel-bell.jsx"
+    },
+    "./recording-studio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recording-studio.jsx"
+    },
+    "./recycling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycling.jsx"
+    },
+    "./refill-for-water-bottle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refill-for-water-bottle.jsx"
+    },
+    "./refrigeration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refrigeration.jsx"
+    },
+    "./remove-x-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remove-x-cross.jsx"
+    },
+    "./restaurant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant.jsx"
+    },
+    "./right-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-2-short-arrow.jsx"
+    },
+    "./right-angle-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-angle-arrow.jsx"
+    },
+    "./right-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-arrow.jsx"
+    },
+    "./rv-trailer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rv-trailer.jsx"
+    },
+    "./safe-social-distancing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safe-social-distancing.jsx"
+    },
+    "./sanitize-hands": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sanitize-hands.jsx"
+    },
+    "./sauna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sauna.jsx"
+    },
+    "./school-zone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-zone.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./send": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send.jsx"
+    },
+    "./service-animal-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-animal-1.jsx"
+    },
+    "./service-animal-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-animal-2.jsx"
+    },
+    "./service-animal-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service-animal-3.jsx"
+    },
+    "./settings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings.jsx"
+    },
+    "./share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share.jsx"
+    },
+    "./shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shelter.jsx"
+    },
+    "./ship": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/ship.jsx"
+    },
+    "./shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop.jsx"
+    },
+    "./showers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/showers.jsx"
+    },
+    "./sign-language": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sign-language.jsx"
+    },
+    "./skate-park": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skate-park.jsx"
+    },
+    "./smiley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley.jsx"
+    },
+    "./smoking-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smoking-area.jsx"
+    },
+    "./socket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/socket.jsx"
+    },
+    "./spinning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spinning.jsx"
+    },
+    "./stadium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stadium.jsx"
+    },
+    "./staff-only": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/staff-only.jsx"
+    },
+    "./stairs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs.jsx"
+    },
+    "./stairs-down-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs-down-arrow.jsx"
+    },
+    "./stairs-down-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs-down-person.jsx"
+    },
+    "./stairs-up-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs-up-arrow.jsx"
+    },
+    "./stairs-up-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs-up-person.jsx"
+    },
+    "./stand-here": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stand-here.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./stroller-parking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroller-parking.jsx"
+    },
+    "./study-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/study-room.jsx"
+    },
+    "./sun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun.jsx"
+    },
+    "./surgery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/surgery.jsx"
+    },
+    "./surveillance-camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/surveillance-camera.jsx"
+    },
+    "./swimming-pool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swimming-pool.jsx"
+    },
+    "./taxi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taxi.jsx"
+    },
+    "./telecoil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telecoil.jsx"
+    },
+    "./terrace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terrace.jsx"
+    },
+    "./tickets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tickets.jsx"
+    },
+    "./time": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time.jsx"
+    },
+    "./tools": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tools.jsx"
+    },
+    "./touch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch.jsx"
+    },
+    "./track": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/track.jsx"
+    },
+    "./trailer-sites": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trailer-sites.jsx"
+    },
+    "./train": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/train.jsx"
+    },
+    "./transgender-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transgender-sign.jsx"
+    },
+    "./tunnel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tunnel.jsx"
+    },
+    "./ui-phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ui-phone.jsx"
+    },
+    "./unisex-restroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unisex-restroom.jsx"
+    },
+    "./unlock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock.jsx"
+    },
+    "./up-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-2-short-arrow.jsx"
+    },
+    "./up-angle-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-angle-arrow.jsx"
+    },
+    "./up-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-arrow.jsx"
+    },
+    "./up-left-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-left-2-short-arrow.jsx"
+    },
+    "./up-left-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-left-arrow.jsx"
+    },
+    "./up-right-2-short-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-right-2-short-arrow.jsx"
+    },
+    "./up-right-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-right-arrow.jsx"
+    },
+    "./user-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-1.jsx"
+    },
+    "./user-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-2.jsx"
+    },
+    "./vending-machine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-machine.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./visual-impairment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visual-impairment.jsx"
+    },
+    "./voice-scan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/voice-scan.jsx"
+    },
+    "./volume": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume.jsx"
+    },
+    "./volume-control-telephone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-control-telephone.jsx"
+    },
+    "./waiting-room": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waiting-room.jsx"
+    },
+    "./walker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/walker.jsx"
+    },
+    "./wash-hands": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wash-hands.jsx"
+    },
+    "./waste": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste.jsx"
+    },
+    "./wc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc.jsx"
+    },
+    "./wear-gas-mask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wear-gas-mask.jsx"
+    },
+    "./wear-gloves": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wear-gloves.jsx"
+    },
+    "./wear-goggles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wear-goggles.jsx"
+    },
+    "./wear-hard-hat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wear-hard-hat.jsx"
+    },
+    "./wear-headset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wear-headset.jsx"
+    },
+    "./wear-mask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wear-mask.jsx"
+    },
+    "./weightlifting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weightlifting.jsx"
+    },
+    "./wet-floor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wet-floor.jsx"
+    },
+    "./wheelchair-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair-1.jsx"
+    },
+    "./wheelchair-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair-2.jsx"
+    },
+    "./wheelchair-basketball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair-basketball.jsx"
+    },
+    "./wheelchair-tennis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair-tennis.jsx"
+    },
+    "./wi-fi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wi-fi.jsx"
+    },
+    "./wifi-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-off.jsx"
+    },
+    "./women-restroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/women-restroom.jsx"
+    },
+    "./yoga": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yoga.jsx"
+    },
+    "./zoo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoo.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#guidance"
+}

@@ -1,0 +1,635 @@
+{
+  "name": "@iconify-react/fad",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/fad/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC-BY-4.0",
+  "exports": {
+    "./adr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adr.jsx"
+    },
+    "./adsr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adsr.jsx"
+    },
+    "./ahdsr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ahdsr.jsx"
+    },
+    "./ar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ar.jsx"
+    },
+    "./armrecording": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/armrecording.jsx"
+    },
+    "./arpchord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpchord.jsx"
+    },
+    "./arpdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpdown.jsx"
+    },
+    "./arpdownandup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpdownandup.jsx"
+    },
+    "./arpdownup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpdownup.jsx"
+    },
+    "./arpplayorder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpplayorder.jsx"
+    },
+    "./arprandom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arprandom.jsx"
+    },
+    "./arpup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpup.jsx"
+    },
+    "./arpupandown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpupandown.jsx"
+    },
+    "./arpupdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arpupdown.jsx"
+    },
+    "./arrows-horz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-horz.jsx"
+    },
+    "./arrows-vert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-vert.jsx"
+    },
+    "./automation-2p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automation-2p.jsx"
+    },
+    "./automation-3p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automation-3p.jsx"
+    },
+    "./automation-4p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automation-4p.jsx"
+    },
+    "./backward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backward.jsx"
+    },
+    "./bluetooth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth.jsx"
+    },
+    "./caret-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down.jsx"
+    },
+    "./caret-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-left.jsx"
+    },
+    "./caret-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-right.jsx"
+    },
+    "./caret-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-up.jsx"
+    },
+    "./close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/close.jsx"
+    },
+    "./copy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy.jsx"
+    },
+    "./cpu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu.jsx"
+    },
+    "./cutter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cutter.jsx"
+    },
+    "./digital-colon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital-colon.jsx"
+    },
+    "./digital-dot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital-dot.jsx"
+    },
+    "./digital0": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital0.jsx"
+    },
+    "./digital1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital1.jsx"
+    },
+    "./digital2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital2.jsx"
+    },
+    "./digital3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital3.jsx"
+    },
+    "./digital4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital4.jsx"
+    },
+    "./digital5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital5.jsx"
+    },
+    "./digital6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital6.jsx"
+    },
+    "./digital7": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital7.jsx"
+    },
+    "./digital8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital8.jsx"
+    },
+    "./digital9": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital9.jsx"
+    },
+    "./diskio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diskio.jsx"
+    },
+    "./drumpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drumpad.jsx"
+    },
+    "./duplicate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duplicate.jsx"
+    },
+    "./eraser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser.jsx"
+    },
+    "./ffwd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ffwd.jsx"
+    },
+    "./filter-bandpass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-bandpass.jsx"
+    },
+    "./filter-bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-bell.jsx"
+    },
+    "./filter-bypass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-bypass.jsx"
+    },
+    "./filter-highpass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-highpass.jsx"
+    },
+    "./filter-lowpass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-lowpass.jsx"
+    },
+    "./filter-notch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-notch.jsx"
+    },
+    "./filter-rez-highpass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-rez-highpass.jsx"
+    },
+    "./filter-rez-lowpass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-rez-lowpass.jsx"
+    },
+    "./filter-shelving-hi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-shelving-hi.jsx"
+    },
+    "./filter-shelving-lo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-shelving-lo.jsx"
+    },
+    "./foldback": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/foldback.jsx"
+    },
+    "./forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward.jsx"
+    },
+    "./h-expand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h-expand.jsx"
+    },
+    "./hardclip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardclip.jsx"
+    },
+    "./hardclipcurve": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardclipcurve.jsx"
+    },
+    "./headphones": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones.jsx"
+    },
+    "./keyboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./logo-aax": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-aax.jsx"
+    },
+    "./logo-abletonlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-abletonlink.jsx"
+    },
+    "./logo-au": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-au.jsx"
+    },
+    "./logo-audacity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-audacity.jsx"
+    },
+    "./logo-audiobus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-audiobus.jsx"
+    },
+    "./logo-cubase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-cubase.jsx"
+    },
+    "./logo-fl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-fl.jsx"
+    },
+    "./logo-juce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-juce.jsx"
+    },
+    "./logo-ladspa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-ladspa.jsx"
+    },
+    "./logo-live": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-live.jsx"
+    },
+    "./logo-lv2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-lv2.jsx"
+    },
+    "./logo-protools": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-protools.jsx"
+    },
+    "./logo-rackext": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-rackext.jsx"
+    },
+    "./logo-reaper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-reaper.jsx"
+    },
+    "./logo-reason": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-reason.jsx"
+    },
+    "./logo-rewire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-rewire.jsx"
+    },
+    "./logo-studioone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-studioone.jsx"
+    },
+    "./logo-tracktion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-tracktion.jsx"
+    },
+    "./logo-vst": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-vst.jsx"
+    },
+    "./logo-waveform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-waveform.jsx"
+    },
+    "./loop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loop.jsx"
+    },
+    "./metronome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metronome.jsx"
+    },
+    "./microphone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone.jsx"
+    },
+    "./midiplug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/midiplug.jsx"
+    },
+    "./modrandom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modrandom.jsx"
+    },
+    "./modsawdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modsawdown.jsx"
+    },
+    "./modsawup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modsawup.jsx"
+    },
+    "./modsh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modsh.jsx"
+    },
+    "./modsine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modsine.jsx"
+    },
+    "./modsquare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modsquare.jsx"
+    },
+    "./modtri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modtri.jsx"
+    },
+    "./modularplug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modularplug.jsx"
+    },
+    "./mono": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mono.jsx"
+    },
+    "./mute": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mute.jsx"
+    },
+    "./next": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next.jsx"
+    },
+    "./open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open.jsx"
+    },
+    "./paste": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paste.jsx"
+    },
+    "./pause": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause.jsx"
+    },
+    "./pen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen.jsx"
+    },
+    "./phase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phase.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./pointer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pointer.jsx"
+    },
+    "./powerswitch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powerswitch.jsx"
+    },
+    "./preset-a": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preset-a.jsx"
+    },
+    "./preset-ab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preset-ab.jsx"
+    },
+    "./preset-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preset-b.jsx"
+    },
+    "./preset-ba": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preset-ba.jsx"
+    },
+    "./prev": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prev.jsx"
+    },
+    "./punch-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/punch-in.jsx"
+    },
+    "./punch-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/punch-out.jsx"
+    },
+    "./ram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ram.jsx"
+    },
+    "./random-1dice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/random-1dice.jsx"
+    },
+    "./random-2dice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/random-2dice.jsx"
+    },
+    "./record": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/record.jsx"
+    },
+    "./redo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redo.jsx"
+    },
+    "./repeat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repeat.jsx"
+    },
+    "./repeat-one": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repeat-one.jsx"
+    },
+    "./rew": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rew.jsx"
+    },
+    "./roundswitch-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roundswitch-off.jsx"
+    },
+    "./roundswitch-on": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roundswitch-on.jsx"
+    },
+    "./save": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/save.jsx"
+    },
+    "./saveas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saveas.jsx"
+    },
+    "./scissors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scissors.jsx"
+    },
+    "./shuffle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shuffle.jsx"
+    },
+    "./slider-round-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slider-round-1.jsx"
+    },
+    "./slider-round-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slider-round-2.jsx"
+    },
+    "./slider-round-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slider-round-3.jsx"
+    },
+    "./sliderhandle-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliderhandle-1.jsx"
+    },
+    "./sliderhandle-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliderhandle-2.jsx"
+    },
+    "./softclip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/softclip.jsx"
+    },
+    "./softclipcurve": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/softclipcurve.jsx"
+    },
+    "./solo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solo.jsx"
+    },
+    "./speaker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/speaker.jsx"
+    },
+    "./squareswitch-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/squareswitch-off.jsx"
+    },
+    "./squareswitch-on": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/squareswitch-on.jsx"
+    },
+    "./stereo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stereo.jsx"
+    },
+    "./stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop.jsx"
+    },
+    "./thunderbolt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderbolt.jsx"
+    },
+    "./timeselect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/timeselect.jsx"
+    },
+    "./undo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undo.jsx"
+    },
+    "./unlock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock.jsx"
+    },
+    "./usb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/usb.jsx"
+    },
+    "./v-expand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v-expand.jsx"
+    },
+    "./vroundswitch-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vroundswitch-off.jsx"
+    },
+    "./vroundswitch-on": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vroundswitch-on.jsx"
+    },
+    "./vsquareswitch-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vsquareswitch-off.jsx"
+    },
+    "./vsquareswitch-on": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vsquareswitch-on.jsx"
+    },
+    "./waveform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waveform.jsx"
+    },
+    "./xlrplug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xlrplug.jsx"
+    },
+    "./zoomin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoomin.jsx"
+    },
+    "./zoomout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoomout.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#fad"
+}

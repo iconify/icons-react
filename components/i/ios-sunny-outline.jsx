@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/k/kwp9qzk7x.css';
+import '../../css/k/kyv34hvrz.css';
+import '../../css/i/irwaa-gat.css';
+import '../../css/z/z8s-cbcjc.css';
+import '../../css/l/l207muwix.css';
+import '../../css/h/h1eaah13l.css';
+import '../../css/l/lditbo9ix.css';
+import '../../css/k/kb9dgq7bv.css';
+import '../../css/b/b4vep7srq.css';
+
+const viewBox = {"width":512,"height":512};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="kwp9qzk7x"/><path class="kyv34hvrz"/><path class="irwaa-gat"/><path class="z8s-cbcjc"/><path transform="rotate(134.999 347.405 341.317)" class="l207muwix"/><path transform="rotate(134.999 170.67 164.582)" class="h1eaah13l"/><path transform="rotate(45.001 347.406 164.562)" class="lditbo9ix"/><path transform="rotate(45.009 170.67 341.27)" class="kb9dgq7bv"/><path class="b4vep7srq"/>`,
+		"fallback": "ion:ios-sunny-outline",
+	});
+}
+
+export default Component;

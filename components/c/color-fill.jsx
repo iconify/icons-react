@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/i/iz8i1bs_o.css';
+
+const viewBox = {"width":512,"height":512};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="iz8i1bs_o"/>`,
+		"fallback": "ion:color-fill",
+	});
+}
+
+export default Component;

@@ -1,0 +1,2207 @@
+{
+  "name": "@iconify-react/flag",
+  "type": "module",
+  "version": "1.0.5",
+  "homepage": "https://icon-sets.iconify.design/flag/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./ad-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ad-1x1.jsx"
+    },
+    "./ad-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ad-4x3.jsx"
+    },
+    "./ae-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ae-1x1.jsx"
+    },
+    "./ae-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ae-4x3.jsx"
+    },
+    "./af-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/af-1x1.jsx"
+    },
+    "./af-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/af-4x3.jsx"
+    },
+    "./ag-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ag-1x1.jsx"
+    },
+    "./ag-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ag-4x3.jsx"
+    },
+    "./ai-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-1x1.jsx"
+    },
+    "./ai-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-4x3.jsx"
+    },
+    "./al-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/al-1x1.jsx"
+    },
+    "./al-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/al-4x3.jsx"
+    },
+    "./am-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/am-1x1.jsx"
+    },
+    "./am-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/am-4x3.jsx"
+    },
+    "./ao-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ao-1x1.jsx"
+    },
+    "./ao-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ao-4x3.jsx"
+    },
+    "./aq-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aq-1x1.jsx"
+    },
+    "./aq-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aq-4x3.jsx"
+    },
+    "./ar-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ar-1x1.jsx"
+    },
+    "./ar-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ar-4x3.jsx"
+    },
+    "./arab-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arab-1x1.jsx"
+    },
+    "./arab-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arab-4x3.jsx"
+    },
+    "./as-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/as-1x1.jsx"
+    },
+    "./as-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/as-4x3.jsx"
+    },
+    "./asean-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asean-1x1.jsx"
+    },
+    "./asean-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asean-4x3.jsx"
+    },
+    "./at-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-1x1.jsx"
+    },
+    "./at-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-4x3.jsx"
+    },
+    "./au-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/au-1x1.jsx"
+    },
+    "./au-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/au-4x3.jsx"
+    },
+    "./aw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aw-1x1.jsx"
+    },
+    "./aw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aw-4x3.jsx"
+    },
+    "./ax-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ax-1x1.jsx"
+    },
+    "./ax-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ax-4x3.jsx"
+    },
+    "./az-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/az-1x1.jsx"
+    },
+    "./az-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/az-4x3.jsx"
+    },
+    "./ba-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/ba-1x1.jsx"
+    },
+    "./ba-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/ba-4x3.jsx"
+    },
+    "./bb-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bb-1x1.jsx"
+    },
+    "./bb-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bb-4x3.jsx"
+    },
+    "./bd-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bd-1x1.jsx"
+    },
+    "./bd-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bd-4x3.jsx"
+    },
+    "./be-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/be-1x1.jsx"
+    },
+    "./be-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/be-4x3.jsx"
+    },
+    "./bf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bf-1x1.jsx"
+    },
+    "./bf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bf-4x3.jsx"
+    },
+    "./bg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bg-1x1.jsx"
+    },
+    "./bg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bg-4x3.jsx"
+    },
+    "./bh-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bh-1x1.jsx"
+    },
+    "./bh-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bh-4x3.jsx"
+    },
+    "./bi-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bi-1x1.jsx"
+    },
+    "./bi-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bi-4x3.jsx"
+    },
+    "./bj-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bj-1x1.jsx"
+    },
+    "./bj-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bj-4x3.jsx"
+    },
+    "./bl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bl-1x1.jsx"
+    },
+    "./bl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bl-4x3.jsx"
+    },
+    "./bm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bm-1x1.jsx"
+    },
+    "./bm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bm-4x3.jsx"
+    },
+    "./bn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bn-1x1.jsx"
+    },
+    "./bn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bn-4x3.jsx"
+    },
+    "./bo-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bo-1x1.jsx"
+    },
+    "./bo-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bo-4x3.jsx"
+    },
+    "./bq-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bq-1x1.jsx"
+    },
+    "./bq-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bq-4x3.jsx"
+    },
+    "./br-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/br-1x1.jsx"
+    },
+    "./br-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/br-4x3.jsx"
+    },
+    "./bs-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bs-1x1.jsx"
+    },
+    "./bs-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bs-4x3.jsx"
+    },
+    "./bt-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bt-1x1.jsx"
+    },
+    "./bt-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bt-4x3.jsx"
+    },
+    "./bv-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bv-1x1.jsx"
+    },
+    "./bv-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bv-4x3.jsx"
+    },
+    "./bw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bw-1x1.jsx"
+    },
+    "./bw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bw-4x3.jsx"
+    },
+    "./by-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/by-1x1.jsx"
+    },
+    "./by-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/by-4x3.jsx"
+    },
+    "./bz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bz-1x1.jsx"
+    },
+    "./bz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bz-4x3.jsx"
+    },
+    "./ca-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ca-1x1.jsx"
+    },
+    "./ca-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ca-4x3.jsx"
+    },
+    "./cc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-1x1.jsx"
+    },
+    "./cc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-4x3.jsx"
+    },
+    "./cd-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cd-1x1.jsx"
+    },
+    "./cd-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cd-4x3.jsx"
+    },
+    "./cefta-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cefta-1x1.jsx"
+    },
+    "./cefta-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cefta-4x3.jsx"
+    },
+    "./cf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cf-1x1.jsx"
+    },
+    "./cf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cf-4x3.jsx"
+    },
+    "./cg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cg-1x1.jsx"
+    },
+    "./cg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cg-4x3.jsx"
+    },
+    "./ch-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ch-1x1.jsx"
+    },
+    "./ch-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ch-4x3.jsx"
+    },
+    "./ci-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ci-1x1.jsx"
+    },
+    "./ci-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ci-4x3.jsx"
+    },
+    "./ck-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ck-1x1.jsx"
+    },
+    "./ck-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/ck-4x3.jsx"
+    },
+    "./cl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cl-1x1.jsx"
+    },
+    "./cl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cl-4x3.jsx"
+    },
+    "./cm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cm-1x1.jsx"
+    },
+    "./cm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cm-4x3.jsx"
+    },
+    "./cn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cn-1x1.jsx"
+    },
+    "./cn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cn-4x3.jsx"
+    },
+    "./co-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/co-1x1.jsx"
+    },
+    "./co-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/co-4x3.jsx"
+    },
+    "./cp-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cp-1x1.jsx"
+    },
+    "./cp-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cp-4x3.jsx"
+    },
+    "./cr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cr-1x1.jsx"
+    },
+    "./cr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cr-4x3.jsx"
+    },
+    "./cu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cu-1x1.jsx"
+    },
+    "./cu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cu-4x3.jsx"
+    },
+    "./cv-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cv-1x1.jsx"
+    },
+    "./cv-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cv-4x3.jsx"
+    },
+    "./cw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cw-1x1.jsx"
+    },
+    "./cw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cw-4x3.jsx"
+    },
+    "./cx-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cx-1x1.jsx"
+    },
+    "./cx-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cx-4x3.jsx"
+    },
+    "./cy-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cy-1x1.jsx"
+    },
+    "./cy-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cy-4x3.jsx"
+    },
+    "./cz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cz-1x1.jsx"
+    },
+    "./cz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cz-4x3.jsx"
+    },
+    "./de-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/de-1x1.jsx"
+    },
+    "./de-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/de-4x3.jsx"
+    },
+    "./dg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dg-1x1.jsx"
+    },
+    "./dg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dg-4x3.jsx"
+    },
+    "./dj-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dj-1x1.jsx"
+    },
+    "./dj-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dj-4x3.jsx"
+    },
+    "./dk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dk-1x1.jsx"
+    },
+    "./dk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dk-4x3.jsx"
+    },
+    "./dm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dm-1x1.jsx"
+    },
+    "./dm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dm-4x3.jsx"
+    },
+    "./do-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-1x1.jsx"
+    },
+    "./do-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/do-4x3.jsx"
+    },
+    "./dz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dz-1x1.jsx"
+    },
+    "./dz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dz-4x3.jsx"
+    },
+    "./eac-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eac-1x1.jsx"
+    },
+    "./eac-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eac-4x3.jsx"
+    },
+    "./ec-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ec-1x1.jsx"
+    },
+    "./ec-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ec-4x3.jsx"
+    },
+    "./ee-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ee-1x1.jsx"
+    },
+    "./ee-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ee-4x3.jsx"
+    },
+    "./eg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eg-1x1.jsx"
+    },
+    "./eg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eg-4x3.jsx"
+    },
+    "./eh-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eh-1x1.jsx"
+    },
+    "./eh-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eh-4x3.jsx"
+    },
+    "./er-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/er-1x1.jsx"
+    },
+    "./er-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/er-4x3.jsx"
+    },
+    "./es-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-1x1.jsx"
+    },
+    "./es-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-4x3.jsx"
+    },
+    "./es-ct-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-ct-1x1.jsx"
+    },
+    "./es-ct-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-ct-4x3.jsx"
+    },
+    "./es-ga-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-ga-1x1.jsx"
+    },
+    "./es-ga-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-ga-4x3.jsx"
+    },
+    "./es-pv-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-pv-1x1.jsx"
+    },
+    "./es-pv-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-pv-4x3.jsx"
+    },
+    "./et-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/et-1x1.jsx"
+    },
+    "./et-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/et-4x3.jsx"
+    },
+    "./eu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eu-1x1.jsx"
+    },
+    "./eu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eu-4x3.jsx"
+    },
+    "./fi-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fi-1x1.jsx"
+    },
+    "./fi-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fi-4x3.jsx"
+    },
+    "./fj-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fj-1x1.jsx"
+    },
+    "./fj-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fj-4x3.jsx"
+    },
+    "./fk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fk-1x1.jsx"
+    },
+    "./fk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fk-4x3.jsx"
+    },
+    "./fm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fm-1x1.jsx"
+    },
+    "./fm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fm-4x3.jsx"
+    },
+    "./fo-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fo-1x1.jsx"
+    },
+    "./fo-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fo-4x3.jsx"
+    },
+    "./fr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fr-1x1.jsx"
+    },
+    "./fr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fr-4x3.jsx"
+    },
+    "./ga-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ga-1x1.jsx"
+    },
+    "./ga-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ga-4x3.jsx"
+    },
+    "./gb-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-1x1.jsx"
+    },
+    "./gb-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-4x3.jsx"
+    },
+    "./gb-eng-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-eng-1x1.jsx"
+    },
+    "./gb-eng-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-eng-4x3.jsx"
+    },
+    "./gb-nir-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-nir-1x1.jsx"
+    },
+    "./gb-nir-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-nir-4x3.jsx"
+    },
+    "./gb-sct-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-sct-1x1.jsx"
+    },
+    "./gb-sct-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-sct-4x3.jsx"
+    },
+    "./gb-wls-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-wls-1x1.jsx"
+    },
+    "./gb-wls-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gb-wls-4x3.jsx"
+    },
+    "./gd-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gd-1x1.jsx"
+    },
+    "./gd-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gd-4x3.jsx"
+    },
+    "./ge-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ge-1x1.jsx"
+    },
+    "./ge-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ge-4x3.jsx"
+    },
+    "./gf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gf-1x1.jsx"
+    },
+    "./gf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gf-4x3.jsx"
+    },
+    "./gg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gg-1x1.jsx"
+    },
+    "./gg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gg-4x3.jsx"
+    },
+    "./gh-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gh-1x1.jsx"
+    },
+    "./gh-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gh-4x3.jsx"
+    },
+    "./gi-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gi-1x1.jsx"
+    },
+    "./gi-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gi-4x3.jsx"
+    },
+    "./gl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gl-1x1.jsx"
+    },
+    "./gl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gl-4x3.jsx"
+    },
+    "./gm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gm-1x1.jsx"
+    },
+    "./gm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gm-4x3.jsx"
+    },
+    "./gn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gn-1x1.jsx"
+    },
+    "./gn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gn-4x3.jsx"
+    },
+    "./gp-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gp-1x1.jsx"
+    },
+    "./gp-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gp-4x3.jsx"
+    },
+    "./gq-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gq-1x1.jsx"
+    },
+    "./gq-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gq-4x3.jsx"
+    },
+    "./gr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gr-1x1.jsx"
+    },
+    "./gr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gr-4x3.jsx"
+    },
+    "./gs-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gs-1x1.jsx"
+    },
+    "./gs-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gs-4x3.jsx"
+    },
+    "./gt-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gt-1x1.jsx"
+    },
+    "./gt-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gt-4x3.jsx"
+    },
+    "./gu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gu-1x1.jsx"
+    },
+    "./gu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gu-4x3.jsx"
+    },
+    "./gw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gw-1x1.jsx"
+    },
+    "./gw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gw-4x3.jsx"
+    },
+    "./gy-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gy-1x1.jsx"
+    },
+    "./gy-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gy-4x3.jsx"
+    },
+    "./hk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hk-1x1.jsx"
+    },
+    "./hk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hk-4x3.jsx"
+    },
+    "./hm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hm-1x1.jsx"
+    },
+    "./hm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hm-4x3.jsx"
+    },
+    "./hn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hn-1x1.jsx"
+    },
+    "./hn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hn-4x3.jsx"
+    },
+    "./hr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hr-1x1.jsx"
+    },
+    "./hr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hr-4x3.jsx"
+    },
+    "./ht-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/ht-1x1.jsx"
+    },
+    "./ht-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/ht-4x3.jsx"
+    },
+    "./hu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hu-1x1.jsx"
+    },
+    "./hu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hu-4x3.jsx"
+    },
+    "./ic-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ic-1x1.jsx"
+    },
+    "./ic-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ic-4x3.jsx"
+    },
+    "./id-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/id-1x1.jsx"
+    },
+    "./id-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/id-4x3.jsx"
+    },
+    "./ie-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ie-1x1.jsx"
+    },
+    "./ie-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ie-4x3.jsx"
+    },
+    "./il-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/il-1x1.jsx"
+    },
+    "./il-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/il-4x3.jsx"
+    },
+    "./im-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/im-1x1.jsx"
+    },
+    "./im-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/im-4x3.jsx"
+    },
+    "./in-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-1x1.jsx"
+    },
+    "./in-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-4x3.jsx"
+    },
+    "./io-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/io-1x1.jsx"
+    },
+    "./io-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/io-4x3.jsx"
+    },
+    "./iq-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iq-1x1.jsx"
+    },
+    "./iq-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iq-4x3.jsx"
+    },
+    "./ir-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ir-1x1.jsx"
+    },
+    "./ir-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ir-4x3.jsx"
+    },
+    "./is-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/is-1x1.jsx"
+    },
+    "./is-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/is-4x3.jsx"
+    },
+    "./it-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/it-1x1.jsx"
+    },
+    "./it-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/it-4x3.jsx"
+    },
+    "./je-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/je-1x1.jsx"
+    },
+    "./je-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/je-4x3.jsx"
+    },
+    "./jm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jm-1x1.jsx"
+    },
+    "./jm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jm-4x3.jsx"
+    },
+    "./jo-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jo-1x1.jsx"
+    },
+    "./jo-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jo-4x3.jsx"
+    },
+    "./jp-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jp-1x1.jsx"
+    },
+    "./jp-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jp-4x3.jsx"
+    },
+    "./ke-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ke-1x1.jsx"
+    },
+    "./ke-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ke-4x3.jsx"
+    },
+    "./kg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kg-1x1.jsx"
+    },
+    "./kg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kg-4x3.jsx"
+    },
+    "./kh-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kh-1x1.jsx"
+    },
+    "./kh-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kh-4x3.jsx"
+    },
+    "./ki-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ki-1x1.jsx"
+    },
+    "./ki-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ki-4x3.jsx"
+    },
+    "./km-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/km-1x1.jsx"
+    },
+    "./km-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/km-4x3.jsx"
+    },
+    "./kn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kn-1x1.jsx"
+    },
+    "./kn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kn-4x3.jsx"
+    },
+    "./kp-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kp-1x1.jsx"
+    },
+    "./kp-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kp-4x3.jsx"
+    },
+    "./kr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kr-1x1.jsx"
+    },
+    "./kr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kr-4x3.jsx"
+    },
+    "./kw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kw-1x1.jsx"
+    },
+    "./kw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kw-4x3.jsx"
+    },
+    "./ky-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ky-1x1.jsx"
+    },
+    "./ky-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ky-4x3.jsx"
+    },
+    "./kz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kz-1x1.jsx"
+    },
+    "./kz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kz-4x3.jsx"
+    },
+    "./la-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/la-1x1.jsx"
+    },
+    "./la-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/la-4x3.jsx"
+    },
+    "./lb-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lb-1x1.jsx"
+    },
+    "./lb-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lb-4x3.jsx"
+    },
+    "./lc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lc-1x1.jsx"
+    },
+    "./lc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lc-4x3.jsx"
+    },
+    "./li-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/li-1x1.jsx"
+    },
+    "./li-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/li-4x3.jsx"
+    },
+    "./lk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lk-1x1.jsx"
+    },
+    "./lk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lk-4x3.jsx"
+    },
+    "./lr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lr-1x1.jsx"
+    },
+    "./lr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lr-4x3.jsx"
+    },
+    "./ls-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/ls-1x1.jsx"
+    },
+    "./ls-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/ls-4x3.jsx"
+    },
+    "./lt-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lt-1x1.jsx"
+    },
+    "./lt-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lt-4x3.jsx"
+    },
+    "./lu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lu-1x1.jsx"
+    },
+    "./lu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lu-4x3.jsx"
+    },
+    "./lv-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lv-1x1.jsx"
+    },
+    "./lv-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lv-4x3.jsx"
+    },
+    "./ly-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/ly-1x1.jsx"
+    },
+    "./ly-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/ly-4x3.jsx"
+    },
+    "./ma-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ma-1x1.jsx"
+    },
+    "./ma-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ma-4x3.jsx"
+    },
+    "./mc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mc-1x1.jsx"
+    },
+    "./mc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mc-4x3.jsx"
+    },
+    "./md-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/md-1x1.jsx"
+    },
+    "./md-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/md-4x3.jsx"
+    },
+    "./me-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/me-1x1.jsx"
+    },
+    "./me-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/me-4x3.jsx"
+    },
+    "./mf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mf-1x1.jsx"
+    },
+    "./mf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mf-4x3.jsx"
+    },
+    "./mg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mg-1x1.jsx"
+    },
+    "./mg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mg-4x3.jsx"
+    },
+    "./mh-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mh-1x1.jsx"
+    },
+    "./mh-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mh-4x3.jsx"
+    },
+    "./mk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mk-1x1.jsx"
+    },
+    "./mk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mk-4x3.jsx"
+    },
+    "./ml-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ml-1x1.jsx"
+    },
+    "./ml-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ml-4x3.jsx"
+    },
+    "./mm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mm-1x1.jsx"
+    },
+    "./mm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mm-4x3.jsx"
+    },
+    "./mn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mn-1x1.jsx"
+    },
+    "./mn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mn-4x3.jsx"
+    },
+    "./mo-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mo-1x1.jsx"
+    },
+    "./mo-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mo-4x3.jsx"
+    },
+    "./mp-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mp-1x1.jsx"
+    },
+    "./mp-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mp-4x3.jsx"
+    },
+    "./mq-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mq-1x1.jsx"
+    },
+    "./mq-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mq-4x3.jsx"
+    },
+    "./mr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mr-1x1.jsx"
+    },
+    "./mr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mr-4x3.jsx"
+    },
+    "./ms-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-1x1.jsx"
+    },
+    "./ms-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-4x3.jsx"
+    },
+    "./mt-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mt-1x1.jsx"
+    },
+    "./mt-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mt-4x3.jsx"
+    },
+    "./mu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mu-1x1.jsx"
+    },
+    "./mu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mu-4x3.jsx"
+    },
+    "./mv-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mv-1x1.jsx"
+    },
+    "./mv-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mv-4x3.jsx"
+    },
+    "./mw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mw-1x1.jsx"
+    },
+    "./mw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mw-4x3.jsx"
+    },
+    "./mx-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mx-1x1.jsx"
+    },
+    "./mx-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mx-4x3.jsx"
+    },
+    "./my-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/my-1x1.jsx"
+    },
+    "./my-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/my-4x3.jsx"
+    },
+    "./mz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mz-1x1.jsx"
+    },
+    "./mz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mz-4x3.jsx"
+    },
+    "./na-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/na-1x1.jsx"
+    },
+    "./na-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/na-4x3.jsx"
+    },
+    "./nc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nc-1x1.jsx"
+    },
+    "./nc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nc-4x3.jsx"
+    },
+    "./ne-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ne-1x1.jsx"
+    },
+    "./ne-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ne-4x3.jsx"
+    },
+    "./nf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nf-1x1.jsx"
+    },
+    "./nf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nf-4x3.jsx"
+    },
+    "./ng-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ng-1x1.jsx"
+    },
+    "./ng-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ng-4x3.jsx"
+    },
+    "./ni-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ni-1x1.jsx"
+    },
+    "./ni-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ni-4x3.jsx"
+    },
+    "./nl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nl-1x1.jsx"
+    },
+    "./nl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nl-4x3.jsx"
+    },
+    "./no-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-1x1.jsx"
+    },
+    "./no-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-4x3.jsx"
+    },
+    "./np-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/np-1x1.jsx"
+    },
+    "./np-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/np-4x3.jsx"
+    },
+    "./nr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nr-1x1.jsx"
+    },
+    "./nr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nr-4x3.jsx"
+    },
+    "./nu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nu-1x1.jsx"
+    },
+    "./nu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nu-4x3.jsx"
+    },
+    "./nz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nz-1x1.jsx"
+    },
+    "./nz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nz-4x3.jsx"
+    },
+    "./om-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/om-1x1.jsx"
+    },
+    "./om-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/om-4x3.jsx"
+    },
+    "./pa-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pa-1x1.jsx"
+    },
+    "./pa-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pa-4x3.jsx"
+    },
+    "./pc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pc-1x1.jsx"
+    },
+    "./pc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pc-4x3.jsx"
+    },
+    "./pe-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pe-1x1.jsx"
+    },
+    "./pe-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pe-4x3.jsx"
+    },
+    "./pf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pf-1x1.jsx"
+    },
+    "./pf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pf-4x3.jsx"
+    },
+    "./pg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pg-1x1.jsx"
+    },
+    "./pg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pg-4x3.jsx"
+    },
+    "./ph-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ph-1x1.jsx"
+    },
+    "./ph-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ph-4x3.jsx"
+    },
+    "./pk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pk-1x1.jsx"
+    },
+    "./pk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pk-4x3.jsx"
+    },
+    "./pl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pl-1x1.jsx"
+    },
+    "./pl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pl-4x3.jsx"
+    },
+    "./pm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pm-1x1.jsx"
+    },
+    "./pm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pm-4x3.jsx"
+    },
+    "./pn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pn-1x1.jsx"
+    },
+    "./pn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pn-4x3.jsx"
+    },
+    "./pr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pr-1x1.jsx"
+    },
+    "./pr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pr-4x3.jsx"
+    },
+    "./ps-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ps-1x1.jsx"
+    },
+    "./ps-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ps-4x3.jsx"
+    },
+    "./pt-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pt-1x1.jsx"
+    },
+    "./pt-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pt-4x3.jsx"
+    },
+    "./pw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pw-1x1.jsx"
+    },
+    "./pw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pw-4x3.jsx"
+    },
+    "./py-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/py-1x1.jsx"
+    },
+    "./py-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/py-4x3.jsx"
+    },
+    "./qa-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qa-1x1.jsx"
+    },
+    "./qa-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qa-4x3.jsx"
+    },
+    "./re-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/re-1x1.jsx"
+    },
+    "./re-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/re-4x3.jsx"
+    },
+    "./ro-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ro-1x1.jsx"
+    },
+    "./ro-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ro-4x3.jsx"
+    },
+    "./rs-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rs-1x1.jsx"
+    },
+    "./rs-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rs-4x3.jsx"
+    },
+    "./ru-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ru-1x1.jsx"
+    },
+    "./ru-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ru-4x3.jsx"
+    },
+    "./rw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rw-1x1.jsx"
+    },
+    "./rw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rw-4x3.jsx"
+    },
+    "./sa-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sa-1x1.jsx"
+    },
+    "./sa-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sa-4x3.jsx"
+    },
+    "./sb-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sb-1x1.jsx"
+    },
+    "./sb-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sb-4x3.jsx"
+    },
+    "./sc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-1x1.jsx"
+    },
+    "./sc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sc-4x3.jsx"
+    },
+    "./sd-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sd-1x1.jsx"
+    },
+    "./sd-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sd-4x3.jsx"
+    },
+    "./se-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/se-1x1.jsx"
+    },
+    "./se-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/se-4x3.jsx"
+    },
+    "./sg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sg-1x1.jsx"
+    },
+    "./sg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sg-4x3.jsx"
+    },
+    "./sh-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-1x1.jsx"
+    },
+    "./sh-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-4x3.jsx"
+    },
+    "./sh-ac-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-ac-1x1.jsx"
+    },
+    "./sh-ac-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-ac-4x3.jsx"
+    },
+    "./sh-hl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-hl-1x1.jsx"
+    },
+    "./sh-hl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-hl-4x3.jsx"
+    },
+    "./sh-ta-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-ta-1x1.jsx"
+    },
+    "./sh-ta-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sh-ta-4x3.jsx"
+    },
+    "./si-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/si-1x1.jsx"
+    },
+    "./si-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/si-4x3.jsx"
+    },
+    "./sj-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sj-1x1.jsx"
+    },
+    "./sj-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sj-4x3.jsx"
+    },
+    "./sk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sk-1x1.jsx"
+    },
+    "./sk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sk-4x3.jsx"
+    },
+    "./sl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sl-1x1.jsx"
+    },
+    "./sl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sl-4x3.jsx"
+    },
+    "./sm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sm-1x1.jsx"
+    },
+    "./sm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sm-4x3.jsx"
+    },
+    "./sn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sn-1x1.jsx"
+    },
+    "./sn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sn-4x3.jsx"
+    },
+    "./so-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/so-1x1.jsx"
+    },
+    "./so-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/so-4x3.jsx"
+    },
+    "./sr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sr-1x1.jsx"
+    },
+    "./sr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sr-4x3.jsx"
+    },
+    "./ss-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/ss-1x1.jsx"
+    },
+    "./ss-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/ss-4x3.jsx"
+    },
+    "./st-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/st-1x1.jsx"
+    },
+    "./st-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/st-4x3.jsx"
+    },
+    "./sv-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sv-1x1.jsx"
+    },
+    "./sv-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sv-4x3.jsx"
+    },
+    "./sx-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sx-1x1.jsx"
+    },
+    "./sx-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sx-4x3.jsx"
+    },
+    "./sy-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sy-1x1.jsx"
+    },
+    "./sy-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sy-4x3.jsx"
+    },
+    "./sz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sz-1x1.jsx"
+    },
+    "./sz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sz-4x3.jsx"
+    },
+    "./tc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tc-1x1.jsx"
+    },
+    "./tc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tc-4x3.jsx"
+    },
+    "./td-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/td-1x1.jsx"
+    },
+    "./td-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/td-4x3.jsx"
+    },
+    "./tf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tf-1x1.jsx"
+    },
+    "./tf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tf-4x3.jsx"
+    },
+    "./tg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tg-1x1.jsx"
+    },
+    "./tg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tg-4x3.jsx"
+    },
+    "./th-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/th-1x1.jsx"
+    },
+    "./th-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/th-4x3.jsx"
+    },
+    "./tj-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tj-1x1.jsx"
+    },
+    "./tj-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tj-4x3.jsx"
+    },
+    "./tk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tk-1x1.jsx"
+    },
+    "./tk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tk-4x3.jsx"
+    },
+    "./tl-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tl-1x1.jsx"
+    },
+    "./tl-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tl-4x3.jsx"
+    },
+    "./tm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tm-1x1.jsx"
+    },
+    "./tm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tm-4x3.jsx"
+    },
+    "./tn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tn-1x1.jsx"
+    },
+    "./tn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tn-4x3.jsx"
+    },
+    "./to-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/to-1x1.jsx"
+    },
+    "./to-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/to-4x3.jsx"
+    },
+    "./tr-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tr-1x1.jsx"
+    },
+    "./tr-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tr-4x3.jsx"
+    },
+    "./tt-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tt-1x1.jsx"
+    },
+    "./tt-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tt-4x3.jsx"
+    },
+    "./tv-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tv-1x1.jsx"
+    },
+    "./tv-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tv-4x3.jsx"
+    },
+    "./tw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tw-1x1.jsx"
+    },
+    "./tw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tw-4x3.jsx"
+    },
+    "./tz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tz-1x1.jsx"
+    },
+    "./tz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tz-4x3.jsx"
+    },
+    "./ua-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ua-1x1.jsx"
+    },
+    "./ua-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ua-4x3.jsx"
+    },
+    "./ug-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ug-1x1.jsx"
+    },
+    "./ug-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ug-4x3.jsx"
+    },
+    "./um-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/um-1x1.jsx"
+    },
+    "./um-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/um-4x3.jsx"
+    },
+    "./un-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/un-1x1.jsx"
+    },
+    "./un-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/un-4x3.jsx"
+    },
+    "./us-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/us-1x1.jsx"
+    },
+    "./us-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/us-4x3.jsx"
+    },
+    "./uy-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uy-1x1.jsx"
+    },
+    "./uy-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uy-4x3.jsx"
+    },
+    "./uz-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uz-1x1.jsx"
+    },
+    "./uz-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uz-4x3.jsx"
+    },
+    "./va-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/va-1x1.jsx"
+    },
+    "./va-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/va-4x3.jsx"
+    },
+    "./vc-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vc-1x1.jsx"
+    },
+    "./vc-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vc-4x3.jsx"
+    },
+    "./ve-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/ve-1x1.jsx"
+    },
+    "./ve-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/ve-4x3.jsx"
+    },
+    "./vg-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vg-1x1.jsx"
+    },
+    "./vg-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vg-4x3.jsx"
+    },
+    "./vi-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vi-1x1.jsx"
+    },
+    "./vi-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vi-4x3.jsx"
+    },
+    "./vn-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vn-1x1.jsx"
+    },
+    "./vn-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vn-4x3.jsx"
+    },
+    "./vu-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vu-1x1.jsx"
+    },
+    "./vu-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vu-4x3.jsx"
+    },
+    "./wf-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wf-1x1.jsx"
+    },
+    "./wf-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wf-4x3.jsx"
+    },
+    "./ws-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/ws-1x1.jsx"
+    },
+    "./ws-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/ws-4x3.jsx"
+    },
+    "./xk-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xk-1x1.jsx"
+    },
+    "./xk-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xk-4x3.jsx"
+    },
+    "./xx-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xx-1x1.jsx"
+    },
+    "./xx-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xx-4x3.jsx"
+    },
+    "./ye-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/ye-1x1.jsx"
+    },
+    "./ye-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/ye-4x3.jsx"
+    },
+    "./yt-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yt-1x1.jsx"
+    },
+    "./yt-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yt-4x3.jsx"
+    },
+    "./za-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/za-1x1.jsx"
+    },
+    "./za-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/za-4x3.jsx"
+    },
+    "./zm-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zm-1x1.jsx"
+    },
+    "./zm-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zm-4x3.jsx"
+    },
+    "./zw-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zw-1x1.jsx"
+    },
+    "./zw-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zw-4x3.jsx"
+    },
+    "./ac-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ac-1x1.jsx"
+    },
+    "./ac-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ac-4x3.jsx"
+    },
+    "./ea-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ea-1x1.jsx"
+    },
+    "./ea-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ea-4x3.jsx"
+    },
+    "./ta-1x1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ta-1x1.jsx"
+    },
+    "./ta-4x3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ta-4x3.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#flag"
+}

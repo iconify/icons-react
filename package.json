@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/simple-icons",
   "type": "module",
-  "version": "1.0.27",
+  "version": "1.0.28",
   "homepage": "https://icon-sets.iconify.design/simple-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -5097,6 +5097,10 @@
     "./godotengine": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/godotengine.jsx"
+    },
+    "./godox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godox.jsx"
     },
     "./gofundme": {
       "types": "./types/hqrkovbr.d.ts",

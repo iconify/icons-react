@@ -1,0 +1,691 @@
+{
+  "name": "@iconify-react/osmic",
+  "type": "module",
+  "version": "1.0.1",
+  "homepage": "https://icon-sets.iconify.design/osmic/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC0-1.0",
+  "exports": {
+    "./airport-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airport-14.jsx"
+    },
+    "./alcohol-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alcohol-14.jsx"
+    },
+    "./alpine-hut-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alpine-hut-14.jsx"
+    },
+    "./archaeological-site-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archaeological-site-14.jsx"
+    },
+    "./atm-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atm-14.jsx"
+    },
+    "./bakery-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bakery-14.jsx"
+    },
+    "./bank-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-14.jsx"
+    },
+    "./bar-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-14.jsx"
+    },
+    "./basic-hut-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basic-hut-14.jsx"
+    },
+    "./beauty-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beauty-14.jsx"
+    },
+    "./bench-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-14.jsx"
+    },
+    "./beverages-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beverages-14.jsx"
+    },
+    "./bicycle-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-14.jsx"
+    },
+    "./biergarten-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biergarten-14.jsx"
+    },
+    "./bollard-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bollard-10.jsx"
+    },
+    "./bollard-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bollard-14.jsx"
+    },
+    "./books-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/books-14.jsx"
+    },
+    "./buddhist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buddhist-14.jsx"
+    },
+    "./bus-station-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-station-14.jsx"
+    },
+    "./bus-stop-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-10.jsx"
+    },
+    "./bus-stop-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-14.jsx"
+    },
+    "./butcher-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/butcher-14.jsx"
+    },
+    "./cafe-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cafe-14.jsx"
+    },
+    "./camping-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camping-14.jsx"
+    },
+    "./car-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-14.jsx"
+    },
+    "./car-parts-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-parts-14.jsx"
+    },
+    "./caravan-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caravan-14.jsx"
+    },
+    "./castle-defensive-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-defensive-14.jsx"
+    },
+    "./castle-fortress-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-fortress-14.jsx"
+    },
+    "./castle-manor-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-manor-14.jsx"
+    },
+    "./castle-palace-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-palace-14.jsx"
+    },
+    "./castle-stately-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-stately-14.jsx"
+    },
+    "./cattle-grid-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cattle-grid-10.jsx"
+    },
+    "./cattle-grid-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cattle-grid-14.jsx"
+    },
+    "./cemetery-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cemetery-14.jsx"
+    },
+    "./charging-station-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-station-14.jsx"
+    },
+    "./chemist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chemist-14.jsx"
+    },
+    "./christian-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/christian-14.jsx"
+    },
+    "./christian-orthodox-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/christian-orthodox-14.jsx"
+    },
+    "./cinema-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cinema-14.jsx"
+    },
+    "./city-gate-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/city-gate-14.jsx"
+    },
+    "./clock-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-14.jsx"
+    },
+    "./clothes-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clothes-14.jsx"
+    },
+    "./computer-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-14.jsx"
+    },
+    "./confectionery-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confectionery-14.jsx"
+    },
+    "./convenience-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convenience-14.jsx"
+    },
+    "./copyshop-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copyshop-14.jsx"
+    },
+    "./courthouse-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/courthouse-10.jsx"
+    },
+    "./courthouse-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/courthouse-14.jsx"
+    },
+    "./dentist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dentist-14.jsx"
+    },
+    "./doctor-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doctor-14.jsx"
+    },
+    "./doityourself-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doityourself-14.jsx"
+    },
+    "./drinking-water-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-water-14.jsx"
+    },
+    "./electronics-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/electronics-14.jsx"
+    },
+    "./elevator-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator-14.jsx"
+    },
+    "./embassy-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/embassy-10.jsx"
+    },
+    "./embassy-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/embassy-14.jsx"
+    },
+    "./emergency-phone-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emergency-phone-14.jsx"
+    },
+    "./entrance-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance-10.jsx"
+    },
+    "./entrance-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance-14.jsx"
+    },
+    "./exit-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exit-10.jsx"
+    },
+    "./exit-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exit-14.jsx"
+    },
+    "./fast-food-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fast-food-14.jsx"
+    },
+    "./ferry-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ferry-14.jsx"
+    },
+    "./fire-station-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-station-14.jsx"
+    },
+    "./florist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/florist-14.jsx"
+    },
+    "./ford-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ford-14.jsx"
+    },
+    "./fort-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fort-14.jsx"
+    },
+    "./fountain-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain-14.jsx"
+    },
+    "./fuel-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fuel-14.jsx"
+    },
+    "./furniture-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/furniture-14.jsx"
+    },
+    "./garden-centre-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-centre-14.jsx"
+    },
+    "./gate-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gate-10.jsx"
+    },
+    "./gate-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gate-14.jsx"
+    },
+    "./gift-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-14.jsx"
+    },
+    "./government-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/government-14.jsx"
+    },
+    "./greengrocer-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/greengrocer-14.jsx"
+    },
+    "./guidepost-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guidepost-14.jsx"
+    },
+    "./hairdresser-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hairdresser-14.jsx"
+    },
+    "./heliport-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heliport-14.jsx"
+    },
+    "./hifi-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hifi-14.jsx"
+    },
+    "./hinduist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hinduist-14.jsx"
+    },
+    "./hospital-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-14.jsx"
+    },
+    "./hostel-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hostel-14.jsx"
+    },
+    "./hotel-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hotel-14.jsx"
+    },
+    "./hunting-stand-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hunting-stand-14.jsx"
+    },
+    "./ice-cream-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-cream-14.jsx"
+    },
+    "./information-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-14.jsx"
+    },
+    "./jewellery-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jewellery-14.jsx"
+    },
+    "./jewish-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jewish-14.jsx"
+    },
+    "./kiosk-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kiosk-14.jsx"
+    },
+    "./laundry-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laundry-14.jsx"
+    },
+    "./library-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/library-14.jsx"
+    },
+    "./lift-gate-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lift-gate-10.jsx"
+    },
+    "./lift-gate-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lift-gate-14.jsx"
+    },
+    "./lighthouse-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse-14.jsx"
+    },
+    "./luggage-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luggage-14.jsx"
+    },
+    "./mast-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mast-14.jsx"
+    },
+    "./mast-communications-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mast-communications-14.jsx"
+    },
+    "./memorial-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memorial-10.jsx"
+    },
+    "./memorial-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memorial-14.jsx"
+    },
+    "./metro-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metro-14.jsx"
+    },
+    "./mobile-phone-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone-14.jsx"
+    },
+    "./monument-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monument-14.jsx"
+    },
+    "./motel-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/motel-14.jsx"
+    },
+    "./museum-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/museum-14.jsx"
+    },
+    "./muslim-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/muslim-14.jsx"
+    },
+    "./news-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/news-14.jsx"
+    },
+    "./nightclub-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nightclub-14.jsx"
+    },
+    "./optician-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/optician-14.jsx"
+    },
+    "./parking-bicycle-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-bicycle-14.jsx"
+    },
+    "./parking-car-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-car-14.jsx"
+    },
+    "./parking-garage-car-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-garage-car-14.jsx"
+    },
+    "./peak-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/peak-10.jsx"
+    },
+    "./peak-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/peak-14.jsx"
+    },
+    "./pet-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pet-14.jsx"
+    },
+    "./pharmacy-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pharmacy-14.jsx"
+    },
+    "./photo-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photo-14.jsx"
+    },
+    "./place-of-worship-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/place-of-worship-14.jsx"
+    },
+    "./playground-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playground-14.jsx"
+    },
+    "./police-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police-14.jsx"
+    },
+    "./post-office-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post-office-10.jsx"
+    },
+    "./post-office-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post-office-14.jsx"
+    },
+    "./power-wind-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-wind-14.jsx"
+    },
+    "./prison-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prison-14.jsx"
+    },
+    "./pub-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pub-14.jsx"
+    },
+    "./railway-halt-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/railway-halt-14.jsx"
+    },
+    "./railway-station-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/railway-station-14.jsx"
+    },
+    "./recycling-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycling-14.jsx"
+    },
+    "./rental-bicycle-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rental-bicycle-14.jsx"
+    },
+    "./rental-car-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rental-car-14.jsx"
+    },
+    "./repair-bicycle-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repair-bicycle-14.jsx"
+    },
+    "./repair-car-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repair-car-14.jsx"
+    },
+    "./restaurant-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-14.jsx"
+    },
+    "./saddle-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saddle-10.jsx"
+    },
+    "./saddle-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saddle-14.jsx"
+    },
+    "./shared-car-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shared-car-14.jsx"
+    },
+    "./shelter-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shelter-14.jsx"
+    },
+    "./shintoist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shintoist-14.jsx"
+    },
+    "./shoes-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shoes-14.jsx"
+    },
+    "./sikhist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sikhist-14.jsx"
+    },
+    "./spring-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spring-14.jsx"
+    },
+    "./stationery-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stationery-14.jsx"
+    },
+    "./steps-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steps-10.jsx"
+    },
+    "./steps-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steps-14.jsx"
+    },
+    "./supermarket-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supermarket-14.jsx"
+    },
+    "./swimming-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swimming-14.jsx"
+    },
+    "./table-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-14.jsx"
+    },
+    "./taoist-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taoist-14.jsx"
+    },
+    "./taxi-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taxi-14.jsx"
+    },
+    "./telephone-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telephone-14.jsx"
+    },
+    "./theatre-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theatre-14.jsx"
+    },
+    "./toilets-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilets-14.jsx"
+    },
+    "./town-hall-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/town-hall-14.jsx"
+    },
+    "./toys-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toys-14.jsx"
+    },
+    "./tram-stop-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tram-stop-14.jsx"
+    },
+    "./tree-coniferous-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-coniferous-14.jsx"
+    },
+    "./tree-deciduous-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-deciduous-14.jsx"
+    },
+    "./tree-unspecified-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-unspecified-14.jsx"
+    },
+    "./veterinary-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/veterinary-14.jsx"
+    },
+    "./viewpoint-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viewpoint-14.jsx"
+    },
+    "./wash-bicycle-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wash-bicycle-14.jsx"
+    },
+    "./waste-basket-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste-basket-10.jsx"
+    },
+    "./waste-basket-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste-basket-14.jsx"
+    },
+    "./watchtower-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watchtower-14.jsx"
+    },
+    "./water-tower-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/water-tower-14.jsx"
+    },
+    "./waterfall-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waterfall-14.jsx"
+    },
+    "./wilderness-hut-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wilderness-hut-14.jsx"
+    },
+    "./windmill-14": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windmill-14.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#osmic"
+}

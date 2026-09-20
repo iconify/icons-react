@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fpf011s-x.css';
+import '../../css/d/d4ekc_jgn.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fpf011s-x"/>`,
+		"content": `<path class="d4ekc_jgn"/>`,
 		"fallback": "pinhead:stone-wall",
 	});
 }

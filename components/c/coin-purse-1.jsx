@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/h/hntgybcog.css';
+import '../../css/f/fblvo_b-x.css';
+import '../../css/t/tchp3hbpg.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="hntgybcog"><path class="fblvo_b-x"/><path class="tchp3hbpg"/></g>`,
+		"fallback": "streamline-ultimate:coin-purse-1",
+	});
+}
+
+export default Component;

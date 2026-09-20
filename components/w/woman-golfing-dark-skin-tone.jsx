@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/e/e_raf5bng.css';
+import '../../css/l/ltv65kn9y.css';
+import '../../css/b/b-g-ugb8y.css';
+import '../../css/b/b8vre53kw.css';
+import '../../css/b/brzn_0bpr.css';
+import '../../css/u/u7wkdm68l.css';
+import '../../css/l/lu2x-n83s.css';
+import '../../css/y/yqjt9rbek.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="e_raf5bng"><circle class="ltv65kn9y"/><path class="b-g-ugb8y"/><path class="b8vre53kw"/></g><g class="brzn_0bpr"><path class="u7wkdm68l"/><circle class="lu2x-n83s"/><path class="yqjt9rbek"/></g>`,
+		"fallback": "openmoji:woman-golfing-dark-skin-tone",
+	});
+}
+
+export default Component;

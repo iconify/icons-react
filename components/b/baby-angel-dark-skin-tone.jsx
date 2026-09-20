@@ -1,0 +1,28 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/h/hysoqg9kv.css';
+import '../../css/s/s95uih7al.css';
+import '../../css/q/qgjis-b9q.css';
+import '../../css/q/qias5pb6i.css';
+import '../../css/x/xq60ifigr.css';
+import '../../css/i/io6lpvbjw.css';
+import '../../css/s/se7duvmtd.css';
+import '../../css/p/pui-5gb3d.css';
+import '../../css/h/hvzsevnft.css';
+import '../../css/e/encfssfrf.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="hysoqg9kv"/><path class="s95uih7al"/><ellipse transform="rotate(-.723 35.897 42.702)" class="qgjis-b9q"/><path class="qias5pb6i"/><ellipse class="xq60ifigr"/><path class="io6lpvbjw"/><ellipse class="se7duvmtd"/><path class="pui-5gb3d"/><path class="hvzsevnft"/><path class="encfssfrf"/>`,
+		"fallback": "openmoji:baby-angel-dark-skin-tone",
+	});
+}
+
+export default Component;

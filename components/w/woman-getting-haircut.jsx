@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/i/itzcweb2v.css';
+import '../../css/v/vyf3e3wrd.css';
+import '../../css/c/c495tabsx.css';
+import '../../css/p/p0vyzyblo.css';
+import '../../css/d/dzf4x1b9c.css';
+import '../../css/e/ehmch7_7s.css';
+import '../../css/t/teqn6kb3n.css';
+import '../../css/b/bc2myz9nw.css';
+import '../../css/z/zzcdjp8xu.css';
+import '../../css/o/oq5hypb3h.css';
+import '../../css/c/cuo5qyo8p.css';
+import '../../css/y/ye253ab5j.css';
+import '../../css/t/txdx-_o3k.css';
+import '../../css/r/rzj4c6xpp.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="itzcweb2v"/><path class="vyf3e3wrd"/><path class="c495tabsx"/><path class="p0vyzyblo"/><path class="dzf4x1b9c"/><circle class="ehmch7_7s"/><path class="teqn6kb3n"/><path class="bc2myz9nw"/><path class="zzcdjp8xu"/><path class="oq5hypb3h"/><circle class="cuo5qyo8p"/><path class="ye253ab5j"/><path class="txdx-_o3k"/><path class="rzj4c6xpp"/>`,
+		"fallback": "openmoji:woman-getting-haircut",
+	});
+}
+
+export default Component;

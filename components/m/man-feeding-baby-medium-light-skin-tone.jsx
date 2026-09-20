@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/fxon-_byi.css';
+import '../../css/h/h15lizbyz.css';
+import '../../css/q/qtqp3-xjq.css';
+import '../../css/y/yykkwmbei.css';
+import '../../css/w/wpyqy236k.css';
+import '../../css/v/vgfqv0bfg.css';
+import '../../css/g/gn_2_0brn.css';
+import '../../css/j/jqsnoy0vo.css';
+import '../../css/j/jn8qy4bru.css';
+import '../../css/l/lkb72ua0d.css';
+import '../../css/p/prg0-63tm.css';
+import '../../css/y/ywniddcnl.css';
+import '../../css/d/dn9uurz-v.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="fxon-_byi"/><path class="h15lizbyz"/><path class="qtqp3-xjq"/><circle class="yykkwmbei"/><g class="wpyqy236k"><path class="vgfqv0bfg"/><path class="gn_2_0brn"/></g><path class="jqsnoy0vo"/><g class="jn8qy4bru"><path class="lkb72ua0d"/><circle class="prg0-63tm"/><path class="ywniddcnl"/><path class="dn9uurz-v"/></g>`,
+		"fallback": "openmoji:man-feeding-baby-medium-light-skin-tone",
+	});
+}
+
+export default Component;

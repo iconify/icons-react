@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/k/kn7jfubpi.css';
+import '../../css/k/k9pq-abme.css';
+import '../../css/r/rni-ybb_q.css';
+import '../../css/i/iwl5_8tsf.css';
+import '../../css/l/lchhz6b5s.css';
+import '../../css/i/ihnop5jym.css';
+import '../../css/a/aupes4b4j.css';
+import '../../css/r/r__r24bui.css';
+import '../../css/x/xhnw50iup.css';
+import '../../css/t/ttrha8bjb.css';
+import '../../css/y/ypburpzuc.css';
+import '../../css/o/o8vqf-bnf.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="kn7jfubpi"/><g class="k9pq-abme"><path class="rni-ybb_q"/><path class="iwl5_8tsf"/><path class="lchhz6b5s"/></g><path class="ihnop5jym"/><path class="aupes4b4j"/><path class="r__r24bui"/><path class="xhnw50iup"/><path class="ttrha8bjb"/><path class="ypburpzuc"/><path class="o8vqf-bnf"/>`,
+		"fallback": "openmoji:person-gesturing-ok-medium-skin-tone",
+	});
+}
+
+export default Component;

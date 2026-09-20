@@ -1,0 +1,38 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/p/pkan-pusz.css';
+import '../../css/z/zadadk4ax.css';
+import '../../css/j/j4g8zacmo.css';
+import '../../css/e/eztqw9biy.css';
+import '../../css/i/i1j31zsqk.css';
+import '../../css/c/cx1zpcvqe.css';
+import '../../css/o/oglx9fbpl.css';
+import '../../css/o/ot2i__7dc.css';
+import '../../css/t/to5_hpm1w.css';
+import '../../css/x/xpee_abkq.css';
+import '../../css/h/h8nsotbya.css';
+import '../../css/u/uo879cvze.css';
+import '../../css/j/jkpmkobto.css';
+import '../../css/r/rbfxclbns.css';
+import '../../css/l/lc30dibzq.css';
+import '../../css/c/c5w7wfbvk.css';
+import '../../css/q/q9rjd6szm.css';
+import '../../css/a/a7k33509k.css';
+import '../../css/k/ka4pu0bnp.css';
+import '../../css/g/g0u917b5o.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="pkan-pusz"/><path class="zadadk4ax"/><path class="j4g8zacmo"/><g class="eztqw9biy"><path class="i1j31zsqk"/><circle class="cx1zpcvqe"/><path class="oglx9fbpl"/><circle class="ot2i__7dc"/></g><g class="to5_hpm1w"><circle class="xpee_abkq"/><path class="h8nsotbya"/><path class="uo879cvze"/><path class="jkpmkobto"/><path class="rbfxclbns"/><circle class="lc30dibzq"/><path class="c5w7wfbvk"/><path class="q9rjd6szm"/><path class="a7k33509k"/><path class="ka4pu0bnp"/><path class="g0u917b5o"/></g>`,
+		"fallback": "openmoji:women-with-bunny-ears-medium-dark-skin-tone",
+	});
+}
+
+export default Component;

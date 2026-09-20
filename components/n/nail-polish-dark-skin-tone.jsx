@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/s/sh78-tbqn.css';
+import '../../css/u/ujfncnpwf.css';
+import '../../css/n/nmelk9z3r.css';
+import '../../css/r/rq5f0nhll.css';
+import '../../css/u/ubu-m0b9l.css';
+import '../../css/i/ij8jxpbjg.css';
+import '../../css/b/b_qi0n4ks.css';
+import '../../css/c/c8jaomb3g.css';
+import '../../css/e/e_raf5bng.css';
+import '../../css/j/jn8qy4bru.css';
+import '../../css/x/x43vd-ben.css';
+import '../../css/u/um6t86byl.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<defs><path id="SVGpp7O1grd" class="sh78-tbqn"/></defs><g class="ujfncnpwf"><rect class="nmelk9z3r"/><rect class="rq5f0nhll"/><rect class="ubu-m0b9l"/><rect class="ij8jxpbjg"/></g><g class="b_qi0n4ks"><path class="c8jaomb3g"/><rect class="nmelk9z3r"/><rect class="rq5f0nhll"/><rect class="ubu-m0b9l"/><rect class="ij8jxpbjg"/></g><g class="e_raf5bng"><use href="#SVGpp7O1grd"/><use href="#SVGpp7O1grd"/></g><g class="jn8qy4bru"><path class="x43vd-ben"/><path class="um6t86byl"/></g>`,
+		"fallback": "openmoji:nail-polish-dark-skin-tone",
+	});
+}
+
+export default Component;

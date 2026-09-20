@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/fjzxd6bpu.css';
+import '../../css/v/v9yym9ysz.css';
+import '../../css/x/xbzxqe5ja.css';
+import '../../css/r/r6a89c4md.css';
+import '../../css/x/xp86h2b_z.css';
+import '../../css/e/ezbc4mptc.css';
+import '../../css/c/cbd4bob2o.css';
+import '../../css/i/i5k3-lbni.css';
+import '../../css/x/xkdap0b8b.css';
+import '../../css/w/wmvkczb-x.css';
+import '../../css/t/tbchrublz.css';
+import '../../css/n/n6x32qbkr.css';
+import '../../css/r/rprvj-g9d.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="fjzxd6bpu"/><path class="v9yym9ysz"/><path class="xbzxqe5ja"/><path class="r6a89c4md"/><path class="xp86h2b_z"/><path class="ezbc4mptc"/><path class="cbd4bob2o"/><path class="i5k3-lbni"/><path class="xkdap0b8b"/><path class="wmvkczb-x"/><path class="tbchrublz"/><path class="n6x32qbkr"/><path class="rprvj-g9d"/>`,
+		"fallback": "openmoji:man-mechanic-medium-light-skin-tone",
+	});
+}
+
+export default Component;

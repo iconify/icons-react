@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/b/bpl-buwfn.css';
+import '../../css/c/c7h2m3bhv.css';
+import '../../css/f/fhz4febau.css';
+import '../../css/r/rf-1_-jqy.css';
+import '../../css/y/yinqz0wlr.css';
+import '../../css/q/qq0zs63-i.css';
+import '../../css/e/egdtubl0q.css';
+import '../../css/h/h976q0bpi.css';
+import '../../css/q/q8udlte8p.css';
+import '../../css/u/uztq185ac.css';
+import '../../css/i/ibfllzbac.css';
+import '../../css/x/xv-don-_s.css';
+
+const viewBox = {"width":72,"height":72};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="bpl-buwfn"/><path class="c7h2m3bhv"/><path class="fhz4febau"/><path class="rf-1_-jqy"/><path class="yinqz0wlr"/><path class="qq0zs63-i"/><path class="egdtubl0q"/><path class="h976q0bpi"/><path class="q8udlte8p"/><path class="uztq185ac"/><path class="ibfllzbac"/><path class="xv-don-_s"/>`,
+		"fallback": "openmoji:couple-with-heart-woman-man-dark-skin-tone",
+	});
+}
+
+export default Component;

@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/g/gd5b7kbxt.css';
-import '../../css/w/ws22slbke.css';
+import '../../css/e/ebym6xj6w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="gd5b7kbxt"/><path class="ws22slbke"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="gd5b7kbxt"/><path class="ebym6xj6w"/></g>`,
 		"fallback": "tdesign:gesture-ranslation",
 	});
 }

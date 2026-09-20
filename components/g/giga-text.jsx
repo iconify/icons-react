@@ -20,14 +20,6 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.e0dhc2lwe {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M3.147 29.252s4.322-3.134 8.458-3.134v-13.29a6.07 6.07 0 0 1 6.07-6.07h0c1.35 0 2.66.468 3.704 1.324l6.239 5.115a3.15 3.15 0 0 1 .993 3.43h0a3.15 3.15 0 0 1-2.991 2.16h-4.385v10.646");
-}
-
 .garsomv5t {
   fill: none;
   stroke: currentColor;
@@ -46,6 +38,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
+.oi3fe_yad {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M3.147 29.252s4.322-3.134 8.458-3.134v-13.29a6.07 6.07 0 0 1 6.07-6.07c1.35 0 2.66.468 3.704 1.324l6.239 5.115a3.152 3.152 0 0 1-1.998 5.59h-4.385v10.646");
+}
+
 .qrlir5brh {
   fill: none;
   stroke: currentColor;
@@ -61,7 +61,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M23.11 33.71a3.13 3.13 0 0 0 3.04 2.42h9.62c1.72 0 3.11-1.4 3.11-3.12v-5.89c0-1.72-1.39-3.12-3.11-3.12h-9.62c-1.72 0-3.12 1.4-3.12 3.12v2.47");
 }
-</style><circle class="kh48f7uho"/><circle class="cpk0fnbgt"/><path class="e0dhc2lwe"/><path class="garsomv5t"/><path class="xiye5yiaa"/><path class="qrlir5brh"/>`,
+</style><circle class="kh48f7uho"/><circle class="cpk0fnbgt"/><path class="oi3fe_yad"/><path class="garsomv5t"/><path class="xiye5yiaa"/><path class="qrlir5brh"/>`,
 		"fallback": "arcticons:giga-text",
 	});
 }

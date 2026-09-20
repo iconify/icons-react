@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.eprfo-bxo {
-  d: path("M32.338 24.857a2.447 2.447 0 1 1 4.894 0v4.037M24.92 26.447a2.447 2.447 0 0 1-2.447 2.447h0a2.447 2.447 0 0 1-2.447-2.447v-1.59a2.447 2.447 0 0 1 2.447-2.448h0a2.447 2.447 0 0 1 2.447 2.447m0 4.038v-6.485");
+		"content": `<style>.en0ec1bbu {
+  d: path("M32.338 24.857a2.447 2.447 0 1 1 4.894 0v4.037M24.92 26.447a2.447 2.447 0 1 1-4.894 0v-1.59a2.447 2.447 0 1 1 4.894 0m0 4.037v-6.485");
 }
 
 .j3s9ivbxi {
@@ -37,7 +37,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><rect class="j3s9ivbxi"/><g class="y9tr6bcfx"><path class="pxu7x2bkg"/><path class="eprfo-bxo"/></g>`,
+</style><rect class="j3s9ivbxi"/><g class="y9tr6bcfx"><path class="pxu7x2bkg"/><path class="en0ec1bbu"/></g>`,
 		"fallback": "arcticons:i-am",
 	});
 }

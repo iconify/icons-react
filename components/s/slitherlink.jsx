@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.kg_00khgw {
-  d: path("M42.5 15.97h-6.962M5.5 31.938h6.677M22.454 18.58c.39.337.767.491 1.71.491h.162c.872 0 1.579-.731 1.579-1.633h0c0-.902-.707-1.633-1.58-1.633h-1.87v-2.559h3.45m-3.451 21.071c.39.337.767.491 1.71.491h.162c.872 0 1.579-.731 1.579-1.633h0c0-.902-.707-1.633-1.58-1.633h-1.87v-2.558h3.45");
+		"content": `<style>.lzmqmbdid {
+  d: path("M42.5 15.97h-6.962M5.5 31.938h6.677M22.454 18.58c.39.337.767.491 1.71.491h.162c.872 0 1.579-.731 1.579-1.633s-.707-1.633-1.58-1.633h-1.87v-2.559h3.45m-3.451 21.071c.39.337.767.491 1.71.491h.162c.872 0 1.579-.731 1.579-1.633s-.707-1.633-1.58-1.633h-1.87v-2.558h3.45");
 }
 
 .y9tr6bcfx {
@@ -24,7 +24,7 @@ function Component({width, height, ...props}) {
 .z5xi9jbqx {
   d: path("m14.73 32.03l4.621 8.005h9.242l4.621-8.004l-4.62-8.004H19.35l-4.62-8.058l4.62-8.004h9.242l4.621 8.004");
 }
-</style><g class="y9tr6bcfx"><path class="kg_00khgw"/><path class="z5xi9jbqx"/></g>`,
+</style><g class="y9tr6bcfx"><path class="lzmqmbdid"/><path class="z5xi9jbqx"/></g>`,
 		"fallback": "arcticons:slitherlink",
 	});
 }

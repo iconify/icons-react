@@ -20,14 +20,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.dcip7-zny {
+.tip9wdbvf {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M20.71 28.406c.73.613 1.52.894 3.29.894h.897a2.647 2.647 0 0 0 2.645-2.65h0A2.647 2.647 0 0 0 24.897 24h-1.794a2.647 2.647 0 0 1-2.645-2.65h0a2.647 2.647 0 0 1 2.645-2.65H24c1.77 0 2.56.281 3.29.894");
+  d: path("M20.71 28.406c.73.613 1.52.894 3.29.894h.897a2.647 2.647 0 0 0 2.645-2.65A2.647 2.647 0 0 0 24.897 24h-1.794a2.647 2.647 0 0 1-2.645-2.65a2.647 2.647 0 0 1 2.645-2.65H24c1.77 0 2.56.281 3.29.894");
 }
-</style><circle class="cpk0fnbgt"/><path class="dcip7-zny"/>`,
+</style><circle class="cpk0fnbgt"/><path class="tip9wdbvf"/>`,
 		"fallback": "arcticons:letter-lowercase-circle-s",
 	});
 }

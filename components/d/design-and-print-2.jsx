@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.l8s-zdbtg {
+		"content": `<style>.dbr_7rbip {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M26.9 33.65v7.7m0-3.1c0-1.1.9-1.9 1.9-1.9c1.1 0 1.9.9 1.9 1.9v3.2m-18.4-3.2c0-1.1.9-1.9 1.9-1.9m-1.9-.1v5.1m28.3-3.1c0-1.1.9-1.9 1.9-1.9m-1.9-.1v5.1m-17.7-6.7v5.8c0 .5.4 1 1 1h.3m-2.3-5.2h2m13.5 4.2c-.3.6-1 1-1.7 1c-1.1 0-1.9-.9-1.9-1.9v-1.3c0-1.1.9-1.9 1.9-1.9c1.1 0 1.9.9 1.9 1.9v.6h-3.9m-28.2-.6c0-1.1.9-1.9 1.9-1.9c1.1 0 1.9.9 1.9 1.9v1.3c0 1.1-.9 1.9-1.9 1.9c-1.1 0-1.9-.9-1.9-1.9m0 1.8v-7.7m10.7 4.6c0-1.1.9-1.9 1.9-1.9s1.9.9 1.9 1.9v1.3c0 1.1-.9 1.9-1.9 1.9s-1.9-.9-1.9-1.9z");
+}
+
+.l8s-zdbtg {
   width: 19.6px;
   height: 19.6px;
   x: 22.9px;
@@ -22,15 +30,7 @@ function Component({width, height, ...props}) {
   rx: 4.7px;
   ry: 4.7px;
 }
-
-.sripd9b_q {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M26.9 33.65v7.7m0-3.1c0-1.1.9-1.9 1.9-1.9h0c1.1 0 1.9.9 1.9 1.9v3.2m-18.4-3.2c0-1.1.9-1.9 1.9-1.9h0m-1.9-.1v5.1m28.3-3.1c0-1.1.9-1.9 1.9-1.9h0m-1.9-.1v5.1m-17.7-6.7v5.8c0 .5.4 1 1 1h.3m-2.3-5.2h2m13.5 4.2c-.3.6-1 1-1.7 1h0c-1.1 0-1.9-.9-1.9-1.9v-1.3c0-1.1.9-1.9 1.9-1.9h0c1.1 0 1.9.9 1.9 1.9v.6h-3.9m-28.2-.6c0-1.1.9-1.9 1.9-1.9h0c1.1 0 1.9.9 1.9 1.9v1.3c0 1.1-.9 1.9-1.9 1.9h0c-1.1 0-1.9-.9-1.9-1.9m0 1.8v-7.7m10.7 4.6c0-1.1.9-1.9 1.9-1.9s1.9.9 1.9 1.9v1.3c0 1.1-.9 1.9-1.9 1.9s-1.9-.9-1.9-1.9z");
-}
-</style><rect class="l8s-zdbtg"/><path class="sripd9b_q"/>`,
+</style><rect class="l8s-zdbtg"/><path class="dbr_7rbip"/>`,
 		"fallback": "arcticons:design-and-print-2",
 	});
 }

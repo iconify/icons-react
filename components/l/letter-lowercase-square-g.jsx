@@ -10,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.j3s9ivbxi {
+		"content": `<style>.efqaa-fww {
+  d: path("M28 16v12a4 4 0 0 1-4 4a4 4 0 0 1-2.828-1.171");
+}
+
+.j3s9ivbxi {
   width: 37px;
   height: 37px;
   x: 5.5px;
@@ -32,17 +36,13 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.rqpwkubzd {
-  d: path("M28 16v12a4 4 0 0 1-4 4h0a4 4 0 0 1-2.828-1.171");
-}
-
 .y9tr6bcfx {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><rect class="j3s9ivbxi"/><g class="y9tr6bcfx"><path class="rqpwkubzd"/><rect transform="matrix(-1 0 0 -1 48 42.6)" class="ros899qmg"/></g>`,
+</style><rect class="j3s9ivbxi"/><g class="y9tr6bcfx"><path class="efqaa-fww"/><rect transform="matrix(-1 0 0 -1 48 42.6)" class="ros899qmg"/></g>`,
 		"fallback": "arcticons:letter-lowercase-square-g",
 	});
 }

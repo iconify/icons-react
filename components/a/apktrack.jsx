@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.l0dps7k6m {
+		"content": `<style>.b17p6qt5y {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M24 26.63a8.72 8.72 0 0 1 8.72 8.72v0a1.24 1.24 0 0 1-1.24 1.24h-15a1.24 1.24 0 0 1-1.24-1.24v0A8.72 8.72 0 0 1 24 26.63m-7.53-1.31l2.48 2.92m12.58-2.92l-2.48 2.92");
+  d: path("M24 26.63za8.72 8.72 0 0 1 8.72 8.72a1.24 1.24 0 0 1-1.24 1.24h-15a1.24 1.24 0 0 1-1.24-1.24A8.72 8.72 0 0 1 24 26.63m-7.53-1.31l2.48 2.92m12.58-2.92l-2.48 2.92");
 }
 
 .rf1w9abyr {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M20.45 34.16a1.23 1.23 0 1 1 1.22-1.22a1.23 1.23 0 0 1-1.22 1.22m7.12 0a1.23 1.23 0 1 1 1.22-1.22a1.23 1.23 0 0 1-1.22 1.22");
 }
-</style><path class="rf1w9abyr"/><path class="ug9rg2_bw"/><path class="l0dps7k6m"/>`,
+</style><path class="rf1w9abyr"/><path class="ug9rg2_bw"/><path class="b17p6qt5y"/>`,
 		"fallback": "arcticons:apktrack",
 	});
 }

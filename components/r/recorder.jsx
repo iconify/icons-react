@@ -18,14 +18,14 @@ function Component({width, height, ...props}) {
   d: path("M12.23 23.79a12 12 0 0 0 23.54 0");
 }
 
-.gx7tuob1t {
+.oc58d8bnr {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M24 4.5a7.61 7.61 0 0 1 7.61 7.61v9.42A7.61 7.61 0 0 1 24 29.14h0a7.61 7.61 0 0 1-7.61-7.61v-9.42A7.61 7.61 0 0 1 24 4.5m2.94 28.65v9.71a.64.64 0 0 1-.63.64h-4.62a.64.64 0 0 1-.63-.64v-9.71");
+  d: path("M24 4.5za7.61 7.61 0 0 1 7.61 7.61v9.42A7.61 7.61 0 0 1 24 29.14a7.61 7.61 0 0 1-7.61-7.61v-9.42A7.61 7.61 0 0 1 24 4.5m2.94 28.65v9.71a.64.64 0 0 1-.63.64h-4.62a.64.64 0 0 1-.63-.64v-9.71");
 }
-</style><path class="gx7tuob1t"/><path class="dxx0-ftqn"/>`,
+</style><path class="oc58d8bnr"/><path class="dxx0-ftqn"/>`,
 		"fallback": "arcticons:recorder",
 	});
 }

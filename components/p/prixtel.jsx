@@ -17,6 +17,14 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
+.epmsurhxu {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M20.403 22.775a3.5 3.5 0 1 0 7 0V20.5a3.5 3.5 0 1 0-7 0m0-3.5v14");
+}
+
 .j3s9ivbxi {
   width: 37px;
   height: 37px;
@@ -29,15 +37,7 @@ function Component({width, height, ...props}) {
   rx: 4px;
   ry: 4px;
 }
-
-.q_snuccof {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M20.403 22.775a3.5 3.5 0 0 0 3.5 3.5h0a3.5 3.5 0 0 0 3.5-3.5V20.5a3.5 3.5 0 0 0-3.5-3.5h0a3.5 3.5 0 0 0-3.5 3.5m0-3.5v14");
-}
-</style><path class="q_snuccof"/><circle class="avu30ybzo"/><rect class="j3s9ivbxi"/>`,
+</style><path class="epmsurhxu"/><circle class="avu30ybzo"/><rect class="j3s9ivbxi"/>`,
 		"fallback": "arcticons:prixtel",
 	});
 }

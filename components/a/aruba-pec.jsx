@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ipiuapoqb {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M25.328 24.89c-.065.748-.719 1.357-1.467 1.357h0a1.222 1.222 0 0 1-1.237-1.356l.077-.882a1.51 1.51 0 0 1 1.474-1.355h0c.749 0 1.297.6 1.231 1.35");
-}
-
-.jfg66cbwf {
+		"content": `<style>.jfg66cbwf {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -34,6 +26,14 @@ function Component({width, height, ...props}) {
   d: path("M25.53 22.654s-.21 2.236-.266 3.05c-.037.543.55.866 1.048.866c1.132 0 1.772-1 1.844-2.391c.146-2.847-1.597-4.186-3.966-4.186c-2.282 0-4.117 1.775-4.334 4.186c-.182 2.015.909 4.728 3.8 4.728c1.034 0 1.887-.133 2.54-.576");
 }
 
+.ruifpfbbq {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M25.328 24.89c-.065.748-.719 1.357-1.467 1.357a1.222 1.222 0 0 1-1.237-1.356l.077-.882a1.51 1.51 0 0 1 1.474-1.355c.749 0 1.297.6 1.231 1.35");
+}
+
 .zy7g_b22l {
   fill: none;
   stroke: currentColor;
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M29.748 30.204c-.851.852-1.992.175-3.104.636s-1.44 1.747-2.644 1.747s-1.532-1.286-2.644-1.747s-2.253.216-3.104-.636c-.851-.853-.175-1.994-.636-3.107c-.46-1.114-1.745-1.442-1.745-2.647s1.285-1.533 1.745-2.647s-.215-2.254.636-3.106c.851-.853 1.992-.175 3.104-.637c1.112-.46 1.44-1.747 2.644-1.747s1.532 1.286 2.644 1.747s2.253-.216 3.104.637c.851.852.175 1.993.636 3.106c.46 1.114 1.745 1.442 1.745 2.647s-1.285 1.533-1.745 2.647s.215 2.254-.636 3.107");
 }
-</style><path class="jfg66cbwf"/><path class="zy7g_b22l"/><path class="of_axzb-k"/><path class="ipiuapoqb"/>`,
+</style><path class="jfg66cbwf"/><path class="zy7g_b22l"/><path class="of_axzb-k"/><path class="ruifpfbbq"/>`,
 		"fallback": "arcticons:aruba-pec",
 	});
 }

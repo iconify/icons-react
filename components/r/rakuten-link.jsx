@@ -10,19 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.bhku_-bpe {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M29.573 29.043v7.764m0-1.65l3.493-3.494m-2.426 2.426l2.814 2.718m-6.04 0v-3.203a1.947 1.947 0 0 0-1.94-1.94h0a1.947 1.947 0 0 0-1.942 1.94v3.203m0-3.203v-1.941");
-}
-
-.cqty7ubeh {
+		"content": `<style>.cqty7ubeh {
   cx: 21.142px;
   cy: 29.334px;
   r: 0.75px;
   fill: currentColor;
+}
+
+.g81frzvae {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M29.573 29.043v7.764m0-1.65l3.493-3.494m-2.426 2.426l2.814 2.718m-6.04 0v-3.203a1.947 1.947 0 0 0-1.94-1.94a1.947 1.947 0 0 0-1.942 1.94v3.203m0-3.203v-1.941");
 }
 
 .m1mmjf99z {
@@ -40,7 +40,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M21.142 31.663v5.144m-5.748-7.764v7.764h3.882m13.591-26.218c1.524 1.806 3.534 4.427 1.032 7.52a22.68 22.68 0 0 1-20.347 8.698c-3.507-.264-3.45-3.85-3.686-5.64l6.045-1.253l1.142 2.728c6.06.176 10.113-2.563 11.833-4.976l-1.07-3.023z");
 }
-</style><path class="bhku_-bpe"/><circle class="cqty7ubeh"/><path class="s938i_brp"/><path class="m1mmjf99z"/>`,
+</style><path class="g81frzvae"/><circle class="cqty7ubeh"/><path class="s938i_brp"/><path class="m1mmjf99z"/>`,
 		"fallback": "arcticons:rakuten-link",
 	});
 }

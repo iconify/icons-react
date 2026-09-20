@@ -20,6 +20,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
+.ed-2-fbda {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M18.843 41.982c0-11.598 10.298-21 23-21");
+}
+
 .i9clfwm2k {
   fill: none;
   stroke: currentColor;
@@ -27,15 +35,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M38.5 5.5h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4");
 }
-
-.jnej1jbpn {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M18.843 41.982c0-11.598 10.298-21 23-21h0");
-}
-</style><path class="i9clfwm2k"/><circle class="da5e7q66m"/><path class="jnej1jbpn"/>`,
+</style><path class="i9clfwm2k"/><circle class="da5e7q66m"/><path class="ed-2-fbda"/>`,
 		"fallback": "arcticons:huawei-multiscreenshot",
 	});
 }

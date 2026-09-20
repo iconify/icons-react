@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.hqsq0ub7x {
+		"content": `<style>.e9cj38b3q {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M15.791 33.099V14.9m5.617 0c5.965 0 10.8 4.074 10.801 9.1s-4.836 9.1-10.8 9.1z");
+}
+
+.hqsq0ub7x {
   width: 39px;
   height: 31px;
   x: 4.5px;
@@ -21,15 +29,7 @@ function Component({width, height, ...props}) {
   rx: 4px;
   ry: 4px;
 }
-
-.kl4st9bea {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M15.791 33.099V14.9m5.617 0c5.965 0 10.8 4.074 10.801 9.1h0c0 5.026-4.836 9.1-10.8 9.1h0z");
-}
-</style><rect class="hqsq0ub7x"/><path class="kl4st9bea"/>`,
+</style><rect class="hqsq0ub7x"/><path class="e9cj38b3q"/>`,
 		"fallback": "arcticons:dir",
 	});
 }

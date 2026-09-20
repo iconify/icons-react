@@ -16,8 +16,8 @@ function Component({width, height, ...props}) {
   r: 21.5px;
 }
 
-.jhvxirisz {
-  d: path("M41.31 18.056v-2.101m-3.712.085l-.004-.12a1.859 1.859 0 1 1 3.718 0h0c0 .04.002.128 0 .168");
+.ih514ybpn {
+  d: path("M41.31 18.056v-2.101m-3.712.085l-.004-.12a1.859 1.859 0 1 1 3.718 0c0 .04.002.128 0 .168");
 }
 
 .lwkk92ift {
@@ -36,7 +36,7 @@ function Component({width, height, ...props}) {
   cy: 24.197px;
   r: 1.859px;
 }
-</style><g class="y9tr6bcfx"><circle class="f_v_dfbgn"/><path class="lwkk92ift"/><circle class="yut2ubb3v"/><path class="jhvxirisz"/></g>`,
+</style><g class="y9tr6bcfx"><circle class="f_v_dfbgn"/><path class="lwkk92ift"/><circle class="yut2ubb3v"/><path class="ih514ybpn"/></g>`,
 		"fallback": "arcticons:everywhere-launcher-unlocker",
 	});
 }

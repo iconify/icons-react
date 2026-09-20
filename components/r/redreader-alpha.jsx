@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.dnp9fvrux {
+		"content": `<style>.hd627-v6k {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M40.562 39.402a2.586 2.586 0 0 1-2.578 2.578h0a2.586 2.586 0 0 1-2.578-2.578v-1.675a2.586 2.586 0 0 1 2.578-2.579h0a2.586 2.586 0 0 1 2.578 2.579m1.032 4.125c-.516 0-1.032-.516-1.032-1.032v-5.8");
+  d: path("M40.562 39.402a2.586 2.586 0 0 1-2.578 2.578a2.586 2.586 0 0 1-2.578-2.578v-1.675a2.586 2.586 0 0 1 2.578-2.579a2.586 2.586 0 0 1 2.578 2.579m1.032 4.125c-.516 0-1.032-.516-1.032-1.032v-5.8");
 }
 
 .iu21if3ja {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M32.76 42.5H9.5c-2.216 0-4-1.784-4-4v-29c0-2.216 1.784-4 4-4h29c2.216 0 4 1.784 4 4v23.26");
 }
-</style><path class="lv2h0ab9i"/><path class="iu21if3ja"/><path class="dnp9fvrux"/>`,
+</style><path class="lv2h0ab9i"/><path class="iu21if3ja"/><path class="hd627-v6k"/>`,
 		"fallback": "arcticons:redreader-alpha",
 	});
 }

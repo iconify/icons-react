@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.cy2dmfbqq {
+		"content": `<style>.awlrjkb2c {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M27.768 24.292a2.793 2.793 0 0 1 2.792-2.793m-2.792 0v7.4");
+}
+
+.cy2dmfbqq {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -31,21 +39,13 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.pws04414a {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M27.768 24.292a2.793 2.793 0 0 1 2.792-2.793h0m-2.792 0v7.4");
-}
-
 .sbm5qwbdb {
   cx: 33.523px;
   cy: 18.078px;
   r: 0.75px;
   fill: currentColor;
 }
-</style><rect class="j3s9ivbxi"/><path class="pws04414a"/><circle class="sbm5qwbdb"/><path class="cy2dmfbqq"/>`,
+</style><rect class="j3s9ivbxi"/><path class="awlrjkb2c"/><circle class="sbm5qwbdb"/><path class="cy2dmfbqq"/>`,
 		"fallback": "arcticons:tori",
 	});
 }

@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.qfz4h_bxr {
+		"content": `<style>.izi-qdgdo {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M18.41 5.5v37m12.09-37v37M10.033 14.627a2.78 2.78 0 0 0 2.1.61h.27a2.32 2.32 0 0 0 2.28-2.28a2.32 2.32 0 0 0-2.28-2.28h-2.37v-2.46h4.65M42.5 18h-37m37 12.46h-37m19.561-2.362a2.006 2.006 0 0 0 2-2a2.006 2.006 0 0 0-2-2a2.006 2.006 0 0 0 2-2a2.006 2.006 0 0 0-2-2m-3.3 7.4a3.25 3.25 0 0 0 2.5.7h.8m-3.3-7.4a3.4 3.4 0 0 1 2.5-.7h.8");
+}
+
+.qfz4h_bxr {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -27,15 +35,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-
-.wjk3ut50a {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M18.41 5.5v37m12.09-37v37M10.033 14.627a2.78 2.78 0 0 0 2.1.61h.27a2.32 2.32 0 0 0 2.28-2.28h0a2.32 2.32 0 0 0-2.28-2.28h-2.37v-2.46h4.65M42.5 18h-37m37 12.46h-37m19.561-2.362a2.006 2.006 0 0 0 2-2h0a2.006 2.006 0 0 0-2-2h0a2.006 2.006 0 0 0 2-2h0a2.006 2.006 0 0 0-2-2m-3.3 7.4a3.25 3.25 0 0 0 2.5.7h.8m-3.3-7.4a3.4 3.4 0 0 1 2.5-.7h.8");
-}
-</style><path class="wjk3ut50a"/><circle class="quwhzdwil"/><path class="qfz4h_bxr"/>`,
+</style><path class="izi-qdgdo"/><circle class="quwhzdwil"/><path class="qfz4h_bxr"/>`,
 		"fallback": "arcticons:sudokuoss",
 	});
 }

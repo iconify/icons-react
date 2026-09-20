@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.c_nk-bczc {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M5.986 40.398c-.044-4.348.554-9.152 1.73-13.907c2.218-8.974 6.262-16.854 10.743-20.94M29.423 5.5c3.535 4.982 4.067 15.593 1.338 26.633c-.9 3.636-2.114 7.154-3.57 10.335M24.07 33.42c-.922 1.563-2.66 2.617-4.65 2.617h0c-2.953 0-5.348-2.321-5.348-5.185v-3.368c0-2.863 2.394-5.184 5.349-5.184h0c2.954 0 5.35 2.32 5.35 5.183v1.686h-10.7");
-}
-
-.e2u5y17es {
+		"content": `<style>.e2u5y17es {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -47,6 +39,14 @@ function Component({width, height, ...props}) {
   ry: 3.99px;
 }
 
+.n84z1eb4v {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M5.986 40.398c-.044-4.348.554-9.152 1.73-13.907c2.218-8.974 6.262-16.854 10.743-20.94M29.423 5.5c3.535 4.982 4.067 15.593 1.338 26.633c-.9 3.636-2.114 7.154-3.57 10.335M24.07 33.42c-.922 1.563-2.66 2.617-4.65 2.617c-2.953 0-5.348-2.321-5.348-5.185v-3.368c0-2.863 2.394-5.184 5.349-5.184s5.35 2.32 5.35 5.183v1.686h-10.7");
+}
+
 .vqk74zbhk {
   fill: none;
   stroke: currentColor;
@@ -54,7 +54,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M5.5 24.1a60 60 0 0 1 7.396-5.087c12.977-7.593 26.19-9.202 29.552-3.6m.052 6.551c-2.167 5.713-8.915 12.432-17.575 17.499a62 62 0 0 1-5.82 3.005");
 }
-</style><path class="e2u5y17es"/><path class="vqk74zbhk"/><path class="g3l64_z2u"/><path class="c_nk-bczc"/><rect class="h-zopob_v"/>`,
+</style><path class="e2u5y17es"/><path class="vqk74zbhk"/><path class="g3l64_z2u"/><path class="n84z1eb4v"/><rect class="h-zopob_v"/>`,
 		"fallback": "arcticons:ewelink",
 	});
 }

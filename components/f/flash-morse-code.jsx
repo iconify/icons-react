@@ -20,14 +20,6 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.h7cirdbaa {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M16.2 20.1a3.9 3.9 0 0 1 3.9 3.9v15.6a3.9 3.9 0 0 1-3.9 3.9h0a3.9 3.9 0 0 1-3.9-3.9V24a3.9 3.9 0 0 1 3.9-3.9");
-}
-
 .i58ae2blo {
   cx: 31.8px;
   cy: 8.4px;
@@ -47,7 +39,15 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="h7cirdbaa"/><circle class="elmf8_b8e"/><circle class="i58ae2blo"/><circle class="i5rdw2b1f"/>`,
+
+.t2d5dwbrg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M16.2 20.1za3.9 3.9 0 0 1 3.9 3.9v15.6a3.9 3.9 0 0 1-7.8 0V24a3.9 3.9 0 0 1 3.9-3.9");
+}
+</style><path class="t2d5dwbrg"/><circle class="elmf8_b8e"/><circle class="i58ae2blo"/><circle class="i5rdw2b1f"/>`,
 		"fallback": "arcticons:flash-morse-code",
 	});
 }

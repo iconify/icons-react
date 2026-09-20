@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.e_v15z0dz {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M28 29.3v-6.6a4 4 0 0 0-4-4h0a4 4 0 0 0-4 4m0 6.6V18.7");
-}
-
-.j3s9ivbxi {
+		"content": `<style>.j3s9ivbxi {
   width: 37px;
   height: 37px;
   x: 5.5px;
@@ -30,7 +22,15 @@ function Component({width, height, ...props}) {
   rx: 4px;
   ry: 4px;
 }
-</style><rect class="j3s9ivbxi"/><path class="e_v15z0dz"/>`,
+
+.pd94pmg8x {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M28 29.3v-6.6a4 4 0 0 0-8 0m0 6.6V18.7");
+}
+</style><rect class="j3s9ivbxi"/><path class="pd94pmg8x"/>`,
 		"fallback": "arcticons:letter-lowercase-n",
 	});
 }

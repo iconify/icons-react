@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gpofll4wz {
+		"content": `<style>.bjac1bqww {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M13.393 20.49c5.858-5.857 15.355-5.857 21.213 0m-16.263 4.95a8 8 0 0 1 11.314 0h0");
+  d: path("M13.393 20.49c5.858-5.857 15.355-5.857 21.213 0m-16.263 4.95a8 8 0 0 1 11.314 0");
 }
 
 .kg4ghsblu {
@@ -35,7 +35,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="gpofll4wz"/><circle class="yz9fesbuz"/><path class="kg4ghsblu"/>`,
+</style><path class="bjac1bqww"/><circle class="yz9fesbuz"/><path class="kg4ghsblu"/>`,
 		"fallback": "arcticons:secure-wi-fi",
 	});
 }

@@ -24,8 +24,8 @@ function Component({width, height, ...props}) {
   r: 2.56px;
 }
 
-.rd_0s8adt {
-  d: path("M33.238 37.597a17 17 0 0 1-9.683 3.034c-9.519 0-17.235-7.864-17.235-17.566c0-9.7 7.716-17.565 17.235-17.565h0c9.519 0 17.235 7.864 17.235 17.565h0a17.78 17.78 0 0 1-3.687 10.858");
+.onz3kab9l {
+  d: path("M33.238 37.597a17 17 0 0 1-9.683 3.034c-9.519 0-17.235-7.864-17.235-17.566c0-9.7 7.716-17.565 17.235-17.565S40.79 13.364 40.79 23.065a17.78 17.78 0 0 1-3.687 10.858");
 }
 
 .wsc9q2a4k {
@@ -44,7 +44,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><circle class="olk-khbjb"/><path class="hdpzeebeb"/><path class="b_aseob1v"/><path class="rd_0s8adt"/><path class="x1ie-hm9t"/><circle class="wsc9q2a4k"/></g>`,
+</style><g class="y9tr6bcfx"><circle class="olk-khbjb"/><path class="hdpzeebeb"/><path class="b_aseob1v"/><path class="onz3kab9l"/><path class="x1ie-hm9t"/><circle class="wsc9q2a4k"/></g>`,
 		"fallback": "arcticons:xprivacylua",
 	});
 }

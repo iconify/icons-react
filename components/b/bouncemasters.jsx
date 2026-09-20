@@ -15,20 +15,20 @@ function Component({width, height, ...props}) {
   d: path("M30.215 13.38a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0m7.102 0a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0");
 }
 
-.drpjs0bfa {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M35.115 12.336a3.1 3.1 0 0 1 6.006 1.07h0a3.099 3.099 0 0 1-6.18.317m-9.795.683a3.099 3.099 0 1 1 6.031-1h0c0 .34-.056.678-.166 1z");
-}
-
 .g2wj9jbhp {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   d: path("M9.5 5.5h29c2.216 0 4 1.784 4 4v29c0 2.216-1.784 4-4 4h-29c-2.216 0-4-1.784-4-4v-29c0-2.216 1.784-4 4-4");
+}
+
+.g4m8kub-r {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M35.115 12.336a3.1 3.1 0 0 1 6.006 1.07a3.099 3.099 0 0 1-6.18.317m-9.795.683a3.099 3.099 0 1 1 6.031-1c0 .34-.056.678-.166 1z");
 }
 
 .i5zv3nvmy {
@@ -78,7 +78,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M14.949 26.553c-.175.929-.217 1.855-.184 2.914c.018.563-.095 1.054-.856.923c-1.014-.175-1.806-.572-2.5-1.078c-.62-.451-.594-1.04-.333-1.492c.685-1.186 1.591-2.642 2.433-3.57m7.091 7.466c-.695 1.008-1.151 1.687-2.142 2.461c-.409.32-1.013.708-1.494.295c-.287-.246-1.608-2.055-1.642-3.14c-.01-.308.027-.646.415-.83c.374-.176.491.4.771.359c1.009-.153 2.07-.586 2.88-1.083m-9.798-.059a56 56 0 0 0-3.03 10.949M14.554 20.2q-.495.73-.965 1.484m2.971 14.974c-2.26 1.705-4.367 3.627-6.027 5.577m14.444-10.499q-1.64.674-3.19 1.53");
 }
-</style><path class="cylvkx53e"/><path class="g2wj9jbhp"/><path class="i5zv3nvmy"/><path class="drpjs0bfa"/><path class="ttnc9j90q"/><path class="ilr52xb0f"/><path class="u-50ffbxs"/><path class="smn0-ebvy"/><path class="zw75u4byt"/>`,
+</style><path class="cylvkx53e"/><path class="g2wj9jbhp"/><path class="i5zv3nvmy"/><path class="g4m8kub-r"/><path class="ttnc9j90q"/><path class="ilr52xb0f"/><path class="u-50ffbxs"/><path class="smn0-ebvy"/><path class="zw75u4byt"/>`,
 		"fallback": "arcticons:bouncemasters",
 	});
 }

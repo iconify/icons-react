@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.mxxh-mnnh {
+		"content": `<style>.lh4n70brq {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M22.25 26a8.5 8.5 0 0 1-7.361-4.25c-1.673-2.727-1.99-5.968 0-8.5A8.5 8.5 0 0 1 22.249 9m3.501 13a8.5 8.5 0 0 1 0 17");
+}
+
+.mxxh-mnnh {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -25,15 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M22.25 21.5a4 4 0 1 1 0-8m3.5 13a4 4 0 0 1 0 8");
 }
-
-.yhzqdky0b {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M22.25 26a8.5 8.5 0 0 1-7.361-4.25c-1.673-2.727-1.99-5.968 0-8.5A8.5 8.5 0 0 1 22.249 9m3.501 13a8.5 8.5 0 0 1 8.5 8.5h0a8.5 8.5 0 0 1-8.5 8.5h0");
-}
-</style><path class="mxxh-mnnh"/><path class="yhzqdky0b"/><path class="sgjudib7d"/>`,
+</style><path class="mxxh-mnnh"/><path class="lh4n70brq"/><path class="sgjudib7d"/>`,
 		"fallback": "arcticons:stemz",
 	});
 }

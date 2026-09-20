@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ew59ewb9n {
+		"content": `<style>.evpct9bdp {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M24.36 40.73h3.178c.716 0 1.384-.362 1.774-.963l4.094-6.315a2.25 2.25 0 0 1 1.884-1.024");
+}
+
+.ew59ewb9n {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -26,14 +34,6 @@ function Component({width, height, ...props}) {
   d: path("m23.43 38.758l6.037-9.458a7.35 7.35 0 0 0-.054-7.996L18.367 4.5l-1.94 3.103a3.2 3.2 0 0 0 .039 3.459l.021.033");
 }
 
-.nrtfsdici {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M24.36 40.73h3.178c.716 0 1.384-.362 1.774-.963l4.094-6.315a2.25 2.25 0 0 1 1.884-1.024h0");
-}
-
 .xb02-7biy {
   fill: none;
   stroke: currentColor;
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("m18.512 40.73l6.8-10.654a5.16 5.16 0 0 0-.038-5.614L15.337 9.345l-2.468 3.642a3.2 3.2 0 0 0-.046 3.527l.058.09");
 }
-</style><path class="xb02-7biy"/><path class="lvugp06qn"/><path class="ew59ewb9n"/><path class="nrtfsdici"/>`,
+</style><path class="xb02-7biy"/><path class="lvugp06qn"/><path class="ew59ewb9n"/><path class="evpct9bdp"/>`,
 		"fallback": "arcticons:singapore-airlines",
 	});
 }

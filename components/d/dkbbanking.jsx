@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.imi055_dc {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M29.699 29.543V18.424m.001 0h4.68a2.79 2.79 0 0 1 2.788 2.788h0A2.79 2.79 0 0 1 34.38 24H29.7m0 0h4.68a2.79 2.79 0 0 1 2.788 2.788h0a2.79 2.79 0 0 1-2.788 2.788H29.7m-18.868 0V18.424h1.893A5.576 5.576 0 0 1 18.3 24h0a5.576 5.576 0 0 1-5.576 5.576zm10.388-11.16v11.152m1.442-5.576l4.118-5.539m-4.118 5.539l4.118 5.592m-4.118-5.592H21.22");
-}
-
-.p1um_wbqu {
+		"content": `<style>.p1um_wbqu {
   width: 37px;
   height: 37px;
   x: 5.501px;
@@ -30,7 +22,15 @@ function Component({width, height, ...props}) {
   rx: 4px;
   ry: 4px;
 }
-</style><path class="imi055_dc"/><rect class="p1um_wbqu"/>`,
+
+.wpvqw_yce {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M29.699 29.543V18.424m.001 0h4.68a2.788 2.788 0 1 1 0 5.576H29.7m0 0h4.68a2.788 2.788 0 1 1 0 5.576H29.7m-18.868 0V18.424h1.893a5.576 5.576 0 1 1 0 11.152zm10.388-11.16v11.152m1.442-5.576l4.118-5.539m-4.118 5.539l4.118 5.592m-4.118-5.592H21.22");
+}
+</style><path class="wpvqw_yce"/><rect class="p1um_wbqu"/>`,
 		"fallback": "arcticons:dkbbanking",
 	});
 }

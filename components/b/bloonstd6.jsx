@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.as_k3fqrh {
+		"content": `<style>.de4r46ddp {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M32.975 36.105c-1.22.007-4.347.228-4.68.656c-.167.243-.043-.032-.09.927h0c.04 1.055.112 1.03.474 1.334c.475 2.09 1.292 4.628 4.134 4.47h3.657c7.568-3.726 6.574-8.365 3.378-9.715m-11.17 5.245L30.871 39m-1.541 2.147l1.836.09");
+  d: path("M32.975 36.105c-1.22.007-4.347.228-4.68.656c-.167.243-.043-.032-.09.927c.04 1.055.112 1.03.474 1.334c.475 2.09 1.292 4.628 4.134 4.47h3.657c7.568-3.726 6.574-8.365 3.378-9.715m-11.17 5.245L30.871 39m-1.541 2.147l1.836.09");
 }
 
 .paz4erbuq {
@@ -91,7 +91,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M25.688 27.718a3.17 3.17 0 0 1 1.59 2.035c.056.447 0 1.098-.408 1.289c-.549.257-1.32-.3-1.763-.73m-6.896-3.288c-.02 1.029-.196 2.164.362 2.751a1.04 1.04 0 0 0 1.198.227c.446-.306.31-1.303.317-1.703m-4.832 12.5L6.87 43.284m3.302-6.117l-4.417 1.287m4.417-1.287c2.457-.513 5.443 2.635 5.084 3.633c2.067-.235 3.493 1.841 3.66 2.693");
 }
-</style><path class="r96yymbwe"/><circle class="pn5es2bnw"/><path class="sei23-b6b"/><path class="qnuk6dxup"/><path class="tv2fegb6i"/><path class="v-h119cic"/><path class="paz4erbuq"/><path class="pf1-g5btn"/><path class="q2zikqb6h"/><path class="as_k3fqrh"/>`,
+</style><path class="r96yymbwe"/><circle class="pn5es2bnw"/><path class="sei23-b6b"/><path class="qnuk6dxup"/><path class="tv2fegb6i"/><path class="v-h119cic"/><path class="paz4erbuq"/><path class="pf1-g5btn"/><path class="q2zikqb6h"/><path class="de4r46ddp"/>`,
 		"fallback": "arcticons:bloonstd6",
 	});
 }

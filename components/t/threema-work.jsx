@@ -38,20 +38,20 @@ function Component({width, height, ...props}) {
   d: path("M19.02 17.78h9.96m-2.41 1.965l-1.28 5.12l-1.28-5.12l-1.28 5.12l-1.28-5.12");
 }
 
+.mztl6ppsg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M24 8.65a5 5 0 0 1 5 5v4.15h.71a1 1 0 0 1 .95.95V26a1 1 0 0 1-.95.95h-11.4a1 1 0 0 1-.95-.95v-7.27a1 1 0 0 1 .95-.95H19v-4.15a5 5 0 0 1 5-4.98");
+}
+
 .nh0bibcce {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   d: path("M24 4.5c-10.08 0-18.26 6.32-18.26 14.11a12.66 12.66 0 0 0 5.06 9.73L7.34 35l10.2-3.21a22.9 22.9 0 0 0 6.46.93c10.08 0 18.26-6.31 18.26-14.1S34.08 4.5 24 4.5");
-}
-
-.oqgv17b_j {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M24 8.65a5 5 0 0 1 5 5v4.15h.71a1 1 0 0 1 .95.95h0V26a1 1 0 0 1-.95.95h-11.4a1 1 0 0 1-.95-.95h0v-7.27a1 1 0 0 1 .95-.95H19v-4.15a5 5 0 0 1 5-4.98");
 }
 
 .xci3rjb6a {
@@ -63,7 +63,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="nh0bibcce"/><path class="oqgv17b_j"/><circle class="bcofmaczm"/><circle class="xci3rjb6a"/><circle class="ff9qsyb5f"/><path class="i0ba6xl1w"/>`,
+</style><path class="nh0bibcce"/><path class="mztl6ppsg"/><circle class="bcofmaczm"/><circle class="xci3rjb6a"/><circle class="ff9qsyb5f"/><path class="i0ba6xl1w"/>`,
 		"fallback": "arcticons:threema-work",
 	});
 }

@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.j3s9ivbxi {
+		"content": `<style>.f4ufup5tv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M26.902 24v18.5m0-7.631a4.625 4.625 0 0 1 9.25 0V42.5");
+}
+
+.j3s9ivbxi {
   width: 37px;
   height: 37px;
   x: 5.5px;
@@ -22,15 +30,7 @@ function Component({width, height, ...props}) {
   rx: 4px;
   ry: 4px;
 }
-
-.ln309zu8d {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M26.902 24v18.5m0-7.631a4.625 4.625 0 0 1 4.625-4.625h0a4.625 4.625 0 0 1 4.625 4.625V42.5");
-}
-</style><rect class="j3s9ivbxi"/><path class="ln309zu8d"/>`,
+</style><rect class="j3s9ivbxi"/><path class="f4ufup5tv"/>`,
 		"fallback": "arcticons:heatzy",
 	});
 }

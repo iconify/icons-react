@@ -26,12 +26,12 @@ function Component({width, height, ...props}) {
   d: path("M18.236 18.833a1.985 1.985 0 1 1 1.985-1.984a1.985 1.985 0 0 1-1.985 1.984m11.551 0a1.985 1.985 0 1 1 1.984-1.984a1.985 1.985 0 0 1-1.985 1.984");
 }
 
-.pb6_s0biy {
+.nencdfotv {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M24 6.615a14.147 14.147 0 0 1 14.147 14.147v2.02h0H9.853h0v-2.02A14.147 14.147 0 0 1 24 6.615M11.784 4.5l4.019 4.731M36.216 4.5l-4.019 4.731");
+  d: path("M24 6.615za14.147 14.147 0 0 1 14.147 14.147v2.02H9.853v-2.02A14.147 14.147 0 0 1 24 6.615M11.784 4.5l4.019 4.731M36.216 4.5l-4.019 4.731");
 }
 
 .ywm-8ytqp {
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M9.853 22.781h28.294v18.282A2.44 2.44 0 0 1 35.71 43.5H12.29a2.44 2.44 0 0 1-2.437-2.437z");
 }
-</style><path class="jvph6fbpq"/><path class="pb6_s0biy"/><path class="ywm-8ytqp"/><path class="i1e2robad"/>`,
+</style><path class="jvph6fbpq"/><path class="nencdfotv"/><path class="ywm-8ytqp"/><path class="i1e2robad"/>`,
 		"fallback": "arcticons:packagemanager",
 	});
 }

@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.opjyvo_8m {
+		"content": `<style>.d4e0p2llr {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M32.11 24A8.11 8.11 0 0 1 24 32.11h0A8.11 8.11 0 0 1 15.89 24h0a8.11 8.11 0 0 1 16.22 0m8.567 0c0 9.21-7.467 16.677-16.677 16.677S7.323 33.21 7.323 24S14.79 7.323 24 7.323S40.677 14.79 40.677 24m4.823 0c0 11.874-9.626 21.5-21.5 21.5h0C12.126 45.5 2.5 35.874 2.5 24h0C2.5 12.126 12.126 2.5 24 2.5h0c11.874 0 21.5 9.626 21.5 21.5");
+  d: path("M32.11 24a8.11 8.11 0 0 1-16.22 0a8.11 8.11 0 0 1 16.22 0m8.567 0c0 9.21-7.467 16.677-16.677 16.677S7.323 33.21 7.323 24S14.79 7.323 24 7.323S40.677 14.79 40.677 24m4.823 0c0 11.874-9.626 21.5-21.5 21.5S2.5 35.874 2.5 24S12.126 2.5 24 2.5S45.5 12.126 45.5 24");
 }
-</style><path class="opjyvo_8m"/>`,
+</style><path class="d4e0p2llr"/>`,
 		"fallback": "arcticons:fennec-for-lemmy",
 	});
 }

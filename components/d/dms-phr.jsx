@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ch0-i7bbv {
+		"content": `<style>.esi2wrb4l {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M34.814 19.745a2.875 2.875 0 0 1-2.875 2.875h0a2.875 2.875 0 0 1-2.875-2.875h0a2.875 2.875 0 0 1 2.875-2.875h0a2.875 2.875 0 0 1 2.875 2.875");
+  d: path("M34.814 19.745a2.875 2.875 0 1 1-5.75 0a2.875 2.875 0 1 1 5.75 0");
 }
 
 .g2wj9jbhp {
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M5.5 20.28h18.95c.243 0 .565.057.675.273l1.394 2.769c.135.266.52.364.819.364H42.5");
 }
-</style><path class="g2wj9jbhp"/><path class="s9jo8j2gd"/><path class="jri4lt1hj"/><path class="ch0-i7bbv"/>`,
+</style><path class="g2wj9jbhp"/><path class="s9jo8j2gd"/><path class="jri4lt1hj"/><path class="esi2wrb4l"/>`,
 		"fallback": "arcticons:dms-phr",
 	});
 }

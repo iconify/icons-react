@@ -20,14 +20,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.lj2i_fb5a {
+.sq0rgbboo {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M20 22.6a4 4 0 0 0 4 4h0a4 4 0 0 0 4-4V20a4 4 0 0 0-4-4h0a4 4 0 0 0-4 4m0-4v16");
+  d: path("M20 22.6a4 4 0 0 0 8 0V20a4 4 0 0 0-8 0m0-4v16");
 }
-</style><circle class="cpk0fnbgt"/><path class="lj2i_fb5a"/>`,
+</style><circle class="cpk0fnbgt"/><path class="sq0rgbboo"/>`,
 		"fallback": "arcticons:letter-lowercase-circle-p",
 	});
 }

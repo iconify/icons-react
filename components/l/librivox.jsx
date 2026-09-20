@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gbnh3d5px {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M28.764 25.966c0-4.489-1.936-5.99-4.764-5.99s-4.764 1.501-4.764 5.99m-.55 0h.55v5.324h0h-.55a1.826 1.826 0 0 1-1.826-1.826v-1.672a1.826 1.826 0 0 1 1.826-1.826m10.628 5.324h-.55h0v-5.324h.55a1.826 1.826 0 0 1 1.826 1.826v1.672a1.826 1.826 0 0 1-1.826 1.826");
-}
-
-.kjnmsbc6l {
+		"content": `<style>.kjnmsbc6l {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -57,7 +49,15 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M24 42.476L5.5 38.004V9.948L24 16.351m0 26.125l11.062-8.896V5.524L24 16.351");
 }
-</style><path class="gbnh3d5px"/><path class="kjnmsbc6l"/><path class="rt4tnccpt"/><path class="ui2fq6hom"/><path class="o4i22rebh"/><path class="msfpmgb7u"/>`,
+
+.xvq3cqbnz {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M28.764 25.966c0-4.489-1.936-5.99-4.764-5.99s-4.764 1.501-4.764 5.99m-.55 0h.55v5.324h-.55a1.826 1.826 0 0 1-1.826-1.826v-1.672a1.826 1.826 0 0 1 1.826-1.826m10.628 5.324h-.55v-5.324h.55a1.826 1.826 0 0 1 1.826 1.826v1.672a1.826 1.826 0 0 1-1.826 1.826");
+}
+</style><path class="xvq3cqbnz"/><path class="kjnmsbc6l"/><path class="rt4tnccpt"/><path class="ui2fq6hom"/><path class="o4i22rebh"/><path class="msfpmgb7u"/>`,
 		"fallback": "arcticons:librivox",
 	});
 }

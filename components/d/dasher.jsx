@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.fsg5_ubsv {
+		"content": `<style>.kg0y7n6ik {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M23.224 31.315h5.278a4.113 4.113 0 0 0 4.113-4.113h0a4.113 4.113 0 0 0-4.114-4.114H15.386");
+  d: path("M23.224 31.315h5.278a4.113 4.113 0 0 0 4.113-4.113a4.113 4.113 0 0 0-4.114-4.114H15.386");
 }
 
 .s4_gmnovw {
@@ -37,7 +37,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   rx: 1.384px;
 }
-</style><path class="fsg5_ubsv"/><rect class="tk1y-acic"/><path class="s4_gmnovw"/>`,
+</style><path class="kg0y7n6ik"/><rect class="tk1y-acic"/><path class="s4_gmnovw"/>`,
 		"fallback": "arcticons:dasher",
 	});
 }

@@ -10,12 +10,20 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.bqrnptx7k {
+		"content": `<style>.d6iqp2bjo {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M14.316 21.181a3.68 3.68 0 0 1 3.682-3.682h0a3.68 3.68 0 0 1 3.683 3.682v6.076m-7.365-9.758v9.758");
+  d: path("M14.316 21.181a3.682 3.682 0 1 1 7.365 0v6.076m-7.365-9.758v9.758");
+}
+
+.df-kvnbym {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M21.68 21.181a3.682 3.682 0 1 1 7.365 0v6.076");
 }
 
 .dtviotcjo {
@@ -34,21 +42,13 @@ function Component({width, height, ...props}) {
   d: path("M38.5 5.5h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4");
 }
 
-.sr17avbro {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M21.68 21.181a3.68 3.68 0 0 1 3.683-3.682h0a3.68 3.68 0 0 1 3.683 3.682v6.076");
-}
-
 .tu7u57s8z {
   cx: 32.934px;
   cy: 30.028px;
   r: 0.75px;
   fill: currentColor;
 }
-</style><path class="i9clfwm2k"/><path class="bqrnptx7k"/><path class="sr17avbro"/><circle class="tu7u57s8z"/><path class="dtviotcjo"/>`,
+</style><path class="i9clfwm2k"/><path class="d6iqp2bjo"/><path class="df-kvnbym"/><circle class="tu7u57s8z"/><path class="dtviotcjo"/>`,
 		"fallback": "arcticons:moey",
 	});
 }

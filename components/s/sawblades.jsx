@@ -52,12 +52,12 @@ function Component({width, height, ...props}) {
   d: path("M5.5 9.337s9.003-4.716 16.187 6.305");
 }
 
-.rrzkqlbdj {
+.rk-z3x_uu {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M38.473 5.5H9.497A3.997 3.997 0 0 0 5.5 9.497v28.976a3.997 3.997 0 0 0 3.997 3.997h28.976a3.997 3.997 0 0 0 3.997-3.997h0V9.497A3.997 3.997 0 0 0 38.473 5.5");
+  d: path("M38.473 5.5H9.497A3.997 3.997 0 0 0 5.5 9.497v28.976a3.997 3.997 0 0 0 3.997 3.997h28.976a3.997 3.997 0 0 0 3.997-3.997V9.497A3.997 3.997 0 0 0 38.473 5.5");
 }
 
 .vc0cekeky {
@@ -78,7 +78,7 @@ function Component({width, height, ...props}) {
   rx: 6.585px;
   ry: 5.206px;
 }
-</style><path class="rrzkqlbdj"/><ellipse transform="rotate(-84.356 14.438 25.272)" class="z5-_cwecd"/><path class="ec_fnrezm"/><path class="l6rcolbrj"/><circle class="ct_dzns7n"/><path class="cg--8zflr"/><path class="n5eg7zivc"/><path class="vc0cekeky"/>`,
+</style><path class="rk-z3x_uu"/><ellipse transform="rotate(-84.356 14.438 25.272)" class="z5-_cwecd"/><path class="ec_fnrezm"/><path class="l6rcolbrj"/><circle class="ct_dzns7n"/><path class="cg--8zflr"/><path class="n5eg7zivc"/><path class="vc0cekeky"/>`,
 		"fallback": "arcticons:sawblades",
 	});
 }

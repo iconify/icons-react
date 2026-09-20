@@ -20,12 +20,12 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.kum348bkw {
+.tnsc6ztsj {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M20.378 20.037v8.972A2.99 2.99 0 0 1 17.388 32h0a2.98 2.98 0 0 1-2.115-.876");
+  d: path("M20.378 20.037v8.972A2.99 2.99 0 0 1 17.388 32a2.98 2.98 0 0 1-2.115-.876");
 }
 
 .wz7xqzbyc {
@@ -48,7 +48,7 @@ function Component({width, height, ...props}) {
   rx: 2.991px;
   ry: 2.991px;
 }
-</style><path class="kum348bkw"/><rect transform="matrix(-1 0 0 -1 34.775 48)" class="xdem-_bzz"/><path class="wz7xqzbyc"/><circle class="cpk0fnbgt"/>`,
+</style><path class="tnsc6ztsj"/><rect transform="matrix(-1 0 0 -1 34.775 48)" class="xdem-_bzz"/><path class="wz7xqzbyc"/><circle class="cpk0fnbgt"/>`,
 		"fallback": "arcticons:glo-cafe",
 	});
 }

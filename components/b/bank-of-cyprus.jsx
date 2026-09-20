@@ -82,14 +82,6 @@ function Component({width, height, ...props}) {
   d: path("M34.826 38.708c-1.354 1.382-2.774 2.098-4.17 2.63m6.081-34.651c-1.216-.8-3.365-1.774-5.296-2.157");
 }
 
-.pcviidzxf {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M20.797 30.853v1.76c0 .953-.773 1.726-1.727 1.726h0a1.727 1.727 0 0 1-1.726-1.727V29.9m3.453.953v1.76c0 .953.773 1.726 1.726 1.726h0c.954 0 1.727-.773 1.727-1.727V29.9");
-}
-
 .s978ax9pj {
   cx: 39.465px;
   cy: 28.353px;
@@ -111,13 +103,21 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
+.w3o46faty {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M20.797 30.853v1.76a1.727 1.727 0 0 1-3.453 0V29.9m3.453.953v1.76a1.727 1.727 0 0 0 3.453 0V29.9");
+}
+
 .x-08klb0o {
   cx: 36.069px;
   cy: 40.273px;
   r: 0.75px;
   fill: currentColor;
 }
-</style><path class="gvfjht6yf"/><rect class="kanqfd4pa"/><path class="pcviidzxf"/><rect class="lx1kswbva"/><path class="aoj1u7b7h"/><circle class="vv6zxlb_g"/><circle class="jjtvkn7zn"/><circle class="tacusr-0y"/><path class="nu2aunbdo"/><circle class="s978ax9pj"/><circle class="g1adl8byh"/><circle class="x-08klb0o"/><path class="outkuvb9z"/>`,
+</style><path class="gvfjht6yf"/><rect class="kanqfd4pa"/><path class="w3o46faty"/><rect class="lx1kswbva"/><path class="aoj1u7b7h"/><circle class="vv6zxlb_g"/><circle class="jjtvkn7zn"/><circle class="tacusr-0y"/><path class="nu2aunbdo"/><circle class="s978ax9pj"/><circle class="g1adl8byh"/><circle class="x-08klb0o"/><path class="outkuvb9z"/>`,
 		"fallback": "arcticons:bank-of-cyprus",
 	});
 }

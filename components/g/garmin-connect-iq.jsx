@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.aqrtfufjp {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M12.176 8.115a2.68 2.68 0 0 0-2.82-2.678c-1.447.076-2.532 1.377-2.532 2.83v2.484A2.68 2.68 0 0 0 9.5 13.433h0c1.478 0 2.676-1.2 2.676-2.682H9.5");
-}
-
-.b9omwbb4p {
+		"content": `<style>.b9omwbb4p {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -36,6 +28,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
+.mi8i40bso {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M12.176 8.115a2.68 2.68 0 0 0-2.82-2.678c-1.447.076-2.532 1.377-2.532 2.83v2.484A2.68 2.68 0 0 0 9.5 13.433c1.478 0 2.676-1.2 2.676-2.682H9.5");
+}
+
 .s15gkwbmm {
   fill: none;
   stroke: currentColor;
@@ -43,7 +43,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M5.5 15.176V38.5a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4H15.291");
 }
-</style><path class="b9omwbb4p"/><path class="s15gkwbmm"/><circle class="c8c-a65gx"/><path class="aqrtfufjp"/>`,
+</style><path class="b9omwbb4p"/><path class="s15gkwbmm"/><circle class="c8c-a65gx"/><path class="mi8i40bso"/>`,
 		"fallback": "arcticons:garmin-connect-iq",
 	});
 }

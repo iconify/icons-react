@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ytezkibsj {
+		"content": `<style>.y_jo5kxvu {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M17.644 14.009z");
+}
+
+.ytezkibsj {
   width: 21.7px;
   height: 39px;
   x: 13.15px;
@@ -21,7 +29,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   rx: 2.022px;
 }
-</style><rect class="ytezkibsj"/>`,
+</style><rect class="ytezkibsj"/><path class="y_jo5kxvu"/>`,
 		"fallback": "arcticons:snapmod",
 	});
 }

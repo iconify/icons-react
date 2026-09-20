@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   rx: 2px;
 }
 
-.jhfc_3b-h {
+.hpyiy1tmt {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M15.26 13.24A8.74 8.74 0 0 1 24 4.5h0a8.74 8.74 0 0 1 8.74 8.74m0 0v5.204M15.26 13.24l.01 5.204m-.01-5.204v5.204");
+  d: path("M15.26 13.24A8.74 8.74 0 0 1 24 4.5a8.74 8.74 0 0 1 8.74 8.74m0 0v5.204M15.26 13.24l.01 5.204m-.01-5.204v5.204");
 }
 
 .ongcg6byx {
@@ -39,7 +39,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><rect class="deq40oavd"/><circle class="ongcg6byx"/><path class="jhfc_3b-h"/>`,
+</style><rect class="deq40oavd"/><circle class="ongcg6byx"/><path class="hpyiy1tmt"/>`,
 		"fallback": "arcticons:mooltifill",
 	});
 }

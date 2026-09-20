@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.fklnc8g5e {
+		"content": `<style>.bkeevabfg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m20.215 15.75l4.63 4.628a1.327 1.327 0 0 1 0 1.876l-2.59 2.59a1.327 1.327 0 0 1-1.876 0l-4.629-4.63a3.16 3.16 0 0 1 0-4.464a3.16 3.16 0 0 1 4.465 0");
+}
+
+.fklnc8g5e {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -30,15 +38,7 @@ function Component({width, height, ...props}) {
   rx: 5.712px;
   ry: 5.712px;
 }
-
-.wr-tncczp {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("m20.215 15.75l4.63 4.628a1.327 1.327 0 0 1 0 1.876l-2.59 2.59a1.327 1.327 0 0 1-1.876 0l-4.629-4.63a3.16 3.16 0 0 1 0-4.464h0a3.16 3.16 0 0 1 4.465 0");
-}
-</style><path class="fklnc8g5e"/><rect transform="rotate(45 22.74 22.74)" class="ggohcobfu"/><path class="wr-tncczp"/>`,
+</style><path class="fklnc8g5e"/><rect transform="rotate(45 22.74 22.74)" class="ggohcobfu"/><path class="bkeevabfg"/>`,
 		"fallback": "arcticons:india-drug-index",
 	});
 }

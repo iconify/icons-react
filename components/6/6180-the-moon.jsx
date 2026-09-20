@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ckyboq04o {
+		"content": `<style>.bu7x0vb2e {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M16.358 20.446c-.51-.669-1.289-1.129-2.578-1.129h-.215a3.065 3.065 0 0 0-3.065 3.065v3.122m14.859-1.447a2.313 2.313 0 1 0 0 4.626h1.503a2.313 2.313 0 1 0 0-4.626m0 0a2.313 2.313 0 1 0 0-4.626H25.36a2.313 2.313 0 1 0 0 4.626m-.001 0h1.503");
+}
+
+.ckyboq04o {
   width: 6.129px;
   height: 9.252px;
   x: 31.371px;
@@ -21,14 +29,6 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   rx: 3.065px;
   ry: 3.065px;
-}
-
-.conmg24wu {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M16.358 20.446c-.51-.669-1.289-1.129-2.578-1.129h-.215a3.065 3.065 0 0 0-3.065 3.065v3.122m14.859-1.447a2.313 2.313 0 0 0-2.313 2.313h0a2.313 2.313 0 0 0 2.313 2.312h1.503a2.313 2.313 0 0 0 2.313-2.312h0a2.313 2.313 0 0 0-2.313-2.313m0 0a2.313 2.313 0 0 0 2.313-2.313h0a2.313 2.313 0 0 0-2.313-2.313H25.36a2.313 2.313 0 0 0-2.313 2.313h0a2.313 2.313 0 0 0 2.313 2.313m-.001 0h1.503");
 }
 
 .cpk0fnbgt {
@@ -58,7 +58,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("m18.537 20.577l2.313-1.26v9.252");
 }
-</style><circle class="cpk0fnbgt"/><path class="yq5wxkb5w"/><circle class="rksbom0mx"/><path class="conmg24wu"/><rect class="ckyboq04o"/>`,
+</style><circle class="cpk0fnbgt"/><path class="yq5wxkb5w"/><circle class="rksbom0mx"/><path class="bu7x0vb2e"/><rect class="ckyboq04o"/>`,
 		"fallback": "arcticons:6180-the-moon",
 	});
 }

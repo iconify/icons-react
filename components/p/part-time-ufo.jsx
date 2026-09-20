@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.anuba6b8e {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M26.804 41.299h-6.43a3.133 3.133 0 0 1-3.133-3.134h0m-4.351-6.267v-2.607c0-6.135 4.974-11.11 11.11-11.11s11.11 4.974 11.11 11.11v2.607");
-}
-
-.ltvnejbrh {
+		"content": `<style>.ltvnejbrh {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -56,7 +48,15 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M25.942 31.898V25.04h1.917m-6.785 6.858V25.04h1.916");
 }
-</style><rect class="q7j9p2bhp"/><path class="anuba6b8e"/><path class="u-glv1brc"/><circle class="nd27jxb9w"/><path class="ltvnejbrh"/>`,
+
+.yze6_sbub {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M26.804 41.299h-6.43a3.133 3.133 0 0 1-3.133-3.134m-4.351-6.267v-2.607c0-6.135 4.974-11.11 11.11-11.11s11.11 4.974 11.11 11.11v2.607");
+}
+</style><rect class="q7j9p2bhp"/><path class="yze6_sbub"/><path class="u-glv1brc"/><circle class="nd27jxb9w"/><path class="ltvnejbrh"/>`,
 		"fallback": "arcticons:part-time-ufo",
 	});
 }

@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.aa5lhfe8z {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M42 39.5a1.5 1.5 0 0 0 1.5-1.5h0");
-}
-
-.axybacc3d {
+		"content": `<style>.axybacc3d {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -53,22 +45,6 @@ function Component({width, height, ...props}) {
   d: path("M40.433 20.4h-4.085a2.85 2.85 0 0 0-2.848 2.848v1.504a2.85 2.85 0 0 0 2.848 2.848h5.118");
 }
 
-.gyn18ab8y {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M6 8.5A1.5 1.5 0 0 0 4.5 10h0");
-}
-
-.jlqvfdnzy {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M4.5 38A1.5 1.5 0 0 0 6 39.5h0");
-}
-
 .lfg0lgezb {
   fill: none;
   stroke: currentColor;
@@ -86,6 +62,30 @@ function Component({width, height, ...props}) {
   d: path("M10.865 39.5h28.703");
 }
 
+.om7fnt0-n {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M6 8.5zA1.5 1.5 0 0 0 4.5 10");
+}
+
+.pxevm__0w {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M42 39.5za1.5 1.5 0 0 0 1.5-1.5");
+}
+
+.q4f--f6jx {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M4.5 38zA1.5 1.5 0 0 0 6 39.5");
+}
+
 .ugwhewb7j {
   fill: none;
   stroke: currentColor;
@@ -95,12 +95,12 @@ function Component({width, height, ...props}) {
   d: path("M43.5 33.172V12.414");
 }
 
-.w7ha01tyb {
+.wqsnxjbrn {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M43.5 10A1.5 1.5 0 0 0 42 8.5h0");
+  d: path("M43.5 10zA1.5 1.5 0 0 0 42 8.5");
 }
 
 .yl94lpfnl {
@@ -109,7 +109,7 @@ function Component({width, height, ...props}) {
   r: 0.795px;
   fill: currentColor;
 }
-</style><path class="aa5lhfe8z"/><path class="ugwhewb7j"/><path class="w7ha01tyb"/><path class="cn5n2zyuj"/><path class="gyn18ab8y"/><path class="criy_qbmv"/><path class="jlqvfdnzy"/><path class="nbpejqbwu"/><path class="axybacc3d"/><path class="g-h_14bki"/><path class="lfg0lgezb"/><circle class="yl94lpfnl"/>`,
+</style><path class="pxevm__0w"/><path class="ugwhewb7j"/><path class="wqsnxjbrn"/><path class="cn5n2zyuj"/><path class="om7fnt0-n"/><path class="criy_qbmv"/><path class="q4f--f6jx"/><path class="nbpejqbwu"/><path class="axybacc3d"/><path class="g-h_14bki"/><path class="lfg0lgezb"/><circle class="yl94lpfnl"/>`,
 		"fallback": "arcticons:incognitowallet",
 	});
 }

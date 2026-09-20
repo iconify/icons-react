@@ -66,14 +66,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.yzl9rdxxs {
+.z2vdnkbmf {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M17.647 5.5c6.703 0 12.146 5.443 12.146 12.147v12.146H5.5V17.647C5.5 10.942 10.943 5.5 17.647 5.5");
+  d: path("M17.647 5.5zc6.703 0 12.146 5.443 12.146 12.147v12.146H5.5V17.647C5.5 10.942 10.943 5.5 17.647 5.5");
 }
-</style><path class="yzl9rdxxs"/><path class="hqaaugb_c"/><circle class="pkmw_5_ik"/><circle class="vg0vo4bhn"/><circle class="fnoslegxg"/><circle class="h-d-jj0ew"/><path class="frxbgmbch"/>`,
+</style><path class="z2vdnkbmf"/><path class="hqaaugb_c"/><circle class="pkmw_5_ik"/><circle class="vg0vo4bhn"/><circle class="fnoslegxg"/><circle class="h-d-jj0ew"/><path class="frxbgmbch"/>`,
 		"fallback": "arcticons:heyfun",
 	});
 }

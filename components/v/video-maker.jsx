@@ -26,6 +26,14 @@ function Component({width, height, ...props}) {
   d: path("M38.079 10.943a1.862 1.862 0 1 1-3.724.003v-.003a1.862 1.862 0 0 1 3.724 0");
 }
 
+.gyy04uvjm {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M20.202 21.129a5.55 5.55 0 0 1-5.157 3.503a5.55 5.55 0 0 1-5.546-5.55a5.547 5.547 0 1 1 11.093 0c0 .723-.139 1.414-.39 2.047h2.504a5.547 5.547 0 0 1 5.156-7.597a5.547 5.547 0 1 1-5.156 7.598");
+}
+
 .iapetjb6m {
   fill: currentColor;
   d: path("M25.34 18.123a.75.75 0 0 1-1.5 0a.75.75 0 0 1 1.5 0m1.29 3.789a.75.75 0 1 1-1.5 0a.75.75 0 1 1 1.499 0");
@@ -51,15 +59,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("m30.683 32.82l5.714 3.411c1.334.796 2.142.471 2.142-.875V25.273c0-1.032-1.083-1.385-1.659-.936l-6.197 3.743");
 }
-
-.znz59zbvw {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M20.202 21.129a5.55 5.55 0 0 1-5.157 3.503a5.55 5.55 0 0 1-5.546-5.55a5.547 5.547 0 1 1 11.093 0h0c0 .723-.139 1.414-.39 2.047h2.504a5.547 5.547 0 0 1 5.156-7.597a5.547 5.547 0 1 1-5.156 7.598");
-}
-</style><path class="w655f6bqr"/><path class="in_sbltxl"/><path class="iapetjb6m"/><path class="znz59zbvw"/><path class="p6b-1tbkp"/><path class="gria19boa"/><path class="g2wj9jbhp"/>`,
+</style><path class="w655f6bqr"/><path class="in_sbltxl"/><path class="iapetjb6m"/><path class="gyy04uvjm"/><path class="p6b-1tbkp"/><path class="gria19boa"/><path class="g2wj9jbhp"/>`,
 		"fallback": "arcticons:video-maker",
 	});
 }

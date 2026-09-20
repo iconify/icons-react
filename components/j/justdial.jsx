@@ -23,14 +23,14 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.m520f8box {
+.ms9-shw5p {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M21.6 15.9v12.15a4.05 4.05 0 0 1-4.05 4.05h0a4.05 4.05 0 0 1-4.05-4.05v-1.345m21-1.287a4.05 4.05 0 0 0-4.05-4.05h0a4.05 4.05 0 0 0-4.05 4.05v2.632a4.05 4.05 0 0 0 4.05 4.05h0a4.05 4.05 0 0 0 4.05-4.05m0 4.051V15.899");
+  d: path("M21.6 15.9v12.15a4.05 4.05 0 0 1-8.1 0v-1.345m21-1.287a4.05 4.05 0 0 0-8.1 0v2.632a4.05 4.05 0 0 0 8.1 0m0 4.051V15.899");
 }
-</style><path class="m520f8box"/><rect class="j3s9ivbxi"/>`,
+</style><path class="ms9-shw5p"/><rect class="j3s9ivbxi"/>`,
 		"fallback": "arcticons:justdial",
 	});
 }

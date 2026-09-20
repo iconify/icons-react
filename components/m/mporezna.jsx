@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.mba-9rv1n {
+		"content": `<style>.kzxvtdbab {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M31.208 14.569c4.045-2.03 6.33-5.252 1.937-7.72c-7.507-4.215-13.022-1.953-18.501.533l-1.744.791h0l-5.09 2.31l25.546 11.083l6.833-3.1z");
+  d: path("M31.208 14.569zc4.045-2.03 6.33-5.252 1.937-7.72c-7.507-4.215-13.022-1.953-18.501.533l-1.744.791l-5.09 2.31l25.546 11.083l6.833-3.1z");
 }
 
 .seyvyv0_g {
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M25.788 12.239c1.023-.517 2.523-1.9.85-2.828c-1.8-1-3.404-.716-5.815.652zm3.282 24.715V25.396c0-.82-.486-1.562-1.238-1.888L9.386 15.505a1.126 1.126 0 0 0-1.575 1.033v15.879l19.824 8.6a1.027 1.027 0 0 0 1.436-.942v-.63m0-2.491l-4.865-2.119");
 }
-</style><path class="ukeaytb0y"/><path class="mba-9rv1n"/><path class="zp8lh8nha"/><path class="seyvyv0_g"/>`,
+</style><path class="ukeaytb0y"/><path class="kzxvtdbab"/><path class="zp8lh8nha"/><path class="seyvyv0_g"/>`,
 		"fallback": "arcticons:mporezna",
 	});
 }

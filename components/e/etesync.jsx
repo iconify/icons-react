@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.li_o47goo {
+		"content": `<style>.ndygkvbfo {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M24 16.18v3.48l-4.78-4.79L24 10.09h0zm0 15.64v-3.47l4.78 4.78L24 37.91z");
+  d: path("M24 16.18v3.48l-4.78-4.79L24 10.09zm0 15.64v-3.47l4.78 4.78L24 37.91z");
 }
 
 .p1geu4llt {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("m24 3.5l-6 6H9.51V18l-6 6l6 6v8.48H18l6 6l6-6h8.48V30l6-6l-6-6V9.51H30Z");
 }
-</style><path class="xx9jlb1fn"/><path class="p1geu4llt"/><path class="li_o47goo"/>`,
+</style><path class="xx9jlb1fn"/><path class="p1geu4llt"/><path class="ndygkvbfo"/>`,
 		"fallback": "arcticons:etesync",
 	});
 }

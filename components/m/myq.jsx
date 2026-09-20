@@ -10,16 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.bhid48blh {
-  d: path("M28.748 25.086v3.912c0 1.6-1.297 2.897-2.898 2.897h0c-.8 0-1.524-.324-2.048-.849");
-}
-
-.en3pnmb2b {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M9.5 22.914c0-1.6 1.297-2.898 2.897-2.898h0c1.6 0 2.897 1.297 2.897 2.897v4.78M9.5 20.016v7.678m5.794-4.78c0-1.6 1.297-2.898 2.898-2.898h0c1.6 0 2.897 1.297 2.897 2.897v4.78");
+		"content": `<style>.g7yq545_p {
+  d: path("M28.748 25.086v3.912a2.897 2.897 0 0 1-4.946 2.048");
 }
 
 .i9clfwm2k {
@@ -30,16 +22,24 @@ function Component({width, height, ...props}) {
   d: path("M38.5 5.5h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4");
 }
 
-.ph22vlb0u {
-  d: path("M28.748 20.306v4.78c0 1.6-1.297 2.898-2.898 2.898h0a2.897 2.897 0 0 1-2.897-2.897v-4.78");
+.l4hrmx44z {
+  d: path("M28.748 20.306v4.78a2.897 2.897 0 1 1-5.794 0v-4.78");
 }
 
-.stxg3f4yd {
+.qwa0l-dfb {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m38.5 27.694l-3.839-3.793m0-7.796a3.84 3.84 0 0 1 3.839 3.839v3.911a3.84 3.84 0 0 1-3.839 3.839h0a3.84 3.84 0 0 1-3.839-3.839v-3.911a3.84 3.84 0 0 1 3.84-3.839");
+  d: path("m38.5 27.694l-3.839-3.793m0-7.796za3.84 3.84 0 0 1 3.839 3.839v3.911a3.839 3.839 0 0 1-7.678 0v-3.911a3.84 3.84 0 0 1 3.84-3.839");
+}
+
+.stc29ybvs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M9.5 22.914a2.897 2.897 0 1 1 5.794 0v4.78M9.5 20.016v7.678m5.794-4.78a2.897 2.897 0 1 1 5.794 0v4.78");
 }
 
 .y9tr6bcfx {
@@ -48,7 +48,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="i9clfwm2k"/><path class="en3pnmb2b"/><g class="y9tr6bcfx"><path class="bhid48blh"/><path class="ph22vlb0u"/></g><path class="stxg3f4yd"/>`,
+</style><path class="i9clfwm2k"/><path class="stc29ybvs"/><g class="y9tr6bcfx"><path class="g7yq545_p"/><path class="l4hrmx44z"/></g><path class="qwa0l-dfb"/>`,
 		"fallback": "arcticons:myq",
 	});
 }

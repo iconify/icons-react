@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.go5bi_b8s {
+		"content": `<style>.dcaq74blf {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M39.397 34.862q-.237 3.341-1.63 5.527c.289-5.281-2.415-10.385-6.245-14.511l1.63-7.625a3.506 3.506 0 1 0-4.4-3.692s-6.941 1.583-6.941 1.583c-2.657-2.747-6.636-4.989-10.59-5.992c7.083-6.536 17.957-6.674 25.203-.319s8.529 17.153 2.973 25.029M5.217 22.489c4.765 9.035 11.61 16.514 21.405 20.17");
+}
+
+.go5bi_b8s {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -35,15 +43,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-
-.w4w5mtf5m {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M39.397 34.862q-.237 3.341-1.63 5.527c.289-5.281-2.415-10.385-6.245-14.511l1.63-7.625h0a3.506 3.506 0 1 0-4.4-3.692h0l-6.941 1.583c-2.657-2.747-6.636-4.989-10.59-5.992c7.083-6.536 17.957-6.674 25.203-.319s8.529 17.153 2.973 25.029M5.217 22.489c4.765 9.035 11.61 16.514 21.405 20.17");
-}
-</style><path class="go5bi_b8s"/><circle class="noor5x6jp"/><path class="w4w5mtf5m"/><path class="jvn1n37kq"/>`,
+</style><path class="go5bi_b8s"/><circle class="noor5x6jp"/><path class="dcaq74blf"/><path class="jvn1n37kq"/>`,
 		"fallback": "arcticons:satdump",
 	});
 }

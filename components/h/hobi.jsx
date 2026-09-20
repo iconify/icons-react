@@ -18,14 +18,6 @@ function Component({width, height, ...props}) {
   d: path("M38.5 5.5h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4m-28 13.506V29.59m7.012-10.584V29.59M10.5 24.278h7.012");
 }
 
-.iq09r-brr {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M36.574 22.578v7.012m-8.111-4.366a2.646 2.646 0 0 1 2.646-2.646h0a2.646 2.646 0 0 1 2.646 2.646v1.72a2.646 2.646 0 0 1-2.646 2.646h0a2.646 2.646 0 0 1-2.646-2.646m0 2.646V19.006");
-}
-
 .o0n67e52f {
   width: 5.292px;
   height: 7.012px;
@@ -45,7 +37,15 @@ function Component({width, height, ...props}) {
   r: 0.75px;
   fill: currentColor;
 }
-</style><path class="dg712yv-p"/><rect class="o0n67e52f"/><circle class="ub5o7jrrf"/><path class="iq09r-brr"/>`,
+
+.y9jumnslg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M36.574 22.578v7.012m-8.111-4.366a2.646 2.646 0 1 1 5.292 0v1.72a2.646 2.646 0 1 1-5.292 0m0 2.646V19.006");
+}
+</style><path class="dg712yv-p"/><rect class="o0n67e52f"/><circle class="ub5o7jrrf"/><path class="y9jumnslg"/>`,
 		"fallback": "arcticons:hobi",
 	});
 }

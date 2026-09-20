@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.st3b-d4yt {
+		"content": `<style>.hytssyb6o {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M13.437 4.5v36.555h23.31a1.875 1.875 0 0 0 1.875-1.875V6.375A1.875 1.875 0 0 0 36.747 4.5Zm4.973 36.865V43.5l-1.412-.593l-1.607.593h0v-2.135m10.142-.023v2.135l-1.413-.593l-1.606.593h0v-2.135");
+  d: path("M13.437 4.5v36.555h23.31a1.875 1.875 0 0 0 1.875-1.875V6.375A1.875 1.875 0 0 0 36.747 4.5Zm4.973 36.865V43.5l-1.412-.593l-1.607.593v-2.135m10.142-.023v2.135l-1.413-.593l-1.606.593v-2.135");
 }
 
 .y8k9a4baj {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M9.378 6.375V39.18a1.875 1.875 0 0 0 1.875 1.875h2.184V4.5h-2.184a1.875 1.875 0 0 0-1.875 1.875");
 }
-</style><path class="z54hf4bii"/><path class="st3b-d4yt"/><path class="y8k9a4baj"/>`,
+</style><path class="z54hf4bii"/><path class="hytssyb6o"/><path class="y8k9a4baj"/>`,
 		"fallback": "arcticons:espaol",
 	});
 }

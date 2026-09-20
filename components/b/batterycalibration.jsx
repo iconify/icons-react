@@ -20,12 +20,12 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.dny2c5gcq {
+.ijrfpfsqd {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m25.37 18.22l-4.98 10.35l7.82-2.2l-4.99 8.85l4.99-8.85");
+  d: path("M25.37 18.22zl-4.98 10.35l7.82-2.2l-4.99 8.85l4.99-8.85");
 }
 
 .n5w9babge {
@@ -55,7 +55,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M18.98 12.31h1.93v1.93h-1.93zm8.1 0h1.93v1.93h-1.93z");
 }
-</style><circle class="cpk0fnbgt"/><path class="ugmp5_bll"/><path class="n7zzxc1za"/><rect class="n5w9babge"/><path class="dny2c5gcq"/>`,
+</style><circle class="cpk0fnbgt"/><path class="ugmp5_bll"/><path class="n7zzxc1za"/><rect class="n5w9babge"/><path class="ijrfpfsqd"/>`,
 		"fallback": "arcticons:batterycalibration",
 	});
 }

@@ -40,14 +40,6 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.wv13-9b5r {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M7.532 32.696h4.74v8.435a2.37 2.37 0 0 1-2.37 2.369h0a2.37 2.37 0 0 1-2.37-2.37zm28.197 0h4.739v8.435a2.37 2.37 0 0 1-2.37 2.369h0a2.37 2.37 0 0 1-2.37-2.37z");
-}
-
 .zguuxu9su {
   fill: none;
   stroke: currentColor;
@@ -55,7 +47,15 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M9.902 18.598v14.098m28.196-14.098v14.098");
 }
-</style><path class="zguuxu9su"/><circle class="r2v_rka9l"/><circle class="rb25mxgjy"/><circle class="lhvk6xbyf"/><path class="wv13-9b5r"/>`,
+
+.zl5ayxb3h {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M7.532 32.696h4.74v8.435a2.37 2.37 0 0 1-2.37 2.369a2.37 2.37 0 0 1-2.37-2.37zm28.197 0h4.739v8.435a2.37 2.37 0 0 1-2.37 2.369a2.37 2.37 0 0 1-2.37-2.37z");
+}
+</style><path class="zguuxu9su"/><circle class="r2v_rka9l"/><circle class="rb25mxgjy"/><circle class="lhvk6xbyf"/><path class="zl5ayxb3h"/>`,
 		"fallback": "arcticons:jump-rope-training-pro",
 	});
 }

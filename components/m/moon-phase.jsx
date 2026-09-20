@@ -16,14 +16,14 @@ function Component({width, height, ...props}) {
   r: 3.064px;
 }
 
+.f_imv4qgv {
+  d: path("M23.94 29.086a6.36 6.36 0 1 1 1.202-3.72q0 .627-.122 1.241");
+}
+
 .f_v_dfbgn {
   cx: 24px;
   cy: 24px;
   r: 21.5px;
-}
-
-.gacxbn68r {
-  d: path("M23.94 29.086a6.36 6.36 0 1 1 1.202-3.72h0q0 .627-.122 1.241");
 }
 
 .inkv48mvy {
@@ -105,7 +105,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><circle class="f_v_dfbgn"/><path class="gacxbn68r"/><circle class="b6igv-c8e"/><circle class="q-ruzlf1m"/><circle class="uuulzwu9v"/><ellipse class="inkv48mvy"/><ellipse class="wtu_foexh"/><circle class="mxy2yvbpr"/><circle class="it0q39kdi"/><circle class="see70bb1x"/><ellipse class="secwxsuvu"/><circle class="ma30fnbmq"/><circle class="wc_dbf9fr"/><circle class="v99l0-baw"/><path class="n1fdnwu0x"/></g>`,
+</style><g class="y9tr6bcfx"><circle class="f_v_dfbgn"/><path class="f_imv4qgv"/><circle class="b6igv-c8e"/><circle class="q-ruzlf1m"/><circle class="uuulzwu9v"/><ellipse class="inkv48mvy"/><ellipse class="wtu_foexh"/><circle class="mxy2yvbpr"/><circle class="it0q39kdi"/><circle class="see70bb1x"/><ellipse class="secwxsuvu"/><circle class="ma30fnbmq"/><circle class="wc_dbf9fr"/><circle class="v99l0-baw"/><path class="n1fdnwu0x"/></g>`,
 		"fallback": "arcticons:moon-phase",
 	});
 }

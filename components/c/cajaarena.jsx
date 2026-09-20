@@ -214,6 +214,14 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
+.w6727tb9p {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m42.5 29.919l-2.953-2.953l-.49.49l-5.041-5.041l-3.18 3.18l-6.623-6.623L8.957 34.228l-.49-.49L5.5 36.705");
+}
+
 .xb52tw5qc {
   cx: 35.396px;
   cy: 31.738px;
@@ -228,21 +236,13 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.yakth3b5u {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("m42.5 29.919l-2.953-2.953h0l-.49.49l-5.041-5.041h0l-3.18 3.18l-6.623-6.623L8.957 34.228l-.49-.49L5.5 36.705");
-}
-
 .yvye50bhj {
   cx: 26.11px;
   cy: 10.138px;
   r: 0.75px;
   fill: currentColor;
 }
-</style><path class="mz34dcbov"/><path class="yakth3b5u"/><circle class="nxy41zbpc"/><circle class="rdwc8vfbl"/><circle class="ichq8obrg"/><circle class="ho6zd9q0t"/><circle class="jkh4-vbyv"/><circle class="cjq5khbye"/><circle class="snagfenwr"/><circle class="p2cchi7_v"/><circle class="otr6hjebr"/><circle class="dsokcpcvh"/><circle class="xb52tw5qc"/><circle class="v9i-vgx8k"/><circle class="ontkptl4d"/><circle class="xiakr14mb"/><circle class="eomxv10bg"/><circle class="knuizdbjq"/><circle class="uwj-hejmf"/><circle class="j6rz_zvqy"/><circle class="i6v91kbpy"/><circle class="ah2xnzqkd"/><circle class="toknghb7n"/><circle class="s171ygvfj"/><circle class="nlnz4dbhv"/><circle class="yvye50bhj"/><circle class="ikozkubkq"/><circle class="vxc88-byj"/><circle class="iz8nl0ber"/><circle class="tth6hjbyu"/><circle class="lqe6l1b4j"/><circle class="h6_f4db9l"/><circle class="cc9w7ub1h"/>`,
+</style><path class="mz34dcbov"/><path class="w6727tb9p"/><circle class="nxy41zbpc"/><circle class="rdwc8vfbl"/><circle class="ichq8obrg"/><circle class="ho6zd9q0t"/><circle class="jkh4-vbyv"/><circle class="cjq5khbye"/><circle class="snagfenwr"/><circle class="p2cchi7_v"/><circle class="otr6hjebr"/><circle class="dsokcpcvh"/><circle class="xb52tw5qc"/><circle class="v9i-vgx8k"/><circle class="ontkptl4d"/><circle class="xiakr14mb"/><circle class="eomxv10bg"/><circle class="knuizdbjq"/><circle class="uwj-hejmf"/><circle class="j6rz_zvqy"/><circle class="i6v91kbpy"/><circle class="ah2xnzqkd"/><circle class="toknghb7n"/><circle class="s171ygvfj"/><circle class="nlnz4dbhv"/><circle class="yvye50bhj"/><circle class="ikozkubkq"/><circle class="vxc88-byj"/><circle class="iz8nl0ber"/><circle class="tth6hjbyu"/><circle class="lqe6l1b4j"/><circle class="h6_f4db9l"/><circle class="cc9w7ub1h"/>`,
 		"fallback": "arcticons:cajaarena",
 	});
 }

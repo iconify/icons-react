@@ -10,11 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.hnnmrmbez {
-  d: path("M29.88 16.074c1.252-.992 3.508-1.004 4.384.238M9.629 22.371a7.059 7.059 0 1 1 14.112-.269h0q0 .135-.005.27");
-}
-
-.mus2xplem {
+		"content": `<style>.mus2xplem {
   d: path("M15.74 13.055c.47-4.671-1.768-7.83-7.655-7.276c-.707 5.69 3.678 9.055 7.655 7.276");
 }
 
@@ -32,7 +28,11 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><path class="qlzqqccdv"/><path class="hnnmrmbez"/><path class="nkk_3pbdz"/><path class="mus2xplem"/></g>`,
+
+.z781mwbuv {
+  d: path("M29.88 16.074c1.252-.992 3.508-1.004 4.384.238M9.629 22.371a7.059 7.059 0 1 1 14.112-.269q0 .135-.005.27");
+}
+</style><g class="y9tr6bcfx"><path class="qlzqqccdv"/><path class="z781mwbuv"/><path class="nkk_3pbdz"/><path class="mus2xplem"/></g>`,
 		"fallback": "arcticons:talaadthai-online",
 	});
 }

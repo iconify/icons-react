@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.la93r9bqf {
+		"content": `<style>.n0wc2mdhe {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M35.24 44.338V14.902A11.273 11.273 0 0 0 24 3.662h0a11.273 11.273 0 0 0-11.24 11.24v29.374Z");
+  d: path("M35.24 44.338V14.902A11.273 11.273 0 0 0 24 3.662a11.273 11.273 0 0 0-11.24 11.24v29.374Z");
 }
 
 .s7tba086c {
@@ -42,7 +42,7 @@ function Component({width, height, ...props}) {
   stroke: currentColor;
   stroke-linejoin: round;
 }
-</style><path class="la93r9bqf"/><circle class="s7tba086c"/><circle class="uxtwmwvld"/><path class="smmmhxg8d"/>`,
+</style><path class="n0wc2mdhe"/><circle class="s7tba086c"/><circle class="uxtwmwvld"/><path class="smmmhxg8d"/>`,
 		"fallback": "arcticons:crayon",
 	});
 }

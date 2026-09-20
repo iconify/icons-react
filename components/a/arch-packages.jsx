@@ -23,14 +23,14 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.n4ahccbtn {
+.muqexbcyu {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M17.802 15.246c.264-.791 1.055-1.32 1.846-1.583h0c1.583-.528 3.429.264 3.957 1.846L30.198 34.5m-5.012-13.715L19.65 34.5");
+  d: path("M17.802 15.246c.264-.791 1.055-1.32 1.846-1.583c1.583-.528 3.429.264 3.957 1.846L30.198 34.5m-5.012-13.715L19.65 34.5");
 }
-</style><path class="n4ahccbtn"/><rect class="j3s9ivbxi"/>`,
+</style><path class="muqexbcyu"/><rect class="j3s9ivbxi"/>`,
 		"fallback": "arcticons:arch-packages",
 	});
 }

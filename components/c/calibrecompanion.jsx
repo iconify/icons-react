@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.hi9rfsb7r {
+		"content": `<style>.gli6fvbdi {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M25.95 19.669a8.72 8.72 0 0 1 8.72 8.721v0a1.245 1.245 0 0 1-1.244 1.245H18.473a1.245 1.245 0 0 1-1.245-1.245v0a8.72 8.72 0 0 1 8.722-8.721m-7.532-1.304l2.478 2.917m12.585-2.917l-2.478 2.917");
+  d: path("M25.95 19.669za8.72 8.72 0 0 1 8.72 8.721a1.245 1.245 0 0 1-1.244 1.245H18.473a1.245 1.245 0 0 1-1.245-1.245a8.72 8.72 0 0 1 8.722-8.721m-7.532-1.304l2.478 2.917m12.585-2.917l-2.478 2.917");
 }
 
 .lkj-yhqhw {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M22.396 27.201a1.224 1.224 0 1 1 1.224-1.223a1.223 1.223 0 0 1-1.224 1.223m7.121 0a1.224 1.224 0 1 1 1.223-1.223a1.224 1.224 0 0 1-1.223 1.223");
 }
-</style><path class="lkj-yhqhw"/><path class="lv7a_nauo"/><path class="hi9rfsb7r"/>`,
+</style><path class="lkj-yhqhw"/><path class="lv7a_nauo"/><path class="gli6fvbdi"/>`,
 		"fallback": "arcticons:calibrecompanion",
 	});
 }

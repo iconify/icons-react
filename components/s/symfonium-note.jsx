@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.f1t5f5lcq {
-  d: path("M34.246 4.5h.028a3.207 3.207 0 0 1 3.207 3.207h0a3.207 3.207 0 0 1-3.207 3.207h-.028");
+		"content": `<style>.slm2u3bjw {
+  d: path("M34.246 4.5h.028a3.207 3.207 0 1 1 0 6.414h-.028");
 }
 
-.rfit8le0s {
-  d: path("M26.305 35.525v.082h0a7.893 7.893 0 1 1-7.893-7.893h0c1.692 0 3.34.543 4.699 1.55M34.325 4.516H25.28a2.037 2.037 0 0 0-2.037 2.037l.011 22.802");
+.uwosf5b9n {
+  d: path("M26.305 35.525v.082a7.893 7.893 0 1 1-7.893-7.893c1.692 0 3.34.543 4.699 1.55M34.325 4.516H25.28a2.037 2.037 0 0 0-2.037 2.037l.011 22.802");
 }
 
 .xhjwhszyc {
@@ -28,7 +28,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><path class="rfit8le0s"/><path class="xhjwhszyc"/><path class="f1t5f5lcq"/></g>`,
+</style><g class="y9tr6bcfx"><path class="uwosf5b9n"/><path class="xhjwhszyc"/><path class="slm2u3bjw"/></g>`,
 		"fallback": "arcticons:symfonium-note",
 	});
 }

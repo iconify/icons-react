@@ -10,8 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.tr8u8cb-m {
-  d: path("M17.419 20.278c.667-.556 1.333-.778 2.778-.778h.889c1.222 0 2.222 1 2.222 2.222h0c0 1.222-1 2.222-2.222 2.222h-2.223");
+		"content": `<style>.m_qu49eyo {
+  d: path("M17.419 20.278c.667-.556 1.333-.778 2.778-.778h.889c1.222 0 2.222 1 2.222 2.222s-1 2.222-2.222 2.222h-2.223");
+}
+
+.ofwa-kbgx {
+  d: path("M24.692 25.5c0 1.667 1.334 3 3 3s2.89-1.333 2.89-3v-3c0-1.667-1.334-3-2.89-3s-3 1.333-3 3zm-3.607-1.556c1.223 0 2.223 1 2.223 2.223s-1 2.222-2.223 2.222h-.889c-1.555 0-2.11-.222-2.777-.778");
 }
 
 .uph4zqc9i {
@@ -28,11 +32,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-
-.zrv_bxqah {
-  d: path("M24.692 25.5c0 1.667 1.334 3 3 3s2.89-1.333 2.89-3v-3c0-1.667-1.334-3-2.89-3s-3 1.333-3 3zm-3.607-1.556c1.223 0 2.223 1 2.223 2.223h0c0 1.222-1 2.222-2.223 2.222h-.889c-1.555 0-2.11-.222-2.777-.778");
-}
-</style><g class="y9tr6bcfx"><path class="zrv_bxqah"/><path class="tr8u8cb-m"/></g><path class="uph4zqc9i"/>`,
+</style><g class="y9tr6bcfx"><path class="ofwa-kbgx"/><path class="m_qu49eyo"/></g><path class="uph4zqc9i"/>`,
 		"fallback": "arcticons:calendar-google-30",
 	});
 }

@@ -42,12 +42,12 @@ function Component({width, height, ...props}) {
   d: path("M27.902 22.367c1.619.446 3.147 1.799 3.373 3.158c.144.86-.503 2.205-2.326 2.508c-2.565.46-3.787-.07-4.58-1.813c-.184 1.906-1.167 2.804-3.743 3.2c-1.823.304-2.87-.759-3.014-1.619c-.226-1.36.781-3.134 2.167-4.08c1.129-.772 2.75-1.145 3.95-1.345s2.855-.373 4.173-.009m-10.016-4.084l.329 2.902m9.716-4.575l.629 2.851");
 }
 
-.madtc69rg {
+.qgfnojbqq {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M45.205 20.467c1.95 11.711-5.961 22.787-17.672 24.738h0c-11.711 1.95-22.787-5.961-24.738-17.672h0C.845 15.822 8.756 4.746 20.467 2.795h0C32.178.845 43.254 8.756 45.205 20.467");
+  d: path("M45.205 20.467c1.95 11.711-5.961 22.787-17.672 24.738c-11.711 1.95-22.787-5.961-24.738-17.672C.845 15.822 8.756 4.746 20.467 2.795C32.178.845 43.254 8.756 45.205 20.467");
 }
 
 .yvjrxdelo {
@@ -57,7 +57,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M8.01 23.38c3.202.966 6.99 2.015 9.892 2.29M7.41 28.613c3.436-.178 6.922-.527 10.06-1.129m-8.826 5.512l9.53-3.958M38.926 18.23c-2.717 1.953-5.96 4.173-8.616 5.375m10.88-.62c-3.31.946-6.72 1.746-9.884 2.194m10.137 2.353l-10.3-.655");
 }
-</style><path class="hegwtrpyt"/><path class="kuubzxagk"/><path class="yvjrxdelo"/><path class="madtc69rg"/><path class="fioorsypu"/><path class="hncf8ssxk"/>`,
+</style><path class="hegwtrpyt"/><path class="kuubzxagk"/><path class="yvjrxdelo"/><path class="qgfnojbqq"/><path class="fioorsypu"/><path class="hncf8ssxk"/>`,
 		"fallback": "arcticons:phocid",
 	});
 }

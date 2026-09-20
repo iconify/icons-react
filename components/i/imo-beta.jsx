@@ -10,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.cft0zfb5a {
+		"content": `<style>.bym3uxb9b {
+  d: path("M22.736 22.797a2.909 2.909 0 1 1 5.818 0v4.8");
+}
+
+.cft0zfb5a {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -41,14 +45,6 @@ function Component({width, height, ...props}) {
   d: path("M13.56 19.888v7.709");
 }
 
-.qykds6r1n {
-  d: path("M22.736 22.797a2.91 2.91 0 0 1 2.909-2.91h0a2.91 2.91 0 0 1 2.909 2.91v4.8");
-}
-
-.u57bxxb3b {
-  d: path("M16.918 22.797a2.91 2.91 0 0 1 2.909-2.91h0a2.91 2.91 0 0 1 2.909 2.91v4.8m-5.818-7.709v7.709");
-}
-
 .vi_nxfq0r {
   cx: 38.5px;
   cy: 38.5px;
@@ -57,6 +53,10 @@ function Component({width, height, ...props}) {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
+}
+
+.y_g1zob3m {
+  d: path("M16.918 22.797a2.909 2.909 0 1 1 5.818 0v4.8m-5.818-7.709v7.709");
 }
 
 .y9tr6bcfx {
@@ -78,7 +78,7 @@ function Component({width, height, ...props}) {
   rx: 2.909px;
   ry: 2.909px;
 }
-</style><path class="cft0zfb5a"/><rect class="yv2oy81lw"/><g class="y9tr6bcfx"><path class="u57bxxb3b"/><path class="qykds6r1n"/></g><circle class="gtpbadbak"/><path class="mgfa4bbuq"/><circle class="vi_nxfq0r"/><path class="funm8-8nd"/>`,
+</style><path class="cft0zfb5a"/><rect class="yv2oy81lw"/><g class="y9tr6bcfx"><path class="y_g1zob3m"/><path class="bym3uxb9b"/></g><circle class="gtpbadbak"/><path class="mgfa4bbuq"/><circle class="vi_nxfq0r"/><path class="funm8-8nd"/>`,
 		"fallback": "arcticons:imo-beta",
 	});
 }

@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.a-0swib0m {
+		"content": `<style>.c5w9ngk6s {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m11.209 20.972l3.75-2.062m0 0v15m9.835-7.5a3.715 3.715 0 0 1 3.704 3.704h0a3.715 3.715 0 0 1-3.704 3.703h-1.482c-2.592 0-3.518-.37-4.63-1.296m.001-12.223c1.11-.925 2.222-1.296 4.63-1.296h1.481a3.715 3.715 0 0 1 3.704 3.704h0a3.715 3.715 0 0 1-3.704 3.704H21.09");
+  d: path("m11.209 20.972l3.75-2.062m0 0v15m9.835-7.5a3.715 3.715 0 0 1 3.704 3.704a3.715 3.715 0 0 1-3.704 3.703h-1.482c-2.592 0-3.518-.37-4.63-1.296m.001-12.223c1.11-.925 2.222-1.296 4.63-1.296h1.481a3.715 3.715 0 0 1 3.704 3.704a3.715 3.715 0 0 1-3.704 3.704H21.09");
 }
 
 .f6_7b22_l {
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M43.5 36.138V11.862a4 4 0 0 0-4-4h-31a4 4 0 0 0-4 4v24.276a4 4 0 0 0 4 4h31a4 4 0 0 0 4-4");
 }
-</style><path class="a-0swib0m"/><path class="f6_7b22_l"/><path class="wtoegrbgv"/><path class="orx8z1bik"/>`,
+</style><path class="c5w9ngk6s"/><path class="f6_7b22_l"/><path class="wtoegrbgv"/><path class="orx8z1bik"/>`,
 		"fallback": "arcticons:calendar-proton-13",
 	});
 }

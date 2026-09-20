@@ -23,6 +23,14 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
+.kb8pa2bxx {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M32.277 10.485v3.83m1.765-2.668a4.443 4.443 0 0 1-1.766 8.52a4.443 4.443 0 0 1-1.767-8.519m8.991 4.075a7.223 7.223 0 1 1-14.447 0a7.223 7.223 0 0 1 14.447 0");
+}
+
 .mzq_7zbob {
   fill: none;
   stroke: currentColor;
@@ -30,15 +38,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("m10.5 25.327l10.127 5.853L10.5 37.032m22 0H21.673");
 }
-
-.o_zwsibem {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M32.277 10.485v3.83m1.765-2.668a4.44 4.44 0 0 1 2.677 4.076h0a4.443 4.443 0 0 1-4.442 4.443h0a4.443 4.443 0 0 1-4.443-4.443h0a4.44 4.44 0 0 1 2.676-4.076m8.99 4.076a7.223 7.223 0 1 1-14.447 0a7.223 7.223 0 0 1 14.447 0");
-}
-</style><path class="mzq_7zbob"/><rect class="j3s9ivbxi"/><path class="o_zwsibem"/>`,
+</style><path class="mzq_7zbob"/><rect class="j3s9ivbxi"/><path class="kb8pa2bxx"/>`,
 		"fallback": "arcticons:termux-boot",
 	});
 }

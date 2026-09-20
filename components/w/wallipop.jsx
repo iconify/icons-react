@@ -15,8 +15,8 @@ function Component({width, height, ...props}) {
   opacity: var(--svg-opacity--0-965, 0.965);
 }
 
-.p0cznvblv {
-  d: path("M24.437 14.972a7.98 7.98 0 0 0-7.655 5.722c2.574 2.187 7.761 7.643 7.761 7.643l2.775-2.937s2.6-1.767 4.765-.185a7.973 7.973 0 0 0-7.647-10.243z");
+.nbfpvozte {
+  d: path("M24.437 14.972a7.98 7.98 0 0 0-7.655 5.722c2.574 2.187 7.761 7.643 7.761 7.643l2.775-2.937s2.6-1.767 4.765-.185a7.973 7.973 0 0 0-7.647-10.243");
 }
 
 .qt4w5c6db {
@@ -37,7 +37,7 @@ function Component({width, height, ...props}) {
 .ydmy7ntjv {
   d: path("M24.119 9.932a13.424 13.424 0 0 0-13.057 10.482l.051-.052s2.89-1.934 5.32.03s8.11 7.945 8.11 7.945l2.775-2.937s2.799-1.911 5.005-.007c.784.677 2.305 2.146 3.901 3.707a13.4 13.4 0 0 0 1.319-5.745c0-7.413-6.01-13.423-13.424-13.423");
 }
-</style><g class="y9tr6bcfx"><path class="p0cznvblv"/><path class="ydmy7ntjv"/><path class="hh0t8fd3o"/></g><path class="qt4w5c6db"/>`,
+</style><g class="y9tr6bcfx"><path class="nbfpvozte"/><path class="ydmy7ntjv"/><path class="hh0t8fd3o"/></g><path class="qt4w5c6db"/>`,
 		"fallback": "arcticons:wallipop",
 	});
 }

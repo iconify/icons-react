@@ -22,6 +22,14 @@ function Component({width, height, ...props}) {
   rx: 1.8px;
 }
 
+.d9ep1jbtn {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M24.72 19.82v8.36m-2.63-5.56a2.8 2.8 0 0 0-2.94-2.8a2.91 2.91 0 0 0-2.65 3v2.6a2.8 2.8 0 0 0 2.8 2.8a2.79 2.79 0 0 0 2.79-2.8H19.3m8.02-5.6h4.18M27.32 24h2.72m-2.72-4.18v8.36");
+}
+
 .di0eyabgz {
   cx: 18.84px;
   cy: 6.99px;
@@ -36,15 +44,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M13.18 9.42h21.64M13.18 38.31h21.64M21.17 6.99h5.66");
 }
-
-.h9637bb-z {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M24.72 19.82v8.36m-2.63-5.56a2.8 2.8 0 0 0-2.94-2.8a2.91 2.91 0 0 0-2.65 3v2.6a2.8 2.8 0 0 0 2.8 2.8h0a2.79 2.79 0 0 0 2.79-2.8H19.3m8.02-5.6h4.18M27.32 24h2.72m-2.72-4.18v8.36");
-}
-</style><rect class="bt2afop1a"/><path class="g8u0tcnze"/><circle class="di0eyabgz"/><path class="h9637bb-z"/>`,
+</style><rect class="bt2afop1a"/><path class="g8u0tcnze"/><circle class="di0eyabgz"/><path class="d9ep1jbtn"/>`,
 		"fallback": "arcticons:gif-live-wallpaper",
 	});
 }

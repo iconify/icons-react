@@ -34,12 +34,12 @@ function Component({width, height, ...props}) {
   d: path("M20.74 27.26h19.12a2.64 2.64 0 0 1 2.64 2.64v10a2.64 2.64 0 0 1-2.64 2.64H13.12");
 }
 
-.p2sxgzdvr {
+.lk_ac-bdh {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M8.14 5.5h10a2.64 2.64 0 0 1 2.64 2.64v26.74a7.62 7.62 0 0 1-7.62 7.62h0a7.62 7.62 0 0 1-7.66-7.62V8.14A2.64 2.64 0 0 1 8.14 5.5");
+  d: path("M8.14 5.5h10a2.64 2.64 0 0 1 2.64 2.64v26.74a7.62 7.62 0 0 1-7.62 7.62a7.62 7.62 0 0 1-7.66-7.62V8.14A2.64 2.64 0 0 1 8.14 5.5");
 }
 
 .w-1qeybjh {
@@ -51,7 +51,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="p2sxgzdvr"/><path class="d55fyh34y"/><path class="dlquaacui"/><path class="ebht9rb3m"/><circle class="w-1qeybjh"/>`,
+</style><path class="lk_ac-bdh"/><path class="d55fyh34y"/><path class="dlquaacui"/><path class="ebht9rb3m"/><circle class="w-1qeybjh"/>`,
 		"fallback": "arcticons:substratum",
 	});
 }

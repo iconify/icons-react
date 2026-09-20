@@ -31,14 +31,6 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.megj3kbhe {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M17.017 35.097c1.345 1.75 3.032 2.403 5.378 2.403h3.247a5.47 5.47 0 0 0 5.471-5.471v-.024a5.47 5.47 0 0 0-5.471-5.471H22.06a5.477 5.477 0 0 1-5.477-5.478h0a5.49 5.49 0 0 1 5.489-5.489h3.23c2.346 0 4.032.652 5.377 2.403");
-}
-
 .on9wolbfo {
   cx: 34.315px;
   cy: 14.585px;
@@ -48,7 +40,15 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="megj3kbhe"/><circle class="on9wolbfo"/><path class="i3qs_ykdb"/><rect class="j3s9ivbxi"/>`,
+
+.z7baxgjwp {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M17.017 35.097c1.345 1.75 3.032 2.403 5.378 2.403h3.247a5.47 5.47 0 0 0 5.471-5.471v-.024a5.47 5.47 0 0 0-5.471-5.471H22.06a5.477 5.477 0 0 1-5.477-5.478a5.49 5.49 0 0 1 5.489-5.489h3.23c2.346 0 4.032.652 5.377 2.403");
+}
+</style><path class="z7baxgjwp"/><circle class="on9wolbfo"/><path class="i3qs_ykdb"/><rect class="j3s9ivbxi"/>`,
 		"fallback": "arcticons:spin-premia",
 	});
 }

@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.a31vo2b6x {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M20 16v16m0-6.6a4 4 0 0 1 4-4h0a4 4 0 0 1 4 4V32");
-}
-
-.cpk0fnbgt {
+		"content": `<style>.cpk0fnbgt {
   cx: 24px;
   cy: 24px;
   r: 21.5px;
@@ -27,7 +19,15 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><circle class="cpk0fnbgt"/><path class="a31vo2b6x"/>`,
+
+.y9-ortbgq {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M20 16v16m0-6.6a4 4 0 0 1 8 0V32");
+}
+</style><circle class="cpk0fnbgt"/><path class="y9-ortbgq"/>`,
 		"fallback": "arcticons:letter-lowercase-circle-h",
 	});
 }

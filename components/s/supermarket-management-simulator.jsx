@@ -14,6 +14,10 @@ function Component({width, height, ...props}) {
   d: path("m35.356 40.777l-4.97-.463V35.77l1.737-.395");
 }
 
+.e8em8bc_c {
+  d: path("m32.122 36.007l1.408.112l1.863-.232V33.92l-1.408-.112l-1.863.231zm4.532 2.833l-1.298.389v2.24l2.6.375l3.14-.941v-2.241l-.898-.13");
+}
+
 .jc-a9nadq {
   d: path("M9.5 5.5h29c2.216 0 4 1.784 4 4v29c0 2.216-1.784 4-4 4h-29c-2.216 0-4-1.784-4-4v-29c0-2.216 1.784-4 4-4m8.197 7.286v24.952m7.326-25.9v26.71M11.405 19.102v12.956m21.841-14.561v15.808M5.657 8.69L22.594 5.5M5.5 14.366l37-4.791m-17.476 8.526L42.5 16.818M17.698 18.64l7.326-.539M5.5 19.536l12.198-.896");
 }
@@ -28,11 +32,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-
-.ygx663b-v {
-  d: path("m32.122 36.007l1.408.112l1.863-.232V33.92l-1.408-.112l-1.863.231zm4.532 2.833l-1.298.389v2.24h0l2.6.375l3.14-.941v-2.241l-.898-.13");
-}
-</style><g class="y9tr6bcfx"><path class="jc-a9nadq"/><path class="cenz_5bga"/><path class="ygx663b-v"/><path class="vqb375b_r"/></g>`,
+</style><g class="y9tr6bcfx"><path class="jc-a9nadq"/><path class="cenz_5bga"/><path class="e8em8bc_c"/><path class="vqb375b_r"/></g>`,
 		"fallback": "arcticons:supermarket-management-simulator",
 	});
 }

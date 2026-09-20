@@ -20,14 +20,6 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.i0vrrlbis {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M35.687 20.042c0-2.15-.453-8.834-1.977-10.087c-1.552.953-2.412 6.475-2.412 6.475h0a13 13 0 0 1 4.389 3.612");
-}
-
 .i67d2lmsc {
   fill: none;
   stroke: currentColor;
@@ -46,14 +38,22 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.mv_j9p3cy {
+.mlz78s-wb {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m24 37.267l-2.802 3.068h5.604zM11.682 19.829c0-2.267.476-9.313 2.083-10.633c1.636 1.004 2.543 6.825 2.543 6.825h0a13.7 13.7 0 0 0-4.626 3.807");
+  d: path("M35.687 20.042c0-2.15-.453-8.834-1.977-10.087c-1.552.953-2.412 6.475-2.412 6.475a13 13 0 0 1 4.389 3.612");
 }
-</style><path class="i67d2lmsc"/><circle class="fykl9jb3t"/><path class="i0vrrlbis"/><circle class="lr60nwbnd"/><path class="mv_j9p3cy"/>`,
+
+.r9s59j9jk {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m24 37.267l-2.802 3.068h5.604zM11.682 19.829c0-2.267.476-9.313 2.083-10.633c1.636 1.004 2.543 6.825 2.543 6.825a13.7 13.7 0 0 0-4.626 3.807");
+}
+</style><path class="i67d2lmsc"/><circle class="fykl9jb3t"/><path class="mlz78s-wb"/><circle class="lr60nwbnd"/><path class="r9s59j9jk"/>`,
 		"fallback": "arcticons:husky",
 	});
 }

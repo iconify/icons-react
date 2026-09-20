@@ -43,12 +43,12 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.o8m0nsbfs {
+.rdflh0bjc {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M20.381 20.761v7.079M12.5 25.169a2.67 2.67 0 0 0 2.672 2.671h0a2.67 2.67 0 0 0 2.671-2.671v-1.737a2.67 2.67 0 0 0-2.671-2.671h0a2.67 2.67 0 0 0-2.672 2.671m0-2.671v10.686");
+  d: path("M20.381 20.761v7.079M12.5 25.169a2.672 2.672 0 1 0 5.343 0v-1.737a2.672 2.672 0 1 0-5.343 0m0-2.671v10.686");
 }
 
 .zhcn2rb1d {
@@ -58,7 +58,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("m28.353 20.761l-2.671 7.079l-2.672-7.079");
 }
-</style><rect class="j3s9ivbxi"/><path class="zhcn2rb1d"/><rect class="hslkrf1jh"/><circle class="g2f95brax"/><path class="o8m0nsbfs"/>`,
+</style><rect class="j3s9ivbxi"/><path class="zhcn2rb1d"/><rect class="hslkrf1jh"/><circle class="g2f95brax"/><path class="rdflh0bjc"/>`,
 		"fallback": "arcticons:pivo",
 	});
 }

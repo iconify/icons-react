@@ -21,14 +21,14 @@ function Component({width, height, ...props}) {
   ry: 15.687px;
 }
 
-.w0-lsqb_w {
+.s3mgl48yw {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M25.092 26.95a6.21 6.21 0 0 0 7.517 4.487h0a6.21 6.21 0 0 0 4.487-7.517l-.985-3.901a6.21 6.21 0 0 0-7.517-4.487h0a6.21 6.21 0 0 0-4.487 7.517m-1.515-6.003l6.06 24.008m-14.028-20.65a6.37 6.37 0 0 1 4.578-7.73h0m-6.154 1.575l4.176 16.309");
+  d: path("M25.092 26.95a6.21 6.21 0 0 0 7.517 4.487a6.21 6.21 0 0 0 4.487-7.517l-.985-3.901a6.21 6.21 0 0 0-7.517-4.487a6.21 6.21 0 0 0-4.487 7.517m-1.515-6.003l6.06 24.008m-14.028-20.65a6.37 6.37 0 0 1 4.578-7.73m-6.154 1.575l4.176 16.309");
 }
-</style><ellipse transform="rotate(-19.915 24 23.188)" class="repp7_btm"/><path class="w0-lsqb_w"/>`,
+</style><ellipse transform="rotate(-19.915 24 23.188)" class="repp7_btm"/><path class="s3mgl48yw"/>`,
 		"fallback": "arcticons:radioparadise",
 	});
 }

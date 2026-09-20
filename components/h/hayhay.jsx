@@ -35,20 +35,20 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.j_6ta9lwm {
+.k793x618l {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M31.477 15.965v3.357c0 1.12-.916 2.035-2.035 2.035s-2.035-.916-2.035-2.035v-3.357m-2.06 3.4c0 1.1-.9 2-2 2h0c-1.1 0-2-.9-2-2v-1.3c0-1.1.9-2 2-2h0c1.1 0 2 .9 2 2m0 3.3v-5.4");
+  d: path("M34.159 28.037v3.3c0 1.1-.9 2-2 2s-2-.9-2-2v-3.3m-2.112 3.4c0 1.1-.9 2-2 2s-2-.9-2-2v-1.3c0-1.1.9-2 2-2s2 .9 2 2m0 3.3v-5.4m-10.11-2.7v8.1m0-3.4c0-1.1.9-2 2-2s2 .9 2 2v3.3M14.02 13.365v8m5.3-8v8m-5.3-4.1h5.3m12.157 2.159v2.747a2.04 2.04 0 0 1-2.035 2.035c-.61 0-1.12-.204-1.424-.61");
 }
 
-.lz_duyb_k {
+.ke8hnqb7s {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M34.159 28.037v3.3c0 1.1-.9 2-2 2s-2-.9-2-2v-3.3m-2.112 3.4c0 1.1-.9 2-2 2h0c-1.1 0-2-.9-2-2v-1.3c0-1.1.9-2 2-2h0c1.1 0 2 .9 2 2m0 3.3v-5.4m-10.11-2.7v8.1m0-3.4c0-1.1.9-2 2-2s2 .9 2 2v3.3M14.02 13.365v8m5.3-8v8m-5.3-4.1h5.3m12.157 2.159v2.747a2.04 2.04 0 0 1-2.035 2.035c-.61 0-1.12-.204-1.424-.61");
+  d: path("M31.477 15.965v3.357c0 1.12-.916 2.035-2.035 2.035s-2.035-.916-2.035-2.035v-3.357m-2.06 3.4c0 1.1-.9 2-2 2s-2-.9-2-2v-1.3c0-1.1.9-2 2-2s2 .9 2 2m0 3.3v-5.4");
 }
 
 .mvh581k_h {
@@ -58,7 +58,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M34.159 31.437v2.7c0 1.1-.9 2-2 2c-.6 0-1.1-.2-1.4-.6");
 }
-</style><path class="mvh581k_h"/><path class="lz_duyb_k"/><path class="j_6ta9lwm"/><circle class="cpk0fnbgt"/><path class="bn-bzibws"/><circle class="gy5hm0bwj"/>`,
+</style><path class="mvh581k_h"/><path class="k793x618l"/><path class="ke8hnqb7s"/><circle class="cpk0fnbgt"/><path class="bn-bzibws"/><circle class="gy5hm0bwj"/>`,
 		"fallback": "arcticons:hayhay",
 	});
 }

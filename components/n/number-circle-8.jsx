@@ -20,14 +20,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.ygqau6tqw {
+.xmmew6bft {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M22.7 24a4 4 0 0 0-4 4h0a4 4 0 0 0 4 4h2.6a4 4 0 0 0 4-4h0a4 4 0 0 0-4-4m0 0a4 4 0 0 0 4-4h0a4 4 0 0 0-4-4h-2.6a4 4 0 0 0-4 4h0a4 4 0 0 0 4 4m0 0h2.6");
+  d: path("M22.7 24a4 4 0 0 0 0 8h2.6a4 4 0 0 0 0-8m0 0a4 4 0 0 0 0-8h-2.6a4 4 0 0 0 0 8m0 0h2.6");
 }
-</style><circle class="cpk0fnbgt"/><path class="ygqau6tqw"/>`,
+</style><circle class="cpk0fnbgt"/><path class="xmmew6bft"/>`,
 		"fallback": "arcticons:number-circle-8",
 	});
 }

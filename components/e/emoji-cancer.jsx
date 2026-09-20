@@ -18,6 +18,14 @@ function Component({width, height, ...props}) {
   d: path("M31.94 31.994s-8.356 3.69-18.354-2.322");
 }
 
+.f-8e6obab {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M22.158 19.86a4.285 4.285 0 1 1-4.286-4.284a4.286 4.286 0 0 1 4.286 4.285");
+}
+
 .i9clfwm2k {
   fill: none;
   stroke: currentColor;
@@ -33,15 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M16.06 16.006s8.356-3.69 18.354 2.322m-8.572 9.812a4.285 4.285 0 1 1 8.57 0a4.285 4.285 0 0 1-8.57 0");
 }
-
-.pb8k80bey {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M22.158 19.86a4.285 4.285 0 1 1-4.286-4.284h0a4.286 4.286 0 0 1 4.286 4.285");
-}
-</style><path class="pb8k80bey"/><path class="njmq7xbhb"/><path class="b7naesbox"/><path class="i9clfwm2k"/>`,
+</style><path class="f-8e6obab"/><path class="njmq7xbhb"/><path class="b7naesbox"/><path class="i9clfwm2k"/>`,
 		"fallback": "arcticons:emoji-cancer",
 	});
 }

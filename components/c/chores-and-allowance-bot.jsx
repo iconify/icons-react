@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.f9hbkibmr {
+		"content": `<style>.bkzuvfbrr {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("m36.762 23.881l1.303.179c1.373 3.423 2.314 9.999-1.818 11.623c-.837.33-1.13 1.72-.803 2.642c.387 1.091 1.12 1.594 1.902 1.542c2.51-.164 6.51-5.093 6.129-10.059s-2.177-7.312-2.177-7.312c.106-1.628-.471-2.795-.471-2.795");
+}
+
+.f9hbkibmr {
   cx: 18.261px;
   cy: 17.892px;
   fill: none;
@@ -90,14 +98,6 @@ function Component({width, height, ...props}) {
   d: path("m36.176 35.718l-.22-.965a1.47 1.47 0 0 0-1.72-1.114l-7.74 1.535m-3.217.638l-8.96 1.777a1.47 1.47 0 0 0-1.163 1.692l.462 2.671h23.984l-.476-2.08");
 }
 
-.ykvk-obdi {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("m36.762 23.881l1.303.179h0c1.373 3.423 2.314 9.999-1.818 11.623c-.837.33-1.13 1.72-.803 2.642c.387 1.091 1.12 1.594 1.902 1.542c2.51-.164 6.51-5.093 6.129-10.059s-2.177-7.312-2.177-7.312c.106-1.628-.471-2.795-.471-2.795");
-}
-
 .za_4ar42c {
   cx: 7.451px;
   cy: 8.999px;
@@ -107,7 +107,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="fpxu9iw-e"/><circle class="za_4ar42c"/><path class="ucs5-uh0o"/><circle class="jly8vcc9b"/><path class="m4guphb_o"/><path class="ykvk-obdi"/><path class="ulg-_1bqd"/><path class="jsqdzbcma"/><ellipse transform="rotate(-25.6 18.26 17.892)" class="f9hbkibmr"/><ellipse transform="rotate(-25.6 22.042 16.237)" class="r-fzvnb6f"/><path class="u3h-t_bja"/>`,
+</style><path class="fpxu9iw-e"/><circle class="za_4ar42c"/><path class="ucs5-uh0o"/><circle class="jly8vcc9b"/><path class="m4guphb_o"/><path class="bkzuvfbrr"/><path class="ulg-_1bqd"/><path class="jsqdzbcma"/><ellipse transform="rotate(-25.6 18.26 17.892)" class="f9hbkibmr"/><ellipse transform="rotate(-25.6 22.042 16.237)" class="r-fzvnb6f"/><path class="u3h-t_bja"/>`,
 		"fallback": "arcticons:chores-and-allowance-bot",
 	});
 }

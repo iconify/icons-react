@@ -10,20 +10,20 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.n0e91peoz {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M24 2.5A21.51 21.51 0 0 0 2.5 24h0A21.51 21.51 0 0 0 24 45.5h0a21.5 21.5 0 0 0 0-43");
-}
-
-.rnk1f6bla {
+		"content": `<style>.rnk1f6bla {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   d: path("M27.13 30.86V11.5h5.01");
+}
+
+.tmz9clp-b {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M24 2.5A21.51 21.51 0 0 0 2.5 24A21.51 21.51 0 0 0 24 45.5a21.5 21.5 0 0 0 0-43");
 }
 
 .ul_hhpq-q {
@@ -35,7 +35,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="n0e91peoz"/><circle class="ul_hhpq-q"/><path class="rnk1f6bla"/>`,
+</style><path class="tmz9clp-b"/><circle class="ul_hhpq-q"/><path class="rnk1f6bla"/>`,
 		"fallback": "arcticons:musicpiped",
 	});
 }

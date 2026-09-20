@@ -21,14 +21,14 @@ function Component({width, height, ...props}) {
   ry: 13.633px;
 }
 
-.ohaqbvdwm {
+.yzdo72b6p {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M18.12 37.633A13.626 13.626 0 0 1 4.5 24h0a13.626 13.626 0 0 1 13.62-13.633");
+  d: path("M18.12 37.633A13.626 13.626 0 0 1 4.5 24a13.626 13.626 0 0 1 13.62-13.633");
 }
-</style><ellipse class="fv763l4rj"/><path class="ohaqbvdwm"/>`,
+</style><ellipse class="fv763l4rj"/><path class="yzdo72b6p"/>`,
 		"fallback": "arcticons:prepaidguthaben",
 	});
 }

@@ -14,8 +14,8 @@ function Component({width, height, ...props}) {
   d: path("M4.119 15.759c10.987 4.969 6.3-4.537 18.974 4.188c-10.25-6.01-9.11 4.107-19.729-2.062q.321-1.083.755-2.126");
 }
 
-.sovudjfsg {
-  d: path("m22.44 24.078l-2.611 21h0C8.409 42.727.78 31.457 2.834 19.98c4.386 2.355 3.452 1.876 4.544 2.201c2.513.749 5.968-.6 5.968-.6h0c3.178-1.193 6.159.345 9.094 2.496");
+.n81w_j3sm {
+  d: path("m22.44 24.078l-2.611 21C8.409 42.727.78 31.457 2.834 19.98c4.386 2.355 3.452 1.876 4.544 2.201c2.513.749 5.968-.6 5.968-.6c3.178-1.193 6.159.345 9.094 2.496");
 }
 
 .t9zltacyq {
@@ -28,7 +28,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><path class="t9zltacyq"/><path class="sovudjfsg"/><path class="aduq2vb8r"/></g>`,
+</style><g class="y9tr6bcfx"><path class="t9zltacyq"/><path class="n81w_j3sm"/><path class="aduq2vb8r"/></g>`,
 		"fallback": "arcticons:hrone-inbox",
 	});
 }

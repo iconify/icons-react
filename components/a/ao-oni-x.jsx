@@ -10,20 +10,20 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.clqjpab8y {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M15.665 27.77c-.725-2.18-1.095-4.495-1.366-6.702c-.33-2.69-.946-4.941 1.036-6.77s3.493-1.084 5.74-1.059h0c2.248.026 4.709-2.531 7.396-2.337s3.807 1.035 5.071 3.966c1.033 2.395.25 6.63-.23 10.215m-.678 4.52c-.86 2.793-2.83 4.957-4.883 6.29c-2.573 1.672-4.461 1.543-6.505.08c-1.806-1.293-3.511-3.592-4.636-5.884");
-}
-
-.e-a3chban {
+		"content": `<style>.e-a3chban {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   d: path("M23.167 25.986c-.616 1.366-1.234 2.809-1.191 3.647s.859 1.35 1.43 1.645c.66.248 1.461.896 2.513.224c1.052-.673 1.978-1.846 1.574-3.37c-.236-.88-.732-2.008-1.103-3.009m-7.492 6.214a4.7 4.7 0 0 1 1.933-1.871m8.043-.436c.764.669 1.035 1.019 1.469 1.884");
+}
+
+.h6rhg2qri {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M15.665 27.77c-.725-2.18-1.095-4.495-1.366-6.702c-.33-2.69-.946-4.941 1.036-6.77s3.493-1.084 5.74-1.059s4.709-2.531 7.396-2.337s3.807 1.035 5.071 3.966c1.033 2.395.25 6.63-.23 10.215m-.678 4.52c-.86 2.793-2.83 4.957-4.883 6.29c-2.573 1.672-4.461 1.543-6.505.08c-1.806-1.293-3.511-3.592-4.636-5.884");
 }
 
 .k6zstrozt {
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M33.5 42.5h8M18.58 13.078l-2.879-3.96a1.018 1.018 0 0 1 .824-1.618H18.6v-2H5.5v2h2.082c1.256 0 2.436.6 3.175 1.617l4.123 5.672m18.494-.281l3.918-5.39A3.93 3.93 0 0 1 40.468 7.5H42.5v-2h-13v2h2.024c.832 0 1.314.944.824 1.617l-1.64 2.254m-13.892 19.11l-6.11 8.401A3.93 3.93 0 0 1 7.53 40.5H5.5v2h13.1v-2h-2.123a1.018 1.018 0 0 1-.824-1.618l3.53-4.859m10.15.644l3.065 4.215c.49.674.009 1.617-.824 1.617H29.5v2h13v-2h-1.982c-1.257 0-2.437-.6-3.176-1.617l-5.448-7.49");
 }
-</style><path class="neswn8b-a"/><path class="clqjpab8y"/><path class="e-a3chban"/><path class="k6zstrozt"/>`,
+</style><path class="neswn8b-a"/><path class="h6rhg2qri"/><path class="e-a3chban"/><path class="k6zstrozt"/>`,
 		"fallback": "arcticons:ao-oni-x",
 	});
 }

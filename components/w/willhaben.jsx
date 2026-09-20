@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.d667lpb3i {
+		"content": `<style>.gepekiu-j {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M42.5 24.51h-27a7.01 7.01 0 0 1-7.01-7.01h0a7.01 7.01 0 0 1 7.01-7.01h27");
+  d: path("M42.5 24.51h-27a7.01 7.01 0 0 1 0-14.02h27");
 }
 
 .j98an1bqd {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("m23.504 13.131l-2.184 8.738l-2.185-8.738l-2.184 8.738l-2.185-8.738m11.469 0v8.738m2.73-8.738v8.738h4.369m2.185-8.738v8.738h4.369m-14.02 2.641l-3.742 6.475m9.492-6.475l-5.128 8.92m-4.364-2.445c-2 3.464 2.33 5.964 4.33 2.5");
 }
-</style><path class="j98an1bqd"/><path class="zka6-ck3p"/><path class="d667lpb3i"/>`,
+</style><path class="j98an1bqd"/><path class="zka6-ck3p"/><path class="gepekiu-j"/>`,
 		"fallback": "arcticons:willhaben",
 	});
 }

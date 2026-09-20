@@ -10,11 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.bsw27db7a {
-  d: path("M31.8 15.857a5.84 5.84 0 0 1 .935 3.155h0c0 3.401-2.961 6.158-6.614 6.158s-6.615-2.757-6.615-6.158a5.87 5.87 0 0 1 1.194-3.529");
-}
-
-.gh61ko8fc {
+		"content": `<style>.gh61ko8fc {
   d: path("M20.603 10.646c.025-.815 2.58-1.41 5.706-1.327s5.639.81 5.613 1.624v4.552c-.026 1.011-2.58 1.748-5.706 1.646c-3.126-.101-5.64-1.004-5.614-2.015z");
 }
 
@@ -38,6 +34,10 @@ function Component({width, height, ...props}) {
   d: path("m23.755 36.534l-5.985-2.34");
 }
 
+.rpk-ax13f {
+  d: path("M31.8 15.857a5.84 5.84 0 0 1 .935 3.155c0 3.401-2.961 6.158-6.614 6.158s-6.615-2.757-6.615-6.158a5.87 5.87 0 0 1 1.194-3.529");
+}
+
 .ta-gpsbxl {
   fill: none;
   stroke: currentColor;
@@ -56,7 +56,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="reayskbri"/><g class="y9tr6bcfx"><path class="bsw27db7a"/><path class="gh61ko8fc"/><path class="n4_tpdbpn"/><path class="v987qobxq"/><path class="jdwoanbgh"/><path class="myzthgjud"/></g><path class="ta-gpsbxl"/>`,
+</style><path class="reayskbri"/><g class="y9tr6bcfx"><path class="rpk-ax13f"/><path class="gh61ko8fc"/><path class="n4_tpdbpn"/><path class="v987qobxq"/><path class="jdwoanbgh"/><path class="myzthgjud"/></g><path class="ta-gpsbxl"/>`,
 		"fallback": "arcticons:my-perfect-hotel",
 	});
 }

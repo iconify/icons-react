@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ery9bdx7q {
+		"content": `<style>.gw8hlp7jt {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M35.118 9.3a2.33 2.33 0 0 1 2.331 2.331v.43a3.72 3.72 0 0 0 3.72 3.72h0a2.33 2.33 0 0 1 2.331 2.331v7.158a2.33 2.33 0 0 1-2.33 2.331h0a3.72 3.72 0 0 0-3.72 3.72v.43a2.33 2.33 0 0 1-2.332 2.331h-18.72l-3.393 4.112c-.827 1.002-2.454.417-2.454-.882v-5.99a3.72 3.72 0 0 0-3.72-3.72h0A2.33 2.33 0 0 1 4.5 25.27v-7.158a2.33 2.33 0 0 1 2.33-2.331h0a3.72 3.72 0 0 0 3.72-3.72v-.43a2.33 2.33 0 0 1 2.332-2.33z");
+  d: path("M35.118 9.3a2.33 2.33 0 0 1 2.331 2.331v.43a3.72 3.72 0 0 0 3.72 3.72a2.33 2.33 0 0 1 2.331 2.331v7.158a2.33 2.33 0 0 1-2.33 2.331a3.72 3.72 0 0 0-3.72 3.72v.43a2.33 2.33 0 0 1-2.332 2.331h-18.72l-3.393 4.112c-.827 1.002-2.454.417-2.454-.882v-5.99a3.72 3.72 0 0 0-3.72-3.72A2.33 2.33 0 0 1 4.5 25.27v-7.158a2.33 2.33 0 0 1 2.33-2.331a3.72 3.72 0 0 0 3.72-3.72v-.43a2.33 2.33 0 0 1 2.332-2.33z");
 }
 
 .oxpyp4blm {
@@ -38,7 +38,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M15.697 20.07a2.477 2.477 0 0 1 4.954 0v2.826a2.477 2.477 0 0 1-4.954 0zm11.652 0a2.477 2.477 0 0 1 4.954 0v2.826a2.477 2.477 0 0 1-4.954 0z");
 }
-</style><rect class="oxpyp4blm"/><path class="ery9bdx7q"/><path class="qc03nfwmv"/>`,
+</style><rect class="oxpyp4blm"/><path class="gw8hlp7jt"/><path class="qc03nfwmv"/>`,
 		"fallback": "arcticons:poe-ai-chat",
 	});
 }

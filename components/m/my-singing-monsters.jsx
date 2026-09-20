@@ -26,10 +26,6 @@ function Component({width, height, ...props}) {
   d: path("M17.504 23.052c-.178.369-.309.784-.089 1.17c.316.552 1.38 1.127 2.095.979c.119-.697.358-1.257.594-1.822c-.485-.58-1.162-.94-1.75-.936");
 }
 
-.i5v4ybceq {
-  d: path("M13.59 13.107a1.46 1.46 0 0 1-1.467 1.452h0c-.81 0-1.466-.65-1.466-1.452v0c0-.801.656-1.451 1.466-1.451s1.466.65 1.466 1.451m-4.222-.44c0 .801-.656 1.451-1.466 1.451s-1.466-.65-1.466-1.451s.656-1.452 1.466-1.452h0c.81 0 1.466.65 1.466 1.452");
-}
-
 .ji07p3d5m {
   d: path("M9.228 5.107a3.48 3.48 0 0 0-3.369 2.837l-.714 3.834a3.46 3.46 0 0 0 2.806 4.037l1.654.3c.623 3.35 2.456 5.099 5.272 5.875c-1.759-1.523-2.565-3.16-2.11-5.423a3.48 3.48 0 0 0 3.133-2.823l.714-3.834a3.46 3.46 0 0 0-2.806-4.037l-3.872-.707a3.6 3.6 0 0 0-.708-.06");
 }
@@ -54,13 +50,17 @@ function Component({width, height, ...props}) {
   d: path("m13.567 13.18l.508-5.585l-3.964.803l-.805 4.649");
 }
 
+.xqub0hzia {
+  d: path("M13.59 13.107c0 .802-.657 1.452-1.467 1.452s-1.466-.65-1.466-1.452s.656-1.451 1.466-1.451s1.466.65 1.466 1.451m-4.222-.44c0 .801-.656 1.451-1.466 1.451s-1.466-.65-1.466-1.451s.656-1.452 1.466-1.452s1.466.65 1.466 1.452");
+}
+
 .y9tr6bcfx {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="eib0e-bwk"/><g class="y9tr6bcfx"><path class="jpv1hebaw"/><path class="hza22accx"/><path class="segullb9d"/><path class="kc9lp6azr"/><path class="bqzx6hb2o"/><path class="qynyhnbwx"/></g><g class="y9tr6bcfx"><path class="wnhys3q4z"/><path class="i5v4ybceq"/><path class="ji07p3d5m"/></g>`,
+</style><path class="eib0e-bwk"/><g class="y9tr6bcfx"><path class="jpv1hebaw"/><path class="hza22accx"/><path class="segullb9d"/><path class="kc9lp6azr"/><path class="bqzx6hb2o"/><path class="qynyhnbwx"/></g><g class="y9tr6bcfx"><path class="wnhys3q4z"/><path class="xqub0hzia"/><path class="ji07p3d5m"/></g>`,
 		"fallback": "arcticons:my-singing-monsters",
 	});
 }

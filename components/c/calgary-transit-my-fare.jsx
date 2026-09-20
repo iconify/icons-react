@@ -42,12 +42,12 @@ function Component({width, height, ...props}) {
   d: path("M14.246 35.181h-3.709v-1.534c0-.66 3.566-.262 3.71 1.534m11.743 0h3.709v-1.534c0-.66-3.566-.262-3.71 1.534");
 }
 
-.rmbp7mbwe {
+.sfv7ytben {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M31.111 22.239c.705.496 1.43.645 2.39.388l1.28-.343a2.215 2.215 0 0 0 1.56-2.704h0a2.214 2.214 0 0 0-2.703-1.562l-1.387.372a2.214 2.214 0 0 1-2.703-1.561h0a2.214 2.214 0 0 1 1.56-2.705l1.28-.342c.96-.258 1.657-.216 2.39.388m-3.612-2.222l.512 2.023m3.045 10.489l-.513-2.023");
+  d: path("M31.111 22.239c.705.496 1.43.645 2.39.388l1.28-.343a2.215 2.215 0 0 0 1.56-2.704a2.214 2.214 0 0 0-2.703-1.562l-1.387.372a2.214 2.214 0 0 1-2.703-1.561a2.214 2.214 0 0 1 1.56-2.705l1.28-.342c.96-.258 1.657-.216 2.39.388m-3.612-2.222l.512 2.023m3.045 10.489l-.513-2.023");
 }
 
 .tulq8j6qe {
@@ -83,7 +83,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M26.478 8.595L34.25 6.51a2.536 2.536 0 0 1 3.124 1.831l5.046 19.905a2.623 2.623 0 0 1-1.857 3.169L32.792 33.5a2.536 2.536 0 0 1-3.124-1.832l-5.046-19.905a2.62 2.62 0 0 1 1.856-3.168M37.32 29.317l-2.423.65");
 }
-</style><path class="yjnbcv9yb"/><path class="m4mut1vvq"/><path class="l87iohwyk"/><rect class="vyf0ocb-f"/><rect class="vyf0ocb-f"/><path class="qa9k4f7ba"/><path class="g0_s7bcdv"/><rect class="tulq8j6qe"/><path class="rmbp7mbwe"/>`,
+</style><path class="yjnbcv9yb"/><path class="m4mut1vvq"/><path class="l87iohwyk"/><rect class="vyf0ocb-f"/><rect class="vyf0ocb-f"/><path class="qa9k4f7ba"/><path class="g0_s7bcdv"/><rect class="tulq8j6qe"/><path class="sfv7ytben"/>`,
 		"fallback": "arcticons:calgary-transit-my-fare",
 	});
 }

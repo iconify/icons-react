@@ -20,14 +20,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.ug35shkdh {
+.zr18wtn7k {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M28.525 30.695a5.89 5.89 0 0 1-4.516 2.102h0a5.9 5.9 0 0 1-5.9-5.9v-5.794a5.9 5.9 0 0 1 5.9-5.9h0a5.89 5.89 0 0 1 4.535 2.125M15.91 21.862h6.598M15.91 26.18h6.598");
+  d: path("M28.525 30.695a5.9 5.9 0 0 1-10.416-3.798v-5.794a5.9 5.9 0 0 1 5.9-5.9a5.89 5.89 0 0 1 4.535 2.125M15.91 21.862h6.598M15.91 26.18h6.598");
 }
-</style><path class="ug35shkdh"/><circle class="cpk0fnbgt"/>`,
+</style><path class="zr18wtn7k"/><circle class="cpk0fnbgt"/>`,
 		"fallback": "arcticons:currency-euro",
 	});
 }

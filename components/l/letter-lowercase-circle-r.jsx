@@ -20,14 +20,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.hgplxeown {
+.o2hg18b8n {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M22 22.7a4 4 0 0 1 4-4h0m-4 0v10.6");
+  d: path("M22 22.7a4 4 0 0 1 4-4m-4 0v10.6");
 }
-</style><circle class="cpk0fnbgt"/><path class="hgplxeown"/>`,
+</style><circle class="cpk0fnbgt"/><path class="o2hg18b8n"/>`,
 		"fallback": "arcticons:letter-lowercase-circle-r",
 	});
 }

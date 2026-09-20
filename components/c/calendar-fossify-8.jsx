@@ -10,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gdpz_rbbn {
+		"content": `<style>.a3vyzrbnc {
+  d: path("M24.91 31.195c1.54 0 2.8-1.26 2.8-2.8s-1.26-2.8-2.8-2.8h-1.82c-1.54 0-2.8 1.26-2.8 2.8s1.26 2.8 2.8 2.8");
+}
+
+.gdpz_rbbn {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -18,12 +22,8 @@ function Component({width, height, ...props}) {
   d: path("M11.532 9.567h24.936a4 4 0 0 1 4 4V38.5a4 4 0 0 1-4 4H11.532a4 4 0 0 1-4-4V13.567a4 4 0 0 1 4-4M13.715 5.5v4.068M34.14 5.5v4.068M9.731 19.89h28.36");
 }
 
-.lieeyubpt {
-  d: path("M24.91 31.195h-1.82c-1.54 0-2.8 1.26-2.8 2.8h0c0 1.54 1.26 2.8 2.8 2.8h1.82c1.54 0 2.8-1.26 2.8-2.8h0c0-1.54-1.26-2.8-2.8-2.8");
-}
-
-.v9xun51an {
-  d: path("M24.91 31.195c1.54 0 2.8-1.26 2.8-2.8h0c0-1.54-1.26-2.8-2.8-2.8h-1.82c-1.54 0-2.8 1.26-2.8 2.8h0c0 1.54 1.26 2.8 2.8 2.8");
+.s9z9y9bvu {
+  d: path("M24.91 31.195h-1.82c-1.54 0-2.8 1.26-2.8 2.8s1.26 2.8 2.8 2.8h1.82c1.54 0 2.8-1.26 2.8-2.8s-1.26-2.8-2.8-2.8");
 }
 
 .y9tr6bcfx {
@@ -32,7 +32,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><path class="lieeyubpt"/><path class="v9xun51an"/></g><path class="gdpz_rbbn"/>`,
+</style><g class="y9tr6bcfx"><path class="s9z9y9bvu"/><path class="a3vyzrbnc"/></g><path class="gdpz_rbbn"/>`,
 		"fallback": "arcticons:calendar-fossify-8",
 	});
 }

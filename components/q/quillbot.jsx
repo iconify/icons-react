@@ -26,12 +26,12 @@ function Component({width, height, ...props}) {
   d: path("M13.207 16.936h21.586c.554 0 1 .446 1 1v13.088c0 .554-.446 1-1 1H13.207c-.554 0-1-.446-1-1V17.936c0-.554.446-1 1-1");
 }
 
-.orco63bxw {
+.m4_2n8b4z {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M19.767 24.48a1.963 1.963 0 0 1-1.963 1.964a1.963 1.963 0 0 1-1.964-1.964a1.963 1.963 0 0 1 1.964-1.963a1.963 1.963 0 0 1 1.963 1.963m12.393 0a1.963 1.963 0 0 1-1.964 1.964a1.963 1.963 0 0 1-1.963-1.964a1.963 1.963 0 0 1 1.963-1.963a1.963 1.963 0 0 1 1.964 1.963M12.852 42.13v-6.194c0-.554.446-1 1-1v0h20.296c.554 0 1 .446 1 1v6.194m-14.569-9.789v2.189m6.842-2.189v2.189");
+  d: path("M19.767 24.48a1.963 1.963 0 0 1-1.963 1.964a1.963 1.963 0 0 1-1.964-1.964a1.963 1.963 0 0 1 1.964-1.963a1.963 1.963 0 0 1 1.963 1.963m12.393 0a1.963 1.963 0 0 1-1.964 1.964a1.963 1.963 0 0 1-1.963-1.964a1.963 1.963 0 0 1 1.963-1.963a1.963 1.963 0 0 1 1.964 1.963M12.852 42.13v-6.194c0-.554.446-1 1-1h20.296c.554 0 1 .446 1 1v6.194m-14.569-9.789v2.189m6.842-2.189v2.189");
 }
 
 .v8dpe9bhd {
@@ -49,7 +49,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M45.5 24A21.5 21.5 0 0 1 24 45.5A21.5 21.5 0 0 1 2.5 24A21.5 21.5 0 0 1 24 2.5A21.5 21.5 0 0 1 45.5 24");
 }
-</style><path class="wspv4fb1t"/><path class="g0blczb4a"/><path class="orco63bxw"/><path class="blsexxygg"/><path class="v8dpe9bhd"/>`,
+</style><path class="wspv4fb1t"/><path class="g0blczb4a"/><path class="m4_2n8b4z"/><path class="blsexxygg"/><path class="v8dpe9bhd"/>`,
 		"fallback": "arcticons:quillbot",
 	});
 }

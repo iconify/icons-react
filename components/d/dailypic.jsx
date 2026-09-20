@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.mol4wcbcs {
+		"content": `<style>.gjmt7w4ut {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M29.906 25.5h-2.625l3.61-3.609L34.5 25.5h0zm-11.812.001h2.625l-3.61 3.609l-3.609-3.609z");
+  d: path("M29.906 25.5h-2.625l3.61-3.609L34.5 25.5zm-11.812.001h2.625l-3.61 3.609l-3.609-3.609z");
 }
 
 .ns9ribt9h {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M20.09 31.288A6.986 6.986 0 0 0 30.985 25.5m-3.079-5.792a6.986 6.986 0 0 0-10.89 5.792");
 }
-</style><path class="ns9ribt9h"/><path class="p9kczcb_s"/><path class="mol4wcbcs"/>`,
+</style><path class="ns9ribt9h"/><path class="p9kczcb_s"/><path class="gjmt7w4ut"/>`,
 		"fallback": "arcticons:dailypic",
 	});
 }

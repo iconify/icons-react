@@ -48,6 +48,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
+.ic50a2bwf {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M21.508 14.977a12.9 12.9 0 0 0-7.979 2.644c-2.036 1.562-3.564 3.714-4.677 6.027c-1.509 3.137-2.295 6.744-1.495 10.132c.462 1.958 1.44 3.78 2.753 5.305c1.312 1.524 2.952 2.754 4.744 3.667c1.812.923 3.793 1.53 5.819 1.7s4.097-.104 5.982-.866c2.996-1.212 5.411-3.62 7.043-6.41c1.72-2.94 2.637-6.408 2.23-9.79a13.45 13.45 0 0 0-2.41-6.197a7.3 7.3 0 0 0 .736-5.926c-.525-1.669-1.705-3.145-3.273-3.92c-1.423-.702-3.11-.804-4.642-.395a7.58 7.58 0 0 0-4.83 4.03Z");
+}
+
 .jgshzzb_z {
   cx: 30.819px;
   cy: 37.602px;
@@ -56,14 +64,6 @@ function Component({width, height, ...props}) {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-}
-
-.ny31uq7th {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M21.508 14.977a12.9 12.9 0 0 0-7.979 2.644c-2.036 1.562-3.564 3.714-4.677 6.027c-1.509 3.137-2.295 6.744-1.495 10.132c.462 1.958 1.44 3.78 2.753 5.305c1.312 1.524 2.952 2.754 4.744 3.667c1.812.923 3.793 1.53 5.819 1.7s4.097-.104 5.982-.866c2.996-1.212 5.411-3.62 7.043-6.41c1.72-2.94 2.637-6.408 2.23-9.79a13.45 13.45 0 0 0-2.41-6.197a7.3 7.3 0 0 0 .736-5.926c-.525-1.669-1.705-3.145-3.273-3.92c-1.423-.702-3.11-.804-4.642-.395a7.58 7.58 0 0 0-4.83 4.03z");
 }
 
 .p5moxyreo {
@@ -113,7 +113,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M21.386 14.87c1.656 1.528 3.786 3.12 5.788 4.153a25.2 25.2 0 0 0 6.392 2.268m-6.463-2.305L14.871 42.691");
 }
-</style><path class="ny31uq7th"/><circle class="z51pujbzp"/><path class="a8hkybc4x"/><circle class="bk2m-ebfb"/><circle class="p5moxyreo"/><circle class="ykej5nbra"/><circle class="sremcxbem"/><circle class="a7k97iiqf"/><circle class="gm2qidcuf"/><circle class="jgshzzb_z"/><path class="ziwsr2u1k"/>`,
+</style><path class="ic50a2bwf"/><circle class="z51pujbzp"/><path class="a8hkybc4x"/><circle class="bk2m-ebfb"/><circle class="p5moxyreo"/><circle class="ykej5nbra"/><circle class="sremcxbem"/><circle class="a7k97iiqf"/><circle class="gm2qidcuf"/><circle class="jgshzzb_z"/><path class="ziwsr2u1k"/>`,
 		"fallback": "arcticons:n11",
 	});
 }

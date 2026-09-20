@@ -22,8 +22,8 @@ function Component({width, height, ...props}) {
   d: path("M19.445 17.28c.512-1.183.44-2.711-.263-4.153c-2.85-5.85-6.627-5.448-7.276-2.962c-.293 1.125-1.485 8.988 5.846 7.678");
 }
 
-.isvhq6x8l {
-  d: path("M34.6 39.792c.553.462 1.15.674 2.488.674h.312a2 2 0 0 0 2-2v0a2 2 0 0 0-2-1.999");
+.iobfplcma {
+  d: path("M34.6 33.135c.553-.462 1.15-.672 2.49-.669l.31.002a2 2 0 0 1 0 4m-1.537-.001H37.4");
 }
 
 .k7d97o5cy {
@@ -32,10 +32,6 @@ function Component({width, height, ...props}) {
 
 .l3yv7_bzk {
   d: path("M44 36.466a7 7 0 1 1-14 0a7 7 0 0 1 14 0");
-}
-
-.l90b2jpdz {
-  d: path("M34.6 33.135c.553-.462 1.15-.672 2.49-.669l.31.002a2 2 0 0 1 2 2v0a2 2 0 0 1-2 2m-1.537-.001H37.4");
 }
 
 .m28nlqbae {
@@ -48,6 +44,10 @@ function Component({width, height, ...props}) {
 
 .p78-o9bbj {
   d: path("M28.457 32.055c.137-.57.326-1.117.057-1.437c-.872-.59-2.206-.547-2.857-.04M24.45 29.32l-.69 1.473c-1.385 1.072-1.717 2.319-1.36 3.301c.498 1.375 1.29 2.202 1.695 4.406c.116.636.629.568 1.004.629c.734.12 2.312.07 4.094-.008c.239-.086.27-.497.02-1.127a11 11 0 0 1-.321-.916m-2.877-3.697l2.326-.052m-2.238 1.376l2.355-.031");
+}
+
+.wf63a_7hw {
+  d: path("M34.6 39.792c.553.462 1.15.674 2.488.674h.312a2 2 0 0 0 0-4");
 }
 
 .xc51yy0vf {
@@ -68,7 +68,7 @@ function Component({width, height, ...props}) {
 .yczbdlbrs {
   d: path("m22.713 35.02l-.485 1.414m.994-5.454a9 9 0 0 0-2.445-.644l-.591-.822l-.431.359m-5.135 1.335l-.8-.268m11.3-1.869c-1.058.071-.632.864.445 1.237l.014 1.501m2.317-2.023c.506.221.947.547.618.832");
 }
-</style><g class="y9tr6bcfx"><path class="ihaywjbfv"/><path class="xoc80f76w"/><path class="ou7stkqsb"/></g><g class="y9tr6bcfx"><path class="xc51yy0vf"/><path class="m28nlqbae"/></g><g class="y9tr6bcfx"><path class="yczbdlbrs"/><path class="p78-o9bbj"/><path class="dzd3n4b9o"/><path class="k7d97o5cy"/><path class="e3b3eci4w"/></g><g class="y9tr6bcfx"><path class="l3yv7_bzk"/><path class="isvhq6x8l"/><path class="l90b2jpdz"/></g>`,
+</style><g class="y9tr6bcfx"><path class="ihaywjbfv"/><path class="xoc80f76w"/><path class="ou7stkqsb"/></g><g class="y9tr6bcfx"><path class="xc51yy0vf"/><path class="m28nlqbae"/></g><g class="y9tr6bcfx"><path class="yczbdlbrs"/><path class="p78-o9bbj"/><path class="dzd3n4b9o"/><path class="k7d97o5cy"/><path class="e3b3eci4w"/></g><g class="y9tr6bcfx"><path class="l3yv7_bzk"/><path class="wf63a_7hw"/><path class="iobfplcma"/></g>`,
 		"fallback": "arcticons:spider-fighter-3",
 	});
 }

@@ -10,19 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.frfp4zbmz {
-  cx: 23.76px;
-  cy: 13.72px;
-  r: 0.75px;
-  fill: currentColor;
-}
-
-.hx0qswb7f {
+		"content": `<style>.c76i_7yxj {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m35.61 16.73l-3.92 3.92c-1.2 1.2-3.14 1.2-4.34 0h0c-1.2-1.2-1.2-3.14 0-4.34l3.92-3.92");
+  d: path("m35.61 16.73l-3.92 3.92c-1.2 1.2-3.14 1.2-4.34 0s-1.2-3.14 0-4.34l3.92-3.92");
+}
+
+.frfp4zbmz {
+  cx: 23.76px;
+  cy: 13.72px;
+  r: 0.75px;
+  fill: currentColor;
 }
 
 .nbv7jflcx {
@@ -53,7 +53,7 @@ function Component({width, height, ...props}) {
   r: 0.75px;
   fill: currentColor;
 }
-</style><path class="wjpgebbbz"/><path class="hx0qswb7f"/><circle class="frfp4zbmz"/><circle class="wijpodbbu"/><circle class="ybrx6c_lo"/><circle class="nbv7jflcx"/>`,
+</style><path class="wjpgebbbz"/><path class="c76i_7yxj"/><circle class="frfp4zbmz"/><circle class="wijpodbbu"/><circle class="ybrx6c_lo"/><circle class="nbv7jflcx"/>`,
 		"fallback": "arcticons:nordic-noodle",
 	});
 }

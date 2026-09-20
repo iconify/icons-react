@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ainvdubcf {
+		"content": `<style>.aescz6nbn {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M24.058 30.261h-5.935a.52.52 0 0 1-.52-.52h0V14.108c0-.288.232-.52.52-.52h9.362c.288 0 .52.232.52.52V28.23");
+  d: path("M24.058 30.261h-5.935a.52.52 0 0 1-.52-.52V14.108c0-.288.232-.52.52-.52h9.362c.288 0 .52.232.52.52V28.23");
 }
 
 .oz373yb6s {
@@ -49,7 +49,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M40.35 24c0 9.03-7.32 16.35-16.35 16.35S7.65 33.03 7.65 24S14.97 7.65 24 7.65S40.35 14.97 40.35 24");
 }
-</style><path class="oz373yb6s"/><path class="ainvdubcf"/><path class="z-08l801c"/><path class="xm9uzjeuh"/><path class="rf6tbsfpq"/>`,
+</style><path class="oz373yb6s"/><path class="aescz6nbn"/><path class="z-08l801c"/><path class="xm9uzjeuh"/><path class="rf6tbsfpq"/>`,
 		"fallback": "arcticons:beep",
 	});
 }

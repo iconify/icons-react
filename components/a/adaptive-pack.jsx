@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.r_b8i-6ah {
-  d: path("M24.032 17.104c7.67 0 13.887 6.218 13.887 13.887h0c0 1.09-.884 1.975-1.975 1.975H12.056a1.975 1.975 0 0 1-1.975-1.975h0c0-7.67 6.217-13.887 13.887-13.887zm-11.976-2.07l3.949 4.634m20.035-4.634l-3.934 4.634");
+		"content": `<style>.r5qpqxb_u {
+  d: path("M24.032 17.104zc7.67 0 13.887 6.218 13.887 13.887c0 1.09-.884 1.975-1.975 1.975H12.056a1.975 1.975 0 0 1-1.975-1.975c0-7.67 6.217-13.887 13.887-13.887zm-11.976-2.07l3.949 4.634m20.035-4.634l-3.934 4.634");
 }
 
 .wqlddb-sl {
@@ -32,7 +32,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="x4oer2_3y"/><g class="y9tr6bcfx"><path class="wqlddb-sl"/><path class="r_b8i-6ah"/></g>`,
+</style><path class="x4oer2_3y"/><g class="y9tr6bcfx"><path class="wqlddb-sl"/><path class="r5qpqxb_u"/></g>`,
 		"fallback": "arcticons:adaptive-pack",
 	});
 }

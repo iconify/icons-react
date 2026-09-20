@@ -20,12 +20,12 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.mgh-g6hkn {
+.q74ya9che {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M24 16.92a8.5 8.5 0 1 1-8.5 8.5h0a8.5 8.5 0 0 1 8.5-8.5");
+  d: path("M24 16.92a8.5 8.5 0 1 1-8.5 8.5a8.5 8.5 0 0 1 8.5-8.5");
 }
 
 .zyxhuxbbz {
@@ -35,7 +35,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M39.5 12.02h-8l-2.594-4h-9.812l-2.594 4h-8a4 4 0 0 0-4 4v18.8a4 4 0 0 0 4 4h31a4 4 0 0 0 4-4v-18.8a4 4 0 0 0-4-4");
 }
-</style><path class="mgh-g6hkn"/><path class="zyxhuxbbz"/><circle class="g2ql4oemh"/>`,
+</style><path class="q74ya9che"/><path class="zyxhuxbbz"/><circle class="g2ql4oemh"/>`,
 		"fallback": "arcticons:camera",
 	});
 }

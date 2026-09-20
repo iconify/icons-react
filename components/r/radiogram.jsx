@@ -10,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.kwq191bng {
+		"content": `<style>.cgurwaclq {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M13.764 31.903h8.198a1.27 1.27 0 0 1 1.27 1.27a1.27 1.27 0 0 1-1.27 1.272h-8.198a1.27 1.27 0 0 1-1.271-1.271a1.27 1.27 0 0 1 1.27-1.271");
+}
+
+.ck70ipb5m {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M38.69 36.226v-5.898a1.645 1.645 0 0 0-1.645-1.646l-26.103.037a1.65 1.65 0 0 0-1.645 1.645l-.017 5.898");
+}
+
+.kwq191bng {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -36,12 +52,12 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.tt1n1wbxz {
+.t8lxptwsm {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M38.69 36.226v-5.898a1.645 1.645 0 0 0-1.645-1.646h0l-26.103.037a1.65 1.65 0 0 0-1.645 1.645l-.017 5.898");
+  d: path("M38.69 35.099V41a1.645 1.645 0 0 1-1.646 1.645l-26.101-.04a1.65 1.65 0 0 1-1.646-1.645l-.017-5.895m17.283-10.249a2.747 2.747 0 1 1 .01-.247m-15.572 4.12l9.83-3.867m-3.602 3.756l4.43-1.847");
 }
 
 .vg7pcfbfl {
@@ -63,23 +79,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   rx: 1.188px;
 }
-
-.xkmvax62r {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M13.764 31.903h8.198a1.27 1.27 0 0 1 1.27 1.27h0a1.27 1.27 0 0 1-1.27 1.272h-8.198a1.27 1.27 0 0 1-1.271-1.271h0a1.27 1.27 0 0 1 1.27-1.271");
-}
-
-.xtz2bhb8w {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M38.69 35.099V41a1.645 1.645 0 0 1-1.646 1.645h0l-26.101-.04a1.65 1.65 0 0 1-1.646-1.645l-.017-5.895m17.283-10.249a2.747 2.747 0 1 1 .01-.247m-15.572 4.12l9.83-3.867m-3.602 3.756l4.43-1.847");
-}
-</style><path class="vg7pcfbfl"/><path class="tt1n1wbxz"/><path class="xkmvax62r"/><rect class="vqkhh8_wx"/><path class="xtz2bhb8w"/><path class="kwq191bng"/><path class="qtf7u8bgs"/><circle class="rl8zo7brw"/>`,
+</style><path class="vg7pcfbfl"/><path class="ck70ipb5m"/><path class="cgurwaclq"/><rect class="vqkhh8_wx"/><path class="t8lxptwsm"/><path class="kwq191bng"/><path class="qtf7u8bgs"/><circle class="rl8zo7brw"/>`,
 		"fallback": "arcticons:radiogram",
 	});
 }

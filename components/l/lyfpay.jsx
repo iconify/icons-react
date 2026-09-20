@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.i9clfwm2k {
+		"content": `<style>.b4rrn1b7k {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M11 14.408v14.343h7.171m8.891-3.586v4.84a3.586 3.586 0 0 1-3.586 3.586c-.99 0-1.886-.4-2.535-1.05");
+}
+
+.i9clfwm2k {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -25,22 +33,14 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.uo_ot598a {
+.v8t4yyq7f {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M27.062 19.249v5.916a3.586 3.586 0 0 1-3.586 3.586h0a3.586 3.586 0 0 1-3.585-3.586V19.25m12.064 9.501V16.918a2.51 2.51 0 0 1 2.51-2.51h0c1.235 0 2.006.366 2.535 1.05m-7.171 3.791h5.02");
+  d: path("M27.062 19.249v5.916a3.586 3.586 0 1 1-7.171 0V19.25m12.064 9.501V16.918a2.51 2.51 0 0 1 2.51-2.51c1.235 0 2.006.366 2.535 1.05m-7.171 3.791h5.02");
 }
-
-.uopm3zbbt {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M11 14.408v14.343h7.171m8.891-3.586v4.84a3.586 3.586 0 0 1-3.586 3.586h0c-.99 0-1.886-.4-2.535-1.05");
-}
-</style><circle class="qc5g_ys0l"/><path class="uopm3zbbt"/><path class="uo_ot598a"/><path class="i9clfwm2k"/>`,
+</style><circle class="qc5g_ys0l"/><path class="b4rrn1b7k"/><path class="v8t4yyq7f"/><path class="i9clfwm2k"/>`,
 		"fallback": "arcticons:lyfpay",
 	});
 }

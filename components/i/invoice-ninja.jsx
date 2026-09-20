@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ozw87q3cc {
+		"content": `<style>.i4y8aybfv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M30.996 24.053a2.603 2.603 0 0 1-2.452-2.608c0-1.442 1.16-2.612 2.592-2.612s2.593 1.17 2.593 2.612c0 .289-.048.575-.14.849m-19.177-.001a2.6 2.6 0 0 1-.14-.848a2.6 2.6 0 0 1 2.592-2.612a2.6 2.6 0 0 1 2.592 2.612a2.603 2.603 0 0 1-2.454 2.608");
+}
+
+.ozw87q3cc {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -30,15 +38,7 @@ function Component({width, height, ...props}) {
   rx: 1px;
   ry: 1px;
 }
-
-.yuu8q4ues {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M30.996 24.053a2.603 2.603 0 0 1-2.452-2.608c0-1.442 1.16-2.612 2.592-2.612s2.593 1.17 2.593 2.612c0 .289-.048.575-.14.849m-19.177-.001a2.6 2.6 0 0 1-.14-.848a2.6 2.6 0 0 1 2.592-2.612h0a2.6 2.6 0 0 1 2.592 2.612a2.603 2.603 0 0 1-2.454 2.608");
-}
-</style><path class="yuu8q4ues"/><rect class="s4hx9gwkm"/><path class="ozw87q3cc"/>`,
+</style><path class="i4y8aybfv"/><rect class="s4hx9gwkm"/><path class="ozw87q3cc"/>`,
 		"fallback": "arcticons:invoice-ninja",
 	});
 }

@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.jo8s1soph {
+		"content": `<style>.h04x9obxl {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M23.178 2.677c2.646 2.398 4.424 7.889 7.693 9.904s7.084-.299 10.217-1.858m4.412 9.985s-2.39 2.39-2.554 3.947c-.183 1.73 1.857 4.877 1.857 4.877");
+}
+
+.jo8s1soph {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -32,14 +40,6 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
   d: path("M23.671 45.323s5.474-6.798 7.895-7.43c1.917.055 3.948 4.18 3.948 4.18m-21.567 1.57s2.652-8.1 6.063-13.346c1.143-2.296-.892-4.306-3.896-5.395c-4.602-1.404-13.614-.589-13.614-.589");
-}
-
-.ocps1lbac {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M23.178 2.677c2.646 2.398 4.424 7.889 7.693 9.904s7.084-.299 10.217-1.858h0m4.412 9.985s-2.39 2.39-2.554 3.947c-.183 1.73 1.857 4.877 1.857 4.877");
 }
 
 .q7c4yvb-t {
@@ -65,7 +65,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M4.63 33.712s1.999.143 2.583.833c.294 1.14-.957 2.186-.957 2.186");
 }
-</style><path class="jo8s1soph"/><path class="kxda3wbyg"/><path class="ocps1lbac"/><path class="uxo2g9bgv"/><path class="o_5irhbrd"/><path class="q7c4yvb-t"/><path class="vnyxkacom"/>`,
+</style><path class="jo8s1soph"/><path class="kxda3wbyg"/><path class="h04x9obxl"/><path class="uxo2g9bgv"/><path class="o_5irhbrd"/><path class="q7c4yvb-t"/><path class="vnyxkacom"/>`,
 		"fallback": "arcticons:iplus",
 	});
 }

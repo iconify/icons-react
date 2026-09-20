@@ -33,14 +33,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.sz673_bsj {
+.serfxybhq {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M12.574 29.5V17.842L20.298 29.5V17.842M30.62 25.59v.048a3.86 3.86 0 0 1-3.863 3.862h0a3.86 3.86 0 0 1-3.862-3.862v-3.934a3.86 3.86 0 0 1 3.862-3.862h0a3.86 3.86 0 0 1 3.862 3.862v.047");
+  d: path("M12.574 29.5V17.842L20.298 29.5V17.842M30.62 25.59v.048a3.862 3.862 0 1 1-7.724 0v-3.934a3.862 3.862 0 1 1 7.724 0v.047");
 }
-</style><rect class="j3s9ivbxi"/><path class="sz673_bsj"/><circle class="ofg1wbcsd"/>`,
+</style><rect class="j3s9ivbxi"/><path class="serfxybhq"/><circle class="ofg1wbcsd"/>`,
 		"fallback": "arcticons:natural-cycles",
 	});
 }

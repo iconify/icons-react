@@ -23,14 +23,14 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.lj2i_fb5a {
+.sq0rgbboo {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M20 22.6a4 4 0 0 0 4 4h0a4 4 0 0 0 4-4V20a4 4 0 0 0-4-4h0a4 4 0 0 0-4 4m0-4v16");
+  d: path("M20 22.6a4 4 0 0 0 8 0V20a4 4 0 0 0-8 0m0-4v16");
 }
-</style><rect class="j3s9ivbxi"/><path class="lj2i_fb5a"/>`,
+</style><rect class="j3s9ivbxi"/><path class="sq0rgbboo"/>`,
 		"fallback": "arcticons:letter-lowercase-square-p",
 	});
 }

@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.t7xjiovbz {
+		"content": `<style>.vzqye8b5p {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M28.486 12.463C28.486 8.618 26.478 5.5 24 5.5s-4.486 3.118-4.486 6.963c0 3.572 1.042 6.514 3.274 6.914h0l-.623 21.602c0 .84.688 1.521 1.538 1.521s1.538-.68 1.538-1.52l-.022-21.607h0c2.229-.407 3.267-3.342 3.267-6.91");
+  d: path("M28.486 12.463C28.486 8.618 26.478 5.5 24 5.5s-4.486 3.118-4.486 6.963c0 3.572 1.042 6.514 3.274 6.914l-.623 21.602c0 .84.688 1.521 1.538 1.521s1.538-.68 1.538-1.52l-.022-21.607c2.229-.407 3.267-3.342 3.267-6.91");
 }
-</style><path class="t7xjiovbz"/>`,
+</style><path class="vzqye8b5p"/>`,
 		"fallback": "arcticons:emoji-spoon",
 	});
 }

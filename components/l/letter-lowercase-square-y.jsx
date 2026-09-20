@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.f01-39xon {
-  d: path("M28 16v6.6a4 4 0 0 1-4 4h0a4 4 0 0 1-4-4V16");
+		"content": `<style>.fpr8qvbek {
+  d: path("M28 22.6V28a4 4 0 0 1-4 4a4 4 0 0 1-2.828-1.171");
 }
 
 .j3s9ivbxi {
@@ -27,8 +27,8 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.lgtl44u0y {
-  d: path("M28 22.6V28a4 4 0 0 1-4 4h0a4 4 0 0 1-2.828-1.171");
+.r4cdy9b6f {
+  d: path("M28 16v6.6a4 4 0 0 1-8 0V16");
 }
 
 .y9tr6bcfx {
@@ -37,7 +37,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><rect class="j3s9ivbxi"/><g class="y9tr6bcfx"><path class="lgtl44u0y"/><path class="f01-39xon"/></g>`,
+</style><rect class="j3s9ivbxi"/><g class="y9tr6bcfx"><path class="fpr8qvbek"/><path class="r4cdy9b6f"/></g>`,
 		"fallback": "arcticons:letter-lowercase-square-y",
 	});
 }

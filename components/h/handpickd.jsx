@@ -37,12 +37,12 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.ouw3f2o3h {
+.nqoasmbyp {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m27.912 24.815l.836-4.95c.5-2.96-2.128-5.46-4.753-5.46h0c-2.625 0-5.2 2.488-4.753 5.46l.742 4.95m-.79-15.879v9.821");
+  d: path("m27.912 24.815l.836-4.95c.5-2.96-2.128-5.46-4.753-5.46s-5.2 2.488-4.753 5.46l.742 4.95m-.79-15.879v9.821");
 }
 
 .pn6m1ub2r {
@@ -100,7 +100,7 @@ function Component({width, height, ...props}) {
   r: 0.75px;
   fill: currentColor;
 }
-</style><rect class="j3s9ivbxi"/><path class="ouw3f2o3h"/><circle class="ulgp7lr-z"/><circle class="r32dt0hof"/><circle class="y85d4_3_l"/><circle class="pn6m1ub2r"/><circle class="e8vjb6bmv"/><circle class="w039job9j"/><circle class="aqm0apfod"/><circle class="px_r9jb3u"/><circle class="y1gyen97a"/><circle class="xo0h-rbpv"/>`,
+</style><rect class="j3s9ivbxi"/><path class="nqoasmbyp"/><circle class="ulgp7lr-z"/><circle class="r32dt0hof"/><circle class="y85d4_3_l"/><circle class="pn6m1ub2r"/><circle class="e8vjb6bmv"/><circle class="w039job9j"/><circle class="aqm0apfod"/><circle class="px_r9jb3u"/><circle class="y1gyen97a"/><circle class="xo0h-rbpv"/>`,
 		"fallback": "arcticons:handpickd",
 	});
 }

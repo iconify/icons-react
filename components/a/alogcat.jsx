@@ -36,14 +36,14 @@ function Component({width, height, ...props}) {
   d: path("M28.5 11.21a12.069 12.069 0 1 0 1.916 4.287");
 }
 
-.w_3r7wbow {
+.mbeyhtbbv {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M25.704 28.004L40 42.3a1.933 1.933 0 0 0 2.733.067h0l.067-.067a1.933 1.933 0 0 0 .067-2.733q-.033-.035-.067-.067L28.49 25.19M15.967 24h8.974M13.149 11.548v13.347");
+  d: path("M25.704 28.004L40 42.3a1.933 1.933 0 0 0 2.733.067l.067-.067a1.933 1.933 0 0 0 .067-2.733q-.033-.035-.067-.067L28.49 25.19M15.967 24h8.974M13.149 11.548v13.347");
 }
-</style><path class="ex36bzbri"/><circle class="hf-aztngn"/><path class="l-6_p92gk"/><path class="w_3r7wbow"/>`,
+</style><path class="ex36bzbri"/><circle class="hf-aztngn"/><path class="l-6_p92gk"/><path class="mbeyhtbbv"/>`,
 		"fallback": "arcticons:alogcat",
 	});
 }

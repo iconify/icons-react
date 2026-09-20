@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.qc-sjybpv {
+		"content": `<style>.nhrm50b_t {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M14.066 15.759V9.301h2.156c1.244 0 2.239.968 2.239 2.18s-.995 2.179-2.24 2.179h-2.155m2.237-.002l2.075 2.02m2.532 1.882l-7.54 1.14l-1.28-1.14");
+  d: path("M14.066 15.759V9.301h2.156c1.244 0 2.239.968 2.239 2.18s-.995 2.179-2.24 2.179h-2.155m2.237-.002l2.075 2.02m2.532 1.882zl-7.54 1.14l-1.28-1.14");
 }
 
 .t-d3sgb_w {
@@ -25,7 +25,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M5.5 5.5h22v17h-22zm0 29h14v8h-14zm0-9h14v7h-14zm17 0h20v17h-20zm8-20h12v17h-12z");
 }
-</style><path class="t-d3sgb_w"/><path class="qc-sjybpv"/>`,
+</style><path class="t-d3sgb_w"/><path class="nhrm50b_t"/>`,
 		"fallback": "arcticons:rakuten-omatome",
 	});
 }

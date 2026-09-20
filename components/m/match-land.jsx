@@ -18,12 +18,12 @@ function Component({width, height, ...props}) {
   d: path("M9.5 5.5h29c2.216 0 4 1.784 4 4v29c0 2.216-1.784 4-4 4h-29c-2.216 0-4-1.784-4-4v-29c0-2.216 1.784-4 4-4");
 }
 
-.gfzhfnkxv {
+.grz9shlzu {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M6.167 23.879c1.55 0 2.983 1.156 3.758 3.032s.774 4.187 0 6.063c-.776 1.876-2.208 3.032-3.758 3.032m35.589-12.552c-1.55 0-2.982 1.156-3.757 3.032s-.775 4.187 0 6.063s2.207 3.032 3.757 3.032M18.827 15.7c-.601 2.624-2.26 4.751-3.705 4.751h0c-1.445 0-2.13-2.127-1.528-4.752h0c.601-2.624 2.26-4.752 3.705-4.752h0c1.445 0 2.13 2.128 1.528 4.752m10.099.007c.601 2.624 2.26 4.752 3.705 4.752s2.13-2.127 1.528-4.752v0c-.601-2.624-2.26-4.752-3.705-4.752s-2.13 2.127-1.528 4.752q0 0 0 0");
+  d: path("M6.167 23.879c1.55 0 2.983 1.156 3.758 3.032s.774 4.187 0 6.063c-.776 1.876-2.208 3.032-3.758 3.032m35.589-12.552c-1.55 0-2.982 1.156-3.757 3.032s-.775 4.187 0 6.063s2.207 3.032 3.757 3.032M18.827 15.7c-.601 2.624-2.26 4.751-3.705 4.751s-2.13-2.127-1.528-4.752s2.26-4.752 3.705-4.752s2.13 2.128 1.528 4.752m10.099.007c.601 2.624 2.26 4.752 3.705 4.752s2.13-2.127 1.528-4.752s-2.26-4.752-3.705-4.752s-2.13 2.127-1.528 4.752");
 }
 
 .kf2dq0atz {
@@ -54,7 +54,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M17.323 25.935c0 16 13.339 15.256 13.219.098");
 }
-</style><path class="g2wj9jbhp"/><path class="gfzhfnkxv"/><path class="u-s9vmbsn"/><path class="kf2dq0atz"/><path class="zlj9pptjp"/><path class="rwsv9hbep"/>`,
+</style><path class="g2wj9jbhp"/><path class="grz9shlzu"/><path class="u-s9vmbsn"/><path class="kf2dq0atz"/><path class="zlj9pptjp"/><path class="rwsv9hbep"/>`,
 		"fallback": "arcticons:match-land",
 	});
 }

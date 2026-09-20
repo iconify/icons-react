@@ -17,6 +17,14 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
+.btx2utz-t {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M35.26 22.6H29.6a2.46 2.46 0 0 1 0-4.92h5.66a2.46 2.46 0 0 1 0 4.92");
+}
+
 .cb9i4zbhx {
   fill: none;
   stroke: currentColor;
@@ -104,14 +112,6 @@ function Component({width, height, ...props}) {
   ry: 1.09px;
 }
 
-.pibewwbny {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M35.26 22.6H29.6a2.46 2.46 0 0 1-2.46-2.46h0a2.46 2.46 0 0 1 2.46-2.46h5.66a2.46 2.46 0 0 1 2.46 2.46h0a2.46 2.46 0 0 1-2.46 2.46");
-}
-
 .t9ub20mfi {
   width: 2.61px;
   height: 4.81px;
@@ -125,12 +125,12 @@ function Component({width, height, ...props}) {
   ry: 1.09px;
 }
 
-.v0ztqhyow {
+.wx3sq-b7n {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M29.61 10.19h5.66a2.46 2.46 0 0 1 2.46 2.46h0a2.46 2.46 0 0 1-2.46 2.46h-5.66a2.46 2.46 0 0 1-2.46-2.46h0a2.46 2.46 0 0 1 2.46-2.46");
+  d: path("M29.61 10.19h5.66a2.46 2.46 0 0 1 0 4.92h-5.66a2.46 2.46 0 0 1 0-4.92");
 }
 
 .wzo3ki8qy {
@@ -145,7 +145,7 @@ function Component({width, height, ...props}) {
   rx: 0.48px;
   ry: 0.48px;
 }
-</style><rect class="j3s9ivbxi"/><rect class="danmerbht"/><rect class="wzo3ki8qy"/><circle class="ka7b8_buu"/><circle class="e-whdab2t"/><path class="cb9i4zbhx"/><rect class="mwmbmfbsh"/><rect class="f28ek5bqh"/><rect class="t9ub20mfi"/><path class="v0ztqhyow"/><circle class="l0erbz47n"/><path class="pibewwbny"/><circle class="bf9m6_jmr"/>`,
+</style><rect class="j3s9ivbxi"/><rect class="danmerbht"/><rect class="wzo3ki8qy"/><circle class="ka7b8_buu"/><circle class="e-whdab2t"/><path class="cb9i4zbhx"/><rect class="mwmbmfbsh"/><rect class="f28ek5bqh"/><rect class="t9ub20mfi"/><path class="wx3sq-b7n"/><circle class="l0erbz47n"/><path class="btx2utz-t"/><circle class="bf9m6_jmr"/>`,
 		"fallback": "arcticons:dashboard",
 	});
 }

@@ -10,20 +10,20 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.i9clfwm2k {
+		"content": `<style>.cbs471bbc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M11.685 22.18v8.975m17.108-1.485c.83 1.082 1.873 1.485 3.322 1.485h2.005a3.38 3.38 0 0 0 3.38-3.38v-.014a3.38 3.38 0 0 0-3.38-3.38h-2.212a3.383 3.383 0 0 1-3.383-3.383a3.39 3.39 0 0 1 3.39-3.39h1.995c1.45 0 2.49.402 3.322 1.484");
+}
+
+.i9clfwm2k {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   d: path("M38.5 5.5h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4");
-}
-
-.quqyjhozy {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M11.685 22.18v8.975m17.108-1.485c.83 1.082 1.873 1.485 3.322 1.485h2.005a3.38 3.38 0 0 0 3.38-3.38v-.014a3.38 3.38 0 0 0-3.38-3.38h-2.212a3.383 3.383 0 0 1-3.383-3.383h0a3.39 3.39 0 0 1 3.39-3.39h1.995c1.45 0 2.49.402 3.322 1.484");
 }
 
 .t1exc0g1b {
@@ -45,7 +45,7 @@ function Component({width, height, ...props}) {
   rx: 4.487px;
   ry: 4.487px;
 }
-</style><path class="i9clfwm2k"/><circle class="t1exc0g1b"/><path class="quqyjhozy"/><rect class="x1ju22b0i"/>`,
+</style><path class="i9clfwm2k"/><circle class="t1exc0g1b"/><path class="cbs471bbc"/><rect class="x1ju22b0i"/>`,
 		"fallback": "arcticons:ios-launcher",
 	});
 }

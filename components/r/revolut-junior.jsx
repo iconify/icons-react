@@ -26,12 +26,12 @@ function Component({width, height, ...props}) {
   d: path("M9.237 14.631h6.892V42.5H9.237z");
 }
 
-.ohlmi6b_c {
+.oh5y-1b1w {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M39.274 4.857v6a2 2 0 0 1-2 2h0a2 2 0 0 1-2-2v-.664");
+  d: path("M39.274 4.857v6a2 2 0 1 1-4 0v-.664");
 }
 
 .x-etxdbur {
@@ -43,7 +43,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="gtux8y-da"/><path class="df_1nqm2c"/><circle class="x-etxdbur"/><path class="ohlmi6b_c"/>`,
+</style><path class="gtux8y-da"/><path class="df_1nqm2c"/><circle class="x-etxdbur"/><path class="oh5y-1b1w"/>`,
 		"fallback": "arcticons:revolut-junior",
 	});
 }

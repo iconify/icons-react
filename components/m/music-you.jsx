@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.cmwh9dbgb {
+		"content": `<style>.o-yracb0d {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M26.66 35.378V12.834M28.69 4.5h6.864a2.03 2.03 0 0 1 2.03 2.03v4.273a2.03 2.03 0 0 1-2.03 2.03H26.66h0V6.53a2.03 2.03 0 0 1 2.03-2.03");
+  d: path("M26.66 35.378V12.834M28.69 4.5h6.864a2.03 2.03 0 0 1 2.03 2.03v4.273a2.03 2.03 0 0 1-2.03 2.03H26.66V6.53a2.03 2.03 0 0 1 2.03-2.03");
 }
 
 .qb81tbb2n {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><circle class="qb81tbb2n"/><path class="cmwh9dbgb"/>`,
+</style><circle class="qb81tbb2n"/><path class="o-yracb0d"/>`,
 		"fallback": "arcticons:music-you",
 	});
 }

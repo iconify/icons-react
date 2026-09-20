@@ -27,8 +27,8 @@ function Component({width, height, ...props}) {
   ry: 0.998px;
 }
 
-.sh43zofvq {
-  d: path("M14.57 8.742v7.167m3.864-.008l-2.945-3.576l2.945-3.552m2.019 2.39v2.95c0 .988.8 1.788 1.788 1.788h0c.987 0 1.788-.8 1.788-1.788v-2.95m0 2.819v1.792m2.019-2.823c0-.987.8-1.788 1.788-1.788h0m-1.788 0v4.738m5.594 0c-.987 0-1.788-.8-1.788-1.788v-1.162c0-.987.8-1.788 1.788-1.788h0c.988 0 1.788.8 1.788 1.788v1.162c0 .988-.8 1.788-1.788 1.788");
+.nmz64wdpb {
+  d: path("M14.57 8.742v7.167m3.864-.008l-2.945-3.576l2.945-3.552m2.019 2.39v2.95a1.788 1.788 0 1 0 3.576 0v-2.95m0 2.819v1.792m2.019-2.823c0-.987.8-1.788 1.788-1.788m-1.788 0v4.738m5.594 0zc-.987 0-1.788-.8-1.788-1.788v-1.162a1.788 1.788 0 1 1 3.576 0v1.162c0 .988-.8 1.788-1.788 1.788");
 }
 
 .y9tr6bcfx {
@@ -37,7 +37,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><path class="sh43zofvq"/><rect class="n7idynb-d"/></g><g class="y9tr6bcfx"><path class="iquj7dboo"/><path class="fv4ar5b7g"/></g>`,
+</style><g class="y9tr6bcfx"><path class="nmz64wdpb"/><rect class="n7idynb-d"/></g><g class="y9tr6bcfx"><path class="iquj7dboo"/><path class="fv4ar5b7g"/></g>`,
 		"fallback": "arcticons:kuro-reader",
 	});
 }

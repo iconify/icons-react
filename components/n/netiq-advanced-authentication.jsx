@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.av3vv6bpc {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M25.123 25.273v-4.082h0h-11.462m8.783 2.354v-2.354");
-}
-
-.i5zg880qh {
+		"content": `<style>.i5zg880qh {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -43,7 +35,15 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="kfbarr_0c"/><path class="i5zg880qh"/><circle class="ujy2gzp0e"/><path class="av3vv6bpc"/>`,
+
+.xh0cqcbpz {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M25.123 25.273v-4.082H13.661m8.783 2.354v-2.354");
+}
+</style><path class="kfbarr_0c"/><path class="i5zg880qh"/><circle class="ujy2gzp0e"/><path class="xh0cqcbpz"/>`,
 		"fallback": "arcticons:netiq-advanced-authentication",
 	});
 }

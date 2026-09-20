@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.b96fku8aa {
+		"content": `<style>.bapwhtbgl {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M34.379 11.675v9.884c0 .917.744 1.66 1.661 1.66h.498m-3.903-8.804h3.488m-24.646 14.13a3.32 3.32 0 0 1 3.323-3.322h0a3.32 3.32 0 0 1 3.322 3.322v2.16a3.32 3.32 0 0 1-3.322 3.322h0a3.32 3.32 0 0 1-3.323-3.322m-.015 3.322V21.526m0-2.084V9.5m24.996 21.193v4.485a3.32 3.32 0 0 1-3.322 3.322h0a3.3 3.3 0 0 1-2.35-.973");
+  d: path("M36.458 25.21v5.483a3.322 3.322 0 1 1-6.645 0V25.21");
 }
 
 .e1axacb1h {
@@ -29,6 +29,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   rx: 3.322px;
   ry: 3.322px;
+}
+
+.hiwls6bjx {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M34.379 11.675v9.884c0 .917.744 1.66 1.661 1.66h.498m-3.903-8.804h3.488m-24.646 14.13a3.322 3.322 0 1 1 6.645 0v2.16a3.322 3.322 0 1 1-6.645 0m-.015 3.322V21.526m0-2.084V9.5m24.996 21.193v4.485a3.32 3.32 0 0 1-3.322 3.322a3.3 3.3 0 0 1-2.35-.973");
 }
 
 .i9clfwm2k {
@@ -52,14 +60,6 @@ function Component({width, height, ...props}) {
   ry: 3.322px;
 }
 
-.oqgi34tlq {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M36.458 25.21v5.483a3.32 3.32 0 0 1-3.322 3.322h0a3.32 3.32 0 0 1-3.322-3.322V25.21");
-}
-
 .rsgglkbtk {
   width: 6.645px;
   height: 8.804px;
@@ -72,7 +72,7 @@ function Component({width, height, ...props}) {
   rx: 3.322px;
   ry: 3.322px;
 }
-</style><rect class="e1axacb1h"/><rect class="rsgglkbtk"/><rect class="oqb_2f_ky"/><path class="b96fku8aa"/><path class="oqgi34tlq"/><path class="i9clfwm2k"/>`,
+</style><rect class="e1axacb1h"/><rect class="rsgglkbtk"/><rect class="oqb_2f_ky"/><path class="hiwls6bjx"/><path class="bapwhtbgl"/><path class="i9clfwm2k"/>`,
 		"fallback": "arcticons:lootboy",
 	});
 }

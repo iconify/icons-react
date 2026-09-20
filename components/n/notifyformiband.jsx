@@ -28,12 +28,12 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.j5plhrb3i {
+.me2ijzwvg {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M19.24 11.39a2.16 2.16 0 1 1 0-3.05a2.13 2.13 0 0 1 .63 1.49a2.18 2.18 0 0 1-.63 1.56m7.6-1.52a.9.9 0 0 0-.91.9h0V21.2a.9.9 0 0 0 .9.91H43a.9.9 0 0 0 .91-.9h0V10.77a.9.9 0 0 0-.9-.9zm15.29 1.76l-7.22 5.31l-7.22-5.31M4.89 22.7l9.82-9.82m-4.07 4.06L14 20.39l-3.67 3.68");
+  d: path("M19.24 11.39a2.16 2.16 0 1 1 0-3.05a2.13 2.13 0 0 1 .63 1.49a2.18 2.18 0 0 1-.63 1.56m7.6-1.52a.9.9 0 0 0-.91.9V21.2a.9.9 0 0 0 .9.91H43a.9.9 0 0 0 .91-.9V10.77a.9.9 0 0 0-.9-.9zm15.29 1.76l-7.22 5.31l-7.22-5.31M4.89 22.7l9.82-9.82m-4.07 4.06L14 20.39l-3.67 3.68");
 }
 
 .sl2khybij {
@@ -47,7 +47,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   rx: 5.81px;
 }
-</style><rect class="sl2khybij"/><circle class="h-yq491hm"/><path class="j5plhrb3i"/><path class="gi-s6_qrd"/>`,
+</style><rect class="sl2khybij"/><circle class="h-yq491hm"/><path class="me2ijzwvg"/><path class="gi-s6_qrd"/>`,
 		"fallback": "arcticons:notifyformiband",
 	});
 }

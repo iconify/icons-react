@@ -38,7 +38,15 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M10.5 29.274V18.726h2.373a4.615 4.615 0 0 1 4.615 4.615v1.318a4.615 4.615 0 0 1-4.615 4.615z");
 }
-</style><path class="jx3sy610n"/><path class="mxcu2xk7q"/><rect class="d9phyyuqq"/>`,
+
+.zumq6d8sw {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M37.5 18.726z");
+}
+</style><path class="jx3sy610n"/><path class="mxcu2xk7q"/><rect class="d9phyyuqq"/><path class="zumq6d8sw"/>`,
 		"fallback": "arcticons:dot-tickets",
 	});
 }

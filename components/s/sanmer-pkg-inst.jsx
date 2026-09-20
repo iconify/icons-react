@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.z-b7nhb4f {
+		"content": `<style>.pv1_txpnx {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M12.437 39.718V10.435h-4.62a2.316 2.316 0 1 1-.001-4.632h32.368a2.316 2.316 0 1 1 0 4.632q0 0 0 0h-4.632v29.283a2.316 2.316 0 1 1-4.621 0l.332-29.283H17.058v29.283a2.316 2.316 0 1 1-4.621 0");
+  d: path("M12.437 39.718V10.435h-4.62a2.316 2.316 0 1 1-.001-4.632h32.368a2.316 2.316 0 1 1 0 4.632h-4.632v29.283a2.316 2.316 0 1 1-4.621 0l.332-29.283H17.058v29.283a2.316 2.316 0 1 1-4.621 0");
 }
-</style><path class="z-b7nhb4f"/>`,
+</style><path class="pv1_txpnx"/>`,
 		"fallback": "arcticons:sanmer-pkg-inst",
 	});
 }

@@ -18,6 +18,10 @@ function Component({width, height, ...props}) {
   d: path("M12.279 12.68a1.836 1.836 0 0 0-1.834 1.836l.003.06h-.102a1.37 1.37 0 0 0-1.373 1.374v.128c0 .76.613 1.373 1.373 1.373h5.019a1.37 1.37 0 0 0 1.373-1.373v-.129c0-.525-.291-.98-.723-1.212a1.547 1.547 0 0 0-2.117-1.09a1.84 1.84 0 0 0-1.62-.967");
 }
 
+.dyd8gubnn {
+  d: path("M13.585 13.23a1.947 1.947 0 0 1 3.705.836c0 .543-.226 1.062-.625 1.43m-1.322-5.086v.675m3.656 2.982h-.675m-.396 2.585l-.477-.478m-4.216-4.215l-.477-.478m4.693.478l.477-.478");
+}
+
 .eldcii2qb {
   fill: none;
   stroke: currentColor;
@@ -49,14 +53,10 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.zoy87ccek {
-  d: path("M13.585 13.23a1.947 1.947 0 0 1 3.705.836h0c0 .543-.226 1.062-.625 1.43m-1.322-5.086v.675m3.656 2.982h-.675m-.396 2.585l-.477-.478m-4.216-4.215l-.477-.478m4.693.478l.477-.478");
-}
-
 .zweufib3k {
   d: path("M9.161 5.445h9.65a3.653 3.653 0 0 1 3.66 3.661v9.65a3.653 3.653 0 0 1-3.66 3.66H9.16a3.653 3.653 0 0 1-3.661-3.66v-9.65A3.653 3.653 0 0 1 9.16 5.445");
 }
-</style><g class="y9tr6bcfx"><path class="jyjopebpn"/><path class="eoiydyh4j"/><path class="gr70i_b1i"/></g><g class="y9tr6bcfx"><path class="d2fx_onut"/><path class="zoy87ccek"/><path class="zweufib3k"/></g><g class="y9tr6bcfx"><path class="p6kdqebuv"/><path class="b4d_3k7gc"/></g><path class="eldcii2qb"/>`,
+</style><g class="y9tr6bcfx"><path class="jyjopebpn"/><path class="eoiydyh4j"/><path class="gr70i_b1i"/></g><g class="y9tr6bcfx"><path class="d2fx_onut"/><path class="dyd8gubnn"/><path class="zweufib3k"/></g><g class="y9tr6bcfx"><path class="p6kdqebuv"/><path class="b4d_3k7gc"/></g><path class="eldcii2qb"/>`,
 		"fallback": "arcticons:themes-alt",
 	});
 }

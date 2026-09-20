@@ -18,12 +18,12 @@ function Component({width, height, ...props}) {
   d: path("m20.94 18.732l2.176 8.12h-7.449m7.45 0l7.277-7.25l1.902 7.098l-2.757-10.287s2.367-.46 2.828-.065c.643.552.52 1.799-1.008 1.634");
 }
 
-.speuhwbmc {
+.lak00k52e {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M20.357 25.78c-1.1-4.1-5.242-4.3-7.38-3.05a5.044 5.044 0 0 0-1.88 6.043a4.96 4.96 0 0 0 9.317-.476m9.296-5.83a4.96 4.96 0 1 0 2.586-.727m-3.04-1.115l-7.83-.049m.679-2.207l-2.83-.04h0");
+  d: path("M20.357 25.78c-1.1-4.1-5.242-4.3-7.38-3.05a5.044 5.044 0 0 0-1.88 6.043a4.96 4.96 0 0 0 9.317-.476m9.296-5.83a4.96 4.96 0 1 0 2.586-.727m-3.04-1.115l-7.83-.049m.679-2.207l-2.83-.04");
 }
 
 .tfhu8pb4x {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M38.5 42.5a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h23.424");
 }
-</style><path class="avle5nb0o"/><path class="speuhwbmc"/><path class="tfhu8pb4x"/>`,
+</style><path class="avle5nb0o"/><path class="lak00k52e"/><path class="tfhu8pb4x"/>`,
 		"fallback": "arcticons:prague-on-bike",
 	});
 }

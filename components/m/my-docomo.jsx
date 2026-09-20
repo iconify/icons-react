@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.c3clpmbum {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M33.048 17.098v4.535c0 1.518-1.22 2.748-2.726 2.748s-2.727-1.23-2.727-2.748v-4.535M14.298 35.233c1.002 0 1.814.812 1.814 1.814v1.18a1.814 1.814 0 0 1-1.814 1.813h0a1.814 1.814 0 0 1-1.814-1.814v-1.179c0-1.002.812-1.814 1.814-1.814m10.438 0c1.001 0 1.814.812 1.814 1.814v1.18a1.814 1.814 0 0 1-1.814 1.813h0a1.814 1.814 0 0 1-1.814-1.814v-1.179c0-1.002.812-1.814 1.814-1.814m14.304 0c1.001 0 1.813.812 1.813 1.814v1.18a1.814 1.814 0 0 1-1.814 1.813h0a1.814 1.814 0 0 1-1.814-1.814v-1.179c0-1.002.813-1.814 1.814-1.814M28.26 37.047a1.814 1.814 0 1 1 3.628 0v2.993m-3.628-4.807v4.807");
-}
-
-.cyvmjnb_u {
+		"content": `<style>.cyvmjnb_u {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -34,6 +26,14 @@ function Component({width, height, ...props}) {
   d: path("M31.888 37.047a1.814 1.814 0 1 1 3.628 0v2.993m-14.304-.913a1.813 1.813 0 0 1-3.39-.9v-1.18a1.814 1.814 0 0 1 3.388-.903m-10.435.903a1.814 1.814 0 1 0-3.629 0v1.18a1.814 1.814 0 1 0 3.629 0m-.001 1.813v-7.256");
 }
 
+.tf_zeu__w {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M33.048 17.098v4.535c0 1.518-1.22 2.748-2.726 2.748s-2.727-1.23-2.727-2.748v-4.535M14.298 35.233zc1.002 0 1.814.812 1.814 1.814v1.18a1.814 1.814 0 1 1-3.628 0v-1.18c0-1.002.812-1.814 1.814-1.814m10.438 0zc1.001 0 1.814.812 1.814 1.814v1.18a1.814 1.814 0 1 1-3.628 0v-1.18c0-1.002.812-1.814 1.814-1.814m14.304 0zc1.001 0 1.813.812 1.813 1.814v1.18a1.814 1.814 0 1 1-3.628 0v-1.18c0-1.002.813-1.814 1.814-1.814M28.26 37.047a1.814 1.814 0 1 1 3.628 0v2.993m-3.628-4.807v4.807");
+}
+
 .v75bn95pe {
   fill: none;
   stroke: currentColor;
@@ -41,7 +41,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M13.544 24.37V13.388l5.453 10.993l5.453-10.977v10.977m8.598-2.748v3.71c0 1.518-1.22 2.749-2.726 2.749a2.7 2.7 0 0 1-1.928-.805");
 }
-</style><path class="cyvmjnb_u"/><path class="v75bn95pe"/><path class="c3clpmbum"/><path class="lc51c9bvt"/>`,
+</style><path class="cyvmjnb_u"/><path class="v75bn95pe"/><path class="tf_zeu__w"/><path class="lc51c9bvt"/>`,
 		"fallback": "arcticons:my-docomo",
 	});
 }

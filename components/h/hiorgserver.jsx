@@ -20,14 +20,6 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.f-a52obdy {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M30.907 22.576H17.093a.837.837 0 0 0-.838.837h0v13.815c0 .462.375.837.838.837h13.814a.837.837 0 0 0 .837-.837V23.413a.837.837 0 0 0-.837-.837");
-}
-
 .frm7a9o7p {
   cx: 7.066px;
   cy: 28.307px;
@@ -58,6 +50,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
+.nr65_4acn {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M30.907 22.576H17.093a.837.837 0 0 0-.838.837v13.815c0 .462.375.837.838.837h13.814a.837.837 0 0 0 .837-.837V23.413a.837.837 0 0 0-.837-.837");
+}
+
 .qdxc4ybbm {
   cx: 24px;
   cy: 12.502px;
@@ -67,7 +67,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="f-a52obdy"/><circle class="frm7a9o7p"/><circle class="l8byxuxus"/><circle class="qdxc4ybbm"/><circle class="cd2-0nvrx"/><circle class="n8t43ivqa"/>`,
+</style><path class="nr65_4acn"/><circle class="frm7a9o7p"/><circle class="l8byxuxus"/><circle class="qdxc4ybbm"/><circle class="cd2-0nvrx"/><circle class="n8t43ivqa"/>`,
 		"fallback": "arcticons:hiorgserver",
 	});
 }

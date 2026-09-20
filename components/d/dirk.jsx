@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.au3ci6uef {
+		"content": `<style>.bjvs881db {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M25.012 25.382a2.987 2.987 0 0 1 2.987-2.988h0m-2.987.001v7.915m5.514-11.948V30.31m.001-2.538l5.408-5.382m-3.687 3.669l4.252 4.233");
+  d: path("M25.012 25.382a2.987 2.987 0 0 1 2.987-2.988m-2.987.001v7.915m5.514-11.948V30.31m.001-2.538l5.408-5.382m-3.687 3.669l4.252 4.233");
 }
 
 .byn14r31k {
@@ -45,7 +45,7 @@ function Component({width, height, ...props}) {
   r: 0.75px;
   fill: currentColor;
 }
-</style><rect class="j3s9ivbxi"/><path class="au3ci6uef"/><circle class="n_d664s1d"/><path class="byn14r31k"/>`,
+</style><rect class="j3s9ivbxi"/><path class="bjvs881db"/><circle class="n_d664s1d"/><path class="byn14r31k"/>`,
 		"fallback": "arcticons:dirk",
 	});
 }

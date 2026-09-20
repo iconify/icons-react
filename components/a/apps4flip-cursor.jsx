@@ -18,12 +18,12 @@ function Component({width, height, ...props}) {
   d: path("m8.715 20.305l18.62 8.63");
 }
 
-.kma_-gkmh {
+.pnzrn4bci {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m19.011 22.493l-.986 2.127m3.441-7.424l1.897-4.093m0 0l.3-.648a7.29 7.29 0 0 1 9.681-3.55h0a7.29 7.29 0 0 1 3.549 9.681l-2.625 5.664a3.833 3.833 0 0 0 1.865 5.09h0c1.921.89 4.2.055 5.09-1.866L42.5 24.72");
+  d: path("m19.011 22.493l-.986 2.127m3.441-7.424l1.897-4.093m0 0l.3-.648a7.29 7.29 0 1 1 13.23 6.132l-2.625 5.663a3.833 3.833 0 0 0 6.956 3.224L42.5 24.72");
 }
 
 .z8cui692k {
@@ -51,7 +51,7 @@ function Component({width, height, ...props}) {
   rx: 10.261px;
   ry: 10.261px;
 }
-</style><rect transform="rotate(24.867 17.402 25.965)" class="zkph9ns3b"/><path class="bvc9v94-b"/><rect transform="rotate(24.867 20.238 19.845)" class="z8cui692k"/><path class="kma_-gkmh"/>`,
+</style><rect transform="rotate(24.867 17.402 25.965)" class="zkph9ns3b"/><path class="bvc9v94-b"/><rect transform="rotate(24.867 20.238 19.845)" class="z8cui692k"/><path class="pnzrn4bci"/>`,
 		"fallback": "arcticons:apps4flip-cursor",
 	});
 }

@@ -20,14 +20,14 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
 }
 
-.sed0fx_5o {
+.nq9ppfbul {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M26.651 22.364a5.034 5.034 0 0 1 5.035-5.035h0a5.034 5.034 0 0 1 5.034 5.035v3.272a5.034 5.034 0 0 1-5.034 5.035h0a5.034 5.034 0 0 1-5.035-5.035m0 5.035V10.533m-5.302 15.103a5.034 5.034 0 0 1-5.035 5.035h0a5.034 5.034 0 0 1-5.034-5.035v-3.272a5.034 5.034 0 0 1 5.034-5.035h0a5.034 5.034 0 0 1 5.035 5.035m0-5.035v20.138");
+  d: path("M26.651 22.364a5.034 5.034 0 1 1 10.069 0v3.272a5.034 5.034 0 1 1-10.069 0m0 5.035V10.533m-5.302 15.103a5.034 5.034 0 1 1-10.069 0v-3.272a5.034 5.034 0 1 1 10.069 0m0-5.035v20.138");
 }
-</style><circle class="cpk0fnbgt"/><path class="sed0fx_5o"/>`,
+</style><circle class="cpk0fnbgt"/><path class="nq9ppfbul"/>`,
 		"fallback": "arcticons:qbittorrent-remote",
 	});
 }

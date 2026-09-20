@@ -26,12 +26,12 @@ function Component({width, height, ...props}) {
   d: path("M38.5 5.5h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4");
 }
 
-.uv99jabvh {
+.udk224j8h {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M20.625 31.858a3.374 3.374 0 0 1 3.374-3.375h0a3.374 3.374 0 0 1 3.374 3.375v5.601m-6.748-8.976v8.976");
+  d: path("M20.625 31.858a3.374 3.374 0 1 1 6.748 0v5.601m-6.748-8.976v8.976");
 }
 
 .wtavvfctk {
@@ -56,7 +56,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="etcqc_kvq"/><rect class="wtavvfctk"/><path class="uv99jabvh"/><circle class="xvh_8jbwf"/><path class="i9clfwm2k"/>`,
+</style><path class="etcqc_kvq"/><rect class="wtavvfctk"/><path class="udk224j8h"/><circle class="xvh_8jbwf"/><path class="i9clfwm2k"/>`,
 		"fallback": "arcticons:visecaone",
 	});
 }

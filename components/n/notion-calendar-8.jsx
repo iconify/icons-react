@@ -10,11 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.c9puz8b7v {
-  d: path("m27.705 29.144l-2.08.109c-1.76.092-3.2 1.607-3.2 3.367h0c0 1.76 1.44 3.125 3.2 3.033l2.08-.11c1.76-.092 3.2-1.607 3.2-3.367h0c0-1.76-1.44-3.125-3.2-3.032");
-}
-
-.ho7b1vb_c {
+		"content": `<style>.ho7b1vb_c {
   d: path("m39.153 41.418l-24.717 1.08a2.97 2.97 0 0 1-3.097-2.966v-25.21a2.97 2.97 0 0 1 2.838-2.966l25.956-1.133a1.78 1.78 0 0 1 1.859 1.779v26.451a2.97 2.97 0 0 1-2.839 2.965");
 }
 
@@ -22,8 +18,12 @@ function Component({width, height, ...props}) {
   d: path("M11.339 22.117v-2.97c0-.954.75-1.738 1.703-1.78l27.091-1.182a1.78 1.78 0 0 1 1.859 1.779v3.803");
 }
 
-.j9jilf32d {
-  d: path("M27.705 29.144c1.76-.093 3.2-1.608 3.2-3.368h0c0-1.76-1.44-3.125-3.2-3.032l-2.08.109c-1.76.092-3.2 1.607-3.2 3.367h0c0 1.76 1.44 3.125 3.2 3.033");
+.uay13z2ve {
+  d: path("M27.705 29.144c1.76-.093 3.2-1.608 3.2-3.368s-1.44-3.125-3.2-3.032l-2.08.109c-1.76.092-3.2 1.607-3.2 3.367s1.44 3.125 3.2 3.033");
+}
+
+.um5a5_b0i {
+  d: path("m27.705 29.144l-2.08.109c-1.76.092-3.2 1.607-3.2 3.367s1.44 3.125 3.2 3.033l2.08-.11c1.76-.092 3.2-1.607 3.2-3.367s-1.44-3.125-3.2-3.032");
 }
 
 .w0pn9f1nf {
@@ -36,7 +36,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><path class="c9puz8b7v"/><path class="j9jilf32d"/></g><g class="y9tr6bcfx"><path class="ho7b1vb_c"/><path class="ibie-9bnp"/><path class="w0pn9f1nf"/></g>`,
+</style><g class="y9tr6bcfx"><path class="um5a5_b0i"/><path class="uay13z2ve"/></g><g class="y9tr6bcfx"><path class="ho7b1vb_c"/><path class="ibie-9bnp"/><path class="w0pn9f1nf"/></g>`,
 		"fallback": "arcticons:notion-calendar-8",
 	});
 }

@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.hwy5nxb-f {
+		"content": `<style>.hfwzo-b1m {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m4.5 38.95l18.2-20.8v20.8zm20.8 0a9.1 9.1 0 0 1 9.1-9.1h0a9.1 9.1 0 0 1 9.1 9.1zm18.2-29.9l-18.2 20.8V9.05zm-20.8 0a9.1 9.1 0 0 1-9.1 9.1h0a9.1 9.1 0 0 1-9.1-9.1z");
+  d: path("m4.5 38.95l18.2-20.8v20.8zm20.8 0a9.1 9.1 0 1 1 18.2 0zm18.2-29.9l-18.2 20.8V9.05zm-20.8 0a9.1 9.1 0 1 1-18.2 0z");
 }
-</style><path class="hwy5nxb-f"/>`,
+</style><path class="hfwzo-b1m"/>`,
 		"fallback": "arcticons:zendesk-support",
 	});
 }

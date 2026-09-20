@@ -23,14 +23,14 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.u8jf4tbwu {
+.nvghvqbmi {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M19.306 27.92c.924 1.202 2.083 1.65 3.695 1.65h2.232a3.76 3.76 0 0 0 3.76-3.76v-.015a3.76 3.76 0 0 0-3.76-3.76H22.77a3.764 3.764 0 0 1-3.763-3.763v0A3.77 3.77 0 0 1 22.78 14.5h2.219c1.612 0 2.77.448 3.695 1.651M20.5 33.5h7");
+  d: path("M19.306 27.92c.924 1.202 2.083 1.65 3.695 1.65h2.232a3.76 3.76 0 0 0 3.76-3.76v-.015a3.76 3.76 0 0 0-3.76-3.76H22.77a3.764 3.764 0 0 1-3.763-3.763A3.77 3.77 0 0 1 22.78 14.5h2.219c1.612 0 2.77.448 3.695 1.651M20.5 33.5h7");
 }
-</style><rect class="j3s9ivbxi"/><path class="u8jf4tbwu"/>`,
+</style><rect class="j3s9ivbxi"/><path class="nvghvqbmi"/>`,
 		"fallback": "arcticons:smart-dock",
 	});
 }

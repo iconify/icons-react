@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.f1yts4yvh {
+		"content": `<style>.ehw52cklp {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M12.396 21.814v7.961m23.1 0za3.013 3.013 0 0 1-3.004-3.004v-1.953a3.013 3.013 0 0 1 3.004-3.004a3.013 3.013 0 0 1 3.004 3.004v1.953a3.013 3.013 0 0 1-3.004 3.004");
+}
+
+.f1yts4yvh {
   cx: 10.201px;
   cy: 29.541px;
   r: 0.75px;
@@ -32,22 +40,14 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.nkl1_qm8a {
+.m-_60zbkq {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M25.673 26.77a3.013 3.013 0 0 1-3.004 3.005h0a3.013 3.013 0 0 1-3.004-3.004v-1.953a3.013 3.013 0 0 1 3.004-3.004h0a3.013 3.013 0 0 1 3.004 3.004m0 4.957v-7.961m3.004-4.056v10.514c0 .901.601 1.502 1.502 1.502h.451M16.661 19.26v10.515m-1.652-7.961h3.154");
+  d: path("M25.673 26.77a3.013 3.013 0 0 1-3.004 3.005a3.013 3.013 0 0 1-3.004-3.004v-1.953a3.013 3.013 0 0 1 3.004-3.004a3.013 3.013 0 0 1 3.004 3.004m0 4.957v-7.961m3.004-4.056v10.514c0 .901.601 1.502 1.502 1.502h.451M16.661 19.26v10.515m-1.652-7.961h3.154");
 }
-
-.z1fiyubtb {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M12.396 21.814v7.961m23.1 0a3.013 3.013 0 0 1-3.004-3.004v-1.953a3.013 3.013 0 0 1 3.004-3.004h0a3.013 3.013 0 0 1 3.004 3.004v1.953a3.013 3.013 0 0 1-3.004 3.004");
-}
-</style><path class="i9clfwm2k"/><circle class="f1yts4yvh"/><path class="nkl1_qm8a"/><circle class="looa8h7tw"/><path class="z1fiyubtb"/>`,
+</style><path class="i9clfwm2k"/><circle class="f1yts4yvh"/><path class="m-_60zbkq"/><circle class="looa8h7tw"/><path class="ehw52cklp"/>`,
 		"fallback": "arcticons:italo-treno",
 	});
 }

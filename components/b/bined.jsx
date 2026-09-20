@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.d-908bc6x {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M32.784 15.309L28.32 22.05m2.237-7.78a2.92 2.92 0 0 1 2.918 2.92v2.978a2.92 2.92 0 0 1-2.92 2.92h0a2.92 2.92 0 0 1-2.919-2.92v-2.977a2.92 2.92 0 0 1 2.92-2.92m-9.53 1.2l2.203-1.2v8.817");
-}
-
-.e25281byt {
+		"content": `<style>.e25281byt {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -69,7 +61,15 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><path class="d-908bc6x"/><g class="y9tr6bcfx"><path class="s31roeb3n"/><rect class="w6xop-b4a"/></g><path class="io5cyufuf"/><path class="riemkfbkk"/><path class="xe6_-4b0v"/><path class="e25281byt"/>`,
+
+.z5si_gboa {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M32.784 15.309L28.32 22.05m2.237-7.78za2.92 2.92 0 0 1 2.918 2.92v2.978a2.92 2.92 0 0 1-2.92 2.92a2.92 2.92 0 0 1-2.919-2.92v-2.977a2.92 2.92 0 0 1 2.92-2.92m-9.53 1.2l2.203-1.2v8.817");
+}
+</style><path class="z5si_gboa"/><g class="y9tr6bcfx"><path class="s31roeb3n"/><rect class="w6xop-b4a"/></g><path class="io5cyufuf"/><path class="riemkfbkk"/><path class="xe6_-4b0v"/><path class="e25281byt"/>`,
 		"fallback": "arcticons:bined",
 	});
 }

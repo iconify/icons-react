@@ -10,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.umm76vnhv {
+		"content": `<style>.onwe-c81i {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M29.89 36.077a11.76 11.76 0 0 0 5.853-10.196s-4.745 3.813-11.718 3.813c-6.943 0-11.769-3.813-11.769-3.813a11.75 11.75 0 0 0 5.853 10.18m12.084-17.692v2.413m-12.306-2.413v2.413");
+}
+
+.umm76vnhv {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -25,15 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M19.419 41.922C11.407 39.873 5.5 32.619 5.5 23.96C5.5 13.745 13.785 5.5 24.04 5.5c10.215 0 18.46 8.245 18.46 18.46c0 8.688-5.916 15.96-13.935 17.981");
 }
-
-.vy6traboe {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M29.89 36.077a11.76 11.76 0 0 0 5.853-10.196h0s-4.745 3.813-11.718 3.813c-6.943 0-11.769-3.813-11.769-3.813h0a11.75 11.75 0 0 0 5.853 10.18m12.084-17.692v2.413m-12.306-2.413v2.413");
-}
-</style><path class="vrvrf5mwv"/><path class="vy6traboe"/><path class="umm76vnhv"/>`,
+</style><path class="vrvrf5mwv"/><path class="onwe-c81i"/><path class="umm76vnhv"/>`,
 		"fallback": "arcticons:emoji-face-stuck-out-tongue",
 	});
 }

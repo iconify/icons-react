@@ -18,14 +18,14 @@ function Component({width, height, ...props}) {
   d: path("M38.701 13.096c-7.595-7.595-19.91-7.595-27.505 0s-7.595 19.91 0 27.505z");
 }
 
-.khqak-g6h {
+.mrip80b8m {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("m24.949 26.848l11.066 11.066a3.8 3.8 0 0 0 5.372 0h0a3.8 3.8 0 0 0 0-5.372l-1.44-1.44");
+  d: path("m24.949 26.848l11.066 11.066a3.799 3.799 0 1 0 5.372-5.372l-1.44-1.44");
 }
-</style><path class="hsgd_gbgy"/><path class="khqak-g6h"/>`,
+</style><path class="hsgd_gbgy"/><path class="mrip80b8m"/>`,
 		"fallback": "arcticons:avira-security",
 	});
 }

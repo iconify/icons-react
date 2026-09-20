@@ -62,14 +62,14 @@ function Component({width, height, ...props}) {
   rx: 1.33px;
 }
 
-.oman2bbek {
+.u0rlb47fj {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M6.66 32.74h6.62m0-5v10M6.45 27.43v10.62M23.79 7v12.23m-8.08 0v-8.1m0 5.04a3.05 3.05 0 0 1-3 3.06h0a3.05 3.05 0 0 1-3-3.06v-2a3 3 0 0 1 3-3h0a3 3 0 0 1 3 3m22.28 5.06V7l-6.51 8.25h8.02M19.62 7v12.23");
+  d: path("M6.66 32.74h6.62m0-5v10M6.45 27.43v10.62M23.79 7v12.23m-8.08 0v-8.1m0 5.04a3.05 3.05 0 0 1-3 3.06a3.05 3.05 0 0 1-3-3.06v-2a3 3 0 0 1 3-3a3 3 0 0 1 3 3m22.28 5.06V7l-6.51 8.25h8.02M19.62 7v12.23");
 }
-</style><rect class="f1f5cnbiu"/><path class="mak6658vp"/><rect class="nfzli_bgg"/><path class="ms-j6-_1p"/><rect class="ge54flbkp"/><path class="oman2bbek"/>`,
+</style><rect class="f1f5cnbiu"/><path class="mak6658vp"/><rect class="nfzli_bgg"/><path class="ms-j6-_1p"/><rect class="ge54flbkp"/><path class="u0rlb47fj"/>`,
 		"fallback": "arcticons:all4hue",
 	});
 }

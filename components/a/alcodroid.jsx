@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.oe_9_fboo {
+		"content": `<style>.s5l0mybpl {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M22.96 14.94a7.26 7.26 0 0 1 9 4.94h0c.16.55-.16 1.12-.7 1.28l-11.99 3.49c-.55.16-1.12-.16-1.28-.7h0a7.26 7.26 0 0 1 4.94-9h.03Zm-6.31.71l2.65 1.75m9.39-5.25l-1.3 2.9");
+  d: path("M22.96 14.94za7.26 7.26 0 0 1 9 4.94c.16.55-.16 1.12-.7 1.28l-11.99 3.49c-.55.16-1.12-.16-1.28-.7a7.26 7.26 0 0 1 4.94-9h.03Zm-6.31.71l2.65 1.75m9.39-5.25l-1.3 2.9");
 }
 
 .ta40141ci {
@@ -33,7 +33,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M24 33.13c3.52 0 7.25-.47 9.74-4.21s-.55-15.37-2.11-24.41H16.35c-1.56 9.05-4.6 20.67-2.11 24.41c2.5 3.74 6.23 4.21 9.74 4.21ZM16.82 43.5h14.36M24 33.13v10.06");
 }
-</style><path class="uw8sirvkg"/><path class="ta40141ci"/><path class="oe_9_fboo"/>`,
+</style><path class="uw8sirvkg"/><path class="ta40141ci"/><path class="s5l0mybpl"/>`,
 		"fallback": "arcticons:alcodroid",
 	});
 }

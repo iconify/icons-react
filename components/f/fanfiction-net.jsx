@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.od4q2ccli {
+		"content": `<style>.t7gbc3iwp {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M5.5 5.5h27a10 10 0 0 1 10 10v27h0h-27a10 10 0 0 1-10-10zm0 18.5h37");
+  d: path("M5.5 5.5h27a10 10 0 0 1 10 10v27h-27a10 10 0 0 1-10-10zm0 18.5h37");
 }
-</style><path class="od4q2ccli"/>`,
+</style><path class="t7gbc3iwp"/>`,
 		"fallback": "arcticons:fanfiction-net",
 	});
 }

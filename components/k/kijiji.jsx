@@ -17,6 +17,14 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
+.i-60mqe2h {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M17.314 20.09v6.497M27.65 20.09v6.497m5.168-6.497v8.172a2.44 2.44 0 0 1-2.429 2.452m7.597-10.624v6.497m-28.722-9.71v9.807m.001-2.084l4.439-4.417m-3.026 3.012l3.49 3.474");
+}
+
 .i1yhspbem {
   cx: 27.65px;
   cy: 17.933px;
@@ -31,12 +39,12 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.kxq38n9-i {
+.lgi03s3bk {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M17.314 20.09v6.497M27.65 20.09v6.497m5.168-6.497v8.172a2.44 2.44 0 0 1-2.429 2.452h0m7.597-10.624v6.497m-28.722-9.71v9.807m.001-2.084l4.439-4.417m-3.026 3.012l3.49 3.474");
+  d: path("M22.482 20.09v8.581a2.44 2.44 0 0 1-2.429 2.452");
 }
 
 .ll0g54h-q {
@@ -54,21 +62,13 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.waanjrsfn {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M22.482 20.09v8.581a2.44 2.44 0 0 1-2.429 2.452h0");
-}
-
 .y16ksbccy {
   cx: 17.314px;
   cy: 17.933px;
   r: 0.75px;
   fill: currentColor;
 }
-</style><path class="waanjrsfn"/><circle class="y16ksbccy"/><circle class="j7op7vb4f"/><circle class="i1yhspbem"/><circle class="gpcr8ac1y"/><circle class="sb2m6db8r"/><path class="kxq38n9-i"/><path class="ll0g54h-q"/>`,
+</style><path class="lgi03s3bk"/><circle class="y16ksbccy"/><circle class="j7op7vb4f"/><circle class="i1yhspbem"/><circle class="gpcr8ac1y"/><circle class="sb2m6db8r"/><path class="i-60mqe2h"/><path class="ll0g54h-q"/>`,
 		"fallback": "arcticons:kijiji",
 	});
 }

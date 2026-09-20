@@ -10,15 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.b471jc4fl {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M18.708 26.5v-4.05l-.013.012h0L5.5 28.25v4.05zm10.609 9.837H42.5V18.988L29.305 8.213zm13.183.001h-37");
-}
-
-.j3s9ivbxi {
+		"content": `<style>.j3s9ivbxi {
   width: 37px;
   height: 37px;
   x: 5.5px;
@@ -31,14 +23,22 @@ function Component({width, height, ...props}) {
   ry: 4px;
 }
 
-.xyrph548t {
+.mft-blkag {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M18.708 36.338h10.596V8.211h0a17.5 17.5 0 0 1-10.609 5.925h0v4.188L5.5 24.113v4.137l13.195-5.788v-4.137l4.237-1.85v4.1l-4.224 1.875v4.05l4.236-1.85v4.037l-4.236 1.863V26.5L5.5 32.287v4.05l13.208-5.787z");
+  d: path("M18.708 36.338h10.596V8.211a17.5 17.5 0 0 1-10.609 5.925v4.188L5.5 24.113v4.137l13.195-5.788v-4.137l4.237-1.85v4.1l-4.224 1.875v4.05l4.236-1.85v4.037l-4.236 1.863V26.5L5.5 32.287v4.05l13.208-5.787z");
 }
-</style><path class="xyrph548t"/><path class="b471jc4fl"/><rect class="j3s9ivbxi"/>`,
+
+.uyf-2kbay {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M18.708 26.5zv-4.05l-.013.012L5.5 28.25v4.05zm10.609 9.837H42.5V18.988L29.305 8.213zm13.183.001h-37");
+}
+</style><path class="mft-blkag"/><path class="uyf-2kbay"/><rect class="j3s9ivbxi"/>`,
 		"fallback": "arcticons:banco-estado",
 	});
 }

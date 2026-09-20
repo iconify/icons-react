@@ -31,14 +31,14 @@ function Component({width, height, ...props}) {
   d: path("M38.5 5.5h-29a4 4 0 0 0-4 4v29a4 4 0 0 0 4 4h29a4 4 0 0 0 4-4v-29a4 4 0 0 0-4-4");
 }
 
-.yvsalintd {
+.lnztsbg7e {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
-  d: path("M21.894 22.206h4.173c.977 0 1.77.792 1.77 1.77h0a1.77 1.77 0 0 1-1.77 1.768h-4.173a1.77 1.77 0 0 1-1.769-1.769h0a1.77 1.77 0 0 1 1.77-1.769");
+  d: path("M21.894 22.206h4.173a1.77 1.77 0 1 1 0 3.538h-4.173a1.77 1.77 0 0 1 0-3.538");
 }
-</style><path class="i9clfwm2k"/><rect class="cx2bfibcy"/><path class="yvsalintd"/>`,
+</style><path class="i9clfwm2k"/><rect class="cx2bfibcy"/><path class="lnztsbg7e"/>`,
 		"fallback": "arcticons:linkbox",
 	});
 }

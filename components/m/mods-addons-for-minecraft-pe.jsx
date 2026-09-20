@@ -26,8 +26,8 @@ function Component({width, height, ...props}) {
   d: path("M38.235 37.747a1.818 1.818 0 1 1-3.635 0a1.818 1.818 0 0 1 3.635 0");
 }
 
-.hiiec-t-x {
-  d: path("m22.43 3.5l17.599 10.161l-17.6 10.161l-17.6-10.16zm7.517 36.177l-7.518 4.34V23.823h0l17.6-10.16v18.382");
+.oo68ql7mb {
+  d: path("m22.43 3.5l17.599 10.161l-17.6 10.161l-17.6-10.16zm7.517 36.177l-7.518 4.34V23.823l17.6-10.16v18.382");
 }
 
 .wg-qsgbux {
@@ -44,7 +44,7 @@ function Component({width, height, ...props}) {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
-</style><g class="y9tr6bcfx"><path class="cb0slsbcx"/><path class="doh6vyceq"/><path class="c6oow2bug"/></g><g class="y9tr6bcfx"><path class="dm34lvb0c"/><path class="wg9kd-bxz"/><path class="hiiec-t-x"/><path class="wg-qsgbux"/></g>`,
+</style><g class="y9tr6bcfx"><path class="cb0slsbcx"/><path class="doh6vyceq"/><path class="c6oow2bug"/></g><g class="y9tr6bcfx"><path class="dm34lvb0c"/><path class="wg9kd-bxz"/><path class="oo68ql7mb"/><path class="wg-qsgbux"/></g>`,
 		"fallback": "arcticons:mods-addons-for-minecraft-pe",
 	});
 }

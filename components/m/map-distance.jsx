@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/f/ffnnpya0h.css';
+import '../../css/u/ug2jtujvf.css';
+import '../../css/q/qlvm9bbto.css';
+import '../../css/t/tc4eo1bjf.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="ffnnpya0h"/><path class="ug2jtujvf"/><path class="qlvm9bbto"/><path class="tc4eo1bjf"/></g>`,
+		"fallback": "tdesign:map-distance",
+	});
+}
+
+export default Component;

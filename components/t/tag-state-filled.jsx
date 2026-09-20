@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/d5s7lcbme.css';
+import '../../css/p/phlx78bqf.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="d5s7lcbme"/><path class="phlx78bqf"/>`,
+		"fallback": "tdesign:tag-state-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,34 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.na7d68bwu {
+  d: path("M16.411 16.127a.75.75 0 0 1-.822-1.254a6 6 0 0 0 1.304-1.16a6 6 0 0 0 .904-1.474a5.7 5.7 0 0 0 .425-2.813a5.73 5.73 0 0 0-1.329-3.14a6 6 0 0 0-1.304-1.159a.75.75 0 1 1 .822-1.254a7.5 7.5 0 0 1 2.071 2.03a7.3 7.3 0 0 1 .945 1.955a7.2 7.2 0 0 1 .287 2.865a7.25 7.25 0 0 1-2.166 4.49a7.5 7.5 0 0 1-1.137.914");
+}
+
+.wv1w28bnn {
+  d: path("M15.489 13.069a.75.75 0 1 1-.978-1.138q.05-.043.1-.094q.209-.216.362-.536A3.05 3.05 0 0 0 15.25 10c0-.754-.25-1.433-.639-1.837a2 2 0 0 0-.1-.094a.75.75 0 1 1 .978-1.138q.105.09.202.191c.67.696 1.059 1.75 1.059 2.878c0 .696-.147 1.366-.423 1.945c-.168.355-.383.67-.636.933a3 3 0 0 1-.202.19");
+}
+
+.xo9xbtbjb {
+  fill-rule: evenodd;
+  d: path("m10.334 1.754l-4.68 4.178H2a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h3.535l4.796 4.312c.644.578 1.669.122 1.669-.744v-15c0-.864-1.021-1.321-1.666-.746M6.666 7.709L10 4.733v10.523l-3.126-2.81A1 1 0 0 0 6 11.932H3v-4h2.751c.302.079.642.02.915-.223");
+}
+</style><g class="cuyn6tgcc"><path clip-rule="evenodd" class="xo9xbtbjb"/><path class="wv1w28bnn"/><path class="na7d68bwu"/></g>`,
+		"fallback": "pepicons-pop:speaker-high",
+	});
+}
+
+export default Component;

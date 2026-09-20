@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":26,"height":26};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.avep9i2uu {
+  fill-rule: evenodd;
+  d: path("M13 5.5a7.5 7.5 0 1 0 0 15a7.5 7.5 0 0 0 0-15M3.5 13a9.5 9.5 0 1 1 19 0a9.5 9.5 0 0 1-19 0");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.kphejjb8s {
+  fill-rule: evenodd;
+  d: path("M13 24c6.075 0 11-4.925 11-11S19.075 2 13 2S2 6.925 2 13s4.925 11 11 11m0 2c7.18 0 13-5.82 13-13S20.18 0 13 0S0 5.82 0 13s5.82 13 13 13");
+}
+
+.t_j776bmu {
+  d: path("M4.293 5.707a1 1 0 0 1 1.414-1.414l16 16a1 1 0 0 1-1.414 1.414z");
+}
+</style><g class="cuyn6tgcc"><path clip-rule="evenodd" class="avep9i2uu"/><path class="t_j776bmu"/><path clip-rule="evenodd" class="kphejjb8s"/></g>`,
+		"fallback": "pepicons-pop:circle-big-circle-off",
+	});
+}
+
+export default Component;

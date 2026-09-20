@@ -1,0 +1,34 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a7eq57-fe {
+  d: path("M4 14.5h11a1 1 0 1 1 0 2H4a1 1 0 1 1 0-2m10.024-3.69l.552-1.923c.257.074.539.113.831.113c1.107 0 1.893-.543 1.893-1s-.786-1-1.893-1V5C17.495 5 19.3 6.248 19.3 8s-1.805 3-3.893 3c-.477 0-.944-.065-1.383-.19");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.f7sia43px {
+  fill-rule: evenodd;
+  d: path("M15.5 4h-12a1 1 0 0 0-1 1c0 4.918 3.061 9 7 9s7-4.082 7-9a1 1 0 0 0-1-1m-6 8c-2.455 0-4.596-2.57-4.949-6h9.898c-.353 3.43-2.494 6-4.949 6");
+}
+
+.xedf9ccsf {
+  d: path("M1.293 2.707a1 1 0 0 1 1.414-1.414l16 16a1 1 0 0 1-1.414 1.414z");
+}
+</style><g class="cuyn6tgcc"><path clip-rule="evenodd" class="f7sia43px"/><path class="a7eq57-fe"/><path class="xedf9ccsf"/></g>`,
+		"fallback": "pepicons-pop:cup-off",
+	});
+}
+
+export default Component;

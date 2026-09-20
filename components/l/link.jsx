@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/b/b2m7awbvd.css';
+import '../../css/g/ggfvuibun.css';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="b2m7awbvd"/><path class="ggfvuibun"/>`,
+		"fallback": "vaadin:link",
+	});
+}
+
+export default Component;

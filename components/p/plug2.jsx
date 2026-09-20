@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hzc3-d5gx.css';
+import '../../css/q/qx2gfdbbw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hzc3-d5gx"/>`,
+		"content": `<path class="qx2gfdbbw"/>`,
 		"fallback": "reicon:plug2",
 	});
 }

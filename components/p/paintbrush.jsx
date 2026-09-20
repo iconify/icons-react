@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/y/ya_u4acbg.css';
+import '../../css/j/j8185sbtm.css';
 import '../../css/z/ze-ddynnn.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="ya_u4acbg"/><path class="ze-ddynnn"/></g>`,
+		"content": `<g class="hntgybcog"><path class="j8185sbtm"/><path class="ze-ddynnn"/></g>`,
 		"fallback": "reicon:paintbrush",
 	});
 }

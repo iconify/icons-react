@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":128,"height":128};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.zz8np8bgc {
+  fill: var(--svg-color--40c0e7, #40c0e7);
+  d: path("M61.02 5.55c.3 0 .47.04.52.05c.53.15 1.1.53 1.67 1.12c3.63 3.76 6.07 8.93 8.43 13.92c9.24 19.61 21.87 41.1 24.81 62.88c.02.19.06.37.11.54c2.63 19.37-6.22 28.79-8.04 30.49c-7.34 6.87-18.76 9.37-28.49 7.84c-9.45-1.48-19.63-5.99-24.21-14.87c-2.42-4.69-3.97-11.06-4.05-16.35c.06-.28.09-.57.08-.86c-.17-4.68.33-9.39 1.49-14.01c5.13-20.46 16.77-38.65 21.28-59.33l.06-.3c.66-3.03 1.29-5.9 2.65-8.3c.6-1.06 1.21-1.83 1.87-2.35c.27-.18 1.01-.47 1.82-.47");
+}
+</style><path class="zz8np8bgc"/>`,
+		"fallback": "noto-v1:droplet",
+	});
+}
+
+export default Component;

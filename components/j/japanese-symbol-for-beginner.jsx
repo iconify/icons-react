@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":128,"height":128};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.i0od3-rsc {
+  fill: var(--svg-color--757f3f, #757f3f);
+  d: path("M119.33-23.68L64.27 24.88v116l55.06-48.41z");
+}
+
+.j71m3fb1u {
+  fill: var(--svg-color--fcc21b, #fcc21b);
+}
+
+.y76nlxsst {
+  d: path("M104.27.48c-1.47 0-3.73.47-6.19 2.73l-32.27 29.6c-.9.83-2.72.83-3.62 0L29.92 3.21C27.46.95 25.2.48 23.73.48c-3.46 0-7.18 2.69-7.18 8.61v70.42c0 5.21 2.9 11.78 6.74 15.3l32.26 29.49c2.28 2.08 5.28 3.23 8.46 3.23s6.18-1.14 8.46-3.23l32.25-29.49c3.85-3.52 6.74-10.09 6.74-15.3V9.09c0-5.92-3.73-8.61-7.19-8.61");
+}
+</style><defs><path id="SVGzS0lCbms" class="y76nlxsst"/></defs><use href="#SVGzS0lCbms" class="j71m3fb1u"/><clipPath id="SVGjbbFDcBM"><use href="#SVGzS0lCbms"/></clipPath><g clip-path="url(#SVGjbbFDcBM)"><path class="i0od3-rsc"/></g>`,
+		"fallback": "noto-v1:japanese-symbol-for-beginner",
+	});
+}
+
+export default Component;

@@ -1,16 +1,12 @@
 # @iconify-react/academicons
 
-Icon set prefix: **academicons**
+**Academicons**
 
-Icon set name: **Academicons**
+Author: [James Walsh](https://github.com/jpswalsh/academicons)
 
-Author: **James Walsh**
+License: [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
-License: **[Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)**
-
-Repository: **https://github.com/jpswalsh/academicons**
-
-Preview: **[Preview Academicons](https://icon-sets.iconify.design/academicons/)**
+Browse all icons: [preview Academicons on Iconify](https://icon-sets.iconify.design/academicons/)
 
 ## Installation
 

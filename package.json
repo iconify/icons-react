@@ -1,0 +1,199 @@
+{
+  "name": "@iconify-react/svg-spinners",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/svg-spinners/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./12-dots-scale-rotate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/1/12-dots-scale-rotate.jsx"
+    },
+    "./180-ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/1/180-ring.jsx"
+    },
+    "./180-ring-with-bg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/1/180-ring-with-bg.jsx"
+    },
+    "./270-ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/2/270-ring.jsx"
+    },
+    "./270-ring-with-bg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/2/270-ring-with-bg.jsx"
+    },
+    "./3-dots-bounce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3-dots-bounce.jsx"
+    },
+    "./3-dots-fade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3-dots-fade.jsx"
+    },
+    "./3-dots-move": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3-dots-move.jsx"
+    },
+    "./3-dots-rotate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3-dots-rotate.jsx"
+    },
+    "./3-dots-scale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3-dots-scale.jsx"
+    },
+    "./3-dots-scale-middle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3-dots-scale-middle.jsx"
+    },
+    "./6-dots-rotate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/6/6-dots-rotate.jsx"
+    },
+    "./6-dots-scale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/6/6-dots-scale.jsx"
+    },
+    "./6-dots-scale-middle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/6/6-dots-scale-middle.jsx"
+    },
+    "./8-dots-rotate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/8/8-dots-rotate.jsx"
+    },
+    "./90-ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/9/90-ring.jsx"
+    },
+    "./90-ring-with-bg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/9/90-ring-with-bg.jsx"
+    },
+    "./bars-fade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bars-fade.jsx"
+    },
+    "./bars-rotate-fade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bars-rotate-fade.jsx"
+    },
+    "./bars-scale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bars-scale.jsx"
+    },
+    "./bars-scale-fade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bars-scale-fade.jsx"
+    },
+    "./bars-scale-middle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bars-scale-middle.jsx"
+    },
+    "./blocks-scale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blocks-scale.jsx"
+    },
+    "./blocks-shuffle-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blocks-shuffle-2.jsx"
+    },
+    "./blocks-shuffle-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blocks-shuffle-3.jsx"
+    },
+    "./blocks-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blocks-wave.jsx"
+    },
+    "./bouncing-ball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bouncing-ball.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./dot-revolve": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dot-revolve.jsx"
+    },
+    "./eclipse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipse.jsx"
+    },
+    "./eclipse-half": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipse-half.jsx"
+    },
+    "./gooey-balls-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gooey-balls-1.jsx"
+    },
+    "./gooey-balls-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gooey-balls-2.jsx"
+    },
+    "./pulse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse.jsx"
+    },
+    "./pulse-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse-2.jsx"
+    },
+    "./pulse-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse-3.jsx"
+    },
+    "./pulse-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse-multiple.jsx"
+    },
+    "./pulse-ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse-ring.jsx"
+    },
+    "./pulse-rings-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse-rings-2.jsx"
+    },
+    "./pulse-rings-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse-rings-3.jsx"
+    },
+    "./pulse-rings-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pulse-rings-multiple.jsx"
+    },
+    "./ring-resize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ring-resize.jsx"
+    },
+    "./tadpole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tadpole.jsx"
+    },
+    "./wifi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi.jsx"
+    },
+    "./wifi-fade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-fade.jsx"
+    },
+    "./wind-toy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-toy.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#svg-spinners"
+}

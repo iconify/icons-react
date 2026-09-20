@@ -1,0 +1,36 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/g/g26hbu.css';
+import '../../css/g/g_1xrq.css';
+import '../../css/u/uaykjt.css';
+import '../../css/z/zxndow.css';
+import '../../css/h/hptb_v.css';
+import '../../css/w/wzqitt.css';
+import '../../css/n/n86h1i.css';
+import '../../css/n/nf43cj.css';
+import '../../css/r/rx35ch.css';
+import '../../css/e/ef_tay.css';
+import '../../css/y/yp_npy.css';
+import '../../css/x/xk-4ss.css';
+import '../../css/b/botfzx.css';
+import '../../css/s/so-from-46.css';
+import '../../css/f/fill-to-1.css';
+import '../../css/f/fade-to-1.css';
+import '../../css/d/d-ma61vw.css';
+import '../../css/s/so-to-0.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<defs><mask id="SVGoAQc3c3I"><path class="g26hbu g_1xrq uaykjt zxndow"/><path class="g26hbu hptb_v"/><circle class="g26hbu wzqitt"/><circle class="n86h1i nf43cj"/><circle class="nf43cj rx35ch"/><path class="ef_tay g_1xrq yp_npy zxndow"/><path class="ef_tay g_1xrq xk-4ss"/></mask></defs><path mask="url(#SVGoAQc3c3I)" class="botfzx"/>`,
+		"fallback": "line-md:reddit",
+	});
+}
+
+export default Component;

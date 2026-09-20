@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/w/w6jdv5xki.css';
+import '../../css/k/kspk4_oeg.css';
+import '../../css/l/lav_9-bkq.css';
+import '../../css/b/bfzgo_bvx.css';
+import '../../css/w/ws3epr_kb.css';
+import '../../css/l/lred9dbwi.css';
+import '../../css/d/d-cdrjbnf.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><circle class="w6jdv5xki"/><path class="kspk4_oeg"/><circle class="lav_9-bkq"/><path class="bfzgo_bvx"/><circle class="ws3epr_kb"/><path class="lred9dbwi"/><rect class="d-cdrjbnf"/></g>`,
+		"fallback": "proicons:text-bullet-list-square",
+	});
+}
+
+export default Component;

@@ -1,0 +1,2431 @@
+{
+  "name": "@iconify-react/maki",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/maki/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC0-1.0",
+  "exports": {
+    "./aerialway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aerialway.jsx"
+    },
+    "./aerialway-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aerialway-11.jsx"
+    },
+    "./airfield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airfield.jsx"
+    },
+    "./airfield-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airfield-11.jsx"
+    },
+    "./airport": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airport.jsx"
+    },
+    "./airport-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airport-11.jsx"
+    },
+    "./alcohol-shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alcohol-shop.jsx"
+    },
+    "./alcohol-shop-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alcohol-shop-11.jsx"
+    },
+    "./american-football": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/american-football.jsx"
+    },
+    "./american-football-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/american-football-11.jsx"
+    },
+    "./amusement-park": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amusement-park.jsx"
+    },
+    "./amusement-park-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amusement-park-11.jsx"
+    },
+    "./animal-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/animal-shelter.jsx"
+    },
+    "./aquarium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aquarium.jsx"
+    },
+    "./aquarium-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aquarium-11.jsx"
+    },
+    "./arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow.jsx"
+    },
+    "./art-gallery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/art-gallery.jsx"
+    },
+    "./art-gallery-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/art-gallery-11.jsx"
+    },
+    "./attraction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attraction.jsx"
+    },
+    "./attraction-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attraction-11.jsx"
+    },
+    "./bakery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bakery.jsx"
+    },
+    "./bakery-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bakery-11.jsx"
+    },
+    "./bakery-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bakery-15.jsx"
+    },
+    "./bank": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank.jsx"
+    },
+    "./bank-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-11.jsx"
+    },
+    "./bank-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-jp.jsx"
+    },
+    "./bank-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-jp-11.jsx"
+    },
+    "./bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar.jsx"
+    },
+    "./bar-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-11.jsx"
+    },
+    "./barrier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barrier.jsx"
+    },
+    "./barrier-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barrier-11.jsx"
+    },
+    "./baseball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baseball.jsx"
+    },
+    "./baseball-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baseball-11.jsx"
+    },
+    "./basketball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basketball.jsx"
+    },
+    "./basketball-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basketball-11.jsx"
+    },
+    "./bbq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bbq.jsx"
+    },
+    "./bbq-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bbq-11.jsx"
+    },
+    "./beach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beach.jsx"
+    },
+    "./beach-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beach-11.jsx"
+    },
+    "./beer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beer.jsx"
+    },
+    "./beer-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beer-11.jsx"
+    },
+    "./bicycle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle.jsx"
+    },
+    "./bicycle-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-11.jsx"
+    },
+    "./bicycle-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-share.jsx"
+    },
+    "./bicycle-share-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-share-11.jsx"
+    },
+    "./blood-bank": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blood-bank.jsx"
+    },
+    "./blood-bank-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blood-bank-11.jsx"
+    },
+    "./bowling-alley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowling-alley.jsx"
+    },
+    "./bowling-alley-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowling-alley-11.jsx"
+    },
+    "./bridge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bridge.jsx"
+    },
+    "./bridge-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bridge-11.jsx"
+    },
+    "./building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building.jsx"
+    },
+    "./building-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-11.jsx"
+    },
+    "./building-alt1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-alt1.jsx"
+    },
+    "./building-alt1-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-alt1-11.jsx"
+    },
+    "./bus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus.jsx"
+    },
+    "./bus-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-11.jsx"
+    },
+    "./cafe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cafe.jsx"
+    },
+    "./cafe-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cafe-11.jsx"
+    },
+    "./campsite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campsite.jsx"
+    },
+    "./campsite-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campsite-11.jsx"
+    },
+    "./car": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car.jsx"
+    },
+    "./car-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-11.jsx"
+    },
+    "./car-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-15.jsx"
+    },
+    "./car-rental": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-rental.jsx"
+    },
+    "./car-rental-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-rental-11.jsx"
+    },
+    "./car-rental-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-rental-15.jsx"
+    },
+    "./car-repair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-repair.jsx"
+    },
+    "./car-repair-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-repair-11.jsx"
+    },
+    "./car-repair-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-repair-15.jsx"
+    },
+    "./casino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/casino.jsx"
+    },
+    "./casino-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/casino-11.jsx"
+    },
+    "./castle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle.jsx"
+    },
+    "./castle-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-11.jsx"
+    },
+    "./castle-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-jp.jsx"
+    },
+    "./castle-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-jp-11.jsx"
+    },
+    "./caution": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caution.jsx"
+    },
+    "./cemetery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cemetery.jsx"
+    },
+    "./cemetery-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cemetery-11.jsx"
+    },
+    "./cemetery-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cemetery-jp.jsx"
+    },
+    "./cemetery-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cemetery-jp-11.jsx"
+    },
+    "./charging-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-station.jsx"
+    },
+    "./charging-station-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-station-11.jsx"
+    },
+    "./cinema": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cinema.jsx"
+    },
+    "./cinema-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cinema-11.jsx"
+    },
+    "./circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle.jsx"
+    },
+    "./circle-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-11.jsx"
+    },
+    "./circle-stroked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-stroked.jsx"
+    },
+    "./circle-stroked-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-stroked-11.jsx"
+    },
+    "./city": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/city.jsx"
+    },
+    "./city-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/city-11.jsx"
+    },
+    "./clothing-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clothing-store.jsx"
+    },
+    "./clothing-store-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clothing-store-11.jsx"
+    },
+    "./college": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/college.jsx"
+    },
+    "./college-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/college-11.jsx"
+    },
+    "./college-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/college-jp.jsx"
+    },
+    "./college-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/college-jp-11.jsx"
+    },
+    "./commercial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commercial.jsx"
+    },
+    "./commercial-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commercial-11.jsx"
+    },
+    "./communications-tower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/communications-tower.jsx"
+    },
+    "./communications-tower-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/communications-tower-11.jsx"
+    },
+    "./confectionery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confectionery.jsx"
+    },
+    "./confectionery-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confectionery-11.jsx"
+    },
+    "./construction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/construction.jsx"
+    },
+    "./convenience": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convenience.jsx"
+    },
+    "./convenience-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convenience-11.jsx"
+    },
+    "./cricket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cricket.jsx"
+    },
+    "./cricket-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cricket-11.jsx"
+    },
+    "./cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross.jsx"
+    },
+    "./cross-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross-11.jsx"
+    },
+    "./dam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dam.jsx"
+    },
+    "./dam-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dam-11.jsx"
+    },
+    "./danger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/danger.jsx"
+    },
+    "./danger-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/danger-11.jsx"
+    },
+    "./defibrillator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/defibrillator.jsx"
+    },
+    "./defibrillator-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/defibrillator-11.jsx"
+    },
+    "./dentist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dentist.jsx"
+    },
+    "./dentist-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dentist-11.jsx"
+    },
+    "./diamond": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diamond.jsx"
+    },
+    "./doctor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doctor.jsx"
+    },
+    "./doctor-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doctor-11.jsx"
+    },
+    "./dog-park": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog-park.jsx"
+    },
+    "./dog-park-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog-park-11.jsx"
+    },
+    "./drinking-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-water.jsx"
+    },
+    "./drinking-water-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-water-11.jsx"
+    },
+    "./drinking-water-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-water-15.jsx"
+    },
+    "./elevator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator.jsx"
+    },
+    "./embassy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/embassy.jsx"
+    },
+    "./embassy-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/embassy-11.jsx"
+    },
+    "./emergency-phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emergency-phone.jsx"
+    },
+    "./emergency-phone-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emergency-phone-11.jsx"
+    },
+    "./entrance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance.jsx"
+    },
+    "./entrance-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance-11.jsx"
+    },
+    "./entrance-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance-15.jsx"
+    },
+    "./entrance-alt1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance-alt1.jsx"
+    },
+    "./entrance-alt1-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance-alt1-11.jsx"
+    },
+    "./farm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/farm.jsx"
+    },
+    "./farm-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/farm-11.jsx"
+    },
+    "./fast-food": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fast-food.jsx"
+    },
+    "./fast-food-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fast-food-11.jsx"
+    },
+    "./fence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fence.jsx"
+    },
+    "./fence-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fence-11.jsx"
+    },
+    "./ferry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ferry.jsx"
+    },
+    "./ferry-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ferry-11.jsx"
+    },
+    "./ferry-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ferry-jp.jsx"
+    },
+    "./fire-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-station.jsx"
+    },
+    "./fire-station-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-station-11.jsx"
+    },
+    "./fire-station-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-station-jp.jsx"
+    },
+    "./fire-station-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-station-jp-11.jsx"
+    },
+    "./fitness-centre": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fitness-centre.jsx"
+    },
+    "./fitness-centre-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fitness-centre-11.jsx"
+    },
+    "./florist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/florist.jsx"
+    },
+    "./florist-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/florist-11.jsx"
+    },
+    "./fuel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fuel.jsx"
+    },
+    "./fuel-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fuel-11.jsx"
+    },
+    "./furniture": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/furniture.jsx"
+    },
+    "./furniture-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/furniture-11.jsx"
+    },
+    "./furniture-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/furniture-15.jsx"
+    },
+    "./gaming": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gaming.jsx"
+    },
+    "./gaming-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gaming-11.jsx"
+    },
+    "./garden": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden.jsx"
+    },
+    "./garden-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-11.jsx"
+    },
+    "./garden-centre": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-centre.jsx"
+    },
+    "./garden-centre-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-centre-11.jsx"
+    },
+    "./gate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gate.jsx"
+    },
+    "./gift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift.jsx"
+    },
+    "./gift-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-11.jsx"
+    },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./globe-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-11.jsx"
+    },
+    "./globe-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-15.jsx"
+    },
+    "./golf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golf.jsx"
+    },
+    "./golf-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golf-11.jsx"
+    },
+    "./grocery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grocery.jsx"
+    },
+    "./grocery-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grocery-11.jsx"
+    },
+    "./hairdresser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hairdresser.jsx"
+    },
+    "./hairdresser-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hairdresser-11.jsx"
+    },
+    "./harbor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harbor.jsx"
+    },
+    "./harbor-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harbor-11.jsx"
+    },
+    "./hardware": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardware.jsx"
+    },
+    "./hardware-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardware-11.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./heart-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-11.jsx"
+    },
+    "./heliport": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heliport.jsx"
+    },
+    "./heliport-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heliport-11.jsx"
+    },
+    "./highway-rest-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/highway-rest-area.jsx"
+    },
+    "./historic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/historic.jsx"
+    },
+    "./home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home.jsx"
+    },
+    "./home-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-11.jsx"
+    },
+    "./horse-riding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horse-riding.jsx"
+    },
+    "./horse-riding-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horse-riding-11.jsx"
+    },
+    "./hospital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital.jsx"
+    },
+    "./hospital-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-11.jsx"
+    },
+    "./hospital-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-jp.jsx"
+    },
+    "./hospital-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-jp-11.jsx"
+    },
+    "./hot-spring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hot-spring.jsx"
+    },
+    "./ice-cream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-cream.jsx"
+    },
+    "./ice-cream-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-cream-11.jsx"
+    },
+    "./ice-cream-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-cream-15.jsx"
+    },
+    "./industry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/industry.jsx"
+    },
+    "./industry-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/industry-11.jsx"
+    },
+    "./information": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information.jsx"
+    },
+    "./information-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-11.jsx"
+    },
+    "./jewelry-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jewelry-store.jsx"
+    },
+    "./jewelry-store-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jewelry-store-11.jsx"
+    },
+    "./karaoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karaoke.jsx"
+    },
+    "./karaoke-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karaoke-11.jsx"
+    },
+    "./karaoke-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karaoke-15.jsx"
+    },
+    "./landmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark.jsx"
+    },
+    "./landmark-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-11.jsx"
+    },
+    "./landmark-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-jp.jsx"
+    },
+    "./landmark-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-jp-11.jsx"
+    },
+    "./landuse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landuse.jsx"
+    },
+    "./landuse-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landuse-11.jsx"
+    },
+    "./laundry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laundry.jsx"
+    },
+    "./laundry-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laundry-11.jsx"
+    },
+    "./library": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/library.jsx"
+    },
+    "./library-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/library-11.jsx"
+    },
+    "./library-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/library-15.jsx"
+    },
+    "./lift-gate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lift-gate.jsx"
+    },
+    "./lighthouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse.jsx"
+    },
+    "./lighthouse-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse-11.jsx"
+    },
+    "./lighthouse-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse-jp.jsx"
+    },
+    "./lodging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lodging.jsx"
+    },
+    "./lodging-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lodging-11.jsx"
+    },
+    "./logging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logging.jsx"
+    },
+    "./logging-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logging-11.jsx"
+    },
+    "./marae": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marae.jsx"
+    },
+    "./marker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker.jsx"
+    },
+    "./marker-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-11.jsx"
+    },
+    "./marker-stroked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-stroked.jsx"
+    },
+    "./marker-stroked-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-stroked-11.jsx"
+    },
+    "./mobile-phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone.jsx"
+    },
+    "./mobile-phone-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone-11.jsx"
+    },
+    "./monument": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monument.jsx"
+    },
+    "./monument-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monument-11.jsx"
+    },
+    "./monument-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monument-jp.jsx"
+    },
+    "./mountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mountain.jsx"
+    },
+    "./mountain-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mountain-11.jsx"
+    },
+    "./museum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/museum.jsx"
+    },
+    "./museum-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/museum-11.jsx"
+    },
+    "./museum-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/museum-15.jsx"
+    },
+    "./music": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music.jsx"
+    },
+    "./music-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-11.jsx"
+    },
+    "./natural": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/natural.jsx"
+    },
+    "./natural-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/natural-11.jsx"
+    },
+    "./nightclub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nightclub.jsx"
+    },
+    "./observation-tower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/observation-tower.jsx"
+    },
+    "./optician": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/optician.jsx"
+    },
+    "./optician-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/optician-11.jsx"
+    },
+    "./paint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint.jsx"
+    },
+    "./paint-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-11.jsx"
+    },
+    "./park": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/park.jsx"
+    },
+    "./park-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/park-11.jsx"
+    },
+    "./park-alt1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/park-alt1.jsx"
+    },
+    "./park-alt1-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/park-alt1-11.jsx"
+    },
+    "./parking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking.jsx"
+    },
+    "./parking-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-11.jsx"
+    },
+    "./parking-garage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-garage.jsx"
+    },
+    "./parking-garage-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-garage-11.jsx"
+    },
+    "./parking-paid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-paid.jsx"
+    },
+    "./pharmacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pharmacy.jsx"
+    },
+    "./pharmacy-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pharmacy-11.jsx"
+    },
+    "./picnic-site": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-site.jsx"
+    },
+    "./picnic-site-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-site-11.jsx"
+    },
+    "./pitch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pitch.jsx"
+    },
+    "./pitch-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pitch-11.jsx"
+    },
+    "./place-of-worship": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/place-of-worship.jsx"
+    },
+    "./place-of-worship-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/place-of-worship-11.jsx"
+    },
+    "./playground": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playground.jsx"
+    },
+    "./playground-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playground-11.jsx"
+    },
+    "./police": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police.jsx"
+    },
+    "./police-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police-11.jsx"
+    },
+    "./police-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police-jp.jsx"
+    },
+    "./police-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police-jp-11.jsx"
+    },
+    "./post": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post.jsx"
+    },
+    "./post-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post-11.jsx"
+    },
+    "./post-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post-jp.jsx"
+    },
+    "./post-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post-jp-11.jsx"
+    },
+    "./prison": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prison.jsx"
+    },
+    "./prison-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prison-11.jsx"
+    },
+    "./racetrack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racetrack.jsx"
+    },
+    "./racetrack-boat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racetrack-boat.jsx"
+    },
+    "./racetrack-cycling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racetrack-cycling.jsx"
+    },
+    "./racetrack-horse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racetrack-horse.jsx"
+    },
+    "./rail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail.jsx"
+    },
+    "./rail-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-11.jsx"
+    },
+    "./rail-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-light.jsx"
+    },
+    "./rail-light-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-light-11.jsx"
+    },
+    "./rail-metro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-metro.jsx"
+    },
+    "./rail-metro-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-metro-11.jsx"
+    },
+    "./ranger-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ranger-station.jsx"
+    },
+    "./ranger-station-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ranger-station-11.jsx"
+    },
+    "./recycling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycling.jsx"
+    },
+    "./recycling-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycling-11.jsx"
+    },
+    "./religious-buddhist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-buddhist.jsx"
+    },
+    "./religious-buddhist-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-buddhist-11.jsx"
+    },
+    "./religious-christian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-christian.jsx"
+    },
+    "./religious-christian-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-christian-11.jsx"
+    },
+    "./religious-jewish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-jewish.jsx"
+    },
+    "./religious-jewish-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-jewish-11.jsx"
+    },
+    "./religious-muslim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-muslim.jsx"
+    },
+    "./religious-muslim-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-muslim-11.jsx"
+    },
+    "./religious-shinto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-shinto.jsx"
+    },
+    "./religious-shinto-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-shinto-11.jsx"
+    },
+    "./residential-community": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/residential-community.jsx"
+    },
+    "./residential-community-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/residential-community-11.jsx"
+    },
+    "./restaurant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant.jsx"
+    },
+    "./restaurant-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-11.jsx"
+    },
+    "./restaurant-bbq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-bbq.jsx"
+    },
+    "./restaurant-noodle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-noodle.jsx"
+    },
+    "./restaurant-noodle-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-noodle-11.jsx"
+    },
+    "./restaurant-pizza": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-pizza.jsx"
+    },
+    "./restaurant-pizza-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-pizza-11.jsx"
+    },
+    "./restaurant-seafood": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-seafood.jsx"
+    },
+    "./restaurant-seafood-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-seafood-11.jsx"
+    },
+    "./restaurant-sushi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-sushi.jsx"
+    },
+    "./road-accident": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/road-accident.jsx"
+    },
+    "./roadblock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roadblock.jsx"
+    },
+    "./roadblock-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roadblock-11.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
+    },
+    "./rocket-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-11.jsx"
+    },
+    "./school": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school.jsx"
+    },
+    "./school-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-11.jsx"
+    },
+    "./school-jp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-jp.jsx"
+    },
+    "./school-jp-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-jp-11.jsx"
+    },
+    "./scooter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scooter.jsx"
+    },
+    "./scooter-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scooter-11.jsx"
+    },
+    "./shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shelter.jsx"
+    },
+    "./shelter-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shelter-11.jsx"
+    },
+    "./shoe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shoe.jsx"
+    },
+    "./shoe-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shoe-11.jsx"
+    },
+    "./shoe-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shoe-15.jsx"
+    },
+    "./shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop.jsx"
+    },
+    "./shop-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-11.jsx"
+    },
+    "./skateboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skateboard.jsx"
+    },
+    "./skateboard-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skateboard-11.jsx"
+    },
+    "./skiing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skiing.jsx"
+    },
+    "./skiing-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skiing-11.jsx"
+    },
+    "./slaughterhouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slaughterhouse.jsx"
+    },
+    "./slaughterhouse-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slaughterhouse-11.jsx"
+    },
+    "./slipway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slipway.jsx"
+    },
+    "./slipway-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slipway-11.jsx"
+    },
+    "./snowmobile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowmobile.jsx"
+    },
+    "./snowmobile-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowmobile-11.jsx"
+    },
+    "./soccer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soccer.jsx"
+    },
+    "./soccer-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soccer-11.jsx"
+    },
+    "./square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square.jsx"
+    },
+    "./square-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-11.jsx"
+    },
+    "./square-stroked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-stroked.jsx"
+    },
+    "./square-stroked-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-stroked-11.jsx"
+    },
+    "./stadium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stadium.jsx"
+    },
+    "./stadium-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stadium-11.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./star-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-11.jsx"
+    },
+    "./star-stroked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-stroked.jsx"
+    },
+    "./star-stroked-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-stroked-11.jsx"
+    },
+    "./suitcase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/suitcase.jsx"
+    },
+    "./suitcase-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/suitcase-11.jsx"
+    },
+    "./sushi-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sushi-11.jsx"
+    },
+    "./swimming": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swimming.jsx"
+    },
+    "./swimming-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swimming-11.jsx"
+    },
+    "./table-tennis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-tennis.jsx"
+    },
+    "./table-tennis-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-tennis-11.jsx"
+    },
+    "./taxi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taxi.jsx"
+    },
+    "./teahouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teahouse.jsx"
+    },
+    "./teahouse-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teahouse-11.jsx"
+    },
+    "./telephone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telephone.jsx"
+    },
+    "./telephone-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telephone-11.jsx"
+    },
+    "./tennis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tennis.jsx"
+    },
+    "./tennis-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tennis-11.jsx"
+    },
+    "./terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal.jsx"
+    },
+    "./theatre": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theatre.jsx"
+    },
+    "./theatre-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theatre-11.jsx"
+    },
+    "./toilet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilet.jsx"
+    },
+    "./toilet-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilet-11.jsx"
+    },
+    "./toll": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toll.jsx"
+    },
+    "./town": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/town.jsx"
+    },
+    "./town-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/town-11.jsx"
+    },
+    "./town-hall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/town-hall.jsx"
+    },
+    "./town-hall-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/town-hall-11.jsx"
+    },
+    "./town-hall-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/town-hall-15.jsx"
+    },
+    "./triangle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle.jsx"
+    },
+    "./triangle-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-11.jsx"
+    },
+    "./triangle-stroked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-stroked.jsx"
+    },
+    "./triangle-stroked-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-stroked-11.jsx"
+    },
+    "./tunnel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tunnel.jsx"
+    },
+    "./veterinary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/veterinary.jsx"
+    },
+    "./veterinary-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/veterinary-11.jsx"
+    },
+    "./veterinary-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/veterinary-15.jsx"
+    },
+    "./viewpoint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viewpoint.jsx"
+    },
+    "./viewpoint-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viewpoint-11.jsx"
+    },
+    "./village": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/village.jsx"
+    },
+    "./village-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/village-11.jsx"
+    },
+    "./volcano": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volcano.jsx"
+    },
+    "./volcano-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volcano-11.jsx"
+    },
+    "./volleyball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volleyball.jsx"
+    },
+    "./volleyball-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volleyball-11.jsx"
+    },
+    "./warehouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warehouse.jsx"
+    },
+    "./warehouse-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warehouse-11.jsx"
+    },
+    "./waste-basket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste-basket.jsx"
+    },
+    "./waste-basket-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste-basket-11.jsx"
+    },
+    "./watch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watch.jsx"
+    },
+    "./watch-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watch-11.jsx"
+    },
+    "./watch-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watch-15.jsx"
+    },
+    "./water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/water.jsx"
+    },
+    "./water-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/water-11.jsx"
+    },
+    "./waterfall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waterfall.jsx"
+    },
+    "./waterfall-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waterfall-11.jsx"
+    },
+    "./watermill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watermill.jsx"
+    },
+    "./watermill-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watermill-11.jsx"
+    },
+    "./wetland": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wetland.jsx"
+    },
+    "./wetland-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wetland-11.jsx"
+    },
+    "./wheelchair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair.jsx"
+    },
+    "./wheelchair-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair-11.jsx"
+    },
+    "./windmill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windmill.jsx"
+    },
+    "./windmill-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windmill-11.jsx"
+    },
+    "./zoo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoo.jsx"
+    },
+    "./zoo-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoo-11.jsx"
+    },
+    "./aerialway-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aerialway-15.jsx"
+    },
+    "./airfield-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airfield-15.jsx"
+    },
+    "./airport-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airport-15.jsx"
+    },
+    "./alcohol-shop-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alcohol-shop-15.jsx"
+    },
+    "./america-football-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/america-football-11.jsx"
+    },
+    "./america-football-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/america-football-15.jsx"
+    },
+    "./american-football-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/american-football-15.jsx"
+    },
+    "./amusement-park-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amusement-park-15.jsx"
+    },
+    "./aquarium-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aquarium-15.jsx"
+    },
+    "./art-gallery-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/art-gallery-15.jsx"
+    },
+    "./attraction-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attraction-15.jsx"
+    },
+    "./bank-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-15.jsx"
+    },
+    "./bank-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-jp-15.jsx"
+    },
+    "./bar-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-15.jsx"
+    },
+    "./barrier-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barrier-15.jsx"
+    },
+    "./baseball-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baseball-15.jsx"
+    },
+    "./basketball-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basketball-15.jsx"
+    },
+    "./bbq-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bbq-15.jsx"
+    },
+    "./beach-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beach-15.jsx"
+    },
+    "./beer-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beer-15.jsx"
+    },
+    "./bicycle-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-15.jsx"
+    },
+    "./bicycle-share-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-share-15.jsx"
+    },
+    "./blood-bank-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blood-bank-15.jsx"
+    },
+    "./bowling-alley-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowling-alley-15.jsx"
+    },
+    "./bridge-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bridge-15.jsx"
+    },
+    "./buddhism-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buddhism-11.jsx"
+    },
+    "./buddhism-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buddhism-15.jsx"
+    },
+    "./building-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-15.jsx"
+    },
+    "./building-alt1-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-alt1-15.jsx"
+    },
+    "./bus-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-15.jsx"
+    },
+    "./cafe-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cafe-15.jsx"
+    },
+    "./campsite-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campsite-15.jsx"
+    },
+    "./casino-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/casino-15.jsx"
+    },
+    "./castle-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-15.jsx"
+    },
+    "./castle-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castle-jp-15.jsx"
+    },
+    "./cemetery-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cemetery-15.jsx"
+    },
+    "./cemetery-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cemetery-jp-15.jsx"
+    },
+    "./charging-station-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-station-15.jsx"
+    },
+    "./cinema-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cinema-15.jsx"
+    },
+    "./circle-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-15.jsx"
+    },
+    "./circle-stroked-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-stroked-15.jsx"
+    },
+    "./city-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/city-15.jsx"
+    },
+    "./clothing-store-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clothing-store-15.jsx"
+    },
+    "./college-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/college-15.jsx"
+    },
+    "./college-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/college-jp-15.jsx"
+    },
+    "./commercial-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commercial-15.jsx"
+    },
+    "./communications-tower-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/communications-tower-15.jsx"
+    },
+    "./confectionary-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confectionary-11.jsx"
+    },
+    "./confectionary-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confectionary-15.jsx"
+    },
+    "./confectionery-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confectionery-15.jsx"
+    },
+    "./convenience-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convenience-15.jsx"
+    },
+    "./convenience-store-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convenience-store-11.jsx"
+    },
+    "./convenience-store-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convenience-store-15.jsx"
+    },
+    "./cricket-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cricket-15.jsx"
+    },
+    "./cross-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross-15.jsx"
+    },
+    "./dam-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dam-15.jsx"
+    },
+    "./danger-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/danger-15.jsx"
+    },
+    "./defibrillator-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/defibrillator-15.jsx"
+    },
+    "./dentist-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dentist-15.jsx"
+    },
+    "./doctor-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doctor-15.jsx"
+    },
+    "./dog-park-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog-park-15.jsx"
+    },
+    "./embassy-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/embassy-15.jsx"
+    },
+    "./emergency-phone-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emergency-phone-15.jsx"
+    },
+    "./entrance-alt1-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance-alt1-15.jsx"
+    },
+    "./farm-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/farm-15.jsx"
+    },
+    "./fast-food-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fast-food-15.jsx"
+    },
+    "./fence-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fence-15.jsx"
+    },
+    "./ferry-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ferry-15.jsx"
+    },
+    "./fire-station-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-station-15.jsx"
+    },
+    "./fire-station-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-station-jp-15.jsx"
+    },
+    "./fitness-center-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fitness-center-11.jsx"
+    },
+    "./fitness-center-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fitness-center-15.jsx"
+    },
+    "./fitness-centre-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fitness-centre-15.jsx"
+    },
+    "./florist-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/florist-15.jsx"
+    },
+    "./fuel-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fuel-15.jsx"
+    },
+    "./gaming-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gaming-15.jsx"
+    },
+    "./garden-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-15.jsx"
+    },
+    "./garden-center-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-center-11.jsx"
+    },
+    "./garden-center-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-center-15.jsx"
+    },
+    "./garden-centre-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden-centre-15.jsx"
+    },
+    "./gift-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-15.jsx"
+    },
+    "./golf-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golf-15.jsx"
+    },
+    "./grocery-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grocery-15.jsx"
+    },
+    "./hairdresser-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hairdresser-15.jsx"
+    },
+    "./harbor-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harbor-15.jsx"
+    },
+    "./hardware-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardware-15.jsx"
+    },
+    "./heart-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-15.jsx"
+    },
+    "./heliport-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heliport-15.jsx"
+    },
+    "./home-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-15.jsx"
+    },
+    "./horse-riding-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horse-riding-15.jsx"
+    },
+    "./hospital-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-15.jsx"
+    },
+    "./hospital-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-jp-15.jsx"
+    },
+    "./industry-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/industry-15.jsx"
+    },
+    "./information-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-15.jsx"
+    },
+    "./jewelry-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jewelry-11.jsx"
+    },
+    "./jewelry-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jewelry-15.jsx"
+    },
+    "./jewelry-store-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jewelry-store-15.jsx"
+    },
+    "./landmark-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-15.jsx"
+    },
+    "./landmark-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-jp-15.jsx"
+    },
+    "./landuse-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landuse-15.jsx"
+    },
+    "./laundry-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laundry-15.jsx"
+    },
+    "./lighthouse-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse-15.jsx"
+    },
+    "./lodging-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lodging-15.jsx"
+    },
+    "./logging-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logging-15.jsx"
+    },
+    "./marker-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-15.jsx"
+    },
+    "./marker-stroked-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-stroked-15.jsx"
+    },
+    "./mobile-phone-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone-15.jsx"
+    },
+    "./monument-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monument-15.jsx"
+    },
+    "./mountain-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mountain-15.jsx"
+    },
+    "./music-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-15.jsx"
+    },
+    "./natural-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/natural-15.jsx"
+    },
+    "./optician-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/optician-15.jsx"
+    },
+    "./paint-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-15.jsx"
+    },
+    "./park-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/park-15.jsx"
+    },
+    "./park-alt1-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/park-alt1-15.jsx"
+    },
+    "./parking-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-15.jsx"
+    },
+    "./parking-garage-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-garage-15.jsx"
+    },
+    "./pharmacy-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pharmacy-15.jsx"
+    },
+    "./picnic-site-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-site-15.jsx"
+    },
+    "./pitch-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pitch-15.jsx"
+    },
+    "./place-of-worship-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/place-of-worship-15.jsx"
+    },
+    "./playground-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playground-15.jsx"
+    },
+    "./police-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police-15.jsx"
+    },
+    "./police-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/police-jp-15.jsx"
+    },
+    "./post-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post-15.jsx"
+    },
+    "./post-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/post-jp-15.jsx"
+    },
+    "./prison-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prison-15.jsx"
+    },
+    "./rail-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-15.jsx"
+    },
+    "./rail-light-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-light-15.jsx"
+    },
+    "./rail-metro-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-metro-15.jsx"
+    },
+    "./ranger-station-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ranger-station-15.jsx"
+    },
+    "./recycling-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycling-15.jsx"
+    },
+    "./religious-buddhist-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-buddhist-15.jsx"
+    },
+    "./religious-christian-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-christian-15.jsx"
+    },
+    "./religious-jewish-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-jewish-15.jsx"
+    },
+    "./religious-muslim-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-muslim-15.jsx"
+    },
+    "./religious-shinto-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/religious-shinto-15.jsx"
+    },
+    "./residential-community-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/residential-community-15.jsx"
+    },
+    "./restaurant-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-15.jsx"
+    },
+    "./restaurant-noodle-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-noodle-15.jsx"
+    },
+    "./restaurant-pizza-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-pizza-15.jsx"
+    },
+    "./restaurant-seafood-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant-seafood-15.jsx"
+    },
+    "./roadblock-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roadblock-15.jsx"
+    },
+    "./rocket-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-15.jsx"
+    },
+    "./school-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-15.jsx"
+    },
+    "./school-jp-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-jp-15.jsx"
+    },
+    "./scooter-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scooter-15.jsx"
+    },
+    "./shelter-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shelter-15.jsx"
+    },
+    "./shop-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-15.jsx"
+    },
+    "./skateboard-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skateboard-15.jsx"
+    },
+    "./skiing-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skiing-15.jsx"
+    },
+    "./slaughterhouse-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slaughterhouse-15.jsx"
+    },
+    "./slipway-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slipway-15.jsx"
+    },
+    "./snowmobile-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowmobile-15.jsx"
+    },
+    "./soccer-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soccer-15.jsx"
+    },
+    "./square-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-15.jsx"
+    },
+    "./square-stroked-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-stroked-15.jsx"
+    },
+    "./stadium-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stadium-15.jsx"
+    },
+    "./star-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-15.jsx"
+    },
+    "./star-stroked-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-stroked-15.jsx"
+    },
+    "./suitcase-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/suitcase-15.jsx"
+    },
+    "./sushi-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sushi-15.jsx"
+    },
+    "./swimming-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swimming-15.jsx"
+    },
+    "./table-tennis-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-tennis-15.jsx"
+    },
+    "./teahouse-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teahouse-15.jsx"
+    },
+    "./telephone-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telephone-15.jsx"
+    },
+    "./tennis-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tennis-15.jsx"
+    },
+    "./theatre-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theatre-15.jsx"
+    },
+    "./toilet-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilet-15.jsx"
+    },
+    "./toll-booth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toll-booth.jsx"
+    },
+    "./town-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/town-15.jsx"
+    },
+    "./triangle-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-15.jsx"
+    },
+    "./triangle-stroked-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-stroked-15.jsx"
+    },
+    "./viewpoint-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/viewpoint-15.jsx"
+    },
+    "./village-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/village-15.jsx"
+    },
+    "./volcano-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volcano-15.jsx"
+    },
+    "./volleyball-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volleyball-15.jsx"
+    },
+    "./warehouse-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warehouse-15.jsx"
+    },
+    "./waste-basket-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste-basket-15.jsx"
+    },
+    "./water-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/water-15.jsx"
+    },
+    "./waterfall-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waterfall-15.jsx"
+    },
+    "./watermill-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watermill-15.jsx"
+    },
+    "./wetland-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wetland-15.jsx"
+    },
+    "./wheelchair-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair-15.jsx"
+    },
+    "./windmill-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windmill-15.jsx"
+    },
+    "./zoo-15": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoo-15.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#maki"
+}

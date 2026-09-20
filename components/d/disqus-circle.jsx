@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/o/oasgoj2dk.css';
+import '../../css/w/wj83-gfny.css';
+import '../../css/k/koqbucc5d.css';
+
+const viewBox = {"width":24,"height":24,"left":-2,"top":-2};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="oasgoj2dk"/><path class="wj83-gfny"/><path class="koqbucc5d"/></g>`,
+		"fallback": "jam:disqus-circle",
+	});
+}
+
+export default Component;

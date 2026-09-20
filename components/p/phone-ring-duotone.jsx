@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/m/mzq9_bcst.css';
+import '../../css/g/g93bdwbpy.css';
+import '../../css/j/jfquk0ace.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="mzq9_bcst"/><path class="g93bdwbpy"/><path clip-rule="evenodd" class="jfquk0ace"/></g>`,
+		"fallback": "reicon:phone-ring-duotone",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/f/facd9-b5n.css';
+import '../../css/g/gb2byyq8r.css';
+import '../../css/d/df6h5iboy.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="facd9-b5n"/><path class="gb2byyq8r"/><path class="df6h5iboy"/></g>`,
+		"fallback": "reicon:closet2-duotone",
+	});
+}
+
+export default Component;

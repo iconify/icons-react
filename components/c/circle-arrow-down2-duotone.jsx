@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/q/qz_8u2b8q.css';
+import '../../css/s/sjia-njgi.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="qz_8u2b8q"/><path class="sjia-njgi"/></g>`,
+		"fallback": "reicon:circle-arrow-down2-duotone",
+	});
+}
+
+export default Component;

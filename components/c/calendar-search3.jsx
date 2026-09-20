@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/h/hntgybcog.css';
+import '../../css/e/e51pb7v-v.css';
+import '../../css/h/hvgzjjb7d.css';
+import '../../css/f/fsdh34bfl.css';
+import '../../css/a/ajqhpcbca.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="hntgybcog"><path class="e51pb7v-v"/><path class="hvgzjjb7d"/><path class="fsdh34bfl"/><path class="ajqhpcbca"/></g>`,
+		"fallback": "reicon:calendar-search3",
+	});
+}
+
+export default Component;

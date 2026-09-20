@@ -1,0 +1,87 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.aqyofsnqg {
+  fill: currentColor;
+  d: path("M4 10a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.gtii7k5jz {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M3 16a3 3 0 0 1 6 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.h9o82-b1h {
+  d: path("M15 16a3 3 0 0 1 6 0");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.j4_olc1js {
+  d: path("M10 14h4");
+}
+
+.k3wnukrax {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M10 14h4");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.kf5i1zqrr {
+  fill: currentColor;
+  d: path("M16 10a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.kmfi7db8w {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M10 11h4");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.lvlbl1p9r {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M15 16a3 3 0 0 1 6 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.oio7uh0en {
+  d: path("M10 11h4");
+}
+
+.oumlmtbql {
+  d: path("M16 10a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+}
+
+.quv6fgbpo {
+  d: path("M4 10a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+}
+
+.w6zsztb2w {
+  d: path("M3 16a3 3 0 0 1 6 0");
+}
+</style><g class="hntgybcog"><path class="aqyofsnqg"/><path class="kf5i1zqrr"/><path class="gtii7k5jz"/><path class="lvlbl1p9r"/><path class="kmfi7db8w"/><path class="k3wnukrax"/><path class="quv6fgbpo"/><path class="w6zsztb2w"/><path class="oumlmtbql"/><path class="h9o82-b1h"/><path class="oio7uh0en"/><path class="j4_olc1js"/></g>`,
+		"fallback": "iconmind:mutual-duotone-thin",
+	});
+}
+
+export default Component;

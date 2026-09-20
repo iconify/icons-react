@@ -1,0 +1,51 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bfz042bwb {
+  fill: currentColor;
+  d: path("M16 14h4v3h-4Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.fg8libqda {
+  d: path("M4 19a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.jz0b4rbqp {
+  fill: currentColor;
+  d: path("M4 19a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.m_xwosbxd {
+  d: path("M16 14h4v3h-4Z");
+}
+
+.wmcm5nbzl {
+  d: path("m6 4 10 10");
+}
+</style><g class="hntgybcog"><path class="bfz042bwb"/><path class="jz0b4rbqp"/><path class="wmcm5nbzl"/><path class="m_xwosbxd"/><path class="fg8libqda"/></g>`,
+		"fallback": "iconmind:golf-duotone-thin",
+	});
+}
+
+export default Component;

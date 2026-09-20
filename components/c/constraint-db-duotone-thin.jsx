@@ -1,0 +1,62 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ajxlkdb4q {
+  d: path("M11 7.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.g4lz7ob4p {
+  d: path("M2 16a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2Z");
+}
+
+.hemk1tbpo {
+  d: path("M2 6a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2Z");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.mc5_norht {
+  fill: currentColor;
+  d: path("M2 16a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.o89tku_be {
+  fill: currentColor;
+  d: path("M11 7.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.vstipubaj {
+  fill: currentColor;
+  d: path("M2 6a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.y5y9-x5ge {
+  d: path("M12 11v3");
+}
+</style><g class="hntgybcog"><path class="vstipubaj"/><path class="mc5_norht"/><path class="o89tku_be"/><path class="hemk1tbpo"/><path class="g4lz7ob4p"/><path class="y5y9-x5ge"/><path class="ajxlkdb4q"/></g>`,
+		"fallback": "iconmind:constraint-db-duotone-thin",
+	});
+}
+
+export default Component;

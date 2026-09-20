@@ -1,0 +1,49 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.elo_ccj2r {
+  d: path("M9 4v7");
+}
+
+.htl7tccnk {
+  d: path("M8 15.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.s0phu2bbs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2-5px, 2.5px);
+}
+
+.tlah7acnn {
+  d: path("M6 13a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v5a2 2 0 0 1 -2 2H8a2 2 0 0 1 -2 -2Z");
+}
+
+.y0v87rbkg {
+  d: path("M14 15.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.yz_nd208h {
+  d: path("M15 4v7");
+}
+
+.zs2zs3b-j {
+  d: path("M10.5 15.5h3");
+}
+</style><g class="s0phu2bbs"><path class="tlah7acnn"/><path class="elo_ccj2r"/><path class="yz_nd208h"/><path class="htl7tccnk"/><path class="zs2zs3b-j"/><path class="y0v87rbkg"/></g>`,
+		"fallback": "iconmind:tool-chain-outline-bold",
+	});
+}
+
+export default Component;

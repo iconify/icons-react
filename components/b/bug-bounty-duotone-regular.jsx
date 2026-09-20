@@ -1,0 +1,51 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.crzn5obfu {
+  fill: currentColor;
+  d: path("M15 5h5v8l-8 8 -8 -8V5h5");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.f73i47bnv {
+  d: path("M9 11a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+}
+
+.fxnzc9b-v {
+  d: path("M12 9v4");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.ymp2b4b6u {
+  d: path("M15 5h5v8l-8 8 -8 -8V5h5");
+}
+
+.zmp0zuf9j {
+  fill: currentColor;
+  d: path("M9 11a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="crzn5obfu"/><path class="zmp0zuf9j"/><path class="ymp2b4b6u"/><path class="f73i47bnv"/><path class="fxnzc9b-v"/></g>`,
+		"fallback": "iconmind:bug-bounty-duotone-regular",
+	});
+}
+
+export default Component;

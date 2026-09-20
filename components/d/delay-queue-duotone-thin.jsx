@@ -1,0 +1,77 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.aff9hemvj {
+  d: path("M9 6a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+}
+
+.ffja1hbnj {
+  d: path("M12 16h3.5");
+}
+
+.fmr2g_bno {
+  d: path("M3 6a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+}
+
+.gwjllcbqv {
+  fill: currentColor;
+  d: path("M3 6a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.le2s8qb-r {
+  d: path("M12 13.5V16");
+}
+
+.m3bn7sb5q {
+  fill: currentColor;
+  d: path("M9 6a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.mz4c5lb-h {
+  d: path("M15 6a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+}
+
+.osjmvib6z {
+  d: path("M7 16a5 5 0 1 0 10 0 5 5 0 1 0 -10 0");
+}
+
+.w-icpcn9a {
+  fill: currentColor;
+  d: path("M15 6a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.xocy_1fwz {
+  fill: currentColor;
+  d: path("M7 16a5 5 0 1 0 10 0 5 5 0 1 0 -10 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+</style><g class="hntgybcog"><path class="gwjllcbqv"/><path class="m3bn7sb5q"/><path class="w-icpcn9a"/><path class="xocy_1fwz"/><path class="fmr2g_bno"/><path class="aff9hemvj"/><path class="mz4c5lb-h"/><path class="osjmvib6z"/><path class="le2s8qb-r"/><path class="ffja1hbnj"/></g>`,
+		"fallback": "iconmind:delay-queue-duotone-thin",
+	});
+}
+
+export default Component;

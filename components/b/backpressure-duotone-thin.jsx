@@ -1,0 +1,75 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bj2hlhbfp {
+  d: path("M3 12h12");
+}
+
+.ecph9tq5i {
+  d: path("M3 18h12");
+}
+
+.f_vuvgsaw {
+  d: path("M3 6h12");
+}
+
+.fdua8zbmm {
+  d: path("m16 7 3 -3 3 3");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.hzi5itbtr {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("m16 7 3 -3 3 3");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.leef4tbvz {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M19 4v16");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.o6a3qip5v {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M3 18h12");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.q9hmc9a4v {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M3 6h12");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.s2ztwmbwx {
+  stroke-width: var(--svg-stroke-width--4-5px, 4.5px);
+  d: path("M3 12h12");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.t3rq50btb {
+  d: path("M19 4v16");
+}
+</style><g class="hntgybcog"><path class="q9hmc9a4v"/><path class="s2ztwmbwx"/><path class="o6a3qip5v"/><path class="leef4tbvz"/><path class="hzi5itbtr"/><path class="f_vuvgsaw"/><path class="bj2hlhbfp"/><path class="ecph9tq5i"/><path class="t3rq50btb"/><path class="fdua8zbmm"/></g>`,
+		"fallback": "iconmind:backpressure-duotone-thin",
+	});
+}
+
+export default Component;

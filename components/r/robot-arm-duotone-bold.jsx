@@ -1,0 +1,65 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b6ubinbne {
+  d: path("m6 12 6 -6h8v3.5");
+}
+
+.f5touvbja {
+  stroke-width: var(--svg-stroke-width--5-5px, 5.5px);
+  d: path("m6 12 6 -6h8v3.5");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.gzh4n16ws {
+  d: path("M6 12v8");
+}
+
+.hlxudebgl {
+  stroke-width: var(--svg-stroke-width--5-5px, 5.5px);
+  d: path("M17 6v3.5");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.o46_3ibvz {
+  d: path("M3 20h6");
+}
+
+.pbd66000m {
+  stroke-width: var(--svg-stroke-width--5-5px, 5.5px);
+  d: path("M3 20h6");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.s0phu2bbs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2-5px, 2.5px);
+}
+
+.s2gl1vbxy {
+  stroke-width: var(--svg-stroke-width--5-5px, 5.5px);
+  d: path("M6 12v8");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.ti0atfbnf {
+  d: path("M17 6v3.5");
+}
+</style><g class="s0phu2bbs"><path class="pbd66000m"/><path class="s2gl1vbxy"/><path class="f5touvbja"/><path class="hlxudebgl"/><path class="o46_3ibvz"/><path class="gzh4n16ws"/><path class="b6ubinbne"/><path class="ti0atfbnf"/></g>`,
+		"fallback": "iconmind:robot-arm-duotone-bold",
+	});
+}
+
+export default Component;

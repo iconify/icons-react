@@ -1,0 +1,41 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.kqvdx1b2z {
+  d: path("M6 11a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2H8a2 2 0 0 1 -2 -2Z");
+}
+
+.l0v-b4kbr {
+  d: path("M8 12h8");
+}
+
+.s0phu2bbs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2-5px, 2.5px);
+}
+
+.u3lgeqbys {
+  d: path("M14 6c0 -2 2 -2 2 -4");
+}
+
+.yo7qm2b6k {
+  d: path("M9 6c0 -2 2 -2 2 -4");
+}
+</style><g class="s0phu2bbs"><path class="kqvdx1b2z"/><path class="l0v-b4kbr"/><path class="yo7qm2b6k"/><path class="u3lgeqbys"/></g>`,
+		"fallback": "iconmind:humidifier-outline-bold",
+	});
+}
+
+export default Component;

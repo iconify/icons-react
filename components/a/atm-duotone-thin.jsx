@@ -1,0 +1,51 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fm1j79plm {
+  d: path("M4 4a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.n-868jblo {
+  fill: currentColor;
+  d: path("M7 5h10v5H7Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.og4-69b6c {
+  d: path("M7 5h10v5H7Z");
+}
+
+.qdrw7hb2a {
+  fill: currentColor;
+  d: path("M4 4a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.rv8gzbbzr {
+  d: path("M9 18v4h6v-4");
+}
+</style><g class="hntgybcog"><path class="qdrw7hb2a"/><path class="n-868jblo"/><path class="fm1j79plm"/><path class="og4-69b6c"/><path class="rv8gzbbzr"/></g>`,
+		"fallback": "iconmind:atm-duotone-thin",
+	});
+}
+
+export default Component;

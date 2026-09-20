@@ -1,0 +1,59 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.d5czi6rdr {
+  d: path("M3 4a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v16a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+}
+
+.eob2zbc5p {
+  d: path("M9 19h6");
+}
+
+.l-z02yb4d {
+  d: path("M11 5v5l2.5 -2.5Z");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.uw3g4ocav {
+  fill: currentColor;
+  d: path("M3 4a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v16a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.wil058c_n {
+  fill: currentColor;
+  d: path("M11 5v5l2.5 -2.5Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.zka_zabrc {
+  d: path("M9 13h6");
+}
+
+.zm2dyvb-o {
+  d: path("M9 16h6");
+}
+</style><g class="nrj6p8qat"><path class="uw3g4ocav"/><path class="wil058c_n"/><path class="d5czi6rdr"/><path class="l-z02yb4d"/><path class="zka_zabrc"/><path class="zm2dyvb-o"/><path class="eob2zbc5p"/></g>`,
+		"fallback": "iconmind:test-order-duotone-regular",
+	});
+}
+
+export default Component;

@@ -1,0 +1,41 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a814_sbem {
+  d: path("M7 12v5");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.md-e9sbfv {
+  d: path("M10 12h6q3 0 3 6");
+}
+
+.ne5jxubfx {
+  d: path("M4 7h6v5H4Z");
+}
+
+.xyj-l9cjp {
+  d: path("M3 18h18");
+}
+</style><g class="hntgybcog"><path class="xyj-l9cjp"/><path class="md-e9sbfv"/><path class="ne5jxubfx"/><path class="a814_sbem"/></g>`,
+		"fallback": "iconmind:sewing-machine-outline-thin",
+	});
+}
+
+export default Component;

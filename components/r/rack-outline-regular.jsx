@@ -1,0 +1,49 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a3hpkcc6o {
+  d: path("M6 12.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.ils7yp4cg {
+  d: path("M2 16h20");
+}
+
+.ls7ugdcwr {
+  d: path("M6 19a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.pa38cub_q {
+  d: path("M6 5.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.rw6ho_bav {
+  d: path("M2 9h20");
+}
+
+.viv5gg8xx {
+  d: path("M2 4a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v16a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2Z");
+}
+</style><g class="nrj6p8qat"><path class="viv5gg8xx"/><path class="rw6ho_bav"/><path class="ils7yp4cg"/><path class="pa38cub_q"/><path class="a3hpkcc6o"/><path class="ls7ugdcwr"/></g>`,
+		"fallback": "iconmind:rack-outline-regular",
+	});
+}
+
+export default Component;

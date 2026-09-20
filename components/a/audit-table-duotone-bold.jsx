@@ -1,0 +1,59 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cvoep2bmy {
+  fill: currentColor;
+  d: path("M3 6a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.dznv025mt {
+  d: path("M6 14h12");
+}
+
+.ox73jyb9b {
+  d: path("M5.5 7a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.s0phu2bbs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2-5px, 2.5px);
+}
+
+.u3xtbmaii {
+  fill: currentColor;
+  d: path("M5.5 7a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.x50q_4bdr {
+  d: path("M3 10h18");
+}
+
+.y5iyq7b9t {
+  d: path("m14 16 2 2 3 -3");
+}
+
+.zrwkhybyf {
+  d: path("M3 6a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+}
+</style><g class="s0phu2bbs"><path class="cvoep2bmy"/><path class="u3xtbmaii"/><path class="zrwkhybyf"/><path class="x50q_4bdr"/><path class="ox73jyb9b"/><path class="dznv025mt"/><path class="y5iyq7b9t"/></g>`,
+		"fallback": "iconmind:audit-table-duotone-bold",
+	});
+}
+
+export default Component;

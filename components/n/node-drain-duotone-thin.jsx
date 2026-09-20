@@ -1,0 +1,52 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b371uj3tj {
+  d: path("M10 8h7");
+}
+
+.di73vubuu {
+  d: path("m15 14 2 2 -2 2");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.iaoq7pb9m {
+  d: path("M10 16h7");
+}
+
+.ivvyhzbbh {
+  fill: currentColor;
+  d: path("M3 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.j-t96eb1w {
+  d: path("m15 6 2 2 -2 2");
+}
+
+.vu8qf_bet {
+  d: path("M3 6a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+}
+</style><g class="hntgybcog"><path class="ivvyhzbbh"/><path class="vu8qf_bet"/><path class="b371uj3tj"/><path class="j-t96eb1w"/><path class="iaoq7pb9m"/><path class="di73vubuu"/></g>`,
+		"fallback": "iconmind:node-drain-duotone-thin",
+	});
+}
+
+export default Component;

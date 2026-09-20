@@ -1,0 +1,59 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a2wn47b0j {
+  fill: currentColor;
+  d: path("M4 8a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.ef626bcbl {
+  d: path("M3 17a4 4 0 0 1 8 0");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.i49-5fazd {
+  d: path("M13 17a4 4 0 0 1 8 0");
+}
+
+.mil5mpb-p {
+  fill: currentColor;
+  d: path("M14 8a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.myekf3bzc {
+  d: path("M4 8a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+}
+
+.odx_lab8a {
+  d: path("M10 6h4");
+}
+
+.rrxso7m3p {
+  d: path("M14 8a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+}
+</style><g class="hntgybcog"><path class="a2wn47b0j"/><path class="mil5mpb-p"/><path class="myekf3bzc"/><path class="ef626bcbl"/><path class="rrxso7m3p"/><path class="i49-5fazd"/><path class="odx_lab8a"/></g>`,
+		"fallback": "iconmind:co-op-duotone-thin",
+	});
+}
+
+export default Component;

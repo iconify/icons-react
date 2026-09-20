@@ -1,0 +1,55 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.az5esj3_g {
+  d: path("M10.5 9.5 8 12l2.5 2.5");
+}
+
+.dlkdbhdlq {
+  stroke-width: var(--svg-stroke-width--5px, 5px);
+  d: path("M10.5 9.5 8 12l2.5 2.5");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.ky4omnbla {
+  d: path("M4 5h14l4 4v8a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2V7a2 2 0 0 1 2 -2m14 0v4h4");
+}
+
+.l0v-b4kbr {
+  d: path("M8 12h8");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.sw8cph7mb {
+  stroke-width: var(--svg-stroke-width--5px, 5px);
+  d: path("M8 12h8");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.wo--el8ej {
+  stroke-width: var(--svg-stroke-width--5px, 5px);
+  d: path("M4 5h14l4 4v8a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2V7a2 2 0 0 1 2 -2m14 0v4h4");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+</style><g class="nrj6p8qat"><path class="wo--el8ej"/><path class="sw8cph7mb"/><path class="dlkdbhdlq"/><path class="ky4omnbla"/><path class="l0v-b4kbr"/><path class="az5esj3_g"/></g>`,
+		"fallback": "iconmind:loan-repay-duotone-regular",
+	});
+}
+
+export default Component;

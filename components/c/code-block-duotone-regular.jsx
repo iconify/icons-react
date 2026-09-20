@@ -1,0 +1,44 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.adiugjbhs {
+  d: path("m15 9 3 3 -3 3");
+}
+
+.ehzfylb8o {
+  fill: currentColor;
+  d: path("M2 7a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.f3mn215ed {
+  d: path("m9 9 -3 3 3 3");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.okud9xj_d {
+  d: path("M2 7a2 2 0 0 1 2 -2h16a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2H4a2 2 0 0 1 -2 -2Z");
+}
+</style><g class="nrj6p8qat"><path class="ehzfylb8o"/><path class="okud9xj_d"/><path class="f3mn215ed"/><path class="adiugjbhs"/></g>`,
+		"fallback": "iconmind:code-block-duotone-regular",
+	});
+}
+
+export default Component;

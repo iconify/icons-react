@@ -1,0 +1,55 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bucddhbte {
+  fill: currentColor;
+  d: path("M7.5 5.5 10 3h4l2.5 2.5V8h-9Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.cqw6oyk8z {
+  d: path("M3.5 2v20");
+}
+
+.h_xkaqy0p {
+  fill: currentColor;
+  d: path("M7.5 15.5 10 13h4l2.5 2.5V18h-9Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.s_3njwb9k {
+  d: path("M7.5 5.5 10 3h4l2.5 2.5V8h-9Z");
+}
+
+.sxnipqb0a {
+  d: path("M7.5 15.5 10 13h4l2.5 2.5V18h-9Z");
+}
+
+.zwzgjsm-o {
+  d: path("M20.5 2v20");
+}
+</style><g class="nrj6p8qat"><path class="bucddhbte"/><path class="h_xkaqy0p"/><path class="cqw6oyk8z"/><path class="zwzgjsm-o"/><path class="s_3njwb9k"/><path class="sxnipqb0a"/></g>`,
+		"fallback": "iconmind:traffic-jam-duotone-regular",
+	});
+}
+
+export default Component;

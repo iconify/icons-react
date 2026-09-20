@@ -1,0 +1,58 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fnjssifqv {
+  fill: currentColor;
+  d: path("M15 12c0 -4 2.5 -7 5 -7 0 4 -2.5 7 -5 7");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.sjgt480pd {
+  d: path("M6 9a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+}
+
+.vow7fbbnh {
+  fill: currentColor;
+  d: path("M4 12h16c0 5 -4 9 -8 9s-8 -4 -8 -9");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.vse8wy5nd {
+  d: path("M15 12c0 -4 2.5 -7 5 -7 0 4 -2.5 7 -5 7");
+}
+
+.xi253xtcz {
+  d: path("M4 12h16c0 5 -4 9 -8 9s-8 -4 -8 -9");
+}
+
+.xpywrdbti {
+  fill: currentColor;
+  d: path("M6 9a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+</style><g class="hntgybcog"><path class="vow7fbbnh"/><path class="xpywrdbti"/><path class="fnjssifqv"/><path class="xi253xtcz"/><path class="sjgt480pd"/><path class="vse8wy5nd"/></g>`,
+		"fallback": "iconmind:fruit-bowl-duotone-thin",
+	});
+}
+
+export default Component;

@@ -1,0 +1,55 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gl3o38_gx {
+  d: path("M8 21h8");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.jnf_2db5t {
+  d: path("M12 18v3");
+}
+
+.mws_ge37e {
+  fill: currentColor;
+  d: path("M3 6a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.wey2ko0vh {
+  fill: currentColor;
+  d: path("M9 13a4 4 0 0 1 6 -5c0 4 -2 6 -6 5");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.xekk022fw {
+  d: path("M3 6a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2H5a2 2 0 0 1 -2 -2Z");
+}
+
+.z8c0a6b1x {
+  d: path("M9 13a4 4 0 0 1 6 -5c0 4 -2 6 -6 5");
+}
+</style><g class="hntgybcog"><path class="mws_ge37e"/><path class="wey2ko0vh"/><path class="xekk022fw"/><path class="jnf_2db5t"/><path class="gl3o38_gx"/><path class="z8c0a6b1x"/></g>`,
+		"fallback": "iconmind:pregnancy-scan-duotone-thin",
+	});
+}
+
+export default Component;

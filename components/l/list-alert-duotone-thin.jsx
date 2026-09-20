@@ -1,0 +1,55 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.da_3coiun {
+  d: path("M11 16.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.dx3ubrb9h {
+  d: path("M4 7.5a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2V19a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+}
+
+.hbtmd5b0k {
+  d: path("M9.5 7V2.5h5V7");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.iw6xucujz {
+  fill: currentColor;
+  d: path("M4 7.5a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2V19a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.o1bec9b2h {
+  fill: currentColor;
+  d: path("M11 16.5a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.vw_dl18nv {
+  d: path("M12 10.5v3");
+}
+</style><g class="hntgybcog"><path class="iw6xucujz"/><path class="o1bec9b2h"/><path class="dx3ubrb9h"/><path class="hbtmd5b0k"/><path class="vw_dl18nv"/><path class="da_3coiun"/></g>`,
+		"fallback": "iconmind:list-alert-duotone-thin",
+	});
+}
+
+export default Component;

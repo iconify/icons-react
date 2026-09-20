@@ -1,0 +1,51 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.iwo9vlwah {
+  fill: currentColor;
+  d: path("M9 6c4 0 7 3 7 7 0 3 -3 6 -7 6s-6 -3 -6 -6c0 -4 2 -7 6 -7");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.jf0dusbyh {
+  d: path("M16 10h5v3h-5");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.nyo0sgxgn {
+  d: path("M9 6c4 0 7 3 7 7 0 3 -3 6 -7 6s-6 -3 -6 -6c0 -4 2 -7 6 -7");
+}
+
+.oewjtrp_y {
+  d: path("M7 13a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+}
+
+.wajv_y-6p {
+  fill: currentColor;
+  d: path("M7 13a2 2 0 1 0 4 0 2 2 0 1 0 -4 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="iwo9vlwah"/><path class="wajv_y-6p"/><path class="nyo0sgxgn"/><path class="oewjtrp_y"/><path class="jf0dusbyh"/></g>`,
+		"fallback": "iconmind:whistle-duotone-regular",
+	});
+}
+
+export default Component;

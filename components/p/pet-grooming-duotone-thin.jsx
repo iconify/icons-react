@@ -1,0 +1,52 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.drjad9bfe {
+  d: path("M14 14v4");
+}
+
+.evsu0jbbm {
+  d: path("M10 14v4");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.i3cv35p_l {
+  d: path("M4 8a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+}
+
+.ktxjg3b2q {
+  d: path("M6 14v4");
+}
+
+.rgnpgnbjr {
+  d: path("M16 10h5");
+}
+
+.wwbr61vxt {
+  fill: currentColor;
+  d: path("M4 8a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+</style><g class="hntgybcog"><path class="wwbr61vxt"/><path class="i3cv35p_l"/><path class="ktxjg3b2q"/><path class="evsu0jbbm"/><path class="drjad9bfe"/><path class="rgnpgnbjr"/></g>`,
+		"fallback": "iconmind:pet-grooming-duotone-thin",
+	});
+}
+
+export default Component;

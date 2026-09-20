@@ -1,0 +1,51 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bgtqag34q {
+  d: path("M2 21a8 8 0 0 1 16 0");
+}
+
+.ixfqlr8_d {
+  d: path("M7 6a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+}
+
+.jc4egvb_a {
+  d: path("M16 9h4v7h-4Z");
+}
+
+.l1jbpcb1m {
+  fill: currentColor;
+  d: path("M7 6a3 3 0 1 0 6 0 3 3 0 1 0 -6 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.u6_6cwbqb {
+  fill: currentColor;
+  d: path("M16 9h4v7h-4Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="l1jbpcb1m"/><path class="u6_6cwbqb"/><path class="ixfqlr8_d"/><path class="bgtqag34q"/><path class="jc4egvb_a"/></g>`,
+		"fallback": "iconmind:solo-travel-duotone-regular",
+	});
+}
+
+export default Component;

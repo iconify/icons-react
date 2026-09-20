@@ -1,0 +1,45 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ae-e09b3w {
+  d: path("M3 12h18");
+}
+
+.hrjweb57d {
+  d: path("m9 15 3 -3 3 3");
+}
+
+.k6nj2fbya {
+  d: path("M3 5h18");
+}
+
+.rkhcgsbdl {
+  d: path("M3 19h18");
+}
+
+.s0phu2bbs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2-5px, 2.5px);
+}
+
+.zbpm1d36f {
+  d: path("m9 8 3 -3 3 3");
+}
+</style><g class="s0phu2bbs"><path class="k6nj2fbya"/><path class="ae-e09b3w"/><path class="rkhcgsbdl"/><path class="zbpm1d36f"/><path class="hrjweb57d"/></g>`,
+		"fallback": "iconmind:cname-record-outline-bold",
+	});
+}
+
+export default Component;

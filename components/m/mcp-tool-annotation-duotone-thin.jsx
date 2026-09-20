@@ -1,0 +1,62 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.exn420ato {
+  fill: currentColor;
+  d: path("M13.5 3H17a3 3 0 0 1 3 3v12a3 3 0 0 1 -3 3H7a3 3 0 0 1 -3 -3V6l3 -3h3.5");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.gffdk79ec {
+  d: path("M9 8h3l3 3 -3 3H9Z");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.j6o0shbiv {
+  d: path("M7 18h5");
+}
+
+.ni20md-jo {
+  d: path("M13.5 3H17a3 3 0 0 1 3 3v12a3 3 0 0 1 -3 3H7a3 3 0 0 1 -3 -3V6l3 -3h3.5");
+}
+
+.pfsnloz0n {
+  fill: currentColor;
+  d: path("M15 18a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.uesvxd39h {
+  d: path("M15 18a1 1 0 1 0 2 0 1 1 0 1 0 -2 0");
+}
+
+.v72ku2b4z {
+  fill: currentColor;
+  d: path("M9 8h3l3 3 -3 3H9Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+</style><g class="hntgybcog"><path class="exn420ato"/><path class="pfsnloz0n"/><path class="v72ku2b4z"/><path class="ni20md-jo"/><path class="j6o0shbiv"/><path class="uesvxd39h"/><path class="gffdk79ec"/></g>`,
+		"fallback": "iconmind:mcp-tool-annotation-duotone-thin",
+	});
+}
+
+export default Component;

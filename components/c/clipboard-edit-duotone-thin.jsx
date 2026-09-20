@@ -1,0 +1,58 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.kbaghgqhh {
+  fill: currentColor;
+  d: path("M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.s_o_4bc7h {
+  fill: currentColor;
+  d: path("M8 4a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-4a2 2 0 0 1 -2 -2Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.v2np2ebwn {
+  fill: currentColor;
+  d: path("M9 18v-2.5l4.5 -4.5 2.5 2.5 -4.5 4.5Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+  stroke: none;
+}
+
+.wg9_q_bco {
+  d: path("M9 18v-2.5l4.5 -4.5 2.5 2.5 -4.5 4.5Z");
+}
+
+.xhii43btc {
+  d: path("M8 4a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v3a2 2 0 0 1 -2 2h-4a2 2 0 0 1 -2 -2Z");
+}
+
+.zva0qcbrg {
+  d: path("M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2H6a2 2 0 0 1 -2 -2Z");
+}
+</style><g class="hntgybcog"><path class="kbaghgqhh"/><path class="s_o_4bc7h"/><path class="v2np2ebwn"/><path class="zva0qcbrg"/><path class="xhii43btc"/><path class="wg9_q_bco"/></g>`,
+		"fallback": "iconmind:clipboard-edit-duotone-thin",
+	});
+}
+
+export default Component;

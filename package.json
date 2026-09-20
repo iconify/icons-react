@@ -1,0 +1,815 @@
+{
+  "name": "@iconify-react/streamline-stickies-color",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/streamline-stickies-color/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC-BY-4.0",
+  "exports": {
+    "./3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3d.jsx"
+    },
+    "./3d-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3d-duo.jsx"
+    },
+    "./add-device": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-device.jsx"
+    },
+    "./add-device-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-device-duo.jsx"
+    },
+    "./airport-railroad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airport-railroad.jsx"
+    },
+    "./airport-railroad-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airport-railroad-duo.jsx"
+    },
+    "./android-setting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android-setting.jsx"
+    },
+    "./android-setting-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android-setting-duo.jsx"
+    },
+    "./app-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window.jsx"
+    },
+    "./app-window-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-duo.jsx"
+    },
+    "./astrology-study": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astrology-study.jsx"
+    },
+    "./astrology-study-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astrology-study-duo.jsx"
+    },
+    "./baby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baby.jsx"
+    },
+    "./baby-cart-quality": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baby-cart-quality.jsx"
+    },
+    "./baby-cart-quality-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baby-cart-quality-duo.jsx"
+    },
+    "./baby-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baby-duo.jsx"
+    },
+    "./backpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backpack.jsx"
+    },
+    "./backpack-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backpack-duo.jsx"
+    },
+    "./balloon-tour": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/balloon-tour.jsx"
+    },
+    "./balloon-tour-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/balloon-tour-duo.jsx"
+    },
+    "./bigben": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bigben.jsx"
+    },
+    "./bigben-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bigben-duo.jsx"
+    },
+    "./bluetooth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth.jsx"
+    },
+    "./bluetooth-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth-duo.jsx"
+    },
+    "./boarding-pass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boarding-pass.jsx"
+    },
+    "./boarding-pass-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boarding-pass-duo.jsx"
+    },
+    "./book-library": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-library.jsx"
+    },
+    "./book-library-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-library-duo.jsx"
+    },
+    "./bug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug.jsx"
+    },
+    "./bug-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug-duo.jsx"
+    },
+    "./bus-route-info": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-route-info.jsx"
+    },
+    "./bus-route-info-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-route-info-duo.jsx"
+    },
+    "./cancel-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cancel-2.jsx"
+    },
+    "./cancel-2-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cancel-2-duo.jsx"
+    },
+    "./candy-cane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/candy-cane.jsx"
+    },
+    "./candy-cane-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/candy-cane-duo.jsx"
+    },
+    "./checking-order": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checking-order.jsx"
+    },
+    "./checking-order-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checking-order-duo.jsx"
+    },
+    "./cloud-data-transfer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-data-transfer.jsx"
+    },
+    "./cloud-data-transfer-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-data-transfer-duo.jsx"
+    },
+    "./coding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coding.jsx"
+    },
+    "./coding-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coding-duo.jsx"
+    },
+    "./compass-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-1.jsx"
+    },
+    "./compass-1-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-1-duo.jsx"
+    },
+    "./construction-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/construction-area.jsx"
+    },
+    "./construction-area-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/construction-area-duo.jsx"
+    },
+    "./control": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/control.jsx"
+    },
+    "./control-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/control-duo.jsx"
+    },
+    "./cursor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor.jsx"
+    },
+    "./cursor-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-duo.jsx"
+    },
+    "./dangerous-chemical-lab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dangerous-chemical-lab.jsx"
+    },
+    "./dangerous-chemical-lab-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dangerous-chemical-lab-duo.jsx"
+    },
+    "./date-time-setting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/date-time-setting.jsx"
+    },
+    "./date-time-setting-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/date-time-setting-duo.jsx"
+    },
+    "./drawer-inbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drawer-inbox.jsx"
+    },
+    "./drawer-inbox-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drawer-inbox-duo.jsx"
+    },
+    "./drone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone.jsx"
+    },
+    "./drone-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone-duo.jsx"
+    },
+    "./earpod-connected": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earpod-connected.jsx"
+    },
+    "./earpod-connected-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earpod-connected-duo.jsx"
+    },
+    "./easter-egg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easter-egg.jsx"
+    },
+    "./easter-egg-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easter-egg-duo.jsx"
+    },
+    "./education-degree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/education-degree.jsx"
+    },
+    "./education-degree-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/education-degree-duo.jsx"
+    },
+    "./eiffel-tower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eiffel-tower.jsx"
+    },
+    "./eiffel-tower-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eiffel-tower-duo.jsx"
+    },
+    "./elevator-lift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator-lift.jsx"
+    },
+    "./elevator-lift-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator-lift-duo.jsx"
+    },
+    "./face-id-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-id-1.jsx"
+    },
+    "./face-id-1-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-id-1-duo.jsx"
+    },
+    "./filming-movie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filming-movie.jsx"
+    },
+    "./filming-movie-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filming-movie-duo.jsx"
+    },
+    "./ghost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghost.jsx"
+    },
+    "./ghost-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghost-duo.jsx"
+    },
+    "./gift-reciept": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-reciept.jsx"
+    },
+    "./gift-reciept-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-reciept-duo.jsx"
+    },
+    "./globe-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-1.jsx"
+    },
+    "./globe-1-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-1-duo.jsx"
+    },
+    "./graph-bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-bar.jsx"
+    },
+    "./graph-bar-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-bar-duo.jsx"
+    },
+    "./graph-pie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-pie.jsx"
+    },
+    "./graph-pie-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-pie-duo.jsx"
+    },
+    "./guitar-amplifier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guitar-amplifier.jsx"
+    },
+    "./guitar-amplifier-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guitar-amplifier-duo.jsx"
+    },
+    "./help": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help.jsx"
+    },
+    "./help-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help-duo.jsx"
+    },
+    "./information-toilet-location": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-toilet-location.jsx"
+    },
+    "./information-toilet-location-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-toilet-location-duo.jsx"
+    },
+    "./instruments-piano": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instruments-piano.jsx"
+    },
+    "./instruments-piano-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instruments-piano-duo.jsx"
+    },
+    "./key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key.jsx"
+    },
+    "./key-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-duo.jsx"
+    },
+    "./keyboard-direction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-direction.jsx"
+    },
+    "./keyboard-direction-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-direction-duo.jsx"
+    },
+    "./lab-tools": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lab-tools.jsx"
+    },
+    "./lab-tools-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lab-tools-duo.jsx"
+    },
+    "./labtop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/labtop.jsx"
+    },
+    "./labtop-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/labtop-duo.jsx"
+    },
+    "./library-research": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/library-research.jsx"
+    },
+    "./library-research-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/library-research-duo.jsx"
+    },
+    "./love": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/love.jsx"
+    },
+    "./love-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/love-duo.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
+    "./mail-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-duo.jsx"
+    },
+    "./mailbox-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mailbox-2.jsx"
+    },
+    "./mailbox-2-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mailbox-2-duo.jsx"
+    },
+    "./medal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medal.jsx"
+    },
+    "./medal-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medal-duo.jsx"
+    },
+    "./mobile-phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone.jsx"
+    },
+    "./mobile-phone-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone-duo.jsx"
+    },
+    "./money-briefcase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-briefcase.jsx"
+    },
+    "./money-briefcase-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-briefcase-duo.jsx"
+    },
+    "./money-coin-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-coin-2.jsx"
+    },
+    "./money-coin-2-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-coin-2-duo.jsx"
+    },
+    "./muslim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/muslim.jsx"
+    },
+    "./muslim-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/muslim-duo.jsx"
+    },
+    "./nuclear-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuclear-2.jsx"
+    },
+    "./nuclear-2-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuclear-2-duo.jsx"
+    },
+    "./on-off-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/on-off-1.jsx"
+    },
+    "./on-off-1-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/on-off-1-duo.jsx"
+    },
+    "./online-information": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/online-information.jsx"
+    },
+    "./online-information-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/online-information-duo.jsx"
+    },
+    "./passport": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport.jsx"
+    },
+    "./passport-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport-duo.jsx"
+    },
+    "./pen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen.jsx"
+    },
+    "./pen-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen-duo.jsx"
+    },
+    "./photography": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photography.jsx"
+    },
+    "./photography-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photography-duo.jsx"
+    },
+    "./picture": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picture.jsx"
+    },
+    "./picture-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picture-duo.jsx"
+    },
+    "./pile-of-money": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pile-of-money.jsx"
+    },
+    "./pile-of-money-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pile-of-money-duo.jsx"
+    },
+    "./plant-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plant-1.jsx"
+    },
+    "./plant-1-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plant-1-duo.jsx"
+    },
+    "./product-cloth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-cloth.jsx"
+    },
+    "./product-cloth-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/product-cloth-duo.jsx"
+    },
+    "./programming": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/programming.jsx"
+    },
+    "./programming-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/programming-duo.jsx"
+    },
+    "./qr-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qr-code.jsx"
+    },
+    "./qr-code-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qr-code-duo.jsx"
+    },
+    "./reciept-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reciept-1.jsx"
+    },
+    "./reciept-1-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reciept-1-duo.jsx"
+    },
+    "./recycle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycle.jsx"
+    },
+    "./recycle-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycle-duo.jsx"
+    },
+    "./refund-product-reciept": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refund-product-reciept.jsx"
+    },
+    "./refund-product-reciept-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refund-product-reciept-duo.jsx"
+    },
+    "./reward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reward.jsx"
+    },
+    "./reward-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reward-duo.jsx"
+    },
+    "./rocket-launch-chart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-launch-chart.jsx"
+    },
+    "./rocket-launch-chart-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-launch-chart-duo.jsx"
+    },
+    "./sad-song": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sad-song.jsx"
+    },
+    "./sad-song-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sad-song-duo.jsx"
+    },
+    "./safety": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safety.jsx"
+    },
+    "./safety-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safety-duo.jsx"
+    },
+    "./school": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school.jsx"
+    },
+    "./school-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-duo.jsx"
+    },
+    "./science-lab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/science-lab.jsx"
+    },
+    "./science-lab-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/science-lab-duo.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./search-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-duo.jsx"
+    },
+    "./sent-from-computer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sent-from-computer.jsx"
+    },
+    "./sent-from-computer-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sent-from-computer-duo.jsx"
+    },
+    "./server-network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/server-network.jsx"
+    },
+    "./server-network-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/server-network-duo.jsx"
+    },
+    "./shop-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-store.jsx"
+    },
+    "./shop-store-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-store-duo.jsx"
+    },
+    "./slate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slate.jsx"
+    },
+    "./slate-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slate-duo.jsx"
+    },
+    "./smart-tv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smart-tv.jsx"
+    },
+    "./smart-tv-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smart-tv-duo.jsx"
+    },
+    "./snowman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowman.jsx"
+    },
+    "./snowman-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowman-duo.jsx"
+    },
+    "./solar-power-battery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solar-power-battery.jsx"
+    },
+    "./solar-power-battery-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solar-power-battery-duo.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./star-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-duo.jsx"
+    },
+    "./sun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun.jsx"
+    },
+    "./sun-clound-weather": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-clound-weather.jsx"
+    },
+    "./sun-clound-weather-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-clound-weather-duo.jsx"
+    },
+    "./sun-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-duo.jsx"
+    },
+    "./taxi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taxi.jsx"
+    },
+    "./taxi-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taxi-duo.jsx"
+    },
+    "./telescope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope.jsx"
+    },
+    "./telescope-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-duo.jsx"
+    },
+    "./time": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time.jsx"
+    },
+    "./time-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-duo.jsx"
+    },
+    "./validation-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/validation-1.jsx"
+    },
+    "./validation-1-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/validation-1-duo.jsx"
+    },
+    "./view-mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-mail.jsx"
+    },
+    "./view-mail-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-mail-duo.jsx"
+    },
+    "./vr-goggle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vr-goggle.jsx"
+    },
+    "./vr-goggle-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vr-goggle-duo.jsx"
+    },
+    "./wand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand.jsx"
+    },
+    "./wand-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-duo.jsx"
+    },
+    "./winter-day-activities": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/winter-day-activities.jsx"
+    },
+    "./winter-day-activities-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/winter-day-activities-duo.jsx"
+    },
+    "./world-nature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/world-nature.jsx"
+    },
+    "./world-nature-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/world-nature-duo.jsx"
+    },
+    "./wrench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrench.jsx"
+    },
+    "./wrench-duo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrench-duo.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#streamline-stickies-color"
+}

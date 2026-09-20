@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.l7-e50blj {
+  fill: currentColor;
+  d: path("M5.55 22.025q-.8 0-1.537-.3t-1.313-.9l-.175-.175q-.225-.2-.287-.5t.062-.575l1.55-3.95L6.875 16.7l.5-1.4L4.4 14.225l.425-1.1L7.95 14.2l.475-1.4l-3.05-1.075l.425-1.1l3.2 1.15l.5-1.425l-3.15-1.1l1.225-3.175l2.725.5q.425.075.8-.062t.675-.438q.325-.35.45-.775t0-.85L11.8 3.2L14.6.4l6.9 7.025l-1.275 1.35l1.15 1.25l-1.4 1.4l-1.125-1.175l-.7.725l1.15 1.15l-1.45 1.4l-1.125-1.125l-2.8 2.85l1.125 1.125l-1.45 1.4l-1.075-1.125l-.7.725l1.1 1.1l-1.45 1.4L10.4 18.8l-.7.7l1.05 1.1l-1.4 1.4l-1.075-1.1q-.575.575-1.262.85t-1.463.275");
+}
+</style><path class="l7-e50blj"/>`,
+		"fallback": "material-symbols:shoe-cleats-sharp",
+	});
+}
+
+export default Component;

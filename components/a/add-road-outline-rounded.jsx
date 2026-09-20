@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.rkmrizyjn {
+  fill: currentColor;
+  d: path("M18 12V5q0-.425.288-.712T19 4t.713.288T20 5v7q0 .425-.288.713T19 13t-.712-.288T18 12M4 19V5q0-.425.288-.712T5 4t.713.288T6 5v14q0 .425-.288.713T5 20t-.712-.288T4 19m7-12V5q0-.425.288-.712T12 4t.713.288T13 5v2q0 .425-.288.713T12 8t-.712-.288T11 7m0 6v-2q0-.425.288-.712T12 10t.713.288T13 11v2q0 .425-.288.713T12 14t-.712-.288T11 13m0 6v-2q0-.425.288-.712T12 16t.713.288T13 17v2q0 .425-.288.713T12 20t-.712-.288T11 19m7 1h-2q-.425 0-.712-.288T15 19t.288-.712T16 18h2v-2q0-.425.288-.712T19 15t.713.288T20 16v2h2q.425 0 .713.288T23 19t-.288.713T22 20h-2v2q0 .425-.288.713T19 23t-.712-.288T18 22z");
+}
+</style><path class="rkmrizyjn"/>`,
+		"fallback": "material-symbols:add-road-outline-rounded",
+	});
+}
+
+export default Component;

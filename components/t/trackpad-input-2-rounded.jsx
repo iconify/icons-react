@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.olu509bof {
+  fill: currentColor;
+  d: path("M18 14v-2q0-.425.288-.712T19 11t.713.288T20 12v2h1q0-.425.288-.712T22 13t.713.288T23 14v4q0 1.65-1.175 2.825T19 22h-4.175q-.6 0-1.15-.225t-.975-.65L8.3 16.7q-.275-.275-.288-.687t.263-.713l.15-.15q.35-.35.85-.475t1 0l1.725.5V8q0-.425.288-.712T13 7t.713.288T14 8v6h1V7q0-.425.288-.712T16 6t.713.288T17 7v7zM4 19q-.825 0-1.412-.587T2 17V5q0-.825.588-1.412T4 3h15q.825 0 1.413.588T21 5v3q0 .425-.288.713T20 9t-.712-.288T19 8V5H4v12h1.8q.425 0 .713.288T6.8 18t-.287.713T5.8 19z");
+}
+</style><path class="olu509bof"/>`,
+		"fallback": "material-symbols:trackpad-input-2-rounded",
+	});
+}
+
+export default Component;

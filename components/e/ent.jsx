@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.syxert-ui {
+  fill: currentColor;
+  d: path("M6 22v-4.3q-1.425-1.3-2.212-3.037T3 11q0-3.75 2.625-6.375T12 2q3.125 0 5.538 1.838t3.137 4.787l1.3 5.125q.125.475-.175.863T21 15h-2v3q0 .825-.587 1.413T17 20h-2v2h-3.9l.625-6H15v-2h-3.075l.125-1.1q.05-.375.325-.638t.65-.262H17v-2h-3.95q-1.175 0-2.025.775T10.05 12.7L9.1 22z");
+}
+</style><path class="syxert-ui"/>`,
+		"fallback": "material-symbols:ent",
+	});
+}
+
+export default Component;

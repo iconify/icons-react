@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.e6frre6ka {
+  fill: currentColor;
+  d: path("M5 16H2q-.425 0-.712-.288T1 15V9q0-.425.288-.712T2 8t.713.288T3 9v5h2q.425 0 .713.288T6 15t-.288.713T5 16m2.288-.288Q7 15.426 7 15v-5H6q-.425 0-.712-.288T5 9t.288-.712T6 8h4q.425 0 .713.288T11 9t-.288.713T10 10H9v5q0 .425-.288.713T8 16t-.712-.288M16 16h-3q-.425 0-.712-.288T12 15V9q0-.425.288-.712T13 8h3q.425 0 .713.288T17 9t-.288.713T16 10h-2v1h2q.425 0 .713.288T17 12t-.288.713T16 13h-2v1h2q.425 0 .713.288T17 15t-.288.713T16 16m4-3h-1q-.425 0-.712-.288T18 12t.288-.712T19 11h1v-1q0-.425.288-.712T21 9t.713.288T22 10v1h1q.425 0 .713.288T24 12t-.288.713T23 13h-1v1q0 .425-.288.713T21 15t-.712-.288T20 14z");
+}
+</style><path class="e6frre6ka"/>`,
+		"fallback": "material-symbols:lte-plus-mobiledata-outline-rounded",
+	});
+}
+
+export default Component;

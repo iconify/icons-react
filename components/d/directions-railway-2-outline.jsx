@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cyb70fflg {
+  fill: currentColor;
+  d: path("m4 22l2-2h12l2 2zm3-3l1-1h-.5q-1.45 0-2.475-1.025T4 14.5V8q0-3.225 2.313-5.113T12 1t5.688 1.888T20 8v6.5q0 1.45-1.025 2.475T16.5 18H16l1 1zm.5-3h9q.625 0 1.063-.437T18 14.5V11H6v3.5q0 .625.438 1.063T7.5 16m5.563-1.437q.437-.438.437-1.063t-.437-1.062T12 12t-1.062.438T10.5 13.5t.438 1.063T12 15t1.063-.437M6 9h12V8q0-.575-.112-1.062T17.575 6H6.425q-.2.45-.312.938T6 8zm2.225-5h7.55q-.775-.5-1.737-.75T12 3t-2.037.25T8.225 4M12 4");
+}
+</style><path class="cyb70fflg"/>`,
+		"fallback": "material-symbols:directions-railway-2-outline",
+	});
+}
+
+export default Component;

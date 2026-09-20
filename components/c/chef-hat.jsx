@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.t2jwczbiz {
+  fill: currentColor;
+  d: path("M9 14h2V9H9zm-4 2v-3.5q-1.15-.575-1.825-1.662T2.5 8.475Q2.5 6.6 3.788 5.3T6.95 4q.3 0 .613.05t.612.125Q8.8 3.15 9.8 2.575T12 2t2.2.575t1.625 1.6q.3-.075.6-.125T17.05 4q1.875 0 3.163 1.3T21.5 8.475q0 1.275-.675 2.363T19 12.5V16zm8-2h2V9h-2zm-8 8v-4h14v4z");
+}
+</style><path class="t2jwczbiz"/>`,
+		"fallback": "material-symbols:chef-hat",
+	});
+}
+
+export default Component;

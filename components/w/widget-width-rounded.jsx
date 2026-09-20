@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.du15mybnu {
+  fill: currentColor;
+  d: path("M3 8q-.425 0-.712-.288T2 7V3q0-.425.288-.712T3 2h18q.425 0 .713.288T22 3v4q0 .425-.288.713T21 8zm0 14q-.425 0-.712-.288T2 21v-4q0-.425.288-.712T3 16h4q.425 0 .713.288T8 17v4q0 .425-.288.713T7 22zm7 0q-.425 0-.712-.288T9 21v-4q0-.425.288-.712T10 16h4q.425 0 .713.288T15 17v4q0 .425-.288.713T14 22zm7 0q-.425 0-.712-.288T16 21v-4q0-.425.288-.712T17 16h4q.425 0 .713.288T22 17v4q0 .425-.288.713T21 22zM3 15q-.425 0-.712-.288T2 14v-4q0-.425.288-.712T3 9h4q.425 0 .713.288T8 10v4q0 .425-.288.713T7 15zm7 0q-.425 0-.712-.288T9 14v-4q0-.425.288-.712T10 9h4q.425 0 .713.288T15 10v4q0 .425-.288.713T14 15zm7 0q-.425 0-.712-.288T16 14v-4q0-.425.288-.712T17 9h4q.425 0 .713.288T22 10v4q0 .425-.288.713T21 15z");
+}
+</style><path class="du15mybnu"/>`,
+		"fallback": "material-symbols:widget-width-rounded",
+	});
+}
+
+export default Component;

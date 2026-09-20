@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.d53dzxbko {
+  fill: currentColor;
+  d: path("M15 15v1q0 .425.288.713T16 17t.713-.288T17 16v-1h1q.425 0 .713-.288T19 14t-.288-.712T18 13h-1v-1q0-.425-.288-.712T16 11t-.712.288T15 12v1h-1q-.425 0-.712.288T13 14t.288.713T14 15zm-7 0h1q.425 0 .713-.288T10 14t-.288-.712T9 13H8q-.425 0-.712.288T7 14t.288.713T8 15m0-3h5q.425 0 .713-.288T14 11t-.288-.712T13 10H8q-.425 0-.712.288T7 11t.288.713T8 12m0-3h5q.425 0 .713-.288T14 8t-.288-.712T13 7H8q-.425 0-.712.288T7 8t.288.713T8 9m4 13q-2.075 0-3.9-.788t-3.175-2.137T2.788 15.9T2 12t.788-3.9t2.137-3.175T8.1 2.788T12 2t3.9.788t3.175 2.137T21.213 8.1T22 12t-.788 3.9t-2.137 3.175t-3.175 2.138T12 22");
+}
+</style><path class="d53dzxbko"/>`,
+		"fallback": "material-symbols:playlist-add-circle-rounded",
+	});
+}
+
+export default Component;

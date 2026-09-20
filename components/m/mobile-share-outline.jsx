@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.wcf34vn-f {
+  fill: currentColor;
+  d: path("M8 16h2v-3h2.15l-1.05 1.1l1.4 1.4L16 12l-3.5-3.5l-1.4 1.4l1.05 1.1H10q-.825 0-1.412.588T8 13zm-1 7q-.825 0-1.412-.587T5 21V3q0-.825.588-1.412T7 1h10q.825 0 1.413.588T19 3v3.1q.45.175.725.55T20 7.5v2q0 .475-.275.85T19 10.9V21q0 .825-.587 1.413T17 23zm0-2h10V3H7zm0 0V3z");
+}
+</style><path class="wcf34vn-f"/>`,
+		"fallback": "material-symbols:mobile-share-outline",
+	});
+}
+
+export default Component;

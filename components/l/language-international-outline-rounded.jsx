@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.x--7ugbmz {
+  fill: currentColor;
+  d: path("M1.288 15.713Q1 15.425 1 15V9q0-.425.288-.712T2 8t.713.288T3 9v6q0 .425-.288.713T2 16t-.712-.288m3 0Q4 15.426 4 15V8.9q0-.375.263-.638T4.9 8h.55q.275 0 .475.138t.325.362L8 12V9q0-.425.288-.712T9 8t.713.288T10 9v6.1q0 .375-.262.638T9.1 16h-.55q-.275 0-.475-.137T7.75 15.5L6 12v3q0 .425-.288.713T5 16t-.712-.288m9 0Q13 15.426 13 15v-5h-1q-.425 0-.712-.288T11 9t.288-.712T12 8h4q.425 0 .713.288T17 9t-.288.713T16 10h-1v5q0 .425-.288.713T14 16t-.712-.288M19 16q-.425 0-.712-.288T18 15V9q0-.425.288-.712T19 8t.713.288T20 9v5h2q.425 0 .713.288T23 15t-.288.713T22 16z");
+}
+</style><path class="x--7ugbmz"/>`,
+		"fallback": "material-symbols:language-international-outline-rounded",
+	});
+}
+
+export default Component;

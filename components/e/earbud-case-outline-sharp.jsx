@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.y-l1d8b8y {
+  fill: currentColor;
+  d: path("M7 21q-1.65 0-2.825-1.175T3 17V7q0-1.65 1.175-2.825T7 3h10q1.65 0 2.825 1.175T21 7v10q0 1.65-1.175 2.825T17 21zm-2-9v5q0 .825.588 1.413T7 19h10q.825 0 1.413-.587T19 17v-5h-2v4H7v-4zm4 0v2h6v-2zm-4-2h14V7q0-.825-.587-1.412T17 5H7q-.825 0-1.412.588T5 7z");
+}
+</style><path class="y-l1d8b8y"/>`,
+		"fallback": "material-symbols:earbud-case-outline-sharp",
+	});
+}
+
+export default Component;

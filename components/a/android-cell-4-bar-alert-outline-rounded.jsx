@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ih2o8n4ir {
+  fill: currentColor;
+  d: path("M1.5 18.5v-5q0-.625.438-1.062T3 12t1.063.438T4.5 13.5v5q0 .625-.437 1.063T3 20t-1.062-.437T1.5 18.5m6 0V11q0-.625.438-1.062T9 9.5t1.063.438T10.5 11v7.5q0 .625-.437 1.063T9 20t-1.062-.437T7.5 18.5m6 0v-10q0-.625.438-1.062T15 7t1.063.438T16.5 8.5v10q0 .625-.437 1.063T15 20t-1.062-.437T13.5 18.5m6-6.325V5.5q0-.625.438-1.062T21 4t1.063.438T22.5 5.5v6.35q-.25-.05-.488-.075t-.512-.025q-.525 0-1.037.113t-.963.312m1.288 7.538Q20.5 19.425 20.5 19t.288-.712T21.5 18t.713.288t.287.712t-.288.713T21.5 20t-.712-.288M20.5 16v-1.5q0-.425.288-.712t.712-.288t.713.288t.287.712V16q0 .425-.288.713T21.5 17t-.712-.288T20.5 16");
+}
+</style><path class="ih2o8n4ir"/>`,
+		"fallback": "material-symbols:android-cell-4-bar-alert-outline-rounded",
+	});
+}
+
+export default Component;

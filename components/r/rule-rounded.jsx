@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.glyh4-l6i {
+  fill: currentColor;
+  d: path("m17 17.4l-1.9 1.9q-.275.275-.7.275t-.7-.275t-.275-.7t.275-.7l1.9-1.9l-1.9-1.9q-.275-.275-.275-.7t.275-.7t.7-.275t.7.275l1.9 1.9l1.9-1.9q.275-.275.7-.275t.7.275t.275.7t-.275.7L18.4 16l1.9 1.9q.275.275.275.7t-.275.7t-.7.275t-.7-.275zm-.65-9.225l3.55-3.55q.3-.3.7-.287t.7.312q.275.3.275.7t-.275.7l-4.225 4.25q-.3.3-.7.3t-.7-.3l-2.15-2.15q-.275-.275-.275-.7t.275-.7t.7-.275t.7.275zM3 15h7q.425 0 .713.288T11 16t-.288.713T10 17H3q-.425 0-.712-.288T2 16t.288-.712T3 15m0-8h7q.425 0 .713.288T11 8t-.288.713T10 9H3q-.425 0-.712-.288T2 8t.288-.712T3 7");
+}
+</style><path class="glyh4-l6i"/>`,
+		"fallback": "material-symbols:rule-rounded",
+	});
+}
+
+export default Component;

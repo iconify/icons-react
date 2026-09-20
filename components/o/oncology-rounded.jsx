@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.tb8txsftu {
+  fill: currentColor;
+  d: path("M17 21q-1.65 0-2.825-1.175T13 17t1.175-2.825T17 13t2.825 1.175T21 17q0 .575-.15 1.088t-.425.962l1.85 1.85q.275.275.275.7t-.275.7t-.7.275t-.7-.275l-1.85-1.85q-.45.275-.95.413T17 21m1.413-2.588Q19 17.826 19 17t-.587-1.412T17 15t-1.412.588T15 17t.588 1.413T17 19t1.413-.587M4 22q-.425 0-.712-.288T3 21v-5q0-1.25.875-2.125T6 13h2q1.25 0 2.125-.875T11 10q0-.425-.288-.712T10 9q-.825 0-1.412-.587T8 7V3q0-.425.288-.712T9 2h4q.425 0 .713.288T14 3v1q2.925 0 4.963 2.038T21 11v1.525q-.825-.725-1.85-1.125T17 11q-2.5 0-4.25 1.75T11 17q0 .525.088 1.025t.262.975H10q-.425 0-.712.288T9 20v1q0 .425-.288.713T8 22z");
+}
+</style><path class="tb8txsftu"/>`,
+		"fallback": "material-symbols:oncology-rounded",
+	});
+}
+
+export default Component;

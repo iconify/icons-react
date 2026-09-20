@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fseypq7ct {
+  fill: currentColor;
+  d: path("M7.5 18V9h9v9v-9h-9zM4 20V10H.975L12 2l11 8h-3v10zm2-2h1.5V9h9v9H18V8.85L12 4.5L6 8.85zm3 0h6v-1.5H9zm0-3h6v-1.5H9zm0-3h6v-1.5H9zm3-4q.425 0 .713-.288T13 7t-.288-.712T12 6t-.712.288T11 7t.288.713T12 8");
+}
+</style><path class="fseypq7ct"/>`,
+		"fallback": "material-symbols:garage-door-outline",
+	});
+}
+
+export default Component;

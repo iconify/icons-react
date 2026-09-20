@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.c664tnbhr {
+  fill: currentColor;
+  d: path("M4.875 17.725Q4 16.85 4 15.6v-9h2v9q0 .425.288.713T7 16.6t.713-.288T8 15.6v-6q0-1.25.875-2.125T11 6.6t2.125.875T14 9.6v6q0 .425.288.713T15 16.6t.713-.288T16 15.6v-7q0-1.25.875-2.125T19 5.6h1.175L19 4.425L20.4 3L24 6.6l-3.6 3.575L19 8.75l1.175-1.15H19q-.425 0-.712.288T18 8.6v7q0 1.25-.875 2.125T15 18.6t-2.125-.875T12 15.6v-6q0-.425-.288-.712T11 8.6t-.712.288T10 9.6v6q0 1.25-.875 2.125T7 18.6t-2.125-.875M3 21.6q-.825 0-1.412-.587T1 19.6v-8h22v8q0 .825-.587 1.413T21 21.6zm0-2h18v-6H3zm18-6H3z");
+}
+</style><path class="c664tnbhr"/>`,
+		"fallback": "material-symbols:heat-pump-balance-outline",
+	});
+}
+
+export default Component;

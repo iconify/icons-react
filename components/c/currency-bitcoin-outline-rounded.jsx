@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jp7jx3btj {
+  fill: currentColor;
+  d: path("M9 20v-1H7q-.425 0-.712-.288T6 18t.288-.712T7 17h1V7H7q-.425 0-.712-.288T6 6t.288-.712T7 5h2V4q0-.425.288-.712T10 3t.713.288T11 4v1h2V4q0-.425.288-.712T14 3t.713.288T15 4v1.125q1.3.35 2.15 1.413T18 9q0 .725-.25 1.388t-.7 1.187q.875.525 1.413 1.425T19 15q0 1.65-1.175 2.825T15 19v1q0 .425-.287.713T14 21t-.712-.288T13 20v-1h-2v1q0 .425-.288.713T10 21t-.712-.288T9 20m1-9h4q.825 0 1.413-.587T16 9t-.587-1.412T14 7h-4zm0 6h5q.825 0 1.413-.587T17 15t-.587-1.412T15 13h-5z");
+}
+</style><path class="jp7jx3btj"/>`,
+		"fallback": "material-symbols:currency-bitcoin-outline-rounded",
+	});
+}
+
+export default Component;

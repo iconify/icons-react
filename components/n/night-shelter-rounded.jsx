@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ijchtwtem {
+  fill: currentColor;
+  d: path("M6 21q-.825 0-1.412-.587T4 19v-9q0-.475.213-.9t.587-.7l6-4.5q.525-.4 1.2-.4t1.2.4l6 4.5q.375.275.588.7T20 10v9q0 .825-.588 1.413T18 21zm2-4.5h8v1q0 .2.15.35t.35.15t.35-.15t.15-.35V14q0-.825-.587-1.412T15 12h-2.5q-.425 0-.712.288T11.5 13v2.5H8v-4q0-.2-.15-.35T7.5 11t-.35.15t-.15.35v6q0 .2.15.35t.35.15t.35-.15t.15-.35zm2.638-1.862q.362-.363.362-.888t-.363-.888t-.887-.362t-.888.363t-.362.887t.363.888t.887.362t.888-.363");
+}
+</style><path class="ijchtwtem"/>`,
+		"fallback": "material-symbols:night-shelter-rounded",
+	});
+}
+
+export default Component;

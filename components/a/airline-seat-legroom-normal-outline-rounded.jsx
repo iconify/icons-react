@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.c4adqndal {
+  fill: currentColor;
+  d: path("M16 14H8q-.825 0-1.412-.587T6 12V4q0-.425.288-.712T7 3h4q.425 0 .713.288T12 4v5h5q.825 0 1.413.588T19 11v7h1.5q.65 0 1.075.425T22 19.5t-.425 1.075T20.5 21H17q-.425 0-.712-.288T16 20zm-3 3H5q-.825 0-1.412-.587T3 15V4q0-.425.288-.712T4 3t.713.288T5 4v11h8q.425 0 .713.288T14 16t-.288.713T13 17");
+}
+</style><path class="c4adqndal"/>`,
+		"fallback": "material-symbols:airline-seat-legroom-normal-outline-rounded",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.xrlnaxtxf {
+  fill: currentColor;
+  d: path("M14 11q-.425 0-.712-.288T13 10t.288-.712T14 9h3q.425 0 .713.288T18 10t-.288.713T17 11zm0-4q-.425 0-.712-.288T13 6t.288-.712T14 5h6q.425 0 .713.288T21 6t-.288.713T20 7zM4.463 19.538Q3 18.075 3 16q0-1.2.525-2.238T5 12V6q0-1.25.875-2.125T8 3t2.125.875T11 6v6q.95.725 1.475 1.763T13 16q0 2.075-1.463 3.538T8 21t-3.537-1.463M5 16h6q0-.725-.312-1.35T9.8 13.6L9 13V6q0-.425-.288-.712T8 5t-.712.288T7 6v7l-.8.6q-.575.425-.888 1.05T5 16");
+}
+</style><path class="xrlnaxtxf"/>`,
+		"fallback": "material-symbols:thermostat-rounded",
+	});
+}
+
+export default Component;

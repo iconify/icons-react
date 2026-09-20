@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.opow-p86z {
+  fill: currentColor;
+  d: path("M14.5 10.375q0-1.2-.837-2.037T11.625 7.5H8q-.325 0-.537.213t-.213.537t.213.538T8 9h3.625q.575 0 .975.4t.4.975t-.4.975t-.975.4h-2l.15-.15q.225-.225.225-.525t-.225-.525t-.525-.225t-.525.225L7.45 11.8q-.3.3-.3.712t.3.713l1.275 1.25q.225.225.525.225t.525-.225t.225-.525t-.225-.525l-.15-.175h2q1.2 0 2.038-.838t.837-2.037M6.5 20q-1.025 0-1.875-.537T3.35 18H1q-.425 0-.712-.288T0 17v-5q0-.825.588-1.412T2 10h1l1.5-4.175q.225-.6.738-.962T6.4 4.5h7.45q.525 0 .988.263t.737.712L18 9.5l4.175.35q.825.075 1.325.625t.5 1.375V17q0 .425-.288.713T23 18h-2.35q-.425.925-1.275 1.463T17.5 20t-1.875-.537T14.35 18h-4.7q-.425.925-1.275 1.463T6.5 20");
+}
+</style><path class="opow-p86z"/>`,
+		"fallback": "material-symbols:car-fan-recirculate-2-rounded",
+	});
+}
+
+export default Component;

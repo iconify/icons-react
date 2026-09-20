@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.f7mh4sb0c {
+  fill: currentColor;
+  d: path("M12 10.6V7q0-.425-.288-.712T11 6t-.712.288T10 7v4q0 .2.075.375t.225.325l2 2q.3.3.7.3t.7-.3t.3-.7t-.3-.7zm-2.925 9.2q-3.05-.65-5.062-3.1T2 11q0-3.75 2.625-6.375T11 2t6.375 2.625T20 11q0 1.075-.25 2.088T19.05 15h-6.1q-1.65 0-2.8 1.175T9 19q0 .2.013.4t.062.4M13 21h6q.825 0 1.413-.588T21 19t-.587-1.412T19 17h-6q-.825 0-1.412.588T11 19t.588 1.413T13 21m-.712-1.287Q12 19.425 12 19t.288-.712T13 18t.713.288T14 19t-.288.713T13 20t-.712-.288m3 0Q15 19.426 15 19t.288-.712T16 18t.713.288T17 19t-.288.713T16 20t-.712-.288m3 0Q18 19.426 18 19t.288-.712T19 18t.713.288T20 19t-.288.713T19 20t-.712-.288");
+}
+</style><path class="f7mh4sb0c"/>`,
+		"fallback": "material-symbols:chronic-rounded",
+	});
+}
+
+export default Component;

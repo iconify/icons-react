@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.nybgl0oli {
+  fill: currentColor;
+  d: path("M10.588 10.413Q10 9.825 10 9t.588-1.412T12 7t1.413.588T14 9t-.587 1.413T12 11t-1.412-.587M7 22q0-.825.588-1.412T9 20h2q0-1.575-.763-2.925T8.15 14.85q-1.5-.975-2.325-2.525T5 9q0-2.925 2.038-4.962T12 2t4.963 2.038T19 9q0 1.8-.85 3.35t-2.35 2.525q-1.325.85-2.063 2.2T13 20h2q.825 0 1.413.588T17 22zm8.538-9.462Q17 11.075 17 9t-1.463-3.537T12 4T8.463 5.463T7 9t1.463 3.538T12 14t3.538-1.463");
+}
+</style><path class="nybgl0oli"/>`,
+		"fallback": "material-symbols:nest-cam-indoor-outline",
+	});
+}
+
+export default Component;

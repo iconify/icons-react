@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.xem8pvb0k {
+  fill: currentColor;
+  d: path("m19.075 21.9l-4.025-4l-1.45 1.5q-.275.275-.637.438t-.788.162h-6.6q-.4 0-.763-.15t-.637-.425l-1.55-1.55q-.575-.575-.587-1.425T2.6 15l4.7-4.85l-5.225-5.225q-.3-.3-.3-.712t.3-.713t.713-.3t.712.3l17 17q.3.3.3.7t-.3.7t-.712.3t-.713-.3M5.6 18h6.55l1.475-1.525L8.7 11.55L4 16.4zm16.375-8.025q0 .4-.137.763t-.438.662l-2.825 2.9q-.3.3-.712.3t-.713-.3t-.287-.7t.287-.7L20 9.95L15.05 5L12.2 7.925q-.275.3-.7.3t-.725-.3Q10.5 7.65 10.5 7.25t.275-.7L13.6 3.6q.3-.3.675-.45t.75-.15q.4 0 .763.138t.637.437L21.4 8.55q.3.275.438.65t.137.775M11.175 14");
+}
+</style><path class="xem8pvb0k"/>`,
+		"fallback": "material-symbols:ink-eraser-off-outline-rounded",
+	});
+}
+
+export default Component;

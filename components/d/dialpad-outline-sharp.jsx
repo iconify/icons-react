@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ha0tfrbys {
+  fill: currentColor;
+  d: path("M12 23q-.825 0-1.412-.587T10 21t.588-1.412T12 19t1.413.588T14 21t-.587 1.413T12 23M6 5q-.825 0-1.412-.587T4 3t.588-1.412T6 1t1.413.588T8 3t-.587 1.413T6 5m0 6q-.825 0-1.412-.587T4 9t.588-1.412T6 7t1.413.588T8 9t-.587 1.413T6 11m0 6q-.825 0-1.412-.587T4 15t.588-1.412T6 13t1.413.588T8 15t-.587 1.413T6 17M18 5q-.825 0-1.412-.587T16 3t.588-1.412T18 1t1.413.588T20 3t-.587 1.413T18 5m-6 12q-.825 0-1.412-.587T10 15t.588-1.412T12 13t1.413.588T14 15t-.587 1.413T12 17m6 0q-.825 0-1.412-.587T16 15t.588-1.412T18 13t1.413.588T20 15t-.587 1.413T18 17m0-6q-.825 0-1.412-.587T16 9t.588-1.412T18 7t1.413.588T20 9t-.587 1.413T18 11m-6 0q-.825 0-1.412-.587T10 9t.588-1.412T12 7t1.413.588T14 9t-.587 1.413T12 11m0-6q-.825 0-1.412-.587T10 3t.588-1.412T12 1t1.413.588T14 3t-.587 1.413T12 5");
+}
+</style><path class="ha0tfrbys"/>`,
+		"fallback": "material-symbols:dialpad-outline-sharp",
+	});
+}
+
+export default Component;

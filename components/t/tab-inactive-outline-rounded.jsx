@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.k50ow8bff {
+  fill: currentColor;
+  d: path("M8 22q-.825 0-1.412-.587T6 20v-2H4q-.825 0-1.412-.587T2 16v-1q0-.425.288-.712T3 14t.713.288T4 15v1h2V8q0-.825.588-1.412T8 6h8V4h-1q-.425 0-.712-.288T14 3t.288-.712T15 2h1q.825 0 1.413.588T18 4v2h2q.825 0 1.413.588T22 8v12q0 .825-.587 1.413T20 22zm0-2h12V8H8zm-5-8q-.425 0-.712-.288T2 11V9q0-.425.288-.712T3 8t.713.288T4 9v2q0 .425-.288.713T3 12m0-6q-.425 0-.712-.288T2 5V4q0-.825.588-1.412T4 2h1q.425 0 .713.288T6 3t-.288.713T5 4H4v1q0 .425-.288.713T3 6m6-2q-.425 0-.712-.288T8 3t.288-.712T9 2h2q.425 0 .713.288T12 3t-.288.713T11 4zM8 20V8z");
+}
+</style><path class="k50ow8bff"/>`,
+		"fallback": "material-symbols:tab-inactive-outline-rounded",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.le-r0t2jz {
+  fill: currentColor;
+  d: path("M7.95 21q-2.05 0-3.5-1.45T3 16.05q0-1 .375-1.9t1.075-1.6l2.625-2.625q.3-.3.713-.3t.712.3t.3.7t-.3.7l-2.65 2.65q-.425.425-.637.963T5 16.05q0 1.225.863 2.088T7.95 19q.575 0 1.125-.213t.975-.637l2.625-2.65q.3-.275.7-.275t.7.3t.3.7t-.3.7L11.45 19.55q-.7.7-1.6 1.075T7.95 21m1.25-6.2q-.3-.3-.3-.712t.3-.713L13.375 9.2q.3-.3.713-.3t.712.3t.3.713t-.3.712L10.625 14.8q-.3.3-.712.3t-.713-.3m6.3-.725q-.3-.3-.3-.7t.3-.7l2.65-2.625q.425-.425.625-.95t.2-1.1q0-1.25-.85-2.125T16.025 5q-.575 0-1.112.213t-.963.637L11.325 8.5q-.3.3-.7.3t-.7-.3t-.3-.712t.3-.713L12.55 4.45q.7-.7 1.6-1.075T16.05 3q2.05 0 3.488 1.45t1.437 3.525q0 .975-.363 1.875t-1.062 1.6l-2.625 2.625q-.3.3-.712.3t-.713-.3");
+}
+</style><path class="le-r0t2jz"/>`,
+		"fallback": "material-symbols:link-2-rounded",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.w6w65-b1w {
+  fill: currentColor;
+  d: path("M10 22q-.425 0-.712-.288Q9 21.425 9 21V3q0-.425.288-.713Q9.575 2 10 2t.713.287Q11 2.575 11 3v18q0 .425-.287.712Q10.425 22 10 22Zm-4-6q-.425 0-.713-.288Q5 15.425 5 15V9q0-.425.287-.713Q5.575 8 6 8t.713.287Q7 8.575 7 9v6q0 .425-.287.712Q6.425 16 6 16Zm8 2q-.425 0-.712-.288Q13 17.425 13 17V7q0-.425.288-.713Q13.575 6 14 6t.713.287Q15 6.575 15 7v10q0 .425-.287.712Q14.425 18 14 18Zm4-3q-.425 0-.712-.288Q17 14.425 17 14v-4q0-.425.288-.713Q17.575 9 18 9t.712.287Q19 9.575 19 10v4q0 .425-.288.712Q18.425 15 18 15Z");
+}
+</style><path class="w6w65-b1w"/>`,
+		"fallback": "material-symbols:sound-sensing",
+	});
+}
+
+export default Component;

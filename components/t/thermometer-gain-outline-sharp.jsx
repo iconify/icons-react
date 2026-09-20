@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.rnuzhmuim {
+  fill: currentColor;
+  d: path("M17 11V8h-3V6h3V3h2v3h3v2h-3v3zM8 21q-2.075 0-3.537-1.463T3 16q0-1.2.525-2.238T5 12V6q0-1.25.875-2.125T8 3t2.125.875T11 6v6q.95.725 1.475 1.763T13 16q0 2.075-1.463 3.538T8 21m0-2q1.25 0 2.125-.875T11 16q0-.725-.312-1.35T9.8 13.6L9 13V6q0-.425-.288-.712T8 5t-.712.288T7 6v7l-.8.6q-.575.425-.888 1.05T5 16q0 1.25.875 2.125T8 19m0-3");
+}
+</style><path class="rnuzhmuim"/>`,
+		"fallback": "material-symbols:thermometer-gain-outline-sharp",
+	});
+}
+
+export default Component;

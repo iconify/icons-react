@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.rkqd-k5oq {
+  fill: currentColor;
+  d: path("M7 21v-3.075q-2.6-.35-4.3-2.325T1 11h2q0 2.075 1.463 3.538T8 16h.25q.125 0 .25-.025q.325.5.7.938t.8.812q-.25.075-.488.113T9 17.925V21zm.5-7.05q-1.075-.2-1.787-1.012T5 11V5q0-1.25.875-2.125T8 2t2.125.875T11 5v4H7v2q0 .775.125 1.513T7.5 13.95m6.375-.825Q13 12.25 13 11V5q0-1.25.875-2.125T16 2t2.125.875T19 5v6q0 1.25-.875 2.125T16 14t-2.125-.875M15 21v-3.075q-2.6-.35-4.3-2.325T9 11h2q0 2.075 1.463 3.538T16 16t3.538-1.463T21 11h2q0 2.625-1.7 4.6T17 17.925V21zm1.713-9.287Q17 11.425 17 11V5q0-.425-.288-.712T16 4t-.712.288T15 5v6q0 .425.288.713T16 12t.713-.288M16 8");
+}
+</style><path class="rkqd-k5oq"/>`,
+		"fallback": "material-symbols:mic-double-outline-sharp",
+	});
+}
+
+export default Component;

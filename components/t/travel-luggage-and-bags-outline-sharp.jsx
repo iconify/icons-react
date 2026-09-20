@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cnmd4rbhq {
+  fill: currentColor;
+  d: path("M7 22v-1H5V6h4V2h6v4h4v15h-2v1h-2v-1H9v1zm4-16h2V4h-2zm3.588 5.663Q15.85 11.325 17 10.65V8H7v2.65q1.15.675 2.413 1.013T12 12t2.588-.337M11 15v-1.05q-1.05-.125-2.05-.375T7 12.9V19h10v-6.1q-.95.425-1.95.675T13 13.95V15zm1-2.1");
+}
+</style><path class="cnmd4rbhq"/>`,
+		"fallback": "material-symbols:travel-luggage-and-bags-outline-sharp",
+	});
+}
+
+export default Component;

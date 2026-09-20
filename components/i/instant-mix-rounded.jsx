@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.dp9sagbrr {
+  fill: currentColor;
+  d: path("M5.288 19.713Q5 19.425 5 19v-6H4q-.425 0-.712-.288T3 12t.288-.712T4 11h4q.425 0 .713.288T9 12t-.288.713T8 13H7v6q0 .425-.288.713T6 20t-.712-.288m0-11Q5 8.425 5 8V5q0-.425.288-.712T6 4t.713.288T7 5v3q0 .425-.288.713T6 9t-.712-.288M10 9q-.425 0-.712-.288T9 8t.288-.712T10 7h1V5q0-.425.288-.712T12 4t.713.288T13 5v2h1q.425 0 .713.288T15 8t-.288.713T14 9zm1.288 10.713Q11 19.425 11 19v-7q0-.425.288-.712T12 11t.713.288T13 12v7q0 .425-.288.713T12 20t-.712-.288m6 0Q17 19.426 17 19v-2h-1q-.425 0-.712-.288T15 16t.288-.712T16 15h4q.425 0 .713.288T21 16t-.288.713T20 17h-1v2q0 .425-.288.713T18 20t-.712-.288m0-7Q17 12.425 17 12V5q0-.425.288-.712T18 4t.713.288T19 5v7q0 .425-.288.713T18 13t-.712-.288");
+}
+</style><path class="dp9sagbrr"/>`,
+		"fallback": "material-symbols:instant-mix-rounded",
+	});
+}
+
+export default Component;

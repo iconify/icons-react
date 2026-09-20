@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.wjtcydr-c {
+  fill: currentColor;
+  d: path("M12 22q-3.425 0-5.712-2.35T4 13.8q0-2.35 1.763-5.1T11.1 2.775q.375-.35.888-.362t.887.337q.425.375.813.75t.762.725q-.875 1-1.662 2.363T12 9.3q0 2.375 1.613 4.038T17.5 15q.65 0 1.263-.137t1.212-.463q-.2 3.275-2.45 5.438T12 22m3-10.1q-1-1.1-1-2.6q0-.95.763-2.2t2.162-2.575q.25-.225.575-.225t.575.225q1.475 1.375 2.2 2.563T21 9.3q0 1.5-1 2.6T17.5 13T15 11.9M12.275 19q.3-.025.513-.238T13 18.25q0-.35-.225-.562T12.2 17.5q-1.025.075-2.175-.562t-1.45-2.313q-.05-.275-.262-.45T7.825 14q-.35 0-.575.263t-.15.612q.425 2.275 2 3.25t3.175.875");
+}
+</style><path class="wjtcydr-c"/>`,
+		"fallback": "material-symbols:water-drops-rounded",
+	});
+}
+
+export default Component;

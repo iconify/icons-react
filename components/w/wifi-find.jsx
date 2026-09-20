@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cfbn30b9u {
+  fill: currentColor;
+  d: path("M12 21L0 8.975q2.325-2.325 5.388-3.65T12 4t6.613 1.325T24 8.975l-1.875 1.9Q21.375 9.6 20.063 8.8T17 8q-2.5 0-4.25 1.75T11 14q0 1.725.813 3.063t2.037 2.062zm9.6-1l-2.575-2.55q-.45.275-.95.413T17 18q-1.7 0-2.85-1.15T13 14t1.15-2.85T17 10t2.85 1.15T21 14q0 .575-.137 1.075t-.413.95L23 18.6zm-3.175-4.575Q19 14.85 19 14t-.575-1.425T17 12t-1.425.575T15 14t.575 1.425T17 16t1.425-.575");
+}
+</style><path class="cfbn30b9u"/>`,
+		"fallback": "material-symbols:wifi-find",
+	});
+}
+
+export default Component;

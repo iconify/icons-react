@@ -1,0 +1,1679 @@
+{
+  "name": "@iconify-react/pajamas",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/pajamas/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./abuse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abuse.jsx"
+    },
+    "./accessibility": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessibility.jsx"
+    },
+    "./account": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/account.jsx"
+    },
+    "./admin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/admin.jsx"
+    },
+    "./agent-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agent-ai.jsx"
+    },
+    "./api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api.jsx"
+    },
+    "./appearance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appearance.jsx"
+    },
+    "./applications": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/applications.jsx"
+    },
+    "./approval": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/approval.jsx"
+    },
+    "./approval-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/approval-solid.jsx"
+    },
+    "./archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive.jsx"
+    },
+    "./arrow-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down.jsx"
+    },
+    "./arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left.jsx"
+    },
+    "./arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right.jsx"
+    },
+    "./arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up.jsx"
+    },
+    "./assignee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assignee.jsx"
+    },
+    "./at": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at.jsx"
+    },
+    "./attention": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attention.jsx"
+    },
+    "./attention-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attention-solid.jsx"
+    },
+    "./attention-solid-sm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attention-solid-sm.jsx"
+    },
+    "./autoplay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autoplay.jsx"
+    },
+    "./bitbucket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket.jsx"
+    },
+    "./bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bold.jsx"
+    },
+    "./book": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book.jsx"
+    },
+    "./bookmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark.jsx"
+    },
+    "./branch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/branch.jsx"
+    },
+    "./branch-deleted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/branch-deleted.jsx"
+    },
+    "./brand-zoom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brand-zoom.jsx"
+    },
+    "./bug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug.jsx"
+    },
+    "./building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building.jsx"
+    },
+    "./bulb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bulb.jsx"
+    },
+    "./bullhorn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bullhorn.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./calendar-overdue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-overdue.jsx"
+    },
+    "./cancel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cancel.jsx"
+    },
+    "./canceled-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/canceled-circle.jsx"
+    },
+    "./car": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car.jsx"
+    },
+    "./catalog-checkmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/catalog-checkmark.jsx"
+    },
+    "./chart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart.jsx"
+    },
+    "./check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check.jsx"
+    },
+    "./check-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle.jsx"
+    },
+    "./check-circle-dashed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-dashed.jsx"
+    },
+    "./check-circle-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-filled.jsx"
+    },
+    "./check-sm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-sm.jsx"
+    },
+    "./check-xs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-xs.jsx"
+    },
+    "./cherry-pick-commit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cherry-pick-commit.jsx"
+    },
+    "./chevron-double-lg-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-double-lg-left.jsx"
+    },
+    "./chevron-double-lg-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-double-lg-right.jsx"
+    },
+    "./chevron-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-down.jsx"
+    },
+    "./chevron-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-left.jsx"
+    },
+    "./chevron-lg-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-lg-down.jsx"
+    },
+    "./chevron-lg-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-lg-left.jsx"
+    },
+    "./chevron-lg-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-lg-right.jsx"
+    },
+    "./chevron-lg-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-lg-up.jsx"
+    },
+    "./chevron-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-right.jsx"
+    },
+    "./chevron-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up.jsx"
+    },
+    "./clear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear.jsx"
+    },
+    "./clear-all": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-all.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/close.jsx"
+    },
+    "./close-xs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/close-xs.jsx"
+    },
+    "./cloud-gear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-gear.jsx"
+    },
+    "./cloud-pod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-pod.jsx"
+    },
+    "./cloud-terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-terminal.jsx"
+    },
+    "./code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code.jsx"
+    },
+    "./collapse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/collapse.jsx"
+    },
+    "./collapse-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/collapse-left.jsx"
+    },
+    "./collapse-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/collapse-right.jsx"
+    },
+    "./collapse-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/collapse-solid.jsx"
+    },
+    "./comment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment.jsx"
+    },
+    "./comment-dots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment-dots.jsx"
+    },
+    "./comment-lines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment-lines.jsx"
+    },
+    "./comment-next": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment-next.jsx"
+    },
+    "./comments": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comments.jsx"
+    },
+    "./commit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commit.jsx"
+    },
+    "./comparison": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comparison.jsx"
+    },
+    "./compass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass.jsx"
+    },
+    "./connected": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connected.jsx"
+    },
+    "./container-image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/container-image.jsx"
+    },
+    "./copy-to-clipboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-to-clipboard.jsx"
+    },
+    "./credit-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card.jsx"
+    },
+    "./dash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dash.jsx"
+    },
+    "./dash-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dash-circle.jsx"
+    },
+    "./dashboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dashboard.jsx"
+    },
+    "./deployments": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deployments.jsx"
+    },
+    "./details-block": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/details-block.jsx"
+    },
+    "./diagram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diagram.jsx"
+    },
+    "./discord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discord.jsx"
+    },
+    "./disk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/disk.jsx"
+    },
+    "./doc-changes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-changes.jsx"
+    },
+    "./doc-chart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-chart.jsx"
+    },
+    "./doc-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-code.jsx"
+    },
+    "./doc-compressed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-compressed.jsx"
+    },
+    "./doc-expand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-expand.jsx"
+    },
+    "./doc-image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-image.jsx"
+    },
+    "./doc-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-new.jsx"
+    },
+    "./doc-symlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-symlink.jsx"
+    },
+    "./doc-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-text.jsx"
+    },
+    "./doc-versions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-versions.jsx"
+    },
+    "./document": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document.jsx"
+    },
+    "./documents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/documents.jsx"
+    },
+    "./dot-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dot-grid.jsx"
+    },
+    "./download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download.jsx"
+    },
+    "./drag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag.jsx"
+    },
+    "./drag-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-horizontal.jsx"
+    },
+    "./drag-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-vertical.jsx"
+    },
+    "./dumbbell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumbbell.jsx"
+    },
+    "./duo-agentic-chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duo-agentic-chat.jsx"
+    },
+    "./duo-chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duo-chat.jsx"
+    },
+    "./duo-chat-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duo-chat-new.jsx"
+    },
+    "./duo-chat-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duo-chat-off.jsx"
+    },
+    "./duplicate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duplicate.jsx"
+    },
+    "./earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth.jsx"
+    },
+    "./ellipsis-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipsis-h.jsx"
+    },
+    "./ellipsis-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipsis-v.jsx"
+    },
+    "./entity-blocked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entity-blocked.jsx"
+    },
+    "./entity-blocking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entity-blocking.jsx"
+    },
+    "./environment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/environment.jsx"
+    },
+    "./epic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/epic.jsx"
+    },
+    "./epic-closed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/epic-closed.jsx"
+    },
+    "./error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/error.jsx"
+    },
+    "./expand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand.jsx"
+    },
+    "./expand-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-down.jsx"
+    },
+    "./expand-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-left.jsx"
+    },
+    "./expand-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-right.jsx"
+    },
+    "./expand-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-up.jsx"
+    },
+    "./expire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expire.jsx"
+    },
+    "./export": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/export.jsx"
+    },
+    "./external-link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/external-link.jsx"
+    },
+    "./eye": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye.jsx"
+    },
+    "./eye-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-slash.jsx"
+    },
+    "./face-neutral": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-neutral.jsx"
+    },
+    "./face-unhappy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-unhappy.jsx"
+    },
+    "./false-positive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/false-positive.jsx"
+    },
+    "./feature-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/feature-flag.jsx"
+    },
+    "./feature-flag-disabled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/feature-flag-disabled.jsx"
+    },
+    "./file-addition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-addition.jsx"
+    },
+    "./file-addition-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-addition-solid.jsx"
+    },
+    "./file-deletion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-deletion.jsx"
+    },
+    "./file-deletion-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-deletion-solid.jsx"
+    },
+    "./file-modified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-modified.jsx"
+    },
+    "./file-modified-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-modified-solid.jsx"
+    },
+    "./file-tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-tree.jsx"
+    },
+    "./filter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter.jsx"
+    },
+    "./fire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire.jsx"
+    },
+    "./first-contribution": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/first-contribution.jsx"
+    },
+    "./flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag.jsx"
+    },
+    "./flow-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flow-ai.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./folder-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-new.jsx"
+    },
+    "./folder-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-o.jsx"
+    },
+    "./folder-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open.jsx"
+    },
+    "./food": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/food.jsx"
+    },
+    "./fork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork.jsx"
+    },
+    "./formula": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/formula.jsx"
+    },
+    "./git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git.jsx"
+    },
+    "./git-merge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-merge.jsx"
+    },
+    "./gitea": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitea.jsx"
+    },
+    "./github": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github.jsx"
+    },
+    "./go-back": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go-back.jsx"
+    },
+    "./google": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google.jsx"
+    },
+    "./grip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grip.jsx"
+    },
+    "./group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group.jsx"
+    },
+    "./hamburger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hamburger.jsx"
+    },
+    "./hash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash.jsx"
+    },
+    "./heading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./highlight": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/highlight.jsx"
+    },
+    "./history": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history.jsx"
+    },
+    "./home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home.jsx"
+    },
+    "./hook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hook.jsx"
+    },
+    "./hourglass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hourglass.jsx"
+    },
+    "./image-comment-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-comment-dark.jsx"
+    },
+    "./image-comment-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-comment-light.jsx"
+    },
+    "./import": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/import.jsx"
+    },
+    "./incognito": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/incognito.jsx"
+    },
+    "./information": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information.jsx"
+    },
+    "./information-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-o.jsx"
+    },
+    "./infrastructure-registry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infrastructure-registry.jsx"
+    },
+    "./insert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/insert.jsx"
+    },
+    "./issue-block": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-block.jsx"
+    },
+    "./issue-close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-close.jsx"
+    },
+    "./issue-closed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-closed.jsx"
+    },
+    "./issue-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-new.jsx"
+    },
+    "./issue-open-m": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-open-m.jsx"
+    },
+    "./issue-type-enhancement": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-enhancement.jsx"
+    },
+    "./issue-type-feature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-feature.jsx"
+    },
+    "./issue-type-feature-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-feature-flag.jsx"
+    },
+    "./issue-type-incident": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-incident.jsx"
+    },
+    "./issue-type-issue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-issue.jsx"
+    },
+    "./issue-type-keyresult": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-keyresult.jsx"
+    },
+    "./issue-type-maintenance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-maintenance.jsx"
+    },
+    "./issue-type-objective": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-objective.jsx"
+    },
+    "./issue-type-requirements": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-requirements.jsx"
+    },
+    "./issue-type-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-task.jsx"
+    },
+    "./issue-type-test-case": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-test-case.jsx"
+    },
+    "./issue-type-ticket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-ticket.jsx"
+    },
+    "./issue-update": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-update.jsx"
+    },
+    "./issues": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issues.jsx"
+    },
+    "./italic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/italic.jsx"
+    },
+    "./iteration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iteration.jsx"
+    },
+    "./key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key.jsx"
+    },
+    "./keyboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard.jsx"
+    },
+    "./kind": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kind.jsx"
+    },
+    "./kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes.jsx"
+    },
+    "./kubernetes-agent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes-agent.jsx"
+    },
+    "./label": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/label.jsx"
+    },
+    "./labels": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/labels.jsx"
+    },
+    "./leave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leave.jsx"
+    },
+    "./level-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/level-up.jsx"
+    },
+    "./license": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license.jsx"
+    },
+    "./license-sm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license-sm.jsx"
+    },
+    "./link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link.jsx"
+    },
+    "./linkedin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin.jsx"
+    },
+    "./list-bulleted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-bulleted.jsx"
+    },
+    "./list-indent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent.jsx"
+    },
+    "./list-numbered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-numbered.jsx"
+    },
+    "./list-outdent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-outdent.jsx"
+    },
+    "./list-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-task.jsx"
+    },
+    "./live-preview": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/live-preview.jsx"
+    },
+    "./live-stream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/live-stream.jsx"
+    },
+    "./location": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location.jsx"
+    },
+    "./location-dot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-dot.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./lock-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-open.jsx"
+    },
+    "./log": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log.jsx"
+    },
+    "./long-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/long-arrow.jsx"
+    },
+    "./machine-learning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/machine-learning.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
+    "./markdown-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-mark.jsx"
+    },
+    "./markdown-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-mark-solid.jsx"
+    },
+    "./marquee-selection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marquee-selection.jsx"
+    },
+    "./mastodon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastodon.jsx"
+    },
+    "./maximize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maximize.jsx"
+    },
+    "./media": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/media.jsx"
+    },
+    "./media-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/media-broken.jsx"
+    },
+    "./merge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge.jsx"
+    },
+    "./merge-request": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge-request.jsx"
+    },
+    "./merge-request-close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge-request-close.jsx"
+    },
+    "./merge-request-close-m": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge-request-close-m.jsx"
+    },
+    "./merge-request-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge-request-open.jsx"
+    },
+    "./messages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/messages.jsx"
+    },
+    "./milestone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/milestone.jsx"
+    },
+    "./minimize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minimize.jsx"
+    },
+    "./mobile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile.jsx"
+    },
+    "./mobile-issue-close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-issue-close.jsx"
+    },
+    "./monitor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor.jsx"
+    },
+    "./monitor-lines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-lines.jsx"
+    },
+    "./monitor-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-o.jsx"
+    },
+    "./multiple-choice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multiple-choice.jsx"
+    },
+    "./namespace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/namespace.jsx"
+    },
+    "./nature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nature.jsx"
+    },
+    "./notifications": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notifications.jsx"
+    },
+    "./notifications-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notifications-off.jsx"
+    },
+    "./object": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/object.jsx"
+    },
+    "./organization": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/organization.jsx"
+    },
+    "./overview": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overview.jsx"
+    },
+    "./package": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package.jsx"
+    },
+    "./paper-airplane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-airplane.jsx"
+    },
+    "./paperclip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paperclip.jsx"
+    },
+    "./partner-verified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partner-verified.jsx"
+    },
+    "./pause": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause.jsx"
+    },
+    "./pencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil.jsx"
+    },
+    "./pencil-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil-square.jsx"
+    },
+    "./pipeline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pipeline.jsx"
+    },
+    "./planning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/planning.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus.jsx"
+    },
+    "./plus-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-square.jsx"
+    },
+    "./plus-square-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-square-o.jsx"
+    },
+    "./pod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod.jsx"
+    },
+    "./podcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/podcast.jsx"
+    },
+    "./power": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power.jsx"
+    },
+    "./preferences": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/preferences.jsx"
+    },
+    "./profile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/profile.jsx"
+    },
+    "./progress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/progress.jsx"
+    },
+    "./project": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/project.jsx"
+    },
+    "./push-rules": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/push-rules.jsx"
+    },
+    "./question": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question.jsx"
+    },
+    "./question-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-o.jsx"
+    },
+    "./quick-actions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quick-actions.jsx"
+    },
+    "./quota": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quota.jsx"
+    },
+    "./quote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote.jsx"
+    },
+    "./recipe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recipe.jsx"
+    },
+    "./redo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redo.jsx"
+    },
+    "./regular-expression": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regular-expression.jsx"
+    },
+    "./remove": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remove.jsx"
+    },
+    "./remove-all": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remove-all.jsx"
+    },
+    "./repeat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repeat.jsx"
+    },
+    "./reply": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reply.jsx"
+    },
+    "./requirements": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/requirements.jsx"
+    },
+    "./resize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/resize.jsx"
+    },
+    "./retry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retry.jsx"
+    },
+    "./review-checkmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/review-checkmark.jsx"
+    },
+    "./review-list": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/review-list.jsx"
+    },
+    "./review-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/review-warning.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
+    },
+    "./rocket-launch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-launch.jsx"
+    },
+    "./rss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss.jsx"
+    },
+    "./scale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scale.jsx"
+    },
+    "./scroll-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scroll-down.jsx"
+    },
+    "./scroll-handle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scroll-handle.jsx"
+    },
+    "./scroll-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scroll-up.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./search-dot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-dot.jsx"
+    },
+    "./search-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-minus.jsx"
+    },
+    "./search-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-plus.jsx"
+    },
+    "./search-results": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-results.jsx"
+    },
+    "./search-sm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sm.jsx"
+    },
+    "./session-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/session-ai.jsx"
+    },
+    "./settings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings.jsx"
+    },
+    "./severity-critical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/severity-critical.jsx"
+    },
+    "./severity-high": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/severity-high.jsx"
+    },
+    "./severity-info": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/severity-info.jsx"
+    },
+    "./severity-low": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/severity-low.jsx"
+    },
+    "./severity-medium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/severity-medium.jsx"
+    },
+    "./severity-unknown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/severity-unknown.jsx"
+    },
+    "./share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share.jsx"
+    },
+    "./shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield.jsx"
+    },
+    "./sidebar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar.jsx"
+    },
+    "./sidebar-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-right.jsx"
+    },
+    "./skype": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skype.jsx"
+    },
+    "./slight-frown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slight-frown.jsx"
+    },
+    "./slight-smile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slight-smile.jsx"
+    },
+    "./smart-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smart-card.jsx"
+    },
+    "./smile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smile.jsx"
+    },
+    "./smiley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley.jsx"
+    },
+    "./snippet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snippet.jsx"
+    },
+    "./soft-unwrap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soft-unwrap.jsx"
+    },
+    "./soft-wrap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soft-wrap.jsx"
+    },
+    "./sort-highest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-highest.jsx"
+    },
+    "./sort-lowest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-lowest.jsx"
+    },
+    "./spam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spam.jsx"
+    },
+    "./stage-all": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stage-all.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./star-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-o.jsx"
+    },
+    "./status": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status.jsx"
+    },
+    "./status-active": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-active.jsx"
+    },
+    "./status-alert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-alert.jsx"
+    },
+    "./status-cancelled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-cancelled.jsx"
+    },
+    "./status-closed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-closed.jsx"
+    },
+    "./status-health": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-health.jsx"
+    },
+    "./status-neutral": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-neutral.jsx"
+    },
+    "./status-paused": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-paused.jsx"
+    },
+    "./status-preparing-borderless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-preparing-borderless.jsx"
+    },
+    "./status-stopped": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-stopped.jsx"
+    },
+    "./status-waiting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-waiting.jsx"
+    },
+    "./stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop.jsx"
+    },
+    "./strikethrough": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strikethrough.jsx"
+    },
+    "./subgroup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subgroup.jsx"
+    },
+    "./subscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subscript.jsx"
+    },
+    "./substitute": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/substitute.jsx"
+    },
+    "./suggestion-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/suggestion-ai.jsx"
+    },
+    "./superscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/superscript.jsx"
+    },
+    "./symlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symlink.jsx"
+    },
+    "./table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table.jsx"
+    },
+    "./tablet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tablet.jsx"
+    },
+    "./tachometer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tachometer.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./tanuki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tanuki.jsx"
+    },
+    "./tanuki-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tanuki-ai.jsx"
+    },
+    "./tanuki-ai-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tanuki-ai-off.jsx"
+    },
+    "./tanuki-verified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tanuki-verified.jsx"
+    },
+    "./task-done": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/task-done.jsx"
+    },
+    "./template": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/template.jsx"
+    },
+    "./terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal.jsx"
+    },
+    "./terraform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform.jsx"
+    },
+    "./text-description": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-description.jsx"
+    },
+    "./thumb-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumb-down.jsx"
+    },
+    "./thumb-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumb-up.jsx"
+    },
+    "./thumbtack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbtack.jsx"
+    },
+    "./thumbtack-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbtack-solid.jsx"
+    },
+    "./time-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-out.jsx"
+    },
+    "./timer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/timer.jsx"
+    },
+    "./title": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/title.jsx"
+    },
+    "./todo-add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/todo-add.jsx"
+    },
+    "./todo-done": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/todo-done.jsx"
+    },
+    "./token": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/token.jsx"
+    },
+    "./trend-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-down.jsx"
+    },
+    "./trend-static": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-static.jsx"
+    },
+    "./trend-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-up.jsx"
+    },
+    "./trigger-source": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trigger-source.jsx"
+    },
+    "./unapproval": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unapproval.jsx"
+    },
+    "./unassignee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unassignee.jsx"
+    },
+    "./underline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/underline.jsx"
+    },
+    "./unlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlink.jsx"
+    },
+    "./unstage-all": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unstage-all.jsx"
+    },
+    "./upgrade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upgrade.jsx"
+    },
+    "./upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./users": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/users.jsx"
+    },
+    "./volume-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-up.jsx"
+    },
+    "./warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warning.jsx"
+    },
+    "./warning-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warning-solid.jsx"
+    },
+    "./weight": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weight.jsx"
+    },
+    "./work": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work.jsx"
+    },
+    "./work-item-child": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-child.jsx"
+    },
+    "./work-item-enhancement": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-enhancement.jsx"
+    },
+    "./work-item-epic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-epic.jsx"
+    },
+    "./work-item-feature": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-feature.jsx"
+    },
+    "./work-item-feature-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-feature-flag.jsx"
+    },
+    "./work-item-incident": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-incident.jsx"
+    },
+    "./work-item-issue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-issue.jsx"
+    },
+    "./work-item-keyresult": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-keyresult.jsx"
+    },
+    "./work-item-maintenance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-maintenance.jsx"
+    },
+    "./work-item-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-new.jsx"
+    },
+    "./work-item-objective": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-objective.jsx"
+    },
+    "./work-item-parent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-parent.jsx"
+    },
+    "./work-item-requirement": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-requirement.jsx"
+    },
+    "./work-item-task": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-task.jsx"
+    },
+    "./work-item-test-case": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-test-case.jsx"
+    },
+    "./work-item-ticket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-item-ticket.jsx"
+    },
+    "./work-items": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/work-items.jsx"
+    },
+    "./x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x.jsx"
+    },
+    "./issue-type-key-result": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/issue-type-key-result.jsx"
+    },
+    "./twitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#pajamas"
+}

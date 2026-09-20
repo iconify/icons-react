@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/h/hwmf6fb6m.css';
+import '../../css/e/eoz2-lbpy.css';
+import '../../css/s/s5okhf7bz.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="hwmf6fb6m"/><path class="eoz2-lbpy"/><path class="s5okhf7bz"/></g>`,
+		"fallback": "pixelarticons:user-plus",
+	});
+}
+
+export default Component;

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/octicon",
   "type": "module",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "homepage": "https://icon-sets.iconify.design/octicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -821,6 +821,14 @@
     "./crosshairs-24": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crosshairs-24.jsx"
+    },
+    "./cursor-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-16.jsx"
+    },
+    "./cursor-24": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-24.jsx"
     },
     "./dash": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2489,6 +2497,14 @@
     "./person-add-24": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-add-24.jsx"
+    },
+    "./person-cursor-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-cursor-16.jsx"
+    },
+    "./person-cursor-24": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-cursor-24.jsx"
     },
     "./person-fill-16": {
       "types": "./types/hqrkovbr.d.ts",

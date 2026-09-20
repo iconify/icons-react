@@ -1,0 +1,4719 @@
+{
+  "name": "@iconify-react/material-icon-theme",
+  "type": "module",
+  "version": "1.0.20",
+  "homepage": "https://icon-sets.iconify.design/material-icon-theme/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/3d.jsx"
+    },
+    "./abap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abap.jsx"
+    },
+    "./abc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/abc.jsx"
+    },
+    "./actionscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/actionscript.jsx"
+    },
+    "./ada": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ada.jsx"
+    },
+    "./adobe-illustrator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-illustrator.jsx"
+    },
+    "./adobe-illustrator-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-illustrator-light.jsx"
+    },
+    "./adobe-photoshop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-photoshop.jsx"
+    },
+    "./adobe-photoshop-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-photoshop-light.jsx"
+    },
+    "./adobe-swc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-swc.jsx"
+    },
+    "./adonis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adonis.jsx"
+    },
+    "./advpl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/advpl.jsx"
+    },
+    "./agent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agent.jsx"
+    },
+    "./amplify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amplify.jsx"
+    },
+    "./android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android.jsx"
+    },
+    "./angular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular.jsx"
+    },
+    "./antlr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/antlr.jsx"
+    },
+    "./apiblueprint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apiblueprint.jsx"
+    },
+    "./apollo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apollo.jsx"
+    },
+    "./applescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/applescript.jsx"
+    },
+    "./apps-script": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apps-script.jsx"
+    },
+    "./appveyor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appveyor.jsx"
+    },
+    "./appwrite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appwrite.jsx"
+    },
+    "./architecture": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/architecture.jsx"
+    },
+    "./arduino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arduino.jsx"
+    },
+    "./asciidoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asciidoc.jsx"
+    },
+    "./assembly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assembly.jsx"
+    },
+    "./astro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astro.jsx"
+    },
+    "./astro-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astro-config.jsx"
+    },
+    "./astyle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astyle.jsx"
+    },
+    "./audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio.jsx"
+    },
+    "./aurelia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aurelia.jsx"
+    },
+    "./authors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/authors.jsx"
+    },
+    "./auto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/auto.jsx"
+    },
+    "./auto-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/auto-light.jsx"
+    },
+    "./autohotkey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autohotkey.jsx"
+    },
+    "./autoit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autoit.jsx"
+    },
+    "./azure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure.jsx"
+    },
+    "./azure-pipelines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-pipelines.jsx"
+    },
+    "./babel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babel.jsx"
+    },
+    "./ballerina": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/ballerina.jsx"
+    },
+    "./bashly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bashly.jsx"
+    },
+    "./bashly-hook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bashly-hook.jsx"
+    },
+    "./bazel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel.jsx"
+    },
+    "./bbx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bbx.jsx"
+    },
+    "./beancount": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beancount.jsx"
+    },
+    "./bench-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-js.jsx"
+    },
+    "./bench-jsx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-jsx.jsx"
+    },
+    "./bench-ts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-ts.jsx"
+    },
+    "./bibliography": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bibliography.jsx"
+    },
+    "./bibtex-style": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bibtex-style.jsx"
+    },
+    "./bicep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicep.jsx"
+    },
+    "./biome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biome.jsx"
+    },
+    "./bitbucket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket.jsx"
+    },
+    "./bithound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bithound.jsx"
+    },
+    "./blender": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blender.jsx"
+    },
+    "./blink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blink.jsx"
+    },
+    "./blink-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blink-light.jsx"
+    },
+    "./blitz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blitz.jsx"
+    },
+    "./bower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bower.jsx"
+    },
+    "./brainfuck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brainfuck.jsx"
+    },
+    "./browserlist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserlist.jsx"
+    },
+    "./browserlist-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserlist-light.jsx"
+    },
+    "./bruno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bruno.jsx"
+    },
+    "./buck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buck.jsx"
+    },
+    "./bucklescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bucklescript.jsx"
+    },
+    "./buildkite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buildkite.jsx"
+    },
+    "./bun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bun.jsx"
+    },
+    "./bun-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bun-light.jsx"
+    },
+    "./c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c.jsx"
+    },
+    "./c3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c3.jsx"
+    },
+    "./cabal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cabal.jsx"
+    },
+    "./caddy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caddy.jsx"
+    },
+    "./cadence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cadence.jsx"
+    },
+    "./cairo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cairo.jsx"
+    },
+    "./cake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cake.jsx"
+    },
+    "./capacitor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/capacitor.jsx"
+    },
+    "./capnp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/capnp.jsx"
+    },
+    "./cbx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cbx.jsx"
+    },
+    "./cds": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cds.jsx"
+    },
+    "./certificate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certificate.jsx"
+    },
+    "./changelog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changelog.jsx"
+    },
+    "./chess": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chess.jsx"
+    },
+    "./chess-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chess-light.jsx"
+    },
+    "./chromatic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chromatic.jsx"
+    },
+    "./chrome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chrome.jsx"
+    },
+    "./circleci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circleci.jsx"
+    },
+    "./circleci-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circleci-light.jsx"
+    },
+    "./citation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/citation.jsx"
+    },
+    "./clangd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clangd.jsx"
+    },
+    "./claude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/claude.jsx"
+    },
+    "./cline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cline.jsx"
+    },
+    "./clojure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clojure.jsx"
+    },
+    "./cloudfoundry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudfoundry.jsx"
+    },
+    "./cmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake.jsx"
+    },
+    "./coala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coala.jsx"
+    },
+    "./cobol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cobol.jsx"
+    },
+    "./coconut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coconut.jsx"
+    },
+    "./code-climate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-climate.jsx"
+    },
+    "./code-climate-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-climate-light.jsx"
+    },
+    "./codecov": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codecov.jsx"
+    },
+    "./codeowners": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codeowners.jsx"
+    },
+    "./coderabbit-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coderabbit-ai.jsx"
+    },
+    "./coffee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffee.jsx"
+    },
+    "./coldfusion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coldfusion.jsx"
+    },
+    "./coloredpetrinets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coloredpetrinets.jsx"
+    },
+    "./command": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command.jsx"
+    },
+    "./commitizen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commitizen.jsx"
+    },
+    "./commitlint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commitlint.jsx"
+    },
+    "./concourse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/concourse.jsx"
+    },
+    "./conduct": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conduct.jsx"
+    },
+    "./console": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/console.jsx"
+    },
+    "./contentlayer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contentlayer.jsx"
+    },
+    "./context": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/context.jsx"
+    },
+    "./contributing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contributing.jsx"
+    },
+    "./controller": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/controller.jsx"
+    },
+    "./copilot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copilot.jsx"
+    },
+    "./copilot-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copilot-light.jsx"
+    },
+    "./cpp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpp.jsx"
+    },
+    "./craco": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/craco.jsx"
+    },
+    "./credits": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credits.jsx"
+    },
+    "./crystal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crystal.jsx"
+    },
+    "./crystal-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crystal-light.jsx"
+    },
+    "./csharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csharp.jsx"
+    },
+    "./css": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css.jsx"
+    },
+    "./css-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css-map.jsx"
+    },
+    "./cucumber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cucumber.jsx"
+    },
+    "./cuda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cuda.jsx"
+    },
+    "./cue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cue.jsx"
+    },
+    "./cursor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor.jsx"
+    },
+    "./cursor-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-light.jsx"
+    },
+    "./cypress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cypress.jsx"
+    },
+    "./d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d.jsx"
+    },
+    "./dart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart.jsx"
+    },
+    "./dart-generated": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart-generated.jsx"
+    },
+    "./database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database.jsx"
+    },
+    "./deepsource": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deepsource.jsx"
+    },
+    "./denizenscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/denizenscript.jsx"
+    },
+    "./deno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno.jsx"
+    },
+    "./deno-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno-light.jsx"
+    },
+    "./dependabot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dependabot.jsx"
+    },
+    "./dependencies-update": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dependencies-update.jsx"
+    },
+    "./dhall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dhall.jsx"
+    },
+    "./diff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diff.jsx"
+    },
+    "./dinophp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dinophp.jsx"
+    },
+    "./disc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/disc.jsx"
+    },
+    "./django": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/django.jsx"
+    },
+    "./dll": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dll.jsx"
+    },
+    "./docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker.jsx"
+    },
+    "./doctex-installer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doctex-installer.jsx"
+    },
+    "./document": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document.jsx"
+    },
+    "./dotjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dotjs.jsx"
+    },
+    "./drawio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drawio.jsx"
+    },
+    "./drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drizzle.jsx"
+    },
+    "./drone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone.jsx"
+    },
+    "./drone-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drone-light.jsx"
+    },
+    "./duc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duc.jsx"
+    },
+    "./dune": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dune.jsx"
+    },
+    "./edge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edge.jsx"
+    },
+    "./editorconfig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/editorconfig.jsx"
+    },
+    "./ejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ejs.jsx"
+    },
+    "./elixir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir.jsx"
+    },
+    "./elm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elm.jsx"
+    },
+    "./email": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/email.jsx"
+    },
+    "./ember": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ember.jsx"
+    },
+    "./epub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/epub.jsx"
+    },
+    "./erlang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/erlang.jsx"
+    },
+    "./esbuild": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/esbuild.jsx"
+    },
+    "./eslint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint.jsx"
+    },
+    "./excalidraw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/excalidraw.jsx"
+    },
+    "./exe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exe.jsx"
+    },
+    "./expo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expo.jsx"
+    },
+    "./expo-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expo-light.jsx"
+    },
+    "./fastlane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fastlane.jsx"
+    },
+    "./favicon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/favicon.jsx"
+    },
+    "./figma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma.jsx"
+    },
+    "./firebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase.jsx"
+    },
+    "./flash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flash.jsx"
+    },
+    "./flow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flow.jsx"
+    },
+    "./folder-admin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-admin.jsx"
+    },
+    "./folder-admin-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-admin-open.jsx"
+    },
+    "./folder-android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-android.jsx"
+    },
+    "./folder-android-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-android-open.jsx"
+    },
+    "./folder-angular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-angular.jsx"
+    },
+    "./folder-angular-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-angular-open.jsx"
+    },
+    "./folder-animation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-animation.jsx"
+    },
+    "./folder-animation-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-animation-open.jsx"
+    },
+    "./folder-ansible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ansible.jsx"
+    },
+    "./folder-ansible-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ansible-open.jsx"
+    },
+    "./folder-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-api.jsx"
+    },
+    "./folder-api-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-api-open.jsx"
+    },
+    "./folder-apollo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-apollo.jsx"
+    },
+    "./folder-apollo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-apollo-open.jsx"
+    },
+    "./folder-app": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-app.jsx"
+    },
+    "./folder-app-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-app-open.jsx"
+    },
+    "./folder-appwrite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-appwrite.jsx"
+    },
+    "./folder-appwrite-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-appwrite-open.jsx"
+    },
+    "./folder-archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-archive.jsx"
+    },
+    "./folder-archive-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-archive-open.jsx"
+    },
+    "./folder-assembly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-assembly.jsx"
+    },
+    "./folder-assembly-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-assembly-open.jsx"
+    },
+    "./folder-astro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-astro.jsx"
+    },
+    "./folder-astro-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-astro-open.jsx"
+    },
+    "./folder-atom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-atom.jsx"
+    },
+    "./folder-atom-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-atom-open.jsx"
+    },
+    "./folder-attachment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-attachment.jsx"
+    },
+    "./folder-attachment-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-attachment-open.jsx"
+    },
+    "./folder-audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-audio.jsx"
+    },
+    "./folder-audio-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-audio-open.jsx"
+    },
+    "./folder-aurelia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-aurelia.jsx"
+    },
+    "./folder-aurelia-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-aurelia-open.jsx"
+    },
+    "./folder-aws": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-aws.jsx"
+    },
+    "./folder-aws-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-aws-open.jsx"
+    },
+    "./folder-azure-pipelines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-azure-pipelines.jsx"
+    },
+    "./folder-azure-pipelines-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-azure-pipelines-open.jsx"
+    },
+    "./folder-backup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-backup.jsx"
+    },
+    "./folder-backup-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-backup-open.jsx"
+    },
+    "./folder-base": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-base.jsx"
+    },
+    "./folder-base-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-base-open.jsx"
+    },
+    "./folder-batch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-batch.jsx"
+    },
+    "./folder-batch-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-batch-open.jsx"
+    },
+    "./folder-benchmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-benchmark.jsx"
+    },
+    "./folder-benchmark-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-benchmark-open.jsx"
+    },
+    "./folder-bibliography": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bibliography.jsx"
+    },
+    "./folder-bibliography-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bibliography-open.jsx"
+    },
+    "./folder-bicep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bicep.jsx"
+    },
+    "./folder-bicep-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bicep-open.jsx"
+    },
+    "./folder-blender": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-blender.jsx"
+    },
+    "./folder-blender-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-blender-open.jsx"
+    },
+    "./folder-bloc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bloc.jsx"
+    },
+    "./folder-bloc-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bloc-open.jsx"
+    },
+    "./folder-bower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bower.jsx"
+    },
+    "./folder-bower-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bower-open.jsx"
+    },
+    "./folder-buildkite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-buildkite.jsx"
+    },
+    "./folder-buildkite-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-buildkite-open.jsx"
+    },
+    "./folder-cart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cart.jsx"
+    },
+    "./folder-cart-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cart-open.jsx"
+    },
+    "./folder-certificate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-certificate.jsx"
+    },
+    "./folder-certificate-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-certificate-open.jsx"
+    },
+    "./folder-changesets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-changesets.jsx"
+    },
+    "./folder-changesets-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-changesets-open.jsx"
+    },
+    "./folder-ci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ci.jsx"
+    },
+    "./folder-ci-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ci-open.jsx"
+    },
+    "./folder-circleci": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-circleci.jsx"
+    },
+    "./folder-circleci-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-circleci-open.jsx"
+    },
+    "./folder-class": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-class.jsx"
+    },
+    "./folder-class-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-class-open.jsx"
+    },
+    "./folder-claude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-claude.jsx"
+    },
+    "./folder-claude-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-claude-open.jsx"
+    },
+    "./folder-client": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-client.jsx"
+    },
+    "./folder-client-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-client-open.jsx"
+    },
+    "./folder-cline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cline.jsx"
+    },
+    "./folder-cline-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cline-open.jsx"
+    },
+    "./folder-cloud-functions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cloud-functions.jsx"
+    },
+    "./folder-cloud-functions-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cloud-functions-open.jsx"
+    },
+    "./folder-cloudflare": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cloudflare.jsx"
+    },
+    "./folder-cloudflare-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cloudflare-open.jsx"
+    },
+    "./folder-cluster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cluster.jsx"
+    },
+    "./folder-cluster-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cluster-open.jsx"
+    },
+    "./folder-cobol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cobol.jsx"
+    },
+    "./folder-cobol-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cobol-open.jsx"
+    },
+    "./folder-command": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-command.jsx"
+    },
+    "./folder-command-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-command-open.jsx"
+    },
+    "./folder-components": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-components.jsx"
+    },
+    "./folder-components-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-components-open.jsx"
+    },
+    "./folder-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-config.jsx"
+    },
+    "./folder-config-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-config-open.jsx"
+    },
+    "./folder-connection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-connection.jsx"
+    },
+    "./folder-connection-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-connection-open.jsx"
+    },
+    "./folder-console": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-console.jsx"
+    },
+    "./folder-console-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-console-open.jsx"
+    },
+    "./folder-constant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-constant.jsx"
+    },
+    "./folder-constant-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-constant-open.jsx"
+    },
+    "./folder-container": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-container.jsx"
+    },
+    "./folder-container-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-container-open.jsx"
+    },
+    "./folder-content": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-content.jsx"
+    },
+    "./folder-content-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-content-open.jsx"
+    },
+    "./folder-context": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-context.jsx"
+    },
+    "./folder-context-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-context-open.jsx"
+    },
+    "./folder-contract": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-contract.jsx"
+    },
+    "./folder-contract-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-contract-open.jsx"
+    },
+    "./folder-controller": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-controller.jsx"
+    },
+    "./folder-controller-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-controller-open.jsx"
+    },
+    "./folder-core": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-core.jsx"
+    },
+    "./folder-core-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-core-open.jsx"
+    },
+    "./folder-coverage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-coverage.jsx"
+    },
+    "./folder-coverage-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-coverage-open.jsx"
+    },
+    "./folder-css": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-css.jsx"
+    },
+    "./folder-css-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-css-open.jsx"
+    },
+    "./folder-cue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cue.jsx"
+    },
+    "./folder-cue-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cue-open.jsx"
+    },
+    "./folder-cursor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cursor.jsx"
+    },
+    "./folder-cursor-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cursor-light.jsx"
+    },
+    "./folder-cursor-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cursor-open.jsx"
+    },
+    "./folder-cursor-open-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cursor-open-light.jsx"
+    },
+    "./folder-custom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-custom.jsx"
+    },
+    "./folder-custom-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-custom-open.jsx"
+    },
+    "./folder-cypress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cypress.jsx"
+    },
+    "./folder-cypress-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-cypress-open.jsx"
+    },
+    "./folder-dal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dal.jsx"
+    },
+    "./folder-dal-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dal-open.jsx"
+    },
+    "./folder-dart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dart.jsx"
+    },
+    "./folder-dart-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dart-open.jsx"
+    },
+    "./folder-database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-database.jsx"
+    },
+    "./folder-database-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-database-open.jsx"
+    },
+    "./folder-debug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-debug.jsx"
+    },
+    "./folder-debug-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-debug-open.jsx"
+    },
+    "./folder-decorators": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-decorators.jsx"
+    },
+    "./folder-decorators-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-decorators-open.jsx"
+    },
+    "./folder-delta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-delta.jsx"
+    },
+    "./folder-delta-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-delta-open.jsx"
+    },
+    "./folder-desktop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-desktop.jsx"
+    },
+    "./folder-desktop-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-desktop-open.jsx"
+    },
+    "./folder-directive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-directive.jsx"
+    },
+    "./folder-directive-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-directive-open.jsx"
+    },
+    "./folder-dist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dist.jsx"
+    },
+    "./folder-dist-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dist-open.jsx"
+    },
+    "./folder-docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docker.jsx"
+    },
+    "./folder-docker-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docker-open.jsx"
+    },
+    "./folder-docs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docs.jsx"
+    },
+    "./folder-docs-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-docs-open.jsx"
+    },
+    "./folder-download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-download.jsx"
+    },
+    "./folder-download-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-download-open.jsx"
+    },
+    "./folder-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-drizzle.jsx"
+    },
+    "./folder-drizzle-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-drizzle-open.jsx"
+    },
+    "./folder-dump": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dump.jsx"
+    },
+    "./folder-dump-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-dump-open.jsx"
+    },
+    "./folder-element": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-element.jsx"
+    },
+    "./folder-element-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-element-open.jsx"
+    },
+    "./folder-enum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-enum.jsx"
+    },
+    "./folder-enum-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-enum-open.jsx"
+    },
+    "./folder-environment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-environment.jsx"
+    },
+    "./folder-environment-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-environment-open.jsx"
+    },
+    "./folder-error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-error.jsx"
+    },
+    "./folder-error-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-error-open.jsx"
+    },
+    "./folder-eslint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-eslint.jsx"
+    },
+    "./folder-eslint-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-eslint-open.jsx"
+    },
+    "./folder-event": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-event.jsx"
+    },
+    "./folder-event-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-event-open.jsx"
+    },
+    "./folder-examples": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-examples.jsx"
+    },
+    "./folder-examples-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-examples-open.jsx"
+    },
+    "./folder-expo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-expo.jsx"
+    },
+    "./folder-expo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-expo-open.jsx"
+    },
+    "./folder-export": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-export.jsx"
+    },
+    "./folder-export-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-export-open.jsx"
+    },
+    "./folder-fastlane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fastlane.jsx"
+    },
+    "./folder-fastlane-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fastlane-open.jsx"
+    },
+    "./folder-favicon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-favicon.jsx"
+    },
+    "./folder-favicon-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-favicon-open.jsx"
+    },
+    "./folder-features": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-features.jsx"
+    },
+    "./folder-features-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-features-open.jsx"
+    },
+    "./folder-filter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-filter.jsx"
+    },
+    "./folder-filter-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-filter-open.jsx"
+    },
+    "./folder-firebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-firebase.jsx"
+    },
+    "./folder-firebase-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-firebase-open.jsx"
+    },
+    "./folder-firestore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-firestore.jsx"
+    },
+    "./folder-firestore-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-firestore-open.jsx"
+    },
+    "./folder-flow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-flow.jsx"
+    },
+    "./folder-flow-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-flow-open.jsx"
+    },
+    "./folder-flutter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-flutter.jsx"
+    },
+    "./folder-flutter-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-flutter-open.jsx"
+    },
+    "./folder-font": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-font.jsx"
+    },
+    "./folder-font-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-font-open.jsx"
+    },
+    "./folder-forgejo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-forgejo.jsx"
+    },
+    "./folder-forgejo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-forgejo-open.jsx"
+    },
+    "./folder-form": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-form.jsx"
+    },
+    "./folder-form-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-form-open.jsx"
+    },
+    "./folder-functions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-functions.jsx"
+    },
+    "./folder-functions-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-functions-open.jsx"
+    },
+    "./folder-gamemaker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gamemaker.jsx"
+    },
+    "./folder-gamemaker-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gamemaker-open.jsx"
+    },
+    "./folder-gemini-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gemini-ai.jsx"
+    },
+    "./folder-gemini-ai-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gemini-ai-open.jsx"
+    },
+    "./folder-generator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-generator.jsx"
+    },
+    "./folder-generator-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-generator-open.jsx"
+    },
+    "./folder-gh-workflows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gh-workflows.jsx"
+    },
+    "./folder-gh-workflows-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gh-workflows-open.jsx"
+    },
+    "./folder-git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-git.jsx"
+    },
+    "./folder-git-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-git-open.jsx"
+    },
+    "./folder-gitea": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gitea.jsx"
+    },
+    "./folder-gitea-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gitea-open.jsx"
+    },
+    "./folder-github": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-github.jsx"
+    },
+    "./folder-github-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-github-open.jsx"
+    },
+    "./folder-gitlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gitlab.jsx"
+    },
+    "./folder-gitlab-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gitlab-open.jsx"
+    },
+    "./folder-global": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-global.jsx"
+    },
+    "./folder-global-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-global-open.jsx"
+    },
+    "./folder-go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-go.jsx"
+    },
+    "./folder-go-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-go-open.jsx"
+    },
+    "./folder-godot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-godot.jsx"
+    },
+    "./folder-godot-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-godot-open.jsx"
+    },
+    "./folder-gradle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gradle.jsx"
+    },
+    "./folder-gradle-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gradle-open.jsx"
+    },
+    "./folder-graphql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-graphql.jsx"
+    },
+    "./folder-graphql-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-graphql-open.jsx"
+    },
+    "./folder-guard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-guard.jsx"
+    },
+    "./folder-guard-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-guard-open.jsx"
+    },
+    "./folder-gulp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gulp.jsx"
+    },
+    "./folder-gulp-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-gulp-open.jsx"
+    },
+    "./folder-helm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-helm.jsx"
+    },
+    "./folder-helm-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-helm-open.jsx"
+    },
+    "./folder-helper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-helper.jsx"
+    },
+    "./folder-helper-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-helper-open.jsx"
+    },
+    "./folder-home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-home.jsx"
+    },
+    "./folder-home-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-home-open.jsx"
+    },
+    "./folder-hook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-hook.jsx"
+    },
+    "./folder-hook-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-hook-open.jsx"
+    },
+    "./folder-husky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-husky.jsx"
+    },
+    "./folder-husky-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-husky-open.jsx"
+    },
+    "./folder-i18n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-i18n.jsx"
+    },
+    "./folder-i18n-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-i18n-open.jsx"
+    },
+    "./folder-images": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-images.jsx"
+    },
+    "./folder-images-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-images-open.jsx"
+    },
+    "./folder-import": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-import.jsx"
+    },
+    "./folder-import-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-import-open.jsx"
+    },
+    "./folder-include": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-include.jsx"
+    },
+    "./folder-include-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-include-open.jsx"
+    },
+    "./folder-input": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-input.jsx"
+    },
+    "./folder-input-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-input-open.jsx"
+    },
+    "./folder-intellij": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-intellij.jsx"
+    },
+    "./folder-intellij-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-intellij-light.jsx"
+    },
+    "./folder-intellij-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-intellij-open.jsx"
+    },
+    "./folder-intellij-open-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-intellij-open-light.jsx"
+    },
+    "./folder-interceptor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-interceptor.jsx"
+    },
+    "./folder-interceptor-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-interceptor-open.jsx"
+    },
+    "./folder-interface": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-interface.jsx"
+    },
+    "./folder-interface-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-interface-open.jsx"
+    },
+    "./folder-ios": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ios.jsx"
+    },
+    "./folder-ios-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ios-open.jsx"
+    },
+    "./folder-java": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-java.jsx"
+    },
+    "./folder-java-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-java-open.jsx"
+    },
+    "./folder-javascript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-javascript.jsx"
+    },
+    "./folder-javascript-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-javascript-open.jsx"
+    },
+    "./folder-jinja": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-jinja.jsx"
+    },
+    "./folder-jinja-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-jinja-light.jsx"
+    },
+    "./folder-jinja-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-jinja-open.jsx"
+    },
+    "./folder-jinja-open-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-jinja-open-light.jsx"
+    },
+    "./folder-job": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-job.jsx"
+    },
+    "./folder-job-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-job-open.jsx"
+    },
+    "./folder-json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-json.jsx"
+    },
+    "./folder-json-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-json-open.jsx"
+    },
+    "./folder-jupyter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-jupyter.jsx"
+    },
+    "./folder-jupyter-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-jupyter-open.jsx"
+    },
+    "./folder-keys": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-keys.jsx"
+    },
+    "./folder-keys-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-keys-open.jsx"
+    },
+    "./folder-kotlin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kotlin.jsx"
+    },
+    "./folder-kotlin-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kotlin-open.jsx"
+    },
+    "./folder-kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kubernetes.jsx"
+    },
+    "./folder-kubernetes-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kubernetes-open.jsx"
+    },
+    "./folder-kusto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kusto.jsx"
+    },
+    "./folder-kusto-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-kusto-open.jsx"
+    },
+    "./folder-layout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-layout.jsx"
+    },
+    "./folder-layout-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-layout-open.jsx"
+    },
+    "./folder-lefthook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lefthook.jsx"
+    },
+    "./folder-lefthook-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lefthook-open.jsx"
+    },
+    "./folder-less": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-less.jsx"
+    },
+    "./folder-less-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-less-open.jsx"
+    },
+    "./folder-lib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lib.jsx"
+    },
+    "./folder-lib-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lib-open.jsx"
+    },
+    "./folder-license": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-license.jsx"
+    },
+    "./folder-license-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-license-open.jsx"
+    },
+    "./folder-link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-link.jsx"
+    },
+    "./folder-link-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-link-open.jsx"
+    },
+    "./folder-linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-linux.jsx"
+    },
+    "./folder-linux-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-linux-open.jsx"
+    },
+    "./folder-liquibase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-liquibase.jsx"
+    },
+    "./folder-liquibase-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-liquibase-open.jsx"
+    },
+    "./folder-log": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-log.jsx"
+    },
+    "./folder-log-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-log-open.jsx"
+    },
+    "./folder-lottie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lottie.jsx"
+    },
+    "./folder-lottie-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lottie-open.jsx"
+    },
+    "./folder-lua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lua.jsx"
+    },
+    "./folder-lua-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lua-open.jsx"
+    },
+    "./folder-luau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-luau.jsx"
+    },
+    "./folder-luau-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-luau-open.jsx"
+    },
+    "./folder-macos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-macos.jsx"
+    },
+    "./folder-macos-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-macos-open.jsx"
+    },
+    "./folder-mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mail.jsx"
+    },
+    "./folder-mail-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mail-open.jsx"
+    },
+    "./folder-mappings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mappings.jsx"
+    },
+    "./folder-mappings-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mappings-open.jsx"
+    },
+    "./folder-markdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-markdown.jsx"
+    },
+    "./folder-markdown-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-markdown-open.jsx"
+    },
+    "./folder-mercurial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mercurial.jsx"
+    },
+    "./folder-mercurial-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mercurial-open.jsx"
+    },
+    "./folder-messages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-messages.jsx"
+    },
+    "./folder-messages-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-messages-open.jsx"
+    },
+    "./folder-meta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-meta.jsx"
+    },
+    "./folder-meta-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-meta-open.jsx"
+    },
+    "./folder-metro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-metro.jsx"
+    },
+    "./folder-metro-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-metro-open.jsx"
+    },
+    "./folder-middleware": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-middleware.jsx"
+    },
+    "./folder-middleware-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-middleware-open.jsx"
+    },
+    "./folder-migrations": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-migrations.jsx"
+    },
+    "./folder-migrations-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-migrations-open.jsx"
+    },
+    "./folder-mjml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mjml.jsx"
+    },
+    "./folder-mjml-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mjml-open.jsx"
+    },
+    "./folder-mobile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mobile.jsx"
+    },
+    "./folder-mobile-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mobile-open.jsx"
+    },
+    "./folder-mock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mock.jsx"
+    },
+    "./folder-mock-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mock-open.jsx"
+    },
+    "./folder-mojo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mojo.jsx"
+    },
+    "./folder-mojo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-mojo-open.jsx"
+    },
+    "./folder-molecule": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-molecule.jsx"
+    },
+    "./folder-molecule-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-molecule-open.jsx"
+    },
+    "./folder-moon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-moon.jsx"
+    },
+    "./folder-moon-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-moon-open.jsx"
+    },
+    "./folder-netlify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-netlify.jsx"
+    },
+    "./folder-netlify-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-netlify-open.jsx"
+    },
+    "./folder-next": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-next.jsx"
+    },
+    "./folder-next-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-next-open.jsx"
+    },
+    "./folder-nginx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nginx.jsx"
+    },
+    "./folder-nginx-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nginx-open.jsx"
+    },
+    "./folder-ngrx-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ngrx-store.jsx"
+    },
+    "./folder-ngrx-store-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ngrx-store-open.jsx"
+    },
+    "./folder-node": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-node.jsx"
+    },
+    "./folder-node-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-node-open.jsx"
+    },
+    "./folder-nuxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nuxt.jsx"
+    },
+    "./folder-nuxt-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-nuxt-open.jsx"
+    },
+    "./folder-obsidian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-obsidian.jsx"
+    },
+    "./folder-obsidian-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-obsidian-open.jsx"
+    },
+    "./folder-opencode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-opencode.jsx"
+    },
+    "./folder-organism": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-organism.jsx"
+    },
+    "./folder-organism-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-organism-open.jsx"
+    },
+    "./folder-other": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-other.jsx"
+    },
+    "./folder-other-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-other-open.jsx"
+    },
+    "./folder-packages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-packages.jsx"
+    },
+    "./folder-packages-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-packages-open.jsx"
+    },
+    "./folder-pdf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pdf.jsx"
+    },
+    "./folder-pdf-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pdf-open.jsx"
+    },
+    "./folder-pdm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pdm.jsx"
+    },
+    "./folder-pdm-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pdm-open.jsx"
+    },
+    "./folder-php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-php.jsx"
+    },
+    "./folder-php-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-php-open.jsx"
+    },
+    "./folder-phpmailer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-phpmailer.jsx"
+    },
+    "./folder-phpmailer-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-phpmailer-open.jsx"
+    },
+    "./folder-pipe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pipe.jsx"
+    },
+    "./folder-pipe-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pipe-open.jsx"
+    },
+    "./folder-plastic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plastic.jsx"
+    },
+    "./folder-plastic-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plastic-open.jsx"
+    },
+    "./folder-plugin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plugin.jsx"
+    },
+    "./folder-plugin-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plugin-open.jsx"
+    },
+    "./folder-policy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-policy.jsx"
+    },
+    "./folder-policy-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-policy-open.jsx"
+    },
+    "./folder-postman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-postman.jsx"
+    },
+    "./folder-postman-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-postman-open.jsx"
+    },
+    "./folder-powershell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-powershell.jsx"
+    },
+    "./folder-powershell-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-powershell-open.jsx"
+    },
+    "./folder-prisma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-prisma.jsx"
+    },
+    "./folder-prisma-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-prisma-open.jsx"
+    },
+    "./folder-private": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-private.jsx"
+    },
+    "./folder-private-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-private-open.jsx"
+    },
+    "./folder-project": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-project.jsx"
+    },
+    "./folder-project-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-project-open.jsx"
+    },
+    "./folder-prompts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-prompts.jsx"
+    },
+    "./folder-prompts-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-prompts-open.jsx"
+    },
+    "./folder-proto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-proto.jsx"
+    },
+    "./folder-proto-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-proto-open.jsx"
+    },
+    "./folder-public": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-public.jsx"
+    },
+    "./folder-public-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-public-open.jsx"
+    },
+    "./folder-python": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-python.jsx"
+    },
+    "./folder-python-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-python-open.jsx"
+    },
+    "./folder-pytorch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pytorch.jsx"
+    },
+    "./folder-pytorch-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-pytorch-open.jsx"
+    },
+    "./folder-quasar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-quasar.jsx"
+    },
+    "./folder-quasar-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-quasar-open.jsx"
+    },
+    "./folder-queue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-queue.jsx"
+    },
+    "./folder-queue-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-queue-open.jsx"
+    },
+    "./folder-r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-r.jsx"
+    },
+    "./folder-r-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-r-open.jsx"
+    },
+    "./folder-react-components": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-react-components.jsx"
+    },
+    "./folder-react-components-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-react-components-open.jsx"
+    },
+    "./folder-redux-reducer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-redux-reducer.jsx"
+    },
+    "./folder-redux-reducer-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-redux-reducer-open.jsx"
+    },
+    "./folder-repository": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-repository.jsx"
+    },
+    "./folder-repository-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-repository-open.jsx"
+    },
+    "./folder-resolver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-resolver.jsx"
+    },
+    "./folder-resolver-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-resolver-open.jsx"
+    },
+    "./folder-resource": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-resource.jsx"
+    },
+    "./folder-resource-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-resource-open.jsx"
+    },
+    "./folder-review": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-review.jsx"
+    },
+    "./folder-review-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-review-open.jsx"
+    },
+    "./folder-robot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-robot.jsx"
+    },
+    "./folder-robot-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-robot-open.jsx"
+    },
+    "./folder-routes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-routes.jsx"
+    },
+    "./folder-routes-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-routes-open.jsx"
+    },
+    "./folder-rules": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-rules.jsx"
+    },
+    "./folder-rules-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-rules-open.jsx"
+    },
+    "./folder-rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-rust.jsx"
+    },
+    "./folder-rust-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-rust-open.jsx"
+    },
+    "./folder-salt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-salt.jsx"
+    },
+    "./folder-salt-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-salt-open.jsx"
+    },
+    "./folder-sandbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sandbox.jsx"
+    },
+    "./folder-sandbox-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sandbox-open.jsx"
+    },
+    "./folder-sass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sass.jsx"
+    },
+    "./folder-sass-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sass-open.jsx"
+    },
+    "./folder-scala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scala.jsx"
+    },
+    "./folder-scala-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scala-open.jsx"
+    },
+    "./folder-scons": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scons.jsx"
+    },
+    "./folder-scons-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scons-open.jsx"
+    },
+    "./folder-scripts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scripts.jsx"
+    },
+    "./folder-scripts-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-scripts-open.jsx"
+    },
+    "./folder-secure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-secure.jsx"
+    },
+    "./folder-secure-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-secure-open.jsx"
+    },
+    "./folder-seeders": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-seeders.jsx"
+    },
+    "./folder-seeders-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-seeders-open.jsx"
+    },
+    "./folder-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-server.jsx"
+    },
+    "./folder-server-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-server-open.jsx"
+    },
+    "./folder-serverless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-serverless.jsx"
+    },
+    "./folder-serverless-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-serverless-open.jsx"
+    },
+    "./folder-shader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-shader.jsx"
+    },
+    "./folder-shader-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-shader-open.jsx"
+    },
+    "./folder-shared": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-shared.jsx"
+    },
+    "./folder-shared-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-shared-open.jsx"
+    },
+    "./folder-simulations": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-simulations.jsx"
+    },
+    "./folder-simulations-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-simulations-open.jsx"
+    },
+    "./folder-skills": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-skills.jsx"
+    },
+    "./folder-skills-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-skills-open.jsx"
+    },
+    "./folder-snapcraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-snapcraft.jsx"
+    },
+    "./folder-snapcraft-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-snapcraft-open.jsx"
+    },
+    "./folder-snippet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-snippet.jsx"
+    },
+    "./folder-snippet-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-snippet-open.jsx"
+    },
+    "./folder-src": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-src.jsx"
+    },
+    "./folder-src-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-src-open.jsx"
+    },
+    "./folder-src-tauri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-src-tauri.jsx"
+    },
+    "./folder-src-tauri-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-src-tauri-open.jsx"
+    },
+    "./folder-stack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-stack.jsx"
+    },
+    "./folder-stack-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-stack-open.jsx"
+    },
+    "./folder-stencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-stencil.jsx"
+    },
+    "./folder-stencil-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-stencil-open.jsx"
+    },
+    "./folder-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-store.jsx"
+    },
+    "./folder-store-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-store-open.jsx"
+    },
+    "./folder-storybook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-storybook.jsx"
+    },
+    "./folder-storybook-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-storybook-open.jsx"
+    },
+    "./folder-stylus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-stylus.jsx"
+    },
+    "./folder-stylus-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-stylus-open.jsx"
+    },
+    "./folder-sublime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sublime.jsx"
+    },
+    "./folder-sublime-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sublime-open.jsx"
+    },
+    "./folder-supabase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-supabase.jsx"
+    },
+    "./folder-supabase-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-supabase-open.jsx"
+    },
+    "./folder-svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-svelte.jsx"
+    },
+    "./folder-svelte-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-svelte-open.jsx"
+    },
+    "./folder-svg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-svg.jsx"
+    },
+    "./folder-svg-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-svg-open.jsx"
+    },
+    "./folder-syntax": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-syntax.jsx"
+    },
+    "./folder-syntax-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-syntax-open.jsx"
+    },
+    "./folder-target": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-target.jsx"
+    },
+    "./folder-target-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-target-open.jsx"
+    },
+    "./folder-taskfile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-taskfile.jsx"
+    },
+    "./folder-taskfile-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-taskfile-open.jsx"
+    },
+    "./folder-tasks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tasks.jsx"
+    },
+    "./folder-tasks-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tasks-open.jsx"
+    },
+    "./folder-television": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-television.jsx"
+    },
+    "./folder-television-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-television-open.jsx"
+    },
+    "./folder-temp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-temp.jsx"
+    },
+    "./folder-temp-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-temp-open.jsx"
+    },
+    "./folder-template": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-template.jsx"
+    },
+    "./folder-template-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-template-open.jsx"
+    },
+    "./folder-terraform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-terraform.jsx"
+    },
+    "./folder-terraform-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-terraform-open.jsx"
+    },
+    "./folder-test": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-test.jsx"
+    },
+    "./folder-test-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-test-open.jsx"
+    },
+    "./folder-theme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-theme.jsx"
+    },
+    "./folder-theme-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-theme-open.jsx"
+    },
+    "./folder-toc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-toc.jsx"
+    },
+    "./folder-toc-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-toc-open.jsx"
+    },
+    "./folder-tools": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tools.jsx"
+    },
+    "./folder-tools-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tools-open.jsx"
+    },
+    "./folder-trash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-trash.jsx"
+    },
+    "./folder-trash-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-trash-open.jsx"
+    },
+    "./folder-trigger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-trigger.jsx"
+    },
+    "./folder-trigger-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-trigger-open.jsx"
+    },
+    "./folder-turborepo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-turborepo.jsx"
+    },
+    "./folder-turborepo-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-turborepo-open.jsx"
+    },
+    "./folder-typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-typescript.jsx"
+    },
+    "./folder-typescript-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-typescript-open.jsx"
+    },
+    "./folder-ui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ui.jsx"
+    },
+    "./folder-ui-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ui-open.jsx"
+    },
+    "./folder-unity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-unity.jsx"
+    },
+    "./folder-unity-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-unity-open.jsx"
+    },
+    "./folder-update": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-update.jsx"
+    },
+    "./folder-update-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-update-open.jsx"
+    },
+    "./folder-upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-upload.jsx"
+    },
+    "./folder-upload-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-upload-open.jsx"
+    },
+    "./folder-utils": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-utils.jsx"
+    },
+    "./folder-utils-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-utils-open.jsx"
+    },
+    "./folder-vercel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vercel.jsx"
+    },
+    "./folder-vercel-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vercel-open.jsx"
+    },
+    "./folder-verdaccio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-verdaccio.jsx"
+    },
+    "./folder-verdaccio-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-verdaccio-open.jsx"
+    },
+    "./folder-video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-video.jsx"
+    },
+    "./folder-video-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-video-open.jsx"
+    },
+    "./folder-views": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-views.jsx"
+    },
+    "./folder-views-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-views-open.jsx"
+    },
+    "./folder-vm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vm.jsx"
+    },
+    "./folder-vm-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vm-open.jsx"
+    },
+    "./folder-vscode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vscode.jsx"
+    },
+    "./folder-vscode-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vscode-open.jsx"
+    },
+    "./folder-vue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vue.jsx"
+    },
+    "./folder-vue-directives": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vue-directives.jsx"
+    },
+    "./folder-vue-directives-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vue-directives-open.jsx"
+    },
+    "./folder-vue-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vue-open.jsx"
+    },
+    "./folder-vuepress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vuepress.jsx"
+    },
+    "./folder-vuepress-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vuepress-open.jsx"
+    },
+    "./folder-vuex-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vuex-store.jsx"
+    },
+    "./folder-vuex-store-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-vuex-store-open.jsx"
+    },
+    "./folder-wakatime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-wakatime.jsx"
+    },
+    "./folder-wakatime-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-wakatime-open.jsx"
+    },
+    "./folder-webpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-webpack.jsx"
+    },
+    "./folder-webpack-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-webpack-open.jsx"
+    },
+    "./folder-windows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-windows.jsx"
+    },
+    "./folder-windows-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-windows-open.jsx"
+    },
+    "./folder-wordpress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-wordpress.jsx"
+    },
+    "./folder-wordpress-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-wordpress-open.jsx"
+    },
+    "./folder-yarn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-yarn.jsx"
+    },
+    "./folder-yarn-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-yarn-open.jsx"
+    },
+    "./folder-zeabur": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-zeabur.jsx"
+    },
+    "./folder-zeabur-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-zeabur-open.jsx"
+    },
+    "./folder-zed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-zed.jsx"
+    },
+    "./folder-zed-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-zed-open.jsx"
+    },
+    "./font": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/font.jsx"
+    },
+    "./forth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forth.jsx"
+    },
+    "./fortran": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fortran.jsx"
+    },
+    "./foxpro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/foxpro.jsx"
+    },
+    "./freemarker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freemarker.jsx"
+    },
+    "./fsharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fsharp.jsx"
+    },
+    "./fusebox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fusebox.jsx"
+    },
+    "./gamemaker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gamemaker.jsx"
+    },
+    "./garden": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garden.jsx"
+    },
+    "./gatsby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsby.jsx"
+    },
+    "./gcp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gcp.jsx"
+    },
+    "./gemfile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gemfile.jsx"
+    },
+    "./gemini": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gemini.jsx"
+    },
+    "./gemini-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gemini-ai.jsx"
+    },
+    "./git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git.jsx"
+    },
+    "./github-actions-workflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-actions-workflow.jsx"
+    },
+    "./github-sponsors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-sponsors.jsx"
+    },
+    "./gitlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab.jsx"
+    },
+    "./gitpod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitpod.jsx"
+    },
+    "./gleam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gleam.jsx"
+    },
+    "./gnuplot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnuplot.jsx"
+    },
+    "./go": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go.jsx"
+    },
+    "./go-gopher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go-gopher.jsx"
+    },
+    "./go-mod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go-mod.jsx"
+    },
+    "./godot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot.jsx"
+    },
+    "./godot-assets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot-assets.jsx"
+    },
+    "./google": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google.jsx"
+    },
+    "./gradle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle.jsx"
+    },
+    "./grafana-alloy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafana-alloy.jsx"
+    },
+    "./grain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grain.jsx"
+    },
+    "./graphcool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphcool.jsx"
+    },
+    "./graphql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql.jsx"
+    },
+    "./gridsome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gridsome.jsx"
+    },
+    "./groovy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groovy.jsx"
+    },
+    "./grunt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grunt.jsx"
+    },
+    "./gulp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gulp.jsx"
+    },
+    "./h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h.jsx"
+    },
+    "./hack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hack.jsx"
+    },
+    "./hadolint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hadolint.jsx"
+    },
+    "./haml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haml.jsx"
+    },
+    "./handlebars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handlebars.jsx"
+    },
+    "./happo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/happo.jsx"
+    },
+    "./hardhat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hardhat.jsx"
+    },
+    "./harmonix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/harmonix.jsx"
+    },
+    "./haskell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haskell.jsx"
+    },
+    "./haxe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxe.jsx"
+    },
+    "./hcl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hcl.jsx"
+    },
+    "./hcl-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hcl-light.jsx"
+    },
+    "./helm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helm.jsx"
+    },
+    "./heroku": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heroku.jsx"
+    },
+    "./hex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hex.jsx"
+    },
+    "./hip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hip.jsx"
+    },
+    "./histoire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/histoire.jsx"
+    },
+    "./hjson": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hjson.jsx"
+    },
+    "./horusec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horusec.jsx"
+    },
+    "./hosts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hosts.jsx"
+    },
+    "./hosts-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hosts-light.jsx"
+    },
+    "./hpp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hpp.jsx"
+    },
+    "./html": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html.jsx"
+    },
+    "./http": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/http.jsx"
+    },
+    "./huff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/huff.jsx"
+    },
+    "./huff-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/huff-light.jsx"
+    },
+    "./hurl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hurl.jsx"
+    },
+    "./husky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/husky.jsx"
+    },
+    "./i18n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i18n.jsx"
+    },
+    "./idris": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/idris.jsx"
+    },
+    "./ifanr-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ifanr-cloud.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./imba": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imba.jsx"
+    },
+    "./installation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/installation.jsx"
+    },
+    "./ionic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ionic.jsx"
+    },
+    "./istanbul": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/istanbul.jsx"
+    },
+    "./jar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jar.jsx"
+    },
+    "./java": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java.jsx"
+    },
+    "./javaclass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javaclass.jsx"
+    },
+    "./javascript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript.jsx"
+    },
+    "./javascript-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-map.jsx"
+    },
+    "./jenkins": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jenkins.jsx"
+    },
+    "./jest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jest.jsx"
+    },
+    "./jinja": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jinja.jsx"
+    },
+    "./jinja-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jinja-light.jsx"
+    },
+    "./jsconfig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsconfig.jsx"
+    },
+    "./json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json.jsx"
+    },
+    "./json-schema": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json-schema.jsx"
+    },
+    "./jsr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsr.jsx"
+    },
+    "./jsr-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jsr-light.jsx"
+    },
+    "./julia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/julia.jsx"
+    },
+    "./jupyter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jupyter.jsx"
+    },
+    "./just": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/just.jsx"
+    },
+    "./karma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karma.jsx"
+    },
+    "./kcl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kcl.jsx"
+    },
+    "./key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key.jsx"
+    },
+    "./keystatic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keystatic.jsx"
+    },
+    "./kivy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kivy.jsx"
+    },
+    "./kl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kl.jsx"
+    },
+    "./knip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knip.jsx"
+    },
+    "./kotlin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin.jsx"
+    },
+    "./kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes.jsx"
+    },
+    "./kusto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kusto.jsx"
+    },
+    "./label": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/label.jsx"
+    },
+    "./laravel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel.jsx"
+    },
+    "./latexmk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latexmk.jsx"
+    },
+    "./lbx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lbx.jsx"
+    },
+    "./lean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lean.jsx"
+    },
+    "./lefthook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lefthook.jsx"
+    },
+    "./lerna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lerna.jsx"
+    },
+    "./less": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/less.jsx"
+    },
+    "./liara": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/liara.jsx"
+    },
+    "./lib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lib.jsx"
+    },
+    "./license": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license.jsx"
+    },
+    "./lighthouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse.jsx"
+    },
+    "./lilypond": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lilypond.jsx"
+    },
+    "./lintstaged": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lintstaged.jsx"
+    },
+    "./liquid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/liquid.jsx"
+    },
+    "./lisp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lisp.jsx"
+    },
+    "./livescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/livescript.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./log": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log.jsx"
+    },
+    "./lolcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lolcode.jsx"
+    },
+    "./lottie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lottie.jsx"
+    },
+    "./lua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua.jsx"
+    },
+    "./luau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luau.jsx"
+    },
+    "./lynx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lynx.jsx"
+    },
+    "./lyric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lyric.jsx"
+    },
+    "./macaulay2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/macaulay2.jsx"
+    },
+    "./makefile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/makefile.jsx"
+    },
+    "./markdoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdoc.jsx"
+    },
+    "./markdoc-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdoc-config.jsx"
+    },
+    "./markdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown.jsx"
+    },
+    "./markdownlint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdownlint.jsx"
+    },
+    "./markojs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markojs.jsx"
+    },
+    "./mathematica": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mathematica.jsx"
+    },
+    "./matlab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matlab.jsx"
+    },
+    "./maven": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maven.jsx"
+    },
+    "./mdsvex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mdsvex.jsx"
+    },
+    "./mdx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mdx.jsx"
+    },
+    "./mercurial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mercurial.jsx"
+    },
+    "./merlin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merlin.jsx"
+    },
+    "./mermaid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mermaid.jsx"
+    },
+    "./meson": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meson.jsx"
+    },
+    "./metro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metro.jsx"
+    },
+    "./minecraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minecraft.jsx"
+    },
+    "./minecraft-fabric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minecraft-fabric.jsx"
+    },
+    "./mint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mint.jsx"
+    },
+    "./mjml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mjml.jsx"
+    },
+    "./mocha": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mocha.jsx"
+    },
+    "./modernizr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modernizr.jsx"
+    },
+    "./mojo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mojo.jsx"
+    },
+    "./moon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon.jsx"
+    },
+    "./moonscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moonscript.jsx"
+    },
+    "./mrpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mrpack.jsx"
+    },
+    "./mxml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mxml.jsx"
+    },
+    "./nano-staged": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nano-staged.jsx"
+    },
+    "./nano-staged-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nano-staged-light.jsx"
+    },
+    "./ndst": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ndst.jsx"
+    },
+    "./nest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nest.jsx"
+    },
+    "./netlify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify.jsx"
+    },
+    "./netlify-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify-light.jsx"
+    },
+    "./next": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next.jsx"
+    },
+    "./next-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-light.jsx"
+    },
+    "./nginx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nginx.jsx"
+    },
+    "./ngrx-actions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx-actions.jsx"
+    },
+    "./ngrx-effects": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx-effects.jsx"
+    },
+    "./ngrx-entity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx-entity.jsx"
+    },
+    "./ngrx-reducer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx-reducer.jsx"
+    },
+    "./ngrx-selectors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx-selectors.jsx"
+    },
+    "./ngrx-state": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngrx-state.jsx"
+    },
+    "./nim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nim.jsx"
+    },
+    "./nix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nix.jsx"
+    },
+    "./nodejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs.jsx"
+    },
+    "./nodejs-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs-alt.jsx"
+    },
+    "./nodemon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodemon.jsx"
+    },
+    "./npm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm.jsx"
+    },
+    "./nuget": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuget.jsx"
+    },
+    "./nunjucks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nunjucks.jsx"
+    },
+    "./nuxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxt.jsx"
+    },
+    "./nx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nx.jsx"
+    },
+    "./objective-c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/objective-c.jsx"
+    },
+    "./objective-cpp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/objective-cpp.jsx"
+    },
+    "./ocaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ocaml.jsx"
+    },
+    "./odin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/odin.jsx"
+    },
+    "./onnx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/onnx.jsx"
+    },
+    "./opa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opa.jsx"
+    },
+    "./opam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opam.jsx"
+    },
+    "./openapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openapi.jsx"
+    },
+    "./openapi-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openapi-light.jsx"
+    },
+    "./opencode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencode.jsx"
+    },
+    "./opencode-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencode-light.jsx"
+    },
+    "./opentofu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentofu.jsx"
+    },
+    "./opentofu-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentofu-light.jsx"
+    },
+    "./otne": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/otne.jsx"
+    },
+    "./oxc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oxc.jsx"
+    },
+    "./packship": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/packship.jsx"
+    },
+    "./palette": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette.jsx"
+    },
+    "./panda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/panda.jsx"
+    },
+    "./parcel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parcel.jsx"
+    },
+    "./pascal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pascal.jsx"
+    },
+    "./pawn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pawn.jsx"
+    },
+    "./payload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/payload.jsx"
+    },
+    "./payload-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/payload-light.jsx"
+    },
+    "./pdf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pdf.jsx"
+    },
+    "./pdm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pdm.jsx"
+    },
+    "./percy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percy.jsx"
+    },
+    "./perl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perl.jsx"
+    },
+    "./php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php.jsx"
+    },
+    "./php-cs-fixer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php-cs-fixer.jsx"
+    },
+    "./php-elephant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php-elephant.jsx"
+    },
+    "./php-elephant-pink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php-elephant-pink.jsx"
+    },
+    "./phpstan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpstan.jsx"
+    },
+    "./phpunit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpunit.jsx"
+    },
+    "./pinejs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinejs.jsx"
+    },
+    "./pipeline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pipeline.jsx"
+    },
+    "./pkl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pkl.jsx"
+    },
+    "./plastic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plastic.jsx"
+    },
+    "./playwright": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/playwright.jsx"
+    },
+    "./plop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plop.jsx"
+    },
+    "./pm2-ecosystem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pm2-ecosystem.jsx"
+    },
+    "./pnpm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm.jsx"
+    },
+    "./pnpm-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm-light.jsx"
+    },
+    "./poetry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poetry.jsx"
+    },
+    "./postcss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcss.jsx"
+    },
+    "./posthtml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/posthtml.jsx"
+    },
+    "./powerpoint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powerpoint.jsx"
+    },
+    "./powershell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powershell.jsx"
+    },
+    "./pre-commit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pre-commit.jsx"
+    },
+    "./prettier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prettier.jsx"
+    },
+    "./prisma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prisma.jsx"
+    },
+    "./processing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processing.jsx"
+    },
+    "./prolog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prolog.jsx"
+    },
+    "./prompt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prompt.jsx"
+    },
+    "./proto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proto.jsx"
+    },
+    "./protractor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/protractor.jsx"
+    },
+    "./pug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pug.jsx"
+    },
+    "./puppet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puppet.jsx"
+    },
+    "./puppeteer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puppeteer.jsx"
+    },
+    "./purescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/purescript.jsx"
+    },
+    "./python": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python.jsx"
+    },
+    "./python-misc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-misc.jsx"
+    },
+    "./pytorch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytorch.jsx"
+    },
+    "./qsharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qsharp.jsx"
+    },
+    "./quarto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quarto.jsx"
+    },
+    "./quasar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quasar.jsx"
+    },
+    "./quokka": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quokka.jsx"
+    },
+    "./qwik": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwik.jsx"
+    },
+    "./r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r.jsx"
+    },
+    "./racket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/racket.jsx"
+    },
+    "./raml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raml.jsx"
+    },
+    "./razor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/razor.jsx"
+    },
+    "./rbxmk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rbxmk.jsx"
+    },
+    "./rc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rc.jsx"
+    },
+    "./react": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react.jsx"
+    },
+    "./react-ts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react-ts.jsx"
+    },
+    "./readme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/readme.jsx"
+    },
+    "./reason": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reason.jsx"
+    },
+    "./red": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/red.jsx"
+    },
+    "./redux-action": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redux-action.jsx"
+    },
+    "./redux-reducer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redux-reducer.jsx"
+    },
+    "./redux-selector": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redux-selector.jsx"
+    },
+    "./redux-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redux-store.jsx"
+    },
+    "./regedit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regedit.jsx"
+    },
+    "./remark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remark.jsx"
+    },
+    "./remix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remix.jsx"
+    },
+    "./remix-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remix-light.jsx"
+    },
+    "./renovate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/renovate.jsx"
+    },
+    "./replit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replit.jsx"
+    },
+    "./rescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rescript.jsx"
+    },
+    "./rescript-interface": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rescript-interface.jsx"
+    },
+    "./restql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restql.jsx"
+    },
+    "./riot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/riot.jsx"
+    },
+    "./roadmap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roadmap.jsx"
+    },
+    "./roblox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roblox.jsx"
+    },
+    "./robot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robot.jsx"
+    },
+    "./robots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robots.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
+    },
+    "./rojo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rojo.jsx"
+    },
+    "./rolldown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rolldown.jsx"
+    },
+    "./rollup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollup.jsx"
+    },
+    "./rome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rome.jsx"
+    },
+    "./routing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/routing.jsx"
+    },
+    "./rspec": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rspec.jsx"
+    },
+    "./rstack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rstack.jsx"
+    },
+    "./rubocop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rubocop.jsx"
+    },
+    "./rubocop-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rubocop-light.jsx"
+    },
+    "./ruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby.jsx"
+    },
+    "./ruff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruff.jsx"
+    },
+    "./rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust.jsx"
+    },
+    "./salesforce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salesforce.jsx"
+    },
+    "./salt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salt.jsx"
+    },
+    "./san": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/san.jsx"
+    },
+    "./sas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sas.jsx"
+    },
+    "./sass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sass.jsx"
+    },
+    "./sbt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sbt.jsx"
+    },
+    "./scala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala.jsx"
+    },
+    "./scheme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scheme.jsx"
+    },
+    "./scons": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scons.jsx"
+    },
+    "./scons-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scons-light.jsx"
+    },
+    "./screwdriver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screwdriver.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./semantic-release": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semantic-release.jsx"
+    },
+    "./semantic-release-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semantic-release-light.jsx"
+    },
+    "./semgrep": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semgrep.jsx"
+    },
+    "./sentry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sentry.jsx"
+    },
+    "./sequelize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sequelize.jsx"
+    },
+    "./serverless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/serverless.jsx"
+    },
+    "./settings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings.jsx"
+    },
+    "./shader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shader.jsx"
+    },
+    "./shellcheck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shellcheck.jsx"
+    },
+    "./shellcheck-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shellcheck-light.jsx"
+    },
+    "./silverstripe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/silverstripe.jsx"
+    },
+    "./simulink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simulink.jsx"
+    },
+    "./siyuan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/siyuan.jsx"
+    },
+    "./sketch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketch.jsx"
+    },
+    "./skill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skill.jsx"
+    },
+    "./slim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slim.jsx"
+    },
+    "./slint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slint.jsx"
+    },
+    "./slug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slug.jsx"
+    },
+    "./smarty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smarty.jsx"
+    },
+    "./sml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sml.jsx"
+    },
+    "./snakemake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snakemake.jsx"
+    },
+    "./snapcraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapcraft.jsx"
+    },
+    "./snowpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowpack.jsx"
+    },
+    "./snowpack-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowpack-light.jsx"
+    },
+    "./snyk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snyk.jsx"
+    },
+    "./solidity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidity.jsx"
+    },
+    "./sonarcloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sonarcloud.jsx"
+    },
+    "./spwn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spwn.jsx"
+    },
+    "./stackblitz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackblitz.jsx"
+    },
+    "./stan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stan.jsx"
+    },
+    "./steadybit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steadybit.jsx"
+    },
+    "./stencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stencil.jsx"
+    },
+    "./stitches": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stitches.jsx"
+    },
+    "./stitches-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stitches-light.jsx"
+    },
+    "./storybook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storybook.jsx"
+    },
+    "./stryker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stryker.jsx"
+    },
+    "./stylable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylable.jsx"
+    },
+    "./stylelint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylelint.jsx"
+    },
+    "./stylelint-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylelint-light.jsx"
+    },
+    "./stylus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylus.jsx"
+    },
+    "./sublime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sublime.jsx"
+    },
+    "./subtitles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles.jsx"
+    },
+    "./supabase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supabase.jsx"
+    },
+    "./svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte.jsx"
+    },
+    "./svg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svg.jsx"
+    },
+    "./svgo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svgo.jsx"
+    },
+    "./svgr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svgr.jsx"
+    },
+    "./swagger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swagger.jsx"
+    },
+    "./sway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sway.jsx"
+    },
+    "./swc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swc.jsx"
+    },
+    "./swift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swift.jsx"
+    },
+    "./syncpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/syncpack.jsx"
+    },
+    "./systemd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/systemd.jsx"
+    },
+    "./systemd-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/systemd-light.jsx"
+    },
+    "./table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table.jsx"
+    },
+    "./tailwindcss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwindcss.jsx"
+    },
+    "./taskfile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskfile.jsx"
+    },
+    "./tauri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tauri.jsx"
+    },
+    "./taze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taze.jsx"
+    },
+    "./tcl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tcl.jsx"
+    },
+    "./teal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teal.jsx"
+    },
+    "./templ": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/templ.jsx"
+    },
+    "./template": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/template.jsx"
+    },
+    "./terraform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform.jsx"
+    },
+    "./test-js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-js.jsx"
+    },
+    "./test-jsx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-jsx.jsx"
+    },
+    "./test-ts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-ts.jsx"
+    },
+    "./tex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tex.jsx"
+    },
+    "./textlint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/textlint.jsx"
+    },
+    "./tilt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tilt.jsx"
+    },
+    "./tldraw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tldraw.jsx"
+    },
+    "./tldraw-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tldraw-light.jsx"
+    },
+    "./tobi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tobi.jsx"
+    },
+    "./tobimake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tobimake.jsx"
+    },
+    "./toc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toc.jsx"
+    },
+    "./todo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/todo.jsx"
+    },
+    "./toml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toml.jsx"
+    },
+    "./toml-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toml-light.jsx"
+    },
+    "./toon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toon.jsx"
+    },
+    "./travis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/travis.jsx"
+    },
+    "./tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree.jsx"
+    },
+    "./trigger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trigger.jsx"
+    },
+    "./tsconfig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tsconfig.jsx"
+    },
+    "./tsdoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tsdoc.jsx"
+    },
+    "./tsdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tsdown.jsx"
+    },
+    "./tsil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tsil.jsx"
+    },
+    "./tune": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tune.jsx"
+    },
+    "./turborepo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turborepo.jsx"
+    },
+    "./turborepo-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turborepo-light.jsx"
+    },
+    "./twig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twig.jsx"
+    },
+    "./twine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twine.jsx"
+    },
+    "./typedoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typedoc.jsx"
+    },
+    "./typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript.jsx"
+    },
+    "./typescript-def": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-def.jsx"
+    },
+    "./typst": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typst.jsx"
+    },
+    "./uiua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uiua.jsx"
+    },
+    "./umi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umi.jsx"
+    },
+    "./uml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uml.jsx"
+    },
+    "./uml-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uml-light.jsx"
+    },
+    "./unity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unity.jsx"
+    },
+    "./unlicense": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlicense.jsx"
+    },
+    "./unocss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unocss.jsx"
+    },
+    "./url": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/url.jsx"
+    },
+    "./uv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv.jsx"
+    },
+    "./vagrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vagrant.jsx"
+    },
+    "./vala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vala.jsx"
+    },
+    "./vanilla-extract": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vanilla-extract.jsx"
+    },
+    "./varnish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/varnish.jsx"
+    },
+    "./vedic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vedic.jsx"
+    },
+    "./velite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/velite.jsx"
+    },
+    "./velocity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/velocity.jsx"
+    },
+    "./vercel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vercel.jsx"
+    },
+    "./vercel-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vercel-light.jsx"
+    },
+    "./verdaccio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verdaccio.jsx"
+    },
+    "./verified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verified.jsx"
+    },
+    "./verilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verilog.jsx"
+    },
+    "./verse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verse.jsx"
+    },
+    "./verse-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verse-light.jsx"
+    },
+    "./vfl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vfl.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./vim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim.jsx"
+    },
+    "./virtual": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/virtual.jsx"
+    },
+    "./visualstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visualstudio.jsx"
+    },
+    "./vite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vite.jsx"
+    },
+    "./vitest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitest.jsx"
+    },
+    "./vlang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vlang.jsx"
+    },
+    "./vscode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode.jsx"
+    },
+    "./vue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue.jsx"
+    },
+    "./vue-config": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue-config.jsx"
+    },
+    "./vuex-store": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuex-store.jsx"
+    },
+    "./wakatime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wakatime.jsx"
+    },
+    "./wakatime-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wakatime-light.jsx"
+    },
+    "./wallaby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallaby.jsx"
+    },
+    "./wally": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wally.jsx"
+    },
+    "./warp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp.jsx"
+    },
+    "./warp-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp-light.jsx"
+    },
+    "./watchman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watchman.jsx"
+    },
+    "./webassembly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webassembly.jsx"
+    },
+    "./webhint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webhint.jsx"
+    },
+    "./webpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack.jsx"
+    },
+    "./wepy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wepy.jsx"
+    },
+    "./werf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/werf.jsx"
+    },
+    "./windicss": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windicss.jsx"
+    },
+    "./wolframlanguage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wolframlanguage.jsx"
+    },
+    "./word": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/word.jsx"
+    },
+    "./wrangler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrangler.jsx"
+    },
+    "./wxt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wxt.jsx"
+    },
+    "./xaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xaml.jsx"
+    },
+    "./xmake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xmake.jsx"
+    },
+    "./xml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xml.jsx"
+    },
+    "./yaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml.jsx"
+    },
+    "./yang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yang.jsx"
+    },
+    "./yarn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn.jsx"
+    },
+    "./zeabur": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zeabur.jsx"
+    },
+    "./zeabur-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zeabur-light.jsx"
+    },
+    "./zig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zig.jsx"
+    },
+    "./zip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zip.jsx"
+    },
+    "./oxlint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oxlint.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#material-icon-theme"
+}

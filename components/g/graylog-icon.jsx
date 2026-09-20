@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fhpnoacjn {
+  fill: var(--svg-color--03c3ff, #03c3ff);
+  d: path("M128 0c70.809 0 128 57.191 128 128s-57.191 128-128 128S0 198.809 0 128S57.191 0 128 0m0 43.574A84.15 84.15 0 0 0 43.574 128A84.15 84.15 0 0 0 128 212.426A84.15 84.15 0 0 0 212.426 128A84.15 84.15 0 0 0 128 43.574m11.983 27.235l23.421 47.931c.545 1.09 1.634 1.634 2.179 1.634h19.064c4.357 0 8.17 3.813 8.17 8.17c0 4.358-3.268 7.626-7.626 7.626H155.78c-1.09 0-2.179-.544-2.179-1.634l-11.983-24.51l-20.153 74.62c-.545 2.18-3.813 2.724-4.902.545L93.14 137.26c-.544-1.09-1.634-1.634-2.178-1.634H70.809c-4.358 0-8.17-3.813-8.17-8.17c0-4.358 3.812-8.17 8.17-8.17h29.412c1.09 0 2.179.544 2.179 1.633l11.983 24.51l20.698-74.076c.545-2.179 3.813-2.723 4.902-.544");
+}
+</style><path class="fhpnoacjn"/>`,
+		"fallback": "logos:graylog-icon",
+	});
+}
+
+export default Component;

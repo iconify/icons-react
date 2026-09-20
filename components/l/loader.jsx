@@ -1,0 +1,29 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":247};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bcgfigbmw {
+  d: path("m165.759 82.951l58.343 108.03l-19.343 28.728H51.344l-19.478-29.302L90.201 82.95zm16.047-26.903H74.194L.493 191.81l36.431 54.802h182.152l36.431-54.102z");
+}
+
+.f585ciblb {
+  d: path("M163.87 145.725h-42.596l15.694-42.596h-24.661l-33.544 67.455h98.474zM9.178 192.806l44.838 40.354h152.451l44.839-40.354zM128 0c-20.011 0-36.234 16.28-36.234 36.369c0 2.13.22 4.2.57 6.228h23.024c-.928-1.888-1.493-3.982-1.493-6.228c0-7.834 6.327-14.183 14.129-14.183c7.806 0 14.128 6.35 14.128 14.183c0 2.246-.57 4.34-1.493 6.228h23.03c.349-2.027.569-4.103.569-6.228C164.234 16.28 148.01 0 128 0");
+}
+
+.kdd54numx {
+  fill: var(--svg-color--497bbb, #497bbb);
+}
+</style><g class="kdd54numx"><path class="bcgfigbmw"/><path class="f585ciblb"/></g>`,
+		"fallback": "logos:loader",
+	});
+}
+
+export default Component;

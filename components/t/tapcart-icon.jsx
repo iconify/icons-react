@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":227};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.o46pyy1-j {
+  fill: var(--svg-color--1b191b, #1b191b);
+  d: path("m243.563 83.255l-70.728-70.727a42.537 42.537 0 0 0-60.295 0L81.066 44.153a70.033 70.033 0 0 1 0 138.319l31.625 31.655a42.54 42.54 0 0 0 46.47 9.271a42.5 42.5 0 0 0 13.825-9.271l70.577-70.757a42.54 42.54 0 0 0 0-60.115M80.1 45.117l.965-.964a70.033 70.033 0 1 0 0 138.318l-.965-.964a96.474 96.474 0 0 1 0-136.39");
+}
+</style><path class="o46pyy1-j"/>`,
+		"fallback": "logos:tapcart-icon",
+	});
+}
+
+export default Component;

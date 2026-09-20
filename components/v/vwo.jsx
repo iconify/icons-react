@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":512,"height":170};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.c-xlrnb7i {
+  fill: var(--svg-color--802050, #802050);
+  d: path("m171.083 88.274l14.467-25.043l32.708 55.72l37.737-64.484l37.738 64.485L358.52 9.39C361.665 3.756 367.955 0 374.874 0h18.24l-99.38 169.036l-37.737-64.485l-37.74 64.485z");
+}
+
+.hnj6f0b6y {
+  fill: var(--svg-color--26134d, #26134d);
+  d: path("M198.13 0L98.752 169.036L0 0h18.24c6.919 0 13.21 3.756 16.354 9.39l64.157 110.187L163.536 9.39C166.681 3.756 172.97 0 179.89 0z");
+}
+
+.ildzu3oir {
+  fill: var(--svg-color--bf3078, #bf3078);
+  d: path("M427.709 0c-3.145 0-6.919 0-10.064.627l-18.24 31.929c8.176-5.01 18.24-7.513 28.304-7.513c32.707 0 59.753 26.92 59.753 59.475s-27.046 59.475-59.753 59.475s-59.125-26.294-59.754-58.848l-18.869 31.929c12.58 30.675 43.4 51.962 77.994 51.962c46.545 0 84.913-38.19 84.913-84.518C512.623 38.19 474.253 0 427.709 0");
+}
+</style><path class="ildzu3oir"/><path class="c-xlrnb7i"/><path class="hnj6f0b6y"/>`,
+		"fallback": "logos:vwo",
+	});
+}
+
+export default Component;

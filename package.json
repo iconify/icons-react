@@ -1,0 +1,2311 @@
+{
+  "name": "@iconify-react/roentgen",
+  "type": "module",
+  "version": "1.0.18",
+  "homepage": "https://icon-sets.iconify.design/roentgen/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "CC-BY-4.0",
+  "exports": {
+    "./acorn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acorn.jsx"
+    },
+    "./advertising-column": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/advertising-column.jsx"
+    },
+    "./advertising-totem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/advertising-totem.jsx"
+    },
+    "./amphora": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amphora.jsx"
+    },
+    "./amusement-ride": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amusement-ride.jsx"
+    },
+    "./anchor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor.jsx"
+    },
+    "./apartments-1-story": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-1-story.jsx"
+    },
+    "./apartments-1-story-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-1-story-gabled-roof.jsx"
+    },
+    "./apartments-1-story-skillion-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-1-story-skillion-roof.jsx"
+    },
+    "./apartments-2-story": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-2-story.jsx"
+    },
+    "./apartments-2-story-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-2-story-gabled-roof.jsx"
+    },
+    "./apartments-2-story-skillion-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-2-story-skillion-roof.jsx"
+    },
+    "./apartments-3-story": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-3-story.jsx"
+    },
+    "./apartments-3-story-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-3-story-gabled-roof.jsx"
+    },
+    "./apartments-3-story-skillion-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-3-story-skillion-roof.jsx"
+    },
+    "./apartments-4-story": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-4-story.jsx"
+    },
+    "./apartments-4-story-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-4-story-gabled-roof.jsx"
+    },
+    "./apartments-4-story-skillion-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-4-story-skillion-roof.jsx"
+    },
+    "./apartments-5-story": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-5-story.jsx"
+    },
+    "./apartments-5-story-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-5-story-gabled-roof.jsx"
+    },
+    "./apartments-5-story-skillion-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apartments-5-story-skillion-roof.jsx"
+    },
+    "./apple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple.jsx"
+    },
+    "./arrow-backward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-backward.jsx"
+    },
+    "./arrow-forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-forward.jsx"
+    },
+    "./aseptic-carton": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aseptic-carton.jsx"
+    },
+    "./at-in-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-in-square.jsx"
+    },
+    "./atm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atm.jsx"
+    },
+    "./bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag.jsx"
+    },
+    "./bag-with-percent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-with-percent.jsx"
+    },
+    "./baptist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baptist.jsx"
+    },
+    "./barrier-jersey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barrier-jersey.jsx"
+    },
+    "./bbq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bbq.jsx"
+    },
+    "./beach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beach.jsx"
+    },
+    "./bed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed.jsx"
+    },
+    "./bed-and-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed-and-roof.jsx"
+    },
+    "./bed-with-floor-and-ceiling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed-with-floor-and-ceiling.jsx"
+    },
+    "./bee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bee.jsx"
+    },
+    "./beer-mug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beer-mug.jsx"
+    },
+    "./bench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench.jsx"
+    },
+    "./bench-backrest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-backrest.jsx"
+    },
+    "./bench-no-backrest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-no-backrest.jsx"
+    },
+    "./bench-with-inscription": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-with-inscription.jsx"
+    },
+    "./bench-with-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-with-shelter.jsx"
+    },
+    "./bench-with-statue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-with-statue.jsx"
+    },
+    "./betula": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/betula.jsx"
+    },
+    "./betula-bottom-right-horizontal-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/betula-bottom-right-horizontal-line.jsx"
+    },
+    "./betula-urban-tree-pot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/betula-urban-tree-pot.jsx"
+    },
+    "./bicycle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle.jsx"
+    },
+    "./bicycle-key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-key.jsx"
+    },
+    "./bicycle-p-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-p-small.jsx"
+    },
+    "./bicycle-parking-rack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-parking-rack.jsx"
+    },
+    "./bicycle-parking-stand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-parking-stand.jsx"
+    },
+    "./bicycle-parking-wall-loops": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-parking-wall-loops.jsx"
+    },
+    "./bicycle-plug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-plug.jsx"
+    },
+    "./bicycle-wrench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-wrench.jsx"
+    },
+    "./bicycle-x-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-x-4.jsx"
+    },
+    "./billboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/billboard.jsx"
+    },
+    "./binoculars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binoculars.jsx"
+    },
+    "./binoculars-on-pole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binoculars-on-pole.jsx"
+    },
+    "./bleachers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bleachers.jsx"
+    },
+    "./block": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/block.jsx"
+    },
+    "./bollard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bollard.jsx"
+    },
+    "./book": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book.jsx"
+    },
+    "./books": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/books.jsx"
+    },
+    "./booster-landing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/booster-landing.jsx"
+    },
+    "./bottle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bottle.jsx"
+    },
+    "./bottle-and-wine-glass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bottle-and-wine-glass.jsx"
+    },
+    "./bowling-ball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowling-ball.jsx"
+    },
+    "./breakwater": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/breakwater.jsx"
+    },
+    "./bricks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bricks.jsx"
+    },
+    "./briefcase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase.jsx"
+    },
+    "./buffer-stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buffer-stop.jsx"
+    },
+    "./building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building.jsx"
+    },
+    "./building-bolt-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-bolt-door.jsx"
+    },
+    "./building-construction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-construction.jsx"
+    },
+    "./building-container": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-container.jsx"
+    },
+    "./building-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-door.jsx"
+    },
+    "./building-drop-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-drop-door.jsx"
+    },
+    "./building-part": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-part.jsx"
+    },
+    "./building-with-plant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-with-plant.jsx"
+    },
+    "./bump": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bump.jsx"
+    },
+    "./buoy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buoy.jsx"
+    },
+    "./burger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/burger.jsx"
+    },
+    "./bus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus.jsx"
+    },
+    "./bus-over-bus-trap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-over-bus-trap.jsx"
+    },
+    "./bus-stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop.jsx"
+    },
+    "./bus-stop-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-sign.jsx"
+    },
+    "./bus-stop-sign-bus-stop-bench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-sign-bus-stop-bench.jsx"
+    },
+    "./bus-stop-sign-bus-stop-bench-bus-stop-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-sign-bus-stop-bench-bus-stop-shelter.jsx"
+    },
+    "./bus-stop-sign-bus-stop-bench-platform-bus-stop-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-sign-bus-stop-bench-platform-bus-stop-shelter.jsx"
+    },
+    "./bus-stop-sign-bus-stop-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-sign-bus-stop-shelter.jsx"
+    },
+    "./bus-stop-sign-platform-bus-stop-bench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-sign-platform-bus-stop-bench.jsx"
+    },
+    "./bus-stop-sign-platform-bus-stop-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-stop-sign-platform-bus-stop-shelter.jsx"
+    },
+    "./buses": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buses.jsx"
+    },
+    "./bush": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bush.jsx"
+    },
+    "./cable-barrier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cable-barrier.jsx"
+    },
+    "./cactus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cactus.jsx"
+    },
+    "./camp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camp.jsx"
+    },
+    "./cannon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cannon.jsx"
+    },
+    "./car": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car.jsx"
+    },
+    "./car-bed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-bed.jsx"
+    },
+    "./car-car": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-car.jsx"
+    },
+    "./car-key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-key.jsx"
+    },
+    "./car-on-ferry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-on-ferry.jsx"
+    },
+    "./car-sharing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-sharing.jsx"
+    },
+    "./car-shower-head": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-shower-head.jsx"
+    },
+    "./car-wrench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-wrench.jsx"
+    },
+    "./caravan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caravan.jsx"
+    },
+    "./card-and-dice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/card-and-dice.jsx"
+    },
+    "./cave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cave.jsx"
+    },
+    "./cctv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cctv.jsx"
+    },
+    "./cctv-dome-ceiling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cctv-dome-ceiling.jsx"
+    },
+    "./cctv-dome-wall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cctv-dome-wall.jsx"
+    },
+    "./chain-barrier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chain-barrier.jsx"
+    },
+    "./charging-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-station.jsx"
+    },
+    "./chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chimney.jsx"
+    },
+    "./christmas-tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/christmas-tree.jsx"
+    },
+    "./circle-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-11.jsx"
+    },
+    "./circle-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-3.jsx"
+    },
+    "./circle-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-4.jsx"
+    },
+    "./circle-9": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-9.jsx"
+    },
+    "./circle-empty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-empty.jsx"
+    },
+    "./circle-with-dot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-with-dot.jsx"
+    },
+    "./city-gate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/city-gate.jsx"
+    },
+    "./city-limit-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/city-limit-sign.jsx"
+    },
+    "./cliff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cliff.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./clock-support-column": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-support-column.jsx"
+    },
+    "./clock-support-pole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-support-pole.jsx"
+    },
+    "./clock-support-wall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-support-wall.jsx"
+    },
+    "./clockwise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clockwise.jsx"
+    },
+    "./cocktail-glass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cocktail-glass.jsx"
+    },
+    "./cocktail-glass-with-straw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cocktail-glass-with-straw.jsx"
+    },
+    "./coffee-cup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffee-cup.jsx"
+    },
+    "./comb-and-scissors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comb-and-scissors.jsx"
+    },
+    "./compass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass.jsx"
+    },
+    "./compass-rose": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-rose.jsx"
+    },
+    "./connector-chademo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-chademo.jsx"
+    },
+    "./connector-schuko": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-schuko.jsx"
+    },
+    "./connector-tesla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-tesla.jsx"
+    },
+    "./connector-type-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-type-1.jsx"
+    },
+    "./connector-type-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-type-2.jsx"
+    },
+    "./connector-type-e": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-type-e.jsx"
+    },
+    "./counterclockwise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/counterclockwise.jsx"
+    },
+    "./crane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crane.jsx"
+    },
+    "./crane-gantry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crane-gantry.jsx"
+    },
+    "./crane-portal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crane-portal.jsx"
+    },
+    "./crane-travel-lift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crane-travel-lift.jsx"
+    },
+    "./crater": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crater.jsx"
+    },
+    "./credit-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card.jsx"
+    },
+    "./crescent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crescent.jsx"
+    },
+    "./cross-and-horizontal-bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross-and-horizontal-bar.jsx"
+    },
+    "./crossing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crossing.jsx"
+    },
+    "./cupcake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cupcake.jsx"
+    },
+    "./curtains": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curtains.jsx"
+    },
+    "./czech-hedgehog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/czech-hedgehog.jsx"
+    },
+    "./dam": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dam.jsx"
+    },
+    "./dead-tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dead-tree.jsx"
+    },
+    "./default": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/default.jsx"
+    },
+    "./default-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/default-small.jsx"
+    },
+    "./defibrillator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/defibrillator.jsx"
+    },
+    "./descent-stage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/descent-stage.jsx"
+    },
+    "./dharmachakra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dharmachakra.jsx"
+    },
+    "./diamond": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diamond.jsx"
+    },
+    "./digital-clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digital-clock.jsx"
+    },
+    "./dip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dip.jsx"
+    },
+    "./diving-1-platforms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diving-1-platforms.jsx"
+    },
+    "./diving-2-platforms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diving-2-platforms.jsx"
+    },
+    "./diving-3-platforms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diving-3-platforms.jsx"
+    },
+    "./diving-4-platforms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diving-4-platforms.jsx"
+    },
+    "./dog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog.jsx"
+    },
+    "./dog-and-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog-and-cross.jsx"
+    },
+    "./dollar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar.jsx"
+    },
+    "./door-with-keyhole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/door-with-keyhole.jsx"
+    },
+    "./double-dip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-dip.jsx"
+    },
+    "./double-folded-paper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-folded-paper.jsx"
+    },
+    "./dragons-teeth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dragons-teeth.jsx"
+    },
+    "./drawer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drawer.jsx"
+    },
+    "./drinking-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-water.jsx"
+    },
+    "./dumbbell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumbbell.jsx"
+    },
+    "./ear-botany": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ear-botany.jsx"
+    },
+    "./ear-botany-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ear-botany-2.jsx"
+    },
+    "./electricity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/electricity.jsx"
+    },
+    "./elevator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator.jsx"
+    },
+    "./engine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/engine.jsx"
+    },
+    "./entrance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/entrance.jsx"
+    },
+    "./envelope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope.jsx"
+    },
+    "./exchange": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exchange.jsx"
+    },
+    "./exchange-dollar-pound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exchange-dollar-pound.jsx"
+    },
+    "./exit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exit.jsx"
+    },
+    "./film": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film.jsx"
+    },
+    "./fire-extinguisher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-extinguisher.jsx"
+    },
+    "./fire-hydrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-hydrant.jsx"
+    },
+    "./fire-pit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-pit.jsx"
+    },
+    "./fireplace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fireplace.jsx"
+    },
+    "./fishing-angle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fishing-angle.jsx"
+    },
+    "./flag-bend-sinister": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-bend-sinister.jsx"
+    },
+    "./flag-triangle-flanche": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-triangle-flanche.jsx"
+    },
+    "./flag-usa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-usa.jsx"
+    },
+    "./flag-vertical-triband": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-vertical-triband.jsx"
+    },
+    "./flagpole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flagpole.jsx"
+    },
+    "./flower-in-pot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flower-in-pot.jsx"
+    },
+    "./food-court": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/food-court.jsx"
+    },
+    "./foot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/foot.jsx"
+    },
+    "./ford": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/ford.jsx"
+    },
+    "./fork-and-knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork-and-knife.jsx"
+    },
+    "./fort": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fort.jsx"
+    },
+    "./fountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain.jsx"
+    },
+    "./fountain-bubbler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain-bubbler.jsx"
+    },
+    "./fountain-cascade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain-cascade.jsx"
+    },
+    "./fountain-roman-wolf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain-roman-wolf.jsx"
+    },
+    "./fountain-toret": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fountain-toret.jsx"
+    },
+    "./frame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame.jsx"
+    },
+    "./free": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/free.jsx"
+    },
+    "./fuel-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fuel-station.jsx"
+    },
+    "./full-height-turnstile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/full-height-turnstile.jsx"
+    },
+    "./garage-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garage-door.jsx"
+    },
+    "./garages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garages.jsx"
+    },
+    "./gate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gate.jsx"
+    },
+    "./gavel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gavel.jsx"
+    },
+    "./gazette": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gazette.jsx"
+    },
+    "./gift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift.jsx"
+    },
+    "./glasses": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glasses.jsx"
+    },
+    "./glider": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glider.jsx"
+    },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./golf-club-and-ball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golf-club-and-ball.jsx"
+    },
+    "./golf-pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golf-pin.jsx"
+    },
+    "./golf-tee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golf-tee.jsx"
+    },
+    "./government": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/government.jsx"
+    },
+    "./grapes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grapes.jsx"
+    },
+    "./grapes-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grapes-2.jsx"
+    },
+    "./grapes-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grapes-3.jsx"
+    },
+    "./greek-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/greek-cross.jsx"
+    },
+    "./greek-cross-in-box": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/greek-cross-in-box.jsx"
+    },
+    "./guidepost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guidepost.jsx"
+    },
+    "./h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h.jsx"
+    },
+    "./hanger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hanger.jsx"
+    },
+    "./hazelnut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hazelnut.jsx"
+    },
+    "./hazelnut-with-leaves": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hazelnut-with-leaves.jsx"
+    },
+    "./hi-fi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hi-fi.jsx"
+    },
+    "./historic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/historic.jsx"
+    },
+    "./hopscotch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hopscotch.jsx"
+    },
+    "./horizontal-bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horizontal-bar.jsx"
+    },
+    "./horizontal-ladder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horizontal-ladder.jsx"
+    },
+    "./houseboat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/houseboat.jsx"
+    },
+    "./human": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/human.jsx"
+    },
+    "./human-on-ferry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/human-on-ferry.jsx"
+    },
+    "./hump": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hump.jsx"
+    },
+    "./hunting-stand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hunting-stand.jsx"
+    },
+    "./i": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i.jsx"
+    },
+    "./i-in-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-in-square.jsx"
+    },
+    "./i-in-square-support-column": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-in-square-support-column.jsx"
+    },
+    "./i-in-square-support-pole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-in-square-support-pole.jsx"
+    },
+    "./i-in-square-support-wall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-in-square-support-wall.jsx"
+    },
+    "./ice-cream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-cream.jsx"
+    },
+    "./ice-cream-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-cream-2.jsx"
+    },
+    "./japan-castle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-castle.jsx"
+    },
+    "./japan-court": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-court.jsx"
+    },
+    "./japan-elementary-school": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-elementary-school.jsx"
+    },
+    "./japan-fire-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-fire-station.jsx"
+    },
+    "./japan-forest-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-forest-service.jsx"
+    },
+    "./japan-historic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-historic.jsx"
+    },
+    "./japan-koban": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-koban.jsx"
+    },
+    "./japan-police-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-police-station.jsx"
+    },
+    "./japan-post": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-post.jsx"
+    },
+    "./japan-public-health-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-public-health-center.jsx"
+    },
+    "./japan-shinto-shrine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-shinto-shrine.jsx"
+    },
+    "./japan-tv-tower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-tv-tower.jsx"
+    },
+    "./japan-weather-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-weather-station.jsx"
+    },
+    "./japan-well": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/japan-well.jsx"
+    },
+    "./kerb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kerb.jsx"
+    },
+    "./kiosk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kiosk.jsx"
+    },
+    "./knives": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knives.jsx"
+    },
+    "./lander": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lander.jsx"
+    },
+    "./latin-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latin-cross.jsx"
+    },
+    "./lattice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice.jsx"
+    },
+    "./lattice-dish-antenna-left-dish-antenna-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-dish-antenna-left-dish-antenna-right.jsx"
+    },
+    "./lattice-guyed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-guyed.jsx"
+    },
+    "./lattice-guyed-dish-antenna-left-dish-antenna-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-guyed-dish-antenna-left-dish-antenna-right.jsx"
+    },
+    "./lattice-guyed-light-left-light-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-guyed-light-left-light-right.jsx"
+    },
+    "./lattice-guyed-siren-left-siren-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-guyed-siren-left-siren-right.jsx"
+    },
+    "./lattice-guyed-wave-left-wave-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-guyed-wave-left-wave-right.jsx"
+    },
+    "./lattice-light-left-light-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-light-left-light-right.jsx"
+    },
+    "./lattice-siren-left-siren-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-siren-left-siren-right.jsx"
+    },
+    "./lattice-wave-left-wave-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lattice-wave-left-wave-right.jsx"
+    },
+    "./leaf-maple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leaf-maple.jsx"
+    },
+    "./life-ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/life-ring.jsx"
+    },
+    "./lift-gate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lift-gate.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./lock-unlocked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-unlocked.jsx"
+    },
+    "./lock-with-keyhole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-with-keyhole.jsx"
+    },
+    "./log-lying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log-lying.jsx"
+    },
+    "./low-horizontal-bars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/low-horizontal-bars.jsx"
+    },
+    "./lowered-kerb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lowered-kerb.jsx"
+    },
+    "./lunokhod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lunokhod.jsx"
+    },
+    "./maglev": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maglev.jsx"
+    },
+    "./main-entrance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/main-entrance.jsx"
+    },
+    "./manhole-drain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/manhole-drain.jsx"
+    },
+    "./marketplace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marketplace.jsx"
+    },
+    "./massage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/massage.jsx"
+    },
+    "./mausoleum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mausoleum.jsx"
+    },
+    "./maze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maze.jsx"
+    },
+    "./maze-arrow-right-short": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maze-arrow-right-short.jsx"
+    },
+    "./medicine-bottle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medicine-bottle.jsx"
+    },
+    "./memorial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memorial.jsx"
+    },
+    "./microphone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone.jsx"
+    },
+    "./milestone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/milestone.jsx"
+    },
+    "./millstone-with-furrows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/millstone-with-furrows.jsx"
+    },
+    "./minaret": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minaret.jsx"
+    },
+    "./mini-bumps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mini-bumps.jsx"
+    },
+    "./money": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money.jsx"
+    },
+    "./monorail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monorail.jsx"
+    },
+    "./monument": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monument.jsx"
+    },
+    "./narrow-gauge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/narrow-gauge.jsx"
+    },
+    "./needleleaved-tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/needleleaved-tree.jsx"
+    },
+    "./needleleaved-tree-bottom-right-horizontal-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/needleleaved-tree-bottom-right-horizontal-line.jsx"
+    },
+    "./needleleaved-tree-urban-tree-pot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/needleleaved-tree-urban-tree-pot.jsx"
+    },
+    "./no-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-door.jsx"
+    },
+    "./no-foot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-foot.jsx"
+    },
+    "./no-traffic-signals": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-traffic-signals.jsx"
+    },
+    "./no-wheelchair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-wheelchair.jsx"
+    },
+    "./oat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oat.jsx"
+    },
+    "./oat-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oat-2.jsx"
+    },
+    "./obelisk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/obelisk.jsx"
+    },
+    "./observatory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/observatory.jsx"
+    },
+    "./onion-roof-shape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/onion-roof-shape.jsx"
+    },
+    "./orbiter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orbiter.jsx"
+    },
+    "./orthodox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orthodox.jsx"
+    },
+    "./p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p.jsx"
+    },
+    "./p-arrow-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p-arrow-down.jsx"
+    },
+    "./p-arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p-arrow-right.jsx"
+    },
+    "./p-arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p-arrow-up.jsx"
+    },
+    "./p-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p-small.jsx"
+    },
+    "./p-small-bicycle-parking-rack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p-small-bicycle-parking-rack.jsx"
+    },
+    "./p-small-bicycle-parking-stand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p-small-bicycle-parking-stand.jsx"
+    },
+    "./p-small-bicycle-parking-wall-loops": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p-small-bicycle-parking-wall-loops.jsx"
+    },
+    "./pac-man": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pac-man.jsx"
+    },
+    "./pagoda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pagoda.jsx"
+    },
+    "./palm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palm.jsx"
+    },
+    "./palm-bottom-right-horizontal-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palm-bottom-right-horizontal-line.jsx"
+    },
+    "./palm-urban-tree-pot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palm-urban-tree-pot.jsx"
+    },
+    "./pan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pan.jsx"
+    },
+    "./pan-and-spoon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pan-and-spoon.jsx"
+    },
+    "./peach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/peach.jsx"
+    },
+    "./pear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pear.jsx"
+    },
+    "./person-bungee-jumping": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-bungee-jumping.jsx"
+    },
+    "./person-throwing-spear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-throwing-spear.jsx"
+    },
+    "./phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone.jsx"
+    },
+    "./photo-camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photo-camera.jsx"
+    },
+    "./picture": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picture.jsx"
+    },
+    "./pillar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pillar.jsx"
+    },
+    "./pipeline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pipeline.jsx"
+    },
+    "./plane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plane.jsx"
+    },
+    "./planet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/planet.jsx"
+    },
+    "./planet-with-stars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/planet-with-stars.jsx"
+    },
+    "./plaque": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plaque.jsx"
+    },
+    "./pole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pole.jsx"
+    },
+    "./pole-dancer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pole-dancer.jsx"
+    },
+    "./pole-lamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pole-lamp.jsx"
+    },
+    "./pound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pound.jsx"
+    },
+    "./power-generator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-generator.jsx"
+    },
+    "./power-pole-1-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-1-level.jsx"
+    },
+    "./power-pole-2-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-2-level.jsx"
+    },
+    "./power-pole-3-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-3-level.jsx"
+    },
+    "./power-pole-4-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-4-level.jsx"
+    },
+    "./power-pole-asymmetric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-asymmetric.jsx"
+    },
+    "./power-pole-asymmetric-armless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-asymmetric-armless.jsx"
+    },
+    "./power-pole-delta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-delta.jsx"
+    },
+    "./power-pole-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-flag.jsx"
+    },
+    "./power-pole-flag-armless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-flag-armless.jsx"
+    },
+    "./power-pole-triangle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-triangle.jsx"
+    },
+    "./power-pole-triangle-armless": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-pole-triangle-armless.jsx"
+    },
+    "./power-tower-1-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-1-level.jsx"
+    },
+    "./power-tower-2-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-2-level.jsx"
+    },
+    "./power-tower-3-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-3-level.jsx"
+    },
+    "./power-tower-4-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-4-level.jsx"
+    },
+    "./power-tower-asymmetric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-asymmetric.jsx"
+    },
+    "./power-tower-barrel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-barrel.jsx"
+    },
+    "./power-tower-barrel-1-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-barrel-1-level.jsx"
+    },
+    "./power-tower-delta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-delta.jsx"
+    },
+    "./power-tower-delta-2-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-delta-2-level.jsx"
+    },
+    "./power-tower-delta-3-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-delta-3-level.jsx"
+    },
+    "./power-tower-donau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-donau.jsx"
+    },
+    "./power-tower-donau-1-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-donau-1-level.jsx"
+    },
+    "./power-tower-donau-inverse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-donau-inverse.jsx"
+    },
+    "./power-tower-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-flag.jsx"
+    },
+    "./power-tower-guyed-h-frame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-guyed-h-frame.jsx"
+    },
+    "./power-tower-guyed-v-frame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-guyed-v-frame.jsx"
+    },
+    "./power-tower-h-frame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-h-frame.jsx"
+    },
+    "./power-tower-h-frame-2-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-h-frame-2-level.jsx"
+    },
+    "./power-tower-h-frame-3-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-h-frame-3-level.jsx"
+    },
+    "./power-tower-monopolar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-monopolar.jsx"
+    },
+    "./power-tower-portal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-portal.jsx"
+    },
+    "./power-tower-portal-2-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-portal-2-level.jsx"
+    },
+    "./power-tower-portal-3-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-portal-3-level.jsx"
+    },
+    "./power-tower-triangle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-triangle.jsx"
+    },
+    "./power-tower-x-frame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-x-frame.jsx"
+    },
+    "./power-tower-y-frame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-tower-y-frame.jsx"
+    },
+    "./prison": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prison.jsx"
+    },
+    "./probe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/probe.jsx"
+    },
+    "./pyramid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pyramid.jsx"
+    },
+    "./rails": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rails.jsx"
+    },
+    "./rails-with-derailer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rails-with-derailer.jsx"
+    },
+    "./rape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rape.jsx"
+    },
+    "./rape-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rape-2.jsx"
+    },
+    "./rectangle-vertical-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-vertical-rounded.jsx"
+    },
+    "./rectangle-vertical-rounded-crossed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-vertical-rounded-crossed.jsx"
+    },
+    "./recycling-container": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/recycling-container.jsx"
+    },
+    "./rings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rings.jsx"
+    },
+    "./rocket-flying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-flying.jsx"
+    },
+    "./rocket-on-launch-pad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-on-launch-pad.jsx"
+    },
+    "./rope-barrier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rope-barrier.jsx"
+    },
+    "./roundabout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roundabout.jsx"
+    },
+    "./rumble-strip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rumble-strip.jsx"
+    },
+    "./russian-orthodox-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/russian-orthodox-cross.jsx"
+    },
+    "./saddle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saddle.jsx"
+    },
+    "./sandpit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sandpit.jsx"
+    },
+    "./sauna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sauna.jsx"
+    },
+    "./seesaw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/seesaw.jsx"
+    },
+    "./sharing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sharing.jsx"
+    },
+    "./sheets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sheets.jsx"
+    },
+    "./shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shelter.jsx"
+    },
+    "./shield-volcano": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-volcano.jsx"
+    },
+    "./shield-volcano-lava": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-volcano-lava.jsx"
+    },
+    "./shield-volcano-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-volcano-smoke.jsx"
+    },
+    "./shield-volcano-smoke-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-volcano-smoke-2.jsx"
+    },
+    "./shoe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shoe.jsx"
+    },
+    "./shop-convenience": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-convenience.jsx"
+    },
+    "./shower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shower.jsx"
+    },
+    "./side-mirror": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/side-mirror.jsx"
+    },
+    "./signal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal.jsx"
+    },
+    "./sinking-ship": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sinking-ship.jsx"
+    },
+    "./sit-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sit-up.jsx"
+    },
+    "./skateboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skateboard.jsx"
+    },
+    "./slide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slide.jsx"
+    },
+    "./slide-and-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slide-and-water.jsx"
+    },
+    "./solar-panel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solar-panel.jsx"
+    },
+    "./sos-phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sos-phone.jsx"
+    },
+    "./spray-can": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spray-can.jsx"
+    },
+    "./spray-can-spraying": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spray-can-spraying.jsx"
+    },
+    "./spring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spring.jsx"
+    },
+    "./stained-glass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stained-glass.jsx"
+    },
+    "./staircase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/staircase.jsx"
+    },
+    "./star-of-david": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-of-david.jsx"
+    },
+    "./statue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statue.jsx"
+    },
+    "./statue-exhibit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statue-exhibit.jsx"
+    },
+    "./steak-and-fork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steak-and-fork.jsx"
+    },
+    "./stone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stone.jsx"
+    },
+    "./stone-with-inscription": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stone-with-inscription.jsx"
+    },
+    "./stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop.jsx"
+    },
+    "./stratovolcano": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stratovolcano.jsx"
+    },
+    "./stratovolcano-lava": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stratovolcano-lava.jsx"
+    },
+    "./stratovolcano-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stratovolcano-smoke.jsx"
+    },
+    "./stratovolcano-smoke-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stratovolcano-smoke-2.jsx"
+    },
+    "./street-cabinet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/street-cabinet.jsx"
+    },
+    "./street-cabinet-bolt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/street-cabinet-bolt.jsx"
+    },
+    "./street-cabinet-drop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/street-cabinet-drop.jsx"
+    },
+    "./street-lamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/street-lamp.jsx"
+    },
+    "./stupa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stupa.jsx"
+    },
+    "./sunflower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sunflower.jsx"
+    },
+    "./supermarket-cart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supermarket-cart.jsx"
+    },
+    "./survey-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/survey-point.jsx"
+    },
+    "./suspension-railway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/suspension-railway.jsx"
+    },
+    "./swimming-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swimming-area.jsx"
+    },
+    "./t": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/t.jsx"
+    },
+    "./t-shirt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/t-shirt.jsx"
+    },
+    "./t-shirt-and-scissors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/t-shirt-and-scissors.jsx"
+    },
+    "./table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table.jsx"
+    },
+    "./table-and-two-chairs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-and-two-chairs.jsx"
+    },
+    "./table-and-two-chairs-awning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-and-two-chairs-awning.jsx"
+    },
+    "./table-and-two-chairs-pergola": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-and-two-chairs-pergola.jsx"
+    },
+    "./table-and-two-chairs-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-and-two-chairs-roof.jsx"
+    },
+    "./table-and-two-chairs-roof-and-walls": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-and-two-chairs-roof-and-walls.jsx"
+    },
+    "./table-and-two-chairs-umbrella": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-and-two-chairs-umbrella.jsx"
+    },
+    "./tactile-map": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tactile-map.jsx"
+    },
+    "./tactile-paving": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tactile-paving.jsx"
+    },
+    "./tactile-paving-x-5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tactile-paving-x-5.jsx"
+    },
+    "./taxi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taxi.jsx"
+    },
+    "./telephone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telephone.jsx"
+    },
+    "./telescope-gamma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-gamma.jsx"
+    },
+    "./telescope-radio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-radio.jsx"
+    },
+    "./third-stage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/third-stage.jsx"
+    },
+    "./ticket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ticket.jsx"
+    },
+    "./toilet-bowl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilet-bowl.jsx"
+    },
+    "./toll-booth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toll-booth.jsx"
+    },
+    "./tomb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tomb.jsx"
+    },
+    "./tooth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tooth.jsx"
+    },
+    "./torch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/torch.jsx"
+    },
+    "./toucan-crossing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toucan-crossing.jsx"
+    },
+    "./tower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tower.jsx"
+    },
+    "./tower-communication": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tower-communication.jsx"
+    },
+    "./tower-cooling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tower-cooling.jsx"
+    },
+    "./tower-defensive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tower-defensive.jsx"
+    },
+    "./tower-observation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tower-observation.jsx"
+    },
+    "./townhall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/townhall.jsx"
+    },
+    "./toy-horse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toy-horse.jsx"
+    },
+    "./traffic-cushion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traffic-cushion.jsx"
+    },
+    "./traffic-signals": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traffic-signals.jsx"
+    },
+    "./traffic-table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traffic-table.jsx"
+    },
+    "./train": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/train.jsx"
+    },
+    "./tram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tram.jsx"
+    },
+    "./transformer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transformer.jsx"
+    },
+    "./tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree.jsx"
+    },
+    "./tree-bottom-right-horizontal-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-bottom-right-horizontal-line.jsx"
+    },
+    "./tree-urban-tree-pot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-urban-tree-pot.jsx"
+    },
+    "./tree-with-leaf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-with-leaf.jsx"
+    },
+    "./tree-with-leaf-bottom-right-horizontal-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-with-leaf-bottom-right-horizontal-line.jsx"
+    },
+    "./tree-with-leaf-urban-tree-pot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-with-leaf-urban-tree-pot.jsx"
+    },
+    "./triangle-down-hollow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-down-hollow.jsx"
+    },
+    "./triangle-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-small.jsx"
+    },
+    "./trolleybus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trolleybus.jsx"
+    },
+    "./tube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube.jsx"
+    },
+    "./tube-dish-antenna-left-dish-antenna-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-dish-antenna-left-dish-antenna-right.jsx"
+    },
+    "./tube-guyed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-guyed.jsx"
+    },
+    "./tube-guyed-dish-antenna-left-dish-antenna-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-guyed-dish-antenna-left-dish-antenna-right.jsx"
+    },
+    "./tube-guyed-light-left-light-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-guyed-light-left-light-right.jsx"
+    },
+    "./tube-guyed-siren-left-siren-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-guyed-siren-left-siren-right.jsx"
+    },
+    "./tube-guyed-wave-left-wave-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-guyed-wave-left-wave-right.jsx"
+    },
+    "./tube-light-left-light-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-light-left-light-right.jsx"
+    },
+    "./tube-siren-left-siren-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-siren-left-siren-right.jsx"
+    },
+    "./tube-wave-left-wave-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tube-wave-left-wave-right.jsx"
+    },
+    "./tumulus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumulus.jsx"
+    },
+    "./turning-loop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turning-loop.jsx"
+    },
+    "./turnstile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turnstile.jsx"
+    },
+    "./tv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tv.jsx"
+    },
+    "./two-beds": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/two-beds.jsx"
+    },
+    "./two-people-together": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/two-people-together.jsx"
+    },
+    "./tyre": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tyre.jsx"
+    },
+    "./vanity-mirror": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vanity-mirror.jsx"
+    },
+    "./vending-angle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-angle.jsx"
+    },
+    "./vending-bottle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-bottle.jsx"
+    },
+    "./vending-bottle-upside-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-bottle-upside-down.jsx"
+    },
+    "./vending-candles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-candles.jsx"
+    },
+    "./vending-candy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-candy.jsx"
+    },
+    "./vending-chemist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-chemist.jsx"
+    },
+    "./vending-drop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-drop.jsx"
+    },
+    "./vending-excrement-bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-excrement-bag.jsx"
+    },
+    "./vending-flower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-flower.jsx"
+    },
+    "./vending-ice-cream-cone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-ice-cream-cone.jsx"
+    },
+    "./vending-ice-cream-stick": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-ice-cream-stick.jsx"
+    },
+    "./vending-lollipop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-lollipop.jsx"
+    },
+    "./vending-machine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-machine.jsx"
+    },
+    "./vending-p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-p.jsx"
+    },
+    "./vending-pack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-pack.jsx"
+    },
+    "./vending-pizza": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-pizza.jsx"
+    },
+    "./vending-tickets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vending-tickets.jsx"
+    },
+    "./ventilation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/ventilation.jsx"
+    },
+    "./volcanic-cone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volcanic-cone.jsx"
+    },
+    "./volcanic-cone-lava": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volcanic-cone-lava.jsx"
+    },
+    "./volcanic-cone-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volcanic-cone-smoke.jsx"
+    },
+    "./volcanic-cone-smoke-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volcanic-cone-smoke-2.jsx"
+    },
+    "./wall-bars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wall-bars.jsx"
+    },
+    "./washing-machine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/washing-machine.jsx"
+    },
+    "./waste-basket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste-basket.jsx"
+    },
+    "./waste-disposal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waste-disposal.jsx"
+    },
+    "./watches": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watches.jsx"
+    },
+    "./water-from-pipe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/water-from-pipe.jsx"
+    },
+    "./waterfall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waterfall.jsx"
+    },
+    "./waving-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waving-flag.jsx"
+    },
+    "./wayside-shrine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wayside-shrine.jsx"
+    },
+    "./wheelchair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair.jsx"
+    },
+    "./wig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wig.jsx"
+    },
+    "./wig-on-stand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wig-on-stand.jsx"
+    },
+    "./wind-turbine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-turbine.jsx"
+    },
+    "./wlan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wlan.jsx"
+    },
+    "./wlan-free": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wlan-free.jsx"
+    },
+    "./woman-and-man": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/woman-and-man.jsx"
+    },
+    "./wood": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wood.jsx"
+    },
+    "./wrench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrench.jsx"
+    },
+    "./wretch-and-hammer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wretch-and-hammer.jsx"
+    },
+    "./x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x.jsx"
+    },
+    "./x-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-4.jsx"
+    },
+    "./x-5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-5.jsx"
+    },
+    "./y": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/y.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#roentgen"
+}

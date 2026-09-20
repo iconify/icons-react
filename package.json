@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -561,6 +561,10 @@
     "./claude": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/claude.jsx"
+    },
+    "./claudecode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/claudecode.jsx"
     },
     "./clickhouse": {
       "types": "./types/hqrkovbr.d.ts",

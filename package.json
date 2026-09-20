@@ -1,0 +1,167 @@
+{
+  "name": "@iconify-react/k8s",
+  "type": "module",
+  "version": "1.0.1",
+  "homepage": "https://icon-sets.iconify.design/k8s/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "Apache-2.0",
+  "exports": {
+    "./api-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api-server.jsx"
+    },
+    "./cloud-controller-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-controller-manager.jsx"
+    },
+    "./clusterrole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clusterrole.jsx"
+    },
+    "./clusterrolebinding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clusterrolebinding.jsx"
+    },
+    "./configmap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/configmap.jsx"
+    },
+    "./controller-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/controller-manager.jsx"
+    },
+    "./cronjob": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cronjob.jsx"
+    },
+    "./customresourcedefinition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customresourcedefinition.jsx"
+    },
+    "./daemonset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/daemonset.jsx"
+    },
+    "./deployment": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deployment.jsx"
+    },
+    "./endpoints": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/endpoints.jsx"
+    },
+    "./etcd-cluster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/etcd-cluster.jsx"
+    },
+    "./group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group.jsx"
+    },
+    "./horizontalpodautoscaler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horizontalpodautoscaler.jsx"
+    },
+    "./ingress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ingress.jsx"
+    },
+    "./job": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/job.jsx"
+    },
+    "./kube-proxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kube-proxy.jsx"
+    },
+    "./kubelet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubelet.jsx"
+    },
+    "./limitrange": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/limitrange.jsx"
+    },
+    "./namespace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/namespace.jsx"
+    },
+    "./networkpolicy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/networkpolicy.jsx"
+    },
+    "./persistentvolume": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/persistentvolume.jsx"
+    },
+    "./persistentvolumeclaim": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/persistentvolumeclaim.jsx"
+    },
+    "./pod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pod.jsx"
+    },
+    "./podsecuritypolicy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/podsecuritypolicy.jsx"
+    },
+    "./replicaset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replicaset.jsx"
+    },
+    "./resourcequota": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/resourcequota.jsx"
+    },
+    "./role": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/role.jsx"
+    },
+    "./rolebinding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rolebinding.jsx"
+    },
+    "./scheduler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scheduler.jsx"
+    },
+    "./secret": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/secret.jsx"
+    },
+    "./service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/service.jsx"
+    },
+    "./serviceaccount": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/serviceaccount.jsx"
+    },
+    "./statefulset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statefulset.jsx"
+    },
+    "./storageclass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storageclass.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./volume": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume.jsx"
+    },
+    "./worker-node": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/worker-node.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#k8s"
+}

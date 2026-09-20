@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/i/i4n5wplky.css';
+import '../../css/o/ow091_bxo.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path clip-rule="evenodd" class="i4n5wplky"/><path class="ow091_bxo"/>`,
+		"fallback": "token:geni",
+	});
+}
+
+export default Component;

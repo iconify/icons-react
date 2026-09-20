@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/di5491bmb.css';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="di5491bmb"/>`,
+		"fallback": "la:typo3",
+	});
+}
+
+export default Component;

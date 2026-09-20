@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/k/kyvd_y2uw.css';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="kyvd_y2uw"/>`,
+		"fallback": "la:reddit",
+	});
+}
+
+export default Component;

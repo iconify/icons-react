@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.m6yf6ac4p {
+  d: path("M7.5 5.262a2.25 2.25 0 0 0-2.25 2.25v10.317c0 .954.27 1.889.777 2.696l.293.464A3.32 3.32 0 0 1 3 17.67V7.512a4.5 4.5 0 0 1 4.5-4.5h9a4.5 4.5 0 0 1 4.5 4.5v8.977a4.5 4.5 0 0 1-4.5 4.5H9.743a2.25 2.25 0 0 1-2.25-2.25V9.177A1.69 1.69 0 0 1 9.18 7.489h5.625a1.687 1.687 0 0 1 1.688 1.688v5.625a1.69 1.69 0 0 1-1.688 1.687H9.743v2.25H16.5a2.25 2.25 0 0 0 2.25-2.25V7.512a2.25 2.25 0 0 0-2.25-2.25zm2.243 8.977h4.5v-4.5h-4.5z");
+}
+
+.otj1g29tg {
+  stop-color: var(--svg-color--45d693, #45d693);
+}
+
+.werbo0z-f {
+  stop-color: var(--svg-color--26f294, #26f294);
+}
+</style><g class="ft5dv1b6b"><path fill="url(#SVGY2IkTcmU)" class="m6yf6ac4p"/><defs><linearGradient id="SVGY2IkTcmU" x1="12" x2="12" y1="3.012" y2="20.989" gradientUnits="userSpaceOnUse"><stop class="werbo0z-f"/><stop offset="1" class="otj1g29tg"/></linearGradient></defs></g>`,
+		"fallback": "token-branded:part",
+	});
+}
+
+export default Component;

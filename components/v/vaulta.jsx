@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.sca5fxbpd {
+  fill: var(--svg-color--180116, #180116);
+  d: path("M15.272 10.067h-2.441a.36.36 0 0 0-.256.106l-5.622 5.628h-3.66v-5.42L5.47 8.199v6.042h.31l5.682-5.686c.227-.228.535-.356.857-.356h2.953zm6.02-1.868h-3.66l-5.621 5.628a.36.36 0 0 1-.256.106H9.314v1.868h2.95c.324 0 .634-.129.862-.357l5.679-5.685h.311v5.105h-3.507v.937h3.507l.323-.324l.302-.302l1.552-1.556z");
+}
+</style><path class="sca5fxbpd"/>`,
+		"fallback": "token-branded:vaulta",
+	});
+}
+
+export default Component;

@@ -1,0 +1,36 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.e2jk00bxh {
+  fill: var(--svg-color--2ab643, #2ab643);
+  d: path("M4.721 6.91L8.096 3l5.108 1.074l1.57 4.54l4.656.984L21 14.464l-3.29 3.91l-4.866-.929L9.734 21l-5.013-.956L3 15.06l3.206-3.701l-1.485-4.444z");
+}
+
+.fllceq_ij {
+  fill: var(--svg-color--068210, #068210);
+  d: path("M9.874 8.14L8.36 3.725l4.32.849l1.367 4.286l-2.852 3.145l-4.303-.732zm6.216 5.535l-1.52-4.421l4.326.855l1.362 4.286l-2.852 3.145l-4.298-.732zm-7.937 2.74L6.64 11.999l4.32.855l1.366 4.286l-2.852 3.139l-4.303-.731z");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.fzb3q0bzs {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M8.384 12.636L6.466 6.842l2.784-1.84l1.648 4.715l1.373-1.654l.523 1.378l-1.44 1.744l.917 2.486l4.702-2.942l.754 2.025l-7.65 4.759l-1.238-3.375l-1.322 1.558l-.506-1.446z");
+}
+</style><g class="ft5dv1b6b"><path class="e2jk00bxh"/><path class="fllceq_ij"/><path class="fzb3q0bzs"/></g>`,
+		"fallback": "token-branded:lcc",
+	});
+}
+
+export default Component;

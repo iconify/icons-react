@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.davsurb6x {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M8.328 9.191a1.37 1.37 0 0 1 1.14-.62h10.155c.32 0 .438.125.347.388a1 1 0 0 1-.126.24l-.457.617a1.55 1.55 0 0 1-.75.55c-.153.045-.279.11-.397.11H9.437a.7.7 0 0 0-.575.285a.3.3 0 0 0-.061.115c-.05.133.011.362.18.362h8.459c.476 0 .644.023.514.404c-.05.137-.107.255-.19.358l-2.077 2.8a1.53 1.53 0 0 1-1.14.63H4.374c-.316 0-.434-.126-.343-.39a1 1 0 0 1 .126-.24l1.387-1.867c.278-.37.663-.514 1.143-.552h8.117c.21 0 .408-.175.575-.381a.3.3 0 0 0 .061-.118c.038-.13-.011-.263-.168-.263H7.498c-.488 0-.667-.118-.538-.496a2 2 0 0 1 .206-.362l1.162-1.573z");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.mumfproca {
+  fill: var(--svg-color--000, #000);
+  d: path("M24 0H0v24h24z");
+}
+</style><g class="ft5dv1b6b"><path class="mumfproca"/><path class="davsurb6x"/></g>`,
+		"fallback": "token-branded:senate-background",
+	});
+}
+
+export default Component;

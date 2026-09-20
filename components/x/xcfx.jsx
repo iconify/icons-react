@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.t_fbbsqlm {
+  fill: var(--svg-color--ff914c, #ff914c);
+  fill-rule: evenodd;
+  d: path("M19.641 7.717a.27.27 0 0 0-.127.37a8.47 8.47 0 1 1-5.093-4.203a.27.27 0 0 0 .354-.251a.26.26 0 0 0-.185-.252a9 9 0 1 0 5.384 4.447a.26.26 0 0 0-.333-.111m-7.64 9.053a4.764 4.764 0 1 0 .001-9.528a4.764 4.764 0 0 0 0 9.528m0 .529a5.294 5.294 0 1 0 0-10.589a5.294 5.294 0 0 0 0 10.589m6.883-12.176a1.588 1.588 0 1 1-3.177 0a1.588 1.588 0 0 1 3.177 0m.53 0a2.118 2.118 0 1 1-4.236 0a2.118 2.118 0 0 1 4.235 0");
+}
+</style><path clip-rule="evenodd" class="t_fbbsqlm"/>`,
+		"fallback": "token-branded:xcfx",
+	});
+}
+
+export default Component;

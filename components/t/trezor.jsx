@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.nqjn6f1rn {
+  d: path("M16.462 7.177C16.462 4.894 14.45 3 12 3S7.536 4.895 7.536 7.177v1.336H5.7v9.603L12 21l6.3-2.885V8.554h-1.836zm-6.65 0c0-1.076.962-1.938 2.187-1.938s2.188.862 2.188 1.938v1.336H9.812zm5.95 9.389l-3.763 1.723l-3.762-1.723v-5.771h7.525z");
+}
+</style><path class="nqjn6f1rn"/>`,
+		"fallback": "token-branded:trezor",
+	});
+}
+
+export default Component;

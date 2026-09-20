@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.gu6b6obix {
+  fill: var(--svg-color--8799e0, #8799e0);
+  d: path("M3 7.224c0-.73.506-2.036 1.125-2.536v14.625H3z");
+}
+
+.hoyuybbkq {
+  fill: var(--svg-color--5a86e7, #5a86e7);
+  d: path("M13.125 4.688h1.125v13.471a6.36 6.36 0 0 0 4.016-1.912c1.035-1.125 1.609-2.604 1.609-3.684v-6.75h-2.25v6.468c0 .731-.506 2.03-1.125 2.531V4.688H21v7.875c0 1.428-.692 3.11-1.89 4.42a7 7 0 0 1-4.86 2.307v.023h-1.125V5.835c-1.631.146-2.981.922-3.938 1.924C8.124 8.884 7.5 10.357 7.5 11.437v6.75h2.25V11.72c0-.731.506-2.03 1.125-2.532v10.126h-4.5v-7.875c0-1.435.709-3.111 1.946-4.422c1.26-1.327 3.15-2.328 4.804-2.328");
+}
+</style><g class="ft5dv1b6b"><path class="gu6b6obix"/><path class="hoyuybbkq"/></g>`,
+		"fallback": "token-branded:inv",
+	});
+}
+
+export default Component;

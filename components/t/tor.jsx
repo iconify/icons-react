@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.rd35x6b6i {
+  fill: var(--svg-color--be7c40, #be7c40);
+  fill-rule: evenodd;
+  d: path("M6.602 5.716a1.406 1.406 0 1 0-.787.068v2.755l5.527-3.689l-.85 6.331l-6.927 3.88l6.67 2.474l-1.514 1.012a1.406 1.406 0 1 0 .394.596l2.57-1.884l-6.495-2.361l5.578-3.154l6.669 4.408l-1.035-6.702l1.305.663a1.405 1.405 0 1 0 .376-.562L15.48 8.224l1.018 6.562l-5.325-3.605l1.023-7.815l-5.6 3.936V5.716zm.157-1.31a.664.664 0 1 1-1.327 0a.664.664 0 0 1 1.327 0m12.269 6.848a.663.663 0 1 0 0-1.326a.663.663 0 0 0 0 1.326M8.446 19.587a.663.663 0 1 1-1.326 0a.663.663 0 0 1 1.326 0");
+}
+</style><path clip-rule="evenodd" class="rd35x6b6i"/>`,
+		"fallback": "token-branded:tor",
+	});
+}
+
+export default Component;

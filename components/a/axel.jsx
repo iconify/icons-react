@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.jeu1uk8dk {
+  d: path("M12.7 3.429a.782.782 0 0 0-1.395 0l-3.933 7.86l3.736 1.963l3.286-6.436zm2.442 4.878l-2.847 5.57l7.635 4.006zm5.807 11.635l-9.272-4.872L8.655 21h11.562a.788.788 0 0 0 .732-1.058M7.147 21l3.348-6.55l-3.725-1.957l-3.685 7.37A.787.787 0 0 0 3.783 21z");
+}
+
+.lpl7rob5l {
+  stop-color: var(--svg-color--0f36af, #0f36af);
+}
+
+.n_n27_q3b {
+  stop-color: var(--svg-color--0642de, #0642de);
+}
+</style><g class="ft5dv1b6b"><path fill="url(#SVGBNNZn2TQ)" class="jeu1uk8dk"/><defs><linearGradient id="SVGBNNZn2TQ" x1="7.952" x2="20.454" y1="11.998" y2="18.918" gradientUnits="userSpaceOnUse"><stop class="n_n27_q3b"/><stop offset="1" class="lpl7rob5l"/></linearGradient></defs></g>`,
+		"fallback": "token-branded:axel",
+	});
+}
+
+export default Component;

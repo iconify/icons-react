@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.idyhj9bls {
+  fill: var(--svg-color--ff0083, #ff0083);
+  d: path("M10.454 3.102c-3.242.6-5.95 3.133-6.948 6.517a8 8 0 0 0-.235 2.43c.022 1.844.41 3.334 1.234 4.677l.491.814l5.371-3.363V21h3.275v-6.73l5.426 3.051s1.364-2.292 1.255-2.385c-.027-.028-1.916-1.196-4.192-2.588l-4.126-2.543l-2.79 1.73a35 35 0 0 1-2.964 1.73c-.13 0-.158-.343-.114-1.397c.043-1.2.114-1.528.497-2.363a5.84 5.84 0 0 1 9.917-1.376a6.8 6.8 0 0 1 1.277 2.844c.082.42.164.78.18.792l1.36.835l1.32.808l.044-1.18c.06-1.615-.163-2.674-.878-4.192a8 8 0 0 0-2.942-3.493a9.16 9.16 0 0 0-6.452-1.44z");
+}
+</style><path class="idyhj9bls"/>`,
+		"fallback": "token-branded:tomi",
+	});
+}
+
+export default Component;

@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bklvxbbvo {
+  fill: var(--svg-color--fff, #fff);
+  fill-rule: evenodd;
+  d: path("M10.857 4H4v16h6.857v-5.737a7 7 0 0 0 2.857.594C17.19 14.857 20 12.43 20 9.43S17.189 4 13.714 4a7 7 0 0 0-2.857.594zm2.857 10.286a6.4 6.4 0 0 1-2.857-.652V5.223a6.5 6.5 0 0 1 2.857-.652c3.155 0 5.715 2.172 5.715 4.858s-2.56 4.857-5.715 4.857M8 9.429c0 1.588.897 3 2.286 3.885V5.543C8.897 6.429 8 7.84 8 9.429m-.571 0c0-1.903 1.137-3.583 2.857-4.549v-.309H4.57V19.43h5.715v-5.452c-1.72-.971-2.857-2.646-2.857-4.548M20 14.857V20c-1.577 0-2.857-1.149-2.857-2.571s1.28-2.572 2.857-2.572");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.py7ktqbvf {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M0 0h24v24H0z");
+}
+
+.vla58l6iy {
+  fill: var(--svg-color--282828, #282828);
+  d: path("M24 0H0v24h24z");
+}
+</style><g class="ft5dv1b6b"><g clip-path="url(#SVGHcSWxdhd)"><path class="vla58l6iy"/><path clip-rule="evenodd" class="bklvxbbvo"/></g><defs><clipPath id="SVGHcSWxdhd"><path class="py7ktqbvf"/></clipPath></defs></g>`,
+		"fallback": "token-branded:pica-background",
+	});
+}
+
+export default Component;

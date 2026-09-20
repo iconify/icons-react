@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.dfiiut6ur {
+  fill: var(--svg-color--3274c0, #3274c0);
+  fill-rule: evenodd;
+  d: path("M4.364 5.866c.013 3.348.04 9.007 1.35 10.704c1.413 1.831 3.403 2.93 4.764 3.68c.448.247.828.457 1.096.642a.61.61 0 0 0 .671.014c.376-.261.915-.562 1.52-.901c1.568-.879 3.583-2.007 4.374-3.32c1.18-1.962 1.412-7.329 1.498-10.767a.64.64 0 0 0-.652-.646c-2.836.016-5.33-1.036-6.567-2.087c-.273-.231-.689-.253-.965-.025c-2.09 1.722-4.634 2.035-6.477 2.082a.625.625 0 0 0-.612.624m1.909 1.18c.013 2.37.24 7.412 1.047 8.63c.645.975 2.185 1.764 3.327 2.35c.643.33 1.16.594 1.324.792c.258-.24.798-.531 1.429-.87c1.122-.602 2.532-1.36 3.156-2.272c.708-1.033 1.117-6.152 1.171-8.63c-2.628.17-4.932-1.172-5.756-1.864c-1.666 1.399-4.493 1.826-5.698 1.864");
+}
+</style><path clip-rule="evenodd" class="dfiiut6ur"/>`,
+		"fallback": "token-branded:twt",
+	});
+}
+
+export default Component;

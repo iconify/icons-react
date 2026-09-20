@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.pd-hjk5hm {
+  fill: var(--svg-color--a1f931, #a1f931);
+  fill-rule: evenodd;
+  d: path("m8.409 14.437l2.532-9.678c-1.22-.257-3.863.026-5.012 3.45c-1.055 3.149 1.086 5.783 2.48 6.228m7.182-4.874l-2.532 9.678c1.22.257 3.863-.026 5.012-3.45c1.055-3.149-1.086-5.783-2.48-6.228m4.307-.375H10.94c.91-3.728 3.296-4.552 4.375-4.498H21zm-6.84 5.625H4.104L3 19.31h5.684c1.08.054 3.465-.77 4.375-4.497");
+}
+</style><path clip-rule="evenodd" class="pd-hjk5hm"/>`,
+		"fallback": "token-branded:shroom",
+	});
+}
+
+export default Component;

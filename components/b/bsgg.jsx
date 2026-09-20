@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.efh0qyb6h {
+  fill: var(--svg-color--f3ce4e, #f3ce4e);
+  d: path("M11.408 8.102a1.2 1.2 0 0 1 .853-.365a1.17 1.17 0 0 1 .852.365l4.34 4.5a2.5 2.5 0 0 1 .705 1.767a2.58 2.58 0 0 1-.71 1.771l-4.335 4.495a1.2 1.2 0 0 1-.852.365a1.17 1.17 0 0 1-.853-.365a1.25 1.25 0 0 1-.355-.885c0-.33.128-.647.355-.886l3.723-4.031a.65.65 0 0 0 .185-.464a.67.67 0 0 0-.185-.464l-3.723-4.027a1.25 1.25 0 0 1-.355-.89c0-.33.128-.647.355-.886");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.ptl2ajbrh {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M12.592 3.365A1.2 1.2 0 0 0 11.74 3a1.17 1.17 0 0 0-.852.365l-4.339 4.5a2.5 2.5 0 0 0-.706 1.766c.002.66.256 1.294.71 1.772l4.335 4.495a1.18 1.18 0 0 0 1.705 0a1.28 1.28 0 0 0 0-1.772l-3.723-4.03a.673.673 0 0 1 0-.928l3.723-4.027c.232-.238.36-.558.355-.89a1.3 1.3 0 0 0-.355-.886");
+}
+</style><g class="ft5dv1b6b"><path class="ptl2ajbrh"/><path class="efh0qyb6h"/></g>`,
+		"fallback": "token-branded:bsgg",
+	});
+}
+
+export default Component;

@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/y/y9tr6bcfx.css';
+import '../../css/z/zwo55scqo.css';
+import '../../css/q/qfo31zbwg.css';
+
+const viewBox = {"width":14,"height":14};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="y9tr6bcfx"><path class="zwo55scqo"/><path class="qfo31zbwg"/></g>`,
+		"fallback": "streamline:fit-to-height-square",
+	});
+}
+
+export default Component;

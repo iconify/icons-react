@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/y/y9tr6bcfx.css';
+import '../../css/i/i27rwib3p.css';
+import '../../css/y/yr6mmj11v.css';
+
+const viewBox = {"width":14,"height":14};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="y9tr6bcfx"><circle class="i27rwib3p"/><path class="yr6mmj11v"/></g>`,
+		"fallback": "streamline:nature-ecology-potted-tree-1-tree-plant-pot",
+	});
+}
+
+export default Component;

@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/k/kmsbaeqob.css';
+import '../../css/v/vgyp-vb6w.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="kmsbaeqob"/><path class="vgyp-vb6w"/>`,
+		"fallback": "mingcute:wallet-4-line",
+	});
+}
+
+export default Component;

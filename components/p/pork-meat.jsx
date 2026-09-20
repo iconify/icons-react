@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/s/sb9elkuje.css';
+import '../../css/x/xukk5l_sc.css';
+import '../../css/p/p455_jb_r.css';
+import '../../css/k/k4ngftbni.css';
+import '../../css/d/d4trd4b-s.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="sb9elkuje"><path class="xukk5l_sc"/><path class="p455_jb_r"/><path class="k4ngftbni"/><path class="d4trd4b-s"/></g>`,
+		"fallback": "streamline-plump-color:pork-meat",
+	});
+}
+
+export default Component;

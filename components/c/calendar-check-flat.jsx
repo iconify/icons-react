@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/x/xk230irwd.css';
+import '../../css/p/p_gbbybxh.css';
+import '../../css/x/xq8topals.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="xk230irwd"/><path class="p_gbbybxh"/><path clip-rule="evenodd" class="xq8topals"/></g>`,
+		"fallback": "streamline-plump-color:calendar-check-flat",
+	});
+}
+
+export default Component;

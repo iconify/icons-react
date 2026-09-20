@@ -1,0 +1,4815 @@
+{
+  "name": "@iconify-react/teenyicons",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/teenyicons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./360-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/360-outline.jsx"
+    },
+    "./360-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/3/360-solid.jsx"
+    },
+    "./ab-testing-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ab-testing-outline.jsx"
+    },
+    "./ab-testing-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ab-testing-solid.jsx"
+    },
+    "./add-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-outline.jsx"
+    },
+    "./add-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-small-outline.jsx"
+    },
+    "./add-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-small-solid.jsx"
+    },
+    "./add-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/add-solid.jsx"
+    },
+    "./address-book-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/address-book-outline.jsx"
+    },
+    "./address-book-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/address-book-solid.jsx"
+    },
+    "./adjust-horizontal-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-horizontal-alt-outline.jsx"
+    },
+    "./adjust-horizontal-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-horizontal-alt-solid.jsx"
+    },
+    "./adjust-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-horizontal-outline.jsx"
+    },
+    "./adjust-horizontal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-horizontal-solid.jsx"
+    },
+    "./adjust-vertical-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-vertical-alt-outline.jsx"
+    },
+    "./adjust-vertical-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-vertical-alt-solid.jsx"
+    },
+    "./adjust-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-vertical-outline.jsx"
+    },
+    "./adjust-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-vertical-solid.jsx"
+    },
+    "./airplay-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airplay-outline.jsx"
+    },
+    "./airplay-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airplay-solid.jsx"
+    },
+    "./airpods-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airpods-outline.jsx"
+    },
+    "./airpods-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airpods-solid.jsx"
+    },
+    "./alarm-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alarm-outline.jsx"
+    },
+    "./alarm-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alarm-solid.jsx"
+    },
+    "./alien-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alien-outline.jsx"
+    },
+    "./alien-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alien-solid.jsx"
+    },
+    "./align-bottom-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-bottom-outline.jsx"
+    },
+    "./align-bottom-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-bottom-solid.jsx"
+    },
+    "./align-center-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center-horizontal-outline.jsx"
+    },
+    "./align-center-horizontal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center-horizontal-solid.jsx"
+    },
+    "./align-center-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center-vertical-outline.jsx"
+    },
+    "./align-center-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center-vertical-solid.jsx"
+    },
+    "./align-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-left-outline.jsx"
+    },
+    "./align-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-left-solid.jsx"
+    },
+    "./align-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-right-outline.jsx"
+    },
+    "./align-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-right-solid.jsx"
+    },
+    "./align-text-center-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-center-outline.jsx"
+    },
+    "./align-text-center-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-center-solid.jsx"
+    },
+    "./align-text-justify-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-justify-outline.jsx"
+    },
+    "./align-text-justify-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-justify-solid.jsx"
+    },
+    "./align-text-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-left-outline.jsx"
+    },
+    "./align-text-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-left-solid.jsx"
+    },
+    "./align-text-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-right-outline.jsx"
+    },
+    "./align-text-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-text-right-solid.jsx"
+    },
+    "./align-top-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-top-outline.jsx"
+    },
+    "./align-top-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-top-solid.jsx"
+    },
+    "./anchor-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor-outline.jsx"
+    },
+    "./anchor-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor-solid.jsx"
+    },
+    "./android-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android-outline.jsx"
+    },
+    "./android-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android-solid.jsx"
+    },
+    "./angular-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-outline.jsx"
+    },
+    "./angular-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-solid.jsx"
+    },
+    "./anja-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anja-outline.jsx"
+    },
+    "./anja-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anja-solid.jsx"
+    },
+    "./anti-clockwise-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anti-clockwise-outline.jsx"
+    },
+    "./anti-clockwise-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anti-clockwise-solid.jsx"
+    },
+    "./apple-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-outline.jsx"
+    },
+    "./apple-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-solid.jsx"
+    },
+    "./appointments-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appointments-outline.jsx"
+    },
+    "./appointments-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appointments-solid.jsx"
+    },
+    "./archive-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-outline.jsx"
+    },
+    "./archive-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-solid.jsx"
+    },
+    "./area-chart-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/area-chart-alt-outline.jsx"
+    },
+    "./area-chart-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/area-chart-alt-solid.jsx"
+    },
+    "./area-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/area-chart-outline.jsx"
+    },
+    "./area-chart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/area-chart-solid.jsx"
+    },
+    "./arrow-down-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-circle-outline.jsx"
+    },
+    "./arrow-down-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-circle-solid.jsx"
+    },
+    "./arrow-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-outline.jsx"
+    },
+    "./arrow-down-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-small-outline.jsx"
+    },
+    "./arrow-down-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-small-solid.jsx"
+    },
+    "./arrow-down-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-solid.jsx"
+    },
+    "./arrow-left-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-circle-outline.jsx"
+    },
+    "./arrow-left-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-circle-solid.jsx"
+    },
+    "./arrow-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-outline.jsx"
+    },
+    "./arrow-left-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-small-outline.jsx"
+    },
+    "./arrow-left-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-small-solid.jsx"
+    },
+    "./arrow-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-solid.jsx"
+    },
+    "./arrow-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-outline.jsx"
+    },
+    "./arrow-right-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-circle-outline.jsx"
+    },
+    "./arrow-right-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-circle-solid.jsx"
+    },
+    "./arrow-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-outline.jsx"
+    },
+    "./arrow-right-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-small-outline.jsx"
+    },
+    "./arrow-right-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-small-solid.jsx"
+    },
+    "./arrow-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-solid.jsx"
+    },
+    "./arrow-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-solid.jsx"
+    },
+    "./arrow-up-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-circle-outline.jsx"
+    },
+    "./arrow-up-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-circle-solid.jsx"
+    },
+    "./arrow-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-outline.jsx"
+    },
+    "./arrow-up-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-small-outline.jsx"
+    },
+    "./arrow-up-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-small-solid.jsx"
+    },
+    "./arrow-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-solid.jsx"
+    },
+    "./artboard-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artboard-outline.jsx"
+    },
+    "./artboard-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artboard-solid.jsx"
+    },
+    "./at-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-outline.jsx"
+    },
+    "./at-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-solid.jsx"
+    },
+    "./attach-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attach-outline.jsx"
+    },
+    "./attach-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attach-solid.jsx"
+    },
+    "./attachment-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attachment-outline.jsx"
+    },
+    "./attachment-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attachment-solid.jsx"
+    },
+    "./audio-cable-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-cable-outline.jsx"
+    },
+    "./audio-cable-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-cable-solid.jsx"
+    },
+    "./audio-document-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-document-outline.jsx"
+    },
+    "./audio-document-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-document-solid.jsx"
+    },
+    "./azure-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-outline.jsx"
+    },
+    "./azure-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-solid.jsx"
+    },
+    "./backspace-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backspace-outline.jsx"
+    },
+    "./backspace-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backspace-solid.jsx"
+    },
+    "./bag-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-alt-outline.jsx"
+    },
+    "./bag-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-alt-solid.jsx"
+    },
+    "./bag-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-minus-outline.jsx"
+    },
+    "./bag-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-minus-solid.jsx"
+    },
+    "./bag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-outline.jsx"
+    },
+    "./bag-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-plus-outline.jsx"
+    },
+    "./bag-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-plus-solid.jsx"
+    },
+    "./bag-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-solid.jsx"
+    },
+    "./bank-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-outline.jsx"
+    },
+    "./bank-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bank-solid.jsx"
+    },
+    "./bar-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-chart-outline.jsx"
+    },
+    "./bar-chart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-chart-solid.jsx"
+    },
+    "./barcode-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barcode-outline.jsx"
+    },
+    "./barcode-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barcode-solid.jsx"
+    },
+    "./basket-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-minus-outline.jsx"
+    },
+    "./basket-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-minus-solid.jsx"
+    },
+    "./basket-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-outline.jsx"
+    },
+    "./basket-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-plus-outline.jsx"
+    },
+    "./basket-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-plus-solid.jsx"
+    },
+    "./basket-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-solid.jsx"
+    },
+    "./bath-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bath-outline.jsx"
+    },
+    "./bath-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bath-solid.jsx"
+    },
+    "./battery-0-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-0-outline.jsx"
+    },
+    "./battery-0-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-0-solid.jsx"
+    },
+    "./battery-1-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-1-outline.jsx"
+    },
+    "./battery-1-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-1-solid.jsx"
+    },
+    "./battery-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-2-outline.jsx"
+    },
+    "./battery-2-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-2-solid.jsx"
+    },
+    "./battery-3-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-3-outline.jsx"
+    },
+    "./battery-3-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-3-solid.jsx"
+    },
+    "./battery-4-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-4-outline.jsx"
+    },
+    "./battery-4-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-4-solid.jsx"
+    },
+    "./battery-5-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-5-outline.jsx"
+    },
+    "./battery-5-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-5-solid.jsx"
+    },
+    "./battery-charge-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-charge-outline.jsx"
+    },
+    "./battery-charge-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-charge-solid.jsx"
+    },
+    "./bed-double-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed-double-outline.jsx"
+    },
+    "./bed-double-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed-double-solid.jsx"
+    },
+    "./bed-single-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed-single-outline.jsx"
+    },
+    "./bed-single-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bed-single-solid.jsx"
+    },
+    "./behance-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/behance-outline.jsx"
+    },
+    "./behance-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/behance-solid.jsx"
+    },
+    "./bell-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-outline.jsx"
+    },
+    "./bell-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-solid.jsx"
+    },
+    "./bin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bin-outline.jsx"
+    },
+    "./bin-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bin-solid.jsx"
+    },
+    "./bitbucket-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket-outline.jsx"
+    },
+    "./bitbucket-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket-solid.jsx"
+    },
+    "./bitcoin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitcoin-outline.jsx"
+    },
+    "./bitcoin-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitcoin-solid.jsx"
+    },
+    "./bluetooth-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth-outline.jsx"
+    },
+    "./bluetooth-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth-solid.jsx"
+    },
+    "./bold-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bold-outline.jsx"
+    },
+    "./bold-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bold-solid.jsx"
+    },
+    "./book-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-outline.jsx"
+    },
+    "./book-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-solid.jsx"
+    },
+    "./bookmark-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-outline.jsx"
+    },
+    "./bookmark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-solid.jsx"
+    },
+    "./border-all-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-all-outline.jsx"
+    },
+    "./border-all-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-all-solid.jsx"
+    },
+    "./border-bottom-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom-outline.jsx"
+    },
+    "./border-bottom-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom-solid.jsx"
+    },
+    "./border-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-horizontal-outline.jsx"
+    },
+    "./border-horizontal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-horizontal-solid.jsx"
+    },
+    "./border-inner-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-inner-outline.jsx"
+    },
+    "./border-inner-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-inner-solid.jsx"
+    },
+    "./border-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left-outline.jsx"
+    },
+    "./border-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left-solid.jsx"
+    },
+    "./border-none-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none-outline.jsx"
+    },
+    "./border-none-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none-solid.jsx"
+    },
+    "./border-outer-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-outer-outline.jsx"
+    },
+    "./border-outer-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-outer-solid.jsx"
+    },
+    "./border-radius-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-radius-outline.jsx"
+    },
+    "./border-radius-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-radius-solid.jsx"
+    },
+    "./border-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right-outline.jsx"
+    },
+    "./border-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right-solid.jsx"
+    },
+    "./border-top-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top-outline.jsx"
+    },
+    "./border-top-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top-solid.jsx"
+    },
+    "./border-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-vertical-outline.jsx"
+    },
+    "./border-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-vertical-solid.jsx"
+    },
+    "./bottom-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bottom-left-outline.jsx"
+    },
+    "./bottom-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bottom-left-solid.jsx"
+    },
+    "./bottom-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bottom-right-outline.jsx"
+    },
+    "./bottom-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bottom-right-solid.jsx"
+    },
+    "./box-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-outline.jsx"
+    },
+    "./box-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-solid.jsx"
+    },
+    "./bracket-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bracket-outline.jsx"
+    },
+    "./bracket-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bracket-solid.jsx"
+    },
+    "./briefcase-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase-alt-outline.jsx"
+    },
+    "./briefcase-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase-alt-solid.jsx"
+    },
+    "./briefcase-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase-outline.jsx"
+    },
+    "./briefcase-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase-solid.jsx"
+    },
+    "./brush-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-outline.jsx"
+    },
+    "./brush-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-solid.jsx"
+    },
+    "./bug-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug-outline.jsx"
+    },
+    "./bug-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug-solid.jsx"
+    },
+    "./building-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-outline.jsx"
+    },
+    "./building-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-solid.jsx"
+    },
+    "./bulb-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bulb-off-outline.jsx"
+    },
+    "./bulb-off-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bulb-off-solid.jsx"
+    },
+    "./bulb-on-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bulb-on-outline.jsx"
+    },
+    "./bulb-on-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bulb-on-solid.jsx"
+    },
+    "./button-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/button-outline.jsx"
+    },
+    "./button-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/button-solid.jsx"
+    },
+    "./c-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-outline.jsx"
+    },
+    "./c-sharp-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-sharp-outline.jsx"
+    },
+    "./c-sharp-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-sharp-solid.jsx"
+    },
+    "./c-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-solid.jsx"
+    },
+    "./calculator-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-outline.jsx"
+    },
+    "./calculator-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-solid.jsx"
+    },
+    "./calendar-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-minus-outline.jsx"
+    },
+    "./calendar-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-minus-solid.jsx"
+    },
+    "./calendar-no-access-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-no-access-outline.jsx"
+    },
+    "./calendar-no-access-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-no-access-solid.jsx"
+    },
+    "./calendar-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-outline.jsx"
+    },
+    "./calendar-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-plus-outline.jsx"
+    },
+    "./calendar-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-plus-solid.jsx"
+    },
+    "./calendar-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-solid.jsx"
+    },
+    "./calendar-tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-tick-outline.jsx"
+    },
+    "./calendar-tick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-tick-solid.jsx"
+    },
+    "./calendar-x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-x-outline.jsx"
+    },
+    "./calendar-x-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-x-solid.jsx"
+    },
+    "./camera-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-outline.jsx"
+    },
+    "./camera-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-solid.jsx"
+    },
+    "./candle-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/candle-chart-outline.jsx"
+    },
+    "./candle-chart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/candle-chart-solid.jsx"
+    },
+    "./car-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-outline.jsx"
+    },
+    "./car-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-solid.jsx"
+    },
+    "./caret-vertical-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-vertical-circle-outline.jsx"
+    },
+    "./caret-vertical-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-vertical-circle-solid.jsx"
+    },
+    "./caret-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-vertical-outline.jsx"
+    },
+    "./caret-vertical-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-vertical-small-outline.jsx"
+    },
+    "./caret-vertical-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-vertical-small-solid.jsx"
+    },
+    "./caret-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-vertical-solid.jsx"
+    },
+    "./cart-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart-minus-outline.jsx"
+    },
+    "./cart-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart-minus-solid.jsx"
+    },
+    "./cart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart-outline.jsx"
+    },
+    "./cart-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart-plus-outline.jsx"
+    },
+    "./cart-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart-plus-solid.jsx"
+    },
+    "./cart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart-solid.jsx"
+    },
+    "./certificate-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certificate-outline.jsx"
+    },
+    "./certificate-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certificate-solid.jsx"
+    },
+    "./chat-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-outline.jsx"
+    },
+    "./chat-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-solid.jsx"
+    },
+    "./chat-typing-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-typing-alt-outline.jsx"
+    },
+    "./chat-typing-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-typing-alt-solid.jsx"
+    },
+    "./chat-typing-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-typing-outline.jsx"
+    },
+    "./chat-typing-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-typing-solid.jsx"
+    },
+    "./chatbot-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chatbot-outline.jsx"
+    },
+    "./chatbot-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chatbot-solid.jsx"
+    },
+    "./chrome-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chrome-outline.jsx"
+    },
+    "./chrome-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chrome-solid.jsx"
+    },
+    "./church-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/church-outline.jsx"
+    },
+    "./church-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/church-solid.jsx"
+    },
+    "./circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-outline.jsx"
+    },
+    "./circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-solid.jsx"
+    },
+    "./clipboard-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-minus-outline.jsx"
+    },
+    "./clipboard-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-minus-solid.jsx"
+    },
+    "./clipboard-no-access-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-no-access-outline.jsx"
+    },
+    "./clipboard-no-access-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-no-access-solid.jsx"
+    },
+    "./clipboard-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-outline.jsx"
+    },
+    "./clipboard-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-plus-outline.jsx"
+    },
+    "./clipboard-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-plus-solid.jsx"
+    },
+    "./clipboard-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-solid.jsx"
+    },
+    "./clipboard-tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-tick-outline.jsx"
+    },
+    "./clipboard-tick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-tick-solid.jsx"
+    },
+    "./clipboard-x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-x-outline.jsx"
+    },
+    "./clipboard-x-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-x-solid.jsx"
+    },
+    "./clock-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-outline.jsx"
+    },
+    "./clock-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-solid.jsx"
+    },
+    "./clockwise-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clockwise-outline.jsx"
+    },
+    "./clockwise-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clockwise-solid.jsx"
+    },
+    "./code-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-outline.jsx"
+    },
+    "./code-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-solid.jsx"
+    },
+    "./codepen-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codepen-outline.jsx"
+    },
+    "./codepen-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codepen-solid.jsx"
+    },
+    "./cog-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cog-outline.jsx"
+    },
+    "./cog-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cog-solid.jsx"
+    },
+    "./compass-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-outline.jsx"
+    },
+    "./compass-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-solid.jsx"
+    },
+    "./computer-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-outline.jsx"
+    },
+    "./computer-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-solid.jsx"
+    },
+    "./contact-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contact-outline.jsx"
+    },
+    "./contact-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contact-solid.jsx"
+    },
+    "./contract-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contract-outline.jsx"
+    },
+    "./contract-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contract-solid.jsx"
+    },
+    "./cost-estimate-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cost-estimate-outline.jsx"
+    },
+    "./cost-estimate-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cost-estimate-solid.jsx"
+    },
+    "./cplusplus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cplusplus-outline.jsx"
+    },
+    "./cplusplus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cplusplus-solid.jsx"
+    },
+    "./credit-card-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-outline.jsx"
+    },
+    "./credit-card-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-solid.jsx"
+    },
+    "./crop-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop-outline.jsx"
+    },
+    "./crop-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop-solid.jsx"
+    },
+    "./css3-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css3-outline.jsx"
+    },
+    "./css3-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css3-solid.jsx"
+    },
+    "./csv-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csv-outline.jsx"
+    },
+    "./csv-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/csv-solid.jsx"
+    },
+    "./cup-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cup-outline.jsx"
+    },
+    "./cup-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cup-solid.jsx"
+    },
+    "./curved-connector-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curved-connector-outline.jsx"
+    },
+    "./curved-connector-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curved-connector-solid.jsx"
+    },
+    "./d3-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d3-outline.jsx"
+    },
+    "./d3-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d3-solid.jsx"
+    },
+    "./database-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-outline.jsx"
+    },
+    "./database-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-solid.jsx"
+    },
+    "./denied-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/denied-outline.jsx"
+    },
+    "./denied-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/denied-solid.jsx"
+    },
+    "./deno-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno-outline.jsx"
+    },
+    "./deno-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno-solid.jsx"
+    },
+    "./depth-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/depth-chart-outline.jsx"
+    },
+    "./depth-chart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/depth-chart-solid.jsx"
+    },
+    "./desklamp-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/desklamp-outline.jsx"
+    },
+    "./desklamp-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/desklamp-solid.jsx"
+    },
+    "./diamond-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diamond-outline.jsx"
+    },
+    "./diamond-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diamond-solid.jsx"
+    },
+    "./direction-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-outline.jsx"
+    },
+    "./direction-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-solid.jsx"
+    },
+    "./discord-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discord-outline.jsx"
+    },
+    "./discord-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discord-solid.jsx"
+    },
+    "./discount-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discount-outline.jsx"
+    },
+    "./discount-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discount-solid.jsx"
+    },
+    "./distribute-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-horizontal-outline.jsx"
+    },
+    "./distribute-horizontal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-horizontal-solid.jsx"
+    },
+    "./distribute-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-vertical-outline.jsx"
+    },
+    "./distribute-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-vertical-solid.jsx"
+    },
+    "./divider-line-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divider-line-outline.jsx"
+    },
+    "./divider-line-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divider-line-solid.jsx"
+    },
+    "./doc-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-outline.jsx"
+    },
+    "./doc-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doc-solid.jsx"
+    },
+    "./docker-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-outline.jsx"
+    },
+    "./docker-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-solid.jsx"
+    },
+    "./documents-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/documents-outline.jsx"
+    },
+    "./documents-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/documents-solid.jsx"
+    },
+    "./dollar-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-outline.jsx"
+    },
+    "./dollar-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-solid.jsx"
+    },
+    "./donut-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/donut-chart-outline.jsx"
+    },
+    "./donut-chart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/donut-chart-solid.jsx"
+    },
+    "./double-caret-down-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-down-circle-outline.jsx"
+    },
+    "./double-caret-down-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-down-circle-solid.jsx"
+    },
+    "./double-caret-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-down-outline.jsx"
+    },
+    "./double-caret-down-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-down-small-outline.jsx"
+    },
+    "./double-caret-down-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-down-small-solid.jsx"
+    },
+    "./double-caret-down-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-down-solid.jsx"
+    },
+    "./double-caret-left-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-left-circle-outline.jsx"
+    },
+    "./double-caret-left-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-left-circle-solid.jsx"
+    },
+    "./double-caret-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-left-outline.jsx"
+    },
+    "./double-caret-left-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-left-small-outline.jsx"
+    },
+    "./double-caret-left-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-left-small-solid.jsx"
+    },
+    "./double-caret-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-left-solid.jsx"
+    },
+    "./double-caret-right-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-right-circle-outline.jsx"
+    },
+    "./double-caret-right-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-right-circle-solid.jsx"
+    },
+    "./double-caret-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-right-outline.jsx"
+    },
+    "./double-caret-right-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-right-small-outline.jsx"
+    },
+    "./double-caret-right-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-right-small-solid.jsx"
+    },
+    "./double-caret-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-right-solid.jsx"
+    },
+    "./double-caret-up-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-up-circle-outline.jsx"
+    },
+    "./double-caret-up-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-up-circle-solid.jsx"
+    },
+    "./double-caret-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-up-outline.jsx"
+    },
+    "./double-caret-up-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-up-small-outline.jsx"
+    },
+    "./double-caret-up-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-up-small-solid.jsx"
+    },
+    "./double-caret-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/double-caret-up-solid.jsx"
+    },
+    "./down-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-circle-outline.jsx"
+    },
+    "./down-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-circle-solid.jsx"
+    },
+    "./down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-outline.jsx"
+    },
+    "./down-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-small-outline.jsx"
+    },
+    "./down-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-small-solid.jsx"
+    },
+    "./down-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/down-solid.jsx"
+    },
+    "./download-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download-outline.jsx"
+    },
+    "./download-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download-solid.jsx"
+    },
+    "./drag-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-horizontal-outline.jsx"
+    },
+    "./drag-horizontal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-horizontal-solid.jsx"
+    },
+    "./drag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-outline.jsx"
+    },
+    "./drag-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-solid.jsx"
+    },
+    "./drag-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-vertical-outline.jsx"
+    },
+    "./drag-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag-vertical-solid.jsx"
+    },
+    "./dribbble-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dribbble-outline.jsx"
+    },
+    "./dribbble-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dribbble-solid.jsx"
+    },
+    "./drop-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drop-outline.jsx"
+    },
+    "./drop-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drop-solid.jsx"
+    },
+    "./dropper-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dropper-outline.jsx"
+    },
+    "./dropper-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dropper-solid.jsx"
+    },
+    "./edge-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edge-outline.jsx"
+    },
+    "./edge-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edge-solid.jsx"
+    },
+    "./edit-1-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-1-outline.jsx"
+    },
+    "./edit-1-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-1-solid.jsx"
+    },
+    "./edit-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-circle-outline.jsx"
+    },
+    "./edit-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-circle-solid.jsx"
+    },
+    "./edit-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-outline.jsx"
+    },
+    "./edit-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-small-outline.jsx"
+    },
+    "./edit-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-small-solid.jsx"
+    },
+    "./edit-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-solid.jsx"
+    },
+    "./elbow-connector-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elbow-connector-outline.jsx"
+    },
+    "./elbow-connector-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elbow-connector-solid.jsx"
+    },
+    "./envelope-open-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-open-outline.jsx"
+    },
+    "./envelope-open-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-open-solid.jsx"
+    },
+    "./envelope-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-outline.jsx"
+    },
+    "./envelope-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-solid.jsx"
+    },
+    "./eps-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eps-outline.jsx"
+    },
+    "./eps-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eps-solid.jsx"
+    },
+    "./eslint-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint-outline.jsx"
+    },
+    "./eslint-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint-solid.jsx"
+    },
+    "./ethereum-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethereum-outline.jsx"
+    },
+    "./ethereum-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethereum-solid.jsx"
+    },
+    "./euro-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/euro-outline.jsx"
+    },
+    "./euro-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/euro-solid.jsx"
+    },
+    "./exclamation-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-circle-outline.jsx"
+    },
+    "./exclamation-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-circle-solid.jsx"
+    },
+    "./exclamation-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-outline.jsx"
+    },
+    "./exclamation-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-small-outline.jsx"
+    },
+    "./exclamation-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-small-solid.jsx"
+    },
+    "./exclamation-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-solid.jsx"
+    },
+    "./expand-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-alt-outline.jsx"
+    },
+    "./expand-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-alt-solid.jsx"
+    },
+    "./expand-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-outline.jsx"
+    },
+    "./expand-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand-solid.jsx"
+    },
+    "./eye-closed-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-closed-outline.jsx"
+    },
+    "./eye-closed-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-closed-solid.jsx"
+    },
+    "./eye-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-outline.jsx"
+    },
+    "./eye-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-solid.jsx"
+    },
+    "./face-id-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-id-outline.jsx"
+    },
+    "./face-id-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-id-solid.jsx"
+    },
+    "./facebook-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook-outline.jsx"
+    },
+    "./facebook-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook-solid.jsx"
+    },
+    "./figma-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma-outline.jsx"
+    },
+    "./figma-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma-solid.jsx"
+    },
+    "./file-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-minus-outline.jsx"
+    },
+    "./file-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-minus-solid.jsx"
+    },
+    "./file-no-access-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-no-access-outline.jsx"
+    },
+    "./file-no-access-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-no-access-solid.jsx"
+    },
+    "./file-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-outline.jsx"
+    },
+    "./file-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-plus-outline.jsx"
+    },
+    "./file-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-plus-solid.jsx"
+    },
+    "./file-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-solid.jsx"
+    },
+    "./file-tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-tick-outline.jsx"
+    },
+    "./file-tick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-tick-solid.jsx"
+    },
+    "./file-x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-x-outline.jsx"
+    },
+    "./file-x-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-x-solid.jsx"
+    },
+    "./filter-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-outline.jsx"
+    },
+    "./filter-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-solid.jsx"
+    },
+    "./fingerprint-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingerprint-outline.jsx"
+    },
+    "./fingerprint-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingerprint-solid.jsx"
+    },
+    "./firebase-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase-outline.jsx"
+    },
+    "./firebase-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firebase-solid.jsx"
+    },
+    "./flag-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-alt-outline.jsx"
+    },
+    "./flag-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-alt-solid.jsx"
+    },
+    "./flag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-outline.jsx"
+    },
+    "./flag-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-solid.jsx"
+    },
+    "./flip-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-horizontal-outline.jsx"
+    },
+    "./flip-horizontal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-horizontal-solid.jsx"
+    },
+    "./flip-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-vertical-outline.jsx"
+    },
+    "./flip-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-vertical-solid.jsx"
+    },
+    "./float-center-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/float-center-outline.jsx"
+    },
+    "./float-center-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/float-center-solid.jsx"
+    },
+    "./float-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/float-left-outline.jsx"
+    },
+    "./float-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/float-left-solid.jsx"
+    },
+    "./float-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/float-right-outline.jsx"
+    },
+    "./float-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/float-right-solid.jsx"
+    },
+    "./floorplan-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/floorplan-outline.jsx"
+    },
+    "./floorplan-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/floorplan-solid.jsx"
+    },
+    "./folder-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-minus-outline.jsx"
+    },
+    "./folder-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-minus-solid.jsx"
+    },
+    "./folder-no-access-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-no-access-outline.jsx"
+    },
+    "./folder-no-access-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-no-access-solid.jsx"
+    },
+    "./folder-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-outline.jsx"
+    },
+    "./folder-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plus-outline.jsx"
+    },
+    "./folder-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plus-solid.jsx"
+    },
+    "./folder-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-solid.jsx"
+    },
+    "./folder-tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tick-outline.jsx"
+    },
+    "./folder-tick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-tick-solid.jsx"
+    },
+    "./folder-x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-x-outline.jsx"
+    },
+    "./folder-x-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-x-solid.jsx"
+    },
+    "./folders-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folders-outline.jsx"
+    },
+    "./folders-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folders-solid.jsx"
+    },
+    "./forward-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-circle-outline.jsx"
+    },
+    "./forward-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-circle-solid.jsx"
+    },
+    "./forward-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-outline.jsx"
+    },
+    "./forward-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-small-outline.jsx"
+    },
+    "./forward-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-small-solid.jsx"
+    },
+    "./forward-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-solid.jsx"
+    },
+    "./frame-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-outline.jsx"
+    },
+    "./frame-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-solid.jsx"
+    },
+    "./framer-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/framer-outline.jsx"
+    },
+    "./framer-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/framer-solid.jsx"
+    },
+    "./game-controller-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/game-controller-outline.jsx"
+    },
+    "./game-controller-retro-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/game-controller-retro-outline.jsx"
+    },
+    "./game-controller-retro-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/game-controller-retro-solid.jsx"
+    },
+    "./game-controller-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/game-controller-solid.jsx"
+    },
+    "./gantt-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gantt-chart-outline.jsx"
+    },
+    "./gantt-chart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gantt-chart-solid.jsx"
+    },
+    "./garage-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garage-outline.jsx"
+    },
+    "./garage-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garage-solid.jsx"
+    },
+    "./gatsbyjs-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsbyjs-outline.jsx"
+    },
+    "./gatsbyjs-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsbyjs-solid.jsx"
+    },
+    "./gba-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gba-outline.jsx"
+    },
+    "./gba-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gba-solid.jsx"
+    },
+    "./gbc-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gbc-outline.jsx"
+    },
+    "./gbc-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gbc-solid.jsx"
+    },
+    "./ghost-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghost-outline.jsx"
+    },
+    "./ghost-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghost-solid.jsx"
+    },
+    "./gif-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gif-outline.jsx"
+    },
+    "./gif-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gif-solid.jsx"
+    },
+    "./gift-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-outline.jsx"
+    },
+    "./gift-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-solid.jsx"
+    },
+    "./git-branch-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-outline.jsx"
+    },
+    "./git-branch-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-solid.jsx"
+    },
+    "./git-commit-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-commit-outline.jsx"
+    },
+    "./git-commit-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-commit-solid.jsx"
+    },
+    "./git-compare-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-compare-outline.jsx"
+    },
+    "./git-compare-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-compare-solid.jsx"
+    },
+    "./git-fork-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-fork-outline.jsx"
+    },
+    "./git-fork-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-fork-solid.jsx"
+    },
+    "./git-merge-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-merge-outline.jsx"
+    },
+    "./git-merge-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-merge-solid.jsx"
+    },
+    "./git-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-outline.jsx"
+    },
+    "./git-pull-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-pull-outline.jsx"
+    },
+    "./git-pull-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-pull-solid.jsx"
+    },
+    "./git-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-solid.jsx"
+    },
+    "./github-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-outline.jsx"
+    },
+    "./github-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-solid.jsx"
+    },
+    "./gitlab-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab-outline.jsx"
+    },
+    "./gitlab-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab-solid.jsx"
+    },
+    "./globe-africa-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-africa-outline.jsx"
+    },
+    "./globe-africa-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-africa-solid.jsx"
+    },
+    "./globe-americas-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-americas-outline.jsx"
+    },
+    "./globe-americas-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-americas-solid.jsx"
+    },
+    "./globe-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-outline.jsx"
+    },
+    "./globe-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-solid.jsx"
+    },
+    "./google-ad-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-ad-outline.jsx"
+    },
+    "./google-ad-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-ad-solid.jsx"
+    },
+    "./google-drive-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-drive-outline.jsx"
+    },
+    "./google-drive-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-drive-solid.jsx"
+    },
+    "./google-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-outline.jsx"
+    },
+    "./google-play-store-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-play-store-outline.jsx"
+    },
+    "./google-play-store-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-play-store-solid.jsx"
+    },
+    "./google-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-solid.jsx"
+    },
+    "./google-streetview-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-streetview-outline.jsx"
+    },
+    "./google-streetview-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-streetview-solid.jsx"
+    },
+    "./graphql-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql-outline.jsx"
+    },
+    "./graphql-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql-solid.jsx"
+    },
+    "./grid-layout-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-layout-outline.jsx"
+    },
+    "./grid-layout-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-layout-solid.jsx"
+    },
+    "./hashtag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hashtag-outline.jsx"
+    },
+    "./hashtag-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hashtag-solid.jsx"
+    },
+    "./hd-screen-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hd-screen-outline.jsx"
+    },
+    "./hd-screen-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hd-screen-solid.jsx"
+    },
+    "./hdmi-cable-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hdmi-cable-outline.jsx"
+    },
+    "./hdmi-cable-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hdmi-cable-solid.jsx"
+    },
+    "./headphones-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-outline.jsx"
+    },
+    "./headphones-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-solid.jsx"
+    },
+    "./headset-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-outline.jsx"
+    },
+    "./headset-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-solid.jsx"
+    },
+    "./heart-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-circle-outline.jsx"
+    },
+    "./heart-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-circle-solid.jsx"
+    },
+    "./heart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-outline.jsx"
+    },
+    "./heart-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-small-outline.jsx"
+    },
+    "./heart-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-small-solid.jsx"
+    },
+    "./heart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-solid.jsx"
+    },
+    "./hexagon-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hexagon-outline.jsx"
+    },
+    "./hexagon-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hexagon-solid.jsx"
+    },
+    "./history-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-outline.jsx"
+    },
+    "./history-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-solid.jsx"
+    },
+    "./home-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-alt-outline.jsx"
+    },
+    "./home-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-alt-solid.jsx"
+    },
+    "./home-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-outline.jsx"
+    },
+    "./home-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-solid.jsx"
+    },
+    "./hospital-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-outline.jsx"
+    },
+    "./hospital-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-solid.jsx"
+    },
+    "./hourglass-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hourglass-outline.jsx"
+    },
+    "./hourglass-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hourglass-solid.jsx"
+    },
+    "./house-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house-outline.jsx"
+    },
+    "./house-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house-solid.jsx"
+    },
+    "./html5-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html5-outline.jsx"
+    },
+    "./html5-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html5-solid.jsx"
+    },
+    "./id-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/id-outline.jsx"
+    },
+    "./id-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/id-solid.jsx"
+    },
+    "./imac-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imac-outline.jsx"
+    },
+    "./imac-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imac-solid.jsx"
+    },
+    "./image-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-alt-outline.jsx"
+    },
+    "./image-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-alt-solid.jsx"
+    },
+    "./image-document-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-document-outline.jsx"
+    },
+    "./image-document-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-document-solid.jsx"
+    },
+    "./image-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-outline.jsx"
+    },
+    "./image-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-solid.jsx"
+    },
+    "./in-ear-headphones-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-ear-headphones-outline.jsx"
+    },
+    "./in-ear-headphones-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-ear-headphones-solid.jsx"
+    },
+    "./inbox-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-outline.jsx"
+    },
+    "./inbox-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-solid.jsx"
+    },
+    "./indent-decrease-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-decrease-outline.jsx"
+    },
+    "./indent-decrease-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-decrease-solid.jsx"
+    },
+    "./indent-increase-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-increase-outline.jsx"
+    },
+    "./indent-increase-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-increase-solid.jsx"
+    },
+    "./info-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-circle-outline.jsx"
+    },
+    "./info-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-circle-solid.jsx"
+    },
+    "./info-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-outline.jsx"
+    },
+    "./info-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-small-outline.jsx"
+    },
+    "./info-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-small-solid.jsx"
+    },
+    "./info-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-solid.jsx"
+    },
+    "./instagram-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram-outline.jsx"
+    },
+    "./instagram-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram-solid.jsx"
+    },
+    "./invoice-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/invoice-outline.jsx"
+    },
+    "./invoice-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/invoice-solid.jsx"
+    },
+    "./italic-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/italic-outline.jsx"
+    },
+    "./italic-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/italic-solid.jsx"
+    },
+    "./javascript-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-outline.jsx"
+    },
+    "./javascript-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-solid.jsx"
+    },
+    "./joystick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/joystick-outline.jsx"
+    },
+    "./joystick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/joystick-solid.jsx"
+    },
+    "./jpg-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jpg-outline.jsx"
+    },
+    "./jpg-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jpg-solid.jsx"
+    },
+    "./kanban-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kanban-outline.jsx"
+    },
+    "./kanban-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kanban-solid.jsx"
+    },
+    "./key-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-outline.jsx"
+    },
+    "./key-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-solid.jsx"
+    },
+    "./keyboard-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-outline.jsx"
+    },
+    "./keyboard-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-solid.jsx"
+    },
+    "./lan-cable-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lan-cable-outline.jsx"
+    },
+    "./lan-cable-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lan-cable-solid.jsx"
+    },
+    "./laptop-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-outline.jsx"
+    },
+    "./laptop-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-solid.jsx"
+    },
+    "./laravel-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel-outline.jsx"
+    },
+    "./laravel-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel-solid.jsx"
+    },
+    "./layers-difference-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-difference-outline.jsx"
+    },
+    "./layers-difference-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-difference-solid.jsx"
+    },
+    "./layers-intersect-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-intersect-outline.jsx"
+    },
+    "./layers-intersect-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-intersect-solid.jsx"
+    },
+    "./layers-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-outline.jsx"
+    },
+    "./layers-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-solid.jsx"
+    },
+    "./layers-subtract-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-subtract-outline.jsx"
+    },
+    "./layers-subtract-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-subtract-solid.jsx"
+    },
+    "./layers-union-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-union-outline.jsx"
+    },
+    "./layers-union-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-union-solid.jsx"
+    },
+    "./left-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-circle-outline.jsx"
+    },
+    "./left-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-circle-solid.jsx"
+    },
+    "./left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-outline.jsx"
+    },
+    "./left-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-small-outline.jsx"
+    },
+    "./left-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-small-solid.jsx"
+    },
+    "./left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-solid.jsx"
+    },
+    "./lego-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lego-outline.jsx"
+    },
+    "./lego-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lego-solid.jsx"
+    },
+    "./lifebuoy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lifebuoy-outline.jsx"
+    },
+    "./lifebuoy-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lifebuoy-solid.jsx"
+    },
+    "./lightning-cable-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightning-cable-outline.jsx"
+    },
+    "./lightning-cable-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightning-cable-solid.jsx"
+    },
+    "./line-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-outline.jsx"
+    },
+    "./line-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-solid.jsx"
+    },
+    "./link-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-outline.jsx"
+    },
+    "./link-remove-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-remove-outline.jsx"
+    },
+    "./link-remove-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-remove-solid.jsx"
+    },
+    "./link-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-solid.jsx"
+    },
+    "./linkedin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin-outline.jsx"
+    },
+    "./linkedin-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin-solid.jsx"
+    },
+    "./linux-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-alt-outline.jsx"
+    },
+    "./linux-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-alt-solid.jsx"
+    },
+    "./linux-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-outline.jsx"
+    },
+    "./linux-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-solid.jsx"
+    },
+    "./list-layout-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-layout-outline.jsx"
+    },
+    "./list-layout-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-layout-solid.jsx"
+    },
+    "./list-ordered-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-ordered-outline.jsx"
+    },
+    "./list-ordered-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-ordered-solid.jsx"
+    },
+    "./list-unordered-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-outline.jsx"
+    },
+    "./list-unordered-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-solid.jsx"
+    },
+    "./litecoin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/litecoin-outline.jsx"
+    },
+    "./litecoin-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/litecoin-solid.jsx"
+    },
+    "./loader-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loader-outline.jsx"
+    },
+    "./loader-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loader-solid.jsx"
+    },
+    "./location-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-outline.jsx"
+    },
+    "./location-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-solid.jsx"
+    },
+    "./lock-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-circle-outline.jsx"
+    },
+    "./lock-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-circle-solid.jsx"
+    },
+    "./lock-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-outline.jsx"
+    },
+    "./lock-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-small-outline.jsx"
+    },
+    "./lock-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-small-solid.jsx"
+    },
+    "./lock-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-solid.jsx"
+    },
+    "./logout-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logout-outline.jsx"
+    },
+    "./logout-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logout-solid.jsx"
+    },
+    "./loop-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loop-outline.jsx"
+    },
+    "./loop-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loop-solid.jsx"
+    },
+    "./magsafe-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magsafe-outline.jsx"
+    },
+    "./magsafe-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magsafe-solid.jsx"
+    },
+    "./markdown-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-outline.jsx"
+    },
+    "./markdown-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-solid.jsx"
+    },
+    "./medium-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medium-outline.jsx"
+    },
+    "./medium-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medium-solid.jsx"
+    },
+    "./menu-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-outline.jsx"
+    },
+    "./menu-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-solid.jsx"
+    },
+    "./message-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-minus-outline.jsx"
+    },
+    "./message-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-minus-solid.jsx"
+    },
+    "./message-no-access-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-no-access-outline.jsx"
+    },
+    "./message-no-access-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-no-access-solid.jsx"
+    },
+    "./message-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-outline.jsx"
+    },
+    "./message-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-plus-outline.jsx"
+    },
+    "./message-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-plus-solid.jsx"
+    },
+    "./message-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-solid.jsx"
+    },
+    "./message-text-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-text-alt-outline.jsx"
+    },
+    "./message-text-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-text-alt-solid.jsx"
+    },
+    "./message-text-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-text-outline.jsx"
+    },
+    "./message-text-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-text-solid.jsx"
+    },
+    "./message-tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-tick-outline.jsx"
+    },
+    "./message-tick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-tick-solid.jsx"
+    },
+    "./message-x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-x-outline.jsx"
+    },
+    "./message-x-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-x-solid.jsx"
+    },
+    "./messenger-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/messenger-outline.jsx"
+    },
+    "./messenger-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/messenger-solid.jsx"
+    },
+    "./micro-sd-card-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/micro-sd-card-outline.jsx"
+    },
+    "./micro-sd-card-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/micro-sd-card-solid.jsx"
+    },
+    "./microphone-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-outline.jsx"
+    },
+    "./microphone-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-solid.jsx"
+    },
+    "./minimise-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minimise-alt-outline.jsx"
+    },
+    "./minimise-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minimise-alt-solid.jsx"
+    },
+    "./minimise-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minimise-outline.jsx"
+    },
+    "./minimise-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minimise-solid.jsx"
+    },
+    "./minus-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-circle-outline.jsx"
+    },
+    "./minus-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-circle-solid.jsx"
+    },
+    "./minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-outline.jsx"
+    },
+    "./minus-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-small-outline.jsx"
+    },
+    "./minus-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-small-solid.jsx"
+    },
+    "./minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-solid.jsx"
+    },
+    "./mobile-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-outline.jsx"
+    },
+    "./mobile-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-solid.jsx"
+    },
+    "./money-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-outline.jsx"
+    },
+    "./money-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-solid.jsx"
+    },
+    "./money-stack-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-stack-outline.jsx"
+    },
+    "./money-stack-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-stack-solid.jsx"
+    },
+    "./mongodb-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongodb-outline.jsx"
+    },
+    "./mongodb-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongodb-solid.jsx"
+    },
+    "./mood-flat-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-flat-outline.jsx"
+    },
+    "./mood-flat-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-flat-solid.jsx"
+    },
+    "./mood-frown-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-frown-outline.jsx"
+    },
+    "./mood-frown-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-frown-solid.jsx"
+    },
+    "./mood-laugh-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-laugh-outline.jsx"
+    },
+    "./mood-laugh-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-laugh-solid.jsx"
+    },
+    "./mood-sad-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-sad-outline.jsx"
+    },
+    "./mood-sad-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-sad-solid.jsx"
+    },
+    "./mood-smile-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-smile-outline.jsx"
+    },
+    "./mood-smile-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-smile-solid.jsx"
+    },
+    "./mood-surprised-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-surprised-outline.jsx"
+    },
+    "./mood-surprised-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-surprised-solid.jsx"
+    },
+    "./mood-tongue-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-tongue-outline.jsx"
+    },
+    "./mood-tongue-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mood-tongue-solid.jsx"
+    },
+    "./moon-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-outline.jsx"
+    },
+    "./moon-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-solid.jsx"
+    },
+    "./more-horizontal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more-horizontal-outline.jsx"
+    },
+    "./more-horizontal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more-horizontal-solid.jsx"
+    },
+    "./more-vertical-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more-vertical-outline.jsx"
+    },
+    "./more-vertical-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more-vertical-solid.jsx"
+    },
+    "./mouse-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mouse-outline.jsx"
+    },
+    "./mouse-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mouse-solid.jsx"
+    },
+    "./mov-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mov-outline.jsx"
+    },
+    "./mov-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mov-solid.jsx"
+    },
+    "./mp3-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mp3-outline.jsx"
+    },
+    "./mp3-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mp3-solid.jsx"
+    },
+    "./mp4-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mp4-outline.jsx"
+    },
+    "./mp4-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mp4-solid.jsx"
+    },
+    "./ms-excel-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-excel-outline.jsx"
+    },
+    "./ms-excel-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-excel-solid.jsx"
+    },
+    "./ms-powerpoint-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-powerpoint-outline.jsx"
+    },
+    "./ms-powerpoint-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-powerpoint-solid.jsx"
+    },
+    "./ms-word-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-word-outline.jsx"
+    },
+    "./ms-word-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/ms-word-solid.jsx"
+    },
+    "./n64-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/n64-outline.jsx"
+    },
+    "./n64-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/n64-solid.jsx"
+    },
+    "./nes-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nes-outline.jsx"
+    },
+    "./nes-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nes-solid.jsx"
+    },
+    "./netlify-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify-outline.jsx"
+    },
+    "./netlify-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify-solid.jsx"
+    },
+    "./next-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-circle-outline.jsx"
+    },
+    "./next-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-circle-solid.jsx"
+    },
+    "./next-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-outline.jsx"
+    },
+    "./next-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-small-outline.jsx"
+    },
+    "./next-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-small-solid.jsx"
+    },
+    "./next-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-solid.jsx"
+    },
+    "./nextjs-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextjs-outline.jsx"
+    },
+    "./nextjs-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextjs-solid.jsx"
+    },
+    "./ngc-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngc-outline.jsx"
+    },
+    "./ngc-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/ngc-solid.jsx"
+    },
+    "./nintendo-switch-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nintendo-switch-outline.jsx"
+    },
+    "./nintendo-switch-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nintendo-switch-solid.jsx"
+    },
+    "./nodejs-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs-outline.jsx"
+    },
+    "./nodejs-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs-solid.jsx"
+    },
+    "./note-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/note-outline.jsx"
+    },
+    "./note-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/note-solid.jsx"
+    },
+    "./npm-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-outline.jsx"
+    },
+    "./npm-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-solid.jsx"
+    },
+    "./nuxtjs-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxtjs-outline.jsx"
+    },
+    "./nuxtjs-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxtjs-solid.jsx"
+    },
+    "./omega-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omega-outline.jsx"
+    },
+    "./omega-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omega-solid.jsx"
+    },
+    "./opera-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opera-outline.jsx"
+    },
+    "./opera-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opera-solid.jsx"
+    },
+    "./otp-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/otp-outline.jsx"
+    },
+    "./otp-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/otp-solid.jsx"
+    },
+    "./page-break-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break-outline.jsx"
+    },
+    "./page-break-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break-solid.jsx"
+    },
+    "./page-number-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-number-outline.jsx"
+    },
+    "./page-number-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-number-solid.jsx"
+    },
+    "./paintbrush-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paintbrush-outline.jsx"
+    },
+    "./paintbrush-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paintbrush-solid.jsx"
+    },
+    "./paintbucket-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paintbucket-outline.jsx"
+    },
+    "./paintbucket-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paintbucket-solid.jsx"
+    },
+    "./paragraph-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paragraph-outline.jsx"
+    },
+    "./paragraph-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paragraph-solid.jsx"
+    },
+    "./password-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/password-outline.jsx"
+    },
+    "./password-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/password-solid.jsx"
+    },
+    "./patreon-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patreon-outline.jsx"
+    },
+    "./patreon-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/patreon-solid.jsx"
+    },
+    "./pause-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-circle-outline.jsx"
+    },
+    "./pause-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-circle-solid.jsx"
+    },
+    "./pause-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-outline.jsx"
+    },
+    "./pause-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-small-outline.jsx"
+    },
+    "./pause-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-small-solid.jsx"
+    },
+    "./pause-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-solid.jsx"
+    },
+    "./paw-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paw-outline.jsx"
+    },
+    "./paw-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paw-solid.jsx"
+    },
+    "./paws-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paws-outline.jsx"
+    },
+    "./paws-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paws-solid.jsx"
+    },
+    "./paypal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paypal-outline.jsx"
+    },
+    "./paypal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paypal-solid.jsx"
+    },
+    "./pdf-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pdf-outline.jsx"
+    },
+    "./pdf-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pdf-solid.jsx"
+    },
+    "./pen-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen-outline.jsx"
+    },
+    "./pen-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen-solid.jsx"
+    },
+    "./phone-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-outline.jsx"
+    },
+    "./phone-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-solid.jsx"
+    },
+    "./phonecall-blocked-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phonecall-blocked-outline.jsx"
+    },
+    "./phonecall-blocked-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phonecall-blocked-solid.jsx"
+    },
+    "./phonecall-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phonecall-outline.jsx"
+    },
+    "./phonecall-receive-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phonecall-receive-outline.jsx"
+    },
+    "./phonecall-receive-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phonecall-receive-solid.jsx"
+    },
+    "./phonecall-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phonecall-solid.jsx"
+    },
+    "./pie-chart-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pie-chart-alt-outline.jsx"
+    },
+    "./pie-chart-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pie-chart-alt-solid.jsx"
+    },
+    "./pie-chart-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pie-chart-outline.jsx"
+    },
+    "./pie-chart-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pie-chart-solid.jsx"
+    },
+    "./pin-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-alt-outline.jsx"
+    },
+    "./pin-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-alt-solid.jsx"
+    },
+    "./pin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-outline.jsx"
+    },
+    "./pin-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-solid.jsx"
+    },
+    "./pinterest-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinterest-outline.jsx"
+    },
+    "./pinterest-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinterest-solid.jsx"
+    },
+    "./plant-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plant-outline.jsx"
+    },
+    "./plant-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plant-solid.jsx"
+    },
+    "./play-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-circle-outline.jsx"
+    },
+    "./play-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-circle-solid.jsx"
+    },
+    "./play-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-outline.jsx"
+    },
+    "./play-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-small-outline.jsx"
+    },
+    "./play-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-small-solid.jsx"
+    },
+    "./play-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-solid.jsx"
+    },
+    "./plug-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-outline.jsx"
+    },
+    "./plug-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-solid.jsx"
+    },
+    "./plus-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-circle-outline.jsx"
+    },
+    "./plus-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-circle-solid.jsx"
+    },
+    "./png-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/png-outline.jsx"
+    },
+    "./png-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/png-solid.jsx"
+    },
+    "./pool-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pool-outline.jsx"
+    },
+    "./pool-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pool-solid.jsx"
+    },
+    "./pound-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pound-outline.jsx"
+    },
+    "./pound-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pound-solid.jsx"
+    },
+    "./power-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-outline.jsx"
+    },
+    "./power-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-solid.jsx"
+    },
+    "./ppt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ppt-outline.jsx"
+    },
+    "./ppt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ppt-solid.jsx"
+    },
+    "./print-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-outline.jsx"
+    },
+    "./print-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-solid.jsx"
+    },
+    "./python-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-outline.jsx"
+    },
+    "./python-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-solid.jsx"
+    },
+    "./qr-code-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qr-code-outline.jsx"
+    },
+    "./qr-code-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qr-code-solid.jsx"
+    },
+    "./question-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-circle-outline.jsx"
+    },
+    "./question-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-circle-solid.jsx"
+    },
+    "./question-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-outline.jsx"
+    },
+    "./question-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-small-outline.jsx"
+    },
+    "./question-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-small-solid.jsx"
+    },
+    "./question-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-solid.jsx"
+    },
+    "./quote-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote-outline.jsx"
+    },
+    "./quote-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote-solid.jsx"
+    },
+    "./rand-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rand-outline.jsx"
+    },
+    "./rand-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rand-solid.jsx"
+    },
+    "./react-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react-outline.jsx"
+    },
+    "./react-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react-solid.jsx"
+    },
+    "./receipt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/receipt-outline.jsx"
+    },
+    "./receipt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/receipt-solid.jsx"
+    },
+    "./reddit-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reddit-outline.jsx"
+    },
+    "./reddit-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reddit-solid.jsx"
+    },
+    "./redwoodjs-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redwoodjs-outline.jsx"
+    },
+    "./redwoodjs-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redwoodjs-solid.jsx"
+    },
+    "./refresh-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-alt-outline.jsx"
+    },
+    "./refresh-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-alt-solid.jsx"
+    },
+    "./refresh-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-outline.jsx"
+    },
+    "./refresh-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-solid.jsx"
+    },
+    "./rewind-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewind-circle-outline.jsx"
+    },
+    "./rewind-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewind-circle-solid.jsx"
+    },
+    "./rewind-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewind-outline.jsx"
+    },
+    "./rewind-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewind-small-outline.jsx"
+    },
+    "./rewind-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewind-small-solid.jsx"
+    },
+    "./rewind-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewind-solid.jsx"
+    },
+    "./right-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-circle-outline.jsx"
+    },
+    "./right-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-circle-solid.jsx"
+    },
+    "./right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-outline.jsx"
+    },
+    "./right-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-small-outline.jsx"
+    },
+    "./right-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-small-solid.jsx"
+    },
+    "./right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-solid.jsx"
+    },
+    "./ripple-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ripple-outline.jsx"
+    },
+    "./ripple-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ripple-solid.jsx"
+    },
+    "./robot-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robot-outline.jsx"
+    },
+    "./robot-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robot-solid.jsx"
+    },
+    "./roller-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roller-outline.jsx"
+    },
+    "./roller-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roller-solid.jsx"
+    },
+    "./rollupjs-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollupjs-outline.jsx"
+    },
+    "./rollupjs-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollupjs-solid.jsx"
+    },
+    "./router-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/router-outline.jsx"
+    },
+    "./router-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/router-solid.jsx"
+    },
+    "./rss-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-outline.jsx"
+    },
+    "./rss-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-solid.jsx"
+    },
+    "./ruby-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby-outline.jsx"
+    },
+    "./ruby-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby-solid.jsx"
+    },
+    "./rupee-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rupee-outline.jsx"
+    },
+    "./rupee-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rupee-solid.jsx"
+    },
+    "./rust-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust-outline.jsx"
+    },
+    "./rust-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust-solid.jsx"
+    },
+    "./safari-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safari-outline.jsx"
+    },
+    "./safari-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safari-solid.jsx"
+    },
+    "./safe-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safe-outline.jsx"
+    },
+    "./safe-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safe-solid.jsx"
+    },
+    "./save-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/save-outline.jsx"
+    },
+    "./save-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/save-solid.jsx"
+    },
+    "./scan-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-outline.jsx"
+    },
+    "./scan-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-solid.jsx"
+    },
+    "./school-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-outline.jsx"
+    },
+    "./school-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/school-solid.jsx"
+    },
+    "./screen-alt-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-alt-2-outline.jsx"
+    },
+    "./screen-alt-2-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-alt-2-solid.jsx"
+    },
+    "./screen-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-alt-outline.jsx"
+    },
+    "./screen-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-alt-solid.jsx"
+    },
+    "./screen-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-outline.jsx"
+    },
+    "./screen-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-solid.jsx"
+    },
+    "./scribble-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scribble-outline.jsx"
+    },
+    "./scribble-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scribble-solid.jsx"
+    },
+    "./sd-card-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sd-card-outline.jsx"
+    },
+    "./sd-card-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sd-card-solid.jsx"
+    },
+    "./search-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-circle-outline.jsx"
+    },
+    "./search-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-circle-solid.jsx"
+    },
+    "./search-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-outline.jsx"
+    },
+    "./search-property-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-property-outline.jsx"
+    },
+    "./search-property-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-property-solid.jsx"
+    },
+    "./search-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-small-outline.jsx"
+    },
+    "./search-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-small-solid.jsx"
+    },
+    "./search-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-solid.jsx"
+    },
+    "./section-add-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/section-add-outline.jsx"
+    },
+    "./section-add-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/section-add-solid.jsx"
+    },
+    "./section-remove-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/section-remove-outline.jsx"
+    },
+    "./section-remove-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/section-remove-solid.jsx"
+    },
+    "./send-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-down-outline.jsx"
+    },
+    "./send-down-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-down-solid.jsx"
+    },
+    "./send-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-left-outline.jsx"
+    },
+    "./send-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-left-solid.jsx"
+    },
+    "./send-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-outline.jsx"
+    },
+    "./send-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-right-outline.jsx"
+    },
+    "./send-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-right-solid.jsx"
+    },
+    "./send-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-solid.jsx"
+    },
+    "./send-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-up-outline.jsx"
+    },
+    "./send-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-up-solid.jsx"
+    },
+    "./servers-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/servers-outline.jsx"
+    },
+    "./servers-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/servers-solid.jsx"
+    },
+    "./share-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-outline.jsx"
+    },
+    "./share-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-solid.jsx"
+    },
+    "./shield-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-outline.jsx"
+    },
+    "./shield-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-solid.jsx"
+    },
+    "./shield-tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-tick-outline.jsx"
+    },
+    "./shield-tick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-tick-solid.jsx"
+    },
+    "./shield-x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-outline.jsx"
+    },
+    "./shield-x-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-solid.jsx"
+    },
+    "./shop-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-outline.jsx"
+    },
+    "./shop-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-solid.jsx"
+    },
+    "./sign-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sign-outline.jsx"
+    },
+    "./sign-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sign-solid.jsx"
+    },
+    "./signin-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signin-outline.jsx"
+    },
+    "./signin-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signin-solid.jsx"
+    },
+    "./sim-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sim-outline.jsx"
+    },
+    "./sim-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sim-solid.jsx"
+    },
+    "./simohamed-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simohamed-outline.jsx"
+    },
+    "./simohamed-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simohamed-solid.jsx"
+    },
+    "./skull-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skull-outline.jsx"
+    },
+    "./skull-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skull-solid.jsx"
+    },
+    "./skype-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skype-outline.jsx"
+    },
+    "./skype-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skype-solid.jsx"
+    },
+    "./slack-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slack-outline.jsx"
+    },
+    "./slack-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slack-solid.jsx"
+    },
+    "./snapchat-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapchat-outline.jsx"
+    },
+    "./snapchat-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapchat-solid.jsx"
+    },
+    "./snes-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snes-outline.jsx"
+    },
+    "./snes-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snes-solid.jsx"
+    },
+    "./sort-alphabetically-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetically-outline.jsx"
+    },
+    "./sort-alphabetically-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetically-solid.jsx"
+    },
+    "./sort-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-down-outline.jsx"
+    },
+    "./sort-down-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-down-solid.jsx"
+    },
+    "./sort-high-to-low-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-high-to-low-outline.jsx"
+    },
+    "./sort-high-to-low-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-high-to-low-solid.jsx"
+    },
+    "./sort-low-to-high-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-low-to-high-outline.jsx"
+    },
+    "./sort-low-to-high-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-low-to-high-solid.jsx"
+    },
+    "./sort-reverse-alphabetically-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-reverse-alphabetically-outline.jsx"
+    },
+    "./sort-reverse-alphabetically-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-reverse-alphabetically-solid.jsx"
+    },
+    "./sort-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-up-outline.jsx"
+    },
+    "./sort-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-up-solid.jsx"
+    },
+    "./sound-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sound-off-outline.jsx"
+    },
+    "./sound-off-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sound-off-solid.jsx"
+    },
+    "./sound-on-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sound-on-outline.jsx"
+    },
+    "./sound-on-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sound-on-solid.jsx"
+    },
+    "./spotify-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spotify-outline.jsx"
+    },
+    "./spotify-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spotify-solid.jsx"
+    },
+    "./spreadsheet-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spreadsheet-outline.jsx"
+    },
+    "./spreadsheet-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spreadsheet-solid.jsx"
+    },
+    "./square-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-outline.jsx"
+    },
+    "./square-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-solid.jsx"
+    },
+    "./stackoverflow-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow-outline.jsx"
+    },
+    "./stackoverflow-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow-solid.jsx"
+    },
+    "./stamp-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-outline.jsx"
+    },
+    "./stamp-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-solid.jsx"
+    },
+    "./star-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-circle-outline.jsx"
+    },
+    "./star-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-circle-solid.jsx"
+    },
+    "./star-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-outline.jsx"
+    },
+    "./star-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-small-outline.jsx"
+    },
+    "./star-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-small-solid.jsx"
+    },
+    "./star-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-solid.jsx"
+    },
+    "./stop-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-circle-outline.jsx"
+    },
+    "./stop-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-circle-solid.jsx"
+    },
+    "./stop-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-outline.jsx"
+    },
+    "./stop-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-small-outline.jsx"
+    },
+    "./stop-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-small-solid.jsx"
+    },
+    "./stop-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-solid.jsx"
+    },
+    "./stopwatch-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stopwatch-outline.jsx"
+    },
+    "./stopwatch-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stopwatch-solid.jsx"
+    },
+    "./strikethrough-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strikethrough-outline.jsx"
+    },
+    "./strikethrough-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strikethrough-solid.jsx"
+    },
+    "./subscript-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subscript-outline.jsx"
+    },
+    "./subscript-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subscript-solid.jsx"
+    },
+    "./sun-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-outline.jsx"
+    },
+    "./sun-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-solid.jsx"
+    },
+    "./superscript-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/superscript-outline.jsx"
+    },
+    "./superscript-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/superscript-solid.jsx"
+    },
+    "./svelte-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte-outline.jsx"
+    },
+    "./svelte-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte-solid.jsx"
+    },
+    "./svg-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svg-outline.jsx"
+    },
+    "./svg-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svg-solid.jsx"
+    },
+    "./table-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-outline.jsx"
+    },
+    "./table-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-solid.jsx"
+    },
+    "./tablet-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tablet-outline.jsx"
+    },
+    "./tablet-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tablet-solid.jsx"
+    },
+    "./tag-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-outline.jsx"
+    },
+    "./tag-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-solid.jsx"
+    },
+    "./tailwind-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwind-outline.jsx"
+    },
+    "./tailwind-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwind-solid.jsx"
+    },
+    "./target-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/target-outline.jsx"
+    },
+    "./target-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/target-solid.jsx"
+    },
+    "./telegram-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telegram-outline.jsx"
+    },
+    "./telegram-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telegram-solid.jsx"
+    },
+    "./terminal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-outline.jsx"
+    },
+    "./terminal-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-solid.jsx"
+    },
+    "./text-document-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-document-alt-outline.jsx"
+    },
+    "./text-document-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-document-alt-solid.jsx"
+    },
+    "./text-document-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-document-outline.jsx"
+    },
+    "./text-document-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-document-solid.jsx"
+    },
+    "./text-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-outline.jsx"
+    },
+    "./text-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-solid.jsx"
+    },
+    "./thumb-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumb-down-outline.jsx"
+    },
+    "./thumb-down-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumb-down-solid.jsx"
+    },
+    "./thumb-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumb-up-outline.jsx"
+    },
+    "./thumb-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumb-up-solid.jsx"
+    },
+    "./thumbtack-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbtack-outline.jsx"
+    },
+    "./thumbtack-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbtack-solid.jsx"
+    },
+    "./tick-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tick-circle-outline.jsx"
+    },
+    "./tick-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tick-circle-solid.jsx"
+    },
+    "./tick-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tick-outline.jsx"
+    },
+    "./tick-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tick-small-outline.jsx"
+    },
+    "./tick-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tick-small-solid.jsx"
+    },
+    "./tick-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tick-solid.jsx"
+    },
+    "./tiktok-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tiktok-outline.jsx"
+    },
+    "./tiktok-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tiktok-solid.jsx"
+    },
+    "./toggle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-outline.jsx"
+    },
+    "./toggle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-solid.jsx"
+    },
+    "./top-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/top-left-outline.jsx"
+    },
+    "./top-left-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/top-left-solid.jsx"
+    },
+    "./top-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/top-right-outline.jsx"
+    },
+    "./top-right-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/top-right-solid.jsx"
+    },
+    "./trend-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-down-outline.jsx"
+    },
+    "./trend-down-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-down-solid.jsx"
+    },
+    "./trend-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-up-outline.jsx"
+    },
+    "./trend-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-up-solid.jsx"
+    },
+    "./triangle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-outline.jsx"
+    },
+    "./triangle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-solid.jsx"
+    },
+    "./trophy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trophy-outline.jsx"
+    },
+    "./trophy-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trophy-solid.jsx"
+    },
+    "./tv-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tv-outline.jsx"
+    },
+    "./tv-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tv-solid.jsx"
+    },
+    "./twitch-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitch-outline.jsx"
+    },
+    "./twitch-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitch-solid.jsx"
+    },
+    "./twitter-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter-outline.jsx"
+    },
+    "./twitter-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter-solid.jsx"
+    },
+    "./typescript-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-outline.jsx"
+    },
+    "./typescript-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-solid.jsx"
+    },
+    "./underline-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/underline-outline.jsx"
+    },
+    "./underline-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/underline-solid.jsx"
+    },
+    "./unlock-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock-circle-outline.jsx"
+    },
+    "./unlock-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock-circle-solid.jsx"
+    },
+    "./unlock-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock-outline.jsx"
+    },
+    "./unlock-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock-small-outline.jsx"
+    },
+    "./unlock-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock-small-solid.jsx"
+    },
+    "./unlock-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock-solid.jsx"
+    },
+    "./up-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-circle-outline.jsx"
+    },
+    "./up-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-circle-solid.jsx"
+    },
+    "./up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-outline.jsx"
+    },
+    "./up-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-small-outline.jsx"
+    },
+    "./up-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-small-solid.jsx"
+    },
+    "./up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/up-solid.jsx"
+    },
+    "./upload-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload-outline.jsx"
+    },
+    "./upload-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload-solid.jsx"
+    },
+    "./usb-cable-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/usb-cable-outline.jsx"
+    },
+    "./usb-cable-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/usb-cable-solid.jsx"
+    },
+    "./user-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-outline.jsx"
+    },
+    "./user-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-solid.jsx"
+    },
+    "./user-minus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-minus-outline.jsx"
+    },
+    "./user-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-minus-solid.jsx"
+    },
+    "./user-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-outline.jsx"
+    },
+    "./user-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-plus-outline.jsx"
+    },
+    "./user-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-plus-solid.jsx"
+    },
+    "./user-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-solid.jsx"
+    },
+    "./user-square-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-square-outline.jsx"
+    },
+    "./user-square-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-square-solid.jsx"
+    },
+    "./users-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/users-outline.jsx"
+    },
+    "./users-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/users-solid.jsx"
+    },
+    "./vector-document-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vector-document-outline.jsx"
+    },
+    "./vector-document-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vector-document-solid.jsx"
+    },
+    "./venn-diagram-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/venn-diagram-outline.jsx"
+    },
+    "./venn-diagram-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/venn-diagram-solid.jsx"
+    },
+    "./view-column-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-column-outline.jsx"
+    },
+    "./view-column-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-column-solid.jsx"
+    },
+    "./view-grid-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-grid-outline.jsx"
+    },
+    "./view-grid-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-grid-solid.jsx"
+    },
+    "./vim-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-outline.jsx"
+    },
+    "./vim-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-solid.jsx"
+    },
+    "./volume-1-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-1-outline.jsx"
+    },
+    "./volume-1-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-1-solid.jsx"
+    },
+    "./volume-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-2-outline.jsx"
+    },
+    "./volume-2-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-2-solid.jsx"
+    },
+    "./volume-3-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-3-outline.jsx"
+    },
+    "./volume-3-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-3-solid.jsx"
+    },
+    "./vr-headset-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vr-headset-outline.jsx"
+    },
+    "./vr-headset-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vr-headset-solid.jsx"
+    },
+    "./vue-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue-outline.jsx"
+    },
+    "./vue-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue-solid.jsx"
+    },
+    "./wallet-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-alt-outline.jsx"
+    },
+    "./wallet-alt-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-alt-solid.jsx"
+    },
+    "./wallet-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-outline.jsx"
+    },
+    "./wallet-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-solid.jsx"
+    },
+    "./wan-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wan-outline.jsx"
+    },
+    "./wan-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wan-solid.jsx"
+    },
+    "./wand-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-outline.jsx"
+    },
+    "./wand-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-solid.jsx"
+    },
+    "./watch-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watch-outline.jsx"
+    },
+    "./watch-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watch-solid.jsx"
+    },
+    "./webpack-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack-outline.jsx"
+    },
+    "./webpack-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack-solid.jsx"
+    },
+    "./whatsapp-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whatsapp-outline.jsx"
+    },
+    "./whatsapp-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whatsapp-solid.jsx"
+    },
+    "./wifi-full-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-full-outline.jsx"
+    },
+    "./wifi-full-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-full-solid.jsx"
+    },
+    "./wifi-low-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-low-outline.jsx"
+    },
+    "./wifi-low-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-low-solid.jsx"
+    },
+    "./wifi-none-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-none-outline.jsx"
+    },
+    "./wifi-none-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-none-solid.jsx"
+    },
+    "./windows-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windows-outline.jsx"
+    },
+    "./windows-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windows-solid.jsx"
+    },
+    "./wordpress-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wordpress-outline.jsx"
+    },
+    "./wordpress-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wordpress-solid.jsx"
+    },
+    "./x-circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-outline.jsx"
+    },
+    "./x-circle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-solid.jsx"
+    },
+    "./x-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-outline.jsx"
+    },
+    "./x-small-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-small-outline.jsx"
+    },
+    "./x-small-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-small-solid.jsx"
+    },
+    "./x-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-solid.jsx"
+    },
+    "./xls-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xls-outline.jsx"
+    },
+    "./xls-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xls-solid.jsx"
+    },
+    "./yen-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yen-outline.jsx"
+    },
+    "./yen-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yen-solid.jsx"
+    },
+    "./youtube-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youtube-outline.jsx"
+    },
+    "./youtube-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youtube-solid.jsx"
+    },
+    "./zip-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zip-outline.jsx"
+    },
+    "./zip-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zip-solid.jsx"
+    },
+    "./zoom-in-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-in-outline.jsx"
+    },
+    "./zoom-in-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-in-solid.jsx"
+    },
+    "./zoom-out-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-out-outline.jsx"
+    },
+    "./zoom-out-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-out-solid.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#teenyicons"
+}

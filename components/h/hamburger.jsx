@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/h/h_zihlbfy.css';
+import '../../css/x/x8pf_69zz.css';
 import '../../css/u/u8eu58vpd.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="h_zihlbfy"/><path class="u8eu58vpd"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="x8pf_69zz"/><path class="u8eu58vpd"/></g>`,
 		"fallback": "lucide:hamburger",
 	});
 }

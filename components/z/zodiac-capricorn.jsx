@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/j/jpkvqkbvl.css';
+import '../../css/j/jgccb65hj.css';
 import '../../css/c/ceitnjb9j.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="jpkvqkbvl"/><circle class="ceitnjb9j"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="jgccb65hj"/><circle class="ceitnjb9j"/></g>`,
 		"fallback": "lucide:zodiac-capricorn",
 	});
 }

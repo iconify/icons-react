@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/d/dxh8he28q.css';
+import '../../css/l/lqme6yszl.css';
+import '../../css/e/etfdx2b5v.css';
+import '../../css/t/t03slpbnc.css';
+import '../../css/o/ont0a4b_g.css';
+import '../../css/m/mo5netbri.css';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="dxh8he28q"/><path clip-rule="evenodd" class="lqme6yszl"/><path clip-rule="evenodd" class="etfdx2b5v"/><path class="t03slpbnc"/><path class="ont0a4b_g"/><path class="mo5netbri"/></g>`,
+		"fallback": "pepicons-print:bluetooth-off",
+	});
+}
+
+export default Component;

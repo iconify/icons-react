@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/z/zuodb4jph.css';
+import '../../css/r/r5h4c1bev.css';
+import '../../css/s/sflysjb7o.css';
+import '../../css/m/mo5netbri.css';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="zuodb4jph"/><path clip-rule="evenodd" class="r5h4c1bev"/><path clip-rule="evenodd" class="sflysjb7o"/><path class="mo5netbri"/></g>`,
+		"fallback": "pepicons-print:camera-off",
+	});
+}
+
+export default Component;

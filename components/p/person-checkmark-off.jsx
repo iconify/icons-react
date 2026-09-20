@@ -1,0 +1,29 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/x/xyjtgccot.css';
+import '../../css/w/wic66ccbz.css';
+import '../../css/l/lp3erigkt.css';
+import '../../css/o/oyysoqbmk.css';
+import '../../css/w/wcrt6abhb.css';
+import '../../css/n/nvj15669a.css';
+import '../../css/w/w970o-bfi.css';
+import '../../css/e/e5ln5h33z.css';
+import '../../css/p/pwnmhr4eu.css';
+import '../../css/m/mo5netbri.css';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><g class="xyjtgccot"><path class="wic66ccbz"/><path clip-rule="evenodd" class="lp3erigkt"/><path clip-rule="evenodd" class="oyysoqbmk"/><path clip-rule="evenodd" class="wcrt6abhb"/><path clip-rule="evenodd" class="nvj15669a"/></g><path clip-rule="evenodd" class="w970o-bfi"/><path clip-rule="evenodd" class="e5ln5h33z"/><path clip-rule="evenodd" class="pwnmhr4eu"/><path class="mo5netbri"/></g>`,
+		"fallback": "pepicons-print:person-checkmark-off",
+	});
+}
+
+export default Component;

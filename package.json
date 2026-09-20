@@ -1,0 +1,267 @@
+{
+  "name": "@iconify-react/unjs",
+  "type": "module",
+  "version": "1.0.4",
+  "homepage": "https://icon-sets.iconify.design/unjs/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "Apache-2.0",
+  "exports": {
+    "./automd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/automd.jsx"
+    },
+    "./bundle-runner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bundle-runner.jsx"
+    },
+    "./c12": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c12.jsx"
+    },
+    "./changelogen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/changelogen.jsx"
+    },
+    "./citty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/citty.jsx"
+    },
+    "./confbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confbox.jsx"
+    },
+    "./consola": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/consola.jsx"
+    },
+    "./cookie-es": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie-es.jsx"
+    },
+    "./crossws": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crossws.jsx"
+    },
+    "./db0": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/db0.jsx"
+    },
+    "./defu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/defu.jsx"
+    },
+    "./destr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/destr.jsx"
+    },
+    "./fontaine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fontaine.jsx"
+    },
+    "./fs-memo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fs-memo.jsx"
+    },
+    "./get-port-please": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/get-port-please.jsx"
+    },
+    "./giget": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/giget.jsx"
+    },
+    "./h3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/h3.jsx"
+    },
+    "./hookable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hookable.jsx"
+    },
+    "./httpxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/httpxy.jsx"
+    },
+    "./image-meta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-meta.jsx"
+    },
+    "./ipx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ipx.jsx"
+    },
+    "./jimp-compact": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jimp-compact.jsx"
+    },
+    "./jiti": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jiti.jsx"
+    },
+    "./knitwork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knitwork.jsx"
+    },
+    "./listhen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/listhen.jsx"
+    },
+    "./magic-regexp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magic-regexp.jsx"
+    },
+    "./magicast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magicast.jsx"
+    },
+    "./mdbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mdbox.jsx"
+    },
+    "./mkdist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mkdist.jsx"
+    },
+    "./mlly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mlly.jsx"
+    },
+    "./mongoz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongoz.jsx"
+    },
+    "./nanotar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nanotar.jsx"
+    },
+    "./nitro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nitro.jsx"
+    },
+    "./node-fetch-native": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/node-fetch-native.jsx"
+    },
+    "./nypm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nypm.jsx"
+    },
+    "./ofetch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ofetch.jsx"
+    },
+    "./ohash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ohash.jsx"
+    },
+    "./pathe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pathe.jsx"
+    },
+    "./perfect-debounce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perfect-debounce.jsx"
+    },
+    "./pkg-types": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pkg-types.jsx"
+    },
+    "./radix3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radix3.jsx"
+    },
+    "./rc9": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rc9.jsx"
+    },
+    "./scule": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scule.jsx"
+    },
+    "./serve-placeholder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/serve-placeholder.jsx"
+    },
+    "./std-env": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/std-env.jsx"
+    },
+    "./theme-colors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theme-colors.jsx"
+    },
+    "./ufo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ufo.jsx"
+    },
+    "./unbuild": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unbuild.jsx"
+    },
+    "./uncrypto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uncrypto.jsx"
+    },
+    "./unctx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unctx.jsx"
+    },
+    "./undocs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undocs.jsx"
+    },
+    "./unenv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unenv.jsx"
+    },
+    "./ungh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ungh.jsx"
+    },
+    "./unhead": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unhead.jsx"
+    },
+    "./unimport": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unimport.jsx"
+    },
+    "./unpdf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unpdf.jsx"
+    },
+    "./unplugin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unplugin.jsx"
+    },
+    "./unstorage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unstorage.jsx"
+    },
+    "./untun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/untun.jsx"
+    },
+    "./untyped": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/untyped.jsx"
+    },
+    "./unwasm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unwasm.jsx"
+    },
+    "./uqr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uqr.jsx"
+    },
+    "./webpackbar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpackbar.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#unjs"
+}

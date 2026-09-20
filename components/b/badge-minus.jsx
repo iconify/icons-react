@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rm9zwacvg.css';
+import '../../css/c/c399ppbyf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rm9zwacvg"/>`,
+		"content": `<path class="c399ppbyf"/>`,
 		"fallback": "vadivam:badge-minus",
 	});
 }

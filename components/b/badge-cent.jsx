@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/m/mtka_hdsi.css';
+import '../../css/d/d_rbbbenc.css';
 import '../../css/h/hgtktwu3b.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="mtka_hdsi"/><path class="hgtktwu3b"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="d_rbbbenc"/><path class="hgtktwu3b"/></g>`,
 		"fallback": "vadivam:badge-cent",
 	});
 }

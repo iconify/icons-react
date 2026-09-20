@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/udt21abpr.css';
+import '../../css/i/ii08xxbwm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="udt21abpr"/>`,
+		"content": `<path class="ii08xxbwm"/>`,
 		"fallback": "vadivam:badge-x",
 	});
 }

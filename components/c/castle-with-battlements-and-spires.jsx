@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/m/m9jeykb_m.css';
+
+const viewBox = {"width":15,"height":15};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="m9jeykb_m"/>`,
+		"fallback": "pinhead:castle-with-battlements-and-spires",
+	});
+}
+
+export default Component;

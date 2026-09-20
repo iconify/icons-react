@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/y/yksgd-bkd.css';
+
+const viewBox = {"width":15,"height":15};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="yksgd-bkd"/>`,
+		"fallback": "pinhead:cairn-and-three-tall-rectangles-left",
+	});
+}
+
+export default Component;

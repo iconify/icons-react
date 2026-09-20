@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/g/g73be5v_d.css';
+
+const viewBox = {"width":15,"height":15};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="g73be5v_d"/>`,
+		"fallback": "pinhead:campsite-above-water",
+	});
+}
+
+export default Component;

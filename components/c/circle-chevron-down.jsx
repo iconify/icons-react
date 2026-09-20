@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/nrj6p8qat.css';
+import '../../css/h/h5tlhhb4e.css';
+import '../../css/u/u0pes3b4a.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="nrj6p8qat"><path class="h5tlhhb4e"/><path class="u0pes3b4a"/></g>`,
+		"fallback": "tabler:circle-chevron-down",
+	});
+}
+
+export default Component;

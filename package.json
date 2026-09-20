@@ -1,0 +1,879 @@
+{
+  "name": "@iconify-react/uit",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/uit/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "Apache-2.0",
+  "exports": {
+    "./adobe-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-alt.jsx"
+    },
+    "./airplay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/airplay.jsx"
+    },
+    "./align-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-alt.jsx"
+    },
+    "./align-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center.jsx"
+    },
+    "./align-center-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center-alt.jsx"
+    },
+    "./align-center-justify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center-justify.jsx"
+    },
+    "./align-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-left.jsx"
+    },
+    "./align-left-justify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-left-justify.jsx"
+    },
+    "./align-letter-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-letter-right.jsx"
+    },
+    "./align-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-right.jsx"
+    },
+    "./align-right-justify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-right-justify.jsx"
+    },
+    "./anchor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor.jsx"
+    },
+    "./android-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/android-alt.jsx"
+    },
+    "./angle-double-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angle-double-down.jsx"
+    },
+    "./angle-double-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angle-double-left.jsx"
+    },
+    "./angle-double-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angle-double-right.jsx"
+    },
+    "./angle-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angle-up.jsx"
+    },
+    "./ankh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ankh.jsx"
+    },
+    "./apple-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-alt.jsx"
+    },
+    "./arrow-circle-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-circle-down.jsx"
+    },
+    "./arrow-circle-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-circle-left.jsx"
+    },
+    "./arrow-circle-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-circle-right.jsx"
+    },
+    "./arrow-circle-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-circle-up.jsx"
+    },
+    "./arrow-down-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-left.jsx"
+    },
+    "./arrow-down-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-right.jsx"
+    },
+    "./arrow-up-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-left.jsx"
+    },
+    "./arrow-up-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-right.jsx"
+    },
+    "./at": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at.jsx"
+    },
+    "./bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag.jsx"
+    },
+    "./battery-bolt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-bolt.jsx"
+    },
+    "./battery-empty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-empty.jsx"
+    },
+    "./behance-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/behance-alt.jsx"
+    },
+    "./bitcoin-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitcoin-alt.jsx"
+    },
+    "./blogger-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blogger-alt.jsx"
+    },
+    "./bookmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark.jsx"
+    },
+    "./border-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-alt.jsx"
+    },
+    "./border-bottom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom.jsx"
+    },
+    "./border-clear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-clear.jsx"
+    },
+    "./border-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-horizontal.jsx"
+    },
+    "./border-inner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-inner.jsx"
+    },
+    "./border-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left.jsx"
+    },
+    "./border-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-out.jsx"
+    },
+    "./border-top": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top.jsx"
+    },
+    "./border-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-vertical.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./calender": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calender.jsx"
+    },
+    "./chart-growth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-growth.jsx"
+    },
+    "./chart-pie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-pie.jsx"
+    },
+    "./check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check.jsx"
+    },
+    "./check-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle.jsx"
+    },
+    "./check-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-square.jsx"
+    },
+    "./circle-layer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-layer.jsx"
+    },
+    "./circuit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circuit.jsx"
+    },
+    "./clinic-medical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clinic-medical.jsx"
+    },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./clock-eight": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-eight.jsx"
+    },
+    "./clock-five": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-five.jsx"
+    },
+    "./clock-nine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-nine.jsx"
+    },
+    "./clock-seven": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-seven.jsx"
+    },
+    "./clock-ten": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-ten.jsx"
+    },
+    "./clock-three": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-three.jsx"
+    },
+    "./clock-two": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-two.jsx"
+    },
+    "./columns": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/columns.jsx"
+    },
+    "./comment-dots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/comment-dots.jsx"
+    },
+    "./compress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compress.jsx"
+    },
+    "./corner-down-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left.jsx"
+    },
+    "./corner-down-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right.jsx"
+    },
+    "./corner-left-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down.jsx"
+    },
+    "./corner-right-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down.jsx"
+    },
+    "./corner-up-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-up-left.jsx"
+    },
+    "./corner-up-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-up-right.jsx"
+    },
+    "./covid-19": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/covid-19.jsx"
+    },
+    "./create-dashboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/create-dashboard.jsx"
+    },
+    "./desktop-alt-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/desktop-alt-slash.jsx"
+    },
+    "./dialpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialpad.jsx"
+    },
+    "./direction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction.jsx"
+    },
+    "./document-layout-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-layout-center.jsx"
+    },
+    "./document-layout-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-layout-left.jsx"
+    },
+    "./document-layout-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-layout-right.jsx"
+    },
+    "./download-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download-alt.jsx"
+    },
+    "./dropbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dropbox.jsx"
+    },
+    "./ellipsis-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipsis-h.jsx"
+    },
+    "./ellipsis-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipsis-v.jsx"
+    },
+    "./exclamation-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-circle.jsx"
+    },
+    "./exclamation-octagon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-octagon.jsx"
+    },
+    "./exclamation-triangle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-triangle.jsx"
+    },
+    "./facebook-f": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook-f.jsx"
+    },
+    "./facebook-messenger-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/facebook-messenger-alt.jsx"
+    },
+    "./favorite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/favorite.jsx"
+    },
+    "./flip-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-h.jsx"
+    },
+    "./flip-h-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-h-alt.jsx"
+    },
+    "./flip-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-v.jsx"
+    },
+    "./flip-v-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flip-v-alt.jsx"
+    },
+    "./github-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-alt.jsx"
+    },
+    "./gold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold.jsx"
+    },
+    "./google": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google.jsx"
+    },
+    "./google-drive-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-drive-alt.jsx"
+    },
+    "./google-hangouts-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-hangouts-alt.jsx"
+    },
+    "./google-play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-play.jsx"
+    },
+    "./grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid.jsx"
+    },
+    "./grids": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grids.jsx"
+    },
+    "./grip-horizontal-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grip-horizontal-line.jsx"
+    },
+    "./head-side": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/head-side.jsx"
+    },
+    "./head-side-cough": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/head-side-cough.jsx"
+    },
+    "./head-side-mask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/head-side-mask.jsx"
+    },
+    "./history": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history.jsx"
+    },
+    "./history-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-alt.jsx"
+    },
+    "./horizontal-align-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horizontal-align-left.jsx"
+    },
+    "./hospital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital.jsx"
+    },
+    "./hospital-square-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-square-sign.jsx"
+    },
+    "./hospital-symbol": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital-symbol.jsx"
+    },
+    "./house-user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house-user.jsx"
+    },
+    "./html3-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html3-alt.jsx"
+    },
+    "./image-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-v.jsx"
+    },
+    "./intercom-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intercom-alt.jsx"
+    },
+    "./key-skeleton": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-skeleton.jsx"
+    },
+    "./key-skeleton-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-skeleton-alt.jsx"
+    },
+    "./laptop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop.jsx"
+    },
+    "./layer-group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-group.jsx"
+    },
+    "./layers-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-alt.jsx"
+    },
+    "./left-indent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-indent.jsx"
+    },
+    "./left-indent-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/left-indent-alt.jsx"
+    },
+    "./line-spacing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-spacing.jsx"
+    },
+    "./link-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-broken.jsx"
+    },
+    "./link-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-h.jsx"
+    },
+    "./linkedin-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin-alt.jsx"
+    },
+    "./list-ui-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-ui-alt.jsx"
+    },
+    "./list-ul": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-ul.jsx"
+    },
+    "./master-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/master-card.jsx"
+    },
+    "./microscope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microscope.jsx"
+    },
+    "./minus-square-full": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-square-full.jsx"
+    },
+    "./modem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/modem.jsx"
+    },
+    "./mouse-alt-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mouse-alt-2.jsx"
+    },
+    "./multiply": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multiply.jsx"
+    },
+    "./object-group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/object-group.jsx"
+    },
+    "./object-ungroup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/object-ungroup.jsx"
+    },
+    "./opera-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opera-alt.jsx"
+    },
+    "./paperclip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paperclip.jsx"
+    },
+    "./paragraph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paragraph.jsx"
+    },
+    "./paypal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paypal.jsx"
+    },
+    "./pentagon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pentagon.jsx"
+    },
+    "./polygon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polygon.jsx"
+    },
+    "./previous": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/previous.jsx"
+    },
+    "./print": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print.jsx"
+    },
+    "./process": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/process.jsx"
+    },
+    "./pump": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pump.jsx"
+    },
+    "./question-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-circle.jsx"
+    },
+    "./record-audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/record-audio.jsx"
+    },
+    "./reddit-alien-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reddit-alien-alt.jsx"
+    },
+    "./redo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redo.jsx"
+    },
+    "./refresh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh.jsx"
+    },
+    "./repeat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repeat.jsx"
+    },
+    "./right-indent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-indent.jsx"
+    },
+    "./right-indent-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/right-indent-alt.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
+    },
+    "./ruler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruler.jsx"
+    },
+    "./ruler-combined": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruler-combined.jsx"
+    },
+    "./sanitizer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sanitizer.jsx"
+    },
+    "./sanitizer-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sanitizer-alt.jsx"
+    },
+    "./scenery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scenery.jsx"
+    },
+    "./shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield.jsx"
+    },
+    "./shield-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-check.jsx"
+    },
+    "./shield-exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-exclamation.jsx"
+    },
+    "./shield-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-plus.jsx"
+    },
+    "./shield-question": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-question.jsx"
+    },
+    "./shield-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-slash.jsx"
+    },
+    "./signal-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-alt.jsx"
+    },
+    "./signal-alt-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-alt-3.jsx"
+    },
+    "./signout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signout.jsx"
+    },
+    "./sim-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sim-card.jsx"
+    },
+    "./skype-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skype-alt.jsx"
+    },
+    "./slack-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slack-alt.jsx"
+    },
+    "./snapchat-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snapchat-alt.jsx"
+    },
+    "./social-distancing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/social-distancing.jsx"
+    },
+    "./social-media-logo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/social-media-logo.jsx"
+    },
+    "./space-key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-key.jsx"
+    },
+    "./square-full": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-full.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./star-half-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-half-alt.jsx"
+    },
+    "./step-forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-forward.jsx"
+    },
+    "./stethoscope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stethoscope.jsx"
+    },
+    "./stethoscope-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stethoscope-alt.jsx"
+    },
+    "./stopwatch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stopwatch.jsx"
+    },
+    "./store-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/store-slash.jsx"
+    },
+    "./subject": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subject.jsx"
+    },
+    "./sync-exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sync-exclamation.jsx"
+    },
+    "./sync-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sync-slash.jsx"
+    },
+    "./table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table.jsx"
+    },
+    "./telegram-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telegram-alt.jsx"
+    },
+    "./th": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/th.jsx"
+    },
+    "./th-large": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/th-large.jsx"
+    },
+    "./times-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/times-circle.jsx"
+    },
+    "./toggle-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-off.jsx"
+    },
+    "./toggle-on": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-on.jsx"
+    },
+    "./toilet-paper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilet-paper.jsx"
+    },
+    "./traffic-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traffic-light.jsx"
+    },
+    "./triangle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle.jsx"
+    },
+    "./tumblr-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tumblr-alt.jsx"
+    },
+    "./twitter-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter-alt.jsx"
+    },
+    "./umbrella": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbrella.jsx"
+    },
+    "./upload-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload-alt.jsx"
+    },
+    "./user-arrows": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-arrows.jsx"
+    },
+    "./vector-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vector-square.jsx"
+    },
+    "./vector-square-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vector-square-alt.jsx"
+    },
+    "./vk-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vk-alt.jsx"
+    },
+    "./vuejs-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuejs-alt.jsx"
+    },
+    "./wallet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet.jsx"
+    },
+    "./web-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-grid.jsx"
+    },
+    "./web-grid-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-grid-alt.jsx"
+    },
+    "./web-section": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-section.jsx"
+    },
+    "./web-section-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-section-alt.jsx"
+    },
+    "./window-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/window-grid.jsx"
+    },
+    "./window-maximize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/window-maximize.jsx"
+    },
+    "./window-section": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/window-section.jsx"
+    },
+    "./wrap-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrap-text.jsx"
+    },
+    "./youtube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/youtube.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#uit"
+}

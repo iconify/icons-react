@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/j/jtowsomii.css';
+import '../../css/n/ndhz-8whp.css';
+import '../../css/b/bkhro2btp.css';
+
+const viewBox = {"width":21,"height":21};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="jtowsomii"><path class="ndhz-8whp"/><path class="bkhro2btp"/></g>`,
+		"fallback": "system-uicons:battery-charging",
+	});
+}
+
+export default Component;

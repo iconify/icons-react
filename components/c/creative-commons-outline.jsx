@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/c/cbnwcbsoy.css';
+import '../../css/h/hhd67iwpx.css';
+import '../../css/b/bbrv0_ogo.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="cbnwcbsoy"/><path class="hhd67iwpx"/><path clip-rule="evenodd" class="bbrv0_ogo"/></g>`,
+		"fallback": "solar:creative-commons-outline",
+	});
+}
+
+export default Component;

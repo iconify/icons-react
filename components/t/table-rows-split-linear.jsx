@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/i/ipq1z-bjh.css';
+import '../../css/d/d0jtys32o.css';
+import '../../css/h/hzl-cbcya.css';
+import '../../css/b/b_mf07m0u.css';
+import '../../css/l/lrz9y2bgb.css';
+import '../../css/q/ql1vq9sac.css';
+import '../../css/t/tg76z_b_t.css';
+import '../../css/q/q9x8jtbcd.css';
+import '../../css/a/a18frqptk.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ipq1z-bjh"><path class="d0jtys32o"/><path class="hzl-cbcya"/><path class="b_mf07m0u"/><path class="lrz9y2bgb"/><path class="ql1vq9sac"/><path class="tg76z_b_t"/><path class="q9x8jtbcd"/><path class="a18frqptk"/></g>`,
+		"fallback": "solar:table-rows-split-linear",
+	});
+}
+
+export default Component;

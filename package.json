@@ -1,0 +1,591 @@
+{
+  "name": "@iconify-react/medical-icon",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/medical-icon/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./accessibility": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessibility.jsx"
+    },
+    "./administration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/administration.jsx"
+    },
+    "./alternative-complementary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alternative-complementary.jsx"
+    },
+    "./ambulance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ambulance.jsx"
+    },
+    "./anesthesia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anesthesia.jsx"
+    },
+    "./billing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/billing.jsx"
+    },
+    "./cardiology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cardiology.jsx"
+    },
+    "./care-staff-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/care-staff-area.jsx"
+    },
+    "./cath-lab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cath-lab.jsx"
+    },
+    "./chapel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chapel.jsx"
+    },
+    "./coffee-shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffee-shop.jsx"
+    },
+    "./dental": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dental.jsx"
+    },
+    "./dermatology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dermatology.jsx"
+    },
+    "./diabetes-education": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diabetes-education.jsx"
+    },
+    "./drinking-fountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drinking-fountain.jsx"
+    },
+    "./ear-nose-throat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ear-nose-throat.jsx"
+    },
+    "./elevators": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevators.jsx"
+    },
+    "./emergency": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emergency.jsx"
+    },
+    "./family-practice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/family-practice.jsx"
+    },
+    "./fire-extinguisher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fire-extinguisher.jsx"
+    },
+    "./first-aid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/first-aid.jsx"
+    },
+    "./genetics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/genetics.jsx"
+    },
+    "./gift-shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-shop.jsx"
+    },
+    "./health-education": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/health-education.jsx"
+    },
+    "./health-services": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/health-services.jsx"
+    },
+    "./hearing-assistance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hearing-assistance.jsx"
+    },
+    "./hospital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hospital.jsx"
+    },
+    "./i-accessibility": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-accessibility.jsx"
+    },
+    "./i-administration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-administration.jsx"
+    },
+    "./i-alternative-complementary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-alternative-complementary.jsx"
+    },
+    "./i-ambulance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-ambulance.jsx"
+    },
+    "./i-anesthesia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-anesthesia.jsx"
+    },
+    "./i-billing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-billing.jsx"
+    },
+    "./i-cardiology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-cardiology.jsx"
+    },
+    "./i-care-staff-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-care-staff-area.jsx"
+    },
+    "./i-cath-lab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-cath-lab.jsx"
+    },
+    "./i-chapel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-chapel.jsx"
+    },
+    "./i-coffee-shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-coffee-shop.jsx"
+    },
+    "./i-dental": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-dental.jsx"
+    },
+    "./i-dermatology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-dermatology.jsx"
+    },
+    "./i-diabetes-education": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-diabetes-education.jsx"
+    },
+    "./i-drinking-fountain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-drinking-fountain.jsx"
+    },
+    "./i-ear-nose-throat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-ear-nose-throat.jsx"
+    },
+    "./i-elevators": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-elevators.jsx"
+    },
+    "./i-emergency": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-emergency.jsx"
+    },
+    "./i-family-practice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-family-practice.jsx"
+    },
+    "./i-fire-extinguisher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-fire-extinguisher.jsx"
+    },
+    "./i-first-aid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-first-aid.jsx"
+    },
+    "./i-genetics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-genetics.jsx"
+    },
+    "./i-gift-shop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-gift-shop.jsx"
+    },
+    "./i-health-education": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-health-education.jsx"
+    },
+    "./i-health-services": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-health-services.jsx"
+    },
+    "./i-hearing-assistance": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-hearing-assistance.jsx"
+    },
+    "./i-hospital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-hospital.jsx"
+    },
+    "./i-imaging-alternative-ct": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-imaging-alternative-ct.jsx"
+    },
+    "./i-imaging-alternative-mri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-imaging-alternative-mri.jsx"
+    },
+    "./i-imaging-alternative-mri-two": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-imaging-alternative-mri-two.jsx"
+    },
+    "./i-imaging-alternative-pet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-imaging-alternative-pet.jsx"
+    },
+    "./i-imaging-root-category": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-imaging-root-category.jsx"
+    },
+    "./i-immunizations": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-immunizations.jsx"
+    },
+    "./i-infectious-diseases": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-infectious-diseases.jsx"
+    },
+    "./i-information-us": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-information-us.jsx"
+    },
+    "./i-inpatient": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-inpatient.jsx"
+    },
+    "./i-intensive-care": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-intensive-care.jsx"
+    },
+    "./i-internal-medicine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-internal-medicine.jsx"
+    },
+    "./i-interpreter-services": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-interpreter-services.jsx"
+    },
+    "./i-kidney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-kidney.jsx"
+    },
+    "./i-labor-delivery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-labor-delivery.jsx"
+    },
+    "./i-laboratory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-laboratory.jsx"
+    },
+    "./i-mammography": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-mammography.jsx"
+    },
+    "./i-medical-library": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-medical-library.jsx"
+    },
+    "./i-medical-records": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-medical-records.jsx"
+    },
+    "./i-mental-health": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-mental-health.jsx"
+    },
+    "./i-mri-pet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-mri-pet.jsx"
+    },
+    "./i-neurology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-neurology.jsx"
+    },
+    "./i-no-smoking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-no-smoking.jsx"
+    },
+    "./i-nursery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-nursery.jsx"
+    },
+    "./i-nutrition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-nutrition.jsx"
+    },
+    "./i-oncology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-oncology.jsx"
+    },
+    "./i-ophthalmology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-ophthalmology.jsx"
+    },
+    "./i-outpatient": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-outpatient.jsx"
+    },
+    "./i-pathology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-pathology.jsx"
+    },
+    "./i-pediatrics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-pediatrics.jsx"
+    },
+    "./i-pharmacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-pharmacy.jsx"
+    },
+    "./i-physical-therapy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-physical-therapy.jsx"
+    },
+    "./i-radiology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-radiology.jsx"
+    },
+    "./i-registration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-registration.jsx"
+    },
+    "./i-respiratory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-respiratory.jsx"
+    },
+    "./i-restaurant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-restaurant.jsx"
+    },
+    "./i-restrooms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-restrooms.jsx"
+    },
+    "./i-smoking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-smoking.jsx"
+    },
+    "./i-social-services": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-social-services.jsx"
+    },
+    "./i-stairs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-stairs.jsx"
+    },
+    "./i-surgery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-surgery.jsx"
+    },
+    "./i-text-telephone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-text-telephone.jsx"
+    },
+    "./i-ultrasound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-ultrasound.jsx"
+    },
+    "./i-volume-control": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-volume-control.jsx"
+    },
+    "./i-waiting-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-waiting-area.jsx"
+    },
+    "./i-womens-health": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-womens-health.jsx"
+    },
+    "./imaging-alternative-ct": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imaging-alternative-ct.jsx"
+    },
+    "./imaging-alternative-mri": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imaging-alternative-mri.jsx"
+    },
+    "./imaging-alternative-mri-two": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imaging-alternative-mri-two.jsx"
+    },
+    "./imaging-alternative-pet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imaging-alternative-pet.jsx"
+    },
+    "./imaging-root-category": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imaging-root-category.jsx"
+    },
+    "./immunizations": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/immunizations.jsx"
+    },
+    "./infectious-diseases": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infectious-diseases.jsx"
+    },
+    "./information-us": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-us.jsx"
+    },
+    "./inpatient": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inpatient.jsx"
+    },
+    "./intensive-care": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intensive-care.jsx"
+    },
+    "./internal-medicine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/internal-medicine.jsx"
+    },
+    "./interpreter-services": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/interpreter-services.jsx"
+    },
+    "./kidney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kidney.jsx"
+    },
+    "./labor-delivery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/labor-delivery.jsx"
+    },
+    "./laboratory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laboratory.jsx"
+    },
+    "./mammography": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mammography.jsx"
+    },
+    "./medical-library": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medical-library.jsx"
+    },
+    "./medical-records": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medical-records.jsx"
+    },
+    "./mental-health": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mental-health.jsx"
+    },
+    "./mri-pet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mri-pet.jsx"
+    },
+    "./neurology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neurology.jsx"
+    },
+    "./no-smoking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/no-smoking.jsx"
+    },
+    "./nursery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nursery.jsx"
+    },
+    "./nutrition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nutrition.jsx"
+    },
+    "./oncology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oncology.jsx"
+    },
+    "./ophthalmology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ophthalmology.jsx"
+    },
+    "./outpatient": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/outpatient.jsx"
+    },
+    "./pathology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pathology.jsx"
+    },
+    "./pediatrics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pediatrics.jsx"
+    },
+    "./pharmacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pharmacy.jsx"
+    },
+    "./physical-therapy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/physical-therapy.jsx"
+    },
+    "./radiology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radiology.jsx"
+    },
+    "./registration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/registration.jsx"
+    },
+    "./respiratory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/respiratory.jsx"
+    },
+    "./restaurant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restaurant.jsx"
+    },
+    "./restrooms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restrooms.jsx"
+    },
+    "./smoking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smoking.jsx"
+    },
+    "./social-services": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/social-services.jsx"
+    },
+    "./stairs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs.jsx"
+    },
+    "./surgery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/surgery.jsx"
+    },
+    "./text-telephone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-telephone.jsx"
+    },
+    "./ultrasound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ultrasound.jsx"
+    },
+    "./volume-control": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-control.jsx"
+    },
+    "./waiting-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waiting-area.jsx"
+    },
+    "./womens-health": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/womens-health.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#medical-icon"
+}

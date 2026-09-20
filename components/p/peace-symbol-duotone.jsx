@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/m/mpjt_glcl.css';
+import '../../css/o/opzii1jca.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path clip-rule="evenodd" class="mpjt_glcl"/><path class="opzii1jca"/>`,
+		"fallback": "stash:peace-symbol-duotone",
+	});
+}
+
+export default Component;

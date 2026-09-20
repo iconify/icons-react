@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/w/ww-0lbb7n.css';
+
+const viewBox = {"width":41,"height":41};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="ww-0lbb7n"/>`,
+		"fallback": "thesvg-color:uv",
+	});
+}
+
+export default Component;

@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/ngiyfacoq.css';
+import '../../css/k/ky783tb7z.css';
+import '../../css/v/vab1bkb9p.css';
+
+const viewBox = {"width":294,"height":229};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="ngiyfacoq"/><path class="ky783tb7z"/><path class="vab1bkb9p"/>`,
+		"fallback": "thesvg-color:zeabur-light",
+	});
+}
+
+export default Component;

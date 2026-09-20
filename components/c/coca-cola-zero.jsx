@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/d2kvgvbvc.css';
+import '../../css/l/l05nzq5tl.css';
+import '../../css/q/qh73_l67m.css';
+import '../../css/x/x8px_3b4l.css';
+import '../../css/q/qyrsgkb6d.css';
+import '../../css/u/uqaxfw2he.css';
+
+const viewBox = {"width":522.485,"height":232.031};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="d2kvgvbvc"><g class="l05nzq5tl"><path class="qh73_l67m"/><path class="x8px_3b4l"/><path class="qyrsgkb6d"/></g><path class="uqaxfw2he"/></g>`,
+		"fallback": "thesvg-color:coca-cola-zero",
+	});
+}
+
+export default Component;

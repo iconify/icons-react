@@ -1,0 +1,1815 @@
+{
+  "name": "@iconify-react/meteocons",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/meteocons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./barometer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barometer.jsx"
+    },
+    "./barometer-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/barometer-fill.jsx"
+    },
+    "./beanie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beanie.jsx"
+    },
+    "./beanie-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beanie-fill.jsx"
+    },
+    "./celsius": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/celsius.jsx"
+    },
+    "./celsius-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/celsius-fill.jsx"
+    },
+    "./clear-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-day.jsx"
+    },
+    "./clear-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-day-fill.jsx"
+    },
+    "./clear-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-night.jsx"
+    },
+    "./clear-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-night-fill.jsx"
+    },
+    "./cloud-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-down.jsx"
+    },
+    "./cloud-down-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-down-fill.jsx"
+    },
+    "./cloud-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-up.jsx"
+    },
+    "./cloud-up-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-up-fill.jsx"
+    },
+    "./cloudy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudy.jsx"
+    },
+    "./cloudy-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudy-fill.jsx"
+    },
+    "./code-green": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-green.jsx"
+    },
+    "./code-green-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-green-fill.jsx"
+    },
+    "./code-orange": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-orange.jsx"
+    },
+    "./code-orange-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-orange-fill.jsx"
+    },
+    "./code-red": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-red.jsx"
+    },
+    "./code-red-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-red-fill.jsx"
+    },
+    "./code-yellow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-yellow.jsx"
+    },
+    "./code-yellow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-yellow-fill.jsx"
+    },
+    "./compass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass.jsx"
+    },
+    "./compass-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-fill.jsx"
+    },
+    "./drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drizzle.jsx"
+    },
+    "./drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drizzle-fill.jsx"
+    },
+    "./dust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust.jsx"
+    },
+    "./dust-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust-day.jsx"
+    },
+    "./dust-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust-day-fill.jsx"
+    },
+    "./dust-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust-fill.jsx"
+    },
+    "./dust-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust-night.jsx"
+    },
+    "./dust-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust-night-fill.jsx"
+    },
+    "./dust-wind": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust-wind.jsx"
+    },
+    "./dust-wind-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dust-wind-fill.jsx"
+    },
+    "./extreme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme.jsx"
+    },
+    "./extreme-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day.jsx"
+    },
+    "./extreme-day-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-drizzle.jsx"
+    },
+    "./extreme-day-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-drizzle-fill.jsx"
+    },
+    "./extreme-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-fill.jsx"
+    },
+    "./extreme-day-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-fog.jsx"
+    },
+    "./extreme-day-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-fog-fill.jsx"
+    },
+    "./extreme-day-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-hail.jsx"
+    },
+    "./extreme-day-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-hail-fill.jsx"
+    },
+    "./extreme-day-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-haze.jsx"
+    },
+    "./extreme-day-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-haze-fill.jsx"
+    },
+    "./extreme-day-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-rain.jsx"
+    },
+    "./extreme-day-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-rain-fill.jsx"
+    },
+    "./extreme-day-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-sleet.jsx"
+    },
+    "./extreme-day-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-sleet-fill.jsx"
+    },
+    "./extreme-day-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-smoke.jsx"
+    },
+    "./extreme-day-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-smoke-fill.jsx"
+    },
+    "./extreme-day-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-snow.jsx"
+    },
+    "./extreme-day-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-day-snow-fill.jsx"
+    },
+    "./extreme-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-drizzle.jsx"
+    },
+    "./extreme-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-drizzle-fill.jsx"
+    },
+    "./extreme-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-fill.jsx"
+    },
+    "./extreme-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-fog.jsx"
+    },
+    "./extreme-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-fog-fill.jsx"
+    },
+    "./extreme-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-hail.jsx"
+    },
+    "./extreme-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-hail-fill.jsx"
+    },
+    "./extreme-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-haze.jsx"
+    },
+    "./extreme-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-haze-fill.jsx"
+    },
+    "./extreme-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night.jsx"
+    },
+    "./extreme-night-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-drizzle.jsx"
+    },
+    "./extreme-night-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-drizzle-fill.jsx"
+    },
+    "./extreme-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-fill.jsx"
+    },
+    "./extreme-night-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-fog.jsx"
+    },
+    "./extreme-night-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-fog-fill.jsx"
+    },
+    "./extreme-night-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-hail.jsx"
+    },
+    "./extreme-night-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-hail-fill.jsx"
+    },
+    "./extreme-night-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-haze.jsx"
+    },
+    "./extreme-night-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-haze-fill.jsx"
+    },
+    "./extreme-night-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-rain.jsx"
+    },
+    "./extreme-night-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-rain-fill.jsx"
+    },
+    "./extreme-night-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-sleet.jsx"
+    },
+    "./extreme-night-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-sleet-fill.jsx"
+    },
+    "./extreme-night-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-smoke.jsx"
+    },
+    "./extreme-night-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-smoke-fill.jsx"
+    },
+    "./extreme-night-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-snow.jsx"
+    },
+    "./extreme-night-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-night-snow-fill.jsx"
+    },
+    "./extreme-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-rain.jsx"
+    },
+    "./extreme-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-rain-fill.jsx"
+    },
+    "./extreme-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-sleet.jsx"
+    },
+    "./extreme-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-sleet-fill.jsx"
+    },
+    "./extreme-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-smoke.jsx"
+    },
+    "./extreme-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-smoke-fill.jsx"
+    },
+    "./extreme-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-snow.jsx"
+    },
+    "./extreme-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extreme-snow-fill.jsx"
+    },
+    "./fahrenheit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fahrenheit.jsx"
+    },
+    "./fahrenheit-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fahrenheit-fill.jsx"
+    },
+    "./falling-stars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/falling-stars.jsx"
+    },
+    "./falling-stars-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/falling-stars-fill.jsx"
+    },
+    "./flag-gale-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-gale-warning.jsx"
+    },
+    "./flag-gale-warning-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-gale-warning-fill.jsx"
+    },
+    "./flag-hurricane-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-hurricane-warning.jsx"
+    },
+    "./flag-hurricane-warning-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-hurricane-warning-fill.jsx"
+    },
+    "./flag-small-craft-advisory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-small-craft-advisory.jsx"
+    },
+    "./flag-small-craft-advisory-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-small-craft-advisory-fill.jsx"
+    },
+    "./flag-storm-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-storm-warning.jsx"
+    },
+    "./flag-storm-warning-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-storm-warning-fill.jsx"
+    },
+    "./fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fog.jsx"
+    },
+    "./fog-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fog-day.jsx"
+    },
+    "./fog-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fog-day-fill.jsx"
+    },
+    "./fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fog-fill.jsx"
+    },
+    "./fog-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fog-night.jsx"
+    },
+    "./fog-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fog-night-fill.jsx"
+    },
+    "./glove": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glove.jsx"
+    },
+    "./glove-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glove-fill.jsx"
+    },
+    "./hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hail.jsx"
+    },
+    "./hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hail-fill.jsx"
+    },
+    "./haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haze.jsx"
+    },
+    "./haze-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haze-day.jsx"
+    },
+    "./haze-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haze-day-fill.jsx"
+    },
+    "./haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haze-fill.jsx"
+    },
+    "./haze-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haze-night.jsx"
+    },
+    "./haze-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haze-night-fill.jsx"
+    },
+    "./horizon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horizon.jsx"
+    },
+    "./horizon-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horizon-fill.jsx"
+    },
+    "./humidity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/humidity.jsx"
+    },
+    "./humidity-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/humidity-fill.jsx"
+    },
+    "./hurricane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hurricane.jsx"
+    },
+    "./hurricane-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hurricane-fill.jsx"
+    },
+    "./lightning-bolt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightning-bolt.jsx"
+    },
+    "./lightning-bolt-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightning-bolt-fill.jsx"
+    },
+    "./mist": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mist.jsx"
+    },
+    "./mist-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mist-fill.jsx"
+    },
+    "./moon-first-quarter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-first-quarter.jsx"
+    },
+    "./moon-first-quarter-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-first-quarter-fill.jsx"
+    },
+    "./moon-full": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-full.jsx"
+    },
+    "./moon-full-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-full-fill.jsx"
+    },
+    "./moon-last-quarter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-last-quarter.jsx"
+    },
+    "./moon-last-quarter-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-last-quarter-fill.jsx"
+    },
+    "./moon-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-new.jsx"
+    },
+    "./moon-new-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-new-fill.jsx"
+    },
+    "./moon-waning-crescent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waning-crescent.jsx"
+    },
+    "./moon-waning-crescent-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waning-crescent-fill.jsx"
+    },
+    "./moon-waning-gibbous": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waning-gibbous.jsx"
+    },
+    "./moon-waning-gibbous-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waning-gibbous-fill.jsx"
+    },
+    "./moon-waxing-crescent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waxing-crescent.jsx"
+    },
+    "./moon-waxing-crescent-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waxing-crescent-fill.jsx"
+    },
+    "./moon-waxing-gibbous": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waxing-gibbous.jsx"
+    },
+    "./moon-waxing-gibbous-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-waxing-gibbous-fill.jsx"
+    },
+    "./moonrise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moonrise.jsx"
+    },
+    "./moonrise-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moonrise-fill.jsx"
+    },
+    "./moonset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moonset.jsx"
+    },
+    "./moonset-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moonset-fill.jsx"
+    },
+    "./not-available": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/not-available.jsx"
+    },
+    "./not-available-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/not-available-fill.jsx"
+    },
+    "./overcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast.jsx"
+    },
+    "./overcast-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day.jsx"
+    },
+    "./overcast-day-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-drizzle.jsx"
+    },
+    "./overcast-day-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-drizzle-fill.jsx"
+    },
+    "./overcast-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-fill.jsx"
+    },
+    "./overcast-day-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-fog.jsx"
+    },
+    "./overcast-day-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-fog-fill.jsx"
+    },
+    "./overcast-day-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-hail.jsx"
+    },
+    "./overcast-day-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-hail-fill.jsx"
+    },
+    "./overcast-day-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-haze.jsx"
+    },
+    "./overcast-day-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-haze-fill.jsx"
+    },
+    "./overcast-day-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-rain.jsx"
+    },
+    "./overcast-day-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-rain-fill.jsx"
+    },
+    "./overcast-day-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-sleet.jsx"
+    },
+    "./overcast-day-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-sleet-fill.jsx"
+    },
+    "./overcast-day-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-smoke.jsx"
+    },
+    "./overcast-day-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-smoke-fill.jsx"
+    },
+    "./overcast-day-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-snow.jsx"
+    },
+    "./overcast-day-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-day-snow-fill.jsx"
+    },
+    "./overcast-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-drizzle.jsx"
+    },
+    "./overcast-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-drizzle-fill.jsx"
+    },
+    "./overcast-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-fill.jsx"
+    },
+    "./overcast-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-fog.jsx"
+    },
+    "./overcast-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-fog-fill.jsx"
+    },
+    "./overcast-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-hail.jsx"
+    },
+    "./overcast-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-hail-fill.jsx"
+    },
+    "./overcast-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-haze.jsx"
+    },
+    "./overcast-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-haze-fill.jsx"
+    },
+    "./overcast-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night.jsx"
+    },
+    "./overcast-night-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-drizzle.jsx"
+    },
+    "./overcast-night-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-drizzle-fill.jsx"
+    },
+    "./overcast-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-fill.jsx"
+    },
+    "./overcast-night-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-fog.jsx"
+    },
+    "./overcast-night-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-fog-fill.jsx"
+    },
+    "./overcast-night-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-hail.jsx"
+    },
+    "./overcast-night-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-hail-fill.jsx"
+    },
+    "./overcast-night-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-haze.jsx"
+    },
+    "./overcast-night-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-haze-fill.jsx"
+    },
+    "./overcast-night-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-rain.jsx"
+    },
+    "./overcast-night-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-rain-fill.jsx"
+    },
+    "./overcast-night-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-sleet.jsx"
+    },
+    "./overcast-night-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-sleet-fill.jsx"
+    },
+    "./overcast-night-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-smoke.jsx"
+    },
+    "./overcast-night-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-smoke-fill.jsx"
+    },
+    "./overcast-night-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-snow.jsx"
+    },
+    "./overcast-night-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-night-snow-fill.jsx"
+    },
+    "./overcast-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-rain.jsx"
+    },
+    "./overcast-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-rain-fill.jsx"
+    },
+    "./overcast-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-sleet.jsx"
+    },
+    "./overcast-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-sleet-fill.jsx"
+    },
+    "./overcast-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-smoke.jsx"
+    },
+    "./overcast-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-smoke-fill.jsx"
+    },
+    "./overcast-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-snow.jsx"
+    },
+    "./overcast-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/overcast-snow-fill.jsx"
+    },
+    "./partly-cloudy-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day.jsx"
+    },
+    "./partly-cloudy-day-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-drizzle.jsx"
+    },
+    "./partly-cloudy-day-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-drizzle-fill.jsx"
+    },
+    "./partly-cloudy-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-fill.jsx"
+    },
+    "./partly-cloudy-day-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-fog.jsx"
+    },
+    "./partly-cloudy-day-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-fog-fill.jsx"
+    },
+    "./partly-cloudy-day-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-hail.jsx"
+    },
+    "./partly-cloudy-day-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-hail-fill.jsx"
+    },
+    "./partly-cloudy-day-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-haze.jsx"
+    },
+    "./partly-cloudy-day-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-haze-fill.jsx"
+    },
+    "./partly-cloudy-day-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-rain.jsx"
+    },
+    "./partly-cloudy-day-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-rain-fill.jsx"
+    },
+    "./partly-cloudy-day-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-sleet.jsx"
+    },
+    "./partly-cloudy-day-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-sleet-fill.jsx"
+    },
+    "./partly-cloudy-day-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-smoke.jsx"
+    },
+    "./partly-cloudy-day-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-smoke-fill.jsx"
+    },
+    "./partly-cloudy-day-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-snow.jsx"
+    },
+    "./partly-cloudy-day-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-day-snow-fill.jsx"
+    },
+    "./partly-cloudy-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night.jsx"
+    },
+    "./partly-cloudy-night-drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-drizzle.jsx"
+    },
+    "./partly-cloudy-night-drizzle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-drizzle-fill.jsx"
+    },
+    "./partly-cloudy-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-fill.jsx"
+    },
+    "./partly-cloudy-night-fog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-fog.jsx"
+    },
+    "./partly-cloudy-night-fog-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-fog-fill.jsx"
+    },
+    "./partly-cloudy-night-hail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-hail.jsx"
+    },
+    "./partly-cloudy-night-hail-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-hail-fill.jsx"
+    },
+    "./partly-cloudy-night-haze": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-haze.jsx"
+    },
+    "./partly-cloudy-night-haze-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-haze-fill.jsx"
+    },
+    "./partly-cloudy-night-rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-rain.jsx"
+    },
+    "./partly-cloudy-night-rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-rain-fill.jsx"
+    },
+    "./partly-cloudy-night-sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-sleet.jsx"
+    },
+    "./partly-cloudy-night-sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-sleet-fill.jsx"
+    },
+    "./partly-cloudy-night-smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-smoke.jsx"
+    },
+    "./partly-cloudy-night-smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-smoke-fill.jsx"
+    },
+    "./partly-cloudy-night-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-snow.jsx"
+    },
+    "./partly-cloudy-night-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/partly-cloudy-night-snow-fill.jsx"
+    },
+    "./pollen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen.jsx"
+    },
+    "./pollen-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen-fill.jsx"
+    },
+    "./pollen-flower": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen-flower.jsx"
+    },
+    "./pollen-flower-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen-flower-fill.jsx"
+    },
+    "./pollen-grass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen-grass.jsx"
+    },
+    "./pollen-grass-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen-grass-fill.jsx"
+    },
+    "./pollen-tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen-tree.jsx"
+    },
+    "./pollen-tree-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pollen-tree-fill.jsx"
+    },
+    "./pressure-high": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-high.jsx"
+    },
+    "./pressure-high-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-high-alt.jsx"
+    },
+    "./pressure-high-alt-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-high-alt-fill.jsx"
+    },
+    "./pressure-high-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-high-fill.jsx"
+    },
+    "./pressure-low": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-low.jsx"
+    },
+    "./pressure-low-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-low-alt.jsx"
+    },
+    "./pressure-low-alt-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-low-alt-fill.jsx"
+    },
+    "./pressure-low-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pressure-low-fill.jsx"
+    },
+    "./rain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rain.jsx"
+    },
+    "./rain-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rain-fill.jsx"
+    },
+    "./rainbow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rainbow.jsx"
+    },
+    "./rainbow-clear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rainbow-clear.jsx"
+    },
+    "./rainbow-clear-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rainbow-clear-fill.jsx"
+    },
+    "./rainbow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rainbow-fill.jsx"
+    },
+    "./raindrop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raindrop.jsx"
+    },
+    "./raindrop-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raindrop-fill.jsx"
+    },
+    "./raindrop-measure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raindrop-measure.jsx"
+    },
+    "./raindrop-measure-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raindrop-measure-fill.jsx"
+    },
+    "./raindrops": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raindrops.jsx"
+    },
+    "./raindrops-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raindrops-fill.jsx"
+    },
+    "./sleet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sleet.jsx"
+    },
+    "./sleet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sleet-fill.jsx"
+    },
+    "./smoke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smoke.jsx"
+    },
+    "./smoke-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smoke-fill.jsx"
+    },
+    "./smoke-particles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smoke-particles.jsx"
+    },
+    "./smoke-particles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smoke-particles-fill.jsx"
+    },
+    "./snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snow.jsx"
+    },
+    "./snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snow-fill.jsx"
+    },
+    "./snowflake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowflake.jsx"
+    },
+    "./snowflake-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowflake-fill.jsx"
+    },
+    "./snowman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowman.jsx"
+    },
+    "./snowman-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snowman-fill.jsx"
+    },
+    "./solar-eclipse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solar-eclipse.jsx"
+    },
+    "./solar-eclipse-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solar-eclipse-fill.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./star-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-fill.jsx"
+    },
+    "./starry-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/starry-night.jsx"
+    },
+    "./starry-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/starry-night-fill.jsx"
+    },
+    "./sun-hot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-hot.jsx"
+    },
+    "./sun-hot-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-hot-fill.jsx"
+    },
+    "./sunrise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sunrise.jsx"
+    },
+    "./sunrise-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sunrise-fill.jsx"
+    },
+    "./sunset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sunset.jsx"
+    },
+    "./sunset-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sunset-fill.jsx"
+    },
+    "./thermometer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer.jsx"
+    },
+    "./thermometer-celsius": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-celsius.jsx"
+    },
+    "./thermometer-celsius-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-celsius-fill.jsx"
+    },
+    "./thermometer-colder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-colder.jsx"
+    },
+    "./thermometer-colder-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-colder-fill.jsx"
+    },
+    "./thermometer-fahrenheit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-fahrenheit.jsx"
+    },
+    "./thermometer-fahrenheit-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-fahrenheit-fill.jsx"
+    },
+    "./thermometer-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-fill.jsx"
+    },
+    "./thermometer-glass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-glass.jsx"
+    },
+    "./thermometer-glass-celsius": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-glass-celsius.jsx"
+    },
+    "./thermometer-glass-celsius-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-glass-celsius-fill.jsx"
+    },
+    "./thermometer-glass-fahrenheit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-glass-fahrenheit.jsx"
+    },
+    "./thermometer-glass-fahrenheit-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-glass-fahrenheit-fill.jsx"
+    },
+    "./thermometer-glass-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-glass-fill.jsx"
+    },
+    "./thermometer-mercury": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-mercury.jsx"
+    },
+    "./thermometer-mercury-cold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-mercury-cold.jsx"
+    },
+    "./thermometer-mercury-cold-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-mercury-cold-fill.jsx"
+    },
+    "./thermometer-mercury-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-mercury-fill.jsx"
+    },
+    "./thermometer-moon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-moon.jsx"
+    },
+    "./thermometer-moon-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-moon-fill.jsx"
+    },
+    "./thermometer-raindrop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-raindrop.jsx"
+    },
+    "./thermometer-raindrop-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-raindrop-fill.jsx"
+    },
+    "./thermometer-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-snow.jsx"
+    },
+    "./thermometer-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-snow-fill.jsx"
+    },
+    "./thermometer-sun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-sun.jsx"
+    },
+    "./thermometer-sun-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-sun-fill.jsx"
+    },
+    "./thermometer-warmer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-warmer.jsx"
+    },
+    "./thermometer-warmer-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-warmer-fill.jsx"
+    },
+    "./thermometer-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-water.jsx"
+    },
+    "./thermometer-water-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thermometer-water-fill.jsx"
+    },
+    "./thunderstorms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms.jsx"
+    },
+    "./thunderstorms-day": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day.jsx"
+    },
+    "./thunderstorms-day-extreme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-extreme.jsx"
+    },
+    "./thunderstorms-day-extreme-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-extreme-fill.jsx"
+    },
+    "./thunderstorms-day-extreme-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-extreme-snow.jsx"
+    },
+    "./thunderstorms-day-extreme-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-extreme-snow-fill.jsx"
+    },
+    "./thunderstorms-day-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-fill.jsx"
+    },
+    "./thunderstorms-day-overcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-overcast.jsx"
+    },
+    "./thunderstorms-day-overcast-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-overcast-fill.jsx"
+    },
+    "./thunderstorms-day-overcast-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-overcast-snow.jsx"
+    },
+    "./thunderstorms-day-overcast-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-overcast-snow-fill.jsx"
+    },
+    "./thunderstorms-day-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-snow.jsx"
+    },
+    "./thunderstorms-day-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-day-snow-fill.jsx"
+    },
+    "./thunderstorms-extreme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-extreme.jsx"
+    },
+    "./thunderstorms-extreme-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-extreme-fill.jsx"
+    },
+    "./thunderstorms-extreme-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-extreme-snow.jsx"
+    },
+    "./thunderstorms-extreme-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-extreme-snow-fill.jsx"
+    },
+    "./thunderstorms-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-fill.jsx"
+    },
+    "./thunderstorms-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night.jsx"
+    },
+    "./thunderstorms-night-extreme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-extreme.jsx"
+    },
+    "./thunderstorms-night-extreme-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-extreme-fill.jsx"
+    },
+    "./thunderstorms-night-extreme-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-extreme-snow.jsx"
+    },
+    "./thunderstorms-night-extreme-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-extreme-snow-fill.jsx"
+    },
+    "./thunderstorms-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-fill.jsx"
+    },
+    "./thunderstorms-night-overcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-overcast.jsx"
+    },
+    "./thunderstorms-night-overcast-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-overcast-fill.jsx"
+    },
+    "./thunderstorms-night-overcast-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-overcast-snow.jsx"
+    },
+    "./thunderstorms-night-overcast-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-overcast-snow-fill.jsx"
+    },
+    "./thunderstorms-night-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-snow.jsx"
+    },
+    "./thunderstorms-night-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-night-snow-fill.jsx"
+    },
+    "./thunderstorms-overcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-overcast.jsx"
+    },
+    "./thunderstorms-overcast-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-overcast-fill.jsx"
+    },
+    "./thunderstorms-overcast-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-overcast-snow.jsx"
+    },
+    "./thunderstorms-overcast-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-overcast-snow-fill.jsx"
+    },
+    "./thunderstorms-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-snow.jsx"
+    },
+    "./thunderstorms-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thunderstorms-snow-fill.jsx"
+    },
+    "./tide-high": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tide-high.jsx"
+    },
+    "./tide-high-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tide-high-fill.jsx"
+    },
+    "./tide-low": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tide-low.jsx"
+    },
+    "./tide-low-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tide-low-fill.jsx"
+    },
+    "./time-afternoon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-afternoon.jsx"
+    },
+    "./time-afternoon-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-afternoon-fill.jsx"
+    },
+    "./time-evening": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-evening.jsx"
+    },
+    "./time-evening-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-evening-fill.jsx"
+    },
+    "./time-late-afternoon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-afternoon.jsx"
+    },
+    "./time-late-afternoon-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-afternoon-fill.jsx"
+    },
+    "./time-late-evening": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-evening.jsx"
+    },
+    "./time-late-evening-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-evening-fill.jsx"
+    },
+    "./time-late-morning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-morning.jsx"
+    },
+    "./time-late-morning-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-morning-fill.jsx"
+    },
+    "./time-late-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-night.jsx"
+    },
+    "./time-late-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-late-night-fill.jsx"
+    },
+    "./time-morning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-morning.jsx"
+    },
+    "./time-morning-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-morning-fill.jsx"
+    },
+    "./time-night": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-night.jsx"
+    },
+    "./time-night-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/time-night-fill.jsx"
+    },
+    "./tornado": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tornado.jsx"
+    },
+    "./tornado-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tornado-fill.jsx"
+    },
+    "./umbrella": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbrella.jsx"
+    },
+    "./umbrella-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbrella-fill.jsx"
+    },
+    "./umbrella-wind": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbrella-wind.jsx"
+    },
+    "./umbrella-wind-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbrella-wind-alt.jsx"
+    },
+    "./umbrella-wind-alt-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbrella-wind-alt-fill.jsx"
+    },
+    "./umbrella-wind-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/umbrella-wind-fill.jsx"
+    },
+    "./uv-index": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index.jsx"
+    },
+    "./uv-index-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-1.jsx"
+    },
+    "./uv-index-1-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-1-fill.jsx"
+    },
+    "./uv-index-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-10.jsx"
+    },
+    "./uv-index-10-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-10-fill.jsx"
+    },
+    "./uv-index-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-11.jsx"
+    },
+    "./uv-index-11-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-11-fill.jsx"
+    },
+    "./uv-index-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-2.jsx"
+    },
+    "./uv-index-2-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-2-fill.jsx"
+    },
+    "./uv-index-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-3.jsx"
+    },
+    "./uv-index-3-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-3-fill.jsx"
+    },
+    "./uv-index-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-4.jsx"
+    },
+    "./uv-index-4-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-4-fill.jsx"
+    },
+    "./uv-index-5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-5.jsx"
+    },
+    "./uv-index-5-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-5-fill.jsx"
+    },
+    "./uv-index-6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-6.jsx"
+    },
+    "./uv-index-6-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-6-fill.jsx"
+    },
+    "./uv-index-7": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-7.jsx"
+    },
+    "./uv-index-7-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-7-fill.jsx"
+    },
+    "./uv-index-8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-8.jsx"
+    },
+    "./uv-index-8-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-8-fill.jsx"
+    },
+    "./uv-index-9": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-9.jsx"
+    },
+    "./uv-index-9-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-9-fill.jsx"
+    },
+    "./uv-index-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv-index-fill.jsx"
+    },
+    "./wind": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind.jsx"
+    },
+    "./wind-alert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-alert.jsx"
+    },
+    "./wind-alert-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-alert-fill.jsx"
+    },
+    "./wind-beaufort-0": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-0.jsx"
+    },
+    "./wind-beaufort-0-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-0-fill.jsx"
+    },
+    "./wind-beaufort-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-1.jsx"
+    },
+    "./wind-beaufort-1-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-1-fill.jsx"
+    },
+    "./wind-beaufort-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-10.jsx"
+    },
+    "./wind-beaufort-10-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-10-fill.jsx"
+    },
+    "./wind-beaufort-11": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-11.jsx"
+    },
+    "./wind-beaufort-11-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-11-fill.jsx"
+    },
+    "./wind-beaufort-12": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-12.jsx"
+    },
+    "./wind-beaufort-12-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-12-fill.jsx"
+    },
+    "./wind-beaufort-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-2.jsx"
+    },
+    "./wind-beaufort-2-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-2-fill.jsx"
+    },
+    "./wind-beaufort-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-3.jsx"
+    },
+    "./wind-beaufort-3-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-3-fill.jsx"
+    },
+    "./wind-beaufort-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-4.jsx"
+    },
+    "./wind-beaufort-4-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-4-fill.jsx"
+    },
+    "./wind-beaufort-5": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-5.jsx"
+    },
+    "./wind-beaufort-5-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-5-fill.jsx"
+    },
+    "./wind-beaufort-6": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-6.jsx"
+    },
+    "./wind-beaufort-6-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-6-fill.jsx"
+    },
+    "./wind-beaufort-7": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-7.jsx"
+    },
+    "./wind-beaufort-7-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-7-fill.jsx"
+    },
+    "./wind-beaufort-8": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-8.jsx"
+    },
+    "./wind-beaufort-8-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-8-fill.jsx"
+    },
+    "./wind-beaufort-9": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-9.jsx"
+    },
+    "./wind-beaufort-9-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-beaufort-9-fill.jsx"
+    },
+    "./wind-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-fill.jsx"
+    },
+    "./wind-offshore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-offshore.jsx"
+    },
+    "./wind-offshore-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-offshore-fill.jsx"
+    },
+    "./wind-onshore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-onshore.jsx"
+    },
+    "./wind-onshore-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-onshore-fill.jsx"
+    },
+    "./wind-snow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-snow.jsx"
+    },
+    "./wind-snow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wind-snow-fill.jsx"
+    },
+    "./windsock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windsock.jsx"
+    },
+    "./windsock-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windsock-fill.jsx"
+    },
+    "./windsock-weak": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windsock-weak.jsx"
+    },
+    "./windsock-weak-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windsock-weak-fill.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#meteocons"
+}

@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/p/p2edwbbmi.css';
+import '../../css/x/x3z_zeblz.css';
+import '../../css/g/grny65b5z.css';
+import '../../css/y/yvq0q9f5t.css';
+import '../../css/i/iazd5_bwo.css';
+import '../../css/y/ykd9cjbnf.css';
+import '../../css/f/fqk8mibcy.css';
+
+const viewBox = {"width":512,"height":512};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<defs><symbol id="SVGnoI23bPp" viewBox="0 0 196 196"><circle fill="url(#SVG9IEgDxri)" class="p2edwbbmi"/><path class="x3z_zeblz"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 98 98; 45 98 98"/></path></symbol><symbol id="SVGMnBDAb4I" viewBox="0 0 350 222"><path fill="url(#SVGMeEfudbH)" class="grny65b5z"/></symbol><symbol id="SVGpSsklbqg" viewBox="0 0 363 258"><use width="196" height="196" href="#SVGnoI23bPp"/><use width="350" height="222" href="#SVGMnBDAb4I" transform="translate(13 36)"/></symbol><linearGradient id="SVGMeEfudbH" x1="99.5" x2="232.6" y1="30.7" y2="261.4" gradientUnits="userSpaceOnUse"><stop offset="0" class="yvq0q9f5t"/><stop offset=".5" class="yvq0q9f5t"/><stop offset="1" class="iazd5_bwo"/></linearGradient><linearGradient id="SVG9IEgDxri" x1="78" x2="118" y1="63.4" y2="132.7" gradientUnits="userSpaceOnUse"><stop offset="0" class="ykd9cjbnf"/><stop offset=".5" class="ykd9cjbnf"/><stop offset="1" class="fqk8mibcy"/></linearGradient></defs><use width="363" height="258" href="#SVGpSsklbqg" transform="translate(68 109)"/>`,
+		"fallback": "meteocons:partly-cloudy-day-fill",
+	});
+}
+
+export default Component;

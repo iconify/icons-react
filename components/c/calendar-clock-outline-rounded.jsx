@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.pvutm6bsp {
+  fill: currentColor;
+  d: path("M5 9.615h14v-3q0-.23-.192-.423T18.384 6H5.616q-.231 0-.424.192T5 6.616zm0 0V6zM5.616 21q-.691 0-1.153-.462T4 19.385V6.615q0-.69.463-1.152T5.616 5h1.769V3.308q0-.233.153-.386t.385-.153t.386.153t.153.386V5h7.154V3.27q0-.214.143-.358t.357-.143t.356.143t.144.357V5h1.769q.69 0 1.153.463T20 6.616v4.751q0 .214-.143.357t-.357.143t-.357-.143t-.143-.357v-.752H5v8.77q0 .23.192.423t.423.192h6.435q.214 0 .357.143t.143.357t-.143.357t-.357.143zm9.933-.164Q14.385 19.67 14.385 18t1.164-2.835T18.384 14q1.672 0 2.836 1.165q1.165 1.164 1.165 2.835t-1.165 2.836T18.385 22t-2.836-1.164m3.22-2.997V15.5q0-.161-.111-.273t-.274-.111t-.273.111T18 15.5v2.333q0 .161.056.3q.055.14.186.27l1.525 1.526q.112.111.264.121t.282-.121t.131-.273t-.13-.273z");
+}
+</style><path class="pvutm6bsp"/>`,
+		"fallback": "material-symbols-light:calendar-clock-outline-rounded",
+	});
+}
+
+export default Component;

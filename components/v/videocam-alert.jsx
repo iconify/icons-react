@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ee6ip3e6w {
+  fill: currentColor;
+  d: path("M11.752 19q.356-.683.546-1.429t.19-1.519q0-2.67-1.873-4.543Q8.74 9.634 6.07 9.634q-.69 0-1.337.15q-.648.149-1.253.441v-3.61q0-.69.462-1.152T5.096 5h10.77q.69 0 1.152.463t.463 1.153v4.653l3.038-3.038v7.538l-3.038-3.038v4.654q0 .69-.463 1.153T15.866 19zm-8.587-.164Q2 17.67 2 16t1.165-2.835T6 12t2.836 1.165T10 16t-1.164 2.836T6 20t-2.835-1.164m2.45-2.259h.77v-3h-.77zM6 18.423q.2 0 .33-.13t.132-.332t-.131-.33T6 17.5t-.33.13t-.132.332t.131.33t.331.131");
+}
+</style><path class="ee6ip3e6w"/>`,
+		"fallback": "material-symbols-light:videocam-alert",
+	});
+}
+
+export default Component;

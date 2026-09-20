@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ul_8webkp {
+  fill: currentColor;
+  d: path("M16.5 21q-1.871 0-3.185-1.314T12 16.5v-2h9v2q0 1.871-1.311 3.186Q18.377 21 16.5 21M4.615 19q-.69 0-1.153-.462T3 17.384V6.616q0-.691.463-1.153T4.615 5h14.77q.69 0 1.152.463T21 6.616v.528q0 .368-.314.526q-.313.159-.625-.058q-.796-.483-1.703-.74q-.908-.256-1.858-.256q-2.875 0-4.88 2.004T9.616 13.5v3q0 .408.036.79q.037.383.14.785q.087.367-.122.646T9.114 19zM12 13.5q.017-1.74 1.158-3.016Q14.298 9.208 16 9.017V13.5zm5 0V9.017q1.702.19 2.842 1.467Q20.982 11.76 21 13.5z");
+}
+</style><path class="ul_8webkp"/>`,
+		"fallback": "material-symbols-light:touchpad-mouse-rounded",
+	});
+}
+
+export default Component;

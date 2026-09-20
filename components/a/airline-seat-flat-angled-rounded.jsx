@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.vcalvpbvw {
+  fill: currentColor;
+  d: path("m9.977 11.333l1.087-2.962q.159-.41.534-.596t.785-.027l6.479 2.361q1.17.422 1.707 1.544t.097 2.293l-.425 1.125q-.131.304-.43.46t-.601.025l-8.748-3.192q-.323-.131-.47-.42q-.146-.288-.015-.611m8.567 6.913L3.581 12.808q-.189-.068-.274-.26t-.018-.38t.262-.278t.384-.015l14.963 5.438q.189.068.274.26t.019.38q-.068.19-.263.278t-.384.015M5.287 10.242q-.616-.615-.616-1.48q0-.866.616-1.481q.615-.616 1.48-.616q.866 0 1.481.616q.616.615.616 1.48q0 .866-.616 1.481q-.615.616-1.48.616q-.866 0-1.481-.616");
+}
+</style><path class="vcalvpbvw"/>`,
+		"fallback": "material-symbols-light:airline-seat-flat-angled-rounded",
+	});
+}
+
+export default Component;

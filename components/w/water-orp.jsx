@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jfl7vabtk {
+  fill: currentColor;
+  d: path("M7.577 21q-.31 0-.54-.23t-.23-.54v-3.846q0-.309.23-.539t.54-.23h2.346q.31 0 .54.23t.23.54v3.846q0 .31-.23.54t-.54.229zm.115-.885h2.116V16.5H7.692zm4.616.885v-5.384h3.154q.51 0 .87.36t.36.87v.962q0 .43-.298.758q-.298.326-.736.411l.88 2.023h-.942l-.85-2h-1.554v2zm6 0v-5.384h3.153q.51 0 .87.36t.361.87v.923q0 .51-.36.87q-.36.361-.87.361h-2.27v2zm-5.116-2.884h2.27q.154 0 .25-.087t.096-.221v-.962q0-.154-.096-.25t-.25-.096h-2.27zm6 0h2.27q.154 0 .25-.097q.096-.096.096-.25v-.923q0-.154-.096-.25t-.25-.096h-2.27zm-14.384.58q-.848-.952-1.328-2.194T3 13.8q0-2.154 1.738-4.765T10 3.308q3.429 3.04 5.166 5.583T17 13.57v.046H6.423q-.671 0-1.143.473q-.472.472-.472 1.143z");
+}
+</style><path class="jfl7vabtk"/>`,
+		"fallback": "material-symbols-light:water-orp",
+	});
+}
+
+export default Component;

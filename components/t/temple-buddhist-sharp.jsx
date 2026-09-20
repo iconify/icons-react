@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.djvk_-q-e {
+  fill: currentColor;
+  d: path("M8.327 6.73L12 1.828l3.673 4.904zm-1.827 4V8.467q-1.165-.249-1.948-1.02t-.994-1.921h1q.192.82.866 1.397t1.551.578h10.05q.877 0 1.551-.578t.866-1.397h1q-.153 1.13-.946 1.902q-.792.771-1.996 1.039v2.265zm-2 10.77v-9.034q-1.165-.21-1.967-1q-.802-.791-.975-1.941h1q.192.82.866 1.397t1.551.578h14.05q.877 0 1.551-.578t.866-1.397h1q-.134 1.13-.936 1.921q-.802.79-2.006 1.02V21.5h-6v-5h-3v5z");
+}
+</style><path class="djvk_-q-e"/>`,
+		"fallback": "material-symbols-light:temple-buddhist-sharp",
+	});
+}
+
+export default Component;

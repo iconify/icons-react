@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gtfnqpkia {
+  fill: currentColor;
+  d: path("M4.501 11.625q-.84 0-1.42-.58q-.581-.58-.581-1.419t.58-1.42t1.419-.581t1.42.58t.581 1.419t-.58 1.42t-1.419.581m3.08-4.58Q7 6.465 7 5.626t.58-1.42t1.419-.581t1.42.58T11 5.624t-.58 1.42t-1.419.581t-1.42-.58m6 0Q13 6.465 13 5.626t.58-1.42t1.419-.581t1.42.58T17 5.624t-.58 1.42t-1.419.581t-1.42-.58m5.92 4.58q-.84 0-1.42-.58q-.581-.58-.581-1.419t.58-1.42t1.419-.581t1.42.58t.581 1.419t-.58 1.42t-1.419.581m-12.851 10q-.933 0-1.541-.714q-.609-.713-.609-1.686q0-1.223.859-2.092q.858-.87 1.676-1.762q.725-.794 1.26-1.697q.534-.903 1.24-1.703q.492-.554 1.114-.95T12 10.625q.75 0 1.39.38q.64.382 1.114.955q.7.8 1.228 1.705q.528.906 1.234 1.706q.817.892 1.675 1.762q.859.869.859 2.092q0 .973-.609 1.686q-.608.714-1.541.714q-1.35 0-2.675-.225T12 21.175t-2.675.225t-2.675.225");
+}
+</style><path class="gtfnqpkia"/>`,
+		"fallback": "material-symbols-light:pets-outline",
+	});
+}
+
+export default Component;

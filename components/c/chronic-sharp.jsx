@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cq90vthvs {
+  fill: currentColor;
+  d: path("M10.037 18.935q-2.973-.362-5.005-2.61T3 11q0-3.333 2.332-5.667T10.996 3t5.667 2.333Q19 7.667 19 11q0 1.44-.5 2.713T17.146 16H12.95q-1.17 0-2.002.8t-.929 1.95q0 .046.003.092q.003.047.014.093M13 13.708l.708-.708l-2.208-2.208V6.5h-1v4.708zM13 21h6q.825 0 1.413-.587T21 19t-.587-1.412T19 17h-6q-.825 0-1.412.588T11 19t.588 1.413T13 21m-.52-1.48q-.21-.209-.21-.52t.21-.52q.209-.21.52-.21t.52.21q.21.209.21.52t-.21.52q-.209.21-.52.21t-.52-.21m3 0q-.21-.209-.21-.52t.21-.52q.209-.21.52-.21t.52.21q.21.209.21.52t-.21.52q-.209.21-.52.21t-.52-.21m3 0q-.21-.209-.21-.52t.21-.52q.209-.21.52-.21t.52.21q.21.209.21.52t-.21.52q-.209.21-.52.21t-.52-.21");
+}
+</style><path class="cq90vthvs"/>`,
+		"fallback": "material-symbols-light:chronic-sharp",
+	});
+}
+
+export default Component;

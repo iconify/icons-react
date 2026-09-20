@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hmmz28brp {
+  fill: currentColor;
+  d: path("M3 19V8.27q0-1.357.977-2.323t2.35-.966h11.346q1.373 0 2.35.966T21 8.269V19zm1-1h16V8.27q0-.96-.683-1.625q-.684-.664-1.644-.664H6.327q-.96 0-1.643.664Q4 7.31 4 8.27zm0 0h16zm3.158-2.846h.855V12.68H9.19l1.555 2.473h.99l-1.722-2.687q.622-.217.937-.645t.315-1.053q0-.938-.561-1.383q-.56-.444-1.724-.444H7.158zm.861-3.229L8 9.758h.933q.707 0 1.072.277q.364.278.364.784q0 .531-.357.819t-1.008.287zm6.443 3.229h.855V9.769h1.933v-.827h-4.734v.827h1.946z");
+}
+</style><path class="hmmz28brp"/>`,
+		"fallback": "material-symbols-light:game-trigger-right-outline",
+	});
+}
+
+export default Component;

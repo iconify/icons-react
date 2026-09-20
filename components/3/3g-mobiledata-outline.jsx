@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.g0wsbxbdq {
+  fill: currentColor;
+  d: path("M3.5 16.5v-1h4.385q.269 0 .442-.173t.173-.442v-1.77q0-.269-.173-.442t-.442-.173H3.5v-1h4.385q.269 0 .442-.173t.173-.442v-1.77q0-.269-.173-.442T7.885 8.5H3.5v-1h4.385q.67 0 1.143.472q.472.472.472 1.144v1.653q0 .472-.274.822q-.274.351-.726.409q.452.058.726.409q.274.35.274.822v1.654q0 .67-.472 1.143q-.472.472-1.144.472zm17-5v3.385q0 .67-.472 1.143q-.472.472-1.143.472h-4.77q-.67 0-1.143-.472q-.472-.472-.472-1.143v-5.77q0-.67.472-1.143q.472-.472 1.144-.472h4.923q.497 0 .902.27t.559.73h-6.384q-.27 0-.443.173t-.173.443v5.769q0 .269.173.442t.443.173h4.769q.269 0 .442-.173t.173-.442V12.5H17v-1z");
+}
+</style><path class="g0wsbxbdq"/>`,
+		"fallback": "material-symbols-light:3g-mobiledata-outline",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.obtrn6bzg {
+  fill: currentColor;
+  d: path("M7.616 22q-.672 0-1.144-.472T6 20.385V3.615q0-.69.463-1.152T7.616 2h8.846q.67 0 1.143.472q.472.472.472 1.144V6.83q.373.04.648.31q.275.269.275.648v1.769q0 .379-.275.648t-.648.31v9.869q0 .67-.472 1.143q-.472.472-1.143.472zm4.423-6.308q1.534 0 2.613-1.079T15.731 12t-1.079-2.613t-2.613-1.08t-2.614 1.08T8.346 12t1.079 2.614t2.614 1.078m0-.884q-1.166 0-1.987-.822q-.821-.82-.821-1.986q0-.454.133-.857q.132-.403.397-.793l3.928 3.927q-.391.265-.794.398t-.856.133m2.277-1.158l-3.927-3.927q.39-.265.793-.398t.857-.133q1.165 0 1.986.822q.821.82.821 1.986q0 .454-.113.847q-.114.394-.417.803");
+}
+</style><path class="obtrn6bzg"/>`,
+		"fallback": "material-symbols-light:mobile-block",
+	});
+}
+
+export default Component;

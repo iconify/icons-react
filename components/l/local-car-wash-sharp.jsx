@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.rb68b8brb {
+  fill: currentColor;
+  d: path("M11.159 4.73q-.351-.349-.351-.846q0-.525.372-1.038t.82-1q.448.487.82 1t.372 1.038q0 .497-.346.845t-.841.348t-.846-.348m-4.77 0q-.35-.347-.35-.844q0-.525.371-1.039q.373-.513.82-1q.449.487.821 1q.372.514.372 1.039q0 .497-.346.844q-.347.348-.842.348t-.846-.348m9.539 0q-.351-.347-.351-.844q0-.525.372-1.039t.82-1q.448.487.82 1q.373.514.373 1.039q0 .497-.347.844q-.346.348-.841.348t-.846-.348M5.231 20v2H4v-7.846L6.162 8h11.677L20 14.154V22h-1.23v-2zm.185-6.846h13.169L17.112 9H6.889zm2.012 4.538q.466 0 .788-.326q.323-.327.323-.794q0-.466-.327-.788q-.327-.323-.793-.323q-.467 0-.79.327q-.321.327-.321.793q0 .467.326.79q.327.321.793.321m9.155 0q.466 0 .788-.326q.322-.327.322-.794q0-.466-.326-.788q-.327-.323-.793-.323q-.467 0-.79.327q-.321.327-.321.793q0 .467.326.79q.327.321.794.321");
+}
+</style><path class="rb68b8brb"/>`,
+		"fallback": "material-symbols-light:local-car-wash-sharp",
+	});
+}
+
+export default Component;

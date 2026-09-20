@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.env_uebwj {
+  fill: currentColor;
+  d: path("M10.5 12.77q.31 0 .54-.221q.23-.22.23-.549q0-.31-.23-.54t-.54-.23q-.329 0-.549.23t-.22.54q0 .329.22.549t.549.22m-3 0q.31 0 .54-.22T8.27 12q0-.31-.23-.54t-.54-.23q-.329 0-.549.23t-.22.54q0 .329.22.549t.549.22m6 0q.31 0 .54-.22t.23-.549q0-.31-.23-.54t-.54-.23q-.329 0-.549.23t-.22.54q0 .329.22.549t.549.22m3 0q.31 0 .54-.22t.23-.549q0-.31-.23-.54t-.54-.23q-.329 0-.549.23t-.22.54q0 .329.22.549t.549.22M8 18H5.5q-1.458 0-2.479-1.021T2 14.5v-5q0-1.458 1.021-2.479T5.5 6h13q1.458 0 2.479 1.021T22 9.5v5q0 1.458-1.021 2.479T18.5 18H16q0 .31-.23.54t-.54.23H8.77q-.31 0-.54-.23T8 18");
+}
+</style><path class="env_uebwj"/>`,
+		"fallback": "material-symbols-light:home-max-dots-rounded",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hl6bdwmnr {
+  fill: currentColor;
+  d: path("M2.116 13.27q-.691 0-1.153-.463T.5 11.654V5.769q0-.184.077-.353q.077-.17.22-.312l3.4-3.4q.147-.148.317-.213q.169-.064.328-.064q.42 0 .712.308q.292.307.206.794l-.575 2.74h4.93q.599 0 .992.394t.393.99v.366q0 .15-.025.268t-.075.244l-2.211 5.108q-.137.29-.38.46t-.559.17zm11.769 5.46q-.598 0-.992-.392t-.393-.992v-.365q0-.15.025-.269t.075-.243l2.212-5.107q.142-.29.382-.461q.24-.17.556-.17h6.134q.691 0 1.153.462t.463 1.153v5.885q0 .185-.074.35t-.222.315l-3.4 3.4q-.148.148-.318.213q-.169.064-.328.064q-.42 0-.712-.308q-.292-.307-.206-.794l.575-2.74z");
+}
+</style><path class="hl6bdwmnr"/>`,
+		"fallback": "material-symbols-light:thumbs-up-down-rounded",
+	});
+}
+
+export default Component;

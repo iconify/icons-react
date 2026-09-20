@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.s2qqfns0f {
+  fill: currentColor;
+  d: path("M7.308 19L4 15.692l3.308-3.307l.713.707l-2.1 2.1h6.29v1h-6.29l2.095 2.1zm7.5-2.711q-.252 0-.424-.172q-.172-.17-.172-.424q0-.253.17-.425q.172-.172.425-.172t.425.171t.172.424t-.171.425t-.424.172m3.192 0q-.253 0-.425-.17q-.172-.172-.172-.425t.171-.425t.424-.172t.425.171t.172.424t-.171.425t-.424.172m-1.309-4.673l-.713-.688l2.119-2.12h-6.31v-1h6.29l-2.093-2.1l.707-.707L20 8.308zM6.001 8.904q-.253 0-.425-.171t-.172-.424t.171-.425t.424-.172t.425.17t.172.425t-.171.425t-.424.172m3.192 0q-.252 0-.425-.171q-.172-.171-.172-.424t.171-.425t.424-.172t.425.17t.172.425t-.17.425t-.425.172");
+}
+</style><path class="s2qqfns0f"/>`,
+		"fallback": "material-symbols-light:multiple-stop-sharp",
+	});
+}
+
+export default Component;

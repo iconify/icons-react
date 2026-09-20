@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.e43s06b0l {
+  fill: currentColor;
+  d: path("M3.48 19q-.459 0-.695-.388q-.237-.389-.029-.787l2.27-4.345q.209-.4.582-.632q.374-.233.838-.233q.485 0 .89.253q.406.252.589.716l.521 1.227q.185.4.688.367t.647-.43l2.092-6.675q.312-.989 1.155-1.57q.843-.58 1.87-.58q1.006 0 1.843.568t1.155 1.526l3.606 9.908q.137.404-.109.74q-.245.335-.668.335zm2.654-9.096q-1.019 0-1.75-.728q-.73-.729-.73-1.734q0-1.038.73-1.75q.731-.711 1.75-.711t1.73.711t.713 1.748q0 1.016-.713 1.74t-1.73.724");
+}
+</style><path class="e43s06b0l"/>`,
+		"fallback": "material-symbols-light:landscape-2-rounded",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cb0_l_bvt {
+  fill: currentColor;
+  d: path("M6 18.616q-.261 0-.438-.177T5.384 18t.177-.438t.439-.178t.439.177t.177.439t-.177.439t-.439.177m12 0q-.261 0-.438-.177T17.383 18t.177-.438t.439-.178t.439.177t.177.439t-.177.439t-.439.177m-9 4q-.261 0-.438-.177T8.385 22t.177-.438t.438-.178t.439.177t.176.439t-.177.439t-.438.177m3-4q-.261 0-.438-.177T11.385 18t.177-.438t.438-.178t.439.177t.176.439t-.177.439t-.438.177m3 4q-.261 0-.438-.177T14.385 22t.177-.438t.438-.178t.439.177t.176.439t-.177.439t-.438.177M7.5 15.5q-2.083 0-3.541-1.459Q2.5 12.583 2.5 10.5q0-1.94 1.308-3.356t3.275-1.633q.744-1.407 2.034-2.209t2.875-.802q2.162 0 3.709 1.428t1.801 3.559q1.84.111 2.92 1.28q1.078 1.17 1.078 2.739q0 1.658-1.167 2.826Q19.167 15.5 17.5 15.5z");
+}
+</style><path class="cb0_l_bvt"/>`,
+		"fallback": "material-symbols-light:cloudy-snowing",
+	});
+}
+
+export default Component;

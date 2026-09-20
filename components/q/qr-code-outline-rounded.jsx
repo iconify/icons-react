@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fyi_2qf7f {
+  fill: currentColor;
+  d: path("M4 10.192V4.808q0-.343.232-.576T4.808 4h5.384q.343 0 .576.232t.232.576v5.384q0 .344-.232.576t-.576.232H4.808q-.343 0-.576-.232T4 10.192M5 10h5V5H5zm-1 9.192v-5.384q0-.344.232-.576T4.808 13h5.384q.343 0 .576.232t.232.576v5.384q0 .343-.232.576t-.576.232H4.808q-.343 0-.576-.232T4 19.192M5 19h5v-5H5zm8-8.808V4.808q0-.343.232-.576T13.808 4h5.384q.344 0 .576.232t.232.576v5.384q0 .344-.232.576t-.576.232h-5.384q-.344 0-.576-.232T13 10.192M14 10h5V5h-5zm4.25 10v-1.75H20V20zM13 14.75V13h1.75v1.75zm1.75 1.75v-1.75h1.75v1.75zM13 18.25V16.5h1.75v1.75zM14.75 20v-1.75h1.75V20zm1.75-1.75V16.5h1.75v1.75zm0-3.5V13h1.75v1.75zm1.75 1.75v-1.75H20v1.75z");
+}
+</style><path class="fyi_2qf7f"/>`,
+		"fallback": "material-symbols-light:qr-code-outline-rounded",
+	});
+}
+
+export default Component;

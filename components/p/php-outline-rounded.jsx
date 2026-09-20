@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.t1dmwmb-q {
+  fill: currentColor;
+  d: path("M3.423 14.25V9.904q0-.248.184-.422t.431-.174h2.885q.37 0 .627.277q.258.276.258.646v1.654q0 .369-.258.627t-.627.257H4.308v1.481q0 .192-.125.317t-.317.125t-.317-.125t-.126-.317m6.577 0v-4.5q0-.192.125-.317t.317-.125t.317.125t.125.317v1.558H13.5V9.75q0-.192.125-.317t.317-.125t.317.125t.125.317v4.5q0 .192-.125.317t-.316.125t-.317-.125t-.126-.317v-2.058h-2.615v2.058q0 .192-.125.317t-.317.125t-.317-.125T10 14.25m6.73 0V9.904q0-.248.185-.422q.183-.174.431-.174h2.885q.369 0 .627.277q.257.276.257.646v1.654q0 .369-.257.627t-.627.257h-2.616v1.481q0 .192-.125.317t-.316.125t-.317-.125t-.126-.317M4.308 11.884h2.615v-1.653H4.308zm13.307 0h2.616v-1.653h-2.616z");
+}
+</style><path class="t1dmwmb-q"/>`,
+		"fallback": "material-symbols-light:php-outline-rounded",
+	});
+}
+
+export default Component;

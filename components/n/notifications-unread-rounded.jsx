@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ilpozmmfm {
+  fill: currentColor;
+  d: path("M11.997 21.385q-.668 0-1.14-.475q-.472-.474-.472-1.14h3.23q0 .67-.475 1.143q-.476.472-1.143.472M5.5 18.769q-.213 0-.356-.144T5 18.268t.144-.356t.356-.143h1.116V9.846q0-1.96 1.24-3.447T11 4.546V4q0-.417.291-.708q.291-.292.707-.292t.709.292T13 4v.075q-.442.616-.683 1.342q-.24.727-.24 1.487q0 1.998 1.395 3.422t3.374 1.463h.27q.134 0 .268-.02v6H18.5q.213 0 .356.144q.144.144.144.357t-.144.356t-.356.143zm9.692-10.094q-.73-.728-.73-1.769t.728-1.772t1.77-.73t1.77.728t.732 1.77t-.729 1.771t-1.77.73t-1.77-.728");
+}
+</style><path class="ilpozmmfm"/>`,
+		"fallback": "material-symbols-light:notifications-unread-rounded",
+	});
+}
+
+export default Component;

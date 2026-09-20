@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.flqrgibko {
+  fill: currentColor;
+  d: path("M7.808 21q-.421 0-.711-.29q-.29-.289-.29-.71v-1q0-1.002.494-1.896t1.434-1.492l-.76-4.92h-1.59q-.69 0-1.153-.462t-.463-1.153V5.616q0-.672.472-1.144Q5.714 4 6.385 4H10q.064-.275.265-.522q.2-.247.504-.247h2.462q.304 0 .505.247q.2.247.264.522h2.108q.373 0 .618.283t.19.655l-1.65 10.674q.94.598 1.433 1.492T17.192 19v1q0 .421-.289.71q-.29.29-.71.29zm.02-11.308L7.095 5h-.71q-.23 0-.423.192t-.192.423v3.462q0 .23.192.423t.423.192zm4.721 8.857q.22-.22.22-.549t-.22-.549t-.549-.22t-.549.22t-.22.549t.22.549t.549.22t.549-.22M9.662 15h4.677L15.88 5H8.119zm-1.854 5h8.384v-1q0-1.25-.875-2.125T13.192 16h-2.384q-1.25 0-2.125.875T7.808 19zM12 18");
+}
+</style><path class="flqrgibko"/>`,
+		"fallback": "material-symbols-light:blender-outline-rounded",
+	});
+}
+
+export default Component;

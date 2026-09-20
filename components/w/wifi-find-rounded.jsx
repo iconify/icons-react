@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.i0frai9kp {
+  fill: currentColor;
+  d: path("M11.267 18.844L2.256 9.833q-.171-.171-.251-.386q-.08-.214-.055-.428t.12-.415t.272-.342q2.102-1.616 4.555-2.439T12 5q2.656 0 5.103.826t4.555 2.441q.176.14.272.346t.12.412t-.048.422t-.238.386l-.927.946q-.654-.775-1.611-1.277T17 9q-2.077 0-3.538 1.462T12 14q0 1.244.505 2.216q.504.972 1.249 1.582l-1.021 1.027q-.166.166-.345.236q-.18.07-.388.07t-.387-.06q-.18-.062-.346-.227m9.768-.179l-2.26-2.253q-.354.275-.815.431Q17.498 17 17 17q-1.258 0-2.129-.871T14 14t.871-2.129T17 11t2.129.871T20 14q0 .46-.137.902q-.138.442-.374.796l2.253 2.26q.14.14.153.341t-.153.366q-.16.16-.353.16t-.354-.16m-2.62-3.25Q19 14.831 19 14t-.584-1.415Q17.83 12 17 12t-1.415.585T15 14t.585 1.416T17 16t1.416-.584");
+}
+</style><path class="i0frai9kp"/>`,
+		"fallback": "material-symbols-light:wifi-find-rounded",
+	});
+}
+
+export default Component;

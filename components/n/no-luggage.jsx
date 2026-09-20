@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.p8j7nmbso {
+  fill: currentColor;
+  d: path("m21.11 22.53l-3.294-3.293q-.181.355-.515.56q-.334.203-.762.203v.23q0 .31-.23.54t-.54.23t-.54-.23t-.229-.54V20H9v.23q0 .31-.23.54t-.54.23t-.539-.23t-.23-.54V20q-.67 0-1.143-.472q-.472-.472-.472-1.144V8q0-.165.029-.309t.106-.289L1.887 3.308l.713-.714l19.223 19.223zm-11.494-5.3h1v-5.193l-1-1zm3.769 0h1v-1.424l-1-1zm4.769-2.47l-3.77-3.77V9.155h-1v.837L9.617 6.22V4.616q0-.672.472-1.144T11.23 3h1.538q.671 0 1.143.472t.472 1.144v1.769h2.154q.671 0 1.144.472T18.154 8zm-7.538-8.375h2.769v-1.77q0-.269-.173-.442T12.769 4h-1.538q-.27 0-.442.173q-.173.173-.173.443z");
+}
+</style><path class="p8j7nmbso"/>`,
+		"fallback": "material-symbols-light:no-luggage",
+	});
+}
+
+export default Component;

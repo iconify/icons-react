@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.d7gi4brko {
+  fill: currentColor;
+  d: path("m13.77 12.327l2.165 2.225q.05.056.319.14q.29 0 .404-.262t-.085-.478l-1.939-1.99l1.964-1.958q.198-.196.075-.446t-.4-.25q-.079 0-.158.036q-.08.037-.142.104l-2.204 2.186V9.75q0-.19-.126-.316t-.316-.126t-.316.126t-.126.316v4.5q0 .19.126.316t.316.126t.316-.126t.126-.316zm-6.116 2.365H10q.329 0 .549-.22t.22-.549v-1.538q0-.33-.22-.55t-.549-.22H7.77v-1.423h2.557q.19 0 .316-.126t.126-.316t-.126-.316t-.316-.126H7.654q-.329 0-.55.22q-.22.22-.22.549v3.846q0 .329.22.549q.221.22.55.22m.115-.769v-1.539h2.115v1.539zM5.616 20q-.691 0-1.153-.462T4 18.384V5.616q0-.691.463-1.153T5.616 4h12.769q.69 0 1.153.463T20 5.616v12.769q0 .69-.462 1.153T18.384 20z");
+}
+</style><path class="d7gi4brko"/>`,
+		"fallback": "material-symbols-light:6k-rounded",
+	});
+}
+
+export default Component;

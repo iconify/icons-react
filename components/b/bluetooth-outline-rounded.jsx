@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.axiakx6bw {
+  fill: currentColor;
+  d: path("M11.5 19.864v-6.656l-4.746 4.746q-.14.14-.344.15t-.364-.15t-.16-.354t.16-.354L11.292 12L6.046 6.754q-.14-.14-.15-.344t.15-.364t.354-.16t.354.16l4.746 4.746V4.137q0-.373.252-.594t.556-.22q.142 0 .288.056t.277.187l3.57 3.569q.13.13.183.267t.053.298t-.053.298t-.184.268L12.708 12l3.734 3.735q.131.13.184.267t.053.298t-.053.298t-.184.267l-3.569 3.57q-.13.13-.277.186q-.146.056-.288.056q-.304 0-.556-.22t-.252-.593m1-9.072L15.592 7.7L12.5 4.62zm0 8.589l3.092-3.081l-3.092-3.092z");
+}
+</style><path class="axiakx6bw"/>`,
+		"fallback": "material-symbols-light:bluetooth-outline-rounded",
+	});
+}
+
+export default Component;

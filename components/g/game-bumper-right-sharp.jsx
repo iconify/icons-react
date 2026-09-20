@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a69z7ab4m {
+  fill: currentColor;
+  d: path("m12.89 15.116l2.254.005q.993 0 1.577-.471q.585-.471.585-1.306q0-.628-.35-.99q-.348-.362-1.012-.498v-.031q.564-.117.848-.485q.285-.369.285-.95q0-.819-.571-1.162q-.572-.343-1.725-.343h-1.89zm.856-3.62l-.005-1.813h1.025q.736 0 1.089.206q.353.207.353.707q0 .481-.334.69q-.333.21-1.018.21zm-.005 2.84v-2.09h1.232q.693 0 1.066.263t.372.781q0 .495-.348.776t-1.02.27zM21 4.982v10.73q0 1.362-.973 2.326q-.973.963-2.354.963H6.327q-1.38 0-2.354-.963Q3 17.073 3 15.712V4.98zM6.99 15.154h.876V12.68h1.169l1.556 2.473h.99l-1.717-2.687q.623-.217.937-.643t.315-1.06q0-.933-.576-1.377t-1.734-.445H6.99zm.856-3.229V9.758h.933q.708 0 1.072.278t.365.783q0 .531-.357.818t-1.009.288z");
+}
+</style><path class="a69z7ab4m"/>`,
+		"fallback": "material-symbols-light:game-bumper-right-sharp",
+	});
+}
+
+export default Component;

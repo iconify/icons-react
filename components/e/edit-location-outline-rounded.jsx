@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hs87y9brt {
+  fill: currentColor;
+  d: path("m13.504 9.21l-.713-.714l-3.76 3.754q-.073.073-.11.165q-.036.09-.036.195v.198q0 .123.092.215q.092.093.215.093h.198q.104 0 .195-.037t.165-.11zm.725-.726l.585-.584q.086-.087.086-.185t-.087-.186l-.342-.342q-.087-.087-.186-.087t-.185.087l-.584.584zM12 19.678q2.82-2.454 4.458-4.991t1.638-4.39q0-2.744-1.737-4.53Q14.62 3.981 12 3.981T7.641 5.766t-1.737 4.53q0 1.852 1.638 4.39T12 19.677m-.47.802q-.234-.077-.432-.25q-1.067-.981-2.164-2.185q-1.096-1.203-1.99-2.493t-1.468-2.633t-.572-2.622q0-3.173 2.066-5.234Q9.037 3 12 3t5.03 2.062q2.066 2.061 2.066 5.234q0 1.279-.572 2.613q-.572 1.333-1.458 2.632q-.885 1.3-1.981 2.494T12.92 20.21q-.198.173-.442.26t-.479.086t-.47-.077M12 10.116");
+}
+</style><path class="hs87y9brt"/>`,
+		"fallback": "material-symbols-light:edit-location-outline-rounded",
+	});
+}
+
+export default Component;

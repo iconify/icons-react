@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bvmxgobxb {
+  fill: currentColor;
+  d: path("M16.079 19q-.35 0-.58-.232t-.23-.576v-1.058h-2.961q-.343 0-.576-.231q-.232-.233-.232-.576V12.5H8.711v1.039q0 .343-.232.575t-.575.232H3.808q-.348 0-.578-.232T3 13.538v-3.096q0-.343.232-.575t.576-.232h4.096q.348 0 .578.232t.23.575V11.5H11.5V7.654q0-.344.232-.576q.233-.232.576-.232h2.961V5.788q0-.343.232-.575t.576-.232h4.114q.35 0 .58.232t.229.575v3.116q0 .343-.232.575t-.576.232H16.08q-.35 0-.58-.232t-.23-.575V7.846H12.5v8.289h2.77v-1.039q0-.343.231-.575t.576-.232h4.114q.35 0 .58.232t.229.575v3.096q0 .344-.232.576t-.576.232z");
+}
+</style><path class="bvmxgobxb"/>`,
+		"fallback": "material-symbols-light:flowchart-sharp",
+	});
+}
+
+export default Component;

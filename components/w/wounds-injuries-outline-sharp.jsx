@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jwujy2kyu {
+  fill: currentColor;
+  d: path("m3.785 20.904l-.689-.688l2.45-2.47L3 17.07l.256-.963l2.54.677l-.671-2.546l.964-.256l.676 2.546l4.272-4.271l-2.547-.677l.256-.963l2.54.67l-.67-2.54l.963-.256l.677 2.546l4.271-4.27l-2.546-.677l.256-.964l2.546.671l-.677-2.54l.963-.256l.677 2.546l2.47-2.45l.688.689l-2.45 2.469L21 6.93l-.256.963l-2.54-.677l.671 2.547l-.963.255l-.677-2.546l-4.271 4.271l2.545.677l-.255.964l-2.54-.671l.67 2.54l-.963.256l-.677-2.546l-4.271 4.27l2.546.678l-.255.963l-2.547-.671l.677 2.54l-.963.256l-.677-2.546z");
+}
+</style><path class="jwujy2kyu"/>`,
+		"fallback": "material-symbols-light:wounds-injuries-outline-sharp",
+	});
+}
+
+export default Component;

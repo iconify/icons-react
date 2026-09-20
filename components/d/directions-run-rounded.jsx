@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.s_ej2fb-t {
+  fill: currentColor;
+  d: path("M13.5 22v-5.173l-2.908-2.789l-.91 4.008q-.08.323-.35.497t-.594.119l-4.661-.943q-.213-.056-.333-.223q-.119-.167-.063-.38q.056-.195.223-.317t.362-.06l4.319.876l1.869-9.561L7.5 9.273V12q0 .214-.143.357T7 12.5t-.357-.143T6.5 12V9.142q0-.242.143-.441t.36-.305l3.486-1.45q.644-.26.95-.353T12 6.5q.39 0 .725.208t.552.561l1 1.6q.564.908 1.526 1.61t2.178.921q.213.056.366.202t.153.36t-.153.344t-.36.1q-1.273-.2-2.535-.972q-1.261-.772-2.202-2.3l-.889 4.52l1.897 1.835q.13.13.186.28t.056.31V22q0 .214-.143.357T14 22.5t-.357-.143T13.5 22M12.299 4.701q-.491-.492-.491-1.201t.491-1.201t1.201-.491t1.201.491q.491.492.491 1.201t-.491 1.201q-.492.491-1.201.491t-1.201-.491");
+}
+</style><path class="s_ej2fb-t"/>`,
+		"fallback": "material-symbols-light:directions-run-rounded",
+	});
+}
+
+export default Component;

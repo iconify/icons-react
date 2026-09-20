@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.wo0a7y-tp {
+  fill: currentColor;
+  d: path("M4.462 14.692h3.192q.496 0 .844-.348t.348-.844v-3q0-.496-.348-.844t-.844-.348H4.462zm.884-.884v-3.616h2.308q.115 0 .212.097q.096.096.096.211v3q0 .116-.096.212q-.097.096-.212.096zm6.139.884h1.038l1.673-5.384h-.846l-1.346 4.258l-1.346-4.258h-.846zm3.823 0h.884v-2h1.574l.85 2h.923l-.862-2.061q.49-.046.753-.402t.262-.729v-1q0-.496-.348-.844t-.844-.348h-3.192zm.884-2.884v-1.616H18.5q.116 0 .212.097q.096.096.096.211v1q0 .116-.096.212t-.212.096zM3.616 19q-.691 0-1.153-.462T2 17.384V6.616q0-.691.463-1.153T3.616 5h16.769q.69 0 1.153.463T22 6.616v10.769q0 .69-.462 1.153T20.385 19z");
+}
+</style><path class="wo0a7y-tp"/>`,
+		"fallback": "material-symbols-light:fiber-dvr",
+	});
+}
+
+export default Component;

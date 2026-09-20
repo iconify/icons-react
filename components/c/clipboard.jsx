@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/b/bke5vobio.css';
+
+const viewBox = {"width":8,"height":8};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="bke5vobio"/>`,
+		"fallback": "picon:clipboard",
+	});
+}
+
+export default Component;

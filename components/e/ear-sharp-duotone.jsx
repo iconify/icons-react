@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/g/gp_8x1bzb.css';
+import '../../css/x/xo38oub3e.css';
+import '../../css/a/a0vw_f81o.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="gp_8x1bzb"><path class="xo38oub3e"/><path class="a0vw_f81o"/></g>`,
+		"fallback": "keyline-icons:ear-sharp-duotone",
+	});
+}
+
+export default Component;

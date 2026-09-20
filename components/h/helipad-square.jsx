@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/l/l3xtuk_0z.css';
+import '../../css/q/q0u_qhnjt.css';
+import '../../css/w/w1rebib_j.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="l3xtuk_0z"><path class="q0u_qhnjt"/><path class="w1rebib_j"/></g>`,
+		"fallback": "streamline-cyber:helipad-square",
+	});
+}
+
+export default Component;

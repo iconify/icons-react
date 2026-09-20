@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/l/l3xtuk_0z.css';
+import '../../css/f/fjbu-658d.css';
+import '../../css/j/jnuf-1vzk.css';
+import '../../css/j/jne7nzo5a.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="l3xtuk_0z"><path class="fjbu-658d"/><path class="jnuf-1vzk"/><path class="jne7nzo5a"/></g>`,
+		"fallback": "streamline-cyber:filter-play-media-video",
+	});
+}
+
+export default Component;

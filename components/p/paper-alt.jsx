@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/flen3tbdj.css';
+import '../../css/x/xyxh5qb5m.css';
+import '../../css/k/kqzqjtu7i.css';
+import '../../css/k/kzmvz_b_v.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="flen3tbdj"><path class="xyxh5qb5m"/><path class="kqzqjtu7i"/><path class="kzmvz_b_v"/></g>`,
+		"fallback": "lets-icons:paper-alt",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/j/j3kinwbwn.css';
+import '../../css/h/h_cj09bol.css';
+import '../../css/b/bxyseltqm.css';
+import '../../css/u/u78lc2bnx.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="j3kinwbwn"><path class="h_cj09bol"/><path class="bxyseltqm"/><path class="u78lc2bnx"/></g>`,
+		"fallback": "lets-icons:pined-duotone",
+	});
+}
+
+export default Component;

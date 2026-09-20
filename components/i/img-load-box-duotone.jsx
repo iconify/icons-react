@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/f-salgbqh.css';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/r/r510o-b0x.css';
+import '../../css/w/wyuyu03vy.css';
+import '../../css/s/ssbjp9b9f.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<mask id="SVGsrg0ndkk" width="18" height="18" x="3" y="3" maskUnits="userSpaceOnUse" style="mask-type:alpha"><path class="f-salgbqh"/></mask><g class="ft5dv1b6b"><g mask="url(#SVGsrg0ndkk)"><path class="r510o-b0x"/></g><path class="wyuyu03vy"/><circle class="ssbjp9b9f"/></g>`,
+		"fallback": "lets-icons:img-load-box-duotone",
+	});
+}
+
+export default Component;

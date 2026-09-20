@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":36,"height":36};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.i65qv95sm {
+  fill: var(--svg-color--f5f8fa, #f5f8fa);
+  d: path("M27 22.091L36 18c0-.66-.041-1.309-.109-1.95L27 20.091V19a2 2 0 0 0-2-2H11a2 2 0 0 0-2 2v1.091L.11 16.05C.041 16.691 0 17.34 0 18l9 4.091v4.546l-7.453-1.355c.341.77.741 1.507 1.183 2.215L9 28.637V30a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-1.363l6.271-1.141c.441-.708.841-1.445 1.182-2.215L27 26.637z");
+}
+
+.tg31urbgg {
+  fill: var(--svg-color--ffcc4d, #ffcc4d);
+  d: path("M36 18c0 9.941-8.059 18-18 18c-9.94 0-18-8.059-18-18C0 8.06 8.06 0 18 0c9.941 0 18 8.06 18 18");
+}
+
+.tsb-ec7_o {
+  fill: var(--svg-color--664500, #664500);
+  d: path("M7.001 15a1 1 0 0 1-.556-1.832C6.578 13.08 9.746 11 14 11a1 1 0 0 1 0 2c-3.655 0-6.418 1.814-6.445 1.832a1 1 0 0 1-.554.168m21.998 0a1 1 0 0 1-.552-.167C28.419 14.815 25.628 13 22 13a1 1 0 1 1 0-2c4.254 0 7.422 2.08 7.555 2.168A1 1 0 0 1 28.999 15");
+}
+</style><path class="tg31urbgg"/><path class="tsb-ec7_o"/><path class="i65qv95sm"/>`,
+		"fallback": "twemoji:face-with-medical-mask",
+	});
+}
+
+export default Component;

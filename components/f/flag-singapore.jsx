@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":36,"height":36};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a0xf5sb9o {
+  fill: var(--svg-color--ed2939, #ed2939);
+  d: path("M36 18V9a4 4 0 0 0-4-4H4a4 4 0 0 0-4 4v9z");
+}
+
+.c8wy55mtt {
+  fill: var(--svg-color--eee, #eee);
+  d: path("m12 7l.225.691h.726l-.588.427l.225.691L12 8.382l-.588.427l.225-.691l-.588-.427h.726zm-2 7l.225.691h.726l-.588.427l.225.691l-.588-.427l-.588.427l.225-.691l-.588-.427h.726zm4 0l.225.691h.726l-.588.427l.225.691l-.588-.427l-.588.427l.225-.691l-.588-.427h.726zm-5-4l.225.691h.726l-.588.427l.225.691L9 11.382l-.588.427l.225-.691l-.588-.427h.726zm6 0l.225.691h.726l-.588.427l.225.691l-.588-.427l-.588.427l.225-.691l-.588-.427h.726z");
+}
+
+.d65o7r4dv {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M6 11.5c0-2.585 1.624-4.748 3.81-5.336A5.5 5.5 0 0 0 8.5 6a5.5 5.5 0 1 0 0 11c.452 0 .889-.06 1.31-.164C7.624 16.248 6 14.085 6 11.5");
+}
+
+.fm-r3tbnm {
+  fill: var(--svg-color--eee, #eee);
+  d: path("M36 27a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4z");
+}
+</style><path class="fm-r3tbnm"/><path class="a0xf5sb9o"/><path class="d65o7r4dv"/><path class="c8wy55mtt"/>`,
+		"fallback": "twemoji:flag-singapore",
+	});
+}
+
+export default Component;

@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":36,"height":36};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.mkaa6pf5n {
+  fill: var(--svg-color--078930, #078930);
+  d: path("M32 5H4a3.965 3.965 0 0 0-2.618.998L16.228 16.72h.828L18 13.814l.944 2.906H22l-2.472 1.796l.249.767l14.841 10.718A3.97 3.97 0 0 0 36 27V9a4 4 0 0 0-4-4z");
+}
+
+.r08k6abfl {
+  fill: var(--svg-color--da121a, #DA121A);
+  d: path("M16.472 18.516l-.944 2.906L18 19.626l2.472 1.796l-.695-2.138l-.249-.768L22 16.72h-3.056L18 13.814l-.944 2.906H14z");
+}
+
+.tb4q_0bzk {
+  fill: var(--svg-color--fcdd09, #FCDD09);
+  d: path("M20.472 21.422L18 19.626l-2.472 1.796l.944-2.906L14 16.72h2.228L1.382 5.998A3.973 3.973 0 0 0 0 9v18a4 4 0 0 0 4 4h28a3.965 3.965 0 0 0 2.618-.998L19.777 19.284l.695 2.138z");
+}
+</style><path class="mkaa6pf5n"/><path class="tb4q_0bzk"/><path class="r08k6abfl"/>`,
+		"fallback": "twemoji:flag-for-french-guiana",
+	});
+}
+
+export default Component;

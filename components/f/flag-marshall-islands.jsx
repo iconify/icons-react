@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":36,"height":36};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.h1u09pqyl {
+  fill: var(--svg-color--fff, #fff);
+  d: path("m9 6.917l.306 5.156l1.022-2.158l-.442 2.347l1.639-1.737l-1.146 2.096l2.096-1.146l-1.737 1.639l2.347-.442l-2.158 1.023l5.156.305l-5.156.306l2.158 1.022l-2.347-.442l1.737 1.639l-2.096-1.146l1.146 2.096l-1.639-1.736l.442 2.346l-1.022-2.158L9 21.082l-.306-5.155l-1.022 2.158l.442-2.346l-1.639 1.736l1.146-2.096l-2.096 1.146l1.737-1.639l-2.347.442l2.158-1.022L1.917 14l5.156-.305l-2.158-1.023l2.347.442l-1.737-1.639l2.096 1.146l-1.146-2.096l1.639 1.737l-.442-2.347l1.022 2.158z");
+}
+
+.r32lr4bci {
+  fill: var(--svg-color--f4900c, #f4900c);
+  d: path("M34.593 5.977L.835 29.42l.08.098L36 11V9a3.98 3.98 0 0 0-1.407-3.023");
+}
+
+.s3q4iul3y {
+  fill: var(--svg-color--003893, #003893);
+  d: path("M36 27a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4z");
+}
+
+.ts6n_cctt {
+  fill: var(--svg-color--eee, #eee);
+  d: path("M1.012 29.635L36 17v-6L.915 29.518q.047.06.097.117");
+}
+</style><path class="s3q4iul3y"/><path class="r32lr4bci"/><path class="ts6n_cctt"/><path class="h1u09pqyl"/>`,
+		"fallback": "twemoji:flag-marshall-islands",
+	});
+}
+
+export default Component;

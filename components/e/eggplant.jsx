@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":36,"height":36};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.f_dldkdri {
+  fill: var(--svg-color--744eaa, #744eaa);
+  d: path("M6 4c3 0 5 2 8 6s7.957 7.191 12 8c5 1 9 5 9 11c0 4.897-3.846 7-9 7c-5 0-9-3-14-8S2 14 2 10s1-6 4-6");
+}
+
+.znr2wdbdx {
+  fill: var(--svg-color--77b255, #77b255);
+  d: path("M3.515 0c1.248 0 1.248 1.248 1.248 2.495c0 1.764 1.248 1.129 2.496 1.129C8.505 3.624 11 6 11 6H7.258c-1.248 0 0 2.614-1.248 2.614S4.762 7.426 3.515 7.426S2 11 2 11s-1.604-4.153.267-6.024C3.515 3.728 1.02 0 3.515 0");
+}
+</style><path class="f_dldkdri"/><path class="znr2wdbdx"/>`,
+		"fallback": "twemoji:eggplant",
+	});
+}
+
+export default Component;

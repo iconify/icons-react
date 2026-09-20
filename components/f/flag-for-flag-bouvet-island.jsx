@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":36,"height":36};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hrfjivxub {
+  fill: var(--svg-color--edecec, #edecec);
+  d: path("M14.5 31H16V21h20v-1.5H14.5zM16 5h-1.5v11.5H36V15H16zm-4.5 0H10v10H0v1.5h11.5zM0 19.5V21h10v10h1.5V19.5z");
+}
+
+.q50o35hgz {
+  fill: var(--svg-color--ef2b2d, #ef2b2d);
+  d: path("M10 5H4a4 4 0 0 0-4 4v6h10zm22 0H16v10h20V9a4 4 0 0 0-4-4M16 31h16c2.209 0 4-1.791 4-4.5V21H16zM0 21v5.5C0 29.209 1.791 31 4 31h6V21z");
+}
+
+.sfngstbas {
+  fill: var(--svg-color--002868, #002868);
+  d: path("M14.5 5h-2.944l-.025 11.5H0v3h11.525L11.5 31h3V19.5H36v-3H14.5z");
+}
+</style><path class="q50o35hgz"/><path class="sfngstbas"/><path class="hrfjivxub"/>`,
+		"fallback": "twemoji:flag-for-flag-bouvet-island",
+	});
+}
+
+export default Component;

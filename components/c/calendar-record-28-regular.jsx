@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ps58r9btt {
+  fill: currentColor;
+  d: path("M21.75 3A3.25 3.25 0 0 1 25 6.25v8.25a7.5 7.5 0 0 0-1.5-.876V9.503h-19V21.75c0 .966.784 1.75 1.75 1.75h7.374c.234.535.529 1.038.875 1.5H6.25A3.25 3.25 0 0 1 3 21.75V6.25A3.25 3.25 0 0 1 6.25 3zm0 1.5H6.25A1.75 1.75 0 0 0 4.5 6.25v1.753h19V6.25a1.75 1.75 0 0 0-1.75-1.75m-1.25 11a5 5 0 1 1 0 10a5 5 0 0 1 0-10m0 11.5a6.5 6.5 0 1 0 0-13a6.5 6.5 0 0 0 0 13m3.5-6.5a3.5 3.5 0 1 1-7 0a3.5 3.5 0 0 1 7 0");
+}
+</style><path class="ps58r9btt"/>`,
+		"fallback": "fluent:calendar-record-28-regular",
+	});
+}
+
+export default Component;

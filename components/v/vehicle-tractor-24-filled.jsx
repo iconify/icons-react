@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bdytkrdah {
+  fill: currentColor;
+  d: path("M7.02 3a2.25 2.25 0 0 0-2.219 1.88L3.98 9.815A6 6 0 1 0 12.659 17h3.376q-.035.245-.035.5a3.5 3.5 0 1 0 6.001-2.448V12.25A3.25 3.25 0 0 0 18.751 9H17.5V6.75a.75.75 0 0 0-1.5 0V9h-2.115L13.2 4.88A2.25 2.25 0 0 0 10.979 3zm.018 6a6 6 0 0 0-1.43.162l.673-4.035a.75.75 0 0 1 .74-.627h3.958a.75.75 0 0 1 .74.627L12.365 9zM19.5 15.5a2 2 0 1 1 0 4a2 2 0 0 1 0-4m-17-.5a4.5 4.5 0 1 1 9 0a4.5 4.5 0 0 1-9 0");
+}
+</style><path class="bdytkrdah"/>`,
+		"fallback": "fluent:vehicle-tractor-24-filled",
+	});
+}
+
+export default Component;

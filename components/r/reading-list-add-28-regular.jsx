@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ki5fh_bzx {
+  fill: currentColor;
+  d: path("M3.504 7.51A1.979 1.979 0 0 1 7.13 6.414a.75.75 0 1 0 1.248-.833a3.479 3.479 0 1 0-2.932 5.407a1 1 0 0 0 .135.012h15.671a.75.75 0 1 0 0-1.5H5.616a1 1 0 0 0-.133-.012A1.98 1.98 0 0 1 3.504 7.51M11.75 6a.75.75 0 0 0 0 1.5h13.5a.75.75 0 0 0 0-1.5zm-5 7.25a.75.75 0 0 0 0 1.5h8.934a7.5 7.5 0 0 1 2.888-1.5zM2.748 17h11.117q-.376.711-.595 1.5H2.748a.75.75 0 1 1 0-1.5m3.997 3.5H13q.002.772.15 1.5H6.745a.75.75 0 1 1 0-1.5M27 20.5a6.5 6.5 0 1 1-13 0a6.5 6.5 0 0 1 13 0m-6-4a.5.5 0 0 0-1 0V20h-3.5a.5.5 0 1 0 0 1H20v3.5a.5.5 0 1 0 1 0V21h3.5a.5.5 0 1 0 0-1H21z");
+}
+</style><path class="ki5fh_bzx"/>`,
+		"fallback": "fluent:reading-list-add-28-regular",
+	});
+}
+
+export default Component;

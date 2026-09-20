@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.vi1owfb5c {
+  fill: currentColor;
+  d: path("M4.75 2A1.75 1.75 0 0 0 3 3.75V8h1V3.75A.75.75 0 0 1 4.75 3h5.5a.75.75 0 0 1 .75.75v9.75q0 .257-.05.5h1.55a2.5 2.5 0 0 0 2.5-2.5V10h-3V3.75A1.75 1.75 0 0 0 10.25 2zM8.5 8c.34 0 .666.068.962.192A.5.5 0 0 0 9 7.5H6a.5.5 0 0 0-.5.5zm3.5 3h2v.5a1.5 1.5 0 0 1-1.5 1.5H12zM5.5 5.5A.5.5 0 0 1 6 5h3a.5.5 0 0 1 0 1H6a.5.5 0 0 1-.5-.5m4.5 5A1.5 1.5 0 0 0 8.5 9h-6A1.5 1.5 0 0 0 1 10.5v3A1.5 1.5 0 0 0 2.5 15h6a1.5 1.5 0 0 0 1.5-1.5zm-1 2v1a.5.5 0 0 0-.5.5h-1A1.5 1.5 0 0 1 9 12.5M8.5 10a.5.5 0 0 0 .5.5v1A1.5 1.5 0 0 1 7.5 10zm-6.5.5a.5.5 0 0 0 .5-.5h1A1.5 1.5 0 0 1 2 11.5zm.5 3.5a.5.5 0 0 0-.5-.5v-1A1.5 1.5 0 0 1 3.5 14zM4 12a1.5 1.5 0 1 1 3 0a1.5 1.5 0 0 1-3 0");
+}
+</style><path class="vi1owfb5c"/>`,
+		"fallback": "fluent:receipt-money-16-regular",
+	});
+}
+
+export default Component;

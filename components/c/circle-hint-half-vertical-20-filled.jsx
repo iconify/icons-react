@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.g1l8s3zwd {
+  fill: currentColor;
+  d: path("M10 2.001a7.96 7.96 0 0 0-4.66 1.497a8 8 0 0 0-1.854 1.858A7.96 7.96 0 0 0 2 10a8 8 0 0 0 .109 1.322a7.96 7.96 0 0 0 1.388 3.339a8 8 0 0 0 1.856 1.851A7.96 7.96 0 0 0 10 18v-.001c.44 0 .878-.035 1.303-.105a.75.75 0 0 0-.243-1.48a6.503 6.503 0 0 1-7.521-7.126a6.503 6.503 0 0 1 7.52-5.702a.75.75 0 0 0 .244-1.48A8 8 0 0 0 10 2m4.66 1.496a.75.75 0 0 0-.874 1.219a6.5 6.5 0 0 1 1.498 1.498a.75.75 0 0 0 1.219-.875a8 8 0 0 0-1.843-1.842m3.234 5.2a.75.75 0 0 0-1.48.243a6.7 6.7 0 0 1 0 2.12a.75.75 0 0 0 1.48.243c.14-.849.14-1.757 0-2.606m-1.391 5.964a.75.75 0 0 0-1.219-.875a6.5 6.5 0 0 1-1.498 1.498a.75.75 0 1 0 .874 1.219a8 8 0 0 0 1.843-1.842");
+}
+</style><path class="g1l8s3zwd"/>`,
+		"fallback": "fluent:circle-hint-half-vertical-20-filled",
+	});
+}
+
+export default Component;

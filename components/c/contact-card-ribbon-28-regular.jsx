@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.w3q-k5b6j {
+  fill: currentColor;
+  d: path("M15 11.75a.75.75 0 0 1 .75-.75h5.5a.75.75 0 0 1 0 1.5h-5.5a.75.75 0 0 1-.75-.75m.75 3.25a.75.75 0 0 0 0 1.5h1.625a5.5 5.5 0 0 1 .882-1.5zM4.754 22.5H18V24H4.754a2.75 2.75 0 0 1-2.75-2.75V6.75A2.75 2.75 0 0 1 4.754 4H23.25A2.75 2.75 0 0 1 26 6.75v7.508a5.5 5.5 0 0 0-1.5-.883V6.75c0-.69-.56-1.25-1.25-1.25H4.755c-.69 0-1.25.56-1.25 1.25v14.5c0 .69.56 1.25 1.25 1.25M22.5 23a4.5 4.5 0 0 0 3.5-1.67c.625-.774 1-1.758 1-2.83a4.48 4.48 0 0 0-1-2.828A4.48 4.48 0 0 0 22.5 14a4.48 4.48 0 0 0-2.829 1A4.48 4.48 0 0 0 18 18.5a4.5 4.5 0 0 0 4.5 4.5m2.401.45a5.5 5.5 0 0 1-2.353.55h-.096q-.143 0-.285-.01A5.47 5.47 0 0 1 19 22.743v3.56a.7.7 0 0 0 1.131.55L22.5 25l2.369 1.854A.7.7 0 0 0 26 26.303v-3.56a5.5 5.5 0 0 1-1.099.707M11.25 11.75a1.75 1.75 0 1 1-3.5 0a1.75 1.75 0 0 1 3.5 0M7 14.5h5a1 1 0 0 1 1 1v.5s-.5 2.5-3.5 2.5S6 16 6 16v-.5a1 1 0 0 1 1-1");
+}
+</style><path class="w3q-k5b6j"/>`,
+		"fallback": "fluent:contact-card-ribbon-28-regular",
+	});
+}
+
+export default Component;

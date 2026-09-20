@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.yeci989bl {
+  fill: currentColor;
+  d: path("M4 4.804C4 3.794 4.84 3 5.845 3h10.31C17.16 3 18 3.794 18 4.804v7.392c0 1.01-.84 1.804-1.845 1.804H10v-2h2.5a.5.5 0 0 0 0-1H10V8a2 2 0 0 0-2-2H4zM3.5 7A1.5 1.5 0 0 0 2 8.5v8A1.5 1.5 0 0 0 3.5 18h4A1.5 1.5 0 0 0 9 16.5v-8A1.5 1.5 0 0 0 7.5 7zm1 8.5A.5.5 0 0 1 5 15h1a.5.5 0 0 1 0 1H5a.5.5 0 0 1-.5-.5");
+}
+</style><path class="yeci989bl"/>`,
+		"fallback": "fluent:phone-tablet-20-filled",
+	});
+}
+
+export default Component;

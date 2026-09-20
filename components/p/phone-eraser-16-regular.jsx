@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.vwoi4ce7w {
+  fill: currentColor;
+  d: path("M10 10.878v2.372a.75.75 0 0 1-.75.75h-4.5a.75.75 0 0 1-.75-.75V2.75A.75.75 0 0 1 4.75 2h4.128l.915-.914A1.8 1.8 0 0 0 9.25 1h-4.5A1.75 1.75 0 0 0 3 2.75v10.5c0 .966.784 1.75 1.75 1.75h4.5A1.75 1.75 0 0 0 11 13.25v-3.13l-.232.233a2.5 2.5 0 0 1-.768.524M5.5 12.5A.5.5 0 0 1 6 12h2a.5.5 0 1 1 0 1H6a.5.5 0 0 1-.5-.5m7.56-11.147a1.5 1.5 0 0 0-2.12 0L6.352 5.94a1.5 1.5 0 0 0 0 2.122L7.94 9.646a1.5 1.5 0 0 0 2.121 0l4.586-4.585a1.5 1.5 0 0 0 0-2.122zM8 5.707L10.293 8l-.94.94a.5.5 0 0 1-.707 0L7.061 7.352a.5.5 0 0 1 0-.707z");
+}
+</style><path class="vwoi4ce7w"/>`,
+		"fallback": "fluent:phone-eraser-16-regular",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.lhdmf-jek {
+  fill: currentColor;
+  d: path("M12.293 2.293a1 1 0 0 1 1.414 0l3.005 3.002a1 1 0 0 1-.001 1.415l-3.005 2.998a1 1 0 1 1-1.412-1.416l1.284-1.282a8.5 8.5 0 1 0 8.91 8.942a1 1 0 1 1 1.997.104C24.196 21.596 19.614 26 14 26C8.201 26 3.5 21.299 3.5 15.5c0-5.663 4.483-10.28 10.095-10.492l-1.302-1.3a1 1 0 0 1 0-1.415m5.914 10a1 1 0 0 1 0 1.414l-5 5a1 1 0 0 1-1.414 0l-2-2a1 1 0 1 1 1.414-1.414l1.293 1.293l4.293-4.293a1 1 0 0 1 1.414 0");
+}
+</style><path class="lhdmf-jek"/>`,
+		"fallback": "fluent:approvals-app-28-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.okocbtncu {
+  fill: currentColor;
+  d: path("M11.781 3.253a8.75 8.75 0 1 0 1.928 17.33a.75.75 0 0 1 .29 1.472a10.3 10.3 0 0 1-2.255.192a10.2 10.2 0 0 1-7.338-3.363A10.2 10.2 0 0 1 1.75 12C1.75 6.34 6.34 1.75 12 1.75q1.027.001 2 .195a.75.75 0 0 1-.291 1.472a8.8 8.8 0 0 0-1.928-.164m5.915.224a.75.75 0 0 0-.835 1.246a8.8 8.8 0 0 1 2.416 2.416a.75.75 0 0 0 1.246-.835a10.3 10.3 0 0 0-2.827-2.827M22.055 10a.75.75 0 1 0-1.472.291a8.8 8.8 0 0 1 0 3.418a.75.75 0 0 0 1.472.29a10.3 10.3 0 0 0 0-3.999m-1.532 7.696a.75.75 0 0 0-1.246-.835a8.8 8.8 0 0 1-2.416 2.416a.75.75 0 0 0 .835 1.246a10.3 10.3 0 0 0 2.827-2.827");
+}
+</style><path class="okocbtncu"/>`,
+		"fallback": "fluent:circle-hint-half-vertical-24-regular",
+	});
+}
+
+export default Component;

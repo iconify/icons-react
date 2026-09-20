@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.v1visxxau {
+  fill: currentColor;
+  d: path("M13.56 2.142a.75.75 0 0 1 .878 0c.643.464 2.088 1.312 3.897 2.041c1.81.73 3.922 1.317 5.913 1.317a.75.75 0 0 1 .75.75v7.752q0 .483-.057.958A4 4 0 0 0 17.5 17v.041A3 3 0 0 0 15 20v5q0 .386.093.744q-.495.15-.966.232l-.128.022l-.129-.022c-2.205-.385-4.9-1.917-7.033-4.024C4.703 19.843 3 17.029 3 14.002V6.25a.75.75 0 0 1 .75-.75c1.991 0 4.103-.587 5.914-1.317c1.808-.73 3.253-1.577 3.896-2.04M18.5 18v-1a3 3 0 1 1 6 0v1h.5a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-7a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2zm1.5-1v1h3v-1a1.5 1.5 0 0 0-3 0m3 5.5a1.5 1.5 0 1 0-3 0a1.5 1.5 0 0 0 3 0");
+}
+</style><path class="v1visxxau"/>`,
+		"fallback": "fluent:shield-video-28-filled",
+	});
+}
+
+export default Component;

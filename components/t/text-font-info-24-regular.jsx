@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hpe91fbqf {
+  fill: currentColor;
+  d: path("M9.51 2a.75.75 0 0 1 .697.5l3.182 8.965a6.5 6.5 0 0 0-1.157 1.226L9.47 4.908L6.337 13h5.685a6.5 6.5 0 0 0-.709 1.5H5.756L4.2 18.52a.75.75 0 1 1-1.4-.54l6-15.5A.75.75 0 0 1 9.51 2M17 16v3a.5.5 0 0 0 1 0v-3a.5.5 0 0 0-1 0m1.25-2.25a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0M23 16.5a5.5 5.5 0 1 1-11 0a5.5 5.5 0 0 1 11 0m-1 0a4.5 4.5 0 1 0-9 0a4.5 4.5 0 0 0 9 0");
+}
+</style><path class="hpe91fbqf"/>`,
+		"fallback": "fluent:text-font-info-24-regular",
+	});
+}
+
+export default Component;

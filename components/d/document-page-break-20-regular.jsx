@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.wcqd3__6d {
+  fill: currentColor;
+  d: path("M16 2.5V6c0 .828-.679 1.5-1.5 1.5H5.488A1.495 1.495 0 0 1 4 6V2.5c0-.276.222-.5.496-.5s.496.224.496.5V6c0 .275.222.5.496.5H14.5c.274 0 .5-.225.5-.5V2.5c0-.276.226-.5.5-.5s.5.224.5.5m-13 7a.5.5 0 0 0 0 1h1.2a.5.5 0 0 0 0-1zm3.2 0a.5.5 0 0 0 0 1h1.2a.5.5 0 0 0 0-1zm2.7.5a.5.5 0 0 1 .5-.5h1.2a.5.5 0 0 1 0 1H9.4a.5.5 0 0 1-.5-.5m3.7-.5a.5.5 0 0 0 0 1h1.2a.5.5 0 0 0 0-1zm2.7.5a.5.5 0 0 1 .5-.5H17a.5.5 0 0 1 0 1h-1.2a.5.5 0 0 1-.5-.5m.7 4v3.5c0 .276-.226.5-.5.5a.5.5 0 0 1-.5-.5V14c0-.275-.226-.5-.5-.5H5.488a.5.5 0 0 0-.496.5v3.5c0 .276-.222.5-.496.5A.5.5 0 0 1 4 17.5V14c0-.828.667-1.5 1.488-1.5H14.5c.821 0 1.5.672 1.5 1.5");
+}
+</style><path class="wcqd3__6d"/>`,
+		"fallback": "fluent:document-page-break-20-regular",
+	});
+}
+
+export default Component;

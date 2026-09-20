@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ma6gorbou {
+  fill: currentColor;
+  d: path("M6.5 4A4.5 4.5 0 0 0 2 8.5v11A4.5 4.5 0 0 0 6.5 24h15a4.5 4.5 0 0 0 4.5-4.5v-11A4.5 4.5 0 0 0 21.5 4zM8 9h7a1 1 0 1 1 0 2H8a1 1 0 1 1 0-2m0 4h12a1 1 0 1 1 0 2H8a1 1 0 1 1 0-2m-1 5a1 1 0 0 1 1-1h8a1 1 0 1 1 0 2H8a1 1 0 0 1-1-1m21 3a5 5 0 0 1-5 5H7.101A6.98 6.98 0 0 0 12 28h11a7 7 0 0 0 7-7v-7a6.98 6.98 0 0 0-2-4.899z");
+}
+</style><path class="ma6gorbou"/>`,
+		"fallback": "fluent:slide-text-multiple-32-filled",
+	});
+}
+
+export default Component;

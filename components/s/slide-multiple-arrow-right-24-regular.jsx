@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.iaiv9pb6t {
+  fill: currentColor;
+  d: path("M6.75 3A4.75 4.75 0 0 0 2 7.75v7A2.25 2.25 0 0 0 4.25 17h.25v-1.5h-.25a.75.75 0 0 1-.75-.75v-7A3.25 3.25 0 0 1 6.75 4.5h10a.75.75 0 0 1 .75.75v.25H19v-.25A2.25 2.25 0 0 0 16.75 3zm1 3.5A2.25 2.25 0 0 0 5.5 8.75v9.5a2.25 2.25 0 0 0 2.25 2.25h3.982a6.5 6.5 0 0 1-.558-1.5H7.75a.75.75 0 0 1-.75-.75v-9.5A.75.75 0 0 1 7.75 8h12a.75.75 0 0 1 .75.75v2.982A6.5 6.5 0 0 1 22 12.81V8.75a2.25 2.25 0 0 0-2.25-2.25zM17.5 12a5.5 5.5 0 1 1 0 11a5.5 5.5 0 0 1 0-11m-3 5a.5.5 0 0 0 0 1h4.793l-1.647 1.646a.5.5 0 0 0 .708.708l2.5-2.5a.5.5 0 0 0 0-.708l-2.5-2.5a.5.5 0 0 0-.708.708L19.293 17z");
+}
+</style><path class="iaiv9pb6t"/>`,
+		"fallback": "fluent:slide-multiple-arrow-right-24-regular",
+	});
+}
+
+export default Component;

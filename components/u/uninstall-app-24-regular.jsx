@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.lt17n1-dl {
+  fill: currentColor;
+  d: path("m21.695 8.854l.084-.073a.75.75 0 0 0 .072-.977l-.072-.084l-2.22-2.218l2.22-2.22a.75.75 0 0 0 .072-.976l-.072-.084a.75.75 0 0 0-.977-.073l-.084.073l-2.22 2.22l-2.218-2.22a.75.75 0 0 0-.976-.073l-.085.073a.75.75 0 0 0-.072.976l.072.084l2.219 2.22L15.22 7.72a.75.75 0 0 0-.073.977l.072.084a.75.75 0 0 0 .977.073l.084-.073l2.22-2.218l2.22 2.218a.75.75 0 0 0 .976.073M18.75 21A2.25 2.25 0 0 0 21 18.75V13.5a2.25 2.25 0 0 0-2.25-2.25h-6v-6A2.25 2.25 0 0 0 10.5 3H5.25A2.25 2.25 0 0 0 3 5.25v13.5A2.25 2.25 0 0 0 5.25 21zm-7.5-9.749H4.5v-6a.75.75 0 0 1 .75-.75h5.25a.75.75 0 0 1 .75.75zm7.5 8.25h-6v-6.75h6a.75.75 0 0 1 .75.75v5.25a.75.75 0 0 1-.75.75m-7.5 0h-6a.75.75 0 0 1-.75-.75v-6h6.75z");
+}
+</style><path class="lt17n1-dl"/>`,
+		"fallback": "fluent:uninstall-app-24-regular",
+	});
+}
+
+export default Component;

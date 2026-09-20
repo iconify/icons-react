@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":12,"height":12};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.nf-zojbwf {
+  fill: currentColor;
+  d: path("M2.5 6A1.5 1.5 0 0 1 1 4.5v-2A1.5 1.5 0 0 1 2.5 1h3A1.5 1.5 0 0 1 7 2.5v2A1.5 1.5 0 0 1 5.5 6zM2 4.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-2a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5zM6.5 11A1.5 1.5 0 0 1 5 9.5v-1A1.5 1.5 0 0 1 6.5 7h3A1.5 1.5 0 0 1 11 8.5v1A1.5 1.5 0 0 1 9.5 11zM6 9.5a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 0-.5.5zm2-5a1.5 1.5 0 1 0 3 0v-2a1.5 1.5 0 0 0-3 0zm1.5.5a.5.5 0 0 1-.5-.5v-2a.5.5 0 0 1 1 0v2a.5.5 0 0 1-.5.5m-7 6A1.5 1.5 0 0 1 1 9.5v-1a1.5 1.5 0 1 1 3 0v1A1.5 1.5 0 0 1 2.5 11M2 9.5a.5.5 0 0 0 1 0v-1a.5.5 0 0 0-1 0z");
+}
+</style><path class="nf-zojbwf"/>`,
+		"fallback": "fluent:glance-horizontal-12-regular",
+	});
+}
+
+export default Component;

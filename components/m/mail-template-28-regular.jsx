@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a12hip86q {
+  fill: currentColor;
+  d: path("M22.443 13.005A3.75 3.75 0 0 1 26 16.75v5.5A3.75 3.75 0 0 1 22.25 26h-8.5A3.75 3.75 0 0 1 10 22.25v-5.5A3.75 3.75 0 0 1 13.75 13h8.5zm-4.054 8.387a.75.75 0 0 1-.686.047l-.092-.047l-6.111-3.706v4.564a2.25 2.25 0 0 0 2.25 2.25h8.5a2.25 2.25 0 0 0 2.25-2.25v-4.564zM19.25 2A3.75 3.75 0 0 1 23 5.75v6.309a5 5 0 0 0-.75-.059h-.75V5.75a2.25 2.25 0 0 0-2.25-2.25H5.75A2.25 2.25 0 0 0 3.5 5.75v13.5a2.25 2.25 0 0 0 2.25 2.25H9v.75q0 .383.06.75H5.75A3.75 3.75 0 0 1 2 19.25V5.75A3.75 3.75 0 0 1 5.75 2zm-5.5 12.5a2.25 2.25 0 0 0-2.123 1.51L18 19.873l6.373-3.862a2.25 2.25 0 0 0-1.893-1.498l-.23-.012zm4.5-5.5a.75.75 0 0 1 0 1.5h-7.5a.75.75 0 0 1 0-1.5zm0-3a.75.75 0 0 1 0 1.5H6.75a.75.75 0 0 1 0-1.5z");
+}
+</style><path class="a12hip86q"/>`,
+		"fallback": "fluent:mail-template-28-regular",
+	});
+}
+
+export default Component;

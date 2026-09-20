@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.spm87usxl {
+  fill: currentColor;
+  d: path("M13.264 2.078a.5.5 0 1 0-.523.852c2.258 1.384 4.12 3.414 4.26 7.09A.5.5 0 0 0 18 9.982c-.157-4.099-2.278-6.398-4.736-7.904m-1.178 2.65a.5.5 0 0 1 .694-.134c1.607 1.085 2.715 2.638 2.888 4.424q.024.24.024.487a.5.5 0 0 1-1 0q0-.198-.02-.39c-.136-1.418-1.024-2.728-2.452-3.693a.5.5 0 0 1-.134-.694m-7.006.71a5.16 5.16 0 0 0-2.614 6.811l1.223 2.749l.09 2.32a.75.75 0 0 0 1.054.656l9.727-4.33a.75.75 0 0 0 .218-1.223l-1.664-1.619l-1.224-2.749a5.16 5.16 0 0 0-6.81-2.614m-1.7 6.404a4.158 4.158 0 0 1 7.596-3.382l1.302 2.925l1.538 1.495l-9.052 4.03l-.083-2.143zm7.298 6.034a1.49 1.49 0 0 1-1.848-.54l2.685-1.194a1.49 1.49 0 0 1-.837 1.734");
+}
+</style><path class="spm87usxl"/>`,
+		"fallback": "fluent:alert-urgent-20-regular",
+	});
+}
+
+export default Component;

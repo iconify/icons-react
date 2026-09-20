@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.crtcaxbvo {
+  fill: currentColor;
+  d: path("m9.798 3.237l1.495 1.495l-6.561 6.56l-1.495-1.494a3.25 3.25 0 0 1 0-4.596l1.965-1.965a3.25 3.25 0 0 1 4.596 0M14.2 20.762l-1.494-1.495l6.56-6.56l1.495 1.494a3.25 3.25 0 0 1 0 4.597l-1.964 1.964a3.25 3.25 0 0 1-4.596 0m-10.964-6.56a3.25 3.25 0 0 0 0 4.596l1.965 1.964a3.25 3.25 0 0 0 4.596 0L20.762 9.798a3.25 3.25 0 0 0 0-4.596l-1.964-1.965a3.25 3.25 0 0 0-4.596 0zM12.75 9a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0M9 12.75a.75.75 0 1 1 0-1.5a.75.75 0 0 1 0 1.5m3 0a.75.75 0 1 1 0-1.5a.75.75 0 0 1 0 1.5m3.75-.75a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0M12 15.75a.75.75 0 1 1 0-1.5a.75.75 0 0 1 0 1.5");
+}
+</style><path class="crtcaxbvo"/>`,
+		"fallback": "fluent:patch-24-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.h57lgpb-p {
+  fill: currentColor;
+  d: path("M11.763 2.038a.75.75 0 0 1 .474 0l3.75 1.25A.75.75 0 0 1 16.5 4v5a.75.75 0 0 1-.513.712L12.75 10.79V13h1.75a2.25 2.25 0 0 1 2.25 2.25v.845A3.001 3.001 0 0 1 16 22a3 3 0 0 1-.75-5.905v-.845a.75.75 0 0 0-.75-.75h-5a.75.75 0 0 0-.75.75v.845A3.001 3.001 0 0 1 8 22a3 3 0 0 1-.75-5.905v-.845A2.25 2.25 0 0 1 9.5 13h1.75v-2.21L8.013 9.713A.75.75 0 0 1 7.5 9V4a.75.75 0 0 1 .513-.712zM9.788 5.513a.75.75 0 0 0 .475.949l.987.329v.959a.75.75 0 0 0 1.5 0v-.96l.987-.328a.75.75 0 0 0-.474-1.424L12 5.46l-1.263-.42a.75.75 0 0 0-.949.474");
+}
+</style><path class="h57lgpb-p"/>`,
+		"fallback": "fluent:cube-tree-24-filled",
+	});
+}
+
+export default Component;

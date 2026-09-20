@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.d5zozlb2f {
+  d: path("M3.75 18.004a.75.75 0 0 1 .743.648l.007.102v1.5a.75.75 0 0 1-1.493.101L3 20.254v-1.5a.75.75 0 0 1 .75-.75zm8-6a.75.75 0 0 1 .743.648l.007.102v7.5a.75.75 0 0 1-1.493.101L11 20.254v-7.5a.75.75 0 0 1 .75-.75zm4-3a.75.75 0 0 1 .743.648l.007.102v10.5a.75.75 0 0 1-1.493.101L15 20.254v-10.5a.75.75 0 0 1 .75-.75zm4 10.5a.75.75 0 1 1 0 1.5a.75.75 0 0 1 0-1.5zM7.75 15a.75.75 0 0 1 .743.648l.007.102v4.499a.75.75 0 0 1-1.493.101L7 20.25V15.75a.75.75 0 0 1 .75-.75zm11.984-8.996a.744.744 0 0 1 .74.641l.009.102l.017 10.885a.746.746 0 0 1-.734.758a.744.744 0 0 1-.74-.641l-.009-.102L19 6.76a.746.746 0 0 1 .734-.757z");
+  fill: currentColor;
+  fill-rule: nonzero;
+}
+</style><path class="d5zozlb2f"/>`,
+		"fallback": "fluent:cellular-unavailable-24-regular",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ajg03qkyx {
+  fill: currentColor;
+  d: path("M15.5 4A2.5 2.5 0 0 1 18 6.5V11a2 2 0 0 0-1 .268V7.96l-1.785 1.05a2 2 0 0 0-2.058 1.211l-2.903 1.709a.5.5 0 0 1-.426.038l-.082-.038L3 7.963V14.5A1.5 1.5 0 0 0 4.5 16H10v1H4.5A2.5 2.5 0 0 1 2 14.5v-8A2.5 2.5 0 0 1 4.5 4zm0 1h-11A1.5 1.5 0 0 0 3 6.5v.302l7 4.118l7-4.12v-.3A1.5 1.5 0 0 0 15.5 5m-.5 5a1 1 0 0 0-1 1v7a1 1 0 1 0 2 0v-7a1 1 0 0 0-1-1m3 2a1 1 0 0 0-1 1v5a1 1 0 1 0 2 0v-5a1 1 0 0 0-1-1m-7 3a1 1 0 1 1 2 0v3a1 1 0 1 1-2 0z");
+}
+</style><path class="ajg03qkyx"/>`,
+		"fallback": "fluent:mail-data-bar-20-regular",
+	});
+}
+
+export default Component;

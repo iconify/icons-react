@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hwt-lnbic {
+  fill: currentColor;
+  d: path("M7 2.496a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5V3H7zM5.458 4A.5.5 0 0 0 5 4.5V5h6v-.5a.5.5 0 0 0-.458-.5zm8.292 11a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m.75-3.25a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0M5 6h6v.018a2 2 0 0 1 1 1.732V8h.5a4.5 4.5 0 0 1 4.5 4.5v4a.5.5 0 0 1-.5.5H9v-2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v2.498H4.5a.5.5 0 0 1-.5-.5V7.75a2 2 0 0 1 1-1.732zm7 10h4v-3.5A3.5 3.5 0 0 0 12.5 9H12zM7.5 8.75a.75.75 0 1 0-1.5 0a.75.75 0 0 0 1.5 0m1.75.75a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5M7.5 11.25a.75.75 0 1 0-1.5 0a.75.75 0 0 0 1.5 0m1.75.75a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5");
+}
+</style><path class="hwt-lnbic"/>`,
+		"fallback": "fluent:building-skyscraper-20-filled",
+	});
+}
+
+export default Component;

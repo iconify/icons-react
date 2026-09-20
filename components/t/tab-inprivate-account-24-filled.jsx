@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fiyrx10cx {
+  fill: currentColor;
+  d: path("M5.75 3A2.75 2.75 0 0 0 3 5.75v12.5A2.75 2.75 0 0 0 5.75 21h6.621A3.9 3.9 0 0 1 12 19.328V19H5.75a.75.75 0 0 1-.75-.75V5.75A.75.75 0 0 1 5.75 5h12.5a.75.75 0 0 1 .75.75v3.376a4 4 0 0 1 2 1.228V5.75A2.75 2.75 0 0 0 18.25 3zM15 13a3 3 0 0 1 3-3v1h2.236c.258.289.462.627.593 1H18v1h3c0 .35-.06.687-.17 1H18v1h2.236A3 3 0 0 1 15 13m-.062 4c-.582 0-1.07.282-1.396.635c-.324.35-.542.823-.542 1.309v.384C13 21.289 15.041 23 18 23v-1h3.473a3.9 3.9 0 0 0 .997-1H18v-1h4.919q.08-.33.081-.672V19h-5v-1h4.73a2 2 0 0 0-.272-.365c-.327-.353-.814-.635-1.395-.635z");
+}
+</style><path class="fiyrx10cx"/>`,
+		"fallback": "fluent:tab-inprivate-account-24-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.exy_bffve {
+  fill: currentColor;
+  d: path("M5.843 4.56a8.707 8.707 0 0 1 12.514 12.106l-.2.207q-1.372 1.372-4.593 4.486a2.25 2.25 0 0 1-3.128 0l-3.85-3.749q-.426-.42-.743-.737a8.707 8.707 0 0 1 0-12.314m9.187 3.126l-.084-.073a.75.75 0 0 0-.883-.007l-.094.08L12 9.656l-1.969-1.97l-.084-.073a.75.75 0 0 0-.883-.007l-.094.08l-.072.084a.75.75 0 0 0-.007.882l.08.094l1.969 1.97l-1.97 1.97l-.072.084a.75.75 0 0 0-.007.883l.08.093l.084.073a.75.75 0 0 0 .882.007l.094-.08L12 11.777l1.97 1.97l.084.072a.75.75 0 0 0 .882.007l.094-.08l.073-.084a.75.75 0 0 0 .007-.882l-.08-.094l-1.97-1.97l1.97-1.97l.073-.084a.75.75 0 0 0 .007-.882zl-.084-.073z");
+}
+</style><path class="exy_bffve"/>`,
+		"fallback": "fluent:location-dismiss-24-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.h28ie_kml {
+  fill: currentColor;
+  d: path("M3.5 2.75a.75.75 0 0 0 0 1.5h13a.75.75 0 0 0 0-1.5zM7.75 8.5a2.25 2.25 0 0 1 4.5 0v5a.75.75 0 0 0 1.5 0v-5a3.75 3.75 0 1 0-7.5 0v5a.75.75 0 0 0 1.5 0zm-5 7a.75.75 0 0 1 .75-.75h13a.75.75 0 0 1 0 1.5h-13a.75.75 0 0 1-.75-.75m13.75-3.75h-1.75v1.5h1.75a.75.75 0 0 0 0-1.5m-13 0h1.75v1.5H3.5a.75.75 0 0 1 0-1.5m5.25-3h2.5v1.5h-2.5zm0 3h2.5v1.5h-2.5zm-3.5-3v1.5H3.5a.75.75 0 0 1 0-1.5zm11.25 0h-1.75v1.5h1.75a.75.75 0 0 0 0-1.5m-2.627-3c.32.448.563.955.71 1.5H16.5a.75.75 0 0 0 0-1.5zm-7.746 0a4.7 4.7 0 0 0-.71 1.5H3.5a.75.75 0 0 1 0-1.5z");
+}
+</style><path class="h28ie_kml"/>`,
+		"fallback": "fluent:text-position-through-20-filled",
+	});
+}
+
+export default Component;

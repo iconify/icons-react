@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.myiva1omq {
+  fill: currentColor;
+  d: path("m20.878 2.826l.153.144l.145.153a3.58 3.58 0 0 1-.145 4.908L9.063 19.999a2.25 2.25 0 0 1-1 .58l-5.115 1.395a.75.75 0 0 1-.92-.921l1.394-5.116a2.25 2.25 0 0 1 .58-.999L15.97 2.97a3.58 3.58 0 0 1 4.908-.144M15.001 6.06l-9.938 9.938a.75.75 0 0 0-.193.333l-1.05 3.85l3.85-1.05a.75.75 0 0 0 .332-.194L17.94 9zM6.526 11l-1.5 1.5H2.75a.75.75 0 0 1 0-1.5zm4-4l-1.5 1.5H2.75a.75.75 0 1 1 0-1.5zm6.505-2.97l-.97.97L19 7.94l.97-.97a2.078 2.078 0 1 0-2.939-2.94M14.526 3l-1.5 1.5H2.75a.75.75 0 1 1 0-1.5z");
+}
+</style><path class="myiva1omq"/>`,
+		"fallback": "fluent:drafts-24-regular",
+	});
+}
+
+export default Component;

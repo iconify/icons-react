@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.lhku3gbgw {
+  fill: currentColor;
+  d: path("M4.5 3.75a.75.75 0 0 0-1.5 0v16.5a.75.75 0 0 0 1.5 0zm4 0A.75.75 0 0 1 9.25 3h8.5A3.25 3.25 0 0 1 21 6.25v11.5A3.25 3.25 0 0 1 17.75 21h-8.5a.75.75 0 0 1-.75-.75v-4.268A1.748 1.748 0 0 0 10.482 14H14v-4h-3.518A1.748 1.748 0 0 0 8.5 8.018zM10 19.5h4v-4h-4zm5.5-4v4h2.25a1.75 1.75 0 0 0 1.75-1.75V15.5zm4-5.5h-4v4h4zm0-1.5V6.25a1.75 1.75 0 0 0-1.75-1.75H15.5v4zm-9.5-4v4h4v-4zm-.752 4.69a.75.75 0 0 1 .063 1.058l-.89 1.002h2.829a.75.75 0 0 1 0 1.5H8.42l.89 1.002a.75.75 0 0 1-1.12.996l-2-2.25a.75.75 0 0 1 0-.996l2-2.25a.75.75 0 0 1 1.058-.063");
+}
+</style><path class="lhku3gbgw"/>`,
+		"fallback": "fluent:table-move-left-24-regular",
+	});
+}
+
+export default Component;

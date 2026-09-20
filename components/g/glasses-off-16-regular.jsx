@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.xhdl-ti3q {
+  fill: currentColor;
+  d: path("m11.284 11.99l2.862 2.864a.5.5 0 0 0 .708-.708l-13-13a.5.5 0 1 0-.708.708l2.566 2.565l-2.165 1.923A1.5 1.5 0 0 0 1 7.5v2A2.5 2.5 0 0 0 3.5 12h1A2.5 2.5 0 0 0 7 9.5V9h1.293l.716.716a2.5 2.5 0 0 0 2.275 2.275M5.293 6H3.438l.982-.873zM2.17 7.123l.02-.018A.5.5 0 0 1 2.5 7h3a.5.5 0 0 1 .5.5v2A1.5 1.5 0 0 1 4.5 11h-1A1.5 1.5 0 0 1 2 9.5v-2a.5.5 0 0 1 .171-.377M10 7.88l-.905-.905A1.5 1.5 0 0 1 10.5 6h2.062L10.31 4H9.5a.5.5 0 0 1 0-1h1a.5.5 0 0 1 .332.126l3.621 3.216c.334.275.547.692.547 1.158v2c0 .916-.492 1.716-1.227 2.152l-.747-.747A1.5 1.5 0 0 0 14 9.5v-2a.5.5 0 0 0-.171-.377h-.001l-.02-.018A.5.5 0 0 0 13.5 7h-3a.5.5 0 0 0-.5.5zM5.212 3.09l.91.909H6.5a.5.5 0 0 0 0-1h-1a.5.5 0 0 0-.288.091");
+}
+</style><path class="xhdl-ti3q"/>`,
+		"fallback": "fluent:glasses-off-16-regular",
+	});
+}
+
+export default Component;

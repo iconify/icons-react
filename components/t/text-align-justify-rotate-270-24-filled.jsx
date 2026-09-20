@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.myq5uypaj {
+  fill: currentColor;
+  d: path("M6 22a1 1 0 0 1-1-1V3a1 1 0 0 1 2 0v18a1 1 0 0 1-1 1m12 0a1 1 0 0 1-1-1V3a1 1 0 1 1 2 0v18a1 1 0 0 1-1 1m-7-1a1 1 0 1 0 2 0V3a1 1 0 1 0-2 0z");
+}
+</style><path class="myq5uypaj"/>`,
+		"fallback": "fluent:text-align-justify-rotate-270-24-filled",
+	});
+}
+
+export default Component;

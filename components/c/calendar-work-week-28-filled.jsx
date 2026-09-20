@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.knxk4vb9u {
+  fill: currentColor;
+  d: path("M9 13.5v-4h10v4zm-6 8.25A3.25 3.25 0 0 0 6.25 25h15.5A3.25 3.25 0 0 0 25 21.75V6.25A3.25 3.25 0 0 0 21.75 3H6.25A3.25 3.25 0 0 0 3 6.25zM8.25 8h11.5a.75.75 0 0 1 .75.75v5.5a.75.75 0 0 1-.75.75H8.25a.75.75 0 0 1-.75-.75v-5.5A.75.75 0 0 1 8.25 8");
+}
+</style><path class="knxk4vb9u"/>`,
+		"fallback": "fluent:calendar-work-week-28-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hoaj_wlvv {
+  fill: currentColor;
+  d: path("M4 4.707L2.146 2.854a.5.5 0 1 1 .708-.708l15 15a.5.5 0 0 1-.708.708l-1.158-1.16A1.5 1.5 0 0 1 14.5 18h-9A1.5 1.5 0 0 1 4 16.5zM13.293 14H8.5a.5.5 0 0 0 0 1h5a.5.5 0 0 0 .468-.325zm-1-1l-1-1H8.5a.5.5 0 0 0 0 1zm-2-2l-1-1H8.5a.5.5 0 0 0 0 1zm3.207 0h-.379L16 13.879V8h-4.5A1.5 1.5 0 0 1 10 6.5V2H5.5c-.383 0-.733.144-.998.38l7.62 7.62H13.5a.5.5 0 0 1 0 1M6 10.5a.5.5 0 1 0 1 0a.5.5 0 0 0-1 0m0 2a.5.5 0 1 0 1 0a.5.5 0 0 0-1 0m0 2a.5.5 0 1 0 1 0a.5.5 0 0 0-1 0m5-8V2.25L15.75 7H11.5a.5.5 0 0 1-.5-.5");
+}
+</style><path class="hoaj_wlvv"/>`,
+		"fallback": "fluent:document-bullet-list-off-20-filled",
+	});
+}
+
+export default Component;

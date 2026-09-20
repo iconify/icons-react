@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fim70qbid {
+  fill: currentColor;
+  d: path("M6.5 5h19A4.5 4.5 0 0 1 30 9.5v13a4.5 4.5 0 0 1-4.5 4.5h-19A4.5 4.5 0 0 1 2 22.5v-13A4.5 4.5 0 0 1 6.5 5M29 10.206V9.5A3.5 3.5 0 0 0 25.5 6h-19A3.5 3.5 0 0 0 3 9.5v.706l13 7.222zM3 11.35V22.5A3.5 3.5 0 0 0 6.5 26h19a3.5 3.5 0 0 0 3.5-3.5V11.35l-12.757 7.087a.5.5 0 0 1-.486 0z");
+}
+</style><path class="fim70qbid"/>`,
+		"fallback": "fluent:mail-32-light",
+	});
+}
+
+export default Component;

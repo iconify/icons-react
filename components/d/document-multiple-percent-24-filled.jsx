@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.tlwty5tsk {
+  fill: currentColor;
+  d: path("M6.5 12a5.5 5.5 0 1 1 0 11a5.5 5.5 0 0 1 0-11m10.866 8.505a2.25 2.25 0 0 1-2.122 1.499h-4.057a6.5 6.5 0 0 0 1.079-1.5zM9 17.5a1.5 1.5 0 1 0 0 3a1.5 1.5 0 0 0 0-3m.33-2.828a.5.5 0 0 0-.707 0l-4.95 4.95a.5.5 0 0 0 .707.707l4.95-4.95a.5.5 0 0 0 0-.707M9 18.5a.5.5 0 1 1 0 1a.5.5 0 0 1 0-1M13 2v4.75A2.25 2.25 0 0 0 15.25 9H20v8.25a2.25 2.25 0 0 1-2.25 2.25h-5.063A6.5 6.5 0 0 0 6.5 11V4.25A2.25 2.25 0 0 1 8.75 2zM4 14.5a1.5 1.5 0 1 0 0 3a1.5 1.5 0 0 0 0-3m0 1a.5.5 0 1 1 0 1a.5.5 0 0 1 0-1m1.501-4.424A6.5 6.5 0 0 0 4 11.498V6.75c0-.98.628-1.815 1.503-2.123zM19.5 7.5h-4.25a.75.75 0 0 1-.75-.75V2.5z");
+}
+</style><path class="tlwty5tsk"/>`,
+		"fallback": "fluent:document-multiple-percent-24-filled",
+	});
+}
+
+export default Component;

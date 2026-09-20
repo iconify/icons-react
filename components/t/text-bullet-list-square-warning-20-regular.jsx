@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.eifjo5jem {
+  fill: currentColor;
+  d: path("M6.75 8a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5m.75 2.25a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0M6.75 14a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5M9 7.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5m.5 2.5a.5.5 0 0 0 0 1h2.767l.446-.893q.028-.055.057-.107zm0 3h1.768l-.5 1H9.5a.5.5 0 0 1 0-1m-3.75 3h4.02l-.5 1H5.75A2.75 2.75 0 0 1 3 14.25v-8.5A2.75 2.75 0 0 1 5.75 3h8.5A2.75 2.75 0 0 1 17 5.75v5.77l-.707-1.414A2 2 0 0 0 16 9.67V5.75A1.75 1.75 0 0 0 14.25 4h-8.5A1.75 1.75 0 0 0 4 5.75v8.5c0 .966.784 1.75 1.75 1.75m7.853-5.446a1 1 0 0 1 1.79 0l3.5 6.998A1 1 0 0 1 17.998 19h-6.996a1 1 0 0 1-.895-1.448zm1.395 1.941a.5.5 0 1 0-1 0v3.002a.5.5 0 1 0 1 0zm-.5 5.504a.5.5 0 1 0 0-1a.5.5 0 0 0 0 1");
+}
+</style><path class="eifjo5jem"/>`,
+		"fallback": "fluent:text-bullet-list-square-warning-20-regular",
+	});
+}
+
+export default Component;

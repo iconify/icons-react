@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.if73uecch {
+  fill: currentColor;
+  d: path("M10 2a8 8 0 1 0 0 16a8 8 0 0 0 0-16M8.825 5.583l.257.726a1 1 0 0 0 .609.609l.725.257c.778.275.778 1.374 0 1.65l-.725.256a1 1 0 0 0-.609.61l-.257.726c-.275.777-1.375.777-1.65 0l-.256-.726a1 1 0 0 0-.61-.61l-.726-.256c-.777-.275-.777-1.375 0-1.65l.726-.257a1 1 0 0 0 .61-.61l.256-.725c.275-.777 1.374-.778 1.65 0m2.505 4.416c.2-.665 1.142-.665 1.341 0l.178.594c.08.268.29.478.559.559l.594.178c.665.2.665 1.142 0 1.341l-.594.178a.83.83 0 0 0-.56.56l-.177.592c-.2.666-1.141.666-1.34 0l-.18-.594a.83.83 0 0 0-.559-.559l-.591-.177c-.666-.2-.666-1.142-.001-1.341l.593-.178a.83.83 0 0 0 .559-.559z");
+}
+</style><path class="if73uecch"/>`,
+		"fallback": "fluent:sparkle-circle-20-filled",
+	});
+}
+
+export default Component;

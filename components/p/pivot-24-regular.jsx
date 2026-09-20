@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.tuvsoeb1w {
+  fill: currentColor;
+  d: path("M4.5 6.25c0-.966.784-1.75 1.75-1.75h11c.966 0 1.75.784 1.75 1.75v4.629a2.25 2.25 0 0 1 1.5 0V6.25A3.25 3.25 0 0 0 17.25 3h-11A3.25 3.25 0 0 0 3 6.25v11a3.25 3.25 0 0 0 3.25 3.25h4.629a2.25 2.25 0 0 1 0-1.5H6.25a1.75 1.75 0 0 1-1.75-1.75zM6 7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1zm5.5 0a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1zM6 12.5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1zm14.28-.03a.75.75 0 0 0-1.06 0l-1.5 1.5a.75.75 0 1 0 1.06 1.06l.22-.22v2.44A1.75 1.75 0 0 1 17.25 19h-2.44l.22-.22a.75.75 0 1 0-1.06-1.06l-1.5 1.5a.75.75 0 0 0 0 1.06l1.5 1.5a.75.75 0 1 0 1.06-1.06l-.22-.22h2.44a3.25 3.25 0 0 0 3.25-3.25v-2.44l.22.22a.75.75 0 1 0 1.06-1.06z");
+}
+</style><path class="tuvsoeb1w"/>`,
+		"fallback": "fluent:pivot-24-regular",
+	});
+}
+
+export default Component;

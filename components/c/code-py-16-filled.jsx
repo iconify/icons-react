@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.prxmdubip {
+  fill: currentColor;
+  d: path("M14.44 3.894a.7.7 0 0 1 .199.214h-.002a.7.7 0 0 1 .103.277a.8.8 0 0 1-.01.288a.8.8 0 0 1-.121.267l-2.36 3.304v3.26c0 .198-.08.39-.22.53a.74.74 0 0 1-.53.22a.753.753 0 0 1-.75-.75v-3.26L8.389 4.94a.76.76 0 0 1-.132-.56a.76.76 0 0 1 .867-.62a.77.77 0 0 1 .489.305L11.5 6.712l1.89-2.646a.75.75 0 0 1 1.051-.172M3.5 3.753h2.25a2.5 2.5 0 0 1 1.768.733c.471.47.732 1.099.732 1.767a2.5 2.5 0 0 1-.732 1.768c-.473.472-1.1.732-1.768.732h-1.5v2.75c0 .198-.08.39-.22.53a.74.74 0 0 1-.53.22a.753.753 0 0 1-.75-.75v-7a.755.755 0 0 1 .75-.75m.75 3.5h1.5a1 1 0 0 0-.001-2H4.25z");
+}
+</style><path class="prxmdubip"/>`,
+		"fallback": "fluent:code-py-16-filled",
+	});
+}
+
+export default Component;

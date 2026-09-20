@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.u9m4d-xtm {
+  fill: currentColor;
+  d: path("M22 3.75a.75.75 0 0 0-.75-.75h-1A3.25 3.25 0 0 0 17 6.25v11.5A3.25 3.25 0 0 0 20.25 21h1a.75.75 0 0 0 0-1.5h-1a1.75 1.75 0 0 1-1.75-1.75V15.5h2.75a.75.75 0 0 0 0-1.5H18.5v-4h2.75a.75.75 0 0 0 0-1.5H18.5V6.25c0-.966.784-1.75 1.75-1.75h1a.75.75 0 0 0 .75-.75m-20 0A.75.75 0 0 1 2.75 3h1A3.25 3.25 0 0 1 7 6.25v11.5A3.25 3.25 0 0 1 3.75 21h-1a.75.75 0 0 1 0-1.5h1a1.75 1.75 0 0 0 1.75-1.75V15.5H2.75a.75.75 0 0 1 0-1.5H5.5v-4H2.75a.75.75 0 0 1 0-1.5H5.5V6.25A1.75 1.75 0 0 0 3.75 4.5h-1A.75.75 0 0 1 2 3.75M10.94 12l-1.47 1.47a.75.75 0 1 0 1.06 1.06L12 13.06l1.47 1.47a.75.75 0 1 0 1.06-1.06L13.06 12l1.47-1.47a.75.75 0 1 0-1.06-1.06L12 10.94l-1.47-1.47a.75.75 0 1 0-1.06 1.06zm.31-3.273q.039.035.076.072l.674.674l.674-.674q.037-.037.076-.072V2.75a.75.75 0 0 0-1.5 0zm0 6.796v5.727a.75.75 0 0 0 1.5 0v-5.727l-.076-.072l-.674-.674l-.674.674z");
+}
+</style><path class="u9m4d-xtm"/>`,
+		"fallback": "fluent:table-column-delete-24-regular",
+	});
+}
+
+export default Component;

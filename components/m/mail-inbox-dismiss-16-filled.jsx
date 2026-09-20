@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hkacsycsw {
+  fill: currentColor;
+  d: path("M15 5.5a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0m-2.646-1.146a.5.5 0 0 0-.708-.708L10.5 4.793L9.354 3.646a.5.5 0 1 0-.708.708L9.793 5.5L8.646 6.646a.5.5 0 1 0 .708.708L10.5 6.207l1.146 1.147a.5.5 0 0 0 .708-.708L11.207 5.5zM10.5 11c1.33 0 2.55-.472 3.5-1.257V12.5a2.5 2.5 0 0 1-2.5 2.5h-7A2.5 2.5 0 0 1 2 12.5v-7A2.5 2.5 0 0 1 4.5 3h1.1a5.5 5.5 0 0 0-.393 1H4.5A1.5 1.5 0 0 0 3 5.5V9h2.5a.5.5 0 0 1 .5.5c0 .052.008.162.032.308c.041.247.115.494.228.718c.308.618.843.974 1.74.974c.692 0 1.168-.212 1.492-.592q.49.091 1.008.092");
+}
+</style><path class="hkacsycsw"/>`,
+		"fallback": "fluent:mail-inbox-dismiss-16-filled",
+	});
+}
+
+export default Component;

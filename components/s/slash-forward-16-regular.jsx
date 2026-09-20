@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.lhowc-axs {
+  fill: currentColor;
+  d: path("M10.44 2.037a.5.5 0 0 1 .273.652l-4.5 11a.5.5 0 0 1-.926-.378l4.5-11a.5.5 0 0 1 .652-.274");
+}
+</style><path class="lhowc-axs"/>`,
+		"fallback": "fluent:slash-forward-16-regular",
+	});
+}
+
+export default Component;

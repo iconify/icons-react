@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.xfa8blxha {
+  fill: currentColor;
+  d: path("M21.995 4.75a2.25 2.25 0 0 0-2.25-2.25H4.25A2.25 2.25 0 0 0 2 4.75v9.505a2.25 2.25 0 0 0 2.25 2.25h7v2.934l-.84-.84a.75.75 0 1 0-1.061 1.06l2.12 2.121a.75.75 0 0 0 1.061 0l2.121-2.12a.75.75 0 1 0-1.06-1.061l-.841.84v-2.934h6.995a2.25 2.25 0 0 0 2.25-2.25zM6.75 12h10.5l.102.007a.75.75 0 0 1 0 1.486l-.102.007H6.75l-.102-.007a.75.75 0 0 1 0-1.486zm8.75-2.5a1 1 0 1 1 2 0a1 1 0 0 1-2 0m-2.995 0a1 1 0 1 1 2 0a1 1 0 0 1-2 0m-3 0a1 1 0 1 1 2 0a1 1 0 0 1-2 0m-3 0a1 1 0 1 1 2 0a1 1 0 0 1-2 0M5 6.5a1 1 0 1 1 2 0a1 1 0 0 1-2 0m2.995 0a1 1 0 1 1 2 0a1 1 0 0 1-2 0m3 0a1 1 0 1 1 2 0a1 1 0 0 1-2 0m3 0a1 1 0 1 1 2 0a1 1 0 0 1-2 0m3 0a1 1 0 1 1 2 0a1 1 0 0 1-2 0");
+}
+</style><path class="xfa8blxha"/>`,
+		"fallback": "fluent:keyboard-dock-24-filled",
+	});
+}
+
+export default Component;

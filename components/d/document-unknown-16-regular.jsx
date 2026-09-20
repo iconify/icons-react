@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.ir30-ib0v {
+  d: path("M10 10.5a4.5 4.5 0 1 0-9 0a4.5 4.5 0 0 0 9 0zm-4.5 1.88a.625.625 0 1 1 0 1.25a.625.625 0 0 1 0-1.25zm0-4.877c1.031 0 1.853.846 1.853 1.95c0 .586-.214.908-.727 1.319l-.277.214c-.246.194-.329.3-.346.448l-.011.156A.5.5 0 0 1 5 11.5c0-.57.21-.884.716-1.288l.278-.215c.288-.23.36-.342.36-.544c0-.558-.382-.95-.854-.95c-.494 0-.859.366-.853.945a.5.5 0 0 1-1 .01C3.636 8.32 4.452 7.503 5.5 7.503z");
+  fill: currentColor;
+}
+
+.v4100__7z {
+  d: path("M6 1.002a2 2 0 0 0-2 2v2.205a5.48 5.48 0 0 1 1-.185v-2.02a1 1 0 0 1 1-1h3v2.5a1.5 1.5 0 0 0 1.5 1.5H13v6.996a1 1 0 0 1-1 1H9.744c-.313.38-.675.716-1.078 1H12a2 2 0 0 0 2-2v-7.58a1.5 1.5 0 0 0-.44-1.06l-2.918-2.917a1.5 1.5 0 0 0-1.06-.44H6zm4 3.5v-2.29l2.791 2.79H10.5a.5.5 0 0 1-.5-.5z");
+  fill: currentColor;
+}
+</style><g class="ft5dv1b6b"><path class="v4100__7z"/><path class="ir30-ib0v"/></g>`,
+		"fallback": "fluent:document-unknown-16-regular",
+	});
+}
+
+export default Component;

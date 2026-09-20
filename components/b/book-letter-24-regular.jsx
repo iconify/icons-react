@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.selgp6b8h {
+  fill: currentColor;
+  d: path("M12.5 6a.75.75 0 0 0-.695.468l-3.25 8a.75.75 0 1 0 1.39.564L10.77 13h3.46l.825 2.032a.75.75 0 0 0 1.39-.564l-3.25-8A.75.75 0 0 0 12.5 6m-1.12 5.5l1.12-2.757l1.12 2.757zM4 4.5A2.5 2.5 0 0 1 6.5 2H18a2.5 2.5 0 0 1 2.5 2.5v14.25a.75.75 0 0 1-.75.75H5.5a1 1 0 0 0 1 1h13.25a.75.75 0 0 1 0 1.5H6.5A2.5 2.5 0 0 1 4 19.5zM5.5 18H19V4.5a1 1 0 0 0-1-1H6.5a1 1 0 0 0-1 1z");
+}
+</style><path class="selgp6b8h"/>`,
+		"fallback": "fluent:book-letter-24-regular",
+	});
+}
+
+export default Component;

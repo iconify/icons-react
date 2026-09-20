@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.nz_27ebfk {
+  fill: currentColor;
+  d: path("M7 7V5a3 3 0 0 1 5-2.236A3 3 0 0 1 17 5v2h1.5A1.5 1.5 0 0 1 20 8.5v10.005A3.495 3.495 0 0 1 16.505 22H8a4 4 0 0 1-4-4V8.5A1.5 1.5 0 0 1 5.5 7zm6.635 13.5a3.5 3.5 0 0 1-.625-1.995V8.5H5.5V18A2.5 2.5 0 0 0 8 20.5zM11.5 7V5a1.5 1.5 0 0 0-3 0v2zM13 7h2.5V5a1.5 1.5 0 0 0-2.656-.956c.101.3.156.622.156.956zm1.51 11.505a1.995 1.995 0 0 0 3.99 0V8.5h-3.99z");
+}
+</style><path class="nz_27ebfk"/>`,
+		"fallback": "fluent:shopping-bag-24-regular",
+	});
+}
+
+export default Component;

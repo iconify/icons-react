@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jfds_95bw {
+  fill: currentColor;
+  d: path("M2.854 2.146a.5.5 0 1 0-.708.708L6.044 6.75H6a1.25 1.25 0 1 0 1.25 1.206l2.794 2.795L10 10.75a1.25 1.25 0 1 0 1.25 1.206l5.896 5.898a.5.5 0 0 0 .708-.708zM15.25 12c0 .314-.116.602-.308.821l-1.763-1.763A1.25 1.25 0 0 1 15.25 12m-4-4c0 .314-.116.602-.308.821L9.18 7.058A1.25 1.25 0 0 1 11.25 8m-4-4c0 .314-.116.602-.308.821L5.18 3.058A1.25 1.25 0 0 1 7.25 4m0 8a1.25 1.25 0 1 1-2.5 0a1.25 1.25 0 0 1 2.5 0M10 5.25a1.25 1.25 0 1 0 0-2.5a1.25 1.25 0 0 0 0 2.5M11.25 16a1.25 1.25 0 1 1-2.5 0a1.25 1.25 0 0 1 2.5 0M14 5.25a1.25 1.25 0 1 0 0-2.5a1.25 1.25 0 0 0 0 2.5M15.25 8a1.25 1.25 0 1 1-2.5 0a1.25 1.25 0 0 1 2.5 0");
+}
+</style><path class="jfds_95bw"/>`,
+		"fallback": "fluent:dialpad-off-20-filled",
+	});
+}
+
+export default Component;

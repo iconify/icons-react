@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cls7gvbwf {
+  fill: currentColor;
+  d: path("M20.039 4.751a1 1 0 0 0 1.922.551l.827-2.884a1 1 0 1 0-1.922-.55zm8.668-1.458a1 1 0 0 1 0 1.414l-3 3a1 1 0 1 1-1.414-1.414l3-3a1 1 0 0 1 1.414 0M26 11.002a1 1 0 0 1 1-1h3a1 1 0 0 1 0 2h-3a1 1 0 0 1-1-1M11.956 5.659a3 3 0 0 1 4.805-.78l10.36 10.36a3 3 0 0 1-.78 4.804l-4.749 2.375a5.5 5.5 0 0 1-9.813 4.906l-2.717 1.359A3 3 0 0 1 5.6 28.12L3.88 26.4a3 3 0 0 1-.562-3.463zm1.62 20.767a3.5 3.5 0 0 0 6.218-3.109zm1.77-20.133a1 1 0 0 0-1.6.26l-8.64 17.279a1 1 0 0 0 .187 1.154l1.72 1.72a1 1 0 0 0 1.155.188l17.279-8.64a1 1 0 0 0 .26-1.601z");
+}
+</style><path class="cls7gvbwf"/>`,
+		"fallback": "fluent:megaphone-loud-32-regular",
+	});
+}
+
+export default Component;

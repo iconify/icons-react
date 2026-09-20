@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a4f0ikbjb {
+  fill: currentColor;
+  d: path("M2 6a3 3 0 0 1 3-3h5a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3H6.118a1.5 1.5 0 0 0-.18-2.171L4.9 12l1.036-.829a1.5 1.5 0 0 0 .124-2.232l-2.5-2.5A1.5 1.5 0 0 0 2 6.086zm3.354 8.354a.5.5 0 0 0-.042-.744L3.3 12l2.012-1.61a.5.5 0 0 0 .042-.744l-2.5-2.5A.5.5 0 0 0 2 7.5v3.46l-1.188-.95a.5.5 0 1 0-.624.78L1.7 12L.188 13.21a.5.5 0 0 0 .624.78L2 13.04v3.46a.5.5 0 0 0 .854.354zm-1.103-.312L3 15.292V13.04zm11.786-.266L14 12.369V5.63l2.037-1.406a1.25 1.25 0 0 1 1.96 1.028v7.495a1.25 1.25 0 0 1-1.96 1.029M3 10.96V8.707L4.251 9.96z");
+}
+</style><path class="a4f0ikbjb"/>`,
+		"fallback": "fluent:video-bluetooth-20-filled",
+	});
+}
+
+export default Component;

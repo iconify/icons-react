@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.g0cyv8vdw {
+  fill: currentColor;
+  d: path("M26 22.25A3.75 3.75 0 0 1 22.25 26h-8.5A3.75 3.75 0 0 1 10 22.25v-5.472l7.611 4.614l.092.047a.75.75 0 0 0 .686-.047L26 16.778zM19.25 2A3.75 3.75 0 0 1 23 5.75v6.309a5 5 0 0 0-.75-.059h-8.5A4.75 4.75 0 0 0 9 16.75v5.5q0 .383.06.75H5.75A3.75 3.75 0 0 1 2 19.25V5.75A3.75 3.75 0 0 1 5.75 2zm3 11a3.75 3.75 0 0 1 3.424 2.222L18 19.872l-7.675-4.65A3.75 3.75 0 0 1 13.75 13zm-11.5-4.5a.75.75 0 0 0 0 1.5h7.5a.75.75 0 0 0 0-1.5zm-4-3a.75.75 0 0 0 0 1.5h11.5a.75.75 0 0 0 0-1.5z");
+}
+</style><path class="g0cyv8vdw"/>`,
+		"fallback": "fluent:mail-template-28-filled",
+	});
+}
+
+export default Component;

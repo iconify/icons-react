@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.lfanftbfb {
+  fill: currentColor;
+  d: path("M6.05 6.05a7 7 0 0 1 9.143-.657l-9.8 9.8A7 7 0 0 1 6.05 6.05m.757 10.557l9.8-9.8a7.001 7.001 0 0 1-9.8 9.8M17.364 4.636A9 9 0 1 0 4.636 17.364A9 9 0 0 0 17.364 4.636M21 11c0 5.523-4.477 10-10 10a10 10 0 0 1-2.834-.407A9 9 0 0 0 20.593 8.166c.265.898.407 1.85.407 2.834");
+}
+</style><path class="lfanftbfb"/>`,
+		"fallback": "fluent:prohibited-multiple-24-filled",
+	});
+}
+
+export default Component;

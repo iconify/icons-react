@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":28,"height":28};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.wfmv3tbxc {
+  fill: currentColor;
+  d: path("M8.25 25h11.5l.102-.007a.75.75 0 0 0 .648-.743l-.007-.102a.75.75 0 0 0-.743-.648h-1.752v-2.498h5.75a2.25 2.25 0 0 0 2.25-2.25V14.5H19.75a1.75 1.75 0 0 1-1.565-.967l-.13-.26l-1.97 4.217a1.75 1.75 0 0 1-3.21-.09l-2.441-6.104l-.934 2.151A1.75 1.75 0 0 1 7.894 14.5H2v4.252a2.25 2.25 0 0 0 2.25 2.25H10V23.5H8.25l-.102.007A.75.75 0 0 0 8.25 25m3.25-3.998h4.998V23.5H11.5zM20.832 11h5.167V5.25A2.25 2.25 0 0 0 23.749 3H4.25A2.25 2.25 0 0 0 2 5.25V11h4.746l2.149-4.947a1.75 1.75 0 0 1 3.23.047l2.499 6.247l1.79-3.837a1.75 1.75 0 0 1 3.151-.042zm-9.636-4.528a.75.75 0 0 0-1.384-.02L7.402 12H2.75a.75.75 0 0 0 0 1.5h5.144a.75.75 0 0 0 .688-.451l1.89-4.35l3.332 8.33a.75.75 0 0 0 1.376.038l2.843-6.093l1.056 2.112a.75.75 0 0 0 .671.414h5.5a.75.75 0 0 0 0-1.5h-5.036L18.67 8.915a.75.75 0 0 0-1.35.018l-2.768 5.93z");
+}
+</style><path class="wfmv3tbxc"/>`,
+		"fallback": "fluent:desktop-pulse-28-filled",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.xo64lgrxc {
+  fill: currentColor;
+  d: path("M4.75 4A2.75 2.75 0 0 0 2 6.75v10.5A2.75 2.75 0 0 0 4.75 20h6.748A6.5 6.5 0 0 1 11 17.5c0-.698.11-1.37.313-2H6.75a.75.75 0 0 1 0-1.5h5.272a6.5 6.5 0 0 1 1.324-1.5H6.75a.75.75 0 0 1 0-1.5h8.5c.211 0 .402.087.538.228A6.5 6.5 0 0 1 17.5 11c1.747 0 3.332.689 4.5 1.81V6.75A2.75 2.75 0 0 0 19.25 4zM6 8.75A.75.75 0 0 1 6.75 8h4.5a.75.75 0 0 1 0 1.5h-4.5A.75.75 0 0 1 6 8.75M17.5 21.5a4 4 0 1 1 0-8a4 4 0 0 1 0 8m0 1.5a5.5 5.5 0 1 0 0-11a5.5 5.5 0 0 0 0 11m0-3a2.5 2.5 0 1 0 0-5a2.5 2.5 0 0 0 0 5");
+}
+</style><path class="xo64lgrxc"/>`,
+		"fallback": "fluent:slide-record-24-filled",
+	});
+}
+
+export default Component;

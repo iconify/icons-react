@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.r5kmbmbrp {
+  fill: currentColor;
+  d: path("M14.25 9a1 1 0 0 0-.996.905l-.5 5.25a1 1 0 0 0 1.126 1.086l3.283-.43a2.731 2.731 0 1 1 .355 5.439h-.532a3.26 3.26 0 0 1-2.386-1.037l-.37-.395a1 1 0 0 0-1.461 1.364l.37.396a5.26 5.26 0 0 0 3.847 1.672h.532a4.731 4.731 0 1 0-.614-9.422l-2.04.267L15.16 11h5.34a1 1 0 1 0 0-2zm10.457 7.293a1 1 0 0 0-1.414 1.414l1.793 1.793l-1.793 1.793a1 1 0 0 0 1.414 1.414l1.793-1.793l1.793 1.793a1 1 0 1 0 1.414-1.414L27.914 19.5l1.793-1.793a1 1 0 0 0-1.414-1.414L26.5 18.086zM11 22a1 1 0 1 1-2 0a1 1 0 0 1 2 0M7.327 9.055A1 1 0 0 1 8 10v12a1 1 0 1 1-2 0v-9.578c-.55.47-1.217.975-1.985 1.435a1 1 0 1 1-1.03-1.714a13.3 13.3 0 0 0 3.221-2.751l.007-.01a1 1 0 0 1 1.114-.327");
+}
+</style><path class="r5kmbmbrp"/>`,
+		"fallback": "fluent:multiplier-1-5x-32-regular",
+	});
+}
+
+export default Component;

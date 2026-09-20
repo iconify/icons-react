@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.nrrta-aox {
+  fill: currentColor;
+  d: path("M14.5 2a2 2 0 0 1 1.79 1.105c-.187.427-.29.9-.29 1.395c0 .66.183 1.277.5 1.804V6.4l.102.062c.25.368.567.686.935.935C17.83 7.862 18 8.411 18 9v1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v2a3 3 0 0 1-1.5 2.599V20a2 2 0 0 1-2 2h-5a2 2 0 0 1-2-2v-2.401A3 3 0 0 1 6 15V9a3 3 0 0 1 1.5-2.599V4a2 2 0 0 1 2-2zm-5 1.5A.5.5 0 0 0 9 4v2h6V4a.5.5 0 0 0-.5-.5zm7 11.5V9A1.5 1.5 0 0 0 15 7.5H9A1.5 1.5 0 0 0 7.5 9v6A1.5 1.5 0 0 0 9 16.5h6a1.5 1.5 0 0 0 1.5-1.5M9 20a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-2H9zM22 4.5a2.5 2.5 0 1 0-5 0a2.5 2.5 0 0 0 5 0");
+}
+</style><path class="nrrta-aox"/>`,
+		"fallback": "fluent:smartwatch-dot-24-regular",
+	});
+}
+
+export default Component;

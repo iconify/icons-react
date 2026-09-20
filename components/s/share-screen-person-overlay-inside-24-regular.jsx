@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.u5v612bpc {
+  fill: currentColor;
+  d: path("M16 12a2 2 0 1 0 0-4a2 2 0 0 0 0 4m-3 2a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v.25A2.75 2.75 0 0 1 16.25 17h-.5A2.75 2.75 0 0 1 13 14.25zM6.25 7C5.56 7 5 7.56 5 8.25v3.5c0 .69.56 1.25 1.25 1.25h4.5c.69 0 1.25-.56 1.25-1.25v-3.5C12 7.56 11.44 7 10.75 7zm-1-3A3.25 3.25 0 0 0 2 7.25v9.5A3.25 3.25 0 0 0 5.25 20h13.5A3.25 3.25 0 0 0 22 16.75v-9.5A3.25 3.25 0 0 0 18.75 4zM3.5 7.25c0-.966.784-1.75 1.75-1.75h13.5c.966 0 1.75.784 1.75 1.75v9.5a1.75 1.75 0 0 1-1.75 1.75H5.25a1.75 1.75 0 0 1-1.75-1.75z");
+}
+</style><path class="u5v612bpc"/>`,
+		"fallback": "fluent:share-screen-person-overlay-inside-24-regular",
+	});
+}
+
+export default Component;

@@ -1,0 +1,1615 @@
+{
+  "name": "@iconify-react/skill-icons",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/skill-icons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./ableton-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ableton-dark.jsx"
+    },
+    "./ableton-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ableton-light.jsx"
+    },
+    "./activitypub-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activitypub-dark.jsx"
+    },
+    "./activitypub-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activitypub-light.jsx"
+    },
+    "./actix-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/actix-dark.jsx"
+    },
+    "./actix-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/actix-light.jsx"
+    },
+    "./adonis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adonis.jsx"
+    },
+    "./aftereffects": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aftereffects.jsx"
+    },
+    "./aiscript-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aiscript-dark.jsx"
+    },
+    "./aiscript-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aiscript-light.jsx"
+    },
+    "./alpinejs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alpinejs-dark.jsx"
+    },
+    "./alpinejs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alpinejs-light.jsx"
+    },
+    "./anaconda-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anaconda-dark.jsx"
+    },
+    "./anaconda-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anaconda-light.jsx"
+    },
+    "./androidstudio-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/androidstudio-dark.jsx"
+    },
+    "./androidstudio-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/androidstudio-light.jsx"
+    },
+    "./angular-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-dark.jsx"
+    },
+    "./angular-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-light.jsx"
+    },
+    "./ansible": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ansible.jsx"
+    },
+    "./apollo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apollo.jsx"
+    },
+    "./apple-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-dark.jsx"
+    },
+    "./apple-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple-light.jsx"
+    },
+    "./appwrite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appwrite.jsx"
+    },
+    "./arch-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arch-dark.jsx"
+    },
+    "./arch-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arch-light.jsx"
+    },
+    "./arduino": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arduino.jsx"
+    },
+    "./astro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/astro.jsx"
+    },
+    "./atom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atom.jsx"
+    },
+    "./audition": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audition.jsx"
+    },
+    "./autocad-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autocad-dark.jsx"
+    },
+    "./autocad-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autocad-light.jsx"
+    },
+    "./aws-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aws-dark.jsx"
+    },
+    "./aws-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aws-light.jsx"
+    },
+    "./azul": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azul.jsx"
+    },
+    "./azure-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-dark.jsx"
+    },
+    "./azure-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azure-light.jsx"
+    },
+    "./babel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babel.jsx"
+    },
+    "./bash-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bash-dark.jsx"
+    },
+    "./bash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bash-light.jsx"
+    },
+    "./bevy-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bevy-dark.jsx"
+    },
+    "./bevy-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bevy-light.jsx"
+    },
+    "./bitbucket-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket-dark.jsx"
+    },
+    "./bitbucket-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitbucket-light.jsx"
+    },
+    "./blender-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blender-dark.jsx"
+    },
+    "./blender-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blender-light.jsx"
+    },
+    "./bootstrap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bootstrap.jsx"
+    },
+    "./bsd-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bsd-dark.jsx"
+    },
+    "./bsd-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bsd-light.jsx"
+    },
+    "./bun-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bun-dark.jsx"
+    },
+    "./bun-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bun-light.jsx"
+    },
+    "./c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c.jsx"
+    },
+    "./cassandra-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cassandra-dark.jsx"
+    },
+    "./cassandra-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cassandra-light.jsx"
+    },
+    "./clion-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clion-dark.jsx"
+    },
+    "./clion-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clion-light.jsx"
+    },
+    "./clojure-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clojure-dark.jsx"
+    },
+    "./clojure-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clojure-light.jsx"
+    },
+    "./cloudflare-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudflare-dark.jsx"
+    },
+    "./cloudflare-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudflare-light.jsx"
+    },
+    "./cmake-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake-dark.jsx"
+    },
+    "./cmake-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cmake-light.jsx"
+    },
+    "./codepen-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codepen-dark.jsx"
+    },
+    "./codepen-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codepen-light.jsx"
+    },
+    "./coffeescript-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffeescript-dark.jsx"
+    },
+    "./coffeescript-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffeescript-light.jsx"
+    },
+    "./cpp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpp.jsx"
+    },
+    "./crystal-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crystal-dark.jsx"
+    },
+    "./crystal-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crystal-light.jsx"
+    },
+    "./cs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cs.jsx"
+    },
+    "./css": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css.jsx"
+    },
+    "./cypress-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cypress-dark.jsx"
+    },
+    "./cypress-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cypress-light.jsx"
+    },
+    "./d3-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d3-dark.jsx"
+    },
+    "./d3-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/d3-light.jsx"
+    },
+    "./dart-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart-dark.jsx"
+    },
+    "./dart-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart-light.jsx"
+    },
+    "./debian-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/debian-dark.jsx"
+    },
+    "./debian-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/debian-light.jsx"
+    },
+    "./deno-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno-dark.jsx"
+    },
+    "./deno-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deno-light.jsx"
+    },
+    "./devto-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devto-dark.jsx"
+    },
+    "./devto-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devto-light.jsx"
+    },
+    "./discord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discord.jsx"
+    },
+    "./discordbots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discordbots.jsx"
+    },
+    "./discordjs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discordjs-dark.jsx"
+    },
+    "./discordjs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/discordjs-light.jsx"
+    },
+    "./django": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/django.jsx"
+    },
+    "./docker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker.jsx"
+    },
+    "./dotnet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dotnet.jsx"
+    },
+    "./dynamodb-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dynamodb-dark.jsx"
+    },
+    "./dynamodb-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dynamodb-light.jsx"
+    },
+    "./eclipse-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipse-dark.jsx"
+    },
+    "./eclipse-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eclipse-light.jsx"
+    },
+    "./elasticsearch-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elasticsearch-dark.jsx"
+    },
+    "./elasticsearch-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elasticsearch-light.jsx"
+    },
+    "./electron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/electron.jsx"
+    },
+    "./elixir-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir-dark.jsx"
+    },
+    "./elixir-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir-light.jsx"
+    },
+    "./elysia-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elysia-dark.jsx"
+    },
+    "./elysia-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elysia-light.jsx"
+    },
+    "./emacs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emacs.jsx"
+    },
+    "./ember": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ember.jsx"
+    },
+    "./emotion-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emotion-dark.jsx"
+    },
+    "./emotion-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emotion-light.jsx"
+    },
+    "./expressjs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expressjs-dark.jsx"
+    },
+    "./expressjs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expressjs-light.jsx"
+    },
+    "./fastapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fastapi.jsx"
+    },
+    "./fediverse-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fediverse-dark.jsx"
+    },
+    "./fediverse-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fediverse-light.jsx"
+    },
+    "./figma-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma-dark.jsx"
+    },
+    "./figma-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/figma-light.jsx"
+    },
+    "./flask-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask-dark.jsx"
+    },
+    "./flask-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask-light.jsx"
+    },
+    "./flutter-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flutter-dark.jsx"
+    },
+    "./flutter-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flutter-light.jsx"
+    },
+    "./forth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forth.jsx"
+    },
+    "./fortran": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fortran.jsx"
+    },
+    "./gamemakerstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gamemakerstudio.jsx"
+    },
+    "./gatsby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gatsby.jsx"
+    },
+    "./gcp-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gcp-dark.jsx"
+    },
+    "./gcp-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gcp-light.jsx"
+    },
+    "./gherkin-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gherkin-dark.jsx"
+    },
+    "./gherkin-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gherkin-light.jsx"
+    },
+    "./git": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git.jsx"
+    },
+    "./github-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-dark.jsx"
+    },
+    "./github-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/github-light.jsx"
+    },
+    "./githubactions-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/githubactions-dark.jsx"
+    },
+    "./githubactions-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/githubactions-light.jsx"
+    },
+    "./gitlab-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab-dark.jsx"
+    },
+    "./gitlab-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gitlab-light.jsx"
+    },
+    "./gmail-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gmail-dark.jsx"
+    },
+    "./gmail-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gmail-light.jsx"
+    },
+    "./godot-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot-dark.jsx"
+    },
+    "./godot-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godot-light.jsx"
+    },
+    "./golang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/golang.jsx"
+    },
+    "./gradle-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle-dark.jsx"
+    },
+    "./gradle-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradle-light.jsx"
+    },
+    "./grafana-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafana-dark.jsx"
+    },
+    "./grafana-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafana-light.jsx"
+    },
+    "./graphql-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql-dark.jsx"
+    },
+    "./graphql-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql-light.jsx"
+    },
+    "./gtk-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gtk-dark.jsx"
+    },
+    "./gtk-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gtk-light.jsx"
+    },
+    "./gulp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gulp.jsx"
+    },
+    "./haskell-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haskell-dark.jsx"
+    },
+    "./haskell-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haskell-light.jsx"
+    },
+    "./haxe-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxe-dark.jsx"
+    },
+    "./haxe-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxe-light.jsx"
+    },
+    "./haxeflixel-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxeflixel-dark.jsx"
+    },
+    "./haxeflixel-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haxeflixel-light.jsx"
+    },
+    "./heroku": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heroku.jsx"
+    },
+    "./hibernate-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hibernate-dark.jsx"
+    },
+    "./hibernate-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hibernate-light.jsx"
+    },
+    "./html": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html.jsx"
+    },
+    "./htmx-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/htmx-dark.jsx"
+    },
+    "./htmx-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/htmx-light.jsx"
+    },
+    "./idea-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/idea-dark.jsx"
+    },
+    "./idea-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/idea-light.jsx"
+    },
+    "./illustrator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/illustrator.jsx"
+    },
+    "./instagram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram.jsx"
+    },
+    "./ipfs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ipfs-dark.jsx"
+    },
+    "./ipfs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ipfs-light.jsx"
+    },
+    "./java-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-dark.jsx"
+    },
+    "./java-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-light.jsx"
+    },
+    "./javascript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript.jsx"
+    },
+    "./jenkins-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jenkins-dark.jsx"
+    },
+    "./jenkins-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jenkins-light.jsx"
+    },
+    "./jest": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jest.jsx"
+    },
+    "./jquery": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jquery.jsx"
+    },
+    "./julia-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/julia-dark.jsx"
+    },
+    "./julia-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/julia-light.jsx"
+    },
+    "./kafka": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kafka.jsx"
+    },
+    "./kali-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kali-dark.jsx"
+    },
+    "./kali-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kali-light.jsx"
+    },
+    "./kotlin-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin-dark.jsx"
+    },
+    "./kotlin-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin-light.jsx"
+    },
+    "./ktor-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ktor-dark.jsx"
+    },
+    "./ktor-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/ktor-light.jsx"
+    },
+    "./kubernetes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes.jsx"
+    },
+    "./laravel-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel-dark.jsx"
+    },
+    "./laravel-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laravel-light.jsx"
+    },
+    "./latex-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latex-dark.jsx"
+    },
+    "./latex-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/latex-light.jsx"
+    },
+    "./less-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/less-dark.jsx"
+    },
+    "./less-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/less-light.jsx"
+    },
+    "./linkedin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkedin.jsx"
+    },
+    "./linux-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-dark.jsx"
+    },
+    "./linux-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux-light.jsx"
+    },
+    "./lit-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lit-dark.jsx"
+    },
+    "./lit-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lit-light.jsx"
+    },
+    "./lua-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-dark.jsx"
+    },
+    "./lua-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-light.jsx"
+    },
+    "./markdown-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-dark.jsx"
+    },
+    "./markdown-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-light.jsx"
+    },
+    "./mastodon-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastodon-dark.jsx"
+    },
+    "./mastodon-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastodon-light.jsx"
+    },
+    "./materialui-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/materialui-dark.jsx"
+    },
+    "./materialui-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/materialui-light.jsx"
+    },
+    "./matlab-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matlab-dark.jsx"
+    },
+    "./matlab-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matlab-light.jsx"
+    },
+    "./maven-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maven-dark.jsx"
+    },
+    "./maven-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maven-light.jsx"
+    },
+    "./mint-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mint-dark.jsx"
+    },
+    "./mint-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mint-light.jsx"
+    },
+    "./misskey-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/misskey-dark.jsx"
+    },
+    "./misskey-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/misskey-light.jsx"
+    },
+    "./mongodb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongodb.jsx"
+    },
+    "./mysql-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysql-dark.jsx"
+    },
+    "./mysql-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysql-light.jsx"
+    },
+    "./neovim-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neovim-dark.jsx"
+    },
+    "./neovim-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neovim-light.jsx"
+    },
+    "./nestjs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nestjs-dark.jsx"
+    },
+    "./nestjs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nestjs-light.jsx"
+    },
+    "./netlify-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify-dark.jsx"
+    },
+    "./netlify-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netlify-light.jsx"
+    },
+    "./nextjs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextjs-dark.jsx"
+    },
+    "./nextjs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextjs-light.jsx"
+    },
+    "./nginx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nginx.jsx"
+    },
+    "./nim-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nim-dark.jsx"
+    },
+    "./nim-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nim-light.jsx"
+    },
+    "./nix-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nix-dark.jsx"
+    },
+    "./nix-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nix-light.jsx"
+    },
+    "./nodejs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs-dark.jsx"
+    },
+    "./nodejs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodejs-light.jsx"
+    },
+    "./notion-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notion-dark.jsx"
+    },
+    "./notion-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notion-light.jsx"
+    },
+    "./npm-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-dark.jsx"
+    },
+    "./npm-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-light.jsx"
+    },
+    "./nuxtjs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxtjs-dark.jsx"
+    },
+    "./nuxtjs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuxtjs-light.jsx"
+    },
+    "./obsidian-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/obsidian-dark.jsx"
+    },
+    "./obsidian-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/obsidian-light.jsx"
+    },
+    "./ocaml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ocaml.jsx"
+    },
+    "./octave-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octave-dark.jsx"
+    },
+    "./octave-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octave-light.jsx"
+    },
+    "./opencv-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencv-dark.jsx"
+    },
+    "./opencv-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencv-light.jsx"
+    },
+    "./openshift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openshift.jsx"
+    },
+    "./openstack-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openstack-dark.jsx"
+    },
+    "./openstack-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openstack-light.jsx"
+    },
+    "./p5js": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/p5js.jsx"
+    },
+    "./perl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perl.jsx"
+    },
+    "./photoshop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photoshop.jsx"
+    },
+    "./php-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php-dark.jsx"
+    },
+    "./php-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php-light.jsx"
+    },
+    "./phpstorm-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpstorm-dark.jsx"
+    },
+    "./phpstorm-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpstorm-light.jsx"
+    },
+    "./pinia-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinia-dark.jsx"
+    },
+    "./pinia-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinia-light.jsx"
+    },
+    "./pkl-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pkl-dark.jsx"
+    },
+    "./pkl-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pkl-light.jsx"
+    },
+    "./plan9-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plan9-dark.jsx"
+    },
+    "./plan9-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plan9-light.jsx"
+    },
+    "./planetscale-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/planetscale-dark.jsx"
+    },
+    "./planetscale-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/planetscale-light.jsx"
+    },
+    "./pnpm-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm-dark.jsx"
+    },
+    "./pnpm-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pnpm-light.jsx"
+    },
+    "./postgresql-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postgresql-dark.jsx"
+    },
+    "./postgresql-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postgresql-light.jsx"
+    },
+    "./postman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postman.jsx"
+    },
+    "./powershell-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powershell-dark.jsx"
+    },
+    "./powershell-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powershell-light.jsx"
+    },
+    "./premiere": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/premiere.jsx"
+    },
+    "./prisma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prisma.jsx"
+    },
+    "./processing-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processing-dark.jsx"
+    },
+    "./processing-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/processing-light.jsx"
+    },
+    "./prometheus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prometheus.jsx"
+    },
+    "./pug-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pug-dark.jsx"
+    },
+    "./pug-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pug-light.jsx"
+    },
+    "./pycharm-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pycharm-dark.jsx"
+    },
+    "./pycharm-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pycharm-light.jsx"
+    },
+    "./python-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-dark.jsx"
+    },
+    "./python-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-light.jsx"
+    },
+    "./pytorch-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytorch-dark.jsx"
+    },
+    "./pytorch-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pytorch-light.jsx"
+    },
+    "./qt-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qt-dark.jsx"
+    },
+    "./qt-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qt-light.jsx"
+    },
+    "./r-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r-dark.jsx"
+    },
+    "./r-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r-light.jsx"
+    },
+    "./rabbitmq-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rabbitmq-dark.jsx"
+    },
+    "./rabbitmq-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rabbitmq-light.jsx"
+    },
+    "./rails": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rails.jsx"
+    },
+    "./raspberrypi-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raspberrypi-dark.jsx"
+    },
+    "./raspberrypi-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/raspberrypi-light.jsx"
+    },
+    "./react-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react-dark.jsx"
+    },
+    "./react-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react-light.jsx"
+    },
+    "./reactivex-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reactivex-dark.jsx"
+    },
+    "./reactivex-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reactivex-light.jsx"
+    },
+    "./redhat-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redhat-dark.jsx"
+    },
+    "./redhat-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redhat-light.jsx"
+    },
+    "./redis-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redis-dark.jsx"
+    },
+    "./redis-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redis-light.jsx"
+    },
+    "./redux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redux.jsx"
+    },
+    "./regex-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regex-dark.jsx"
+    },
+    "./regex-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regex-light.jsx"
+    },
+    "./remix-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remix-dark.jsx"
+    },
+    "./remix-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remix-light.jsx"
+    },
+    "./replit-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replit-dark.jsx"
+    },
+    "./replit-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replit-light.jsx"
+    },
+    "./rider-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rider-dark.jsx"
+    },
+    "./rider-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rider-light.jsx"
+    },
+    "./robloxstudio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robloxstudio.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
+    },
+    "./rollupjs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollupjs-dark.jsx"
+    },
+    "./rollupjs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rollupjs-light.jsx"
+    },
+    "./ros-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ros-dark.jsx"
+    },
+    "./ros-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ros-light.jsx"
+    },
+    "./ruby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ruby.jsx"
+    },
+    "./rust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust.jsx"
+    },
+    "./sass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sass.jsx"
+    },
+    "./scala-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala-dark.jsx"
+    },
+    "./scala-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala-light.jsx"
+    },
+    "./scikitlearn-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scikitlearn-dark.jsx"
+    },
+    "./scikitlearn-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scikitlearn-light.jsx"
+    },
+    "./selenium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selenium.jsx"
+    },
+    "./sentry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sentry.jsx"
+    },
+    "./sequelize-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sequelize-dark.jsx"
+    },
+    "./sequelize-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sequelize-light.jsx"
+    },
+    "./sketchup-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketchup-dark.jsx"
+    },
+    "./sketchup-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sketchup-light.jsx"
+    },
+    "./solidity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidity.jsx"
+    },
+    "./solidjs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidjs-dark.jsx"
+    },
+    "./solidjs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidjs-light.jsx"
+    },
+    "./spotify-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spotify-dark.jsx"
+    },
+    "./spotify-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spotify-light.jsx"
+    },
+    "./spring-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spring-dark.jsx"
+    },
+    "./spring-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spring-light.jsx"
+    },
+    "./sqlite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sqlite.jsx"
+    },
+    "./stackoverflow-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow-dark.jsx"
+    },
+    "./stackoverflow-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackoverflow-light.jsx"
+    },
+    "./styledcomponents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/styledcomponents.jsx"
+    },
+    "./sublime-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sublime-dark.jsx"
+    },
+    "./sublime-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sublime-light.jsx"
+    },
+    "./supabase-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supabase-dark.jsx"
+    },
+    "./supabase-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/supabase-light.jsx"
+    },
+    "./svelte": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte.jsx"
+    },
+    "./svg-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svg-dark.jsx"
+    },
+    "./svg-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svg-light.jsx"
+    },
+    "./swift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swift.jsx"
+    },
+    "./symfony-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symfony-dark.jsx"
+    },
+    "./symfony-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/symfony-light.jsx"
+    },
+    "./tailwindcss-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwindcss-dark.jsx"
+    },
+    "./tailwindcss-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tailwindcss-light.jsx"
+    },
+    "./tauri-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tauri-dark.jsx"
+    },
+    "./tauri-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tauri-light.jsx"
+    },
+    "./tensorflow-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tensorflow-dark.jsx"
+    },
+    "./tensorflow-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tensorflow-light.jsx"
+    },
+    "./terraform-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform-dark.jsx"
+    },
+    "./terraform-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform-light.jsx"
+    },
+    "./threejs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/threejs-dark.jsx"
+    },
+    "./threejs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/threejs-light.jsx"
+    },
+    "./twitter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/twitter.jsx"
+    },
+    "./typescript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript.jsx"
+    },
+    "./ubuntu-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubuntu-dark.jsx"
+    },
+    "./ubuntu-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubuntu-light.jsx"
+    },
+    "./unity-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unity-dark.jsx"
+    },
+    "./unity-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unity-light.jsx"
+    },
+    "./unrealengine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unrealengine.jsx"
+    },
+    "./v-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v-dark.jsx"
+    },
+    "./v-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/v-light.jsx"
+    },
+    "./vala": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vala.jsx"
+    },
+    "./vercel-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vercel-dark.jsx"
+    },
+    "./vercel-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vercel-light.jsx"
+    },
+    "./verilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verilog.jsx"
+    },
+    "./vim-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-dark.jsx"
+    },
+    "./vim-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-light.jsx"
+    },
+    "./visualstudio-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visualstudio-dark.jsx"
+    },
+    "./visualstudio-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visualstudio-light.jsx"
+    },
+    "./vite-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vite-dark.jsx"
+    },
+    "./vite-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vite-light.jsx"
+    },
+    "./vitest-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitest-dark.jsx"
+    },
+    "./vitest-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vitest-light.jsx"
+    },
+    "./vscode-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode-dark.jsx"
+    },
+    "./vscode-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode-light.jsx"
+    },
+    "./vscodium-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscodium-dark.jsx"
+    },
+    "./vscodium-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscodium-light.jsx"
+    },
+    "./vuejs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuejs-dark.jsx"
+    },
+    "./vuejs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuejs-light.jsx"
+    },
+    "./vuetify-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuetify-dark.jsx"
+    },
+    "./vuetify-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vuetify-light.jsx"
+    },
+    "./webassembly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webassembly.jsx"
+    },
+    "./webflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webflow.jsx"
+    },
+    "./webpack-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack-dark.jsx"
+    },
+    "./webpack-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webpack-light.jsx"
+    },
+    "./webstorm-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webstorm-dark.jsx"
+    },
+    "./webstorm-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webstorm-light.jsx"
+    },
+    "./windicss-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windicss-dark.jsx"
+    },
+    "./windicss-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windicss-light.jsx"
+    },
+    "./windows-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windows-dark.jsx"
+    },
+    "./windows-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windows-light.jsx"
+    },
+    "./wordpress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wordpress.jsx"
+    },
+    "./workers-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/workers-dark.jsx"
+    },
+    "./workers-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/workers-light.jsx"
+    },
+    "./xd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xd.jsx"
+    },
+    "./yarn-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn-dark.jsx"
+    },
+    "./yarn-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn-light.jsx"
+    },
+    "./yew-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yew-dark.jsx"
+    },
+    "./yew-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yew-light.jsx"
+    },
+    "./zig-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zig-dark.jsx"
+    },
+    "./zig-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zig-light.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#skill-icons"
+}

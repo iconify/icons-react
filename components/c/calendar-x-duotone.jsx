@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.lmeoo7w6k {
+  d: path("M208 32h-24v-8a8 8 0 0 0-16 0v8H88v-8a8 8 0 0 0-16 0v8H48a16 16 0 0 0-16 16v160a16 16 0 0 0 16 16h160a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16M72 48v8a8 8 0 0 0 16 0v-8h80v8a8 8 0 0 0 16 0v-8h24v32H48V48Zm136 160H48V96h160zm-50.34-74.34L139.31 152l18.35 18.34a8 8 0 0 1-11.32 11.32L128 163.31l-18.34 18.35a8 8 0 0 1-11.32-11.32L116.69 152l-18.35-18.34a8 8 0 0 1 11.32-11.32L128 140.69l18.34-18.35a8 8 0 0 1 11.32 11.32");
+}
+
+.wsfrx89yo {
+  d: path("M216 48v40H40V48a8 8 0 0 1 8-8h160a8 8 0 0 1 8 8");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+</style><g class="cuyn6tgcc"><path class="wsfrx89yo"/><path class="lmeoo7w6k"/></g>`,
+		"fallback": "ph:calendar-x-duotone",
+	});
+}
+
+export default Component;

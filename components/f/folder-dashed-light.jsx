@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.eh7-mpyak {
+  fill: currentColor;
+  d: path("M94 208a6 6 0 0 1-6 6H39.38A13.39 13.39 0 0 1 26 200.62V192a6 6 0 0 1 12 0v8.62a1.4 1.4 0 0 0 1.38 1.38H88a6 6 0 0 1 6 6m66-6h-32a6 6 0 0 0 0 12h32a6 6 0 0 0 0-12m64-56a6 6 0 0 0-6 6v48.89a1.11 1.11 0 0 1-1.11 1.11H200a6 6 0 0 0 0 12h16.89A13.12 13.12 0 0 0 230 200.89V152a6 6 0 0 0-6-6m-8-72h-48a6 6 0 0 0 0 12h48a2 2 0 0 1 2 2v24a6 6 0 0 0 12 0V88a14 14 0 0 0-14-14M26 80V56a14 14 0 0 1 14-14h52.69a13.94 13.94 0 0 1 9.9 4.1l29.65 29.66A6 6 0 0 1 128 86H32a6 6 0 0 1-6-6m12-6h75.51L94.1 54.59a2 2 0 0 0-1.41-.59H40a2 2 0 0 0-2 2Zm-6 84a6 6 0 0 0 6-6v-32a6 6 0 0 0-12 0v32a6 6 0 0 0 6 6");
+}
+</style><path class="eh7-mpyak"/>`,
+		"fallback": "ph:folder-dashed-light",
+	});
+}
+
+export default Component;

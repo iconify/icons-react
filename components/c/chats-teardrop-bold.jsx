@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bixtl0n2s {
+  fill: currentColor;
+  d: path("M172.29 68.9A84 84 0 0 0 12 104v64a20 20 0 0 0 20 20h52.1a84.18 84.18 0 0 0 75.9 48h64a20 20 0 0 0 20-20v-64a84 84 0 0 0-71.71-83.1M36 104a60 60 0 1 1 60 60H36Zm184 108h-60a60.14 60.14 0 0 1-49-25.37a83.93 83.93 0 0 0 68.55-91.37A60 60 0 0 1 220 152Z");
+}
+</style><path class="bixtl0n2s"/>`,
+		"fallback": "ph:chats-teardrop-bold",
+	});
+}
+
+export default Component;

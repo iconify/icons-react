@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.p2e14xb7w {
+  d: path("M175.84 111.54a8 8 0 0 0-4.56-5.7l-50-22.43L135 25.85a8 8 0 0 0-13.65-7.28L26.13 121.42a8 8 0 0 0 2.59 12.73l50 22.44L65 214.15a8 8 0 0 0 13.65 7.28l95.2-102.85a8 8 0 0 0 1.99-7.04m-88.22 76.67l8.16-34.36a8 8 0 0 0-4.5-9.15l-45.85-20.58l66.95-72.33l-8.16 34.36a8 8 0 0 0 4.5 9.15l45.84 20.58Zm151.53 24.21l-36-72a8 8 0 0 0-14.31 0l-36 72a8 8 0 0 0 14.31 7.16l9.79-19.58h38.11l9.79 19.58A8 8 0 0 0 232 224a8 8 0 0 0 7.15-11.58M184.94 184L196 161.89L207.05 184Z");
+}
+
+.tcqfacbcl {
+  d: path("M72.8 216L88 152l-56-25.14L127.2 24L112 88l56 25.14Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+</style><g class="cuyn6tgcc"><path class="tcqfacbcl"/><path class="p2e14xb7w"/></g>`,
+		"fallback": "ph:lightning-a-duotone",
+	});
+}
+
+export default Component;

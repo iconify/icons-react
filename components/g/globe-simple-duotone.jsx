@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.goeug6bgp {
+  d: path("M224 128a96 96 0 1 1-96-96a96 96 0 0 1 96 96");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.w46vyebxo {
+  d: path("M128 24a104 104 0 1 0 104 104A104.12 104.12 0 0 0 128 24m87.62 96h-39.83c-1.79-36.51-15.85-62.33-27.38-77.6a88.19 88.19 0 0 1 67.22 77.6ZM96.23 136h63.54c-2.31 41.61-22.23 67.11-31.77 77c-9.55-9.9-29.46-35.4-31.77-77m0-16c2.31-41.61 22.23-67.11 31.77-77c9.55 9.93 29.46 35.43 31.77 77Zm11.36-77.6C96.06 57.67 82 83.49 80.21 120H40.37a88.19 88.19 0 0 1 67.22-77.6M40.37 136h39.84c1.82 36.51 15.85 62.33 27.38 77.6A88.19 88.19 0 0 1 40.37 136m108 77.6c11.53-15.27 25.56-41.09 27.38-77.6h39.84a88.19 88.19 0 0 1-67.18 77.6Z");
+}
+</style><g class="cuyn6tgcc"><path class="goeug6bgp"/><path class="w46vyebxo"/></g>`,
+		"fallback": "ph:globe-simple-duotone",
+	});
+}
+
+export default Component;

@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.tvt187bty {
+  d: path("M103.8 140.1L128 128l24.2 12.1a72 72 0 0 1 39.8 64.4v3.5H64v-3.5a72 72 0 0 1 39.8-64.4M192 51.5V48H64v3.5a72 72 0 0 0 39.8 64.4L128 128l24.2-12.1A72 72 0 0 0 192 51.5");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.x4gemzb1h {
+  d: path("M200 204.5V232a8 8 0 0 1-16 0v-27.5a63.67 63.67 0 0 0-35.38-57.25l-48.4-24.19A79.58 79.58 0 0 1 56 51.5V24a8 8 0 0 1 16 0v27.5a63.67 63.67 0 0 0 35.38 57.25l48.4 24.19A79.58 79.58 0 0 1 200 204.5m-40-4.5H72.17a63.6 63.6 0 0 1 3.23-16h72.71a8 8 0 0 0 0-16H83.46a63.7 63.7 0 0 1 14.65-15.08A8 8 0 1 0 88.64 140A80.27 80.27 0 0 0 56 204.5V232a8 8 0 0 0 16 0v-16h88a8 8 0 0 0 0-16m32-184a8 8 0 0 0-8 8v16H96a8 8 0 0 0 0 16h87.83a63.6 63.6 0 0 1-3.23 16h-72.71a8 8 0 1 0 0 16h64.65a63.7 63.7 0 0 1-14.65 15.08a8 8 0 0 0 9.47 12.9A80.27 80.27 0 0 0 200 51.5V24a8 8 0 0 0-8-8");
+}
+</style><g class="cuyn6tgcc"><path class="tvt187bty"/><path class="x4gemzb1h"/></g>`,
+		"fallback": "ph:dna-duotone",
+	});
+}
+
+export default Component;

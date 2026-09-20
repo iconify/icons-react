@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ctomnq-qc {
+  d: path("M136 72v43.05l36.42-18.21a8 8 0 0 1 7.16 14.31l-48 24A8 8 0 0 1 120 128V72a8 8 0 0 1 16 0m-8 144a88 88 0 1 1 88-88a8 8 0 0 0 16 0a104 104 0 1 0-104 104a8 8 0 0 0 0-16m103.73 5.94a8 8 0 1 1-15.46 4.11C213.44 215.42 203.46 208 192 208s-21.44 7.42-24.27 18.05A8 8 0 0 1 160 232a8.2 8.2 0 0 1-2.06-.27a8 8 0 0 1-5.67-9.79a40 40 0 0 1 17.11-23.32a32 32 0 1 1 45.23 0a40 40 0 0 1 17.12 23.32M176 176a16 16 0 1 0 16-16a16 16 0 0 0-16 16");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.n83dd_bkq {
+  d: path("M224 128a95.6 95.6 0 0 1-9.09 40.82A24 24 0 1 0 191.5 200a33.15 33.15 0 0 0-29 17.6A96 96 0 1 1 224 128");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+</style><g class="cuyn6tgcc"><path class="n83dd_bkq"/><path class="ctomnq-qc"/></g>`,
+		"fallback": "ph:clock-user-duotone",
+	});
+}
+
+export default Component;

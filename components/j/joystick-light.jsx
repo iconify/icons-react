@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bax2c4bth {
+  fill: currentColor;
+  d: path("M208 146h-74V93.52a38 38 0 1 0-12 0V146H48a14 14 0 0 0-14 14v48a14 14 0 0 0 14 14h160a14 14 0 0 0 14-14v-48a14 14 0 0 0-14-14M102 56a26 26 0 1 1 26 26a26 26 0 0 1-26-26m108 152a2 2 0 0 1-2 2H48a2 2 0 0 1-2-2v-48a2 2 0 0 1 2-2h160a2 2 0 0 1 2 2Zm-42-94h32a6 6 0 0 1 0 12h-32a6 6 0 0 1 0-12");
+}
+</style><path class="bax2c4bth"/>`,
+		"fallback": "ph:joystick-light",
+	});
+}
+
+export default Component;

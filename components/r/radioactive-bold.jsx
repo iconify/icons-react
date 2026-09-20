@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.evk6yybld {
+  fill: currentColor;
+  d: path("M128 112a16 16 0 1 1-16 16a16 16 0 0 1 16-16m-32 16a12 12 0 0 0-12-12H44.47a83.88 83.88 0 0 1 31.2-54.11L95.38 96a12 12 0 1 0 20.78-12l-22-38a20 20 0 0 0-28.87-6.34a107.85 107.85 0 0 0-45.26 78.4a20.22 20.22 0 0 0 5.21 15.43A20 20 0 0 0 40 140h44a12 12 0 0 0 12-12m139.92-9.94a107.81 107.81 0 0 0-45.26-78.39A20 20 0 0 0 161.79 46l-21.95 38a12 12 0 0 0 20.78 12l19.71-34.13a83.88 83.88 0 0 1 31.2 54.13H172a12 12 0 0 0 0 24h44a20 20 0 0 0 14.71-6.51a20.22 20.22 0 0 0 5.21-15.43m-75.52 42.05a12 12 0 0 0-20.79 12L159.19 206a84.33 84.33 0 0 1-62.38 0l19.58-33.91a12 12 0 0 0-20.79-12l-21.82 37.8a20 20 0 0 0 8.91 28.15a108.24 108.24 0 0 0 90.62 0a20 20 0 0 0 8.91-28.15Z");
+}
+</style><path class="evk6yybld"/>`,
+		"fallback": "ph:radioactive-bold",
+	});
+}
+
+export default Component;

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.r7rkhibwm {
+  fill: currentColor;
+  d: path("M200 42h-21.52l-14.23-14.24A6 6 0 0 0 160 26H96a6 6 0 0 0-4.25 1.76L77.52 42H56a14 14 0 0 0-14 14v152a14 14 0 0 0 14 14h144a14 14 0 0 0 14-14V56a14 14 0 0 0-14-14m-72 27.18L107.21 38h41.58Zm32.93-27.76l9.07 9.07V104a2 2 0 0 1-3.25 1.56l-30.82-26.64ZM86 50.49l9.07-9.07l25 37.5l-30.82 26.62A2 2 0 0 1 86 104ZM54 208V56a2 2 0 0 1 2-2h18v50a13.87 13.87 0 0 0 8.06 12.68A14.1 14.1 0 0 0 88 118a13.87 13.87 0 0 0 9-3.26l.08-.07l25-21.56V210H56a2 2 0 0 1-2-2m148 0a2 2 0 0 1-2 2h-66V93.11l25 21.56l.08.07A13.87 13.87 0 0 0 168 118a14.1 14.1 0 0 0 6-1.35a13.87 13.87 0 0 0 8-12.65V54h18a2 2 0 0 1 2 2Z");
+}
+</style><path class="r7rkhibwm"/>`,
+		"fallback": "ph:shirt-folded-light",
+	});
+}
+
+export default Component;

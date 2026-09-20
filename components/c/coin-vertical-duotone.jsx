@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.qauvqfbij {
+  d: path("M160 128c0 53-25.07 96-56 96s-56-43-56-96s25.07-96 56-96s56 43 56 96");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.telg5fbtj {
+  d: path("M198.51 56.09C186.44 35.4 169.92 24 152 24h-48c-17.92 0-34.44 11.4-46.51 32.09C46.21 75.42 40 101 40 128s6.21 52.58 17.49 71.91C69.56 220.6 86.08 232 104 232h48c17.92 0 34.44-11.4 46.51-32.09C209.79 180.58 216 155 216 128s-6.21-52.58-17.49-71.91m1.28 63.91h-32a152.8 152.8 0 0 0-9.68-48h30.59c6.12 13.38 10.16 30 11.09 48m-20.6-64h-28.73a83 83 0 0 0-12-16H152c10 0 19.4 6 27.19 16M56 128c0-47.7 22-88 48-88s48 40.3 48 88s-22 88-48 88s-48-40.3-48-88m96 88h-13.51a83 83 0 0 0 12-16h28.73C171.4 210 162 216 152 216m36.7-32h-30.58a152.8 152.8 0 0 0 9.68-48h32c-.94 18-4.98 34.62-11.1 48");
+}
+</style><g class="cuyn6tgcc"><path class="qauvqfbij"/><path class="telg5fbtj"/></g>`,
+		"fallback": "ph:coin-vertical-duotone",
+	});
+}
+
+export default Component;

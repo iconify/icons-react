@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.lwn910y7g {
+  d: path("M208 80a8 8 0 0 1-8 8h-32.15c.09 1.32.15 2.65.15 4a60.07 60.07 0 0 1-60 60H92.69l72.69 66.08a8 8 0 1 1-10.76 11.84l-88-80A8 8 0 0 1 72 136h36a44.05 44.05 0 0 0 44-44c0-1.35-.07-2.68-.19-4H72a8 8 0 0 1 0-16h75.17A44 44 0 0 0 108 48H72a8 8 0 0 1 0-16h128a8 8 0 0 1 0 16h-51.26a60.1 60.1 0 0 1 15.82 24H200a8 8 0 0 1 8 8");
+}
+
+.tqk8w9e4n {
+  d: path("M160 92a52 52 0 0 1-52 52H72V40h36a52 52 0 0 1 52 52");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+</style><g class="cuyn6tgcc"><path class="tqk8w9e4n"/><path class="lwn910y7g"/></g>`,
+		"fallback": "ph:currency-inr-duotone",
+	});
+}
+
+export default Component;

@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bwa0cjx7b {
+  d: path("m245.66 42.34l-32-32a8 8 0 0 0-11.32 11.32l1.48 1.47l-55.17 41.38l-38.22 7.65a8.05 8.05 0 0 0-4.09 2.18L23 157.66a24 24 0 0 0 0 33.94L64.4 233a24 24 0 0 0 33.94 0l83.32-83.31a8 8 0 0 0 2.18-4.09l7.65-38.22l41.38-55.17l1.47 1.48a8 8 0 0 0 11.32-11.32ZM104 204.69L51.31 152L96 107.31L148.69 160ZM81.37 224a7.94 7.94 0 0 1-5.65-2.34l-41.38-41.38a8 8 0 0 1 0-11.31l5.66-5.66L92.69 216L87 221.66a8 8 0 0 1-5.63 2.34M177.6 99.2a7.9 7.9 0 0 0-1.44 3.23l-7.53 37.63l-8.63 8.63L107.31 96l8.63-8.63l37.63-7.53a7.9 7.9 0 0 0 3.23-1.44l58.45-43.84l6.19 6.19Z");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.nmuvmwb-o {
+  d: path("m160 160l-56 56l-64-64l56-56Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+</style><g class="cuyn6tgcc"><path class="nmuvmwb-o"/><path class="bwa0cjx7b"/></g>`,
+		"fallback": "ph:beer-bottle-duotone",
+	});
+}
+
+export default Component;

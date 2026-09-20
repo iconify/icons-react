@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b2tay6bzw {
+  fill: currentColor;
+  d: path("M222 232a6 6 0 0 1-6 6H112a6 6 0 1 1 0-12h104a6 6 0 0 1 6 6m0-72v32a14 14 0 0 1-14 14h-93.89a13.94 13.94 0 0 1-12.53-7.74l-58.11-116a14.06 14.06 0 0 1 0-12.52l22.12-44a14 14 0 0 1 18.58-6.35l33.74 14.24l.34.17a14 14 0 0 1 6.27 18.78l-.09.16l-14.25 26.42a2 2 0 0 0 0 1.73l31.78 64a2 2 0 0 0 1.78 1.09H208A14 14 0 0 1 222 160m-12 0a2 2 0 0 0-2-2h-64.23a13.94 13.94 0 0 1-12.52-7.74l-31.78-64a14 14 0 0 1 0-12.5l.09-.17l14.25-26.42a2 2 0 0 0 .08-1.47a2 2 0 0 0-.89-1.1L79.35 30.37l-.35-.16a2 2 0 0 0-.89-.21a2 2 0 0 0-1.79 1.1l-22.12 44a2 2 0 0 0 0 1.78l58.12 116a2 2 0 0 0 1.79 1.11H208a2 2 0 0 0 2-2Z");
+}
+</style><path class="b2tay6bzw"/>`,
+		"fallback": "ph:seat-light",
+	});
+}
+
+export default Component;

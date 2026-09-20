@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.btcbc1vgr {
+  d: path("M232 160H24l22.49-89.94A8 8 0 0 1 54.25 64h147.5a8 8 0 0 1 7.76 6.06Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.m216b0bsw {
+  d: path("m239.76 158.06l-22.48-89.94A16 16 0 0 0 201.75 56H136V40a16 16 0 0 0-16-16H80a16 16 0 0 0-16 16v16h-9.75a16 16 0 0 0-15.53 12.12l-22.48 89.94A8 8 0 0 0 16 160v32a16 16 0 0 0 16 16h192a16 16 0 0 0 16-16v-32a8 8 0 0 0-.24-1.94M80 40h40v16H80ZM54.25 72h147.5l20 80H34.25ZM32 192v-24h192v24Zm32-96a8 8 0 0 1 8-8h16a8 8 0 0 1 0 16H72a8 8 0 0 1-8-8m48 0a8 8 0 0 1 8-8h16a8 8 0 0 1 0 16h-16a8 8 0 0 1-8-8m48 0a8 8 0 0 1 8-8h16a8 8 0 0 1 0 16h-16a8 8 0 0 1-8-8m-96 32a8 8 0 0 1 8-8h16a8 8 0 0 1 0 16H72a8 8 0 0 1-8-8m48 0a8 8 0 0 1 8-8h16a8 8 0 0 1 0 16h-16a8 8 0 0 1-8-8m48 0a8 8 0 0 1 8-8h16a8 8 0 0 1 0 16h-16a8 8 0 0 1-8-8");
+}
+</style><g class="cuyn6tgcc"><path class="btcbc1vgr"/><path class="m216b0bsw"/></g>`,
+		"fallback": "ph:cash-register-duotone",
+	});
+}
+
+export default Component;

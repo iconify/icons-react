@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ltd-_abxb {
+  fill: currentColor;
+  d: path("M138 204a10 10 0 1 1-10-10a10 10 0 0 1 10 10m97.81-115.45a170 170 0 0 0-215.62 0a6 6 0 1 0 7.62 9.27a158 158 0 0 1 200.38 0a6 6 0 1 0 7.62-9.27m-32.08 35.79a122 122 0 0 0-151.46 0a6 6 0 0 0 7.46 9.41a110 110 0 0 1 136.54 0A6 6 0 0 0 200 135a6 6 0 0 0 3.73-10.7Zm-32.2 35.81a74 74 0 0 0-87.06 0a6 6 0 0 0 7.06 9.7a62 62 0 0 1 72.94 0a6 6 0 0 0 8.38-1.32a6 6 0 0 0-1.32-8.38");
+}
+</style><path class="ltd-_abxb"/>`,
+		"fallback": "ph:wifi-high-light",
+	});
+}
+
+export default Component;

@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.c_stohzmj {
+  d: path("M208.06 184H152a8 8 0 0 0-8 8v12a36 36 0 0 0 72.05 0v-12a8 8 0 0 0-7.99-8m-8 20a20 20 0 0 1-40 0v-4h40ZM104 160H48a8 8 0 0 0-8 8v12a36 36 0 0 0 72 0v-12a8 8 0 0 0-8-8m-8 20a20 20 0 0 1-40 0v-4h40ZM76 16c-11.64 0-22.93 10.31-31.8 29c-13.93 29.38-18.56 73 .29 96a8 8 0 0 0 6.2 2.93h50.55a8 8 0 0 0 6.2-2.93c18.85-23 14.22-66.65.29-96C98.85 26.31 87.57 16 76 16m21.15 112H54.78c-11.4-18.1-7.21-52.7 3.89-76.11C65.14 38.22 72.17 32 76 32s10.82 6.22 17.3 19.89c11.06 23.41 15.25 58.01 3.85 76.11m57.61 40h50.55a8 8 0 0 0 6.2-2.93c18.85-23 14.22-66.65.29-96C202.93 50.31 191.64 40 180 40s-22.89 10.31-31.77 29c-13.93 29.38-18.56 73 .29 96a8 8 0 0 0 6.24 3m8-92.11C169.22 62.22 176.25 56 180 56s10.81 6.22 17.29 19.89c11.1 23.41 15.29 58 3.89 76.11h-42.33c-11.4-18.1-7.21-52.7 3.89-76.11Z");
+}
+
+.cb_ikacys {
+  d: path("M152 192h56v12a28 28 0 0 1-56 0ZM48 180a28 28 0 0 0 56 0v-12H48ZM76 24c-24.52 0-51.46 80-25.26 112h50.52c26.2-32-.74-112-25.26-112m129.26 136c26.2-32-.74-112-25.26-112s-51.46 80-25.26 112Z");
+  opacity: var(--svg-opacity--0-2, 0.2);
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+</style><g class="cuyn6tgcc"><path class="cb_ikacys"/><path class="c_stohzmj"/></g>`,
+		"fallback": "ph:footprints-duotone",
+	});
+}
+
+export default Component;

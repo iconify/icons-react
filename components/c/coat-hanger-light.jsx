@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":256,"height":256};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.o6pif2bmg {
+  fill: currentColor;
+  d: path("M240.37 172.8L138 96l25.59-19.2A6 6 0 0 0 166 72a38 38 0 1 0-76 0a6 6 0 0 0 12 0a26 26 0 0 1 51.82-2.88l-29.32 22l-.21.16L15.63 172.8A14 14 0 0 0 24 198h208a14 14 0 0 0 8.39-25.2Zm-6.5 11.83A1.85 1.85 0 0 1 232 186H24a2 2 0 0 1-1.19-3.6L128 103.5l105.17 78.9a1.85 1.85 0 0 1 .7 2.23");
+}
+</style><path class="o6pif2bmg"/>`,
+		"fallback": "ph:coat-hanger-light",
+	});
+}
+
+export default Component;

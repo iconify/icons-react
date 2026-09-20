@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/w/wy7btdbpr.css';
+
+const viewBox = {"width":30,"height":30};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="wy7btdbpr"/>`,
+		"fallback": "wi:wmo4680-20",
+	});
+}
+
+export default Component;

@@ -1,0 +1,291 @@
+{
+  "name": "@iconify-react/nonicons",
+  "type": "module",
+  "version": "1.0.3",
+  "homepage": "https://icon-sets.iconify.design/nonicons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./angular-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angular-16.jsx"
+    },
+    "./babel-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/babel-16.jsx"
+    },
+    "./biome-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/biome-16.jsx"
+    },
+    "./c-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-16.jsx"
+    },
+    "./c-plusplus-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-plusplus-16.jsx"
+    },
+    "./c-sharp-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/c-sharp-16.jsx"
+    },
+    "./capacitor-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/capacitor-16.jsx"
+    },
+    "./class-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/class-16.jsx"
+    },
+    "./constant-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/constant-16.jsx"
+    },
+    "./css-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css-16.jsx"
+    },
+    "./dart-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dart-16.jsx"
+    },
+    "./docker-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-16.jsx"
+    },
+    "./elixir-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir-16.jsx"
+    },
+    "./elm-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elm-16.jsx"
+    },
+    "./error-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/error-16.jsx"
+    },
+    "./eslint-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eslint-16.jsx"
+    },
+    "./field-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/field-16.jsx"
+    },
+    "./go-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/go-16.jsx"
+    },
+    "./graphql-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graphql-16.jsx"
+    },
+    "./html-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/html-16.jsx"
+    },
+    "./interface-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/interface-16.jsx"
+    },
+    "./ionic-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ionic-16.jsx"
+    },
+    "./java-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/java-16.jsx"
+    },
+    "./javascript-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/javascript-16.jsx"
+    },
+    "./json-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/json-16.jsx"
+    },
+    "./keyword-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyword-16.jsx"
+    },
+    "./kotlin-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kotlin-16.jsx"
+    },
+    "./kubernetes-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubernetes-16.jsx"
+    },
+    "./layout-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-16.jsx"
+    },
+    "./loading-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loading-16.jsx"
+    },
+    "./lua-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lua-16.jsx"
+    },
+    "./next-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/next-16.jsx"
+    },
+    "./nginx-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nginx-16.jsx"
+    },
+    "./node-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/node-16.jsx"
+    },
+    "./not-found-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/not-found-16.jsx"
+    },
+    "./npm-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/npm-16.jsx"
+    },
+    "./perl-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perl-16.jsx"
+    },
+    "./php-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php-16.jsx"
+    },
+    "./prettier-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prettier-16.jsx"
+    },
+    "./prisma-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prisma-16.jsx"
+    },
+    "./python-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/python-16.jsx"
+    },
+    "./r-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/r-16.jsx"
+    },
+    "./react-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/react-16.jsx"
+    },
+    "./rust-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rust-16.jsx"
+    },
+    "./scala-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scala-16.jsx"
+    },
+    "./snippet-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snippet-16.jsx"
+    },
+    "./struct-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/struct-16.jsx"
+    },
+    "./svelte-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/svelte-16.jsx"
+    },
+    "./swift-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swift-16.jsx"
+    },
+    "./template-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/template-16.jsx"
+    },
+    "./terraform-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terraform-16.jsx"
+    },
+    "./tmux-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tmux-16.jsx"
+    },
+    "./toml-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toml-16.jsx"
+    },
+    "./turborepo-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turborepo-16.jsx"
+    },
+    "./type-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/type-16.jsx"
+    },
+    "./typescript-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typescript-16.jsx"
+    },
+    "./variable-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-16.jsx"
+    },
+    "./vim-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-16.jsx"
+    },
+    "./vim-command-mode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-command-mode-16.jsx"
+    },
+    "./vim-insert-mode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-insert-mode-16.jsx"
+    },
+    "./vim-normal-mode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-normal-mode-16.jsx"
+    },
+    "./vim-replace-mode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-replace-mode-16.jsx"
+    },
+    "./vim-select-mode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-select-mode-16.jsx"
+    },
+    "./vim-terminal-mode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-terminal-mode-16.jsx"
+    },
+    "./vim-visual-mode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vim-visual-mode-16.jsx"
+    },
+    "./vscode-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vscode-16.jsx"
+    },
+    "./vue-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vue-16.jsx"
+    },
+    "./yaml-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yaml-16.jsx"
+    },
+    "./yarn-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yarn-16.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#nonicons"
+}

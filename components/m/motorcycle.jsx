@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/k/k2g46cqvf.css';
+import '../../css/f/fo2bbhb7n.css';
+import '../../css/h/hok9940vc.css';
+import '../../css/d/dzoymkbbe.css';
+import '../../css/g/gz3je7b4s.css';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="cuyn6tgcc"><path class="k2g46cqvf"/><path clip-rule="evenodd" class="fo2bbhb7n"/><path class="hok9940vc"/><path class="dzoymkbbe"/><path clip-rule="evenodd" class="gz3je7b4s"/></g>`,
+		"fallback": "pepicons-pencil:motorcycle",
+	});
+}
+
+export default Component;

@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cpseejxrq {
+  fill: var(--svg-color--c15356, #c15356);
+  d: path("M27.5 5.5h-9.3l-2.1 4.2H4.4v16.8h25.2v-21Zm0 4.2h-8.2l1.1-2.1h7.1Z");
+}
+
+.h3zeglbeq {
+  fill: var(--svg-color--9f4246, #9f4246);
+  d: path("M18.652 19.945c1.188 0 1.922-1.1 1.922-2.747c0-1.609-.6-2.582-1.8-2.582s-1.929 1.1-1.929 2.747c.001 1.612.603 2.582 1.807 2.582M17.72 17.2c0-1.172.322-1.84.99-1.84c.487 0 .784.413.916 1.105l-1.9.982a2 2 0 0 1-.006-.247m1 2c-.478 0-.784-.4-.916-1.073l1.9-.982v.215c-.004 1.174-.317 1.84-.986 1.84Zm7.701.635l.075-.767h-1.238v-4.51l-.882.075v.6l-1.271.132l.017.668L24.376 16v3.069h-1.387v.768zm-5.888 7.125l.075-.767h-1.237v-4.511l-.883.075v.6l-1.27.132l.016.669l1.254-.033v3.069h-1.386v.768zm4.082.107c1.188 0 1.922-1.1 1.922-2.747c0-1.609-.6-2.582-1.8-2.582s-1.93 1.1-1.93 2.747c0 1.611.6 2.585 1.808 2.585Zm-.932-2.745c0-1.172.322-1.84.99-1.84c.487 0 .784.412.916 1.105l-1.9.982a2 2 0 0 1-.006-.247m1 2c-.479 0-.784-.4-.916-1.073l1.9-.982v.214c-.004 1.178-.318 1.844-.986 1.844Z");
+}
+
+.uwv6feurv {
+  fill: var(--svg-color--9f4246, #9f4246);
+  d: path("M25.742 9.9H13.441v21h17.475V15.15z");
+}
+
+.wgcdt-rku {
+  fill: var(--svg-color--fff, #fff);
+  d: path("M29.577 29.663H14.851V11.138h10.055l4.75 4.749v13.776z");
+}
+</style><path class="cpseejxrq"/><path class="uwv6feurv"/><path class="wgcdt-rku"/><path class="h3zeglbeq"/>`,
+		"fallback": "vscode-icons:folder-type-binary",
+	});
+}
+
+export default Component;

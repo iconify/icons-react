@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/nrj6p8qat.css';
+import '../../css/u/uiarw7b8j.css';
+import '../../css/b/b0exrkbyn.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="nrj6p8qat"><rect class="uiarw7b8j"/><path class="b0exrkbyn"/></g>`,
+		"fallback": "meteor-icons:rows-3",
+	});
+}
+
+export default Component;

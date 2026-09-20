@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/nrj6p8qat.css';
+import '../../css/h/hjkp8vjuf.css';
+import '../../css/v/vnq0g0eje.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="nrj6p8qat"><path class="hjkp8vjuf"/><path class="vnq0g0eje"/></g>`,
+		"fallback": "lucide:circle-check-big",
+	});
+}
+
+export default Component;

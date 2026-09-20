@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/g/g37t12bqh.css';
+import '../../css/h/hbi26vbdh.css';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="g37t12bqh"/><path class="hbi26vbdh"/>`,
+		"fallback": "octicon:boolean-on-16",
+	});
+}
+
+export default Component;

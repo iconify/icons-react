@@ -1,0 +1,19 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/y/yonlo3bib.css';
+
+const viewBox = {"width":16,"height":16};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="yonlo3bib"/>`,
+		"fallback": "octicon:tab-16",
+	});
+}
+
+export default Component;

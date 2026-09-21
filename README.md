@@ -4,6 +4,7 @@ This repository contains icon components for React for all 222 icon sets availab
 
 Each icon set is published in a separate branch of this repository, see list of branches below.
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react).
 
 ## Why not NPM ???
 
@@ -50,11 +51,21 @@ Each icon set is published in a separate branch of this repository, which makes 
 npm install github:iconify/icons-react#{prefix}
 ```
 
+or
+```bash
+npm install gitlab:iconify-icons/react#{prefix}
+```
+
 where {prefix} is icon set prefix.
 For example, for `mdi` icon set, installation command is:
 
 ```bash
 npm install github:iconify/icons-react#mdi
+```
+
+or
+```bash
+npm install gitlab:iconify-icons/react#mdi
 ```
 
 

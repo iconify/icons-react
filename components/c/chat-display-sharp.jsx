@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.d2l0v9box {
+		"content": `<style>.z0c13l3xt {
   fill: currentColor;
-  d: path("M15 14q-.775 0-1.937.238t-2.726.725T6.8 16.175T2.375 17.9L1 16.975V8.95q3.45-.675 6.963-1.312T15 7q3.1 0 5.313 2.488T23.025 16l-1.775.675q-1.6-1.25-3.275-1.963T15 14");
+  d: path("M11 22v-8h11v8zm2-2h7v-4h-7zm-7-9h12V9H6zm0-3h12V6H6zm3 10H6l-4 4V4q0-.825.588-1.412T4 2h16q.825 0 1.413.588T22 4v8H6v2h3z");
 }
-</style><path class="d2l0v9box"/>`,
-		"fallback": "material-symbols:eyebrow-sharp",
+</style><path class="z0c13l3xt"/>`,
+		"fallback": "material-symbols:chat-display-sharp",
 	});
 }
 

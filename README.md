@@ -1,5 +1,6 @@
 # @iconify-react/vscode-icons
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/vscode-icons).
 **VSCode Icons**
 
 Author: [Roberto Huertas](https://github.com/vscode-icons/vscode-icons)
@@ -10,6 +11,11 @@ Browse all icons: [preview VSCode Icons on Iconify](https://icon-sets.iconify.de
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#vscode-icons
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#vscode-icons
 ```

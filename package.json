@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2005,6 +2005,14 @@
     "./libgdx": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/libgdx.jsx"
+    },
+    "./linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linear.jsx"
+    },
+    "./linear-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linear-wordmark.jsx"
     },
     "./linkedin": {
       "types": "./types/hqrkovbr.d.ts",

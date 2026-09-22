@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-symbols-light",
   "type": "module",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "homepage": "https://icon-sets.iconify.design/material-symbols-light/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
@@ -3829,6 +3829,22 @@
     "./apps-outage-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apps-outage-rounded.jsx"
+    },
+    "./apps-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apps-plus.jsx"
+    },
+    "./apps-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apps-plus-outline.jsx"
+    },
+    "./apps-plus-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apps-plus-outline-rounded.jsx"
+    },
+    "./apps-plus-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apps-plus-rounded.jsx"
     },
     "./aq": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11526,6 +11542,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chat-dashed-sharp.jsx"
     },
+    "./chat-display": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-display.jsx"
+    },
+    "./chat-display-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-display-outline.jsx"
+    },
+    "./chat-display-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-display-outline-rounded.jsx"
+    },
+    "./chat-display-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-display-outline-sharp.jsx"
+    },
+    "./chat-display-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-display-rounded.jsx"
+    },
+    "./chat-display-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-display-sharp.jsx"
+    },
     "./chat-error": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chat-error.jsx"
@@ -12713,6 +12753,30 @@
     "./closed-caption-disabled-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/closed-caption-disabled-sharp.jsx"
+    },
+    "./closed-caption-display": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-caption-display.jsx"
+    },
+    "./closed-caption-display-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-caption-display-outline.jsx"
+    },
+    "./closed-caption-display-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-caption-display-outline-rounded.jsx"
+    },
+    "./closed-caption-display-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-caption-display-outline-sharp.jsx"
+    },
+    "./closed-caption-display-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-caption-display-rounded.jsx"
+    },
+    "./closed-caption-display-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/closed-caption-display-sharp.jsx"
     },
     "./closed-caption-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17470,6 +17534,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/display-external-input-sharp.jsx"
     },
+    "./display-group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/display-group.jsx"
+    },
+    "./display-group-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/display-group-outline.jsx"
+    },
+    "./display-group-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/display-group-outline-rounded.jsx"
+    },
+    "./display-group-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/display-group-outline-sharp.jsx"
+    },
+    "./display-group-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/display-group-rounded.jsx"
+    },
+    "./display-group-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/display-group-sharp.jsx"
+    },
     "./display-settings": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/display-settings.jsx"
@@ -17845,6 +17933,30 @@
     "./document-search-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/document-search-sharp.jsx"
+    },
+    "./document-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share.jsx"
+    },
+    "./document-share-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-outline.jsx"
+    },
+    "./document-share-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-outline-rounded.jsx"
+    },
+    "./document-share-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-outline-sharp.jsx"
+    },
+    "./document-share-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-rounded.jsx"
+    },
+    "./document-share-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-sharp.jsx"
     },
     "./domain": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19129,6 +19241,30 @@
     "./edit-document-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/edit-document-sharp.jsx"
+    },
+    "./edit-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-line.jsx"
+    },
+    "./edit-line-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-line-outline.jsx"
+    },
+    "./edit-line-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-line-outline-rounded.jsx"
+    },
+    "./edit-line-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-line-outline-sharp.jsx"
+    },
+    "./edit-line-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-line-rounded.jsx"
+    },
+    "./edit-line-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-line-sharp.jsx"
     },
     "./edit-location": {
       "types": "./types/hqrkovbr.d.ts",
@@ -22334,6 +22470,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/filter-b-and-w-sharp.jsx"
     },
+    "./filter-cancel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-cancel.jsx"
+    },
+    "./filter-cancel-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-cancel-outline.jsx"
+    },
+    "./filter-cancel-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-cancel-outline-rounded.jsx"
+    },
+    "./filter-cancel-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-cancel-outline-sharp.jsx"
+    },
+    "./filter-cancel-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-cancel-rounded.jsx"
+    },
+    "./filter-cancel-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-cancel-sharp.jsx"
+    },
     "./filter-center-focus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/filter-center-focus.jsx"
@@ -22449,6 +22609,30 @@
     "./filter-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/filter-outline-sharp.jsx"
+    },
+    "./filter-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-plus.jsx"
+    },
+    "./filter-plus-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-plus-outline.jsx"
+    },
+    "./filter-plus-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-plus-outline-rounded.jsx"
+    },
+    "./filter-plus-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-plus-outline-sharp.jsx"
+    },
+    "./filter-plus-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-plus-rounded.jsx"
+    },
+    "./filter-plus-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-plus-sharp.jsx"
     },
     "./filter-retrolux": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25246,6 +25430,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/function-rounded.jsx"
     },
+    "./function-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/function-search.jsx"
+    },
+    "./function-search-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/function-search-rounded.jsx"
+    },
     "./functions": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/functions.jsx"
@@ -26525,6 +26717,22 @@
     "./group-add-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/group-add-rounded.jsx"
+    },
+    "./group-eye": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-eye.jsx"
+    },
+    "./group-eye-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-eye-outline.jsx"
+    },
+    "./group-eye-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-eye-outline-rounded.jsx"
+    },
+    "./group-eye-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-eye-rounded.jsx"
     },
     "./group-off": {
       "types": "./types/hqrkovbr.d.ts",
@@ -29429,6 +29637,18 @@
     "./import-contacts-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/import-contacts-sharp.jsx"
+    },
+    "./import-spark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/import-spark.jsx"
+    },
+    "./import-spark-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/import-spark-rounded.jsx"
+    },
+    "./import-spark-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/import-spark-sharp.jsx"
     },
     "./important-devices": {
       "types": "./types/hqrkovbr.d.ts",
@@ -34266,6 +34486,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/markdown.jsx"
     },
+    "./markdown-convert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-convert.jsx"
+    },
+    "./markdown-convert-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-convert-outline.jsx"
+    },
+    "./markdown-convert-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-convert-outline-rounded.jsx"
+    },
+    "./markdown-convert-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-convert-outline-sharp.jsx"
+    },
+    "./markdown-convert-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-convert-rounded.jsx"
+    },
+    "./markdown-convert-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-convert-sharp.jsx"
+    },
     "./markdown-copy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/markdown-copy.jsx"
@@ -34289,6 +34533,30 @@
     "./markdown-copy-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/markdown-copy-sharp.jsx"
+    },
+    "./markdown-document": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-document.jsx"
+    },
+    "./markdown-document-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-document-outline.jsx"
+    },
+    "./markdown-document-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-document-outline-rounded.jsx"
+    },
+    "./markdown-document-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-document-outline-sharp.jsx"
+    },
+    "./markdown-document-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-document-rounded.jsx"
+    },
+    "./markdown-document-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-document-sharp.jsx"
     },
     "./markdown-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -34321,6 +34589,30 @@
     "./markdown-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/markdown-sharp.jsx"
+    },
+    "./markdown-spark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-spark.jsx"
+    },
+    "./markdown-spark-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-spark-outline.jsx"
+    },
+    "./markdown-spark-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-spark-outline-rounded.jsx"
+    },
+    "./markdown-spark-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-spark-outline-sharp.jsx"
+    },
+    "./markdown-spark-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-spark-rounded.jsx"
+    },
+    "./markdown-spark-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown-spark-sharp.jsx"
     },
     "./markunread-mailbox": {
       "types": "./types/hqrkovbr.d.ts",
@@ -49929,6 +50221,14 @@
     "./shaved-ice-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shaved-ice-sharp.jsx"
+    },
+    "./sheets-column-swap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sheets-column-swap.jsx"
+    },
+    "./sheets-column-swap-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sheets-column-swap-rounded.jsx"
     },
     "./sheets-rtl": {
       "types": "./types/hqrkovbr.d.ts",
@@ -66090,6 +66390,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apps-outline-sharp.jsx"
     },
+    "./apps-plus-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apps-plus-outline-sharp.jsx"
+    },
+    "./apps-plus-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apps-plus-sharp.jsx"
+    },
     "./apps-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apps-rounded.jsx"
@@ -76102,6 +76410,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/function-outline-sharp.jsx"
     },
+    "./function-search-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/function-search-outline.jsx"
+    },
+    "./function-search-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/function-search-outline-rounded.jsx"
+    },
+    "./function-search-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/function-search-outline-sharp.jsx"
+    },
+    "./function-search-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/function-search-sharp.jsx"
+    },
     "./function-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/function-sharp.jsx"
@@ -77141,6 +77465,14 @@
     "./group-add-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/group-add-sharp.jsx"
+    },
+    "./group-eye-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-eye-outline-sharp.jsx"
+    },
+    "./group-eye-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-eye-sharp.jsx"
     },
     "./group-off-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
@@ -78561,6 +78893,18 @@
     "./immunology-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/immunology-sharp.jsx"
+    },
+    "./import-spark-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/import-spark-outline.jsx"
+    },
+    "./import-spark-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/import-spark-outline-rounded.jsx"
+    },
+    "./import-spark-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/import-spark-outline-sharp.jsx"
     },
     "./in-home-mode-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
@@ -88585,6 +88929,22 @@
     "./share-windows-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/share-windows-outline-sharp.jsx"
+    },
+    "./sheets-column-swap-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sheets-column-swap-outline.jsx"
+    },
+    "./sheets-column-swap-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sheets-column-swap-outline-rounded.jsx"
+    },
+    "./sheets-column-swap-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sheets-column-swap-outline-sharp.jsx"
+    },
+    "./sheets-column-swap-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sheets-column-swap-sharp.jsx"
     },
     "./shelf-auto-hide-outline-rounded": {
       "types": "./types/hqrkovbr.d.ts",

@@ -10,12 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.vsxqedq0x {
+		"content": `<style>.h0uzszbqu {
   fill: currentColor;
-  d: path("M14.923 13.558q-.967 0-1.947.131t-2.312.475t-3.191.934t-4.598 1.533l-1.086-.752V9.642q3.257-.578 6.549-1.11T14.941 8q2.966 0 4.88 1.949q1.915 1.949 2.376 5.436l-.948.386q-1.523-1-3.294-1.606t-3.033-.607");
+  d: path("M4 12.5v5.144V4zm2.5-2h11v-1h-11zm0-3h11v-1h-11zM3 20.077V3h18v9.5h-1V4H4v13.644L5.65 16h4.292v1H6.077zM6.5 13.5h3.442v-1H6.5zm5.827 7.5v-6.115H21V21zm1-1H20v-4.115h-6.673z");
 }
-</style><path class="vsxqedq0x"/>`,
-		"fallback": "material-symbols-light:eyebrow-sharp",
+</style><path class="h0uzszbqu"/>`,
+		"fallback": "material-symbols-light:chat-display-outline-sharp",
 	});
 }
 

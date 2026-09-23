@@ -1,5 +1,6 @@
 # @iconify-react/selfhst
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/selfhst).
 **selfh.st/icons**
 
 Author: [selfh.st](https://github.com/selfhst/icons)
@@ -10,6 +11,11 @@ Browse all icons: [preview selfh.st/icons on Iconify](https://icon-sets.iconify.
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#selfhst
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#selfhst
 ```

@@ -1,5 +1,6 @@
 # @iconify-react/keyline-icons
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/keyline-icons).
 **Keyline Icons**
 
 Author: [Keyline Icons](https://github.com/keyline-icons/keyline-icons)
@@ -10,6 +11,11 @@ Browse all icons: [preview Keyline Icons on Iconify](https://icon-sets.iconify.d
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#keyline-icons
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#keyline-icons
 ```

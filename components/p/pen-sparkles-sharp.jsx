@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/g/gp_8x1bzb.css';
 import '../../css/z/zgwutpbmz.css';
-import '../../css/c/c_xk-lr_n.css';
+import '../../css/q/qgagbobjo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="zgwutpbmz"/><path class="c_xk-lr_n"/></g>`,
+		"content": `<g class="gp_8x1bzb"><path class="zgwutpbmz"/><path class="qgagbobjo"/></g>`,
 		"fallback": "keyline-icons:pen-sparkles-sharp",
 	});
 }

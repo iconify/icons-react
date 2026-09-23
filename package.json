@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/keyline-icons",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "https://icon-sets.iconify.design/keyline-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -65,6 +65,38 @@
     "./activity-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/activity-sharp-two-tone.jsx"
+    },
+    "./activity-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles.jsx"
+    },
+    "./activity-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles-duotone.jsx"
+    },
+    "./activity-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles-fill.jsx"
+    },
+    "./activity-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles-sharp.jsx"
+    },
+    "./activity-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles-sharp-duotone.jsx"
+    },
+    "./activity-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles-sharp-fill.jsx"
+    },
+    "./activity-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles-sharp-two-tone.jsx"
+    },
+    "./activity-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity-sparkles-two-tone.jsx"
     },
     "./activity-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -866,6 +898,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/app-window-sharp-two-tone.jsx"
     },
+    "./app-window-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles.jsx"
+    },
+    "./app-window-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles-duotone.jsx"
+    },
+    "./app-window-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles-fill.jsx"
+    },
+    "./app-window-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles-sharp.jsx"
+    },
+    "./app-window-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles-sharp-duotone.jsx"
+    },
+    "./app-window-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles-sharp-fill.jsx"
+    },
+    "./app-window-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles-sharp-two-tone.jsx"
+    },
+    "./app-window-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-sparkles-two-tone.jsx"
+    },
     "./app-window-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/app-window-two-tone.jsx"
@@ -1161,6 +1225,38 @@
     "./arrow-big-up": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-big-up.jsx"
+    },
+    "./arrow-big-up-dash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash.jsx"
+    },
+    "./arrow-big-up-dash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash-duotone.jsx"
+    },
+    "./arrow-big-up-dash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash-fill.jsx"
+    },
+    "./arrow-big-up-dash-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash-sharp.jsx"
+    },
+    "./arrow-big-up-dash-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash-sharp-duotone.jsx"
+    },
+    "./arrow-big-up-dash-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash-sharp-fill.jsx"
+    },
+    "./arrow-big-up-dash-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash-sharp-two-tone.jsx"
+    },
+    "./arrow-big-up-dash-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-big-up-dash-two-tone.jsx"
     },
     "./arrow-big-up-duotone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1858,6 +1954,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-right-sharp-two-tone.jsx"
     },
+    "./arrow-right-to-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line.jsx"
+    },
+    "./arrow-right-to-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line-duotone.jsx"
+    },
+    "./arrow-right-to-line-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line-fill.jsx"
+    },
+    "./arrow-right-to-line-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line-sharp.jsx"
+    },
+    "./arrow-right-to-line-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line-sharp-duotone.jsx"
+    },
+    "./arrow-right-to-line-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line-sharp-fill.jsx"
+    },
+    "./arrow-right-to-line-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line-sharp-two-tone.jsx"
+    },
+    "./arrow-right-to-line-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-to-line-two-tone.jsx"
+    },
     "./arrow-right-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-right-two-tone.jsx"
@@ -2182,6 +2310,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-wide-narrow-two-tone.jsx"
     },
+    "./asterisk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk.jsx"
+    },
+    "./asterisk-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-duotone.jsx"
+    },
+    "./asterisk-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-fill.jsx"
+    },
+    "./asterisk-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-sharp.jsx"
+    },
+    "./asterisk-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-sharp-duotone.jsx"
+    },
+    "./asterisk-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-sharp-fill.jsx"
+    },
+    "./asterisk-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-sharp-two-tone.jsx"
+    },
+    "./asterisk-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-two-tone.jsx"
+    },
     "./at": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/at.jsx"
@@ -2273,6 +2433,38 @@
     "./audio-lines-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/audio-lines-sharp-two-tone.jsx"
+    },
+    "./audio-lines-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles.jsx"
+    },
+    "./audio-lines-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles-duotone.jsx"
+    },
+    "./audio-lines-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles-fill.jsx"
+    },
+    "./audio-lines-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles-sharp.jsx"
+    },
+    "./audio-lines-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles-sharp-duotone.jsx"
+    },
+    "./audio-lines-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles-sharp-fill.jsx"
+    },
+    "./audio-lines-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles-sharp-two-tone.jsx"
+    },
+    "./audio-lines-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines-sparkles-two-tone.jsx"
     },
     "./audio-lines-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3522,6 +3714,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/battery-sharp-two-tone.jsx"
     },
+    "./battery-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles.jsx"
+    },
+    "./battery-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles-duotone.jsx"
+    },
+    "./battery-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles-fill.jsx"
+    },
+    "./battery-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles-sharp.jsx"
+    },
+    "./battery-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles-sharp-duotone.jsx"
+    },
+    "./battery-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles-sharp-fill.jsx"
+    },
+    "./battery-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles-sharp-two-tone.jsx"
+    },
+    "./battery-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-sparkles-two-tone.jsx"
+    },
     "./battery-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/battery-two-tone.jsx"
@@ -3841,6 +4065,38 @@
     "./bell-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bell-sharp-two-tone.jsx"
+    },
+    "./bell-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles.jsx"
+    },
+    "./bell-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles-duotone.jsx"
+    },
+    "./bell-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles-fill.jsx"
+    },
+    "./bell-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles-sharp.jsx"
+    },
+    "./bell-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles-sharp-duotone.jsx"
+    },
+    "./bell-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles-sharp-fill.jsx"
+    },
+    "./bell-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles-sharp-two-tone.jsx"
+    },
+    "./bell-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-sparkles-two-tone.jsx"
     },
     "./bell-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4298,6 +4554,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot.jsx"
     },
+    "./bot-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2.jsx"
+    },
+    "./bot-2-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2-duotone.jsx"
+    },
+    "./bot-2-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2-fill.jsx"
+    },
+    "./bot-2-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2-sharp.jsx"
+    },
+    "./bot-2-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2-sharp-duotone.jsx"
+    },
+    "./bot-2-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2-sharp-fill.jsx"
+    },
+    "./bot-2-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2-sharp-two-tone.jsx"
+    },
+    "./bot-2-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-2-two-tone.jsx"
+    },
     "./bot-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot-duotone.jsx"
@@ -4642,6 +4930,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/brain-sharp-two-tone.jsx"
     },
+    "./brain-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles.jsx"
+    },
+    "./brain-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles-duotone.jsx"
+    },
+    "./brain-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles-fill.jsx"
+    },
+    "./brain-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles-sharp.jsx"
+    },
+    "./brain-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles-sharp-duotone.jsx"
+    },
+    "./brain-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles-sharp-fill.jsx"
+    },
+    "./brain-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles-sharp-two-tone.jsx"
+    },
+    "./brain-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-sparkles-two-tone.jsx"
+    },
     "./brain-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/brain-two-tone.jsx"
@@ -4962,6 +5282,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calculator-sharp-two-tone.jsx"
     },
+    "./calculator-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles.jsx"
+    },
+    "./calculator-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles-duotone.jsx"
+    },
+    "./calculator-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles-fill.jsx"
+    },
+    "./calculator-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles-sharp.jsx"
+    },
+    "./calculator-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles-sharp-duotone.jsx"
+    },
+    "./calculator-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles-sharp-fill.jsx"
+    },
+    "./calculator-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles-sharp-two-tone.jsx"
+    },
+    "./calculator-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-sparkles-two-tone.jsx"
+    },
     "./calculator-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calculator-two-tone.jsx"
@@ -5250,6 +5602,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-sharp-two-tone.jsx"
     },
+    "./calendar-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles.jsx"
+    },
+    "./calendar-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles-duotone.jsx"
+    },
+    "./calendar-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles-fill.jsx"
+    },
+    "./calendar-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles-sharp.jsx"
+    },
+    "./calendar-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles-sharp-duotone.jsx"
+    },
+    "./calendar-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles-sharp-fill.jsx"
+    },
+    "./calendar-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles-sharp-two-tone.jsx"
+    },
+    "./calendar-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-sparkles-two-tone.jsx"
+    },
     "./calendar-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-two-tone.jsx"
@@ -5346,6 +5730,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera-sharp-two-tone.jsx"
     },
+    "./camera-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles.jsx"
+    },
+    "./camera-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles-duotone.jsx"
+    },
+    "./camera-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles-fill.jsx"
+    },
+    "./camera-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles-sharp.jsx"
+    },
+    "./camera-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles-sharp-duotone.jsx"
+    },
+    "./camera-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles-sharp-fill.jsx"
+    },
+    "./camera-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles-sharp-two-tone.jsx"
+    },
+    "./camera-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-sparkles-two-tone.jsx"
+    },
     "./camera-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera-two-tone.jsx"
@@ -5377,6 +5793,38 @@
     "./captions-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/captions-sharp-two-tone.jsx"
+    },
+    "./captions-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles.jsx"
+    },
+    "./captions-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles-duotone.jsx"
+    },
+    "./captions-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles-fill.jsx"
+    },
+    "./captions-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles-sharp.jsx"
+    },
+    "./captions-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles-sharp-duotone.jsx"
+    },
+    "./captions-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles-sharp-fill.jsx"
+    },
+    "./captions-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles-sharp-two-tone.jsx"
+    },
+    "./captions-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions-sparkles-two-tone.jsx"
     },
     "./captions-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5730,6 +6178,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-area-sharp-two-tone.jsx"
     },
+    "./chart-area-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles.jsx"
+    },
+    "./chart-area-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles-duotone.jsx"
+    },
+    "./chart-area-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles-fill.jsx"
+    },
+    "./chart-area-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles-sharp.jsx"
+    },
+    "./chart-area-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-area-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles-sharp-fill.jsx"
+    },
+    "./chart-area-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-area-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-sparkles-two-tone.jsx"
+    },
     "./chart-area-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-area-two-tone.jsx"
@@ -5793,6 +6273,38 @@
     "./chart-bar-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-bar-sharp-two-tone.jsx"
+    },
+    "./chart-bar-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles.jsx"
+    },
+    "./chart-bar-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles-duotone.jsx"
+    },
+    "./chart-bar-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles-fill.jsx"
+    },
+    "./chart-bar-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles-sharp.jsx"
+    },
+    "./chart-bar-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-bar-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles-sharp-fill.jsx"
+    },
+    "./chart-bar-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-bar-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bar-sparkles-two-tone.jsx"
     },
     "./chart-bar-stacked": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5922,6 +6434,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-column-sharp-two-tone.jsx"
     },
+    "./chart-column-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles.jsx"
+    },
+    "./chart-column-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles-duotone.jsx"
+    },
+    "./chart-column-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles-fill.jsx"
+    },
+    "./chart-column-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles-sharp.jsx"
+    },
+    "./chart-column-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-column-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles-sharp-fill.jsx"
+    },
+    "./chart-column-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-column-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-column-sparkles-two-tone.jsx"
+    },
     "./chart-column-stacked": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-column-stacked.jsx"
@@ -6017,6 +6561,38 @@
     "./chart-gantt-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-gantt-sharp-two-tone.jsx"
+    },
+    "./chart-gantt-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles.jsx"
+    },
+    "./chart-gantt-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles-duotone.jsx"
+    },
+    "./chart-gantt-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles-fill.jsx"
+    },
+    "./chart-gantt-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles-sharp.jsx"
+    },
+    "./chart-gantt-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-gantt-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles-sharp-fill.jsx"
+    },
+    "./chart-gantt-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-gantt-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-gantt-sparkles-two-tone.jsx"
     },
     "./chart-gantt-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6126,6 +6702,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-line-increasing-sharp-two-tone.jsx"
     },
+    "./chart-line-increasing-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles.jsx"
+    },
+    "./chart-line-increasing-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles-duotone.jsx"
+    },
+    "./chart-line-increasing-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles-fill.jsx"
+    },
+    "./chart-line-increasing-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles-sharp.jsx"
+    },
+    "./chart-line-increasing-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-line-increasing-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles-sharp-fill.jsx"
+    },
+    "./chart-line-increasing-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-line-increasing-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-increasing-sparkles-two-tone.jsx"
+    },
     "./chart-line-increasing-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-line-increasing-two-tone.jsx"
@@ -6145,6 +6753,38 @@
     "./chart-line-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-line-sharp-two-tone.jsx"
+    },
+    "./chart-line-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles.jsx"
+    },
+    "./chart-line-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles-duotone.jsx"
+    },
+    "./chart-line-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles-fill.jsx"
+    },
+    "./chart-line-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles-sharp.jsx"
+    },
+    "./chart-line-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-line-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles-sharp-fill.jsx"
+    },
+    "./chart-line-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-line-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-line-sparkles-two-tone.jsx"
     },
     "./chart-line-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6241,6 +6881,38 @@
     "./chart-no-axes-combined-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-no-axes-combined-sharp-two-tone.jsx"
+    },
+    "./chart-no-axes-combined-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles.jsx"
+    },
+    "./chart-no-axes-combined-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles-duotone.jsx"
+    },
+    "./chart-no-axes-combined-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles-fill.jsx"
+    },
+    "./chart-no-axes-combined-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles-sharp.jsx"
+    },
+    "./chart-no-axes-combined-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-no-axes-combined-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles-sharp-fill.jsx"
+    },
+    "./chart-no-axes-combined-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-no-axes-combined-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-no-axes-combined-sparkles-two-tone.jsx"
     },
     "./chart-no-axes-combined-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6374,6 +7046,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-scatter-bubble-sharp-two-tone.jsx"
     },
+    "./chart-scatter-bubble-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles.jsx"
+    },
+    "./chart-scatter-bubble-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles-duotone.jsx"
+    },
+    "./chart-scatter-bubble-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles-fill.jsx"
+    },
+    "./chart-scatter-bubble-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles-sharp.jsx"
+    },
+    "./chart-scatter-bubble-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-scatter-bubble-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles-sharp-fill.jsx"
+    },
+    "./chart-scatter-bubble-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-scatter-bubble-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-bubble-sparkles-two-tone.jsx"
+    },
     "./chart-scatter-bubble-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-scatter-bubble-two-tone.jsx"
@@ -6401,6 +7105,38 @@
     "./chart-scatter-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-scatter-sharp-two-tone.jsx"
+    },
+    "./chart-scatter-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles.jsx"
+    },
+    "./chart-scatter-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles-duotone.jsx"
+    },
+    "./chart-scatter-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles-fill.jsx"
+    },
+    "./chart-scatter-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles-sharp.jsx"
+    },
+    "./chart-scatter-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-scatter-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles-sharp-fill.jsx"
+    },
+    "./chart-scatter-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-scatter-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-scatter-sparkles-two-tone.jsx"
     },
     "./chart-scatter-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6433,6 +7169,38 @@
     "./chart-spline-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-spline-sharp-two-tone.jsx"
+    },
+    "./chart-spline-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles.jsx"
+    },
+    "./chart-spline-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles-duotone.jsx"
+    },
+    "./chart-spline-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles-fill.jsx"
+    },
+    "./chart-spline-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles-sharp.jsx"
+    },
+    "./chart-spline-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles-sharp-duotone.jsx"
+    },
+    "./chart-spline-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles-sharp-fill.jsx"
+    },
+    "./chart-spline-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles-sharp-two-tone.jsx"
+    },
+    "./chart-spline-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-spline-sparkles-two-tone.jsx"
     },
     "./chart-spline-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7370,6 +8138,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-arrow-up-two-tone.jsx"
     },
+    "./circle-asterisk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk.jsx"
+    },
+    "./circle-asterisk-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk-duotone.jsx"
+    },
+    "./circle-asterisk-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk-fill.jsx"
+    },
+    "./circle-asterisk-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk-sharp.jsx"
+    },
+    "./circle-asterisk-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk-sharp-duotone.jsx"
+    },
+    "./circle-asterisk-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk-sharp-fill.jsx"
+    },
+    "./circle-asterisk-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk-sharp-two-tone.jsx"
+    },
+    "./circle-asterisk-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-asterisk-two-tone.jsx"
+    },
     "./circle-bar-chart": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-bar-chart.jsx"
@@ -8266,6 +9066,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-dashed-two-tone.jsx"
     },
+    "./circle-divide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide.jsx"
+    },
+    "./circle-divide-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide-duotone.jsx"
+    },
+    "./circle-divide-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide-fill.jsx"
+    },
+    "./circle-divide-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide-sharp.jsx"
+    },
+    "./circle-divide-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide-sharp-duotone.jsx"
+    },
+    "./circle-divide-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide-sharp-fill.jsx"
+    },
+    "./circle-divide-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide-sharp-two-tone.jsx"
+    },
+    "./circle-divide-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-divide-two-tone.jsx"
+    },
     "./circle-dollar-sign": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-dollar-sign.jsx"
@@ -8301,6 +9133,38 @@
     "./circle-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-duotone.jsx"
+    },
+    "./circle-equal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal.jsx"
+    },
+    "./circle-equal-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal-duotone.jsx"
+    },
+    "./circle-equal-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal-fill.jsx"
+    },
+    "./circle-equal-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal-sharp.jsx"
+    },
+    "./circle-equal-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal-sharp-duotone.jsx"
+    },
+    "./circle-equal-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal-sharp-fill.jsx"
+    },
+    "./circle-equal-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal-sharp-two-tone.jsx"
+    },
+    "./circle-equal-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-equal-two-tone.jsx"
     },
     "./circle-euro": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9106,6 +9970,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-question-two-tone.jsx"
     },
+    "./circle-radical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical.jsx"
+    },
+    "./circle-radical-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical-duotone.jsx"
+    },
+    "./circle-radical-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical-fill.jsx"
+    },
+    "./circle-radical-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical-sharp.jsx"
+    },
+    "./circle-radical-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical-sharp-duotone.jsx"
+    },
+    "./circle-radical-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical-sharp-fill.jsx"
+    },
+    "./circle-radical-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical-sharp-two-tone.jsx"
+    },
+    "./circle-radical-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-radical-two-tone.jsx"
+    },
     "./circle-record": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-record.jsx"
@@ -9405,6 +10301,38 @@
     "./circle-trending-up-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-trending-up-sharp-two-tone.jsx"
+    },
+    "./circle-trending-up-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles.jsx"
+    },
+    "./circle-trending-up-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles-duotone.jsx"
+    },
+    "./circle-trending-up-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles-fill.jsx"
+    },
+    "./circle-trending-up-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles-sharp.jsx"
+    },
+    "./circle-trending-up-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles-sharp-duotone.jsx"
+    },
+    "./circle-trending-up-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles-sharp-fill.jsx"
+    },
+    "./circle-trending-up-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles-sharp-two-tone.jsx"
+    },
+    "./circle-trending-up-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-trending-up-sparkles-two-tone.jsx"
     },
     "./circle-trending-up-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10178,6 +11106,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-sharp-two-tone.jsx"
     },
+    "./clock-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles.jsx"
+    },
+    "./clock-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles-duotone.jsx"
+    },
+    "./clock-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles-fill.jsx"
+    },
+    "./clock-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles-sharp.jsx"
+    },
+    "./clock-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles-sharp-duotone.jsx"
+    },
+    "./clock-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles-sharp-fill.jsx"
+    },
+    "./clock-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles-sharp-two-tone.jsx"
+    },
+    "./clock-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-sparkles-two-tone.jsx"
+    },
     "./clock-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-two-tone.jsx"
@@ -10466,6 +11426,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloud-sharp-two-tone.jsx"
     },
+    "./cloud-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles.jsx"
+    },
+    "./cloud-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles-duotone.jsx"
+    },
+    "./cloud-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles-fill.jsx"
+    },
+    "./cloud-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles-sharp.jsx"
+    },
+    "./cloud-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles-sharp-duotone.jsx"
+    },
+    "./cloud-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles-sharp-fill.jsx"
+    },
+    "./cloud-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles-sharp-two-tone.jsx"
+    },
+    "./cloud-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sparkles-two-tone.jsx"
+    },
     "./cloud-sun": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloud-sun.jsx"
@@ -10694,6 +11686,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coins-two-tone.jsx"
     },
+    "./command": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command.jsx"
+    },
+    "./command-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command-duotone.jsx"
+    },
+    "./command-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command-fill.jsx"
+    },
+    "./command-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command-sharp.jsx"
+    },
+    "./command-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command-sharp-duotone.jsx"
+    },
+    "./command-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command-sharp-fill.jsx"
+    },
+    "./command-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command-sharp-two-tone.jsx"
+    },
+    "./command-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command-two-tone.jsx"
+    },
     "./compass": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/compass.jsx"
@@ -10822,6 +11846,198 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy-two-tone.jsx"
     },
+    "./corner-down-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left.jsx"
+    },
+    "./corner-down-left-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left-duotone.jsx"
+    },
+    "./corner-down-left-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left-fill.jsx"
+    },
+    "./corner-down-left-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left-sharp.jsx"
+    },
+    "./corner-down-left-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left-sharp-duotone.jsx"
+    },
+    "./corner-down-left-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left-sharp-fill.jsx"
+    },
+    "./corner-down-left-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left-sharp-two-tone.jsx"
+    },
+    "./corner-down-left-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-left-two-tone.jsx"
+    },
+    "./corner-down-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right.jsx"
+    },
+    "./corner-down-right-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right-duotone.jsx"
+    },
+    "./corner-down-right-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right-fill.jsx"
+    },
+    "./corner-down-right-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right-sharp.jsx"
+    },
+    "./corner-down-right-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right-sharp-duotone.jsx"
+    },
+    "./corner-down-right-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right-sharp-fill.jsx"
+    },
+    "./corner-down-right-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right-sharp-two-tone.jsx"
+    },
+    "./corner-down-right-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-down-right-two-tone.jsx"
+    },
+    "./corner-left-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down.jsx"
+    },
+    "./corner-left-down-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down-duotone.jsx"
+    },
+    "./corner-left-down-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down-fill.jsx"
+    },
+    "./corner-left-down-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down-sharp.jsx"
+    },
+    "./corner-left-down-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down-sharp-duotone.jsx"
+    },
+    "./corner-left-down-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down-sharp-fill.jsx"
+    },
+    "./corner-left-down-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down-sharp-two-tone.jsx"
+    },
+    "./corner-left-down-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-down-two-tone.jsx"
+    },
+    "./corner-left-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up.jsx"
+    },
+    "./corner-left-up-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up-duotone.jsx"
+    },
+    "./corner-left-up-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up-fill.jsx"
+    },
+    "./corner-left-up-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up-sharp.jsx"
+    },
+    "./corner-left-up-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up-sharp-duotone.jsx"
+    },
+    "./corner-left-up-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up-sharp-fill.jsx"
+    },
+    "./corner-left-up-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up-sharp-two-tone.jsx"
+    },
+    "./corner-left-up-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-left-up-two-tone.jsx"
+    },
+    "./corner-right-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down.jsx"
+    },
+    "./corner-right-down-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down-duotone.jsx"
+    },
+    "./corner-right-down-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down-fill.jsx"
+    },
+    "./corner-right-down-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down-sharp.jsx"
+    },
+    "./corner-right-down-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down-sharp-duotone.jsx"
+    },
+    "./corner-right-down-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down-sharp-fill.jsx"
+    },
+    "./corner-right-down-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down-sharp-two-tone.jsx"
+    },
+    "./corner-right-down-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-down-two-tone.jsx"
+    },
+    "./corner-right-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up.jsx"
+    },
+    "./corner-right-up-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up-duotone.jsx"
+    },
+    "./corner-right-up-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up-fill.jsx"
+    },
+    "./corner-right-up-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up-sharp.jsx"
+    },
+    "./corner-right-up-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up-sharp-duotone.jsx"
+    },
+    "./corner-right-up-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up-sharp-fill.jsx"
+    },
+    "./corner-right-up-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up-sharp-two-tone.jsx"
+    },
+    "./corner-right-up-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-right-up-two-tone.jsx"
+    },
     "./coupon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coupon.jsx"
@@ -10882,6 +12098,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cpu-sharp-two-tone.jsx"
     },
+    "./cpu-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles.jsx"
+    },
+    "./cpu-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles-duotone.jsx"
+    },
+    "./cpu-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles-fill.jsx"
+    },
+    "./cpu-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles-sharp.jsx"
+    },
+    "./cpu-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles-sharp-duotone.jsx"
+    },
+    "./cpu-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles-sharp-fill.jsx"
+    },
+    "./cpu-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles-sharp-two-tone.jsx"
+    },
+    "./cpu-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-sparkles-two-tone.jsx"
+    },
     "./cpu-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cpu-two-tone.jsx"
@@ -10917,6 +12165,38 @@
     "./credit-card-2-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/credit-card-2-sharp-two-tone.jsx"
+    },
+    "./credit-card-2-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles.jsx"
+    },
+    "./credit-card-2-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles-duotone.jsx"
+    },
+    "./credit-card-2-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles-fill.jsx"
+    },
+    "./credit-card-2-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles-sharp.jsx"
+    },
+    "./credit-card-2-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles-sharp-duotone.jsx"
+    },
+    "./credit-card-2-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles-sharp-fill.jsx"
+    },
+    "./credit-card-2-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles-sharp-two-tone.jsx"
+    },
+    "./credit-card-2-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-2-sparkles-two-tone.jsx"
     },
     "./credit-card-2-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11041,6 +12321,38 @@
     "./credit-card-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/credit-card-sharp-two-tone.jsx"
+    },
+    "./credit-card-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles.jsx"
+    },
+    "./credit-card-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles-duotone.jsx"
+    },
+    "./credit-card-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles-fill.jsx"
+    },
+    "./credit-card-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles-sharp.jsx"
+    },
+    "./credit-card-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles-sharp-duotone.jsx"
+    },
+    "./credit-card-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles-sharp-fill.jsx"
+    },
+    "./credit-card-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles-sharp-two-tone.jsx"
+    },
+    "./credit-card-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-sparkles-two-tone.jsx"
     },
     "./credit-card-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11297,6 +12609,38 @@
     "./cursor-signal-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cursor-signal-two-tone.jsx"
+    },
+    "./cursor-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles.jsx"
+    },
+    "./cursor-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles-duotone.jsx"
+    },
+    "./cursor-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles-fill.jsx"
+    },
+    "./cursor-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles-sharp.jsx"
+    },
+    "./cursor-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles-sharp-duotone.jsx"
+    },
+    "./cursor-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles-sharp-fill.jsx"
+    },
+    "./cursor-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles-sharp-two-tone.jsx"
+    },
+    "./cursor-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-sparkles-two-tone.jsx"
     },
     "./cursor-text": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11782,6 +13126,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dice-6-two-tone.jsx"
     },
+    "./divide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide.jsx"
+    },
+    "./divide-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-duotone.jsx"
+    },
+    "./divide-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-fill.jsx"
+    },
+    "./divide-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-sharp.jsx"
+    },
+    "./divide-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-sharp-duotone.jsx"
+    },
+    "./divide-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-sharp-fill.jsx"
+    },
+    "./divide-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-sharp-two-tone.jsx"
+    },
+    "./divide-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-two-tone.jsx"
+    },
     "./dollar-sign": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dollar-sign.jsx"
@@ -11809,6 +13185,38 @@
     "./dollar-sign-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dollar-sign-sharp-two-tone.jsx"
+    },
+    "./dollar-sign-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles.jsx"
+    },
+    "./dollar-sign-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles-duotone.jsx"
+    },
+    "./dollar-sign-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles-fill.jsx"
+    },
+    "./dollar-sign-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles-sharp.jsx"
+    },
+    "./dollar-sign-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles-sharp-duotone.jsx"
+    },
+    "./dollar-sign-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles-sharp-fill.jsx"
+    },
+    "./dollar-sign-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles-sharp-two-tone.jsx"
+    },
+    "./dollar-sign-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dollar-sign-sparkles-two-tone.jsx"
     },
     "./dollar-sign-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12230,6 +13638,166 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/easel-two-tone.jsx"
     },
+    "./eject": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject.jsx"
+    },
+    "./eject-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject-duotone.jsx"
+    },
+    "./eject-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject-fill.jsx"
+    },
+    "./eject-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject-sharp.jsx"
+    },
+    "./eject-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject-sharp-duotone.jsx"
+    },
+    "./eject-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject-sharp-fill.jsx"
+    },
+    "./eject-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject-sharp-two-tone.jsx"
+    },
+    "./eject-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eject-two-tone.jsx"
+    },
+    "./equal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal.jsx"
+    },
+    "./equal-approximately": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately.jsx"
+    },
+    "./equal-approximately-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-duotone.jsx"
+    },
+    "./equal-approximately-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-fill.jsx"
+    },
+    "./equal-approximately-not": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not.jsx"
+    },
+    "./equal-approximately-not-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not-duotone.jsx"
+    },
+    "./equal-approximately-not-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not-fill.jsx"
+    },
+    "./equal-approximately-not-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not-sharp.jsx"
+    },
+    "./equal-approximately-not-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not-sharp-duotone.jsx"
+    },
+    "./equal-approximately-not-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not-sharp-fill.jsx"
+    },
+    "./equal-approximately-not-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not-sharp-two-tone.jsx"
+    },
+    "./equal-approximately-not-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-not-two-tone.jsx"
+    },
+    "./equal-approximately-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-sharp.jsx"
+    },
+    "./equal-approximately-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-sharp-duotone.jsx"
+    },
+    "./equal-approximately-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-sharp-fill.jsx"
+    },
+    "./equal-approximately-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-sharp-two-tone.jsx"
+    },
+    "./equal-approximately-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-approximately-two-tone.jsx"
+    },
+    "./equal-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-duotone.jsx"
+    },
+    "./equal-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-fill.jsx"
+    },
+    "./equal-not": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not.jsx"
+    },
+    "./equal-not-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not-duotone.jsx"
+    },
+    "./equal-not-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not-fill.jsx"
+    },
+    "./equal-not-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not-sharp.jsx"
+    },
+    "./equal-not-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not-sharp-duotone.jsx"
+    },
+    "./equal-not-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not-sharp-fill.jsx"
+    },
+    "./equal-not-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not-sharp-two-tone.jsx"
+    },
+    "./equal-not-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-not-two-tone.jsx"
+    },
+    "./equal-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-sharp.jsx"
+    },
+    "./equal-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-sharp-duotone.jsx"
+    },
+    "./equal-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-sharp-fill.jsx"
+    },
+    "./equal-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-sharp-two-tone.jsx"
+    },
+    "./equal-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-two-tone.jsx"
+    },
     "./eraser": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser.jsx"
@@ -12258,9 +13826,73 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser-sharp-two-tone.jsx"
     },
+    "./eraser-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles.jsx"
+    },
+    "./eraser-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles-duotone.jsx"
+    },
+    "./eraser-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles-fill.jsx"
+    },
+    "./eraser-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles-sharp.jsx"
+    },
+    "./eraser-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles-sharp-duotone.jsx"
+    },
+    "./eraser-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles-sharp-fill.jsx"
+    },
+    "./eraser-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles-sharp-two-tone.jsx"
+    },
+    "./eraser-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-sparkles-two-tone.jsx"
+    },
     "./eraser-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser-two-tone.jsx"
+    },
+    "./escape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape.jsx"
+    },
+    "./escape-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape-duotone.jsx"
+    },
+    "./escape-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape-fill.jsx"
+    },
+    "./escape-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape-sharp.jsx"
+    },
+    "./escape-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape-sharp-duotone.jsx"
+    },
+    "./escape-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape-sharp-fill.jsx"
+    },
+    "./escape-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape-sharp-two-tone.jsx"
+    },
+    "./escape-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/escape-two-tone.jsx"
     },
     "./euro": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12609,6 +14241,38 @@
     "./eye-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eye-sharp-two-tone.jsx"
+    },
+    "./eye-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles.jsx"
+    },
+    "./eye-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles-duotone.jsx"
+    },
+    "./eye-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles-fill.jsx"
+    },
+    "./eye-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles-sharp.jsx"
+    },
+    "./eye-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles-sharp-duotone.jsx"
+    },
+    "./eye-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles-sharp-fill.jsx"
+    },
+    "./eye-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles-sharp-two-tone.jsx"
+    },
+    "./eye-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-sparkles-two-tone.jsx"
     },
     "./eye-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -13002,6 +14666,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-arrow-up-two-tone.jsx"
     },
+    "./file-audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio.jsx"
+    },
+    "./file-audio-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-duotone.jsx"
+    },
+    "./file-audio-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-fill.jsx"
+    },
+    "./file-audio-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-sharp.jsx"
+    },
+    "./file-audio-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-sharp-duotone.jsx"
+    },
+    "./file-audio-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-sharp-fill.jsx"
+    },
+    "./file-audio-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-sharp-two-tone.jsx"
+    },
+    "./file-audio-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-two-tone.jsx"
+    },
     "./file-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-check.jsx"
@@ -13250,6 +14946,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-sharp-two-tone.jsx"
     },
+    "./file-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles.jsx"
+    },
+    "./file-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles-duotone.jsx"
+    },
+    "./file-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles-fill.jsx"
+    },
+    "./file-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles-sharp.jsx"
+    },
+    "./file-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles-sharp-duotone.jsx"
+    },
+    "./file-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles-sharp-fill.jsx"
+    },
+    "./file-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles-sharp-two-tone.jsx"
+    },
+    "./file-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkles-two-tone.jsx"
+    },
     "./file-spreadsheet": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-spreadsheet.jsx"
@@ -13382,6 +15110,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-two-tone.jsx"
     },
+    "./file-video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video.jsx"
+    },
+    "./file-video-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-duotone.jsx"
+    },
+    "./file-video-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-fill.jsx"
+    },
+    "./file-video-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-sharp.jsx"
+    },
+    "./file-video-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-sharp-duotone.jsx"
+    },
+    "./file-video-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-sharp-fill.jsx"
+    },
+    "./file-video-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-sharp-two-tone.jsx"
+    },
+    "./file-video-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-two-tone.jsx"
+    },
     "./file-x": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-x.jsx"
@@ -13473,6 +15233,38 @@
     "./film-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/film-sharp-two-tone.jsx"
+    },
+    "./film-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles.jsx"
+    },
+    "./film-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles-duotone.jsx"
+    },
+    "./film-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles-fill.jsx"
+    },
+    "./film-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles-sharp.jsx"
+    },
+    "./film-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles-sharp-duotone.jsx"
+    },
+    "./film-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles-sharp-fill.jsx"
+    },
+    "./film-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles-sharp-two-tone.jsx"
+    },
+    "./film-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film-sparkles-two-tone.jsx"
     },
     "./film-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -14082,6 +15874,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-sharp-two-tone.jsx"
     },
+    "./folder-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles.jsx"
+    },
+    "./folder-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles-duotone.jsx"
+    },
+    "./folder-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles-fill.jsx"
+    },
+    "./folder-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles-sharp.jsx"
+    },
+    "./folder-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles-sharp-duotone.jsx"
+    },
+    "./folder-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles-sharp-fill.jsx"
+    },
+    "./folder-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles-sharp-two-tone.jsx"
+    },
+    "./folder-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkles-two-tone.jsx"
+    },
     "./folder-tree": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-tree.jsx"
@@ -14625,6 +16449,38 @@
     "./gift-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gift-sharp-two-tone.jsx"
+    },
+    "./gift-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles.jsx"
+    },
+    "./gift-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles-duotone.jsx"
+    },
+    "./gift-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles-fill.jsx"
+    },
+    "./gift-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles-sharp.jsx"
+    },
+    "./gift-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles-sharp-duotone.jsx"
+    },
+    "./gift-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles-sharp-fill.jsx"
+    },
+    "./gift-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles-sharp-two-tone.jsx"
+    },
+    "./gift-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gift-sparkles-two-tone.jsx"
     },
     "./gift-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16322,6 +18178,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hand-pointer-sharp-two-tone.jsx"
     },
+    "./hand-pointer-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles.jsx"
+    },
+    "./hand-pointer-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles-duotone.jsx"
+    },
+    "./hand-pointer-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles-fill.jsx"
+    },
+    "./hand-pointer-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles-sharp.jsx"
+    },
+    "./hand-pointer-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles-sharp-duotone.jsx"
+    },
+    "./hand-pointer-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles-sharp-fill.jsx"
+    },
+    "./hand-pointer-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles-sharp-two-tone.jsx"
+    },
+    "./hand-pointer-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-pointer-sparkles-two-tone.jsx"
+    },
     "./hand-pointer-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hand-pointer-two-tone.jsx"
@@ -16353,6 +18241,38 @@
     "./handbag-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/handbag-sharp-two-tone.jsx"
+    },
+    "./handbag-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles.jsx"
+    },
+    "./handbag-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles-duotone.jsx"
+    },
+    "./handbag-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles-fill.jsx"
+    },
+    "./handbag-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles-sharp.jsx"
+    },
+    "./handbag-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles-sharp-duotone.jsx"
+    },
+    "./handbag-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles-sharp-fill.jsx"
+    },
+    "./handbag-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles-sharp-two-tone.jsx"
+    },
+    "./handbag-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handbag-sparkles-two-tone.jsx"
     },
     "./handbag-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16389,6 +18309,38 @@
     "./hard-drive-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hard-drive-two-tone.jsx"
+    },
+    "./hash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash.jsx"
+    },
+    "./hash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash-duotone.jsx"
+    },
+    "./hash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash-fill.jsx"
+    },
+    "./hash-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash-sharp.jsx"
+    },
+    "./hash-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash-sharp-duotone.jsx"
+    },
+    "./hash-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash-sharp-fill.jsx"
+    },
+    "./hash-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash-sharp-two-tone.jsx"
+    },
+    "./hash-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash-two-tone.jsx"
     },
     "./hat-glasses": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16866,6 +18818,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-sharp-two-tone.jsx"
     },
+    "./heart-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles.jsx"
+    },
+    "./heart-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles-duotone.jsx"
+    },
+    "./heart-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles-fill.jsx"
+    },
+    "./heart-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles-sharp.jsx"
+    },
+    "./heart-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles-sharp-duotone.jsx"
+    },
+    "./heart-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles-sharp-fill.jsx"
+    },
+    "./heart-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles-sharp-two-tone.jsx"
+    },
+    "./heart-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-sparkles-two-tone.jsx"
+    },
     "./heart-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-two-tone.jsx"
@@ -17250,6 +19234,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-sharp-two-tone.jsx"
     },
+    "./image-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles.jsx"
+    },
+    "./image-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles-duotone.jsx"
+    },
+    "./image-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles-fill.jsx"
+    },
+    "./image-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles-sharp.jsx"
+    },
+    "./image-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles-sharp-duotone.jsx"
+    },
+    "./image-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles-sharp-fill.jsx"
+    },
+    "./image-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles-sharp-two-tone.jsx"
+    },
+    "./image-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles-two-tone.jsx"
+    },
     "./image-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-two-tone.jsx"
@@ -17346,6 +19362,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inbox-sharp-two-tone.jsx"
     },
+    "./inbox-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles.jsx"
+    },
+    "./inbox-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles-duotone.jsx"
+    },
+    "./inbox-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles-fill.jsx"
+    },
+    "./inbox-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles-sharp.jsx"
+    },
+    "./inbox-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles-sharp-duotone.jsx"
+    },
+    "./inbox-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles-sharp-fill.jsx"
+    },
+    "./inbox-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles-sharp-two-tone.jsx"
+    },
+    "./inbox-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-sparkles-two-tone.jsx"
+    },
     "./inbox-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inbox-two-tone.jsx"
@@ -17381,6 +19429,38 @@
     "./indian-rupee-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/indian-rupee-two-tone.jsx"
+    },
+    "./infinity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity.jsx"
+    },
+    "./infinity-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity-duotone.jsx"
+    },
+    "./infinity-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity-fill.jsx"
+    },
+    "./infinity-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity-sharp.jsx"
+    },
+    "./infinity-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity-sharp-duotone.jsx"
+    },
+    "./infinity-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity-sharp-fill.jsx"
+    },
+    "./infinity-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity-sharp-two-tone.jsx"
+    },
+    "./infinity-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infinity-two-tone.jsx"
     },
     "./info": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17634,6 +19714,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/language-sharp-two-tone.jsx"
     },
+    "./language-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles.jsx"
+    },
+    "./language-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles-duotone.jsx"
+    },
+    "./language-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles-fill.jsx"
+    },
+    "./language-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles-sharp.jsx"
+    },
+    "./language-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles-sharp-duotone.jsx"
+    },
+    "./language-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles-sharp-fill.jsx"
+    },
+    "./language-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles-sharp-two-tone.jsx"
+    },
+    "./language-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/language-sparkles-two-tone.jsx"
+    },
     "./language-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/language-two-tone.jsx"
@@ -17697,6 +19809,38 @@
     "./laptop-smartphone-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/laptop-smartphone-two-tone.jsx"
+    },
+    "./laptop-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles.jsx"
+    },
+    "./laptop-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles-duotone.jsx"
+    },
+    "./laptop-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles-fill.jsx"
+    },
+    "./laptop-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles-sharp.jsx"
+    },
+    "./laptop-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles-sharp-duotone.jsx"
+    },
+    "./laptop-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles-sharp-fill.jsx"
+    },
+    "./laptop-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles-sharp-two-tone.jsx"
+    },
+    "./laptop-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-sparkles-two-tone.jsx"
     },
     "./laptop-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17857,6 +20001,38 @@
     "./lightbulb-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightbulb-sharp-two-tone.jsx"
+    },
+    "./lightbulb-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles.jsx"
+    },
+    "./lightbulb-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles-duotone.jsx"
+    },
+    "./lightbulb-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles-fill.jsx"
+    },
+    "./lightbulb-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles-sharp.jsx"
+    },
+    "./lightbulb-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles-sharp-duotone.jsx"
+    },
+    "./lightbulb-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles-sharp-fill.jsx"
+    },
+    "./lightbulb-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles-sharp-two-tone.jsx"
+    },
+    "./lightbulb-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkles-two-tone.jsx"
     },
     "./lightbulb-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18274,6 +20450,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-sort-two-tone.jsx"
     },
+    "./list-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles.jsx"
+    },
+    "./list-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles-duotone.jsx"
+    },
+    "./list-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles-fill.jsx"
+    },
+    "./list-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles-sharp.jsx"
+    },
+    "./list-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles-sharp-duotone.jsx"
+    },
+    "./list-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles-sharp-fill.jsx"
+    },
+    "./list-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles-sharp-two-tone.jsx"
+    },
+    "./list-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkles-two-tone.jsx"
+    },
     "./list-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-two-tone.jsx"
@@ -18625,6 +20833,38 @@
     "./mail-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail-sharp-two-tone.jsx"
+    },
+    "./mail-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles.jsx"
+    },
+    "./mail-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles-duotone.jsx"
+    },
+    "./mail-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles-fill.jsx"
+    },
+    "./mail-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles-sharp.jsx"
+    },
+    "./mail-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles-sharp-duotone.jsx"
+    },
+    "./mail-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles-sharp-fill.jsx"
+    },
+    "./mail-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles-sharp-two-tone.jsx"
+    },
+    "./mail-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-sparkles-two-tone.jsx"
     },
     "./mail-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19106,6 +21346,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/menu-sharp-two-tone.jsx"
     },
+    "./menu-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles.jsx"
+    },
+    "./menu-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles-duotone.jsx"
+    },
+    "./menu-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles-fill.jsx"
+    },
+    "./menu-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles-sharp.jsx"
+    },
+    "./menu-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles-sharp-duotone.jsx"
+    },
+    "./menu-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles-sharp-fill.jsx"
+    },
+    "./menu-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles-sharp-two-tone.jsx"
+    },
+    "./menu-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu-sparkles-two-tone.jsx"
+    },
     "./menu-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/menu-two-tone.jsx"
@@ -19362,6 +21634,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-sparkle-two-tone.jsx"
     },
+    "./message-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles.jsx"
+    },
+    "./message-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles-duotone.jsx"
+    },
+    "./message-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles-fill.jsx"
+    },
+    "./message-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles-sharp.jsx"
+    },
+    "./message-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles-sharp-duotone.jsx"
+    },
+    "./message-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles-sharp-fill.jsx"
+    },
+    "./message-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles-sharp-two-tone.jsx"
+    },
+    "./message-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkles-two-tone.jsx"
+    },
     "./message-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-square.jsx"
@@ -19614,6 +21918,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-square-sparkle-two-tone.jsx"
     },
+    "./message-square-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles.jsx"
+    },
+    "./message-square-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles-duotone.jsx"
+    },
+    "./message-square-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles-fill.jsx"
+    },
+    "./message-square-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles-sharp.jsx"
+    },
+    "./message-square-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles-sharp-duotone.jsx"
+    },
+    "./message-square-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles-sharp-fill.jsx"
+    },
+    "./message-square-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles-sharp-two-tone.jsx"
+    },
+    "./message-square-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-square-sparkles-two-tone.jsx"
+    },
     "./message-square-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-square-two-tone.jsx"
@@ -19810,6 +22146,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mic-sharp-two-tone.jsx"
     },
+    "./mic-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles.jsx"
+    },
+    "./mic-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles-duotone.jsx"
+    },
+    "./mic-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles-fill.jsx"
+    },
+    "./mic-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles-sharp.jsx"
+    },
+    "./mic-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles-sharp-duotone.jsx"
+    },
+    "./mic-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles-sharp-fill.jsx"
+    },
+    "./mic-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles-sharp-two-tone.jsx"
+    },
+    "./mic-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-sparkles-two-tone.jsx"
+    },
     "./mic-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mic-two-tone.jsx"
@@ -19969,6 +22337,38 @@
     "./monitor-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monitor-sharp-two-tone.jsx"
+    },
+    "./monitor-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles.jsx"
+    },
+    "./monitor-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles-duotone.jsx"
+    },
+    "./monitor-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles-fill.jsx"
+    },
+    "./monitor-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles-sharp.jsx"
+    },
+    "./monitor-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles-sharp-duotone.jsx"
+    },
+    "./monitor-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles-sharp-fill.jsx"
+    },
+    "./monitor-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles-sharp-two-tone.jsx"
+    },
+    "./monitor-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-sparkles-two-tone.jsx"
     },
     "./monitor-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20325,6 +22725,38 @@
     "./octagon-x-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/octagon-x-two-tone.jsx"
+    },
+    "./option": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option.jsx"
+    },
+    "./option-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-duotone.jsx"
+    },
+    "./option-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-fill.jsx"
+    },
+    "./option-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-sharp.jsx"
+    },
+    "./option-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-sharp-duotone.jsx"
+    },
+    "./option-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-sharp-fill.jsx"
+    },
+    "./option-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-sharp-two-tone.jsx"
+    },
+    "./option-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-two-tone.jsx"
     },
     "./package": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20737,6 +23169,38 @@
     "./palette-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette-sharp-two-tone.jsx"
+    },
+    "./palette-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles.jsx"
+    },
+    "./palette-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles-duotone.jsx"
+    },
+    "./palette-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles-fill.jsx"
+    },
+    "./palette-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles-sharp.jsx"
+    },
+    "./palette-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles-sharp-duotone.jsx"
+    },
+    "./palette-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles-sharp-fill.jsx"
+    },
+    "./palette-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles-sharp-two-tone.jsx"
+    },
+    "./palette-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-sparkles-two-tone.jsx"
     },
     "./palette-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -21634,6 +24098,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paper-bag-sharp-two-tone.jsx"
     },
+    "./paper-bag-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles.jsx"
+    },
+    "./paper-bag-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles-duotone.jsx"
+    },
+    "./paper-bag-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles-fill.jsx"
+    },
+    "./paper-bag-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles-sharp.jsx"
+    },
+    "./paper-bag-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles-sharp-duotone.jsx"
+    },
+    "./paper-bag-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles-sharp-fill.jsx"
+    },
+    "./paper-bag-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles-sharp-two-tone.jsx"
+    },
+    "./paper-bag-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-bag-sparkles-two-tone.jsx"
+    },
     "./paper-bag-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paper-bag-two-tone.jsx"
@@ -21701,6 +24197,38 @@
     "./parasol-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/parasol-two-tone.jsx"
+    },
+    "./parentheses": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses.jsx"
+    },
+    "./parentheses-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses-duotone.jsx"
+    },
+    "./parentheses-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses-fill.jsx"
+    },
+    "./parentheses-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses-sharp.jsx"
+    },
+    "./parentheses-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses-sharp-duotone.jsx"
+    },
+    "./parentheses-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses-sharp-fill.jsx"
+    },
+    "./parentheses-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses-sharp-two-tone.jsx"
+    },
+    "./parentheses-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parentheses-two-tone.jsx"
     },
     "./pause": {
       "types": "./types/hqrkovbr.d.ts",
@@ -22145,6 +24673,38 @@
     "./phone-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-sharp-two-tone.jsx"
+    },
+    "./phone-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles.jsx"
+    },
+    "./phone-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles-duotone.jsx"
+    },
+    "./phone-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles-fill.jsx"
+    },
+    "./phone-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles-sharp.jsx"
+    },
+    "./phone-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles-sharp-duotone.jsx"
+    },
+    "./phone-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles-sharp-fill.jsx"
+    },
+    "./phone-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles-sharp-two-tone.jsx"
+    },
+    "./phone-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-sparkles-two-tone.jsx"
     },
     "./phone-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -22982,6 +25542,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/radar-two-tone.jsx"
     },
+    "./radical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical.jsx"
+    },
+    "./radical-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical-duotone.jsx"
+    },
+    "./radical-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical-fill.jsx"
+    },
+    "./radical-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical-sharp.jsx"
+    },
+    "./radical-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical-sharp-duotone.jsx"
+    },
+    "./radical-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical-sharp-fill.jsx"
+    },
+    "./radical-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical-sharp-two-tone.jsx"
+    },
+    "./radical-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radical-two-tone.jsx"
+    },
     "./radio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/radio.jsx"
@@ -23138,6 +25730,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/refresh-ccw-sharp-two-tone.jsx"
     },
+    "./refresh-ccw-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles.jsx"
+    },
+    "./refresh-ccw-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles-duotone.jsx"
+    },
+    "./refresh-ccw-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles-fill.jsx"
+    },
+    "./refresh-ccw-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles-sharp.jsx"
+    },
+    "./refresh-ccw-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles-sharp-duotone.jsx"
+    },
+    "./refresh-ccw-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles-sharp-fill.jsx"
+    },
+    "./refresh-ccw-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles-sharp-two-tone.jsx"
+    },
+    "./refresh-ccw-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw-sparkles-two-tone.jsx"
+    },
     "./refresh-ccw-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/refresh-ccw-two-tone.jsx"
@@ -23169,6 +25793,38 @@
     "./refresh-cw-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/refresh-cw-sharp-two-tone.jsx"
+    },
+    "./refresh-cw-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles.jsx"
+    },
+    "./refresh-cw-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles-duotone.jsx"
+    },
+    "./refresh-cw-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles-fill.jsx"
+    },
+    "./refresh-cw-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles-sharp.jsx"
+    },
+    "./refresh-cw-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles-sharp-duotone.jsx"
+    },
+    "./refresh-cw-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles-sharp-fill.jsx"
+    },
+    "./refresh-cw-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles-sharp-two-tone.jsx"
+    },
+    "./refresh-cw-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-cw-sparkles-two-tone.jsx"
     },
     "./refresh-cw-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -23870,6 +26526,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scan-text-sharp-two-tone.jsx"
     },
+    "./scan-text-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles.jsx"
+    },
+    "./scan-text-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles-duotone.jsx"
+    },
+    "./scan-text-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles-fill.jsx"
+    },
+    "./scan-text-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles-sharp.jsx"
+    },
+    "./scan-text-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles-sharp-duotone.jsx"
+    },
+    "./scan-text-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles-sharp-fill.jsx"
+    },
+    "./scan-text-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles-sharp-two-tone.jsx"
+    },
+    "./scan-text-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-text-sparkles-two-tone.jsx"
+    },
     "./scan-text-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scan-text-two-tone.jsx"
@@ -24102,6 +26790,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/search-2-sharp-two-tone.jsx"
     },
+    "./search-2-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles.jsx"
+    },
+    "./search-2-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles-duotone.jsx"
+    },
+    "./search-2-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles-fill.jsx"
+    },
+    "./search-2-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles-sharp.jsx"
+    },
+    "./search-2-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles-sharp-duotone.jsx"
+    },
+    "./search-2-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles-sharp-fill.jsx"
+    },
+    "./search-2-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles-sharp-two-tone.jsx"
+    },
+    "./search-2-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-2-sparkles-two-tone.jsx"
+    },
     "./search-2-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/search-2-two-tone.jsx"
@@ -24322,6 +27042,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/search-slash-two-tone.jsx"
     },
+    "./search-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles.jsx"
+    },
+    "./search-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles-duotone.jsx"
+    },
+    "./search-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles-fill.jsx"
+    },
+    "./search-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles-sharp.jsx"
+    },
+    "./search-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles-sharp-duotone.jsx"
+    },
+    "./search-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles-sharp-fill.jsx"
+    },
+    "./search-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles-sharp-two-tone.jsx"
+    },
+    "./search-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkles-two-tone.jsx"
+    },
     "./search-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/search-two-tone.jsx"
@@ -24430,6 +27182,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/send-horizontal-sharp-two-tone.jsx"
     },
+    "./send-horizontal-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles.jsx"
+    },
+    "./send-horizontal-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles-duotone.jsx"
+    },
+    "./send-horizontal-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles-fill.jsx"
+    },
+    "./send-horizontal-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles-sharp.jsx"
+    },
+    "./send-horizontal-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles-sharp-duotone.jsx"
+    },
+    "./send-horizontal-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles-sharp-fill.jsx"
+    },
+    "./send-horizontal-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles-sharp-two-tone.jsx"
+    },
+    "./send-horizontal-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-horizontal-sparkles-two-tone.jsx"
+    },
     "./send-horizontal-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/send-horizontal-two-tone.jsx"
@@ -24449,6 +27233,38 @@
     "./send-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/send-sharp-two-tone.jsx"
+    },
+    "./send-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles.jsx"
+    },
+    "./send-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles-duotone.jsx"
+    },
+    "./send-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles-fill.jsx"
+    },
+    "./send-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles-sharp.jsx"
+    },
+    "./send-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles-sharp-duotone.jsx"
+    },
+    "./send-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles-sharp-fill.jsx"
+    },
+    "./send-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles-sharp-two-tone.jsx"
+    },
+    "./send-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-sparkles-two-tone.jsx"
     },
     "./send-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -24834,6 +27650,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-sharp-two-tone.jsx"
     },
+    "./shield-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles.jsx"
+    },
+    "./shield-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles-duotone.jsx"
+    },
+    "./shield-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles-fill.jsx"
+    },
+    "./shield-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles-sharp.jsx"
+    },
+    "./shield-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles-sharp-duotone.jsx"
+    },
+    "./shield-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles-sharp-fill.jsx"
+    },
+    "./shield-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles-sharp-two-tone.jsx"
+    },
+    "./shield-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-sparkles-two-tone.jsx"
+    },
     "./shield-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-two-tone.jsx"
@@ -24930,6 +27778,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shirt-sharp-two-tone.jsx"
     },
+    "./shirt-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles.jsx"
+    },
+    "./shirt-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles-duotone.jsx"
+    },
+    "./shirt-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles-fill.jsx"
+    },
+    "./shirt-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles-sharp.jsx"
+    },
+    "./shirt-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles-sharp-duotone.jsx"
+    },
+    "./shirt-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles-sharp-fill.jsx"
+    },
+    "./shirt-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles-sharp-two-tone.jsx"
+    },
+    "./shirt-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt-sparkles-two-tone.jsx"
+    },
     "./shirt-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shirt-two-tone.jsx"
@@ -25025,6 +27905,38 @@
     "./shopping-cart-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shopping-cart-sharp-two-tone.jsx"
+    },
+    "./shopping-cart-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles.jsx"
+    },
+    "./shopping-cart-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles-duotone.jsx"
+    },
+    "./shopping-cart-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles-fill.jsx"
+    },
+    "./shopping-cart-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles-sharp.jsx"
+    },
+    "./shopping-cart-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles-sharp-duotone.jsx"
+    },
+    "./shopping-cart-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles-sharp-fill.jsx"
+    },
+    "./shopping-cart-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles-sharp-two-tone.jsx"
+    },
+    "./shopping-cart-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-sparkles-two-tone.jsx"
     },
     "./shopping-cart-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25217,6 +28129,38 @@
     "./signal-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/signal-sharp-two-tone.jsx"
+    },
+    "./signal-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles.jsx"
+    },
+    "./signal-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles-duotone.jsx"
+    },
+    "./signal-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles-fill.jsx"
+    },
+    "./signal-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles-sharp.jsx"
+    },
+    "./signal-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles-sharp-duotone.jsx"
+    },
+    "./signal-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles-sharp-fill.jsx"
+    },
+    "./signal-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles-sharp-two-tone.jsx"
+    },
+    "./signal-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-sparkles-two-tone.jsx"
     },
     "./signal-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25441,6 +28385,38 @@
     "./sliders-horizontal-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sliders-horizontal-sharp-two-tone.jsx"
+    },
+    "./sliders-horizontal-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles.jsx"
+    },
+    "./sliders-horizontal-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles-duotone.jsx"
+    },
+    "./sliders-horizontal-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles-fill.jsx"
+    },
+    "./sliders-horizontal-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles-sharp.jsx"
+    },
+    "./sliders-horizontal-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles-sharp-duotone.jsx"
+    },
+    "./sliders-horizontal-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles-sharp-fill.jsx"
+    },
+    "./sliders-horizontal-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles-sharp-two-tone.jsx"
+    },
+    "./sliders-horizontal-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders-horizontal-sparkles-two-tone.jsx"
     },
     "./sliders-horizontal-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25922,6 +28898,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/smartphone-sharp-two-tone.jsx"
     },
+    "./smartphone-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles.jsx"
+    },
+    "./smartphone-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles-duotone.jsx"
+    },
+    "./smartphone-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles-fill.jsx"
+    },
+    "./smartphone-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles-sharp.jsx"
+    },
+    "./smartphone-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles-sharp-duotone.jsx"
+    },
+    "./smartphone-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles-sharp-fill.jsx"
+    },
+    "./smartphone-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles-sharp-two-tone.jsx"
+    },
+    "./smartphone-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-sparkles-two-tone.jsx"
+    },
     "./smartphone-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/smartphone-two-tone.jsx"
@@ -26053,6 +29061,38 @@
     "./soup-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/soup-two-tone.jsx"
+    },
+    "./space": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space.jsx"
+    },
+    "./space-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-duotone.jsx"
+    },
+    "./space-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-fill.jsx"
+    },
+    "./space-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-sharp.jsx"
+    },
+    "./space-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-sharp-duotone.jsx"
+    },
+    "./space-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-sharp-fill.jsx"
+    },
+    "./space-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-sharp-two-tone.jsx"
+    },
+    "./space-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-two-tone.jsx"
     },
     "./sparkle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -26633,6 +29673,38 @@
     "./square-arrow-up-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-up-two-tone.jsx"
+    },
+    "./square-asterisk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk.jsx"
+    },
+    "./square-asterisk-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk-duotone.jsx"
+    },
+    "./square-asterisk-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk-fill.jsx"
+    },
+    "./square-asterisk-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk-sharp.jsx"
+    },
+    "./square-asterisk-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk-sharp-duotone.jsx"
+    },
+    "./square-asterisk-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk-sharp-fill.jsx"
+    },
+    "./square-asterisk-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk-sharp-two-tone.jsx"
+    },
+    "./square-asterisk-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-asterisk-two-tone.jsx"
     },
     "./square-bar-chart": {
       "types": "./types/hqrkovbr.d.ts",
@@ -27498,9 +30570,73 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-dashed-two-tone.jsx"
     },
+    "./square-divide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide.jsx"
+    },
+    "./square-divide-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide-duotone.jsx"
+    },
+    "./square-divide-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide-fill.jsx"
+    },
+    "./square-divide-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide-sharp.jsx"
+    },
+    "./square-divide-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide-sharp-duotone.jsx"
+    },
+    "./square-divide-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide-sharp-fill.jsx"
+    },
+    "./square-divide-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide-sharp-two-tone.jsx"
+    },
+    "./square-divide-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-divide-two-tone.jsx"
+    },
     "./square-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-duotone.jsx"
+    },
+    "./square-equal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal.jsx"
+    },
+    "./square-equal-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal-duotone.jsx"
+    },
+    "./square-equal-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal-fill.jsx"
+    },
+    "./square-equal-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal-sharp.jsx"
+    },
+    "./square-equal-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal-sharp-duotone.jsx"
+    },
+    "./square-equal-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal-sharp-fill.jsx"
+    },
+    "./square-equal-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal-sharp-two-tone.jsx"
+    },
+    "./square-equal-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-equal-two-tone.jsx"
     },
     "./square-fill": {
       "types": "./types/hqrkovbr.d.ts",
@@ -27953,6 +31089,38 @@
     "./square-question-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-question-two-tone.jsx"
+    },
+    "./square-radical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical.jsx"
+    },
+    "./square-radical-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical-duotone.jsx"
+    },
+    "./square-radical-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical-fill.jsx"
+    },
+    "./square-radical-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical-sharp.jsx"
+    },
+    "./square-radical-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical-sharp-duotone.jsx"
+    },
+    "./square-radical-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical-sharp-fill.jsx"
+    },
+    "./square-radical-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical-sharp-two-tone.jsx"
+    },
+    "./square-radical-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-radical-two-tone.jsx"
     },
     "./square-record": {
       "types": "./types/hqrkovbr.d.ts",
@@ -28450,6 +31618,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sticky-note-sharp-two-tone.jsx"
     },
+    "./sticky-note-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles.jsx"
+    },
+    "./sticky-note-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles-duotone.jsx"
+    },
+    "./sticky-note-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles-fill.jsx"
+    },
+    "./sticky-note-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles-sharp.jsx"
+    },
+    "./sticky-note-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles-sharp-duotone.jsx"
+    },
+    "./sticky-note-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles-sharp-fill.jsx"
+    },
+    "./sticky-note-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles-sharp-two-tone.jsx"
+    },
+    "./sticky-note-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sticky-note-sparkles-two-tone.jsx"
+    },
     "./sticky-note-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sticky-note-two-tone.jsx"
@@ -28641,6 +31841,38 @@
     "./subtitles-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/subtitles-sharp-two-tone.jsx"
+    },
+    "./subtitles-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles.jsx"
+    },
+    "./subtitles-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles-duotone.jsx"
+    },
+    "./subtitles-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles-fill.jsx"
+    },
+    "./subtitles-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles-sharp.jsx"
+    },
+    "./subtitles-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles-sharp-duotone.jsx"
+    },
+    "./subtitles-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles-sharp-fill.jsx"
+    },
+    "./subtitles-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles-sharp-two-tone.jsx"
+    },
+    "./subtitles-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtitles-sparkles-two-tone.jsx"
     },
     "./subtitles-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -29358,6 +32590,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tag-horizontal-start-sharp-two-tone.jsx"
     },
+    "./tag-horizontal-start-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles.jsx"
+    },
+    "./tag-horizontal-start-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles-duotone.jsx"
+    },
+    "./tag-horizontal-start-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles-fill.jsx"
+    },
+    "./tag-horizontal-start-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles-sharp.jsx"
+    },
+    "./tag-horizontal-start-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles-sharp-duotone.jsx"
+    },
+    "./tag-horizontal-start-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles-sharp-fill.jsx"
+    },
+    "./tag-horizontal-start-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles-sharp-two-tone.jsx"
+    },
+    "./tag-horizontal-start-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-horizontal-start-sparkles-two-tone.jsx"
+    },
     "./tag-horizontal-start-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tag-horizontal-start-two-tone.jsx"
@@ -29377,6 +32641,38 @@
     "./tag-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tag-sharp-two-tone.jsx"
+    },
+    "./tag-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles.jsx"
+    },
+    "./tag-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles-duotone.jsx"
+    },
+    "./tag-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles-fill.jsx"
+    },
+    "./tag-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles-sharp.jsx"
+    },
+    "./tag-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles-sharp-duotone.jsx"
+    },
+    "./tag-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles-sharp-fill.jsx"
+    },
+    "./tag-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles-sharp-two-tone.jsx"
+    },
+    "./tag-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-sparkles-two-tone.jsx"
     },
     "./tag-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -29665,6 +32961,38 @@
     "./terminal-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terminal-sharp-two-tone.jsx"
+    },
+    "./terminal-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles.jsx"
+    },
+    "./terminal-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles-duotone.jsx"
+    },
+    "./terminal-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles-fill.jsx"
+    },
+    "./terminal-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles-sharp.jsx"
+    },
+    "./terminal-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles-sharp-duotone.jsx"
+    },
+    "./terminal-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles-sharp-fill.jsx"
+    },
+    "./terminal-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles-sharp-two-tone.jsx"
+    },
+    "./terminal-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-sparkles-two-tone.jsx"
     },
     "./terminal-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -30282,6 +33610,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trending-up.jsx"
     },
+    "./trending-up-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down.jsx"
+    },
+    "./trending-up-down-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down-duotone.jsx"
+    },
+    "./trending-up-down-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down-fill.jsx"
+    },
+    "./trending-up-down-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down-sharp.jsx"
+    },
+    "./trending-up-down-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down-sharp-duotone.jsx"
+    },
+    "./trending-up-down-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down-sharp-fill.jsx"
+    },
+    "./trending-up-down-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down-sharp-two-tone.jsx"
+    },
+    "./trending-up-down-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up-down-two-tone.jsx"
+    },
     "./trending-up-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trending-up-duotone.jsx"
@@ -30657,6 +34017,38 @@
     "./truck-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/truck-sharp-two-tone.jsx"
+    },
+    "./truck-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles.jsx"
+    },
+    "./truck-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles-duotone.jsx"
+    },
+    "./truck-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles-fill.jsx"
+    },
+    "./truck-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles-sharp.jsx"
+    },
+    "./truck-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles-sharp-duotone.jsx"
+    },
+    "./truck-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles-sharp-fill.jsx"
+    },
+    "./truck-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles-sharp-two-tone.jsx"
+    },
+    "./truck-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-sparkles-two-tone.jsx"
     },
     "./truck-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -31106,6 +34498,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-sharp-two-tone.jsx"
     },
+    "./user-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles.jsx"
+    },
+    "./user-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles-duotone.jsx"
+    },
+    "./user-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles-fill.jsx"
+    },
+    "./user-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles-sharp.jsx"
+    },
+    "./user-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles-sharp-duotone.jsx"
+    },
+    "./user-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles-sharp-fill.jsx"
+    },
+    "./user-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles-sharp-two-tone.jsx"
+    },
+    "./user-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-sparkles-two-tone.jsx"
+    },
     "./user-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-two-tone.jsx"
@@ -31206,6 +34630,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/users-two-tone.jsx"
     },
+    "./variable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable.jsx"
+    },
+    "./variable-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-duotone.jsx"
+    },
+    "./variable-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-fill.jsx"
+    },
+    "./variable-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-sharp.jsx"
+    },
+    "./variable-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-sharp-duotone.jsx"
+    },
+    "./variable-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-sharp-fill.jsx"
+    },
+    "./variable-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-sharp-two-tone.jsx"
+    },
+    "./variable-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-two-tone.jsx"
+    },
     "./venus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/venus.jsx"
@@ -31265,6 +34721,38 @@
     "./video-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/video-sharp-two-tone.jsx"
+    },
+    "./video-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles.jsx"
+    },
+    "./video-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles-duotone.jsx"
+    },
+    "./video-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles-fill.jsx"
+    },
+    "./video-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles-sharp.jsx"
+    },
+    "./video-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles-sharp-duotone.jsx"
+    },
+    "./video-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles-sharp-fill.jsx"
+    },
+    "./video-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles-sharp-two-tone.jsx"
+    },
+    "./video-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-sparkles-two-tone.jsx"
     },
     "./video-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -31554,9 +35042,105 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wallet-sharp-two-tone.jsx"
     },
+    "./wallet-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles.jsx"
+    },
+    "./wallet-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles-duotone.jsx"
+    },
+    "./wallet-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles-fill.jsx"
+    },
+    "./wallet-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles-sharp.jsx"
+    },
+    "./wallet-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles-sharp-duotone.jsx"
+    },
+    "./wallet-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles-sharp-fill.jsx"
+    },
+    "./wallet-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles-sharp-two-tone.jsx"
+    },
+    "./wallet-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet-sparkles-two-tone.jsx"
+    },
     "./wallet-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wallet-two-tone.jsx"
+    },
+    "./wand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand.jsx"
+    },
+    "./wand-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-duotone.jsx"
+    },
+    "./wand-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-fill.jsx"
+    },
+    "./wand-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sharp.jsx"
+    },
+    "./wand-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sharp-duotone.jsx"
+    },
+    "./wand-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sharp-fill.jsx"
+    },
+    "./wand-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sharp-two-tone.jsx"
+    },
+    "./wand-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles.jsx"
+    },
+    "./wand-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles-duotone.jsx"
+    },
+    "./wand-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles-fill.jsx"
+    },
+    "./wand-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles-sharp.jsx"
+    },
+    "./wand-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles-sharp-duotone.jsx"
+    },
+    "./wand-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles-sharp-fill.jsx"
+    },
+    "./wand-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles-sharp-two-tone.jsx"
+    },
+    "./wand-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-sparkles-two-tone.jsx"
+    },
+    "./wand-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wand-two-tone.jsx"
     },
     "./watch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -31922,6 +35506,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-fill.jsx"
     },
+    "./x-line-top": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top.jsx"
+    },
+    "./x-line-top-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top-duotone.jsx"
+    },
+    "./x-line-top-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top-fill.jsx"
+    },
+    "./x-line-top-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top-sharp.jsx"
+    },
+    "./x-line-top-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top-sharp-duotone.jsx"
+    },
+    "./x-line-top-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top-sharp-fill.jsx"
+    },
+    "./x-line-top-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top-sharp-two-tone.jsx"
+    },
+    "./x-line-top-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-line-top-two-tone.jsx"
+    },
     "./x-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-sharp.jsx"
@@ -32001,6 +35617,38 @@
     "./zap-sharp-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zap-sharp-two-tone.jsx"
+    },
+    "./zap-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles.jsx"
+    },
+    "./zap-sparkles-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles-duotone.jsx"
+    },
+    "./zap-sparkles-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles-fill.jsx"
+    },
+    "./zap-sparkles-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles-sharp.jsx"
+    },
+    "./zap-sparkles-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles-sharp-duotone.jsx"
+    },
+    "./zap-sparkles-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles-sharp-fill.jsx"
+    },
+    "./zap-sparkles-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles-sharp-two-tone.jsx"
+    },
+    "./zap-sparkles-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-sparkles-two-tone.jsx"
     },
     "./zap-two-tone": {
       "types": "./types/hqrkovbr.d.ts",

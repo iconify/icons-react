@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/etl64wbvi.css';
+import '../../css/n/ncggv999k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="etl64wbvi"/>`,
+		"content": `<path class="ncggv999k"/>`,
 		"fallback": "meteor-icons:message-dots",
 	});
 }

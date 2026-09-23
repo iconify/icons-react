@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qlo3fdcax.css';
+import '../../css/c/c6o0fxbcs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qlo3fdcax"/>`,
+		"content": `<path class="c6o0fxbcs"/>`,
 		"fallback": "meteor-icons:sticker",
 	});
 }

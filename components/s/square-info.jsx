@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/j/jhxi-trnl.css';
-import '../../css/v/v0y09obth.css';
+import '../../css/g/gd0-dpwog.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><rect class="jhxi-trnl"/><path class="v0y09obth"/></g>`,
+		"content": `<g class="nrj6p8qat"><rect class="jhxi-trnl"/><path class="gd0-dpwog"/></g>`,
 		"fallback": "meteor-icons:square-info",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/imvef3bha.css';
+import '../../css/k/ko5nd2b_z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="imvef3bha"/>`,
+		"content": `<path class="ko5nd2b_z"/>`,
 		"fallback": "meteor-icons:list",
 	});
 }

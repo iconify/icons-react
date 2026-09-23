@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/n/n8x_g33qg.css';
+import '../../css/s/sa9fb-7nx.css';
 import '../../css/s/shu3xdl9q.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="n8x_g33qg"/><circle class="shu3xdl9q"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="sa9fb-7nx"/><circle class="shu3xdl9q"/></g>`,
 		"fallback": "meteor-icons:face-frown",
 	});
 }

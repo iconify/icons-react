@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/s/shu3xdl9q.css';
-import '../../css/v/v0jq_-b3i.css';
+import '../../css/j/jcmc1bc_e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><circle class="shu3xdl9q"/><path class="v0jq_-b3i"/></g>`,
+		"content": `<g class="nrj6p8qat"><circle class="shu3xdl9q"/><path class="jcmc1bc_e"/></g>`,
 		"fallback": "meteor-icons:alarm-exclamation",
 	});
 }

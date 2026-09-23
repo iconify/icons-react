@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rs2p5x73g.css';
+import '../../css/f/f_hp_0bsk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rs2p5x73g"/>`,
+		"content": `<path class="f_hp_0bsk"/>`,
 		"fallback": "meteor-icons:preact",
 	});
 }

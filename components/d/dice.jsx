@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rz71kybyz.css';
+import '../../css/n/nrj6p8qat.css';
+import '../../css/j/jhxi-trnl.css';
+import '../../css/j/jb-kg4bkf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<rect class="rz71kybyz"/>`,
+		"content": `<g class="nrj6p8qat"><rect class="jhxi-trnl"/><path class="jb-kg4bkf"/></g>`,
 		"fallback": "meteor-icons:dice",
 	});
 }

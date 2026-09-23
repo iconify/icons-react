@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a7wgjz_yw.css';
+import '../../css/x/x4qanbbdb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a7wgjz_yw"/>`,
+		"content": `<path class="x4qanbbdb"/>`,
 		"fallback": "meteor-icons:chess-knight",
 	});
 }

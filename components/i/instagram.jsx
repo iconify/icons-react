@@ -3,6 +3,7 @@ import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/a/aqhok2bbj.css';
 import '../../css/a/avpk5oscq.css';
+import '../../css/j/julx6mp4j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><circle class="aqhok2bbj"/><rect class="avpk5oscq"/></g>`,
+		"content": `<g class="nrj6p8qat"><circle class="aqhok2bbj"/><rect class="avpk5oscq"/><path class="julx6mp4j"/></g>`,
 		"fallback": "meteor-icons:instagram",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/meteor-icons",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "homepage": "https://icon-sets.iconify.design/meteor-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -205,6 +205,10 @@
     "./badge-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/badge-check.jsx"
+    },
+    "./badge-percent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/badge-percent.jsx"
     },
     "./barcode": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1301,6 +1305,10 @@
     "./refresh": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/refresh.jsx"
+    },
+    "./regex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/regex.jsx"
     },
     "./rhombus": {
       "types": "./types/hqrkovbr.d.ts",

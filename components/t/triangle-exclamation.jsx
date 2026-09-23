@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/msaxu7bcc.css';
+import '../../css/r/rib8vw59i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="msaxu7bcc"/>`,
+		"content": `<path class="rib8vw59i"/>`,
 		"fallback": "meteor-icons:triangle-exclamation",
 	});
 }

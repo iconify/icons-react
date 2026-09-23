@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/tabler",
   "type": "module",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "homepage": "https://icon-sets.iconify.design/tabler/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -10466,6 +10466,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dumpling-filled.jsx"
     },
+    "./duplicate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duplicate.jsx"
+    },
     "./e-passport": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/e-passport.jsx"
@@ -12034,6 +12038,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder.jsx"
     },
+    "./folder-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-ai.jsx"
+    },
     "./folder-bolt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-bolt.jsx"
@@ -12117,6 +12125,10 @@
     "./folder-share": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-share.jsx"
+    },
+    "./folder-sparkle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-sparkle.jsx"
     },
     "./folder-star": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12434,9 +12446,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/git-branch.jsx"
     },
+    "./git-branch-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-check.jsx"
+    },
     "./git-branch-deleted": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/git-branch-deleted.jsx"
+    },
+    "./git-branch-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-x.jsx"
     },
     "./git-cherry-pick": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12458,6 +12478,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/git-merge.jsx"
     },
+    "./git-merge-queue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-merge-queue.jsx"
+    },
     "./git-pull-request": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/git-pull-request.jsx"
@@ -12473,6 +12497,14 @@
     "./git-pull-request-draft": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/git-pull-request-draft.jsx"
+    },
+    "./git-pull-request-locked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-pull-request-locked.jsx"
+    },
+    "./git-pull-request-unlisted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-pull-request-unlisted.jsx"
     },
     "./gizmo": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16094,6 +16126,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-2.jsx"
     },
+    "./message-2-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-2-ai.jsx"
+    },
     "./message-2-bolt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-2-bolt.jsx"
@@ -16166,6 +16202,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-2-share.jsx"
     },
+    "./message-2-sparkle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-2-sparkle.jsx"
+    },
     "./message-2-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-2-star.jsx"
@@ -16177,6 +16217,10 @@
     "./message-2-x": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-2-x.jsx"
+    },
+    "./message-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-ai.jsx"
     },
     "./message-bolt": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16382,6 +16426,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-share.jsx"
     },
+    "./message-sparkle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkle.jsx"
+    },
     "./message-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-star.jsx"
@@ -16565,6 +16613,10 @@
     "./mobiledata-off": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mobiledata-off.jsx"
+    },
+    "./model-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/model-ai.jsx"
     },
     "./moneybag": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18025,6 +18077,10 @@
     "./pencil": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pencil.jsx"
+    },
+    "./pencil-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil-ai.jsx"
     },
     "./pencil-bolt": {
       "types": "./types/hqrkovbr.d.ts",
@@ -22450,6 +22506,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stack-backward.jsx"
     },
+    "./stack-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-check.jsx"
+    },
     "./stack-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stack-filled.jsx"
@@ -22466,6 +22526,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stack-middle.jsx"
     },
+    "./stack-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-minus.jsx"
+    },
+    "./stack-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-plus.jsx"
+    },
     "./stack-pop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stack-pop.jsx"
@@ -22473,6 +22541,10 @@
     "./stack-push": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stack-push.jsx"
+    },
+    "./stack-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-x.jsx"
     },
     "./stairs": {
       "types": "./types/hqrkovbr.d.ts",

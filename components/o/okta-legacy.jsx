@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oqm9wbc2m.css';
+import '../../css/b/b07s0zb2q.css';
 
-const viewBox = {"width":33,"height":33};
+const viewBox = {"width":24,"height":24};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="oqm9wbc2m"/>`,
-		"fallback": "thesvg:okta",
+		"content": `<path class="b07s0zb2q"/>`,
+		"fallback": "thesvg:okta-legacy",
 	});
 }
 

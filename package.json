@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -4354,6 +4354,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/digitalocean.jsx"
     },
+    "./digitus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/digitus.jsx"
+    },
     "./diners-club": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/diners-club.jsx"
@@ -6957,6 +6961,10 @@
     "./grails": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grails.jsx"
+    },
+    "./gram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gram.jsx"
     },
     "./grammarly": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11634,6 +11642,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nodebb.jsx"
     },
+    "./nodebo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nodebo.jsx"
+    },
     "./nodedotjs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nodedotjs.jsx"
@@ -11769,6 +11781,10 @@
     "./now": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/now.jsx"
+    },
+    "./nowly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nowly.jsx"
     },
     "./nplcloud": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12029,6 +12045,10 @@
     "./okta": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/okta.jsx"
+    },
+    "./okta-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/okta-legacy.jsx"
     },
     "./okx": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,5 +1,6 @@
 # @iconify-react/thesvg-color
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/thesvg-color).
 **theSVG Color**
 
 Author: [thesvg.org](https://github.com/glincker/thesvg)
@@ -10,6 +11,11 @@ Browse all icons: [preview theSVG Color on Iconify](https://icon-sets.iconify.de
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#thesvg-color
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#thesvg-color
 ```

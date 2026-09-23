@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m617xyb0h.css';
+import '../../css/j/jx0p4fbya.css';
+import '../../css/x/xozg72bpw.css';
+import '../../css/r/r7xk8o29f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,8 +13,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="m617xyb0h"/>`,
-		"fallback": "wordpress:comment",
+		"content": `<g class="jx0p4fbya"><path class="xozg72bpw"/><path vector-effect="non-scaling-stroke" class="r7xk8o29f"/></g>`,
+		"fallback": "wordpress:justify-space-evenly",
 	});
 }
 

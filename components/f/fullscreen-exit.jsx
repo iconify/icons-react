@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m617xyb0h.css';
+import '../../css/y/yi8vsubkl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="m617xyb0h"/>`,
-		"fallback": "wordpress:comment",
+		"content": `<path vector-effect="non-scaling-stroke" class="yi8vsubkl"/>`,
+		"fallback": "wordpress:fullscreen-exit",
 	});
 }
 

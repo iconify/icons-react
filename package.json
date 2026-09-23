@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/wordpress",
   "type": "module",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "homepage": "https://icon-sets.iconify.design/wordpress/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "GPL-2.0-or-later",
@@ -510,6 +510,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fullscreen.jsx"
     },
+    "./fullscreen-exit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fullscreen-exit.jsx"
+    },
     "./funnel": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/funnel.jsx"
@@ -645,6 +649,10 @@
     "./justify-space-between-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/justify-space-between-vertical.jsx"
+    },
+    "./justify-space-evenly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/justify-space-evenly.jsx"
     },
     "./justify-stretch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -993,6 +1001,10 @@
     "./quote": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quote.jsx"
+    },
+    "./reaction": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/reaction.jsx"
     },
     "./receipt": {
       "types": "./types/hqrkovbr.d.ts",

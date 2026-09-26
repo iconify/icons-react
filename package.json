@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -501,6 +501,10 @@
     "./file-type-cheader": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-cheader.jsx"
+    },
+    "./file-type-checkov": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-checkov.jsx"
     },
     "./file-type-chef": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1962,6 +1966,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-cabal.jsx"
     },
+    "./file-type-light-checkov": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-checkov.jsx"
+    },
     "./file-type-light-circleci": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-circleci.jsx"
@@ -2274,6 +2282,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-purescript.jsx"
     },
+    "./file-type-light-pyrefly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-pyrefly.jsx"
+    },
     "./file-type-light-quarkdown": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-quarkdown.jsx"
@@ -2457,6 +2469,14 @@
     "./file-type-light-vitest": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-vitest.jsx"
+    },
+    "./file-type-light-vlt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-vlt.jsx"
+    },
+    "./file-type-light-vlt2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-vlt2.jsx"
     },
     "./file-type-light-vsix": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3610,6 +3630,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-pypi.jsx"
     },
+    "./file-type-pyrefly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-pyrefly.jsx"
+    },
     "./file-type-pyret": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-pyret.jsx"
@@ -3673,6 +3697,14 @@
     "./file-type-quarkdown": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-quarkdown.jsx"
+    },
+    "./file-type-quarto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-quarto.jsx"
+    },
+    "./file-type-quartoconfig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-quartoconfig.jsx"
     },
     "./file-type-quasar": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3970,6 +4002,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-shaderlab.jsx"
     },
+    "./file-type-shaderslang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-shaderslang.jsx"
+    },
     "./file-type-shell": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-shell.jsx"
@@ -4013,6 +4049,10 @@
     "./file-type-slang": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-slang.jsx"
+    },
+    "./file-type-slangacademic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-slangacademic.jsx"
     },
     "./file-type-slashup": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4101,6 +4141,10 @@
     "./file-type-sqlite": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-sqlite.jsx"
+    },
+    "./file-type-sqlproj": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-sqlproj.jsx"
     },
     "./file-type-squirrel": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4569,6 +4613,14 @@
     "./file-type-vlang": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-vlang.jsx"
+    },
+    "./file-type-vlt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-vlt.jsx"
+    },
+    "./file-type-vlt2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-vlt2.jsx"
     },
     "./file-type-volt": {
       "types": "./types/hqrkovbr.d.ts",

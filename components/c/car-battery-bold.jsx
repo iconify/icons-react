@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
-import '../../css/p/pj4bklnkf.css';
+import '../../css/g/gwtt4o29y.css';
 import '../../css/e/eepjeibon.css';
 import '../../css/e/e9polmbot.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="pj4bklnkf"/><path class="eepjeibon"/><path class="e9polmbot"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="gwtt4o29y"/><path class="eepjeibon"/><path class="e9polmbot"/></g>`,
 		"fallback": "solar:car-battery-bold",
 	});
 }

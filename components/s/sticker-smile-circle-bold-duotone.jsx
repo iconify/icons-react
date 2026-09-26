@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/lx7m2-bor.css';
-import '../../css/i/iqgdhbc6s.css';
+import '../../css/w/wdpiagqfd.css';
+import '../../css/r/r2-qebqzx.css';
 import '../../css/l/l3vfyexrd.css';
 import '../../css/c/crykbyqhi.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="lx7m2-bor"/><path class="iqgdhbc6s"/><path class="l3vfyexrd"/><path class="crykbyqhi"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="wdpiagqfd"/><path class="r2-qebqzx"/><path class="l3vfyexrd"/><path class="crykbyqhi"/></g>`,
 		"fallback": "solar:sticker-smile-circle-bold-duotone",
 	});
 }

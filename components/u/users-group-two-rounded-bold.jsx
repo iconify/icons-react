@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
 import '../../css/v/v0mnniwzq.css';
 import '../../css/v/v1e_5xx-u.css';
-import '../../css/w/w6q2lob5h.css';
+import '../../css/z/zwbprvbgc.css';
 import '../../css/d/dp5zcac4d.css';
 import '../../css/l/l8lhr17sb.css';
 import '../../css/w/w5qhdv_nw.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="v0mnniwzq"/><path class="v1e_5xx-u"/><path class="w6q2lob5h"/><path class="dp5zcac4d"/><path class="l8lhr17sb"/><path class="w5qhdv_nw"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="v0mnniwzq"/><path class="v1e_5xx-u"/><path class="zwbprvbgc"/><path class="dp5zcac4d"/><path class="l8lhr17sb"/><path class="w5qhdv_nw"/></g>`,
 		"fallback": "solar:users-group-two-rounded-bold",
 	});
 }

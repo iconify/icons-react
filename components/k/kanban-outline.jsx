@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/n/n1lsf0bnc.css';
 import '../../css/y/y9fg5_kkw.css';
 import '../../css/c/c8xnjab9c.css';
-import '../../css/e/e8ovzhe8p.css';
+import '../../css/r/rskakgvby.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="y9fg5_kkw"/><path class="c8xnjab9c"/><path class="e8ovzhe8p"/></g>`,
+		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="y9fg5_kkw"/><path class="c8xnjab9c"/><path class="rskakgvby"/></g>`,
 		"fallback": "solar:kanban-outline",
 	});
 }

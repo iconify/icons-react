@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
 import '../../css/r/raupl6bzc.css';
-import '../../css/c/ck154gbpn.css';
+import '../../css/r/rek_6vbvt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="raupl6bzc"/><path class="ck154gbpn"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="raupl6bzc"/><path class="rek_6vbvt"/></g>`,
 		"fallback": "solar:armchair-2-bold",
 	});
 }

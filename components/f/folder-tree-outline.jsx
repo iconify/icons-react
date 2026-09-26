@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
 import '../../css/b/b2onxacdt.css';
 import '../../css/e/ez9076b0z.css';
-import '../../css/f/fgubyacio.css';
+import '../../css/g/gkclh6b0w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="b2onxacdt"/><path class="ez9076b0z"/><path clip-rule="evenodd" class="fgubyacio"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="b2onxacdt"/><path class="ez9076b0z"/><path clip-rule="evenodd" class="gkclh6b0w"/></g>`,
 		"fallback": "solar:folder-tree-outline",
 	});
 }

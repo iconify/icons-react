@@ -4,7 +4,7 @@ import '../../css/c/cuyn6tgcc.css';
 import '../../css/g/gw5io-bbr.css';
 import '../../css/b/bejwiwtrh.css';
 import '../../css/j/jtsi5u_mv.css';
-import '../../css/p/pmoqt0k4g.css';
+import '../../css/n/nc2b2uohv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="gw5io-bbr"/><path class="bejwiwtrh"/><path class="jtsi5u_mv"/><path clip-rule="evenodd" class="pmoqt0k4g"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="gw5io-bbr"/><path class="bejwiwtrh"/><path class="jtsi5u_mv"/><path clip-rule="evenodd" class="nc2b2uohv"/></g>`,
 		"fallback": "solar:bot-outline",
 	});
 }

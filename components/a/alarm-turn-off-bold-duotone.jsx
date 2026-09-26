@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
 import '../../css/x/xar3zbcoy.css';
-import '../../css/w/wtf0okbee.css';
+import '../../css/m/mnawctb0s.css';
 import '../../css/o/omt0vob3d.css';
 import '../../css/p/pl37d4g4d.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="xar3zbcoy"/><path class="wtf0okbee"/><path class="omt0vob3d"/><path class="pl37d4g4d"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="xar3zbcoy"/><path class="mnawctb0s"/><path class="omt0vob3d"/><path class="pl37d4g4d"/></g>`,
 		"fallback": "solar:alarm-turn-off-bold-duotone",
 	});
 }

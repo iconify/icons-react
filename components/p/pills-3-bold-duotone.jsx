@@ -6,7 +6,7 @@ import '../../css/p/poywaoygi.css';
 import '../../css/r/ry2qzlfsr.css';
 import '../../css/g/g4hvem0_y.css';
 import '../../css/e/eccn1rr2t.css';
-import '../../css/g/gju1qnoqk.css';
+import '../../css/q/qx63tabzz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="poywaoygi"/><path class="ry2qzlfsr"/></g><path class="g4hvem0_y"/><path class="eccn1rr2t"/><path class="gju1qnoqk"/></g>`,
+		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="poywaoygi"/><path class="ry2qzlfsr"/></g><path class="g4hvem0_y"/><path class="eccn1rr2t"/><path class="qx63tabzz"/></g>`,
 		"fallback": "solar:pills-3-bold-duotone",
 	});
 }

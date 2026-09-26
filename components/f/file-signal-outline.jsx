@@ -2,9 +2,9 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
 import '../../css/s/slf0iuw5z.css';
-import '../../css/t/tbrdh9i-a.css';
+import '../../css/r/ryn3wxb-v.css';
 import '../../css/w/wc8u692rw.css';
-import '../../css/m/m-_pys7sn.css';
+import '../../css/f/f_7mvhbyy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="slf0iuw5z"/><path class="tbrdh9i-a"/><path clip-rule="evenodd" class="wc8u692rw"/><path clip-rule="evenodd" class="m-_pys7sn"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="slf0iuw5z"/><path class="ryn3wxb-v"/><path clip-rule="evenodd" class="wc8u692rw"/><path clip-rule="evenodd" class="f_7mvhbyy"/></g>`,
 		"fallback": "solar:file-signal-outline",
 	});
 }

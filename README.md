@@ -1,5 +1,6 @@
 # @iconify-react/solar
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/solar).
 **Solar**
 
 Author: [480 Design](https://www.figma.com/community/file/1166831539721848736)
@@ -10,6 +11,11 @@ Browse all icons: [preview Solar on Iconify](https://icon-sets.iconify.design/so
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#solar
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#solar
 ```

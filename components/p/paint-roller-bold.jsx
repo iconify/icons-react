@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
 import '../../css/r/r7bwjtgfs.css';
-import '../../css/q/qzhswnbxk.css';
+import '../../css/i/iuqg7ob6n.css';
 import '../../css/h/hkt1xxbem.css';
 import '../../css/m/m7byn6b2f.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="r7bwjtgfs"/><path class="qzhswnbxk"/><path class="hkt1xxbem"/><path class="m7byn6b2f"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="r7bwjtgfs"/><path class="iuqg7ob6n"/><path class="hkt1xxbem"/><path class="m7byn6b2f"/></g>`,
 		"fallback": "solar:paint-roller-bold",
 	});
 }

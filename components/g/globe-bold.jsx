@@ -4,7 +4,7 @@ import '../../css/c/cuyn6tgcc.css';
 import '../../css/s/sgmemqb3w.css';
 import '../../css/f/fcfj16wrs.css';
 import '../../css/t/tlmpzabnd.css';
-import '../../css/m/mh5961bcg.css';
+import '../../css/s/sioybk19c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="sgmemqb3w"/><path class="fcfj16wrs"/><path class="tlmpzabnd"/><path class="mh5961bcg"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="sgmemqb3w"/><path class="fcfj16wrs"/><path class="tlmpzabnd"/><path class="sioybk19c"/></g>`,
 		"fallback": "solar:globe-bold",
 	});
 }

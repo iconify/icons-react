@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/n1lsf0bnc.css';
 import '../../css/f/fumdqeb9h.css';
-import '../../css/c/cnnjisezc.css';
+import '../../css/i/iftdw8boo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="fumdqeb9h"/><path class="cnnjisezc"/></g>`,
+		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="fumdqeb9h"/><path class="iftdw8boo"/></g>`,
 		"fallback": "solar:file-badge-outline",
 	});
 }

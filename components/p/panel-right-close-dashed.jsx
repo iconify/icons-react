@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/l/lkgbbu07j.css';
-import '../../css/l/lx9jc3bxn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="lkgbbu07j"/><path class="lx9jc3bxn"/></g>`,
+		"content": `<style>.lkgbbu07j {
+  d: path("M15 3H18C19.6569 3 21 4.34315 21 6V18C21 19.6569 19.6569 21 18 21H15V3ZM6 3C4.34315 3 3 4.34315 3 6M3 18C3 19.6569 4.34315 21 6 21M10 3H11M10 21H11M3 10.5V13.5");
+}
+
+.lx9jc3bxn {
+  d: path("M8 9L11 12L8 15");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="nrj6p8qat"><path class="lkgbbu07j"/><path class="lx9jc3bxn"/></g>`,
 		"fallback": "keyline-icons:panel-right-close-dashed",
 	});
 }

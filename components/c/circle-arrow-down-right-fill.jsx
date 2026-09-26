@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fdlbvbcjn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="fdlbvbcjn"/>`,
+		"content": `<style>.fdlbvbcjn {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12C1 5.92487 5.92487 1 12 1ZM15 8C14.4477 8 14 8.44772 14 9V12.5859L9.70703 8.29297C9.31651 7.90244 8.68349 7.90244 8.29297 8.29297C7.90244 8.68349 7.90244 9.31651 8.29297 9.70703L12.5859 14H9C8.44772 14 8 14.4477 8 15C8 15.5523 8.44772 16 9 16H14.5C15.3284 16 16 15.3284 16 14.5V9C16 8.44772 15.5523 8 15 8Z");
+}
+</style><path clip-rule="evenodd" class="fdlbvbcjn"/>`,
 		"fallback": "keyline-icons:circle-arrow-down-right-fill",
 	});
 }

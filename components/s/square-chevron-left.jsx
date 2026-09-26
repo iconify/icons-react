@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/c/cc50cvs0o.css';
-import '../../css/e/exuxly8wg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="cc50cvs0o"/><path class="exuxly8wg"/></g>`,
+		"content": `<style>.cc50cvs0o {
+  d: path("M6 3H18C19.6569 3 21 4.34315 21 6V18C21 19.6569 19.6569 21 18 21H6C4.34315 21 3 19.6569 3 18V6C3 4.34315 4.34315 3 6 3Z");
+}
+
+.exuxly8wg {
+  d: path("M14 8L10 12L14 16");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="nrj6p8qat"><path class="cc50cvs0o"/><path class="exuxly8wg"/></g>`,
 		"fallback": "keyline-icons:square-chevron-left",
 	});
 }

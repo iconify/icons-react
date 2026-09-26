@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/j/jru-d8bze.css';
-import '../../css/y/yxri0vbpx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="jru-d8bze"/><path class="yxri0vbpx"/></g>`,
+		"content": `<style>.jru-d8bze {
+  fill: currentColor;
+  d: path("M2 16C2 14.3431 3.3431 13 5 13L8 13C9.6569 13 11 14.3431 11 16L11 19C11 20.6569 9.6569 22 8 22L5 22C3.3431 22 2 20.6569 2 19L2 16ZM2 5C2 3.3431 3.3431 2 5 2L8 2C9.6569 2 11 3.3431 11 5L11 8C11 9.6569 9.6569 11 8 11L5 11C3.3431 11 2 9.6569 2 8L2 5ZM13 5C13 3.3431 14.3431 2 16 2L19 2C20.6569 2 22 3.3431 22 5L22 8C22 9.6569 20.6569 11 19 11L16 11C14.3431 11 13 9.6569 13 8L13 5Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.yxri0vbpx {
+  d: path("M14 17.5L16.3333 20L21 15");
+}
+</style><g class="nrj6p8qat"><path class="jru-d8bze"/><path class="yxri0vbpx"/></g>`,
 		"fallback": "keyline-icons:grid-squares-check-fill",
 	});
 }

@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/l/lwaj0vjwi.css';
-import '../../css/i/i5lvicvhn.css';
-import '../../css/x/xw4_qbbkq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,29 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="lwaj0vjwi"/><path class="i5lvicvhn"/><path class="xw4_qbbkq"/></g>`,
+		"content": `<style>.i5lvicvhn {
+  d: path("M6 3L18 3C19.6569 3 21 4.3431 21 6L21 18C21 19.6569 19.6569 21 18 21L6 21C4.3431 21 3 19.6569 3 18L3 6C3 4.3431 4.3431 3 6 3Z");
+}
+
+.lwaj0vjwi {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.xw4_qbbkq {
+  d: path("M16 12H8.30068M11.8937 8L8.15034 11.6464C7.94989 11.8417 7.94989 12.1583 8.15034 12.3536L11.8937 16");
+}
+</style><g class="nrj6p8qat"><path class="lwaj0vjwi"/><path class="i5lvicvhn"/><path class="xw4_qbbkq"/></g>`,
 		"fallback": "keyline-icons:square-arrow-left-two-tone",
 	});
 }

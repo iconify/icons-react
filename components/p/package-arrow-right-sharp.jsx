@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zsf1w7y6h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zsf1w7y6h"/>`,
+		"content": `<style>.zsf1w7y6h {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M2 6.8477L12 12M12 12L22 6.8477M7 4.4239L17 9.4239M12 12L12 22L2 17.1523L2 6.8477L12 2L22 6.8477L22 13M15 19L22 19M18.7071 15.7071L22 19L18.7071 22.2929");
+}
+</style><path class="zsf1w7y6h"/>`,
 		"fallback": "keyline-icons:package-arrow-right-sharp",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/x/x1f6uobqa.css';
-import '../../css/t/tvgeq3bie.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="x1f6uobqa"/><path class="tvgeq3bie"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.tvgeq3bie {
+  d: path("M9 9L9 12M15 9L15 12M8.7071 14.7071L9 15C10 16 11 16.5 12 16.5C13 16.5 14 16 15 15L15.2929 14.7071M19 1L19 9M15 5L23 5");
+}
+
+.x1f6uobqa {
+  stroke-opacity: 0.4;
+  d: path("M22 11L22 12C22 17.5228 17.5228 22 12 22C6.4772 22 2 17.5228 2 12C2 6.4772 6.4772 2 12 2L13 2");
+}
+</style><g class="gp_8x1bzb"><path class="x1f6uobqa"/><path class="tvgeq3bie"/></g>`,
 		"fallback": "keyline-icons:face-smile-plus-sharp-two-tone",
 	});
 }

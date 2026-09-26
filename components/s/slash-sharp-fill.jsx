@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bsqfb5o5r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bsqfb5o5r"/>`,
+		"content": `<style>.bsqfb5o5r {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M1.7071 22.2929L22.2929 1.7071");
+}
+</style><path class="bsqfb5o5r"/>`,
 		"fallback": "keyline-icons:slash-sharp-fill",
 	});
 }

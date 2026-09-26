@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/thll_7t1t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="thll_7t1t"/>`,
+		"content": `<style>.thll_7t1t {
+  fill: currentColor;
+  d: path("M9.7234 19.8057L5.4389 21.8985C4.8104 22.2055 4.0689 21.7889 4.0043 21.0924L3.6081 16.825C1.9807 15.2413 1 13.081 1 11C1 6.1011 6.1264 2 12 2C17.8736 2 23 6.1011 23 11C23 15.8989 17.8736 20 12 20C11.2503 20 10.4661 19.9328 9.7234 19.8057ZM8 12L16 12L16 10L8 10L8 12Z");
+}
+</style><path class="thll_7t1t"/>`,
 		"fallback": "keyline-icons:message-minus-sharp-fill",
 	});
 }

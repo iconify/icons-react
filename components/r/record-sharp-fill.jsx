@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/getdngoom.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="getdngoom"/>`,
+		"content": `<style>.getdngoom {
+  fill: currentColor;
+  d: path("M21 12C21 16.8325 16.8325 21 12 21C7.1675 21 3 16.8325 3 12C3 7.1675 7.1675 3 12 3C16.8325 3 21 7.1675 21 12Z");
+}
+</style><path class="getdngoom"/>`,
 		"fallback": "keyline-icons:record-sharp-fill",
 	});
 }

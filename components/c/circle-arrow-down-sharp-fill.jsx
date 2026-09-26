@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ohm9ldbqi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ohm9ldbqi"/>`,
+		"content": `<style>.ohm9ldbqi {
+  fill: currentColor;
+  d: path("M12 1C17.937 1 23 6.0629 23 12C23 17.937 17.937 23 12 23C6.0629 23 1 17.937 1 12C1 6.0629 6.0629 1 12 1ZM11 7L11 13.7529L8.423 11.1061L6.9894 12.5016L11.2836 16.9111C11.6762 17.3141 12.3238 17.3141 12.7164 16.9111L17.0112 12.5017L15.5776 11.1062L13 13.7529L13 7L11 7Z");
+}
+</style><path class="ohm9ldbqi"/>`,
 		"fallback": "keyline-icons:circle-arrow-down-sharp-fill",
 	});
 }

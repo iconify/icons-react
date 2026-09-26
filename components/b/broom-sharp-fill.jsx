@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/x/x2fddvvya.css';
-import '../../css/n/nm633saev.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="x2fddvvya"/><path class="nm633saev"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.nm633saev {
+  d: path("M11.5304 13.5362C10.1768 14.466 6.5597 16.1295 2.9198 15.3456C5.7967 18.8355 12.1346 24.7603 14.4719 20.5399C15.086 19.4704 16.2577 17.1141 16.0316 16.2453ZM11.5304 13.5362C11.9756 12.2895 13.4622 10.069 15.8469 11.1603M16.0316 16.2453C16.8369 15.0561 17.9275 12.3742 15.8469 11.1603M15.8469 11.1603L21.2053 1.4845");
+}
+
+.x2fddvvya {
+  fill: currentColor;
+  d: path("M11.5304 13.5362C10.1768 14.466 6.5597 16.1295 2.9198 15.3456C5.7967 18.8355 12.1346 24.7603 14.4719 20.5399C15.086 19.4704 16.2577 17.1141 16.0316 16.2453Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="x2fddvvya"/><path class="nm633saev"/></g>`,
 		"fallback": "keyline-icons:broom-sharp-fill",
 	});
 }

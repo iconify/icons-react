@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wfyfzv5at.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wfyfzv5at"/>`,
+		"content": `<style>.wfyfzv5at {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M6.7071 6.7071L17.2929 17.2929M17.2929 6.7071L6.7071 17.2929");
+}
+</style><path class="wfyfzv5at"/>`,
 		"fallback": "keyline-icons:x-sharp-two-tone",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tbb1b55bn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tbb1b55bn"/>`,
+		"content": `<style>.tbb1b55bn {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M12 21L3 21L3 3L21 3L21 12M14.7071 17.7071L17 20L21.2929 15.7071");
+}
+</style><path class="tbb1b55bn"/>`,
 		"fallback": "keyline-icons:app-check-sharp",
 	});
 }

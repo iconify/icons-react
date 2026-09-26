@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/v/v8hgvi38z.css';
-import '../../css/e/enowilucq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="v8hgvi38z"/><path class="enowilucq"/></g>`,
+		"content": `<style>.cpdzpubqz {
+  stroke-opacity: 0.4;
+  d: path("M3 3L21 3L21 21L3 21L3 3ZM9 3L9 21");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.zsuk8rbci {
+  d: path("M16.2929 8.7071L13 12L16.2929 15.2929");
+}
+</style><g class="gp_8x1bzb"><path class="cpdzpubqz"/><path class="zsuk8rbci"/></g>`,
 		"fallback": "keyline-icons:panel-left-close-sharp-duotone",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ono7gqb3i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ono7gqb3i"/>`,
+		"content": `<style>.ono7gqb3i {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 3L21 3L21 21L3 21L3 3ZM9 3L9 21M15 3L15 21M3 12L21 12");
+}
+</style><path class="ono7gqb3i"/>`,
 		"fallback": "keyline-icons:grid-3x2-sharp",
 	});
 }

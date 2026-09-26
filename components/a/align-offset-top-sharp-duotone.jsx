@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/e/eym-d9b2y.css';
-import '../../css/n/n7sq4abaq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="eym-d9b2y"/><path class="n7sq4abaq"/></g>`,
+		"content": `<style>.eym-d9b2y {
+  stroke-opacity: 0.4;
+  d: path("M1 4L15 4M3 12L23 12");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.n7sq4abaq {
+  d: path("M15 20L23 20");
+}
+</style><g class="gp_8x1bzb"><path class="eym-d9b2y"/><path class="n7sq4abaq"/></g>`,
 		"fallback": "keyline-icons:align-offset-top-sharp-duotone",
 	});
 }

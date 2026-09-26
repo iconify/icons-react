@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pdl7h5bjg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pdl7h5bjg"/>`,
+		"content": `<style>.pdl7h5bjg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 1L4 9M12 1L12 21M20 9L20 23");
+}
+</style><path class="pdl7h5bjg"/>`,
 		"fallback": "keyline-icons:align-offset-left-sharp",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/ww4zlcbwz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ww4zlcbwz"/>`,
+		"content": `<style>.ww4zlcbwz {
+  fill: currentColor;
+  d: path("M5 2L18 2C18.5523 2 19 2.4477 19 3L19 6L21 6C21.5523 6 22 6.4477 22 7L22 21C22 21.5523 21.5523 22 21 22L3 22C2.4477 22 2 21.5523 2 21L2 5C2 3.3431 3.3431 2 5 2ZM5 4C4.4477 4 4 4.4477 4 5C4 5.5523 4.4477 6 5 6L17 6L17 4L5 4ZM16 12L16 16L20 16L20 12L16 12Z");
+}
+</style><path class="ww4zlcbwz"/>`,
 		"fallback": "keyline-icons:wallet-sharp-fill",
 	});
 }

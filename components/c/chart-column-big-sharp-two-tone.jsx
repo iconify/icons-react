@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/b/beuh13b9y.css';
-import '../../css/p/p53xcyb3q.css';
-import '../../css/o/owi5yabmz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,29 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="beuh13b9y"/><path class="p53xcyb3q"/><path class="owi5yabmz"/></g>`,
+		"content": `<style>.beuh13b9y {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M8 7L12 7C12.5523 7 13 7.4477 13 8L13 17C13 17.5523 12.5523 18 12 18L8 18C7.4477 18 7 17.5523 7 17L7 8C7 7.4477 7.4477 7 8 7ZM16 4L20 4C20.5523 4 21 4.4477 21 5L21 17C21 17.5523 20.5523 18 20 18L16 18C15.4477 18 15 17.5523 15 17L15 5C15 4.4477 15.4477 4 16 4Z");
+  stroke: none;
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.owi5yabmz {
+  d: path("M8 8L12 8L12 17L8 17L8 8ZM16 5L20 5L20 17L16 17L16 5Z");
+}
+
+.p53xcyb3q {
+  stroke-opacity: 0.4;
+  d: path("M3 2L3 21L22 21");
+}
+</style><g class="gp_8x1bzb"><path class="beuh13b9y"/><path class="p53xcyb3q"/><path class="owi5yabmz"/></g>`,
 		"fallback": "keyline-icons:chart-column-big-sharp-two-tone",
 	});
 }

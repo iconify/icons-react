@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/s/s52jt_b2a.css';
-import '../../css/e/ez46996cd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,25 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="s52jt_b2a"/><path class="ez46996cd"/></g>`,
+		"content": `<style>.ez46996cd {
+  d: path("M20.5 12L22 12M18.0104 18.0104L19.0711 19.0711M12 20.5L12 22M5.9896 18.0104L4.9289 19.0711M3.5 12L2 12M5.9896 5.9896L4.9289 4.9289M12 3.5L12 2M18.0104 5.9896L19.0711 4.9289");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.s52jt_b2a {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M17.5 12C17.5 15.0377 15.0377 17.5 12 17.5C8.9624 17.5 6.5 15.0377 6.5 12C6.5 8.9624 8.9624 6.5 12 6.5C15.0377 6.5 17.5 8.9624 17.5 12Z");
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="s52jt_b2a"/><path class="ez46996cd"/></g>`,
 		"fallback": "keyline-icons:sun-duotone",
 	});
 }

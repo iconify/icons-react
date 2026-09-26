@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l2w919zsd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l2w919zsd"/>`,
+		"content": `<style>.l2w919zsd {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 6C3 4.34315 4.34315 3 6 3M10.5 3H13.5M21 7V6.00026C21 4.34341 19.6569 3 18 3M7 21H6C4.34315 21 3 19.6569 3 18M3 10.5V13.5M11.5 21H20.5C20.7761 21 21 20.7761 21 20.5V11.5M11.5 11.5L20.5 20.5");
+}
+</style><path class="l2w919zsd"/>`,
 		"fallback": "keyline-icons:arrow-down-right-dashed-panel",
 	});
 }

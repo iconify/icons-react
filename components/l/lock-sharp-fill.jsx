@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/w/w3aaq-w9x.css';
-import '../../css/d/d-2r4nbvo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="w3aaq-w9x"/><path clip-rule="evenodd" class="d-2r4nbvo"/></g>`,
+		"content": `<style>.d-2r4nbvo {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M3 10C3 9.4477 3.4477 9 4 9L20 9C20.5523 9 21 9.4477 21 10L21 22C21 22.5523 20.5523 23 20 23L4 23C3.4477 23 3 22.5523 3 22L3 10ZM12 14.5C11.1716 14.5 10.5 15.1716 10.5 16C10.5 16.8284 11.1716 17.5 12 17.5C12.8284 17.5 13.5 16.8284 13.5 16C13.5 15.1716 12.8284 14.5 12 14.5Z");
+  stroke: none;
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.w3aaq-w9x {
+  d: path("M7.5 11L7.5 6.5C7.5 4.0147 9.5147 2 12 2C14.4853 2 16.5 4.0147 16.5 6.5L16.5 11");
+}
+</style><g class="gp_8x1bzb"><path class="w3aaq-w9x"/><path clip-rule="evenodd" class="d-2r4nbvo"/></g>`,
 		"fallback": "keyline-icons:lock-sharp-fill",
 	});
 }

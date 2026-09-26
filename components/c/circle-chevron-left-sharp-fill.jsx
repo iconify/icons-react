@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fxd2nobky.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fxd2nobky"/>`,
+		"content": `<style>.fxd2nobky {
+  fill: currentColor;
+  d: path("M12 1C17.937 1 23 6.0629 23 12C23 17.937 17.937 23 12 23C6.0629 23 1 17.937 1 12C1 6.0629 6.0629 1 12 1ZM13.5858 7L9.2929 11.2929C8.9024 11.6834 8.9024 12.3166 9.2929 12.7071L13.5858 17L15 15.5858L11.4142 12L15 8.4142L13.5858 7Z");
+}
+</style><path class="fxd2nobky"/>`,
 		"fallback": "keyline-icons:circle-chevron-left-sharp-fill",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w56k6_btw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w56k6_btw"/>`,
+		"content": `<style>.w56k6_btw {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3.7071 15.7071L10 22L16.2929 15.7071M10 22L10 2L21 2");
+}
+</style><path class="w56k6_btw"/>`,
 		"fallback": "keyline-icons:corner-left-down-sharp-fill",
 	});
 }

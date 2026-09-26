@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cvwva1bbc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="cvwva1bbc"/>`,
+		"content": `<style>.cvwva1bbc {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M22 3L22 21C22 21.5523 21.5523 22 21 22L3 22C2.4477 22 2 21.5523 2 21L2 3C2 2.4477 2.4477 2 3 2L21 2C21.5523 2 22 2.4477 22 3ZM8 8L4 8L4 10L8 10L8 14L4 14L4 16L8 16L8 20L10 20L10 16L14 16L14 20L16 20L16 16L20 16L20 14L16 14L16 10L20 10L20 8L16 8L16 4L14 4L14 8L10 8L10 4L8 4ZM10 10L10 14L14 14L14 10Z");
+}
+</style><path clip-rule="evenodd" class="cvwva1bbc"/>`,
 		"fallback": "keyline-icons:grid-3x3-sharp-fill",
 	});
 }

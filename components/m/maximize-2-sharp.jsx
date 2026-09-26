@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v_aablbdu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v_aablbdu"/>`,
+		"content": `<style>.v_aablbdu {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 10L3 3L10 3M9.2929 9.2929L3.1757 3.1757M21 10L21 3L14 3M14.7071 9.2929L20.8243 3.1757M21 14L21 21L14 21M14.7071 14.7071L20.8243 20.8243M3 14L3 21L10 21M9.2929 14.7071L3.1757 20.8243");
+}
+</style><path class="v_aablbdu"/>`,
 		"fallback": "keyline-icons:maximize-2-sharp",
 	});
 }

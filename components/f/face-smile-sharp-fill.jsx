@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yevwt22qo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yevwt22qo"/>`,
+		"content": `<style>.yevwt22qo {
+  fill: currentColor;
+  d: path("M23 12C23 18.0751 18.0751 23 12 23C5.9249 23 1 18.0751 1 12C1 5.9249 5.9249 1 12 1C18.0751 1 23 5.9249 23 12ZM10 9L8 9L8 12L10 12L10 9ZM16 9L14 9L14 12L16 12L16 9ZM8 15.4142L8.2929 15.7071C9.4019 16.8161 10.6412 17.5 12 17.5C13.3588 17.5 14.5981 16.8161 15.7071 15.7071L16 15.4142L14.5858 14L14.2929 14.2929C13.4019 15.1839 12.6412 15.5 12 15.5C11.3588 15.5 10.5981 15.1839 9.7071 14.2929L9.4142 14Z");
+}
+</style><path class="yevwt22qo"/>`,
 		"fallback": "keyline-icons:face-smile-sharp-fill",
 	});
 }

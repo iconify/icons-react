@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hd6xuok-u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hd6xuok-u"/>`,
+		"content": `<style>.hd6xuok-u {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 3L21 3L21 17L7 17L3 21L3 3ZM12 6L12 14M8 10L16 10");
+}
+</style><path class="hd6xuok-u"/>`,
 		"fallback": "keyline-icons:message-square-plus-sharp",
 	});
 }

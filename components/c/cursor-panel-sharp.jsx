@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w3178pr7m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w3178pr7m"/>`,
+		"content": `<style>.w3178pr7m {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M10 20L3 20L3 3L20 3L20 10M10.5489 10.528L14.1426 21L16.6527 16.4663L21 14.3L10.5489 10.528Z");
+}
+</style><path class="w3178pr7m"/>`,
 		"fallback": "keyline-icons:cursor-panel-sharp",
 	});
 }

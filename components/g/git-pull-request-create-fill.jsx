@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/c/cp7wuibic.css';
-import '../../css/x/xs7teru1d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="cp7wuibic"/><path class="xs7teru1d"/></g>`,
+		"content": `<style>.cp7wuibic {
+  d: path("M6 21V9M18 12V10C18 7.79086 16.2091 6 14 6H13M18.5 16V21M16 18.5H21");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.xs7teru1d {
+  fill: currentColor;
+  d: path("M10 6C10 8.20914 8.20914 10 6 10C3.79086 10 2 8.20914 2 6C2 3.79086 3.79086 2 6 2C8.20914 2 10 3.79086 10 6Z");
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="cp7wuibic"/><path class="xs7teru1d"/></g>`,
 		"fallback": "keyline-icons:git-pull-request-create-fill",
 	});
 }

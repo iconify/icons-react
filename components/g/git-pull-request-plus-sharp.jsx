@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a0qbacboq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a0qbacboq"/>`,
+		"content": `<style>.a0qbacboq {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M6 15L6 2M18 14L18 22M14 18L22 18M18 12L18 9M9 18L12 18M6 15C7.6569 15 9 16.3431 9 18C9 19.6569 7.6569 21 6 21C4.3431 21 3 19.6569 3 18C3 16.3431 4.3431 15 6 15ZM18 3C19.6569 3 21 4.3431 21 6C21 7.6569 19.6569 9 18 9C16.3431 9 15 7.6569 15 6C15 4.3431 16.3431 3 18 3Z");
+}
+</style><path class="a0qbacboq"/>`,
 		"fallback": "keyline-icons:git-pull-request-plus-sharp",
 	});
 }

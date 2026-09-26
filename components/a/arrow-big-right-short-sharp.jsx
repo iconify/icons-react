@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qa4gzdbgl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qa4gzdbgl"/>`,
+		"content": `<style>.qa4gzdbgl {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M21 12L11 22L11 17L3 17L3 7L11 7L11 2Z");
+}
+</style><path class="qa4gzdbgl"/>`,
 		"fallback": "keyline-icons:arrow-big-right-short-sharp",
 	});
 }

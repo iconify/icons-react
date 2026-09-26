@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/txj5poo9f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="txj5poo9f"/>`,
+		"content": `<style>.txj5poo9f {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M8.2929 3.7071L2 10L8.2929 16.2929M2 10L22 10L22 21");
+}
+</style><path class="txj5poo9f"/>`,
 		"fallback": "keyline-icons:reply-sharp-duotone",
 	});
 }

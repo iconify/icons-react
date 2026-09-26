@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qisoki36y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qisoki36y"/>`,
+		"content": `<style>.qisoki36y {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M2 4L22 4L22 12L2 12L2 4ZM1 16L23 16M1 20L18 20");
+}
+</style><path class="qisoki36y"/>`,
 		"fallback": "keyline-icons:queue-sharp",
 	});
 }

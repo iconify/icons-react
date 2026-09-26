@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cz0gkpb4y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cz0gkpb4y"/>`,
+		"content": `<style>.cz0gkpb4y {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M5 5L19 5L19 19L5 19L5 5Z");
+}
+</style><path class="cz0gkpb4y"/>`,
 		"fallback": "keyline-icons:stop-sharp-duotone",
 	});
 }

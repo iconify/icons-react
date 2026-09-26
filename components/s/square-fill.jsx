@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y1d7gwudk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y1d7gwudk"/>`,
+		"content": `<style>.y1d7gwudk {
+  fill: currentColor;
+  d: path("M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6Z");
+}
+</style><path class="y1d7gwudk"/>`,
 		"fallback": "keyline-icons:square-fill",
 	});
 }

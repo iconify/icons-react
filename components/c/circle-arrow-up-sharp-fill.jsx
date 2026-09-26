@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l-6ptdbrs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l-6ptdbrs"/>`,
+		"content": `<style>.l-6ptdbrs {
+  fill: currentColor;
+  d: path("M12 1C17.937 1 23 6.0629 23 12C23 17.937 17.937 23 12 23C6.0629 23 1 17.937 1 12C1 6.0629 6.0629 1 12 1ZM11.355 7.0932L10.9297 7.4521L6.9884 11.4984L8.422 12.8939L11 10.2461L11 17L13 17L13 10.2461L15.5764 12.8941L17.01 11.4986L13.0703 7.4521L12.645 7.0932C12.2725 6.7788 11.7275 6.7788 11.355 7.0932Z");
+}
+</style><path class="l-6ptdbrs"/>`,
 		"fallback": "keyline-icons:circle-arrow-up-sharp-fill",
 	});
 }

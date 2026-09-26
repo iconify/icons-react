@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cagsbz8vg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="cagsbz8vg"/>`,
+		"content": `<style>.cagsbz8vg {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M2 1L12 1C12.279 1 12.5453 1.1166 12.7346 1.3216L22.7346 12.15C23.0989 12.5443 23.0867 13.1559 22.7071 13.5355L13.5355 22.7071C13.1559 23.0867 12.5443 23.0989 12.15 22.7346L1.3216 12.7346C1.1166 12.5453 1 12.279 1 12L1 2C1 1.4477 1.4477 1 2 1ZM9.5 8C9.5 8.8284 8.8284 9.5 8 9.5C7.1716 9.5 6.5 8.8284 6.5 8C6.5 7.1716 7.1716 6.5 8 6.5C8.8284 6.5 9.5 7.1716 9.5 8Z");
+}
+</style><path clip-rule="evenodd" class="cagsbz8vg"/>`,
 		"fallback": "keyline-icons:tag-sharp-fill",
 	});
 }

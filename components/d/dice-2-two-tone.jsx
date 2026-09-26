@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/l/lwaj0vjwi.css';
-import '../../css/c/cc50cvs0o.css';
-import '../../css/x/xysvu_bre.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,31 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="lwaj0vjwi"/><path class="cc50cvs0o"/><path class="xysvu_bre"/></g>`,
+		"content": `<style>.cc50cvs0o {
+  d: path("M6 3H18C19.6569 3 21 4.34315 21 6V18C21 19.6569 19.6569 21 18 21H6C4.34315 21 3 19.6569 3 18V6C3 4.34315 4.34315 3 6 3Z");
+}
+
+.lwaj0vjwi {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M2 6C2 3.79086 3.79086 2 6 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V6Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.xysvu_bre {
+  fill: currentColor;
+  d: path("M7.25 5.75C8.0784 5.75 8.75 6.4216 8.75 7.25C8.75 8.0784 8.0784 8.75 7.25 8.75C6.4216 8.75 5.75 8.0784 5.75 7.25C5.75 6.4216 6.4216 5.75 7.25 5.75ZM16.75 15.25C17.5784 15.25 18.25 15.9216 18.25 16.75C18.25 17.5784 17.5784 18.25 16.75 18.25C15.9216 18.25 15.25 17.5784 15.25 16.75C15.25 15.9216 15.9216 15.25 16.75 15.25Z");
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="lwaj0vjwi"/><path class="cc50cvs0o"/><path class="xysvu_bre"/></g>`,
 		"fallback": "keyline-icons:dice-2-two-tone",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/e/e9ewmybae.css';
-import '../../css/c/cgrsx084z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="e9ewmybae"/><path class="cgrsx084z"/></g>`,
+		"content": `<style>.cgrsx084z {
+  d: path("M12 5L12 12L9.2113 16.8301");
+}
+
+.e9ewmybae {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M12 1C17.937 1 23 6.0629 23 12C23 17.937 17.937 23 12 23C6.0629 23 1 17.937 1 12C1 6.0629 6.0629 1 12 1Z");
+  stroke: none;
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="gp_8x1bzb"><path class="e9ewmybae"/><path class="cgrsx084z"/></g>`,
 		"fallback": "keyline-icons:clock-7-sharp-duotone",
 	});
 }

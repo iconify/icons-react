@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/j/jd3_-d4_j.css';
-import '../../css/m/m4q1s3bjn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="jd3_-d4_j"/><path class="m4q1s3bjn"/></g>`,
+		"content": `<style>.jd3_-d4_j {
+  d: path("M17.8477 17.8477C16.553 19.8154 14.3555 21 12 21C8.134 21 5 17.866 5 14C5 12.4853 5.4912 11.0116 6.4 9.8L7.8571 7.8571M2 2L22 22");
+}
+
+.m4q1s3bjn {
+  stroke-opacity: 0.4;
+  d: path("M10.2815 4.6247L11.2 3.4C11.3889 3.1482 11.6852 3 12 3C12.3148 3 12.6111 3.1482 12.8 3.4L17.6 9.8C18.3672 10.8229 18.8396 12.0365 18.9658 13.309");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="nrj6p8qat"><path class="jd3_-d4_j"/><path class="m4q1s3bjn"/></g>`,
 		"fallback": "keyline-icons:droplet-off-two-tone",
 	});
 }

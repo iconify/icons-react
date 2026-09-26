@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yqg0u_ben.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yqg0u_ben"/>`,
+		"content": `<style>.yqg0u_ben {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M9.5 3L14.5 3M21 9.5L21 14.5M3 8L3 3L7 3M17 3L21 3L21 7M16 21L21.0001 21L21 17M3.3243 15.5L15 15.5M9.3243 9.7028L3 15.5L9.2868 21.2628");
+}
+</style><path class="yqg0u_ben"/>`,
 		"fallback": "keyline-icons:arrow-left-dashed-panel-sharp",
 	});
 }

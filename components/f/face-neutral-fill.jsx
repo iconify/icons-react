@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l6_2om8kf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l6_2om8kf"/>`,
+		"content": `<style>.l6_2om8kf {
+  fill: currentColor;
+  d: path("M23 12C23 18.0751 18.0751 23 12 23C5.9249 23 1 18.0751 1 12C1 5.9249 5.9249 1 12 1C18.0751 1 23 5.9249 23 12ZM10 10C10 9.4477 9.5523 9 9 9C8.4477 9 8 9.4477 8 10L8 11C8 11.5523 8.4477 12 9 12C9.5523 12 10 11.5523 10 11L10 10ZM16 10C16 9.4477 15.5523 9 15 9C14.4477 9 14 9.4477 14 10L14 11C14 11.5523 14.4477 12 15 12C15.5523 12 16 11.5523 16 11L16 10ZM9 15C8.4477 15 8 15.4477 8 16C8 16.5523 8.4477 17 9 17L15 17C15.5523 17 16 16.5523 16 16C16 15.4477 15.5523 15 15 15L9 15Z");
+}
+</style><path class="l6_2om8kf"/>`,
 		"fallback": "keyline-icons:face-neutral-fill",
 	});
 }

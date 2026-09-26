@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/e/e7-h1bcnv.css';
-import '../../css/k/k63snkbau.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="e7-h1bcnv"/><path class="k63snkbau"/></g>`,
+		"content": `<style>.e7-h1bcnv {
+  stroke-opacity: 0.4;
+  d: path("M7.5 19L7.5 18C7.5 15.5147 9.5147 13.5 12 13.5C14.4853 13.5 16.5 15.5147 16.5 18L16.5 19M1 18L4.5 18M19.5 18L23 18M4.2218 10.2218L6.6967 12.6967M19.7782 10.2218L17.3033 12.6967M1 22L23 22");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.k63snkbau {
+  d: path("M12 1L12 9M8.2071 5.2071L12 9L15.7929 5.2071");
+}
+</style><g class="gp_8x1bzb"><path class="e7-h1bcnv"/><path class="k63snkbau"/></g>`,
 		"fallback": "keyline-icons:sunset-sharp-duotone",
 	});
 }

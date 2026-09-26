@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/y/yw3lpkbij.css';
-import '../../css/r/rpylmybji.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,25 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="yw3lpkbij"/><path class="rpylmybji"/></g>`,
+		"content": `<style>.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.rpylmybji {
+  d: path("M13.333333333333334 8H16M8 12H16M10.666666666666668 16H16");
+}
+
+.yw3lpkbij {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12Z");
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="yw3lpkbij"/><path class="rpylmybji"/></g>`,
 		"fallback": "keyline-icons:circle-bar-chart-horizontal-end-duotone",
 	});
 }

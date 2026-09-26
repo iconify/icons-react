@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z69fb4bck.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z69fb4bck"/>`,
+		"content": `<style>.z69fb4bck {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M6 2L6 15C6.1667 12 8.2 6 15 6M6 21C7.6569 21 9 19.6569 9 18C9 16.3431 7.6569 15 6 15C4.3431 15 3 16.3431 3 18C3 19.6569 4.3431 21 6 21ZM18 9C19.6569 9 21 7.6569 21 6C21 4.3431 19.6569 3 18 3C16.3431 3 15 4.3431 15 6C15 7.6569 16.3431 9 18 9Z");
+}
+</style><path class="z69fb4bck"/>`,
 		"fallback": "keyline-icons:git-merge-sharp",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/ceduwrv8w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ceduwrv8w"/>`,
+		"content": `<style>.ceduwrv8w {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 16L12 4L20 16L4 16ZM3 20L21 20");
+}
+</style><path class="ceduwrv8w"/>`,
 		"fallback": "keyline-icons:eject-sharp-duotone",
 	});
 }

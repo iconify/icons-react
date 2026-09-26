@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/g/g2u3clbzs.css';
-import '../../css/n/nx_v9sbbg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,25 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="g2u3clbzs"/><path class="nx_v9sbbg"/></g>`,
+		"content": `<style>.g2u3clbzs {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M12 1C18.0753 1 23 5.9247 23 12C23 18.0753 18.0753 23 12 23C5.9247 23 1 18.0753 1 12C1 5.9247 5.9247 1 12 1Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.nx_v9sbbg {
+  d: path("M10 18L10 8C10 6.8954 10.8954 6 12 6C13.1046 6 14 6.8954 14 8C14 8.3511 13.9076 8.696 13.7321 9M8.5 14L14 14M8.5 18L15.5 18");
+}
+</style><g class="nrj6p8qat"><path class="g2u3clbzs"/><path class="nx_v9sbbg"/></g>`,
 		"fallback": "keyline-icons:circle-pound-sterling-duotone",
 	});
 }

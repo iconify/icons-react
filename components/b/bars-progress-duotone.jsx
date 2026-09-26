@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/r/ra6655bzl.css';
-import '../../css/b/bk5h7stgq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ra6655bzl"/><path class="bk5h7stgq"/></g>`,
+		"content": `<style>.bk5h7stgq {
+  d: path("M4 2L16 2L16 10L4 10C2.8954 10 2 9.1046 2 8L2 4C2 2.8954 2.8954 2 4 2ZM4 14L11 14L11 22L4 22C2.8954 22 2 21.1046 2 20L2 16C2 14.8954 2.8954 14 4 14Z");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.ra6655bzl {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M4 2L20 2C21.1046 2 22 2.8954 22 4L22 8C22 9.1046 21.1046 10 20 10L4 10C2.8954 10 2 9.1046 2 8L2 4C2 2.8954 2.8954 2 4 2ZM4 14L20 14C21.1046 14 22 14.8954 22 16L22 20C22 21.1046 21.1046 22 20 22L4 22C2.8954 22 2 21.1046 2 20L2 16C2 14.8954 2.8954 14 4 14Z");
+}
+</style><g class="cuyn6tgcc"><path class="ra6655bzl"/><path class="bk5h7stgq"/></g>`,
 		"fallback": "keyline-icons:bars-progress-duotone",
 	});
 }

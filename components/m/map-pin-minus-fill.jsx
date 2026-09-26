@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/b/bmi8an0_o.css';
-import '../../css/u/ugn31mube.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,25 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path clip-rule="evenodd" class="bmi8an0_o"/><path class="ugn31mube"/></g>`,
+		"content": `<style>.bmi8an0_o {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M19.714213 12.25C19.600213 12.691518 19.201965 13 18.745967 13L15 13C13.343146 13 12 14.343146 12 16L12 22C12 22.552285 11.552285 23 11 23C10.715438 23 10.444352 22.878767 10.254644 22.666667L4.291796 16C2.815931 14.349933 2 12.213797 2 10C2 5.029437 6.029437 1 11 1C15.970563 1 20 5.029437 20 10C20 10.759051 19.903975 11.515052 19.714213 12.25ZM14 10C14 11.6569 12.6569 13 11 13C9.3431 13 8 11.6569 8 10C8 8.3431 9.3431 7 11 7C12.6569 7 14 8.3431 14 10Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.ugn31mube {
+  d: path("M15 19H21");
+}
+</style><g class="nrj6p8qat"><path clip-rule="evenodd" class="bmi8an0_o"/><path class="ugn31mube"/></g>`,
 		"fallback": "keyline-icons:map-pin-minus-fill",
 	});
 }

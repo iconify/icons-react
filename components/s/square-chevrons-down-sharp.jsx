@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/x/x-_5ilohg.css';
-import '../../css/y/yesbl72nt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,21 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="x-_5ilohg"/><path class="yesbl72nt"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.x-_5ilohg {
+  d: path("M3 3L21 3L21 21L3 21L3 3Z");
+}
+
+.yesbl72nt {
+  d: path("M8.2071 6.9571L12 10.75L15.7929 6.9571M8.2071 12.9571L12 16.75L15.7929 12.9571");
+}
+</style><g class="gp_8x1bzb"><path class="x-_5ilohg"/><path class="yesbl72nt"/></g>`,
 		"fallback": "keyline-icons:square-chevrons-down-sharp",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zd4nsybqy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zd4nsybqy"/>`,
+		"content": `<style>.zd4nsybqy {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M14 4L6 4C3.7909 4 2 5.7909 2 8C2 10.2091 3.7909 12 6 12L18 12C20.2091 12 22 13.7909 22 16C22 18.2091 20.2091 20 18 20L10 20M14 2L20 2L20 6L14 6L14 2ZM4 18L10 18L10 22L4 22L4 18ZM20 4L23 4M4 20L1 20");
+}
+</style><path class="zd4nsybqy"/>`,
 		"fallback": "keyline-icons:cable-sharp",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s1vs7vpjb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s1vs7vpjb"/>`,
+		"content": `<style>.s1vs7vpjb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M18 12L6 19L6 5L18 12Z");
+}
+</style><path class="s1vs7vpjb"/>`,
 		"fallback": "keyline-icons:caret-right-sharp-duotone",
 	});
 }

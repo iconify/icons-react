@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/ta6dfwbhi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ta6dfwbhi"/>`,
+		"content": `<style>.ta6dfwbhi {
+  fill: currentColor;
+  d: path("M23 12C23 18.0751 18.0751 23 12 23C5.9249 23 1 18.0751 1 12C1 5.9249 5.9249 1 12 1C18.0751 1 23 5.9249 23 12ZM8.4142 8L7 9.4142L9.5858 12L11 10.5858L8.4142 8ZM17 9.4142L15.5858 8L13 10.5858L14.4142 12L17 9.4142ZM9.4142 18L9.7071 17.7071C10.5981 16.8161 11.3588 16.5 12 16.5C12.6412 16.5 13.4019 16.8161 14.2929 17.7071L14.5858 18L16 16.5858L15.7071 16.2929C14.5981 15.1839 13.3588 14.5 12 14.5C10.6412 14.5 9.4019 15.1839 8.2929 16.2929L8 16.5858Z");
+}
+</style><path class="ta6dfwbhi"/>`,
 		"fallback": "keyline-icons:face-angry-sharp-fill",
 	});
 }

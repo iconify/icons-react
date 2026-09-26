@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ichfh497l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ichfh497l"/>`,
+		"content": `<style>.ichfh497l {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 6C3 4.34315 4.34315 3 6 3M10.5 3H13.5M21 7V6.00026C21 4.34341 19.6569 3 18 3M7 21H6C4.34315 21 3 19.6569 3 18M3 10.5V13.5M10 15.5H20M15 10L20.5979 15.1314C20.8141 15.3296 20.8141 15.6704 20.5979 15.8686L15 21");
+}
+</style><path class="ichfh497l"/>`,
 		"fallback": "keyline-icons:arrow-right-dashed-panel",
 	});
 }

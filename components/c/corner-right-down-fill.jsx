@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a21l97byt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a21l97byt"/>`,
+		"content": `<style>.a21l97byt {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M20 16L14 22L8 16M14 22L14 6C14 3.7909 12.2091 2 10 2L4 2");
+}
+</style><path class="a21l97byt"/>`,
 		"fallback": "keyline-icons:corner-right-down-fill",
 	});
 }

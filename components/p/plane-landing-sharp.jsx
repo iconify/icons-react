@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wv5m0ubjv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wv5m0ubjv"/>`,
+		"content": `<style>.wv5m0ubjv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3.155 11.6855L2.6599 7.3552L4.0754 7.4504L5.8214 10.1889L10.2889 10.6916L9.0027 4L11.9045 4.2652L15.4127 11.2656L18.1491 11.799C20.1301 12.1833 21.5109 14.0093 21.3231 15.9956L5.7735 14.25C4.4163 14.0972 3.329 13.0323 3.155 11.6855ZM1 20L23 20");
+}
+</style><path class="wv5m0ubjv"/>`,
 		"fallback": "keyline-icons:plane-landing-sharp",
 	});
 }

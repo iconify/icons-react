@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tltgrpfit.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tltgrpfit"/>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.sxlo5xbvt {
+  fill: currentColor;
+  d: path("M15 3L21 3L21 21L15 21L15 3Z");
+  stroke: none;
+}
+
+.w8uwnqmmg {
+  d: path("M3 3L21 3L21 21L3 21L3 3ZM15 3L15 21M15 15L3 15");
+}
+</style><g class="gp_8x1bzb"><path class="sxlo5xbvt"/><path class="w8uwnqmmg"/></g>`,
 		"fallback": "keyline-icons:panels-right-bottom-sharp-fill",
 	});
 }

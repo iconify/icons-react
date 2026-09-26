@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i_3-hbgnq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i_3-hbgnq"/>`,
+		"content": `<style>.i_3-hbgnq {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M22 12L14 20L14 16L2 16L2 8L14 8L14 4Z");
+}
+</style><path class="i_3-hbgnq"/>`,
 		"fallback": "keyline-icons:arrow-big-right-sharp-duotone",
 	});
 }

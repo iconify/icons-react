@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/x/xlocvhbhg.css';
-import '../../css/o/oy_qfibdp.css';
-import '../../css/s/s1f4hpnzw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,30 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="xlocvhbhg"/><path class="oy_qfibdp"/><path class="s1f4hpnzw"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.oy_qfibdp {
+  d: path("M2 2L12 2L22 12.8284L12.8284 22L2 12L2 2Z");
+}
+
+.s1f4hpnzw {
+  fill: currentColor;
+  d: path("M9.5 8C9.5 8.8284 8.8284 9.5 8 9.5C7.1716 9.5 6.5 8.8284 6.5 8C6.5 7.1716 7.1716 6.5 8 6.5C8.8284 6.5 9.5 7.1716 9.5 8Z");
+  stroke: none;
+}
+
+.xlocvhbhg {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M2 1L12 1C12.279 1 12.5453 1.1166 12.7346 1.3216L22.7346 12.15C23.0989 12.5443 23.0867 13.1559 22.7071 13.5355L13.5355 22.7071C13.1559 23.0867 12.5443 23.0989 12.15 22.7346L1.3216 12.7346C1.1166 12.5453 1 12.279 1 12L1 2C1 1.4477 1.4477 1 2 1Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="xlocvhbhg"/><path class="oy_qfibdp"/><path class="s1f4hpnzw"/></g>`,
 		"fallback": "keyline-icons:tag-sharp-two-tone",
 	});
 }

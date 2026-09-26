@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f0pyhdc2n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="f0pyhdc2n"/>`,
+		"content": `<style>.f0pyhdc2n {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12C1 5.92487 5.92487 1 12 1ZM13.2842 6.68848C12.6815 5.77038 11.3185 5.77038 10.7158 6.68848L10.6582 6.7832L6.19629 14.7207C5.61288 15.7588 6.38391 16.9998 7.53809 17H16.4619C17.6161 16.9998 18.3871 15.7588 17.8037 14.7207L13.3418 6.7832L13.2842 6.68848Z");
+}
+</style><path clip-rule="evenodd" class="f0pyhdc2n"/>`,
 		"fallback": "keyline-icons:circle-caret-up-fill",
 	});
 }

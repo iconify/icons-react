@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/c/csm16okln.css';
-import '../../css/f/f4dzfmbzp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="csm16okln"/><path class="f4dzfmbzp"/></g>`,
+		"content": `<style>.csm16okln {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M20 10.5C20.5523 10.5 21 10.9477 21 11.5V22C21 22.5523 20.5523 23 20 23H4C3.44772 23 3 22.5523 3 22V18.5C3 17.9477 3.44772 17.5 4 17.5H8V15C8 14.4477 8.44772 14 9 14H13V11.5C13 10.9477 13.4477 10.5 14 10.5H20Z");
+  stroke: none;
+}
+
+.f4dzfmbzp {
+  d: path("M1 22H23M15.7805 3.5968L17.5 2V8");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="gp_8x1bzb"><path class="csm16okln"/><path class="f4dzfmbzp"/></g>`,
 		"fallback": "keyline-icons:podium-1-sharp-duotone",
 	});
 }

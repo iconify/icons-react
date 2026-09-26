@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/seccp3txc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="seccp3txc"/>`,
+		"content": `<style>.seccp3txc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M2 3L22 3M2 9L22 9M2 15L22 15M2 21L22 21");
+}
+</style><path class="seccp3txc"/>`,
 		"fallback": "keyline-icons:align-justify-sharp",
 	});
 }

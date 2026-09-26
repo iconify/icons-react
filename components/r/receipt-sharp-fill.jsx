@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hfii3za8j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="hfii3za8j"/>`,
+		"content": `<style>.hfii3za8j {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M4 1L20 1C20.5523 1 21 1.4477 21 2L21 20C21 20.3788 20.786 20.725 20.4472 20.8944L16.4472 22.8944C16.1657 23.0352 15.8343 23.0352 15.5528 22.8944L12 21.118L8.4472 22.8944C8.1657 23.0352 7.8343 23.0352 7.5528 22.8944L3.5528 20.8944C3.214 20.725 3 20.3788 3 20L3 2C3 1.4477 3.4477 1 4 1ZM7 8L13 8L13 10L7 10L7 8ZM7 12L17 12L17 14L7 14L7 12Z");
+}
+</style><path clip-rule="evenodd" class="hfii3za8j"/>`,
 		"fallback": "keyline-icons:receipt-sharp-fill",
 	});
 }

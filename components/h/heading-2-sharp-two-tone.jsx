@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/o/ouh-gobdj.css';
-import '../../css/l/l219k3blr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="ouh-gobdj"/><path class="l219k3blr"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.l219k3blr {
+  d: path("M17 16L17 15C17 13.8954 17.8954 13 19 13C20.1046 13 21 13.8954 21 15C21 15.6037 20.7273 16.1751 20.258 16.5548L17 20L23 20");
+}
+
+.ouh-gobdj {
+  stroke-opacity: 0.4;
+  d: path("M2 3L2 21M11 3L11 21M2 12L11 12");
+}
+</style><g class="gp_8x1bzb"><path class="ouh-gobdj"/><path class="l219k3blr"/></g>`,
 		"fallback": "keyline-icons:heading-2-sharp-two-tone",
 	});
 }

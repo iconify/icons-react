@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o0y4ecb1b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o0y4ecb1b"/>`,
+		"content": `<style>.o0y4ecb1b {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M2 4H14M4 12H22M16 20H22");
+}
+</style><path class="o0y4ecb1b"/>`,
 		"fallback": "keyline-icons:align-offset-top",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/a/am1_grbcw.css';
-import '../../css/k/kcu1pgbck.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="am1_grbcw"/><path class="kcu1pgbck"/></g>`,
+		"content": `<style>.am1_grbcw {
+  d: path("M6 10L6 21M2.7071 17.7071L6 21L9.2929 17.7071M10 6L21 6M17.7071 9.2929L21 6L17.7071 2.7071");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.kcu1pgbck {
+  stroke-opacity: 0.4;
+  d: path("M21 12L21 15.3333M21 17.3333L21 21L17.3333 21M15.3333 21L12 21");
+}
+</style><g class="gp_8x1bzb"><path class="am1_grbcw"/><path class="kcu1pgbck"/></g>`,
 		"fallback": "keyline-icons:expand-dashed-down-right-sharp-two-tone",
 	});
 }

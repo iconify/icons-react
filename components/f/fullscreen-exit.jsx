@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dsf8c2b6f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dsf8c2b6f"/>`,
+		"content": `<style>.dsf8c2b6f {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M21 10H14.5C14.22386 10 14 9.77614 14 9.5V3M14.6 9.4L21 3M3 14H9.5C9.77614 14 10 14.22386 10 14.5V21M9.4 14.6L3 21");
+}
+</style><path class="dsf8c2b6f"/>`,
 		"fallback": "keyline-icons:fullscreen-exit",
 	});
 }

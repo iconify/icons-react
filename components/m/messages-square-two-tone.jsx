@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/m/melzxt7eq.css';
-import '../../css/v/vhimu_b_c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,25 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="melzxt7eq"/><path class="vhimu_b_c"/></g>`,
+		"content": `<style>.melzxt7eq {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M14 9L19 9C20.6569 9 22 10.3431 22 12L22 21C22 21.5523 21.5523 22 21 22C20.7348 22 20.4804 21.8946 20.2929 21.7071L17.5858 19L14 19C12.3431 19 11 17.6569 11 16L11 12C11 10.3431 12.3431 9 14 9Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.vhimu_b_c {
+  d: path("M14 10L19 10C20.1046 10 21 10.8954 21 12L21 21L18 18L14 18C12.8954 18 12 17.1046 12 16L12 12C12 10.8954 12.8954 10 14 10ZM6 13L3 16L3 5C3 3.8954 3.8954 3 5 3L14 3C15.1046 3 16 3.8954 16 5L16 6");
+}
+</style><g class="nrj6p8qat"><path class="melzxt7eq"/><path class="vhimu_b_c"/></g>`,
 		"fallback": "keyline-icons:messages-square-two-tone",
 	});
 }

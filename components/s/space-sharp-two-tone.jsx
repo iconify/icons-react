@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qyc_ozb0q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qyc_ozb0q"/>`,
+		"content": `<style>.qyc_ozb0q {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M2 9L2 14L22 14L22 9");
+}
+</style><path class="qyc_ozb0q"/>`,
 		"fallback": "keyline-icons:space-sharp-two-tone",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/o/ogehitbcm.css';
-import '../../css/k/kisignb-e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="ogehitbcm"/><path class="kisignb-e"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.kisignb-e {
+  d: path("M12 5L12 12L18 12M19 23L19 16M22.2929 19.2929L19 16L15.7071 19.2929");
+}
+
+.ogehitbcm {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M22 13L13 13L13 22C13 22.5523 12.5523 23 12 23C5.9249 23 1 18.0751 1 12C1 5.9249 5.9249 1 12 1C18.0751 1 23 5.9249 23 12C23 12.5523 22.5523 13 22 13Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="ogehitbcm"/><path class="kisignb-e"/></g>`,
 		"fallback": "keyline-icons:clock-arrow-up-sharp-duotone",
 	});
 }

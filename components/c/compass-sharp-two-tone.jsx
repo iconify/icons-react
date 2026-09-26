@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/t/tyv81fb_p.css';
-import '../../css/t/t42wrq4bi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="tyv81fb_p"/><path class="t42wrq4bi"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.t42wrq4bi {
+  d: path("M22 12C22 17.5228 17.5228 22 12 22C6.4772 22 2 17.5228 2 12C2 6.4772 6.4772 2 12 2C17.5228 2 22 6.4772 22 12ZM17 7L14.5 14.5L7 17L9.5 9.5L17 7Z");
+}
+
+.tyv81fb_p {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M23 12C23 17.937 17.937 23 12 23C6.063 23 1 17.937 1 12C1 6.063 6.063 1 12 1C17.937 1 23 6.063 23 12Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="tyv81fb_p"/><path class="t42wrq4bi"/></g>`,
 		"fallback": "keyline-icons:compass-sharp-two-tone",
 	});
 }

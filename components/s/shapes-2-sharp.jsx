@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xjksilb6n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xjksilb6n"/>`,
+		"content": `<style>.xjksilb6n {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M12.0009 3L16.7343 9.998L7.2674 9.998L12.0009 3ZM10 17.5C10 19.433 8.433 21 6.5 21C4.567 21 3 19.433 3 17.5C3 15.567 4.567 14 6.5 14C8.433 14 10 15.567 10 17.5ZM14 14L21 14L21 21L14 21L14 14Z");
+}
+</style><path class="xjksilb6n"/>`,
 		"fallback": "keyline-icons:shapes-2-sharp",
 	});
 }

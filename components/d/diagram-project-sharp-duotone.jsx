@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/q/qd5thkqro.css';
-import '../../css/d/d6gipsb1q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="qd5thkqro"/><path class="d6gipsb1q"/></g>`,
+		"content": `<style>.d6gipsb1q {
+  d: path("M10 5.5L14 5.5M6.5 8L6.5 12L12 12L12 16");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.qd5thkqro {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M3 2L10 2C10.5523 2 11 2.4477 11 3L11 8C11 8.5523 10.5523 9 10 9L3 9C2.4477 9 2 8.5523 2 8L2 3C2 2.4477 2.4477 2 3 2ZM14 2L21 2C21.5523 2 22 2.4477 22 3L22 8C22 8.5523 21.5523 9 21 9L14 9C13.4477 9 13 8.5523 13 8L13 3C13 2.4477 13.4477 2 14 2ZM8.5 15L15.5 15C16.0523 15 16.5 15.4477 16.5 16L16.5 21C16.5 21.5523 16.0523 22 15.5 22L8.5 22C7.9477 22 7.5 21.5523 7.5 21L7.5 16C7.5 15.4477 7.9477 15 8.5 15Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="qd5thkqro"/><path class="d6gipsb1q"/></g>`,
 		"fallback": "keyline-icons:diagram-project-sharp-duotone",
 	});
 }

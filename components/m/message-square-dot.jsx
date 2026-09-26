@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kh_cvu5cb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kh_cvu5cb"/>`,
+		"content": `<style>.kh_cvu5cb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M21 6C21 7.6569 19.6569 9 18 9C16.3431 9 15 7.6569 15 6C15 4.3431 16.3431 3 18 3C19.6569 3 21 4.3431 21 6ZM11.6754 3L6 3C4.3431 3 3 4.3431 3 6L3 21L7 17L18 17C19.6569 17 21 15.6569 21 14L21 12.3246");
+}
+</style><path class="kh_cvu5cb"/>`,
 		"fallback": "keyline-icons:message-square-dot",
 	});
 }

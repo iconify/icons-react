@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j424ztbtj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j424ztbtj"/>`,
+		"content": `<style>.j424ztbtj {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M6 12L18 19L18 5L6 12Z");
+}
+</style><path class="j424ztbtj"/>`,
 		"fallback": "keyline-icons:caret-left-sharp",
 	});
 }

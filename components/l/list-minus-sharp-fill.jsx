@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ojhdz2bch.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ojhdz2bch"/>`,
+		"content": `<style>.ojhdz2bch {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M1 6L23 6M1 12L23 12M1 18L7 18M9 18L15 18M17 18L23 18");
+}
+</style><path class="ojhdz2bch"/>`,
 		"fallback": "keyline-icons:list-minus-sharp-fill",
 	});
 }

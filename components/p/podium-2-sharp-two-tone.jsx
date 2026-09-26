@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/l/lid049njr.css';
-import '../../css/x/xeb-fib6w.css';
-import '../../css/m/mhv0dr0xk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,29 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="lid049njr"/><path class="xeb-fib6w"/><path class="mhv0dr0xk"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.lid049njr {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M4 22L4 18.5L9 18.5L9 15L14 15L14 11.5L20 11.5L20 22L4 22Z");
+  stroke: none;
+}
+
+.mhv0dr0xk {
+  d: path("M15.3 4.4L15.3 3.4C15.3 2.3 16.116 2 17 2C17.884 2 18.7 2.5 18.7 3.5C18.7 4.9 15.3 6.3 15.3 7L19.7 7");
+}
+
+.xeb-fib6w {
+  stroke-linejoin: miter;
+  d: path("M1 22L23 22M4 22L4 18.5L9 18.5L9 15L14 15L14 11.5L20 11.5L20 22L4 22Z");
+}
+</style><g class="gp_8x1bzb"><path class="lid049njr"/><path class="xeb-fib6w"/><path class="mhv0dr0xk"/></g>`,
 		"fallback": "keyline-icons:podium-2-sharp-two-tone",
 	});
 }

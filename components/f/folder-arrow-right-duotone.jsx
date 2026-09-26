@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/x/xcr6spbwb.css';
-import '../../css/j/jf6ygpxev.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,25 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="xcr6spbwb"/><path class="jf6ygpxev"/></g>`,
+		"content": `<style>.jf6ygpxev {
+  d: path("M15 17L21 17M18 14L21 17L18 20");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.xcr6spbwb {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M2 7C2 4.7909 3.7909 3 6 3L8.6716 3C9.4672 3 10.2303 3.3161 10.7929 3.8787L12.1213 5.2071C12.3089 5.3946 12.5632 5.5 12.8284 5.5L18 5.5C20.2091 5.5 22 7.2909 22 9.5L22 10C22 10.5523 21.5523 11 21 11L14 11C12.3431 11 11 12.3431 11 14L11 20C11 20.5523 10.5523 21 10 21L6 21C3.7909 21 2 19.2091 2 17Z");
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="xcr6spbwb"/><path class="jf6ygpxev"/></g>`,
 		"fallback": "keyline-icons:folder-arrow-right-duotone",
 	});
 }

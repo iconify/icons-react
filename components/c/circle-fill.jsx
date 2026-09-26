@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fs7opybrn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fs7opybrn"/>`,
+		"content": `<style>.fs7opybrn {
+  fill: currentColor;
+  d: path("M23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12Z");
+}
+</style><path class="fs7opybrn"/>`,
 		"fallback": "keyline-icons:circle-fill",
 	});
 }

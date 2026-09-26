@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/n/n2ozybbwz.css';
-import '../../css/q/qx74lybjc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="n2ozybbwz"/><path class="qx74lybjc"/></g>`,
+		"content": `<style>.n2ozybbwz {
+  fill: currentColor;
+  d: path("M2 13L8 13L10 16L14 16L16 13L22 13L22 17C22 18.6569 20.6569 20 19 20L5 20C3.3431 20 2 18.6569 2 17L2 13Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.qx74lybjc {
+  d: path("M8.6794 4L15.3206 4C16.364 4 17.3325 4.5422 17.878 5.4317L21.5574 11.4317C21.8468 11.9036 22 12.4464 22 13L22 17C22 18.6569 20.6569 20 19 20L5 20C3.3431 20 2 18.6569 2 17L2 13C2 12.4464 2.1532 11.9036 2.4426 11.4317L6.122 5.4317C6.6675 4.5422 7.636 4 8.6794 4ZM2 13L8 13L10 16L14 16L16 13L22 13");
+}
+</style><g class="nrj6p8qat"><path class="n2ozybbwz"/><path class="qx74lybjc"/></g>`,
 		"fallback": "keyline-icons:inbox-fill",
 	});
 }

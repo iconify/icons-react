@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/i/i5kj9-bcx.css';
-import '../../css/a/avqyl3xza.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path clip-rule="evenodd" class="i5kj9-bcx"/><path class="avqyl3xza"/></g>`,
+		"content": `<style>.avqyl3xza {
+  d: path("M15 19L22 19M18.7071 22.2929L22 19L18.7071 15.7071");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.i5kj9-bcx {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M22 13L13 13L13 22C13 22.5523 12.5523 23 12 23C5.9249 23 1 18.0751 1 12C1 5.9249 5.9249 1 12 1C18.0751 1 23 5.9249 23 12C23 12.5523 22.5523 13 22 13ZM11 5L11 12C11 12.5523 11.4477 13 12 13L18 13L18 11L13 11L13 5L11 5Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path clip-rule="evenodd" class="i5kj9-bcx"/><path class="avqyl3xza"/></g>`,
 		"fallback": "keyline-icons:clock-arrow-right-sharp-fill",
 	});
 }

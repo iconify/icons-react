@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sufc7bcoc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sufc7bcoc"/>`,
+		"content": `<style>.sufc7bcoc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M16 4H22M2 12H22M9 20H22");
+}
+</style><path class="sufc7bcoc"/>`,
 		"fallback": "keyline-icons:bar-chart-horizontal-end-fill",
 	});
 }

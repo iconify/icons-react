@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v47hdr-ij.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v47hdr-ij"/>`,
+		"content": `<style>.v47hdr-ij {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M5 19L12 5L19 19L12 16.8739L5 19Z");
+}
+</style><path class="v47hdr-ij"/>`,
 		"fallback": "keyline-icons:navigation-sharp-duotone",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g1d79ebop.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g1d79ebop"/>`,
+		"content": `<style>.g1d79ebop {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M22 10L14 10L14 2M2 14L10 14L10 22");
+}
+</style><path class="g1d79ebop"/>`,
 		"fallback": "keyline-icons:fullscreen-exit-2-sharp",
 	});
 }

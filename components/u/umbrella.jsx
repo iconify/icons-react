@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ikwlgbbuk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ikwlgbbuk"/>`,
+		"content": `<style>.ikwlgbbuk {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M2 12C2 6.4772 6.4772 2 12 2C17.5228 2 22 6.4772 22 12C20.75 10 18.25 10 17 12C15.75 10 13.25 10 12 12C10.75 10 8.25 10 7 12C5.75 10 3.25 10 2 12ZM12 12V19C12 20.6569 13.3431 22 15 22C16.6569 22 18 20.6569 18 19");
+}
+</style><path class="ikwlgbbuk"/>`,
 		"fallback": "keyline-icons:umbrella",
 	});
 }

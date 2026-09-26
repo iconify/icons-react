@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/w/wrc6tm74h.css';
-import '../../css/p/p9760fzsb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="wrc6tm74h"/><path class="p9760fzsb"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.p9760fzsb {
+  d: path("M14.2929 14.2929L21.2929 21.2929");
+}
+
+.wrc6tm74h {
+  fill: currentColor;
+  d: path("M18 10C18 14.2802 14.2802 18 10 18C5.7198 18 2 14.2802 2 10C2 5.7198 5.7198 2 10 2C14.2802 2 18 5.7198 18 10Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="wrc6tm74h"/><path class="p9760fzsb"/></g>`,
 		"fallback": "keyline-icons:search-sharp-fill",
 	});
 }

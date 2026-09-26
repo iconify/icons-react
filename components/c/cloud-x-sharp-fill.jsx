@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wv-d25bbn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="wv-d25bbn"/>`,
+		"content": `<style>.wv-d25bbn {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M6 20L18 20C20.6233 20 23 17.6233 23 15C23 12.6937 21.163 10.578 18.9365 10.1004C18.4644 6.7612 15.4245 4 12 4C8.5755 4 5.5356 6.7612 5.0635 10.1004C2.837 10.578 1 12.6937 1 15C1 17.6233 3.3767 20 6 20ZM13.4142 12.5L14.9446 14.0302L13.5303 15.4445L12 13.9142L10.4698 15.4446L9.0555 14.0303L10.5858 12.5L9.0554 10.9698L10.4697 9.5555L12 11.0858L13.5302 9.5554L14.9445 10.9697L13.4142 12.5Z");
+}
+</style><path clip-rule="evenodd" class="wv-d25bbn"/>`,
 		"fallback": "keyline-icons:cloud-x-sharp-fill",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bk_47gbbm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bk_47gbbm"/>`,
+		"content": `<style>.bk_47gbbm {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M5.1721 14.1737L5.0718 14C4.3697 12.7838 4 11.4043 4 10C4 5.5817 7.5817 2 12 2C16.4183 2 20 5.5817 20 10C20 11.4043 19.6303 12.7838 18.9282 14L18.8279 14.1737M8 18L16 18M10 22L14 22");
+}
+</style><path class="bk_47gbbm"/>`,
 		"fallback": "keyline-icons:lightbulb-sharp",
 	});
 }

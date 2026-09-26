@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g2yenvmxi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g2yenvmxi"/>`,
+		"content": `<style>.g2yenvmxi {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M12 3L22 13L17 13L17 21L7 21L7 13L2 13Z");
+}
+</style><path class="g2yenvmxi"/>`,
 		"fallback": "keyline-icons:arrow-big-up-short-sharp",
 	});
 }

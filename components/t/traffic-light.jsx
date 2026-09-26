@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/l/lj1xk3bxv.css';
-import '../../css/a/aefmnnbnd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="lj1xk3bxv"/><path class="aefmnnbnd"/></g>`,
+		"content": `<style>.aefmnnbnd {
+  fill: currentColor;
+  d: path("M13.5 7C13.5 7.8284 12.8284 8.5 12 8.5C11.1716 8.5 10.5 7.8284 10.5 7C10.5 6.1716 11.1716 5.5 12 5.5C12.8284 5.5 13.5 6.1716 13.5 7ZM13.5 12C13.5 12.8284 12.8284 13.5 12 13.5C11.1716 13.5 10.5 12.8284 10.5 12C10.5 11.1716 11.1716 10.5 12 10.5C12.8284 10.5 13.5 11.1716 13.5 12Z");
+  stroke: none;
+}
+
+.lj1xk3bxv {
+  d: path("M10 2L14 2C15.6569 2 17 3.3431 17 5L17 14C17 15.6569 15.6569 17 14 17L10 17C8.3431 17 7 15.6569 7 14L7 5C7 3.3431 8.3431 2 10 2ZM7 5L5 5M17 5L19 5M7 10L5 10M17 10L19 10M12 17L12 22");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="nrj6p8qat"><path class="lj1xk3bxv"/><path class="aefmnnbnd"/></g>`,
 		"fallback": "keyline-icons:traffic-light",
 	});
 }

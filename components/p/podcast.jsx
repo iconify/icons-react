@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/n/nw_5eabqk.css';
-import '../../css/k/kil06obbz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="nw_5eabqk"/><path class="kil06obbz"/></g>`,
+		"content": `<style>.kil06obbz {
+  fill: currentColor;
+  d: path("M13 11C13 11.5523 12.5523 12 12 12C11.4477 12 11 11.5523 11 11C11 10.4477 11.4477 10 12 10C12.5523 10 13 10.4477 13 11Z");
+  stroke: none;
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.nw_5eabqk {
+  d: path("M15.4641 13C15.81517 12.39192 16 11.70215 16 11C16 8.79086 14.20914 7 12 7C9.79086 7 8 8.79086 8 11C8 11.70215 8.18483 12.39192 8.5359 13M18.9282 15C19.63035 13.78385 20 12.40429 20 11C20 6.58172 16.41828 3 12 3C7.58172 3 4 6.58172 4 11C4 12.40429 4.36965 13.78385 5.0718 15M12 15V21");
+}
+</style><g class="nrj6p8qat"><path class="nw_5eabqk"/><path class="kil06obbz"/></g>`,
 		"fallback": "keyline-icons:podcast",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g-080hvge.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g-080hvge"/>`,
+		"content": `<style>.g-080hvge {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 12C3 10.8954 3.8954 10 5 10L7 10L7 21L5 21C3.8954 21 3 20.1046 3 19L3 12ZM21 12C21 10.8954 20.1046 10 19 10L17 10L17 21L19 21C20.1046 21 21 20.1046 21 19L21 12ZM3 12C3 7.0294 7.0294 3 12 3C16.9706 3 21 7.0294 21 12");
+}
+</style><path class="g-080hvge"/>`,
 		"fallback": "keyline-icons:headphones-sharp",
 	});
 }

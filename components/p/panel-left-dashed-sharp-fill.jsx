@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/h/hwv8c50wu.css';
-import '../../css/d/dwlz50b1l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="hwv8c50wu"/><path class="dwlz50b1l"/></g>`,
+		"content": `<style>.dwlz50b1l {
+  d: path("M17 3L21 3L21 7M21 17L21 21L17 21M12 3L15 3M12 21L15 21M21 9.5L21 14.5");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.hwv8c50wu {
+  fill: currentColor;
+  d: path("M3 2L9 2C9.5523 2 10 2.4477 10 3L10 21C10 21.5523 9.5523 22 9 22L3 22C2.4477 22 2 21.5523 2 21L2 3C2 2.4477 2.4477 2 3 2Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="hwv8c50wu"/><path class="dwlz50b1l"/></g>`,
 		"fallback": "keyline-icons:panel-left-dashed-sharp-fill",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/n/ns9r4cmwq.css';
-import '../../css/a/ayo73pbzj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="ns9r4cmwq"/><path class="ayo73pbzj"/></g>`,
+		"content": `<style>.ayo73pbzj {
+  d: path("M2 2L22 22");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.ns9r4cmwq {
+  fill: currentColor;
+  d: path("M9.4815 4.0247L10.4 2.8C10.7777 2.2965 11.3703 2 12 2C12.6297 2 13.2223 2.2965 13.5999 2.7999L18.4 9.2C19.2768 10.369 19.8167 11.756 19.9609 13.2103C20.0536 14.1451 18.9229 14.6803 18.2587 14.0161L9.5744 5.3318C9.2225 4.9799 9.1829 4.4228 9.4815 4.0247ZM18.5678 18.5678C17.0723 20.718 14.6191 22 12 22C7.5817 22 4 18.4183 4 14C4 12.269 4.5614 10.5847 5.6 9.2L7.1429 7.1429Z");
+  stroke: none;
+}
+</style><g class="nrj6p8qat"><path class="ns9r4cmwq"/><path class="ayo73pbzj"/></g>`,
 		"fallback": "keyline-icons:droplet-off-fill",
 	});
 }

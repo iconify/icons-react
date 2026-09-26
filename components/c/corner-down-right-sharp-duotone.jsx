@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/as0oiybee.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="as0oiybee"/>`,
+		"content": `<style>.as0oiybee {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M15.7071 20.2929L22 14L15.7071 7.7071M22 14L2 14L2 3");
+}
+</style><path class="as0oiybee"/>`,
 		"fallback": "keyline-icons:corner-down-right-sharp-duotone",
 	});
 }

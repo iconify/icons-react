@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xyoyyqbeu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="xyoyyqbeu"/>`,
+		"content": `<style>.xyoyyqbeu {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M1 7C1 4.7909 2.7909 3 5 3H19C21.2091 3 23 4.7909 23 7V17C23 19.2091 21.2091 21 19 21H5C2.7909 21 1 19.2091 1 17V7ZM3 14H21V16H3V14ZM14 8.5H17C17.5523 8.5 18 8.9477 18 9.5C18 10.0523 17.5523 10.5 17 10.5H14C13.4477 10.5 13 10.0523 13 9.5C13 8.9477 13.4477 8.5 14 8.5Z");
+}
+</style><path clip-rule="evenodd" class="xyoyyqbeu"/>`,
 		"fallback": "keyline-icons:credit-card-2-fill",
 	});
 }

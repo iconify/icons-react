@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h52a2qe1g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h52a2qe1g"/>`,
+		"content": `<style>.h52a2qe1g {
+  fill: currentColor;
+  d: path("M3 2L21 2C21.5523 2 22 2.4477 22 3L22 21C22 21.5523 21.5523 22 21 22L3 22C2.4477 22 2 21.5523 2 21L2 3C2 2.4477 2.4477 2 3 2ZM9 4L9 11L15 11L15 4L9 4ZM9 13L9 20L15 20L15 13L9 13ZM4 6.5L4 8.5L7 8.5L7 6.5L4 6.5ZM17 6.5L17 8.5L20 8.5L20 6.5L17 6.5ZM4 11L4 13L7 13L7 11L4 11ZM17 11L17 13L20 13L20 11L17 11ZM4 15.5L4 17.5L7 17.5L7 15.5L4 15.5ZM17 15.5L17 17.5L20 17.5L20 15.5L17 15.5Z");
+}
+</style><path class="h52a2qe1g"/>`,
 		"fallback": "keyline-icons:film-sharp-fill",
 	});
 }

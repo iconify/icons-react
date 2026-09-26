@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ab1eokbtz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ab1eokbtz"/>`,
+		"content": `<style>.ab1eokbtz {
+  fill: currentColor;
+  d: path("M3 2L21 2C21.5523 2 22 2.4477 22 3L22 21C22 21.5523 21.5523 22 21 22L3 22C2.4477 22 2 21.5523 2 21L2 3C2 2.4477 2.4477 2 3 2ZM11 7L11 13.7529L8.423 11.1061L6.9894 12.5016L11.2836 16.9111C11.6762 17.3141 12.3238 17.3141 12.7164 16.9111L17.0112 12.5017L15.5776 11.1062L13 13.7529L13 7L11 7Z");
+}
+</style><path class="ab1eokbtz"/>`,
 		"fallback": "keyline-icons:square-arrow-down-sharp-fill",
 	});
 }

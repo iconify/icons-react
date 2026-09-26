@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g18rcvi1e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="g18rcvi1e"/>`,
+		"content": `<style>.g18rcvi1e {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M12 1C17.937 1 23 6.0629 23 12C23 17.937 17.937 23 12 23C6.0629 23 1 17.937 1 12C1 6.0629 6.0629 1 12 1ZM11 5L11 12.0002C11 12.77 11.8334 13.2512 12.5 12.8662L17.3301 10.0772L16.3301 8.3452L13 10.2679L13 5L11 5Z");
+}
+</style><path clip-rule="evenodd" class="g18rcvi1e"/>`,
 		"fallback": "keyline-icons:clock-2-sharp-fill",
 	});
 }

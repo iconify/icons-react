@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gjrxbl_jf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gjrxbl_jf"/>`,
+		"content": `<style>.gjrxbl_jf {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 12L20 12M11.995 20.005L11.995 4.005");
+}
+</style><path class="gjrxbl_jf"/>`,
 		"fallback": "keyline-icons:plus-sharp",
 	});
 }

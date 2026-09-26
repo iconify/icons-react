@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tvrc8ibbs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tvrc8ibbs"/>`,
+		"content": `<style>.tvrc8ibbs {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M5 3L15 3C16.6569 3 18 4.3431 18 6L18 7C19.6569 7 21 8.3431 21 10L21 18C21 19.6569 19.6569 21 18 21L6 21C4.3431 21 3 19.6569 3 18L3 5C3 3.8954 3.8954 3 5 3ZM3 5C3 6.1046 3.8954 7 5 7L18 7M21 12L18 12C16.8954 12 16 12.8954 16 14C16 15.1046 16.8954 16 18 16L21 16");
+}
+</style><path class="tvrc8ibbs"/>`,
 		"fallback": "keyline-icons:wallet",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/djyc7gb0t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="djyc7gb0t"/>`,
+		"content": `<style>.djyc7gb0t {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M1.5547 14.2969L5 12L9.5 20L14 4L23 4");
+}
+</style><path class="djyc7gb0t"/>`,
 		"fallback": "keyline-icons:radical-sharp",
 	});
 }

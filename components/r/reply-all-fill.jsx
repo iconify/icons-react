@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k0egs1bnc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k0egs1bnc"/>`,
+		"content": `<style>.k0egs1bnc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M8 4L2 10L8 16M14 4L8 10L14 16M8 10L18 10C20.2091 10 22 11.7909 22 14L22 20");
+}
+</style><path class="k0egs1bnc"/>`,
 		"fallback": "keyline-icons:reply-all-fill",
 	});
 }

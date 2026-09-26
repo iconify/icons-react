@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/z/zs43ogbwe.css';
-import '../../css/b/bwaym3bmx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="zs43ogbwe"/><path class="bwaym3bmx"/></g>`,
+		"content": `<style>.bwaym3bmx {
+  d: path("M11.8277 17.7858L12.8624 13.0671L9.0351 10.9545L14.4065 7.2897L16.0617 10.9109L19.4635 11.0352");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.zs43ogbwe {
+  fill: currentColor;
+  d: path("M23 17.5C23 19.9853 20.9853 22 18.5 22C16.0147 22 14 19.9853 14 17.5C14 15.0147 16.0147 13 18.5 13C20.9853 13 23 15.0147 23 17.5ZM10 17.5C10 19.9853 7.9853 22 5.5 22C3.0147 22 1 19.9853 1 17.5C1 15.0147 3.0147 13 5.5 13C7.9853 13 10 15.0147 10 17.5ZM19 4C19 5.1046 18.1046 6 17 6C15.8954 6 15 5.1046 15 4C15 2.8954 15.8954 2 17 2C18.1046 2 19 2.8954 19 4Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="zs43ogbwe"/><path class="bwaym3bmx"/></g>`,
 		"fallback": "keyline-icons:bike-sharp-fill",
 	});
 }

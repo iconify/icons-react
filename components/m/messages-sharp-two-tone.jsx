@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gp_8x1bzb.css';
-import '../../css/s/sfqbvbc6s.css';
-import '../../css/w/wnfuxpb8x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="gp_8x1bzb"><path class="sfqbvbc6s"/><path class="wnfuxpb8x"/></g>`,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.sfqbvbc6s {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M18.0602 19.9212C17.7103 19.9723 17.3419 20 17 20C13.8878 20 11 17.6897 11 15C11 12.3103 13.8878 10 17 10C20.1122 10 23 12.3103 23 15C23 16.0878 22.4855 17.2747 21.6775 18.1344L21.4957 20.0924C21.4311 20.7889 20.6896 21.2055 20.0611 20.8985L18.0602 19.9212Z");
+  stroke: none;
+}
+
+.wnfuxpb8x {
+  d: path("M18.2096 18.8812L20.5 20L20.7157 17.6765C21.5425 16.9419 22 15.9885 22 15C22 12.7909 19.7614 11 17 11C14.2386 11 12 12.7909 12 15C12 17.2091 14.2386 19 17 19C17.4078 19 17.814 18.9601 18.2096 18.8812ZM9.0587 14.0507L8.0633 13.955C7.8086 13.9305 7.5559 13.8959 7.3065 13.8515L4.1 15.25L3.798 12.3457C2.6405 11.4274 2 10.2356 2 9C2 6.2386 5.134 4 9 4C11.8401 4 14.3988 5.2258 15.4765 7.1027L15.9744 7.9699");
+}
+</style><g class="gp_8x1bzb"><path class="sfqbvbc6s"/><path class="wnfuxpb8x"/></g>`,
 		"fallback": "keyline-icons:messages-sharp-two-tone",
 	});
 }

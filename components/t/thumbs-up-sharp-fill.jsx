@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ujiybcczk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ujiybcczk"/>`,
+		"content": `<style>.ujiybcczk {
+  fill: currentColor;
+  d: path("M2 9L7.2192 9L9.0299 1.7575C9.1411 1.3123 9.5411 1 10 1L15 1C15.5043 1 15.9297 1.3755 15.9923 1.876L16.8828 9L22 9C22.5523 9 23 9.4477 23 10C23 10.1199 22.9784 10.2388 22.9363 10.3511L18.4363 22.3511C18.29 22.7414 17.9168 23 17.5 23L2 23C1.4477 23 1 22.5523 1 22L1 10C1 9.4477 1.4477 9 2 9ZM3 11L3 21L7 21L7 11L3 11Z");
+}
+</style><path class="ujiybcczk"/>`,
 		"fallback": "keyline-icons:thumbs-up-sharp-fill",
 	});
 }

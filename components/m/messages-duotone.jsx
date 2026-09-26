@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/s/s16nl6bqm.css';
-import '../../css/x/xinq97epj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,25 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="s16nl6bqm"/><path class="xinq97epj"/></g>`,
+		"content": `<style>.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.s16nl6bqm {
+  fill: currentColor;
+  d: path("M17 10 C20.0939 10 23 12.0419 23 15 C23 16.1758 22.5089 17.2737 21.6768 18.1367 L21.4961 20.0928 C21.4656 20.4197 21.2765 20.7112 20.9902 20.8721 C20.7039 21.0329 20.3566 21.0425 20.0615 20.8984 L18.0605 19.9209 C17.7104 19.973 17.3556 20 17 20 C13.9061 20 11 17.9581 11 15 C11 12.0419 13.9061 10 17 10 Z");
+  stroke: none;
+}
+
+.xinq97epj {
+  stroke-opacity: 0.4;
+  d: path("M8.0633 13.955C7.8086 13.9305 7.5559 13.8959 7.3065 13.8515L4.1 15.25L3.798 12.3457C2.6405 11.4274 2 10.2356 2 9C2 6.2386 5.134 4 9 4C11.8401 4 14.3988 5.2258 15.4765 7.1027");
+}
+</style><g class="nrj6p8qat"><path class="s16nl6bqm"/><path class="xinq97epj"/></g>`,
 		"fallback": "keyline-icons:messages-duotone",
 	});
 }

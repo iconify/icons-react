@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lpl7iyi0y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="lpl7iyi0y"/>`,
+		"content": `<style>.lpl7iyi0y {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M12 1C17.937 1 23 6.0629 23 12C23 17.937 17.937 23 12 23C6.0629 23 1 17.937 1 12C1 6.0629 6.0629 1 12 1ZM14 8L14 12.5859L9.4141 8.0002L8.0001 9.4142L12.5859 14L8 14L8 16L15 16C15.5523 16 16 15.5523 16 15L16 8L14 8Z");
+}
+</style><path clip-rule="evenodd" class="lpl7iyi0y"/>`,
 		"fallback": "keyline-icons:circle-arrow-down-right-sharp-fill",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1617,6 +1617,14 @@
     "./hyprland-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hyprland-wordmark.jsx"
+    },
+    "./icinga": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icinga.jsx"
+    },
+    "./icinga-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/icinga-wordmark.jsx"
     },
     "./ie10": {
       "types": "./types/hqrkovbr.d.ts",

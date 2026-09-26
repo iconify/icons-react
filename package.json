@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/carbon",
   "type": "module",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "homepage": "https://icon-sets.iconify.design/carbon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
@@ -626,6 +626,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/asset-digital-twin.jsx"
     },
+    "./asset-edit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asset-edit.jsx"
+    },
     "./asset-movement": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/asset-movement.jsx"
@@ -781,6 +785,10 @@
     "./battery-warning": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/battery-warning.jsx"
+    },
+    "./beacon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beacon.jsx"
     },
     "./bee": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2261,6 +2269,30 @@
     "./content-delivery-network": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/content-delivery-network.jsx"
+    },
+    "./content-navigator-edit-service-download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-navigator-edit-service-download.jsx"
+    },
+    "./content-navigator-edit-service-upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-navigator-edit-service-upload.jsx"
+    },
+    "./content-navigator-sync-error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-navigator-sync-error.jsx"
+    },
+    "./content-navigator-sync-loading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-navigator-sync-loading.jsx"
+    },
+    "./content-navigator-sync-paused": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-navigator-sync-paused.jsx"
+    },
+    "./content-navigator-sync-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/content-navigator-sync-warning.jsx"
     },
     "./content-view": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6434,6 +6466,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/marine-warning.jsx"
     },
+    "./markdown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/markdown.jsx"
+    },
     "./material-request": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/material-request.jsx"
@@ -7990,6 +8026,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/recycle.jsx"
     },
+    "./red-hat-ai-inference-on-ibm-cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/red-hat-ai-inference-on-ibm-cloud.jsx"
+    },
     "./red-hat-ai-instructlab-on-ibm-cloud": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/red-hat-ai-instructlab-on-ibm-cloud.jsx"
@@ -9109,6 +9149,10 @@
     "./stem-leaf-plot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stem-leaf-plot.jsx"
+    },
+    "./stepzen-graph-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stepzen-graph-server.jsx"
     },
     "./stethoscope": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10526,6 +10570,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/view-filled.jsx"
     },
+    "./view-matrix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-matrix.jsx"
+    },
     "./view-mode-1": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/view-mode-1.jsx"
@@ -10545,6 +10593,10 @@
     "./view-off-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/view-off-filled.jsx"
+    },
+    "./view-table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-table.jsx"
     },
     "./vintage-mac": {
       "types": "./types/hqrkovbr.d.ts",

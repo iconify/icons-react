@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.iddnxcm8f {
+		"content": `<style>.xy7gytb5w {
   fill: currentColor;
-  d: path("M6.75 4.5h14.5a.75.75 0 0 0 .102-1.493L21.25 3H6.75a.75.75 0 0 0-.102 1.493zm0 15h14.5a.75.75 0 0 0 .102-1.493L21.25 18H6.75a.75.75 0 0 0-.102 1.493zm7-11.5a.75.75 0 0 0 0 1.5h7.5a.75.75 0 0 0 0-1.5zM13 13.75a.75.75 0 0 1 .75-.75h7.5a.75.75 0 0 1 0 1.5h-7.5a.75.75 0 0 1-.75-.75m-2-2.25a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0m-2 0a.5.5 0 0 0-.5-.5h-4a.5.5 0 0 0 0 1h4a.5.5 0 0 0 .5-.5");
+  d: path("M21.25 18a.75.75 0 0 1 0 1.5H5.75a.75.75 0 0 1 0-1.5zM6.5 7a4.5 4.5 0 1 1 0 9a4.5 4.5 0 0 1 0-9m-2 4a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1zm16.75 2a.75.75 0 0 1 0 1.5h-7.5a.75.75 0 0 1 0-1.5zm0-5a.75.75 0 0 1 0 1.5h-7.5a.75.75 0 0 1 0-1.5zm0-5a.75.75 0 0 1 0 1.5H5.75a.75.75 0 0 1 0-1.5z");
 }
-</style><path class="iddnxcm8f"/>`,
+</style><path class="xy7gytb5w"/>`,
 		"fallback": "fluent:text-collapse-24-regular",
 	});
 }

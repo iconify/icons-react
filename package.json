@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/fluent",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://icon-sets.iconify.design/fluent/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -6993,6 +6993,30 @@
     "./autopilot-20-regular": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/autopilot-20-regular.jsx"
+    },
+    "./autopilot-24-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autopilot-24-filled.jsx"
+    },
+    "./autopilot-24-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autopilot-24-regular.jsx"
+    },
+    "./autopilot-28-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autopilot-28-filled.jsx"
+    },
+    "./autopilot-28-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autopilot-28-regular.jsx"
+    },
+    "./autopilot-32-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autopilot-32-filled.jsx"
+    },
+    "./autopilot-32-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autopilot-32-regular.jsx"
     },
     "./autosum-16-filled": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17617,6 +17641,14 @@
     "./circle-image-28-regular": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-image-28-regular.jsx"
+    },
+    "./circle-image-off-20-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-image-off-20-filled.jsx"
+    },
+    "./circle-image-off-20-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-image-off-20-regular.jsx"
     },
     "./circle-line-12-filled": {
       "types": "./types/hqrkovbr.d.ts",
@@ -39806,6 +39838,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keyboard-mouse-16-regular.jsx"
     },
+    "./keyboard-mouse-20-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-mouse-20-filled.jsx"
+    },
+    "./keyboard-mouse-20-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-mouse-20-regular.jsx"
+    },
+    "./keyboard-mouse-off-20-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-mouse-off-20-filled.jsx"
+    },
+    "./keyboard-mouse-off-20-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keyboard-mouse-off-20-regular.jsx"
+    },
     "./keyboard-off-16-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keyboard-off-16-filled.jsx"
@@ -54726,6 +54774,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pipeline-play-20-regular.jsx"
     },
+    "./pivot-16-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pivot-16-filled.jsx"
+    },
+    "./pivot-16-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pivot-16-regular.jsx"
+    },
     "./pivot-20-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pivot-20-filled.jsx"
@@ -57738,6 +57794,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rename-28-regular.jsx"
     },
+    "./rename-a-16-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rename-a-16-filled.jsx"
+    },
+    "./rename-a-16-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rename-a-16-regular.jsx"
+    },
     "./rename-a-20-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rename-a-20-filled.jsx"
@@ -57745,6 +57809,22 @@
     "./rename-a-20-regular": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rename-a-20-regular.jsx"
+    },
+    "./rename-a-24-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rename-a-24-filled.jsx"
+    },
+    "./rename-a-24-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rename-a-24-regular.jsx"
+    },
+    "./rename-a-28-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rename-a-28-filled.jsx"
+    },
+    "./rename-a-28-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rename-a-28-regular.jsx"
     },
     "./reorder-20-filled": {
       "types": "./types/hqrkovbr.d.ts",
@@ -71582,6 +71662,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-clear-formatting-ga-24-regular.jsx"
     },
+    "./text-collapse-16-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-collapse-16-filled.jsx"
+    },
+    "./text-collapse-16-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-collapse-16-regular.jsx"
+    },
     "./text-collapse-20-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-collapse-20-filled.jsx"
@@ -71598,9 +71686,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-collapse-24-regular.jsx"
     },
+    "./text-collapse-28-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-collapse-28-filled.jsx"
+    },
+    "./text-collapse-28-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-collapse-28-regular.jsx"
+    },
+    "./text-collapse-32-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-collapse-32-filled.jsx"
+    },
     "./text-collapse-32-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-collapse-32-light.jsx"
+    },
+    "./text-collapse-32-regular": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-collapse-32-regular.jsx"
     },
     "./text-color-16-filled": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l4mil5bye.css';
+import '../../css/j/jx0p4fbya.css';
+import '../../css/d/d12fgu-ud.css';
+import '../../css/e/ercpunbkt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="l4mil5bye"/>`,
+		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="d12fgu-ud"/><path vector-effect="non-scaling-stroke" class="ercpunbkt"/></g>`,
 		"fallback": "wordpress:format-bold",
 	});
 }

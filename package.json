@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/at-icons",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://icon-sets.iconify.design/at-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -13,6 +13,10 @@
     "./alarm-clock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alarm-clock.jsx"
+    },
+    "./alembic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alembic.jsx"
     },
     "./american-football": {
       "types": "./types/hqrkovbr.d.ts",
@@ -33,6 +37,10 @@
     "./angry-face": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/angry-face.jsx"
+    },
+    "./anvil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anvil.jsx"
     },
     "./aperture": {
       "types": "./types/hqrkovbr.d.ts",
@@ -57,6 +65,18 @@
     "./area": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/area.jsx"
+    },
+    "./armor-boots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/armor-boots.jsx"
+    },
+    "./armor-chestplate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/armor-chestplate.jsx"
+    },
+    "./armor-helmet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/armor-helmet.jsx"
     },
     "./arrow-axes": {
       "types": "./types/hqrkovbr.d.ts",
@@ -370,6 +390,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/battery-low.jsx"
     },
+    "./battle-axe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battle-axe.jsx"
+    },
     "./beaker": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/beaker.jsx"
@@ -433,6 +457,10 @@
     "./boolean": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/boolean.jsx"
+    },
+    "./boots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boots.jsx"
     },
     "./bot": {
       "types": "./types/hqrkovbr.d.ts",
@@ -674,6 +702,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cone.jsx"
     },
+    "./controller": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/controller.jsx"
+    },
     "./conveyor-belt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/conveyor-belt.jsx"
@@ -814,9 +846,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/doorway-exit.jsx"
     },
+    "./dot-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dot-grid.jsx"
+    },
     "./dragon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dragon.jsx"
+    },
+    "./drain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drain.jsx"
     },
     "./drawing-compass": {
       "types": "./types/hqrkovbr.d.ts",
@@ -905,6 +945,10 @@
     "./fast-forward": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fast-forward.jsx"
+    },
+    "./faucet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/faucet.jsx"
     },
     "./feather": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1150,9 +1194,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gem.jsx"
     },
+    "./gem-emerald": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gem-emerald.jsx"
+    },
     "./ghost": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/ghost.jsx"
+    },
+    "./gif": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gif.jsx"
     },
     "./gift": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1214,6 +1266,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/golf-hole.jsx"
     },
+    "./grabber-dots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grabber-dots.jsx"
+    },
     "./grass": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grass.jsx"
@@ -1262,6 +1318,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/handset.jsx"
     },
+    "./handset-waves": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handset-waves.jsx"
+    },
     "./happy-face": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/happy-face.jsx"
@@ -1273,6 +1333,10 @@
     "./headphones": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headphones.jsx"
+    },
+    "./headphones-mute": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-mute.jsx"
     },
     "./heart": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1321,6 +1385,14 @@
     "./info": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/info.jsx"
+    },
+    "./ingot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ingot.jsx"
+    },
+    "./ingots": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ingots.jsx"
     },
     "./institutional-building": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1449,6 +1521,10 @@
     "./lock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock.jsx"
+    },
+    "./magic-staff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magic-staff.jsx"
     },
     "./magic-wand": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1670,6 +1746,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette.jsx"
     },
+    "./pants": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pants.jsx"
+    },
     "./paper-airplane": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paper-airplane.jsx"
@@ -1701,6 +1781,10 @@
     "./pencil": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pencil.jsx"
+    },
+    "./pendant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pendant.jsx"
     },
     "./person-body": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1894,6 +1978,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/ring.jsx"
     },
+    "./ring-with-gem": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ring-with-gem.jsx"
+    },
     "./road": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/road.jsx"
@@ -1993,6 +2081,10 @@
     "./shield": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield.jsx"
+    },
+    "./shirt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shirt.jsx"
     },
     "./shocked-face": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2117,6 +2209,10 @@
     "./sphere": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sphere.jsx"
+    },
+    "./spikes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spikes.jsx"
     },
     "./spiral": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -4061,6 +4061,10 @@
     "./davinci-resolve": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/davinci-resolve.jsx"
+    },
+    "./dawarich": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dawarich.jsx"
     },
     "./dazhong-dianping": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11785,6 +11789,14 @@
     "./nowly": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nowly.jsx"
+    },
+    "./nowly-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nowly-dark.jsx"
+    },
+    "./nowly-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nowly-light.jsx"
     },
     "./nplcloud": {
       "types": "./types/hqrkovbr.d.ts",

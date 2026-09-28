@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tp2f6lb9y.css';
+import '../../css/f/f1nmlabip.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="tp2f6lb9y"/>`,
+		"content": `<path vector-effect="non-scaling-stroke" class="f1nmlabip"/>`,
 		"fallback": "wordpress:heading-level-2",
 	});
 }

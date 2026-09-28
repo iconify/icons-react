@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.agrai_6qc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M7.6015 6.545C8.0395 4.5184 9.8424 3 12 3C14.1576 3 15.9605 4.5184 16.3985 6.545C16.5946 6.5153 16.7955 6.5 17 6.5C19.2091 6.5 21 8.2909 21 10.5C21 12.1811 19.9629 13.62 18.4936 14.2118C18.3842 16.0462 16.8619 17.5 15 17.5C13.7268 17.5 12.6124 16.8202 12 15.8037C11.3876 16.8202 10.2732 17.5 9 17.5C7.1381 17.5 5.6158 16.0462 5.5063 14.2117C4.0371 13.62 3 12.1811 3 10.5C3 8.2909 4.7909 6.5 7 6.5C7.2045 6.5 7.4054 6.5153 7.6017 6.545ZM12 21L12 11.5M10.5 10L12 11.5L13.5 10");
+}
+</style><path class="agrai_6qc"/>`,
+		"fallback": "keyline-icons:tree-deciduous",
+	});
+}
+
+export default Component;

@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.x3-zoebds {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M2 6C2 3.7909 3.7909 2 6 2L18 2C20.2091 2 22 3.7909 22 6L22 18C22 20.2091 20.2091 22 18 22L6 22C3.7909 22 2 20.2091 2 18L2 6ZM4.001 12.5848L4.001 15.4132L7 12.4142L9.2929 14.7071C9.4804 14.8946 9.7348 15 10 15C10.2652 15 10.5196 14.8946 10.7071 14.7071L15 10.4142L16.2929 11.7071C16.4804 11.8946 16.7348 12 17 12C17.2652 12 17.5196 11.8946 17.7071 11.7071L19.999 9.4152L19.999 6.5868L17 9.5858L15.7071 8.2929C15.5196 8.1054 15.2652 8 15 8C14.7348 8 14.4804 8.1054 14.2929 8.2929L10 12.5858L7.7071 10.2929C7.5196 10.1054 7.2652 10 7 10C6.7348 10 6.4804 10.1054 6.2929 10.2929L4.001 12.5848Z");
+}
+</style><path clip-rule="evenodd" class="x3-zoebds"/>`,
+		"fallback": "keyline-icons:chart-stock-up-fill",
+	});
+}
+
+export default Component;

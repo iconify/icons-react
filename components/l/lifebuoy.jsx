@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b3ebjh3ek {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M22 12C22 17.5228 17.5228 22 12 22C6.4772 22 2 17.5228 2 12C2 6.4772 6.4772 2 12 2C17.5228 2 22 6.4772 22 12ZM16.2426 12C16.2426 14.3431 14.3431 16.2426 12 16.2426C9.6569 16.2426 7.7574 14.3431 7.7574 12C7.7574 9.6569 9.6569 7.7574 12 7.7574C14.3431 7.7574 16.2426 9.6569 16.2426 12ZM15 15L19.0711 19.0711M9 15L4.9289 19.0711M9 9L4.9289 4.9289M15 9L19.0711 4.9289");
+}
+</style><path class="b3ebjh3ek"/>`,
+		"fallback": "keyline-icons:lifebuoy",
+	});
+}
+
+export default Component;

@@ -23,10 +23,10 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.vzyo6xb_u {
-  d: path("M20 12L20 22L2 22L2 4L10 4M7 4L7 22M15 12L15 22M2 13L20 13M2 8.5L7 8.5M2 17.5L7 17.5M15 17.5L20 17.5");
+.ufegrjdqm {
+  d: path("M2 13L20 13L20 22L2 22L2 4L10 4M7 4L7 22M15 13L15 22M2 8.5L7 8.5M2 17.5L7 17.5M15 17.5L20 17.5");
 }
-</style><g class="gp_8x1bzb"><path class="vzyo6xb_u"/><path class="arxdl3buc"/></g>`,
+</style><g class="gp_8x1bzb"><path class="ufegrjdqm"/><path class="arxdl3buc"/></g>`,
 		"fallback": "keyline-icons:film-sparkles-sharp-fill",
 	});
 }

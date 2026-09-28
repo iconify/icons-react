@@ -14,9 +14,9 @@ function Component({width, height, ...props}) {
   d: path("M2 2L22 22");
 }
 
-.fpew8tpjl {
+.jdrr6qegw {
   stroke-opacity: 0.4;
-  d: path("M16 2.8348C19.6443 4.4253 22 8.0238 22 12C22 13.2499 21.7657 14.4887 21.3092 15.6523M12 2L12 6.3431");
+  d: path("M18.82 4.6865C20.8483 6.5779 22 9.2267 22 12C22 13.2499 21.7657 14.4887 21.3092 15.6523M12 2L12 6.3431");
 }
 
 .ky8hevb5b {
@@ -31,7 +31,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path class="ky8hevb5b"/><path class="ayo73pbzj"/><path class="fpew8tpjl"/></g>`,
+</style><g class="nrj6p8qat"><path class="ky8hevb5b"/><path class="ayo73pbzj"/><path class="jdrr6qegw"/></g>`,
 		"fallback": "keyline-icons:power-off-two-tone",
 	});
 }

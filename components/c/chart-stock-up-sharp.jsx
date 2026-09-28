@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gu3zx5oba {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 3L21 3L21 21L3 21L3 3ZM3 15L7 11L10 14L15 9L17 11L21 7");
+}
+</style><path class="gu3zx5oba"/>`,
+		"fallback": "keyline-icons:chart-stock-up-sharp",
+	});
+}
+
+export default Component;

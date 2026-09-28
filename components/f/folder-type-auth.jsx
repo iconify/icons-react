@@ -1,0 +1,58 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":32,"height":32};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.e_oogkbmu {
+  width: 4.055px;
+  height: 2.143px;
+  x: 8.743px;
+  y: 25.018px;
+  fill: var(--svg-color--efc800, #efc800);
+  ry: 0.727px;
+}
+
+.ehrifibxr {
+  width: 2.716px;
+  height: 2.142px;
+  x: 9.213px;
+  y: 22.057px;
+  fill: var(--svg-color--efc800, #efc800);
+  ry: 0.727px;
+}
+
+.hp4825onv {
+  cx: 8.66px;
+  cy: 16.119px;
+  r: 3.199px;
+  fill: none;
+  stroke: var(--svg-color--efc800, #efc800);
+  stroke-width: var(--svg-stroke-width--2-095px, 2.095px);
+}
+
+.r7306lblv {
+  width: 2.799px;
+  height: 10.513px;
+  x: 7.214px;
+  y: 18.782px;
+  fill: var(--svg-color--a68b00, #a68b00);
+  ry: 1.588px;
+}
+
+.tw4hh6b7d {
+  fill: var(--svg-color--5c4d00, #5c4d00);
+  d: path("M27.5 5.5h-9.3l-2.1 4.2H4.4v16.8h25.2v-21Zm0 4.2h-8.2l1.1-2.1h7.1Z");
+}
+</style><path class="tw4hh6b7d"/><g transform="matrix(1.14465 -.78383 .7697 1.16566 -6.01 2.614)"><rect transform="rotate(-.675)skewX(-.166)" class="r7306lblv"/><circle class="hp4825onv"/><rect transform="matrix(.99978 .02075 .0211 .99978 0 0)" class="e_oogkbmu"/><rect transform="matrix(.99968 .0254 .0054 .99999 0 0)" class="ehrifibxr"/></g>`,
+		"fallback": "vscode-icons:folder-type-auth",
+	});
+}
+
+export default Component;

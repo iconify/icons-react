@@ -1,5 +1,6 @@
 # @iconify-react/simple-icons
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/simple-icons).
 **Simple Icons**
 
 Author: [Simple Icons Collaborators](https://github.com/simple-icons/simple-icons)
@@ -10,6 +11,11 @@ Browse all icons: [preview Simple Icons on Iconify](https://icon-sets.iconify.de
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#simple-icons
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#simple-icons
 ```

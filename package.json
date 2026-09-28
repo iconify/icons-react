@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/simple-icons",
   "type": "module",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "homepage": "https://icon-sets.iconify.design/simple-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -6022,6 +6022,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hyperx.jsx"
     },
+    "./hypit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hypit.jsx"
+    },
     "./hypothesis": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hypothesis.jsx"
@@ -8893,6 +8897,10 @@
     "./notepadplusplus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/notepadplusplus.jsx"
+    },
+    "./notesnook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notesnook.jsx"
     },
     "./notion": {
       "types": "./types/hqrkovbr.d.ts",

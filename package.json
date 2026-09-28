@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/pinhead",
   "type": "module",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "homepage": "https://icon-sets.iconify.design/pinhead/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -365,6 +365,10 @@
     "./ampersand": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ampersand.jsx"
+    },
+    "./amphora": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amphora.jsx"
     },
     "./analog-tv-with-rabbitears": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2046,6 +2050,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-battery.jsx"
     },
+    "./car-beside-bench-on-ground": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-beside-bench-on-ground.jsx"
+    },
     "./car-beside-car": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-beside-car.jsx"
@@ -2238,9 +2246,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cars-on-barge-on-water.jsx"
     },
+    "./cartoon-bomb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cartoon-bomb.jsx"
+    },
     "./cartoon-bomb-with-lit-fuse": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cartoon-bomb-with-lit-fuse.jsx"
+    },
+    "./cartoon-cannon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cartoon-cannon.jsx"
     },
     "./cartoon-cannon-with-lit-fuse": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3058,10 +3074,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/delicate-arch.jsx"
     },
-    "./desk-lamp": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/d/desk-lamp.jsx"
-    },
     "./detergent-bottle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/detergent-bottle.jsx"
@@ -3842,9 +3854,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fork-beside-fish.jsx"
     },
-    "./fork-beside-knife": {
+    "./fork-beside-plate-beside-table-knife": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/f/fork-beside-knife.jsx"
+      "default": "./components/f/fork-beside-plate-beside-table-knife.jsx"
     },
     "./fork-beside-sausage": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3854,9 +3866,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fork-beside-spoon.jsx"
     },
-    "./fork-crossing-knife": {
+    "./fork-beside-table-knife": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/f/fork-crossing-knife.jsx"
+      "default": "./components/f/fork-beside-table-knife.jsx"
+    },
+    "./fork-crossing-table-knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork-crossing-table-knife.jsx"
     },
     "./fort": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4105,10 +4121,6 @@
     "./gravestone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gravestone.jsx"
-    },
-    "./grecian-vase": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/g/grecian-vase.jsx"
     },
     "./greek-cross": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4769,10 +4781,6 @@
     "./kitchen-sink": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kitchen-sink.jsx"
-    },
-    "./knife": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/k/knife.jsx"
     },
     "./l": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6190,6 +6198,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pencil-and-apple.jsx"
     },
+    "./pencil-beside-ruler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil-beside-ruler.jsx"
+    },
     "./pencil-bottom-left-to-square-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pencil-bottom-left-to-square-outline.jsx"
@@ -7066,6 +7078,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-bottom-right.jsx"
     },
+    "./phone-bottom-right-and-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-bottom-right-and-minus.jsx"
+    },
     "./phone-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-down.jsx"
@@ -7134,9 +7150,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-right.jsx"
     },
+    "./phone-right-beside-droplet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-right-beside-droplet.jsx"
+    },
     "./phone-right-beside-exclamation-point": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-right-beside-exclamation-point.jsx"
+    },
+    "./phone-right-beside-gas-flame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-right-beside-gas-flame.jsx"
     },
     "./phone-right-beside-question-mark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7153,6 +7177,26 @@
     "./phone-top-right": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-top-right.jsx"
+    },
+    "./phone-top-right-and-exclamation-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-top-right-and-exclamation-point.jsx"
+    },
+    "./phone-top-right-and-greek-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-top-right-and-greek-cross.jsx"
+    },
+    "./phone-top-right-and-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-top-right-and-minus.jsx"
+    },
+    "./phone-top-right-and-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-top-right-and-plus.jsx"
+    },
+    "./phone-top-right-and-question-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-top-right-and-question-mark.jsx"
     },
     "./phone-top-right-with-exclamation-point": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7494,9 +7538,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-exclamation-point.jsx"
     },
-    "./pixel-fork-and-knife": {
+    "./pixel-fork-beside-table-knife": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/pixel-fork-and-knife.jsx"
+      "default": "./components/p/pixel-fork-beside-table-knife.jsx"
     },
     "./pixel-gasoline-pump": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9066,6 +9110,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spoon-beside-fork.jsx"
     },
+    "./spoon-beside-table-knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spoon-beside-table-knife.jsx"
+    },
+    "./spoon-beside-table-knife-in-gable-roofed-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spoon-beside-table-knife-in-gable-roofed-shelter.jsx"
+    },
     "./spray-paint-can": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spray-paint-can.jsx"
@@ -9465,6 +9517,14 @@
     "./t": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/t.jsx"
+    },
+    "./table-knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-knife.jsx"
+    },
+    "./table-lamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-lamp.jsx"
     },
     "./table-soccer-players-with-ball": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11226,6 +11286,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/conifer-tree-and-oval-broadleaved-tree.jsx"
     },
+    "./desk-lamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/desk-lamp.jsx"
+    },
     "./diamond": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/diamond.jsx"
@@ -11394,6 +11458,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fork-and-spoon.jsx"
     },
+    "./fork-beside-knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork-beside-knife.jsx"
+    },
+    "./fork-crossing-knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fork-crossing-knife.jsx"
+    },
     "./four": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/four.jsx"
@@ -11449,6 +11521,10 @@
     "./golf-green": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/golf-green.jsx"
+    },
+    "./grecian-vase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grecian-vase.jsx"
     },
     "./hammer-with-nail": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11525,6 +11601,10 @@
     "./kids-train-with-tires": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kids-train-with-tires.jsx"
+    },
+    "./knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knife.jsx"
     },
     "./motorboat-and-key": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11949,6 +12029,10 @@
     "./pipe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pipe.jsx"
+    },
+    "./pixel-fork-and-knife": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixel-fork-and-knife.jsx"
     },
     "./pixel-head-and-shoulders": {
       "types": "./types/hqrkovbr.d.ts",

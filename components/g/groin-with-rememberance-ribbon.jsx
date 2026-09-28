@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hrgrmx64i.css';
+import '../../css/a/atouqacem.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hrgrmx64i"/>`,
+		"content": `<path class="atouqacem"/>`,
 		"fallback": "pinhead:groin-with-rememberance-ribbon",
 	});
 }

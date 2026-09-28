@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gehq5_fws.css';
+import '../../css/t/t8-l8jbsp.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gehq5_fws"/>`,
-		"fallback": "pinhead:groin",
+		"content": `<path class="t8-l8jbsp"/>`,
+		"fallback": "pinhead:phone-bottom-right-and-minus",
 	});
 }
 

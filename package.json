@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/logos",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "https://icon-sets.iconify.design/logos/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -938,6 +938,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/batch.jsx"
     },
+    "./bazel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel.jsx"
+    },
+    "./bazel-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bazel-icon.jsx"
+    },
     "./beats": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/beats.jsx"
@@ -1334,6 +1342,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/centos-icon.jsx"
     },
+    "./cerebras": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cerebras.jsx"
+    },
+    "./cerebras-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cerebras-icon.jsx"
+    },
     "./certbot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/certbot.jsx"
@@ -1425,6 +1441,14 @@
     "./claude-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/claude-icon.jsx"
+    },
+    "./clerk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clerk.jsx"
+    },
+    "./clerk-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clerk-icon.jsx"
     },
     "./clickdeploy": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2170,6 +2194,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dialogflow.jsx"
     },
+    "./dify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dify.jsx"
+    },
     "./digital-ocean": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/digital-ocean.jsx"
@@ -2321,6 +2349,14 @@
     "./drizzle-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/drizzle-icon.jsx"
+    },
+    "./drizzle-orm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drizzle-orm.jsx"
+    },
+    "./drizzle-orm-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drizzle-orm-icon.jsx"
     },
     "./drone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2745,6 +2781,14 @@
     "./firebase-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/firebase-icon.jsx"
+    },
+    "./firecrawl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firecrawl.jsx"
+    },
+    "./firecrawl-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/firecrawl-icon.jsx"
     },
     "./firefox": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4066,6 +4110,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/jhipster-icon.jsx"
     },
+    "./jina": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jina.jsx"
+    },
     "./jira": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/jira.jsx"
@@ -4353,6 +4401,14 @@
     "./kustomer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kustomer.jsx"
+    },
+    "./langchain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/langchain.jsx"
+    },
+    "./langchain-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/langchain-icon.jsx"
     },
     "./languagetool": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4841,6 +4897,14 @@
     "./meilisearch": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/meilisearch.jsx"
+    },
+    "./mem0": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mem0.jsx"
+    },
+    "./mem0-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mem0-icon.jsx"
     },
     "./memcached": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5489,6 +5553,18 @@
     "./ocaml": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/ocaml.jsx"
+    },
+    "./octelium": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octelium.jsx"
+    },
+    "./octelium-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octelium-icon.jsx"
+    },
+    "./octelium-icon-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octelium-icon-dark.jsx"
     },
     "./octodns": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7602,6 +7678,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/telegram.jsx"
     },
+    "./temporal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/temporal.jsx"
+    },
+    "./temporal-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/temporal-icon.jsx"
+    },
     "./tensorflow": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tensorflow.jsx"
@@ -7701,6 +7785,14 @@
     "./todomvc": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/todomvc.jsx"
+    },
+    "./togetherai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/togetherai.jsx"
+    },
+    "./togetherai-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/togetherai-icon.jsx"
     },
     "./tomcat": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8041,6 +8133,14 @@
     "./valkey-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/valkey-icon.jsx"
+    },
+    "./vapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vapi.jsx"
+    },
+    "./vapi-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vapi-icon.jsx"
     },
     "./vault": {
       "types": "./types/hqrkovbr.d.ts",

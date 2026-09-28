@@ -1,5 +1,6 @@
 # @iconify-react/logos
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/logos).
 **SVG Logos**
 
 Author: [Gil Barbara](https://github.com/gilbarbara/logos)
@@ -10,6 +11,11 @@ Browse all icons: [preview SVG Logos on Iconify](https://icon-sets.iconify.desig
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#logos
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#logos
 ```

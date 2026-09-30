@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/ix",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://icon-sets.iconify.design/ix/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -201,6 +201,18 @@
     "./ai": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ai.jsx"
+    },
+    "./ai-agent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-agent.jsx"
+    },
+    "./ai-skill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-skill.jsx"
+    },
+    "./ai-sub-agent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ai-sub-agent.jsx"
     },
     "./alarm": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2694,6 +2706,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/helmet-safety-filled.jsx"
     },
+    "./hexagon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hexagon.jsx"
+    },
+    "./hexagon-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hexagon-filled.jsx"
+    },
     "./hexagon-vertical-bars": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hexagon-vertical-bars.jsx"
@@ -3653,6 +3673,14 @@
     "./objects-tree": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/objects-tree.jsx"
+    },
+    "./octagon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octagon.jsx"
+    },
+    "./octagon-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octagon-filled.jsx"
     },
     "./ontology": {
       "types": "./types/hqrkovbr.d.ts",

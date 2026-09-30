@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/keyline-icons",
   "type": "module",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "homepage": "https://icon-sets.iconify.design/keyline-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2098,6 +2098,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-right-fill.jsx"
     },
+    "./arrow-right-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left.jsx"
+    },
+    "./arrow-right-left-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left-duotone.jsx"
+    },
+    "./arrow-right-left-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left-fill.jsx"
+    },
+    "./arrow-right-left-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left-sharp.jsx"
+    },
+    "./arrow-right-left-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left-sharp-duotone.jsx"
+    },
+    "./arrow-right-left-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left-sharp-fill.jsx"
+    },
+    "./arrow-right-left-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left-sharp-two-tone.jsx"
+    },
+    "./arrow-right-left-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right-left-two-tone.jsx"
+    },
     "./arrow-right-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-right-sharp.jsx"
@@ -2249,6 +2281,38 @@
     "./arrow-up-dashed-panel-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-dashed-panel-two-tone.jsx"
+    },
+    "./arrow-up-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down.jsx"
+    },
+    "./arrow-up-down-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down-duotone.jsx"
+    },
+    "./arrow-up-down-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down-fill.jsx"
+    },
+    "./arrow-up-down-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down-sharp.jsx"
+    },
+    "./arrow-up-down-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down-sharp-duotone.jsx"
+    },
+    "./arrow-up-down-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down-sharp-fill.jsx"
+    },
+    "./arrow-up-down-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down-sharp-two-tone.jsx"
+    },
+    "./arrow-up-down-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-down-two-tone.jsx"
     },
     "./arrow-up-duotone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5865,6 +5929,38 @@
     "./calendar-check-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-check-two-tone.jsx"
+    },
+    "./calendar-days": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days.jsx"
+    },
+    "./calendar-days-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days-duotone.jsx"
+    },
+    "./calendar-days-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days-fill.jsx"
+    },
+    "./calendar-days-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days-sharp.jsx"
+    },
+    "./calendar-days-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days-sharp-duotone.jsx"
+    },
+    "./calendar-days-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days-sharp-fill.jsx"
+    },
+    "./calendar-days-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days-sharp-two-tone.jsx"
+    },
+    "./calendar-days-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-days-two-tone.jsx"
     },
     "./calendar-duotone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12490,6 +12586,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy.jsx"
     },
+    "./copy-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check.jsx"
+    },
+    "./copy-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-duotone.jsx"
+    },
+    "./copy-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-fill.jsx"
+    },
+    "./copy-check-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-sharp.jsx"
+    },
+    "./copy-check-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-sharp-duotone.jsx"
+    },
+    "./copy-check-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-sharp-fill.jsx"
+    },
+    "./copy-check-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-sharp-two-tone.jsx"
+    },
+    "./copy-check-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-two-tone.jsx"
+    },
     "./copy-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy-duotone.jsx"
@@ -18706,6 +18834,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-plus-two-tone.jsx"
     },
+    "./globe-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search.jsx"
+    },
+    "./globe-search-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search-duotone.jsx"
+    },
+    "./globe-search-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search-fill.jsx"
+    },
+    "./globe-search-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search-sharp.jsx"
+    },
+    "./globe-search-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search-sharp-duotone.jsx"
+    },
+    "./globe-search-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search-sharp-fill.jsx"
+    },
+    "./globe-search-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search-sharp-two-tone.jsx"
+    },
+    "./globe-search-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-search-two-tone.jsx"
+    },
     "./globe-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-sharp.jsx"
@@ -18757,6 +18917,38 @@
     "./globe-x-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-x-two-tone.jsx"
+    },
+    "./gold-bars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars.jsx"
+    },
+    "./gold-bars-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars-duotone.jsx"
+    },
+    "./gold-bars-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars-fill.jsx"
+    },
+    "./gold-bars-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars-sharp.jsx"
+    },
+    "./gold-bars-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars-sharp-duotone.jsx"
+    },
+    "./gold-bars-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars-sharp-fill.jsx"
+    },
+    "./gold-bars-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars-sharp-two-tone.jsx"
+    },
+    "./gold-bars-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gold-bars-two-tone.jsx"
     },
     "./golf-hole": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20294,6 +20486,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hearts-two-tone.jsx"
     },
+    "./history": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history.jsx"
+    },
+    "./history-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-duotone.jsx"
+    },
+    "./history-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-fill.jsx"
+    },
+    "./history-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-sharp.jsx"
+    },
+    "./history-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-sharp-duotone.jsx"
+    },
+    "./history-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-sharp-fill.jsx"
+    },
+    "./history-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-sharp-two-tone.jsx"
+    },
+    "./history-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-two-tone.jsx"
+    },
     "./hockey-sticks": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hockey-sticks.jsx"
@@ -21317,6 +21541,38 @@
     "./keyboard-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keyboard-two-tone.jsx"
+    },
+    "./landmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark.jsx"
+    },
+    "./landmark-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-duotone.jsx"
+    },
+    "./landmark-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-fill.jsx"
+    },
+    "./landmark-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-sharp.jsx"
+    },
+    "./landmark-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-sharp-duotone.jsx"
+    },
+    "./landmark-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-sharp-fill.jsx"
+    },
+    "./landmark-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-sharp-two-tone.jsx"
+    },
+    "./landmark-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/landmark-two-tone.jsx"
     },
     "./language": {
       "types": "./types/hqrkovbr.d.ts",
@@ -24038,6 +24294,198 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/minus-two-tone.jsx"
     },
+    "./money-bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag.jsx"
+    },
+    "./money-bag-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check.jsx"
+    },
+    "./money-bag-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check-duotone.jsx"
+    },
+    "./money-bag-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check-fill.jsx"
+    },
+    "./money-bag-check-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check-sharp.jsx"
+    },
+    "./money-bag-check-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check-sharp-duotone.jsx"
+    },
+    "./money-bag-check-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check-sharp-fill.jsx"
+    },
+    "./money-bag-check-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check-sharp-two-tone.jsx"
+    },
+    "./money-bag-check-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-check-two-tone.jsx"
+    },
+    "./money-bag-dollar-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign.jsx"
+    },
+    "./money-bag-dollar-sign-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign-duotone.jsx"
+    },
+    "./money-bag-dollar-sign-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign-fill.jsx"
+    },
+    "./money-bag-dollar-sign-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign-sharp.jsx"
+    },
+    "./money-bag-dollar-sign-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign-sharp-duotone.jsx"
+    },
+    "./money-bag-dollar-sign-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign-sharp-fill.jsx"
+    },
+    "./money-bag-dollar-sign-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign-sharp-two-tone.jsx"
+    },
+    "./money-bag-dollar-sign-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-dollar-sign-two-tone.jsx"
+    },
+    "./money-bag-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-duotone.jsx"
+    },
+    "./money-bag-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-fill.jsx"
+    },
+    "./money-bag-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus.jsx"
+    },
+    "./money-bag-minus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus-duotone.jsx"
+    },
+    "./money-bag-minus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus-fill.jsx"
+    },
+    "./money-bag-minus-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus-sharp.jsx"
+    },
+    "./money-bag-minus-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus-sharp-duotone.jsx"
+    },
+    "./money-bag-minus-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus-sharp-fill.jsx"
+    },
+    "./money-bag-minus-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus-sharp-two-tone.jsx"
+    },
+    "./money-bag-minus-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-minus-two-tone.jsx"
+    },
+    "./money-bag-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus.jsx"
+    },
+    "./money-bag-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus-duotone.jsx"
+    },
+    "./money-bag-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus-fill.jsx"
+    },
+    "./money-bag-plus-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus-sharp.jsx"
+    },
+    "./money-bag-plus-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus-sharp-duotone.jsx"
+    },
+    "./money-bag-plus-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus-sharp-fill.jsx"
+    },
+    "./money-bag-plus-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus-sharp-two-tone.jsx"
+    },
+    "./money-bag-plus-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-plus-two-tone.jsx"
+    },
+    "./money-bag-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-sharp.jsx"
+    },
+    "./money-bag-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-sharp-duotone.jsx"
+    },
+    "./money-bag-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-sharp-fill.jsx"
+    },
+    "./money-bag-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-sharp-two-tone.jsx"
+    },
+    "./money-bag-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-two-tone.jsx"
+    },
+    "./money-bag-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x.jsx"
+    },
+    "./money-bag-x-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x-duotone.jsx"
+    },
+    "./money-bag-x-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x-fill.jsx"
+    },
+    "./money-bag-x-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x-sharp.jsx"
+    },
+    "./money-bag-x-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x-sharp-duotone.jsx"
+    },
+    "./money-bag-x-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x-sharp-fill.jsx"
+    },
+    "./money-bag-x-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x-sharp-two-tone.jsx"
+    },
+    "./money-bag-x-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money-bag-x-two-tone.jsx"
+    },
     "./monitor": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monitor.jsx"
@@ -24421,6 +24869,38 @@
     "./navigation-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/navigation-two-tone.jsx"
+    },
+    "./newspaper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper.jsx"
+    },
+    "./newspaper-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper-duotone.jsx"
+    },
+    "./newspaper-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper-fill.jsx"
+    },
+    "./newspaper-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper-sharp.jsx"
+    },
+    "./newspaper-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper-sharp-duotone.jsx"
+    },
+    "./newspaper-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper-sharp-fill.jsx"
+    },
+    "./newspaper-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper-sharp-two-tone.jsx"
+    },
+    "./newspaper-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/newspaper-two-tone.jsx"
     },
     "./octagon-alert": {
       "types": "./types/hqrkovbr.d.ts",
@@ -33797,6 +34277,38 @@
     "./square-x-two-tone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-x-two-tone.jsx"
+    },
+    "./stamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp.jsx"
+    },
+    "./stamp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-duotone.jsx"
+    },
+    "./stamp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-fill.jsx"
+    },
+    "./stamp-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-sharp.jsx"
+    },
+    "./stamp-sharp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-sharp-duotone.jsx"
+    },
+    "./stamp-sharp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-sharp-fill.jsx"
+    },
+    "./stamp-sharp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-sharp-two-tone.jsx"
+    },
+    "./stamp-two-tone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-two-tone.jsx"
     },
     "./star": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.44",
+  "version": "1.0.45",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -5345,6 +5345,10 @@
     "./printer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/printer.jsx"
+    },
+    "./printer-3d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/printer-3d.jsx"
     },
     "./printer-check": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n2zv8kbzg.css';
+import '../../css/d/d9qye3kpx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n2zv8kbzg"/>`,
-		"fallback": "cbi:nanoleaf-holiday-string",
+		"content": `<path class="d9qye3kpx"/>`,
+		"fallback": "cbi:national-rail-alt",
 	});
 }
 

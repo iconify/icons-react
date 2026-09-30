@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.38",
+  "version": "1.0.39",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -3766,6 +3766,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nas-v2.jsx"
     },
+    "./national-rail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/national-rail.jsx"
+    },
+    "./national-rail-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/national-rail-alt.jsx"
+    },
     "./nautical-lamp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nautical-lamp.jsx"
@@ -3829,6 +3837,10 @@
     "./netapp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/netapp.jsx"
+    },
+    "./netbird": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netbird.jsx"
     },
     "./netflix": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5190,6 +5202,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/serie-a.jsx"
     },
+    "./seven-eleven-australia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/seven-eleven-australia.jsx"
+    },
     "./shade-rchiileea-v1": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shade-rchiileea-v1.jsx"
@@ -5305,6 +5321,10 @@
     "./skoda": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/skoda.jsx"
+    },
+    "./sky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sky.jsx"
     },
     "./sky-alt": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6113,6 +6133,10 @@
     "./transmission-bt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/transmission-bt.jsx"
+    },
+    "./transport-for-london": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transport-for-london.jsx"
     },
     "./treadmill": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v27c71pnk.css';
+import '../../css/r/ry50nluez.css';
 
 const viewBox = {"width":12,"height":12};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v27c71pnk"/>`,
+		"content": `<path class="ry50nluez"/>`,
 		"fallback": "garden:at-fill-12",
 	});
 }

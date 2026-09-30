@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wqb0ohmtx.css';
+import '../../css/b/bwgw36hjy.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wqb0ohmtx"/>`,
+		"content": `<path class="bwgw36hjy"/>`,
 		"fallback": "garden:at-stroke-16",
 	});
 }

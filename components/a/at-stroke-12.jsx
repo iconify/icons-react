@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zn_x731ei.css';
+import '../../css/s/s2m-mqbyd.css';
 
 const viewBox = {"width":12,"height":12};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zn_x731ei"/>`,
+		"content": `<path class="s2m-mqbyd"/>`,
 		"fallback": "garden:at-stroke-12",
 	});
 }

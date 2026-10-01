@@ -26,7 +26,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<mask id="SVGuywqVbel"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGuywqVbel)"><path class="qt_9jx42m"/><path class="dffbopb6b"/><path class="pfvhoq-hg"/><path class="idfhmp8ux"/><path class="w3qnlzbed"/><path class="mvw_6unjn"/><path class="vkhxz4sck"/><path class="f_so6ebfq"/><path class="i4wl9yo7g"/><path class="a1g3iybzp"/><path class="l0qi3cscb"/><path class="jznffsblb"/><path class="eo114u_wk"/><path class="eec2tedcw"/><path class="yvjv1pirb"/></g>`,
+		"content": `<mask id="SVGqdEcMdXs"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGqdEcMdXs)"><path class="qt_9jx42m"/><path class="dffbopb6b"/><path class="pfvhoq-hg"/><path class="idfhmp8ux"/><path class="w3qnlzbed"/><path class="mvw_6unjn"/><path class="vkhxz4sck"/><path class="f_so6ebfq"/><path class="i4wl9yo7g"/><path class="a1g3iybzp"/><path class="l0qi3cscb"/><path class="jznffsblb"/><path class="eo114u_wk"/><path class="eec2tedcw"/><path class="yvjv1pirb"/></g>`,
 		"fallback": "circle-flags:lang-en-ke",
 	});
 }

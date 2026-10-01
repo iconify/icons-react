@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<mask id="SVGuywqVbel"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGuywqVbel)"><path class="ks7llbbob"/><path class="qdvv22ehu"/><path class="niitbfbhy"/><path class="kgls69xgi"/><path class="eo114u_wk"/><path class="eec2tedcw"/><path class="yvjv1pirb"/></g>`,
+		"content": `<mask id="SVGqdEcMdXs"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGqdEcMdXs)"><path class="ks7llbbob"/><path class="qdvv22ehu"/><path class="niitbfbhy"/><path class="kgls69xgi"/><path class="eo114u_wk"/><path class="eec2tedcw"/><path class="yvjv1pirb"/></g>`,
 		"fallback": "circle-flags:lang-en-gh",
 	});
 }

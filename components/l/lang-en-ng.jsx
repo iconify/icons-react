@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<mask id="SVGuywqVbel"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGuywqVbel)"><path class="nnbchob0p"/><path class="v0zpewbyq"/><path class="eec2tedcw"/><path class="yvjv1pirb"/></g>`,
+		"content": `<mask id="SVGqdEcMdXs"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGqdEcMdXs)"><path class="nnbchob0p"/><path class="v0zpewbyq"/><path class="eec2tedcw"/><path class="yvjv1pirb"/></g>`,
 		"fallback": "circle-flags:lang-en-ng",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/circle-flags",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://icon-sets.iconify.design/circle-flags/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -470,66 +470,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/en.jsx"
     },
-    "./en-au": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-au.jsx"
-    },
-    "./en-ca": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-ca.jsx"
-    },
-    "./en-gh": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-gh.jsx"
-    },
-    "./en-hk": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-hk.jsx"
-    },
-    "./en-ie": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-ie.jsx"
-    },
-    "./en-in": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-in.jsx"
-    },
-    "./en-ke": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-ke.jsx"
-    },
-    "./en-ng": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-ng.jsx"
-    },
-    "./en-nz": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-nz.jsx"
-    },
-    "./en-ph": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-ph.jsx"
-    },
-    "./en-sg": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-sg.jsx"
-    },
-    "./en-tz": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-tz.jsx"
-    },
-    "./en-us": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-us.jsx"
-    },
-    "./en-za": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/en-za.jsx"
-    },
-    "./eo": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/eo.jsx"
-    },
     "./er": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/er.jsx"
@@ -565,10 +505,6 @@
     "./es-ml": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/es-ml.jsx"
-    },
-    "./es-mx": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/es-mx.jsx"
     },
     "./es-pv": {
       "types": "./types/hqrkovbr.d.ts",
@@ -866,10 +802,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hy.jsx"
     },
-    "./ia": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/ia.jsx"
-    },
     "./ic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ic.jsx"
@@ -941,10 +873,6 @@
     "./in-tn": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/in-tn.jsx"
-    },
-    "./interslavic": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/interslavic.jsx"
     },
     "./io": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2158,10 +2086,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/no.jsx"
     },
-    "./non": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/n/non.jsx"
-    },
     "./northern-cyprus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/northern-cyprus.jsx"
@@ -2293,10 +2217,6 @@
     "./pt-30": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pt-30.jsx"
-    },
-    "./pt-br": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/pt-br.jsx"
     },
     "./pw": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2798,10 +2718,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vn.jsx"
     },
-    "./vo": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/v/vo.jsx"
-    },
     "./vu": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vu.jsx"
@@ -2833,10 +2749,6 @@
     "./ye": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/y/ye.jsx"
-    },
-    "./yi": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/y/yi.jsx"
     },
     "./yo": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2878,6 +2790,70 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zw.jsx"
     },
+    "./en-au": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-au.jsx"
+    },
+    "./en-ca": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-ca.jsx"
+    },
+    "./en-gh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-gh.jsx"
+    },
+    "./en-hk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-hk.jsx"
+    },
+    "./en-ie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-ie.jsx"
+    },
+    "./en-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-in.jsx"
+    },
+    "./en-ke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-ke.jsx"
+    },
+    "./en-ng": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-ng.jsx"
+    },
+    "./en-nz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-nz.jsx"
+    },
+    "./en-ph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-ph.jsx"
+    },
+    "./en-sg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-sg.jsx"
+    },
+    "./en-tz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-tz.jsx"
+    },
+    "./en-us": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-us.jsx"
+    },
+    "./en-za": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/en-za.jsx"
+    },
+    "./eo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eo.jsx"
+    },
+    "./es-mx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/es-mx.jsx"
+    },
     "./esperanto": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/esperanto.jsx"
@@ -2885,6 +2861,14 @@
     "./fr-h": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fr-h.jsx"
+    },
+    "./ia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ia.jsx"
+    },
+    "./interslavic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/interslavic.jsx"
     },
     "./iw": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2958,6 +2942,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lang-zu.jsx"
     },
+    "./non": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/non.jsx"
+    },
+    "./pt-br": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pt-br.jsx"
+    },
     "./sindh": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sindh.jsx"
@@ -2981,6 +2973,14 @@
     "./us-um": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/us-um.jsx"
+    },
+    "./vo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vo.jsx"
+    },
+    "./yi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yi.jsx"
     },
     "./yiddish": {
       "types": "./types/hqrkovbr.d.ts",

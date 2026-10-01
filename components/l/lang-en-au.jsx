@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<mask id="SVGuywqVbel"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGuywqVbel)"><path class="d1pfnyb3d"/><path class="q4qfmq08t"/><path class="ro7_s-blc"/></g>`,
+		"content": `<mask id="SVGqdEcMdXs"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGqdEcMdXs)"><path class="d1pfnyb3d"/><path class="q4qfmq08t"/><path class="ro7_s-blc"/></g>`,
 		"fallback": "circle-flags:lang-en-au",
 	});
 }

@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<mask id="SVGuywqVbel"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGuywqVbel)"><path class="e-y-jcbtg"/><path class="jf8nxac2c"/><circle class="k7ospfcov"/><circle class="h8gy_nb5o"/><circle class="e_v5y3bmx"/><circle class="fxwmpnb8f"/><path class="phvmvu6od"/><path class="rs44f5bwj"/><path class="xlst-nmta"/><path class="ohedanbdc"/></g>`,
+		"content": `<mask id="SVGqdEcMdXs"><circle class="bc1fd0lxe"/></mask><g mask="url(#SVGqdEcMdXs)"><path class="e-y-jcbtg"/><path class="jf8nxac2c"/><circle class="k7ospfcov"/><circle class="h8gy_nb5o"/><circle class="e_v5y3bmx"/><circle class="fxwmpnb8f"/><path class="phvmvu6od"/><path class="rs44f5bwj"/><path class="xlst-nmta"/><path class="ohedanbdc"/></g>`,
 		"fallback": "circle-flags:lang-yi",
 	});
 }

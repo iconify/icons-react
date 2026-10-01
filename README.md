@@ -1,5 +1,6 @@
 # @iconify-react/reicon
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/reicon).
 **Reicon**
 
 Author: [REICON](https://github.com/dqev/reicon)
@@ -10,6 +11,11 @@ Browse all icons: [preview Reicon on Iconify](https://icon-sets.iconify.design/r
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#reicon
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#reicon
 ```

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ahudrcy8m.css';
+import '../../css/k/ky77crbct.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ahudrcy8m"/>`,
+		"content": `<path class="ky77crbct"/>`,
 		"fallback": "reicon:maximize7-filled",
 	});
 }

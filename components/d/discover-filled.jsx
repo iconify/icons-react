@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rddvsb4-p.css';
+import '../../css/z/ztg_pfb8n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rddvsb4-p"/>`,
+		"content": `<path class="ztg_pfb8n"/>`,
 		"fallback": "reicon:discover-filled",
 	});
 }

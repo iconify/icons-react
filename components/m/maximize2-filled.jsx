@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/ky77crbct.css';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/g/gqdlajbad.css';
+import '../../css/z/z2uzdqbem.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ky77crbct"/>`,
+		"content": `<g class="cuyn6tgcc"><path class="gqdlajbad"/><path class="z2uzdqbem"/></g>`,
 		"fallback": "reicon:maximize2-filled",
 	});
 }

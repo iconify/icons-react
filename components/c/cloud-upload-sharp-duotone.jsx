@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cw09ft6ob {
+  d: path("M12 15.75L12 10.25M9.4571 12.7929L12 10.25L14.5429 12.7929");
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.r3bxhz_dv {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M6 20L18 20C20.6233 20 23 17.6233 23 15C23 12.6937 21.163 10.578 18.9365 10.1004C18.4644 6.7612 15.4245 4 12 4C8.5755 4 5.5356 6.7612 5.0635 10.1004C2.837 10.578 1 12.6937 1 15C1 17.6233 3.3767 20 6 20Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="r3bxhz_dv"/><path class="cw09ft6ob"/></g>`,
+		"fallback": "keyline-icons:cloud-upload-sharp-duotone",
+	});
+}
+
+export default Component;

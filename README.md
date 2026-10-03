@@ -1,5 +1,6 @@
 # @iconify-react/octicon
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/octicon).
 **Octicons**
 
 Author: [GitHub](https://github.com/primer/octicons/)
@@ -10,6 +11,11 @@ Browse all icons: [preview Octicons on Iconify](https://icon-sets.iconify.design
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#octicon
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#octicon
 ```

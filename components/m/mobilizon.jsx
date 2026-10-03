@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/a/a9xhsfe6o.css';
-import '../../css/o/ooilqmbnh.css';
-import '../../css/n/nga-i0ykp.css';
+import '../../css/h/h35hfnqor.css';
+import '../../css/e/ehfvjlbpp.css';
 
 const viewBox = {"width":60,"height":60};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a9xhsfe6o"/><path class="ooilqmbnh"/><path class="nga-i0ykp"/>`,
+		"content": `<path class="a9xhsfe6o"/><path class="h35hfnqor"/><path class="ehfvjlbpp"/>`,
 		"fallback": "thesvg-color:mobilizon",
 	});
 }

@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yjfaz3b4o.css';
-import '../../css/c/c12j9pbpg.css';
+import '../../css/e/epal7ia0t.css';
 
-const viewBox = {"width":300,"height":194.955};
+const viewBox = {"width":128,"height":128};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -12,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yjfaz3b4o"/><path class="c12j9pbpg"/>`,
-		"fallback": "thesvg-color:citibank",
+		"content": `<path class="epal7ia0t"/>`,
+		"fallback": "thesvg-color:mikemurphyai-light",
 	});
 }
 

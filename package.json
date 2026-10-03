@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -9338,6 +9338,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/letterboxd.jsx"
     },
+    "./levelrail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/levelrail.jsx"
+    },
     "./levelsdotfyi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/levelsdotfyi.jsx"
@@ -10082,9 +10086,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mastodon.jsx"
     },
-    "./mastra": {
+    "./mastra-dark": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/m/mastra.jsx"
+      "default": "./components/m/mastra-dark.jsx"
+    },
+    "./mastra-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastra-legacy.jsx"
+    },
+    "./mastra-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastra-light.jsx"
     },
     "./material-design": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10741,6 +10753,14 @@
     "./mihoyo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mihoyo.jsx"
+    },
+    "./mikemurphyai-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mikemurphyai-dark.jsx"
+    },
+    "./mikemurphyai-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mikemurphyai-light.jsx"
     },
     "./mikrotik": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17186,6 +17206,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tinkercad.jsx"
     },
+    "./tintas-vital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tintas-vital.jsx"
+    },
     "./tinygrad": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tinygrad.jsx"
@@ -19605,6 +19629,10 @@
     "./circleci": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circleci.jsx"
+    },
+    "./mastra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastra.jsx"
     },
     "./*": "./*"
   },

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -1473,6 +1473,18 @@
     "./aria2-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/aria2-light.jsx"
+    },
+    "./arlo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arlo.jsx"
+    },
+    "./arlo-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arlo-dark.jsx"
+    },
+    "./arlo-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arlo-light.jsx"
     },
     "./arr-dashboard": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9318,6 +9330,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/haproxy.jsx"
     },
+    "./haproxy-cluster-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haproxy-cluster-manager.jsx"
+    },
+    "./haproxy-cluster-manager-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haproxy-cluster-manager-dark.jsx"
+    },
+    "./haproxy-cluster-manager-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haproxy-cluster-manager-light.jsx"
+    },
     "./haproxy-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/haproxy-dark.jsx"
@@ -9589,6 +9613,18 @@
     "./headlamp-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headlamp-light.jsx"
+    },
+    "./headplane": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headplane.jsx"
+    },
+    "./headplane-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headplane-dark.jsx"
+    },
+    "./headplane-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headplane-light.jsx"
     },
     "./headscale": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9953,6 +9989,18 @@
     "./homedash-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/homedash-light.jsx"
+    },
+    "./homedex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homedex.jsx"
+    },
+    "./homedex-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homedex-dark.jsx"
+    },
+    "./homedex-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homedex-light.jsx"
     },
     "./homedock-os": {
       "types": "./types/hqrkovbr.d.ts",
@@ -13526,6 +13574,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/makers-vault-light.jsx"
     },
+    "./malcolm-networking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/malcolm-networking.jsx"
+    },
     "./maloja": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/maloja.jsx"
@@ -13929,6 +13981,18 @@
     "./medikeep-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/medikeep-light.jsx"
+    },
+    "./medinv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medinv.jsx"
+    },
+    "./medinv-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medinv-dark.jsx"
+    },
+    "./medinv-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/medinv-light.jsx"
     },
     "./mediux": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20742,6 +20806,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pve-ups-light.jsx"
     },
+    "./pydantic-logfire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pydantic-logfire.jsx"
+    },
+    "./pydantic-logfire-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pydantic-logfire-dark.jsx"
+    },
+    "./pydantic-logfire-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pydantic-logfire-light.jsx"
+    },
     "./pyload": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pyload.jsx"
@@ -20849,6 +20925,18 @@
     "./qnap-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qnap-light.jsx"
+    },
+    "./questdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/questdb.jsx"
+    },
+    "./questdb-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/questdb-dark.jsx"
+    },
+    "./questdb-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/questdb-light.jsx"
     },
     "./quetre": {
       "types": "./types/hqrkovbr.d.ts",
@@ -26874,6 +26962,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/viaplay-light.jsx"
     },
+    "./victorialogs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/victorialogs.jsx"
+    },
+    "./victorialogs-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/victorialogs-dark.jsx"
+    },
+    "./victorialogs-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/victorialogs-light.jsx"
+    },
     "./victoriametrics": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/victoriametrics.jsx"
@@ -27577,6 +27677,18 @@
     "./websocket-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/websocket-light.jsx"
+    },
+    "./webssh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webssh.jsx"
+    },
+    "./webssh-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webssh-dark.jsx"
+    },
+    "./webssh-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webssh-light.jsx"
     },
     "./webtrees": {
       "types": "./types/hqrkovbr.d.ts",
@@ -28613,6 +28725,18 @@
     "./zen-notes-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zen-notes-light.jsx"
+    },
+    "./zenmux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zenmux.jsx"
+    },
+    "./zenmux-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zenmux-dark.jsx"
+    },
+    "./zenmux-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zenmux-light.jsx"
     },
     "./zensical": {
       "types": "./types/hqrkovbr.d.ts",

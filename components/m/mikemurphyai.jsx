@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dsjky8-vc.css';
+import '../../css/e/eegf-nbho.css';
 
-const viewBox = {"width":429.02,"height":429.02,"left":116,"top":34.49};
+const viewBox = {"width":128,"height":128};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dsjky8-vc"/>`,
-		"fallback": "thesvg:mastra",
+		"content": `<path class="eegf-nbho"/>`,
+		"fallback": "thesvg:mikemurphyai",
 	});
 }
 

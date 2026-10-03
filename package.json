@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -7226,6 +7226,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/letterboxd.jsx"
     },
+    "./levelrail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/levelrail.jsx"
+    },
     "./levelsdotfyi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/levelsdotfyi.jsx"
@@ -7830,6 +7834,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mastra.jsx"
     },
+    "./mastra-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mastra-legacy.jsx"
+    },
     "./material-design": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/material-design.jsx"
@@ -8129,6 +8137,10 @@
     "./mihoyo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mihoyo.jsx"
+    },
+    "./mikemurphyai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mikemurphyai.jsx"
     },
     "./mikrotik": {
       "types": "./types/hqrkovbr.d.ts",

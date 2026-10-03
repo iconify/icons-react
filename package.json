@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -854,6 +854,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/budbee.jsx"
     },
+    "./buddha-sitting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buddha-sitting.jsx"
+    },
     "./bugatti": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bugatti.jsx"
@@ -1642,6 +1646,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dish-network-alt.jsx"
     },
+    "./dishwasher-rinse-aid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dishwasher-rinse-aid.jsx"
+    },
+    "./dishwasher-salt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dishwasher-salt.jsx"
+    },
     "./disney-plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/disney-plus.jsx"
@@ -2129,6 +2141,10 @@
     "./flynas": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flynas.jsx"
+    },
+    "./food-apple-core": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/food-apple-core.jsx"
     },
     "./ford": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2745,6 +2761,14 @@
     "./ikea-haddebo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ikea-haddebo.jsx"
+    },
+    "./ikea-hektar-floor-lamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ikea-hektar-floor-lamp.jsx"
+    },
+    "./ikea-hektar-pendant-lamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ikea-hektar-pendant-lamp.jsx"
     },
     "./ikea-hektar3": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4725,6 +4749,10 @@
     "./raiplay": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/raiplay.jsx"
+    },
+    "./rakuten-viki-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rakuten-viki-alt.jsx"
     },
     "./ram": {
       "types": "./types/hqrkovbr.d.ts",

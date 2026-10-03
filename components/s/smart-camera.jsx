@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y-7yccbgd.css';
+import '../../css/i/iqi269k2z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y-7yccbgd"/>`,
+		"content": `<path class="iqi269k2z"/>`,
 		"fallback": "cbi:smart-camera",
 	});
 }

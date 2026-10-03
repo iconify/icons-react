@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/d/dwm76fkra.css';
-import '../../css/c/cupedko2b.css';
-import '../../css/w/wmzmx8bkg.css';
+import '../../css/m/mgguy_rxa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="dwm76fkra"/><path class="cupedko2b"/><path class="wmzmx8bkg"/></g>`,
-		"fallback": "lucide:nut",
+		"content": `<path class="mgguy_rxa"/>`,
+		"fallback": "lucide:text-align-justify-end",
 	});
 }
 

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/pinhead",
   "type": "module",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "homepage": "https://icon-sets.iconify.design/pinhead/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -550,10 +550,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-down-from-banknote-in-slot.jsx"
     },
-    "./arrow-down-from-banknote-stack-in-slot": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/a/arrow-down-from-banknote-stack-in-slot.jsx"
-    },
     "./arrow-down-from-book-with-bookmark-in-slot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-down-from-book-with-bookmark-in-slot.jsx"
@@ -569,6 +565,10 @@
     "./arrow-down-from-rectangle-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-down-from-rectangle-outline.jsx"
+    },
+    "./arrow-down-from-three-stacked-banknotes-in-slot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-from-three-stacked-banknotes-in-slot.jsx"
     },
     "./arrow-down-from-ticket-in-slot": {
       "types": "./types/hqrkovbr.d.ts",
@@ -702,10 +702,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-to-banknote-in-slot.jsx"
     },
-    "./arrow-up-to-banknote-stack-in-slot": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/a/arrow-up-to-banknote-stack-in-slot.jsx"
-    },
     "./arrow-up-to-book-with-bookmark-in-slot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-to-book-with-bookmark-in-slot.jsx"
@@ -721,6 +717,10 @@
     "./arrow-up-to-rectangle-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-to-rectangle-outline.jsx"
+    },
+    "./arrow-up-to-three-stacked-banknotes-in-slot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-to-three-stacked-banknotes-in-slot.jsx"
     },
     "./arrow-up-to-ticket-in-slot": {
       "types": "./types/hqrkovbr.d.ts",
@@ -774,13 +774,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrows-up-down-left-right.jsx"
     },
-    "./art-text": {
+    "./art-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/a/art-text.jsx"
+      "default": "./components/a/art-uppercase.jsx"
     },
-    "./art-text-above-swash-line": {
+    "./art-uppercase-above-swash-line": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/a/art-text-above-swash-line.jsx"
+      "default": "./components/a/art-uppercase-above-swash-line.jsx"
     },
     "./astrologers-hat": {
       "types": "./types/hqrkovbr.d.ts",
@@ -790,13 +790,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/at-sign.jsx"
     },
-    "./atm-text": {
+    "./atm-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/a/atm-text.jsx"
+      "default": "./components/a/atm-uppercase.jsx"
     },
-    "./atm-text-above-banknote-in-slot": {
+    "./atm-uppercase-above-banknote-in-slot": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/a/atm-text-above-banknote-in-slot.jsx"
+      "default": "./components/a/atm-uppercase-above-banknote-in-slot.jsx"
     },
     "./atv": {
       "types": "./types/hqrkovbr.d.ts",
@@ -865,6 +865,10 @@
     "./badge-shield-with-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/badge-shield-with-star.jsx"
+    },
+    "./badge-shield-with-wifi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/badge-shield-with-wifi.jsx"
     },
     "./badminton-racket": {
       "types": "./types/hqrkovbr.d.ts",
@@ -938,14 +942,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/banknote-in-slot.jsx"
     },
-    "./banknote-stack": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/b/banknote-stack.jsx"
-    },
-    "./banknote-stack-in-slot": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/b/banknote-stack-in-slot.jsx"
-    },
     "./barbecue-grill-wheeled-with-steam": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/barbecue-grill-wheeled-with-steam.jsx"
@@ -1013,6 +1009,14 @@
     "./bear": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bear.jsx"
+    },
+    "./bear-and-exclamation-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bear-and-exclamation-point.jsx"
+    },
+    "./bear-and-question-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bear-and-question-mark.jsx"
     },
     "./bear-spray-can": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1346,10 +1350,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book.jsx"
     },
-    "./book-stack": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/b/book-stack.jsx"
-    },
     "./book-with-arrows-recirculating": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book-with-arrows-recirculating.jsx"
@@ -1589,6 +1589,10 @@
     "./briefcase-with-pawprint": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/briefcase-with-pawprint.jsx"
+    },
+    "./briefcase-with-phone-top-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase-with-phone-top-right.jsx"
     },
     "./briefcase-with-question-mark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1838,6 +1842,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/campsite.jsx"
     },
+    "./campsite-above-canoe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campsite-above-canoe.jsx"
+    },
     "./campsite-above-water": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/campsite-above-water.jsx"
@@ -1893,10 +1901,6 @@
     "./campsite-with-baht": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/campsite-with-baht.jsx"
-    },
-    "./campsite-with-canoe": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/campsite-with-canoe.jsx"
     },
     "./campsite-with-dollar": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1965,6 +1969,10 @@
     "./canoe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/canoe.jsx"
+    },
+    "./canoe-above-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/canoe-above-water.jsx"
     },
     "./canoe-and-arrow-right-above-arrow-left": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2326,17 +2334,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cave.jsx"
     },
-    "./cc-text": {
+    "./cc-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/cc-text.jsx"
+      "default": "./components/c/cc-uppercase.jsx"
     },
-    "./cc-text-above-caption": {
+    "./cc-uppercase-above-caption": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/cc-text-above-caption.jsx"
+      "default": "./components/c/cc-uppercase-above-caption.jsx"
     },
-    "./cc-text-in-tv-screen": {
+    "./cc-uppercase-in-tv-screen": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/cc-text-in-tv-screen.jsx"
+      "default": "./components/c/cc-uppercase-in-tv-screen.jsx"
     },
     "./cell-nuclei": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4526,13 +4534,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ice-skate.jsx"
     },
-    "./ice-text": {
+    "./ice-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/ice-text.jsx"
+      "default": "./components/i/ice-uppercase.jsx"
     },
-    "./ice-text-above-icicles": {
+    "./ice-uppercase-above-icicles": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/ice-text-above-icicles.jsx"
+      "default": "./components/i/ice-uppercase-above-icicles.jsx"
     },
     "./ichthys": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5902,17 +5910,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/observatory-dome.jsx"
     },
-    "./oc-text": {
+    "./oc-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/o/oc-text.jsx"
+      "default": "./components/o/oc-uppercase.jsx"
     },
-    "./oc-text-above-caption": {
+    "./oc-uppercase-above-caption": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/o/oc-text-above-caption.jsx"
+      "default": "./components/o/oc-uppercase-above-caption.jsx"
     },
-    "./oc-text-in-tv-screen": {
+    "./oc-uppercase-in-tv-screen": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/o/oc-text-in-tv-screen.jsx"
+      "default": "./components/o/oc-uppercase-in-tv-screen.jsx"
     },
     "./octagon": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7142,9 +7150,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-down-above-keyboard.jsx"
     },
-    "./phone-down-above-sos-text": {
+    "./phone-down-above-sos-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/phone-down-above-sos-text.jsx"
+      "default": "./components/p/phone-down-above-sos-uppercase.jsx"
     },
     "./phone-right": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7470,9 +7478,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-canoe.jsx"
     },
-    "./pixel-canoe-on-water": {
+    "./pixel-canoe-above-water": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/pixel-canoe-on-water.jsx"
+      "default": "./components/p/pixel-canoe-above-water.jsx"
     },
     "./pixel-car": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8806,9 +8814,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sitting-tank-toilet-and-droplet.jsx"
     },
-    "./sitting-tank-toilet-and-wc-text": {
+    "./sitting-tank-toilet-and-wc-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/sitting-tank-toilet-and-wc-text.jsx"
+      "default": "./components/s/sitting-tank-toilet-and-wc-uppercase.jsx"
     },
     "./sitting-tank-toilet-with-droplet": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8974,9 +8982,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/soccer-ball.jsx"
     },
-    "./sos-text": {
+    "./sos-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/sos-text.jsx"
+      "default": "./components/s/sos-uppercase.jsx"
     },
     "./south-carolina": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9829,6 +9837,18 @@
     "./three-pips": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/three-pips.jsx"
+    },
+    "./three-stacked-banknotes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/three-stacked-banknotes.jsx"
+    },
+    "./three-stacked-banknotes-in-slot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/three-stacked-banknotes-in-slot.jsx"
+    },
+    "./three-stacked-books": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/three-stacked-books.jsx"
     },
     "./three-tall-rectangles-down": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10826,9 +10846,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/waters-meeting-shore.jsx"
     },
-    "./wc-text": {
+    "./wc-uppercase": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/w/wc-text.jsx"
+      "default": "./components/w/wc-uppercase.jsx"
     },
     "./webcam": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11150,9 +11170,41 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/airport-terminal-with-plane-takeoff.jsx"
     },
+    "./arrow-down-from-banknote-stack-in-slot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-from-banknote-stack-in-slot.jsx"
+    },
+    "./arrow-up-to-banknote-stack-in-slot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-to-banknote-stack-in-slot.jsx"
+    },
+    "./art-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/art-text.jsx"
+    },
+    "./art-text-above-swash-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/art-text-above-swash-line.jsx"
+    },
+    "./atm-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atm-text.jsx"
+    },
+    "./atm-text-above-banknote-in-slot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/atm-text-above-banknote-in-slot.jsx"
+    },
     "./bagel-seeded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bagel-seeded.jsx"
+    },
+    "./banknote-stack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/banknote-stack.jsx"
+    },
+    "./banknote-stack-in-slot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/banknote-stack-in-slot.jsx"
     },
     "./bicycle-and-key": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11165,6 +11217,10 @@
     "./bicycle-and-wrench": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bicycle-and-wrench.jsx"
+    },
+    "./book-stack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-stack.jsx"
     },
     "./book-with-music-notes-eighth": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11222,6 +11278,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/campsite-over-waters.jsx"
     },
+    "./campsite-with-canoe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campsite-with-canoe.jsx"
+    },
     "./canoe-and-key": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/canoe-and-key.jsx"
@@ -11265,6 +11325,18 @@
     "./cargobike-and-wrench": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cargobike-and-wrench.jsx"
+    },
+    "./cc-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-text.jsx"
+    },
+    "./cc-text-above-caption": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-text-above-caption.jsx"
+    },
+    "./cc-text-in-tv-screen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cc-text-in-tv-screen.jsx"
     },
     "./chevron-up-tall": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11546,6 +11618,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/head-and-shoulders.jsx"
     },
+    "./ice-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-text.jsx"
+    },
+    "./ice-text-above-icicles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-text-above-icicles.jsx"
+    },
     "./isosceles-trapezoid-tall-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/isosceles-trapezoid-tall-down.jsx"
@@ -11665,6 +11745,18 @@
     "./no-entry": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/no-entry.jsx"
+    },
+    "./oc-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oc-text.jsx"
+    },
+    "./oc-text-above-caption": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oc-text-above-caption.jsx"
+    },
+    "./oc-text-in-tv-screen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oc-text-in-tv-screen.jsx"
     },
     "./one": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12014,6 +12106,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-down-above-six-one-one.jsx"
     },
+    "./phone-down-above-sos-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-down-above-sos-text.jsx"
+    },
     "./phone-down-above-three-one-one": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-down-above-three-one-one.jsx"
@@ -12029,6 +12125,10 @@
     "./pipe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pipe.jsx"
+    },
+    "./pixel-canoe-on-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixel-canoe-on-water.jsx"
     },
     "./pixel-fork-and-knife": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12134,6 +12234,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shore.jsx"
     },
+    "./sitting-tank-toilet-and-wc-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sitting-tank-toilet-and-wc-text.jsx"
+    },
     "./sitting-tank-toilet-beside-wc-text": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sitting-tank-toilet-beside-wc-text.jsx"
@@ -12185,6 +12289,10 @@
     "./slot-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/slot-vertical.jsx"
+    },
+    "./sos-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sos-text.jsx"
     },
     "./spiky-fish-with-x": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12433,6 +12541,10 @@
     "./water-bottle-beside-droplet": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/water-bottle-beside-droplet.jsx"
+    },
+    "./wc-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc-text.jsx"
     },
     "./winding-way-narrow": {
       "types": "./types/hqrkovbr.d.ts",

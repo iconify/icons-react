@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.np_8ytyvv {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M20 10L20 8L14 2L8 2C5.7909 2 4 3.7909 4 6L4 18C4 20.2091 5.7909 22 8 22M14 2L14 5C14 6.6569 15.3431 8 17 8L20 8M18.6667 18C18.6667 19.4728 17.4728 20.6667 16 20.6667C14.5272 20.6667 13.3333 19.4728 13.3333 18C13.3333 16.5272 14.5272 15.3333 16 15.3333C17.4728 15.3333 18.6667 16.5272 18.6667 18ZM19.5417 18L20 18M18.5043 20.5043L18.8284 20.8284M16 21.5417L16 22M13.4957 20.5043L13.1716 20.8284M12.4583 18L12 18M13.4957 15.4957L13.1716 15.1716M16 14.4583L16 14M18.5043 15.4957L18.8284 15.1716");
+}
+</style><path class="np_8ytyvv"/>`,
+		"fallback": "keyline-icons:file-cog",
+	});
+}
+
+export default Component;

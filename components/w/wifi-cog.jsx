@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/o/onmnt2beo.css';
+import '../../css/u/uqyt1eb8w.css';
 import '../../css/e/ez1x61b2a.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="onmnt2beo"/><circle class="ez1x61b2a"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="uqyt1eb8w"/><circle class="ez1x61b2a"/></g>`,
 		"fallback": "lucide:wifi-cog",
 	});
 }

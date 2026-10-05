@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/simple-icons",
   "type": "module",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "homepage": "https://icon-sets.iconify.design/simple-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -12521,6 +12521,10 @@
     "./sumologic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sumologic.jsx"
+    },
+    "./sumup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sumup.jsx"
     },
     "./suno": {
       "types": "./types/hqrkovbr.d.ts",

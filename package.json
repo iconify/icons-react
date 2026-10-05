@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.43",
+  "version": "1.0.44",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -477,6 +477,10 @@
     "./file-type-cddl": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-cddl.jsx"
+    },
+    "./file-type-cdp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-cdp.jsx"
     },
     "./file-type-cert": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2554,6 +2558,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-yaml-official.jsx"
     },
+    "./file-type-light-zed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-zed.jsx"
+    },
     "./file-type-light-zeit": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-zeit.jsx"
@@ -4362,6 +4370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-taskfile.jsx"
     },
+    "./file-type-tasks-json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-tasks-json.jsx"
+    },
     "./file-type-tauri": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-tauri.jsx"
@@ -4925,6 +4937,10 @@
     "./file-type-yeoman": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-yeoman.jsx"
+    },
+    "./file-type-zed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-zed.jsx"
     },
     "./file-type-zeit": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5697,6 +5713,14 @@
     "./folder-type-junie-opened": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-junie-opened.jsx"
+    },
+    "./folder-type-kadence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-kadence.jsx"
+    },
+    "./folder-type-kadence-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-kadence-opened.jsx"
     },
     "./folder-type-kiro": {
       "types": "./types/hqrkovbr.d.ts",

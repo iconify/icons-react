@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-icon-theme",
   "type": "module",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "homepage": "https://icon-sets.iconify.design/material-icon-theme/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -3525,6 +3525,10 @@
     "./next-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/next-light.jsx"
+    },
+    "./nextflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nextflow.jsx"
     },
     "./nginx": {
       "types": "./types/hqrkovbr.d.ts",

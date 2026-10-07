@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="lg9ccc5ez"/>`,
+		"content": `<path class="lg9ccc5ez"/>`,
 		"fallback": "wordpress:format-capitalize",
 	});
 }

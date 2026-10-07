@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="nwqd-kc1v"/>`,
+		"content": `<path class="nwqd-kc1v"/>`,
 		"fallback": "wordpress:remove-submenu",
 	});
 }

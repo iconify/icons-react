@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="lnn81abvc"/>`,
+		"content": `<path class="lnn81abvc"/>`,
 		"fallback": "wordpress:archive",
 	});
 }

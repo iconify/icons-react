@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="n_d2dzlwj"/>`,
+		"content": `<path class="n_d2dzlwj"/>`,
 		"fallback": "wordpress:add-card",
 	});
 }

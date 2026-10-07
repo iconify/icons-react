@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="r3cglab_k"/>`,
+		"content": `<path class="r3cglab_k"/>`,
 		"fallback": "wordpress:crop",
 	});
 }

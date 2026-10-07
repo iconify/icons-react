@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="ngekvelpk"/><path vector-effect="non-scaling-stroke" class="kga49o1gr"/><path vector-effect="non-scaling-stroke" class="ykp8htwkq"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="ngekvelpk"/><path class="kga49o1gr"/><path class="ykp8htwkq"/></g>`,
 		"fallback": "wordpress:verse",
 	});
 }

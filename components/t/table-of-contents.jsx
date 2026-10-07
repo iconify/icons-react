@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="eoq-ilkyb"/><path class="ahy7r9h0a"/><path vector-effect="non-scaling-stroke" class="bnnnmnbmb"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="eoq-ilkyb"/><path class="ahy7r9h0a"/><path class="bnnnmnbmb"/></g>`,
 		"fallback": "wordpress:table-of-contents",
 	});
 }

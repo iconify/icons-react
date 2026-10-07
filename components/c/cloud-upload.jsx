@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="a6a28fbux"/>`,
+		"content": `<path class="a6a28fbux"/>`,
 		"fallback": "wordpress:cloud-upload",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="iomvupuov"/>`,
+		"content": `<path class="iomvupuov"/>`,
 		"fallback": "wordpress:lock-outline",
 	});
 }

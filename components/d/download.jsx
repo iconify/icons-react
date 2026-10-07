@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="cpe24tbjy"/>`,
+		"content": `<path class="cpe24tbjy"/>`,
 		"fallback": "wordpress:download",
 	});
 }

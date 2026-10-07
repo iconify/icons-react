@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="ct1ofye1k"/>`,
+		"content": `<path class="ct1ofye1k"/>`,
 		"fallback": "wordpress:at-symbol",
 	});
 }

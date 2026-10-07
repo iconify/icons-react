@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<rect vector-effect="non-scaling-stroke" class="oyjt3db7r"/>`,
+		"content": `<rect class="oyjt3db7r"/>`,
 		"fallback": "wordpress:home-button",
 	});
 }

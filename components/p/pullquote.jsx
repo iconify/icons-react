@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="iqx_ddk6v"/>`,
+		"content": `<path class="iqx_ddk6v"/>`,
 		"fallback": "wordpress:pullquote",
 	});
 }

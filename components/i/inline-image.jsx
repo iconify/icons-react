@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="u250_-x4y"/>`,
+		"content": `<path class="u250_-x4y"/>`,
 		"fallback": "wordpress:inline-image",
 	});
 }

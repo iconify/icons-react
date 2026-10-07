@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="s-7ky8bsu"/>`,
+		"content": `<path class="s-7ky8bsu"/>`,
 		"fallback": "wordpress:resize-corner-ne",
 	});
 }

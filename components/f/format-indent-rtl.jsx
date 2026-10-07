@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="tdfegv4rj"/>`,
+		"content": `<path class="tdfegv4rj"/>`,
 		"fallback": "wordpress:format-indent-rtl",
 	});
 }

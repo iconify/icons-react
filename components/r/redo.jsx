@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="ol8rzibii"/>`,
+		"content": `<path class="ol8rzibii"/>`,
 		"fallback": "wordpress:redo",
 	});
 }

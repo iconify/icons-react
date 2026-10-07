@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="jb4c10b2i"/>`,
+		"content": `<path class="jb4c10b2i"/>`,
 		"fallback": "wordpress:flip-vertical",
 	});
 }

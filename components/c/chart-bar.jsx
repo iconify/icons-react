@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="pqsbesbwj"/>`,
+		"content": `<path class="pqsbesbwj"/>`,
 		"fallback": "wordpress:chart-bar",
 	});
 }

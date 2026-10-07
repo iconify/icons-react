@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="iaony-b0j"/>`,
+		"content": `<path class="iaony-b0j"/>`,
 		"fallback": "wordpress:post-content",
 	});
 }

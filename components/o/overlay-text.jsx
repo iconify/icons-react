@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="gwp70wbjd"/>`,
+		"content": `<path class="gwp70wbjd"/>`,
 		"fallback": "wordpress:overlay-text",
 	});
 }

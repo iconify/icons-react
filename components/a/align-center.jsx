@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="p7metob3i"/>`,
+		"content": `<path class="p7metob3i"/>`,
 		"fallback": "wordpress:align-center",
 	});
 }

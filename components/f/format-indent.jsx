@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="sp617mb0p"/>`,
+		"content": `<path class="sp617mb0p"/>`,
 		"fallback": "wordpress:format-indent",
 	});
 }

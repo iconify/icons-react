@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="enh3ep69x"/>`,
+		"content": `<path class="enh3ep69x"/>`,
 		"fallback": "wordpress:reusable-block",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="veez9zr5c"/>`,
+		"content": `<path class="veez9zr5c"/>`,
 		"fallback": "wordpress:chevron-up-down",
 	});
 }

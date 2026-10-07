@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="m3q5dgd3j"/><path class="u7o5kg02o"/><path vector-effect="non-scaling-stroke" class="p2fb2ojkw"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="m3q5dgd3j"/><path class="u7o5kg02o"/><path class="p2fb2ojkw"/></g>`,
 		"fallback": "wordpress:format-list-bullets-rtl",
 	});
 }

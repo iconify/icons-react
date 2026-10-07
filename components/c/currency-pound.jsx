@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path vector-effect="non-scaling-stroke" class="q6dgyrq9a"/><path vector-effect="non-scaling-stroke" class="l2gx7onal"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="q6dgyrq9a"/><path class="l2gx7onal"/></g>`,
 		"fallback": "wordpress:currency-pound",
 	});
 }

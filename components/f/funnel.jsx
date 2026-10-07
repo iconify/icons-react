@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="rs5dpr2nu"/>`,
+		"content": `<path class="rs5dpr2nu"/>`,
 		"fallback": "wordpress:funnel",
 	});
 }

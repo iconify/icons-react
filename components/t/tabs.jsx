@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="rrkjydeid"/><path vector-effect="non-scaling-stroke" class="clhe63_8r"/><path vector-effect="non-scaling-stroke" class="w2ixxib2w"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="rrkjydeid"/><path class="clhe63_8r"/><path class="w2ixxib2w"/></g>`,
 		"fallback": "wordpress:tabs",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="ucfdzkohe"/>`,
+		"content": `<path class="ucfdzkohe"/>`,
 		"fallback": "wordpress:post-comments-form",
 	});
 }

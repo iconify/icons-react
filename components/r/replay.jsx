@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="do_l0t4lb"/><path vector-effect="non-scaling-stroke" class="wt9ji_gcr"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="do_l0t4lb"/><path class="wt9ji_gcr"/></g>`,
 		"fallback": "wordpress:replay",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="yx_umsb2d"/>`,
+		"content": `<path class="yx_umsb2d"/>`,
 		"fallback": "wordpress:remove-bug",
 	});
 }

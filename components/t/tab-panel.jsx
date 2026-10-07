@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="w6ljr9t_q"/>`,
+		"content": `<path class="w6ljr9t_q"/>`,
 		"fallback": "wordpress:tab-panel",
 	});
 }

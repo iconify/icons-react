@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="huda90bev"/>`,
+		"content": `<path class="huda90bev"/>`,
 		"fallback": "wordpress:full-height",
 	});
 }

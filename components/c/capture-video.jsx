@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="envlwabfh"/>`,
+		"content": `<path class="envlwabfh"/>`,
 		"fallback": "wordpress:capture-video",
 	});
 }

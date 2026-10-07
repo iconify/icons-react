@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="o155z10jr"/>`,
+		"content": `<path class="o155z10jr"/>`,
 		"fallback": "wordpress:sides-axial",
 	});
 }

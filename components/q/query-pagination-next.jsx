@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="yjlihvj4x"/>`,
+		"content": `<path class="yjlihvj4x"/>`,
 		"fallback": "wordpress:query-pagination-next",
 	});
 }

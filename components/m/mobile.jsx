@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="vuk-umbnu"/>`,
+		"content": `<path class="vuk-umbnu"/>`,
 		"fallback": "wordpress:mobile",
 	});
 }

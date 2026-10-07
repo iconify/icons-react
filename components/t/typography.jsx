@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g9eak0b-j.css';
+import '../../css/f/fhkfurbdb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="g9eak0b-j"/>`,
+		"content": `<path class="fhkfurbdb"/>`,
 		"fallback": "wordpress:typography",
 	});
 }

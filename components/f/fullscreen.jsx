@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="mi_rgfh5f"/>`,
+		"content": `<path class="mi_rgfh5f"/>`,
 		"fallback": "wordpress:fullscreen",
 	});
 }

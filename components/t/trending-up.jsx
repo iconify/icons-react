@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="oncx-l0yc"/>`,
+		"content": `<path class="oncx-l0yc"/>`,
 		"fallback": "wordpress:trending-up",
 	});
 }

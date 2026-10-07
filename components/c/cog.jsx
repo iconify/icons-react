@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="k5l_zwbaq"/><path vector-effect="non-scaling-stroke" class="myrub2tat"/><path vector-effect="non-scaling-stroke" class="qvg2egx2p"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="k5l_zwbaq"/><path class="myrub2tat"/><path class="qvg2egx2p"/></g>`,
 		"fallback": "wordpress:cog",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="ucokltb_m"/>`,
+		"content": `<path class="ucokltb_m"/>`,
 		"fallback": "wordpress:add-submenu",
 	});
 }

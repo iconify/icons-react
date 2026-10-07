@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="gi87txbdj"/><path vector-effect="non-scaling-stroke" class="hdcm3gbmg"/><path vector-effect="non-scaling-stroke" class="ymly3jbab"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="gi87txbdj"/><path class="hdcm3gbmg"/><path class="ymly3jbab"/></g>`,
 		"fallback": "wordpress:post-date",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="b9pmgkkgv"/>`,
+		"content": `<path class="b9pmgkkgv"/>`,
 		"fallback": "wordpress:arrow-down-right",
 	});
 }

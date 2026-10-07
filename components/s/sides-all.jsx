@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="flz90fblm"/>`,
+		"content": `<path class="flz90fblm"/>`,
 		"fallback": "wordpress:sides-all",
 	});
 }

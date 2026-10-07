@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="mdq6b-e_s"/>`,
+		"content": `<path class="mdq6b-e_s"/>`,
 		"fallback": "wordpress:table-column-before",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="bdaxbubdz"/>`,
+		"content": `<path class="bdaxbubdz"/>`,
 		"fallback": "wordpress:add-template",
 	});
 }

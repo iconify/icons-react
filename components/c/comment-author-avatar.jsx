@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="zqepbzfoi"/><path vector-effect="non-scaling-stroke" class="kbbyx9vwy"/><path vector-effect="non-scaling-stroke" class="qp8upgb0h"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="zqepbzfoi"/><path class="kbbyx9vwy"/><path class="qp8upgb0h"/></g>`,
 		"fallback": "wordpress:comment-author-avatar",
 	});
 }

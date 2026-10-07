@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="m3q5dgd3j"/><path vector-effect="non-scaling-stroke" class="z5isr3bvu"/><path vector-effect="non-scaling-stroke" class="ce7yr5b1g"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="m3q5dgd3j"/><path class="z5isr3bvu"/><path class="ce7yr5b1g"/></g>`,
 		"fallback": "wordpress:format-list-numbered-rtl",
 	});
 }

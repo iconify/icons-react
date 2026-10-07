@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="uqzg15b_c"/>`,
+		"content": `<path class="uqzg15b_c"/>`,
 		"fallback": "wordpress:post-list",
 	});
 }

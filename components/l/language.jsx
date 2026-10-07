@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="yvim8zbts"/>`,
+		"content": `<path class="yvim8zbts"/>`,
 		"fallback": "wordpress:language",
 	});
 }

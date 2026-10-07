@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="pio34ebwk"/><path vector-effect="non-scaling-stroke" class="u6gq1rbmi"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="pio34ebwk"/><path class="u6gq1rbmi"/></g>`,
 		"fallback": "wordpress:tabs-menu",
 	});
 }

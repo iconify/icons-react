@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="f_chv4zoi"/>`,
+		"content": `<path class="f_chv4zoi"/>`,
 		"fallback": "wordpress:format-italic",
 	});
 }

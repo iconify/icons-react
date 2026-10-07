@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="plv78-b9k"/>`,
+		"content": `<path class="plv78-b9k"/>`,
 		"fallback": "wordpress:table-row-delete",
 	});
 }

@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path vector-effect="non-scaling-stroke" class="q54u1pbba"/><path class="qtwmcobht"/><path vector-effect="non-scaling-stroke" class="p9ze6rn7i"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="q54u1pbba"/><path class="qtwmcobht"/><path class="p9ze6rn7i"/></g>`,
 		"fallback": "wordpress:playlist",
 	});
 }

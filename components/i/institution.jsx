@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="nlcu1mk_d"/>`,
+		"content": `<path class="nlcu1mk_d"/>`,
 		"fallback": "wordpress:institution",
 	});
 }

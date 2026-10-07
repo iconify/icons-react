@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="for76ebml"/>`,
+		"content": `<path class="for76ebml"/>`,
 		"fallback": "wordpress:unlock",
 	});
 }

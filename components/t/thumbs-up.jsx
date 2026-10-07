@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="sfoc4ibca"/>`,
+		"content": `<path class="sfoc4ibca"/>`,
 		"fallback": "wordpress:thumbs-up",
 	});
 }

@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="pm_kizbua"/>`,
+		"content": `<path class="pm_kizbua"/>`,
 		"fallback": "wordpress:external",
 	});
 }

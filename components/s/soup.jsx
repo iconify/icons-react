@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eh4asvbem.css';
+import '../../css/q/qumtwzh_f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eh4asvbem"/>`,
+		"content": `<path class="qumtwzh_f"/>`,
 		"fallback": "lucide:soup",
 	});
 }

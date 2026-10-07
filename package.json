@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/octicon",
   "type": "module",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "homepage": "https://icon-sets.iconify.design/octicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -3254,6 +3254,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stack-remove-16.jsx"
     },
+    "./stack-slash-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-slash-16.jsx"
+    },
     "./star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star.jsx"
@@ -3717,6 +3721,14 @@
     "./vscode-48": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vscode-48.jsx"
+    },
+    "./wall-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wall-16.jsx"
+    },
+    "./wall-24": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wall-24.jsx"
     },
     "./watch": {
       "types": "./types/hqrkovbr.d.ts",

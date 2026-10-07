@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.44",
+  "version": "1.0.45",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -190,6 +190,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-asp.jsx"
     },
+    "./file-type-aspire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-aspire.jsx"
+    },
     "./file-type-aspx": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-aspx.jsx"
@@ -225,6 +229,10 @@
     "./file-type-attw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-attw.jsx"
+    },
+    "./file-type-aube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-aube.jsx"
     },
     "./file-type-audio": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1185,6 +1193,10 @@
     "./file-type-flowgorithm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-flowgorithm.jsx"
+    },
+    "./file-type-flue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-flue.jsx"
     },
     "./file-type-flutter": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2381,6 +2393,10 @@
     "./file-type-light-retext": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-retext.jsx"
+    },
+    "./file-type-light-robocop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-robocop.jsx"
     },
     "./file-type-light-rolldown": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3926,6 +3942,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-rnc.jsx"
     },
+    "./file-type-robocop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-robocop.jsx"
+    },
+    "./file-type-robotcode": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-robotcode.jsx"
+    },
     "./file-type-robotframework": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-robotframework.jsx"
@@ -4161,6 +4185,10 @@
     "./file-type-smithery": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-smithery.jsx"
+    },
+    "./file-type-smolmachine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-smolmachine.jsx"
     },
     "./file-type-snakemake": {
       "types": "./types/hqrkovbr.d.ts",

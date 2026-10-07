@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -2853,6 +2853,10 @@
     "./byparr-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/byparr-light.jsx"
+    },
+    "./bytechef": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bytechef.jsx"
     },
     "./bytestash": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15402,6 +15406,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mqttx-light.jsx"
     },
+    "./msgvault": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/msgvault.jsx"
+    },
+    "./msgvault-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/msgvault-dark.jsx"
+    },
+    "./msgvault-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/msgvault-light.jsx"
+    },
     "./mullvad-vpn": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mullvad-vpn.jsx"
@@ -25045,6 +25061,18 @@
     "./tasmocompiler-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tasmocompiler-light.jsx"
+    },
+    "./tasterr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tasterr.jsx"
+    },
+    "./tasterr-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tasterr-dark.jsx"
+    },
+    "./tasterr-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tasterr-light.jsx"
     },
     "./tautulli": {
       "types": "./types/hqrkovbr.d.ts",

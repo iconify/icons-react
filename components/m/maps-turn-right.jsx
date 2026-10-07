@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/b/bz7gdehlt.css';
+import '../../css/x/x_24xr3ii.css';
 import '../../css/r/rw674hbep.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="bz7gdehlt"/><path class="rw674hbep"/></g>`,
+		"content": `<g class="hntgybcog"><path class="x_24xr3ii"/><path class="rw674hbep"/></g>`,
 		"fallback": "iconoir:maps-turn-right",
 	});
 }

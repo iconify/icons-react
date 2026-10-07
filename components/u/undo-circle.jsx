@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/e/et6j1xbpl.css';
+import '../../css/v/v5knttjty.css';
 import '../../css/a/a965bccrl.css';
 import '../../css/p/p9-zrkb4g.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="et6j1xbpl"/><path class="a965bccrl"/><path class="p9-zrkb4g"/></g>`,
+		"content": `<g class="hntgybcog"><path class="v5knttjty"/><path class="a965bccrl"/><path class="p9-zrkb4g"/></g>`,
 		"fallback": "iconoir:undo-circle",
 	});
 }

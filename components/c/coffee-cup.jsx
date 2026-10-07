@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/c/c4eh4m8zs.css';
+import '../../css/s/s_o3v5lak.css';
 import '../../css/n/nsbkbugsi.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="c4eh4m8zs"/><path class="nsbkbugsi"/></g>`,
+		"content": `<g class="hntgybcog"><path class="s_o3v5lak"/><path class="nsbkbugsi"/></g>`,
 		"fallback": "iconoir:coffee-cup",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/i/i1cu7h-rg.css';
-import '../../css/c/cumd4_c6d.css';
+import '../../css/v/vq4595bas.css';
+import '../../css/h/hfsfjhbqn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="i1cu7h-rg"/><path class="cumd4_c6d"/></g>`,
+		"content": `<g class="hntgybcog"><path class="vq4595bas"/><path class="hfsfjhbqn"/></g>`,
 		"fallback": "iconoir:microphone-mute",
 	});
 }

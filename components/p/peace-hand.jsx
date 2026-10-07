@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/k/ke6pb1bjn.css';
-import '../../css/g/gxpdn9-wz.css';
-import '../../css/v/vazvq7ahv.css';
-import '../../css/r/rcjmc3bzj.css';
+import '../../css/m/mkv2mkbph.css';
+import '../../css/k/k61wbkcxn.css';
+import '../../css/v/v6weoe5py.css';
+import '../../css/l/li0l3_rxa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ke6pb1bjn"/><path class="gxpdn9-wz"/><path class="vazvq7ahv"/><path class="rcjmc3bzj"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="mkv2mkbph"/><path class="k61wbkcxn"/><path class="v6weoe5py"/><path class="li0l3_rxa"/></g>`,
 		"fallback": "iconoir:peace-hand",
 	});
 }

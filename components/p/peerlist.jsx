@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/q/q6ro8lsho.css';
-import '../../css/w/wn-y3m-7h.css';
+import '../../css/t/t-1_7_-dd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="q6ro8lsho"/><path class="wn-y3m-7h"/></g>`,
+		"content": `<g class="hntgybcog"><path class="q6ro8lsho"/><path class="t-1_7_-dd"/></g>`,
 		"fallback": "iconoir:peerlist",
 	});
 }

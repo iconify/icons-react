@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/w/wi774gbxj.css';
+import '../../css/w/wzmu56b-h.css';
 import '../../css/b/b64l0dbmf.css';
 import '../../css/j/jkon69jfq.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="wi774gbxj"/><path class="b64l0dbmf"/><path class="jkon69jfq"/></g>`,
+		"content": `<g class="hntgybcog"><path class="wzmu56b-h"/><path class="b64l0dbmf"/><path class="jkon69jfq"/></g>`,
 		"fallback": "iconoir:rotate-camera-left",
 	});
 }

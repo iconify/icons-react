@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/q/qom_46mgf.css';
+import '../../css/f/fza9clw6f.css';
 import '../../css/o/otubtw49h.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="qom_46mgf"/><path class="otubtw49h"/></g>`,
+		"content": `<g class="hntgybcog"><path class="fza9clw6f"/><path class="otubtw49h"/></g>`,
 		"fallback": "iconoir:maps-turn-left",
 	});
 }

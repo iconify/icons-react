@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
 import '../../css/a/a0k4-acbt.css';
-import '../../css/z/z1yimdnxw.css';
+import '../../css/v/vk9olibnv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="a0k4-acbt"/><path class="z1yimdnxw"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="a0k4-acbt"/><path class="vk9olibnv"/></g>`,
 		"fallback": "iconoir:ip-address-tag",
 	});
 }

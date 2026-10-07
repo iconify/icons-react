@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/f/f_s63lbuz.css';
-import '../../css/w/wy5efpbad.css';
+import '../../css/c/clq6hscjn.css';
+import '../../css/w/wjlxmglat.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="f_s63lbuz"/><path class="wy5efpbad"/></g>`,
+		"content": `<g class="hntgybcog"><path class="clq6hscjn"/><path class="wjlxmglat"/></g>`,
 		"fallback": "iconoir:open-select-hand-gesture",
 	});
 }

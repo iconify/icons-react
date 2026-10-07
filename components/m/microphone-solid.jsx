@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
 import '../../css/b/bknbsubyw.css';
-import '../../css/i/ilvf25-qf.css';
+import '../../css/m/m9cfspytd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><rect class="bknbsubyw"/><path class="ilvf25-qf"/></g>`,
+		"content": `<g class="jx0p4fbya"><rect class="bknbsubyw"/><path class="m9cfspytd"/></g>`,
 		"fallback": "iconoir:microphone-solid",
 	});
 }

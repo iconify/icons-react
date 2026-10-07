@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/g/g6xnss8uu.css';
-import '../../css/p/pv5kapb6o.css';
+import '../../css/n/nb1d4fcis.css';
+import '../../css/g/gf98vm77j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="g6xnss8uu"/><path class="pv5kapb6o"/></g>`,
+		"content": `<g class="hntgybcog"><path class="nb1d4fcis"/><path class="gf98vm77j"/></g>`,
 		"fallback": "iconoir:spock-hand-gesture",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hsih-mv_p.css';
+import '../../css/u/u06_j4b9n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hsih-mv_p"/>`,
+		"content": `<path class="u06_j4b9n"/>`,
 		"fallback": "iconoir:pen-connect-bluetooth",
 	});
 }

@@ -1,5 +1,6 @@
 # @iconify-react/iconoir
 
+⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/iconoir).
 **Iconoir**
 
 Author: [Luca Burgio](https://github.com/iconoir-icons/iconoir)
@@ -10,6 +11,11 @@ Browse all icons: [preview Iconoir on Iconify](https://icon-sets.iconify.design/
 
 ## Installation
 
+```bash
+npm install gitlab:iconify-icons/react#iconoir
+```
+
+or
 ```bash
 npm install github:iconify/icons-react#iconoir
 ```

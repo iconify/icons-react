@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qgm17v0ea.css';
+import '../../css/a/ah8o-2biv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qgm17v0ea"/>`,
+		"content": `<path class="ah8o-2biv"/>`,
 		"fallback": "iconoir:gas",
 	});
 }

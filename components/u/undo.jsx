@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/y/yzr3jpbkv.css';
+import '../../css/o/oasbuyb5l.css';
 import '../../css/b/ba030bcts.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="yzr3jpbkv"/><path class="ba030bcts"/></g>`,
+		"content": `<g class="hntgybcog"><path class="oasbuyb5l"/><path class="ba030bcts"/></g>`,
 		"fallback": "iconoir:undo",
 	});
 }

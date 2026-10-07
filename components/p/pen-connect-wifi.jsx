@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vhw5u9d6z.css';
+import '../../css/y/yyx6_8qkk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vhw5u9d6z"/>`,
+		"content": `<path class="yyx6_8qkk"/>`,
 		"fallback": "iconoir:pen-connect-wifi",
 	});
 }

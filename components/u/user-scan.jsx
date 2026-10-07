@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zqiu88m_q.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/u/ujojmacfj.css';
+import '../../css/z/ziceyrb0a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zqiu88m_q"/>`,
+		"content": `<g class="hntgybcog"><path class="ujojmacfj"/><path class="ziceyrb0a"/></g>`,
 		"fallback": "iconoir:user-scan",
 	});
 }

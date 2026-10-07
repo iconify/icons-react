@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/i/i11jghbrq.css';
+import '../../css/l/lj4xe-vyq.css';
 import '../../css/y/yngtobcdp.css';
-import '../../css/w/wmhvecc2b.css';
+import '../../css/r/raupfd0_a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="i11jghbrq"/><path class="yngtobcdp"/><path class="wmhvecc2b"/></g>`,
+		"content": `<g class="hntgybcog"><path class="lj4xe-vyq"/><path class="yngtobcdp"/><path class="raupfd0_a"/></g>`,
 		"fallback": "iconoir:consumable",
 	});
 }

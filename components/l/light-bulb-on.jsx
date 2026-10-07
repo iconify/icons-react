@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nio8jccck.css';
+import '../../css/t/tq0quybsz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nio8jccck"/>`,
+		"content": `<path class="tq0quybsz"/>`,
 		"fallback": "iconoir:light-bulb-on",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h3ffpbbrv.css';
+import '../../css/v/vcd003kth.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h3ffpbbrv"/>`,
+		"content": `<path class="vcd003kth"/>`,
 		"fallback": "iconoir:swimming",
 	});
 }

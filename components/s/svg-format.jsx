@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/j/jueg0db7i.css';
+import '../../css/i/ipvt5f9ii.css';
 import '../../css/r/ri0654i4u.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="jueg0db7i"/><path class="ri0654i4u"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="ipvt5f9ii"/><path class="ri0654i4u"/></g>`,
 		"fallback": "iconoir:svg-format",
 	});
 }

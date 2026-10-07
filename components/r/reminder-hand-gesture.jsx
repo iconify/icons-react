@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
 import '../../css/v/vo6f34bpk.css';
-import '../../css/x/xy9bvyb3v.css';
+import '../../css/c/cf4s91bub.css';
 import '../../css/r/r51-_908r.css';
 
 const viewBox = {"width":24,"height":24};
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="vo6f34bpk"/><path class="xy9bvyb3v"/><path class="r51-_908r"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="vo6f34bpk"/><path class="cf4s91bub"/><path class="r51-_908r"/></g>`,
 		"fallback": "iconoir:reminder-hand-gesture",
 	});
 }

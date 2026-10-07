@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
-import '../../css/k/k347u8fna.css';
+import '../../css/v/vzqbg9gfn.css';
 import '../../css/n/njdzm_yfu.css';
 import '../../css/s/shu3xdl9q.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="k347u8fna"/><path class="njdzm_yfu"/><circle class="shu3xdl9q"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="vzqbg9gfn"/><path class="njdzm_yfu"/><circle class="shu3xdl9q"/></g>`,
 		"fallback": "iconoir:user-circle-alt",
 	});
 }

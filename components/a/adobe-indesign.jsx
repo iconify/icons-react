@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/q/qy4pgcc_r.css';
-import '../../css/n/n41_c76an.css';
+import '../../css/u/u6e-1wbnb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="qy4pgcc_r"/><path class="n41_c76an"/></g>`,
+		"content": `<g class="hntgybcog"><path class="qy4pgcc_r"/><path class="u6e-1wbnb"/></g>`,
 		"fallback": "iconoir:adobe-indesign",
 	});
 }

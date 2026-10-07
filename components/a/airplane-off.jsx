@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ydz44ibch.css';
+import '../../css/n/nfxp86bew.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ydz44ibch"/>`,
+		"content": `<path class="nfxp86bew"/>`,
 		"fallback": "iconoir:airplane-off",
 	});
 }

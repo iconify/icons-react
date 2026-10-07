@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wrfup75is.css';
+import '../../css/y/yj1dykb_g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wrfup75is"/>`,
+		"content": `<path class="yj1dykb_g"/>`,
 		"fallback": "iconoir:jellyfish",
 	});
 }

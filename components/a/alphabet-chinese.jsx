@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m9ggb4u2z.css';
+import '../../css/w/wzaf98bbw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,8 +11,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m9ggb4u2z"/>`,
-		"fallback": "tabler:table-dashed",
+		"content": `<path class="wzaf98bbw"/>`,
+		"fallback": "tabler:alphabet-chinese",
 	});
 }
 

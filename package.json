@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/tabler",
   "type": "module",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "homepage": "https://icon-sets.iconify.design/tabler/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -562,9 +562,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alphabet-bangla.jsx"
     },
+    "./alphabet-chinese": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alphabet-chinese.jsx"
+    },
     "./alphabet-cyrillic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alphabet-cyrillic.jsx"
+    },
+    "./alphabet-devanagari": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alphabet-devanagari.jsx"
+    },
+    "./alphabet-ethiopic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alphabet-ethiopic.jsx"
+    },
+    "./alphabet-georgian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alphabet-georgian.jsx"
     },
     "./alphabet-greek": {
       "types": "./types/hqrkovbr.d.ts",
@@ -573,6 +589,10 @@
     "./alphabet-hebrew": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alphabet-hebrew.jsx"
+    },
+    "./alphabet-japanese": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alphabet-japanese.jsx"
     },
     "./alphabet-korean": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2669,6 +2689,10 @@
     "./blob": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/blob.jsx"
+    },
+    "./blob-dashed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blob-dashed.jsx"
     },
     "./blob-filled": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6930,6 +6954,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-half-vertical.jsx"
     },
+    "./circle-heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-heart.jsx"
+    },
     "./circle-key": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-key.jsx"
@@ -7254,6 +7282,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-open-arrow-up.jsx"
     },
+    "./circle-pause": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-pause.jsx"
+    },
     "./circle-percentage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-percentage.jsx"
@@ -7261,6 +7293,10 @@
     "./circle-percentage-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-percentage-filled.jsx"
+    },
+    "./circle-play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-play.jsx"
     },
     "./circle-plus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7293,6 +7329,10 @@
     "./circle-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-square.jsx"
+    },
+    "./circle-stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-stop.jsx"
     },
     "./circle-triangle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11202,6 +11242,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-like.jsx"
     },
+    "./file-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-lock.jsx"
+    },
     "./file-minus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-minus.jsx"
@@ -12081,6 +12125,10 @@
     "./folder-heart": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-heart.jsx"
+    },
+    "./folder-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-lock.jsx"
     },
     "./folder-minus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -14726,6 +14774,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lemon-2-filled.jsx"
     },
+    "./lens-concave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lens-concave.jsx"
+    },
+    "./lens-convex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lens-convex.jsx"
+    },
     "./letter-a": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/letter-a.jsx"
@@ -16081,6 +16137,10 @@
     "./melon-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/melon-filled.jsx"
+    },
+    "./memory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memory.jsx"
     },
     "./menorah": {
       "types": "./types/hqrkovbr.d.ts",
@@ -21554,6 +21614,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-dashed.jsx"
     },
+    "./square-dashed-top-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-dashed-top-solid.jsx"
+    },
+    "./square-dashed-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-dashed-x.jsx"
+    },
     "./square-dot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-dot.jsx"
@@ -23781,6 +23849,10 @@
     "./triangle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/triangle.jsx"
+    },
+    "./triangle-dashed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-dashed.jsx"
     },
     "./triangle-filled": {
       "types": "./types/hqrkovbr.d.ts",

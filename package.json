@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -150,6 +150,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/antdesign-wordmark.jsx"
     },
+    "./antigravity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/antigravity.jsx"
+    },
     "./apache": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apache.jsx"
@@ -265,6 +269,10 @@
     "./artixlinux-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/artixlinux-wordmark.jsx"
+    },
+    "./aspire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aspire.jsx"
     },
     "./astro": {
       "types": "./types/hqrkovbr.d.ts",

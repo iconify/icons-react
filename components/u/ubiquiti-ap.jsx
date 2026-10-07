@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vs5vj2cne.css';
+import '../../css/x/xt3no1brh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vs5vj2cne"/>`,
+		"content": `<path class="xt3no1brh"/>`,
 		"fallback": "cbi:ubiquiti-ap",
 	});
 }

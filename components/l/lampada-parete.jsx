@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hm_-1ibgr.css';
+import '../../css/o/oenu2omod.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hm_-1ibgr"/>`,
+		"content": `<path class="oenu2omod"/>`,
 		"fallback": "cbi:lampada-parete",
 	});
 }

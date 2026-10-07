@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/codicon",
   "type": "module",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "homepage": "https://icon-sets.iconify.design/codicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -1945,6 +1945,10 @@
     "./report": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/report.jsx"
+    },
+    "./report-question": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/report-question.jsx"
     },
     "./request-changes": {
       "types": "./types/hqrkovbr.d.ts",

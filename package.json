@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon-plain",
   "type": "module",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "homepage": "https://icon-sets.iconify.design/devicon-plain/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -98,6 +98,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ansys-wordmark.jsx"
     },
+    "./antigravity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/antigravity.jsx"
+    },
     "./apache": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apache.jsx"
@@ -177,6 +181,10 @@
     "./artixlinux-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/artixlinux-wordmark.jsx"
+    },
+    "./aspire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aspire.jsx"
     },
     "./astro": {
       "types": "./types/hqrkovbr.d.ts",

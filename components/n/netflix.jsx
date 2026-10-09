@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w-_it7bic.css';
+import '../../css/e/efopwrb_f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w-_it7bic"/>`,
+		"content": `<path class="efopwrb_f"/>`,
 		"fallback": "cbi:netflix",
 	});
 }

@@ -1,6 +1,5 @@
 # @iconify-react/cbi
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/cbi).
 **Custom Brand Icons**
 
 Author: [Emanuele & rchiileea](https://github.com/elax46/custom-brand-icons)

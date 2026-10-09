@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.45",
+  "version": "1.0.46",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -245,6 +245,10 @@
     "./file-type-autohotkey": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-autohotkey.jsx"
+    },
+    "./file-type-autohotkey2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-autohotkey2.jsx"
     },
     "./file-type-autoit": {
       "types": "./types/hqrkovbr.d.ts",

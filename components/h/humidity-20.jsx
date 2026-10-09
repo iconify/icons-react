@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/j/j8cq105ge.css';
+import '../../css/r/r7j0j19px.css';
+
+const viewBox = {"width":20,"height":20};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="j8cq105ge"/><path class="r7j0j19px"/>`,
+		"fallback": "energy-icons:humidity-20",
+	});
+}
+
+export default Component;

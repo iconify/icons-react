@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/z/zh809gb4r.css';
+import '../../css/p/pahc4sbmv.css';
+import '../../css/y/yvkfxeizw.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="zh809gb4r"/><path class="pahc4sbmv"/><path class="yvkfxeizw"/>`,
+		"fallback": "energy-icons:home-48-bold",
+	});
+}
+
+export default Component;

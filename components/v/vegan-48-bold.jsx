@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/n2neunb3u.css';
+import '../../css/p/pq_nprbjb.css';
+import '../../css/j/j7_cyhg1m.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="n2neunb3u"/><path class="pq_nprbjb"/><path class="j7_cyhg1m"/>`,
+		"fallback": "energy-icons:vegan-48-bold",
+	});
+}
+
+export default Component;

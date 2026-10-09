@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/f2g9qy8wl.css';
+import '../../css/x/x89mfs52m.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="f2g9qy8wl"/><path class="x89mfs52m"/>`,
+		"fallback": "energy-icons:bearing-48",
+	});
+}
+
+export default Component;

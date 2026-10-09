@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/dezwopb-j.css';
+import '../../css/d/dqchx1bzk.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="dezwopb-j"/><path class="dqchx1bzk"/>`,
+		"fallback": "energy-icons:file-code-48",
+	});
+}
+
+export default Component;

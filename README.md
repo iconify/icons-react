@@ -1,6 +1,5 @@
 # @iconify-react/devicon
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/devicon).
 **Devicon**
 
 Author: [konpa](https://github.com/devicons/devicon/tree/master)

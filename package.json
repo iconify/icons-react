@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -4097,6 +4097,10 @@
     "./webflow": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/webflow.jsx"
+    },
+    "./webgl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/webgl.jsx"
     },
     "./webgpu": {
       "types": "./types/hqrkovbr.d.ts",

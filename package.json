@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.48",
+  "version": "1.0.49",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -4001,6 +4001,10 @@
     "./lectern": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lectern.jsx"
+    },
+    "./lens": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lens.jsx"
     },
     "./lens-concave": {
       "types": "./types/hqrkovbr.d.ts",

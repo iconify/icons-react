@@ -1,6 +1,5 @@
 # @iconify-react/lucide
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/lucide).
 **Lucide**
 
 Author: [Lucide Contributors](https://github.com/lucide-icons/lucide)

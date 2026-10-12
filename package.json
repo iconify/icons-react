@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.42",
+  "version": "1.0.43",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -2142,6 +2142,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flynas.jsx"
     },
+    "./fog-machine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fog-machine.jsx"
+    },
     "./food-apple-core": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/food-apple-core.jsx"
@@ -3478,6 +3482,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/merx-ipc-horizon-dome-alt.jsx"
     },
+    "./meshcore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meshcore.jsx"
+    },
+    "./meshtastic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meshtastic.jsx"
+    },
     "./meta": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/meta.jsx"
@@ -4613,6 +4625,10 @@
     "./portainer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/portainer.jsx"
+    },
+    "./portainer-io": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/portainer-io.jsx"
     },
     "./posteitaliane": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5774,6 +5790,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stitch.jsx"
     },
+    "./storage-shelf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/storage-shelf.jsx"
+    },
     "./strava": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/strava.jsx"
@@ -6041,6 +6061,14 @@
     "./tfx": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tfx.jsx"
+    },
+    "./the-lampster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-lampster.jsx"
+    },
+    "./the-lampster-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-lampster-solid.jsx"
     },
     "./thermostat": {
       "types": "./types/hqrkovbr.d.ts",

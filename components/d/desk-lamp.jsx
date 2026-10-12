@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wibl5e4hz.css';
+import '../../css/b/bw2jfno-v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wibl5e4hz"/>`,
+		"content": `<path class="bw2jfno-v"/>`,
 		"fallback": "cbi:desk-lamp",
 	});
 }

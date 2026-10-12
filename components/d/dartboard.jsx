@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yjry0e9fd.css';
+import '../../css/s/sag1vnbdr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yjry0e9fd"/>`,
+		"content": `<path class="sag1vnbdr"/>`,
 		"fallback": "cbi:dartboard",
 	});
 }

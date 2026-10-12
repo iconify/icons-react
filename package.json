@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -681,6 +681,10 @@
     "./alternativeto": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alternativeto.jsx"
+    },
+    "./alteryx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alteryx.jsx"
     },
     "./alwaysdata": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4802,6 +4806,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/easyjet.jsx"
     },
+    "./easypanel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easypanel.jsx"
+    },
     "./ebay": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ebay.jsx"
@@ -4893,6 +4901,10 @@
     "./effect-ts-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/effect-ts-light.jsx"
+    },
+    "./eggerco": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eggerco.jsx"
     },
     "./egghead": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5661,6 +5673,10 @@
     "./fiverr": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fiverr.jsx"
+    },
+    "./fivetran": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fivetran.jsx"
     },
     "./fizz": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17037,6 +17053,14 @@
     "./the-weather-channel": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/the-weather-channel.jsx"
+    },
+    "./theauth-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theauth-dark.jsx"
+    },
+    "./theauth-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theauth-light.jsx"
     },
     "./thesvg-dark": {
       "types": "./types/hqrkovbr.d.ts",

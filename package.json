@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-icon-theme",
   "type": "module",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "homepage": "https://icon-sets.iconify.design/material-icon-theme/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -4709,6 +4709,10 @@
     "./zip": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zip.jsx"
+    },
+    "./zizmor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zizmor.jsx"
     },
     "./oxlint": {
       "types": "./types/hqrkovbr.d.ts",

@@ -10,13 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.hahcwdkdq {
+		"content": `<style>.a9g3-t9mx {
   stroke-opacity: 0.4;
-  d: path("M18 21L18 3M15 6L18 3L21 6");
+  d: path("M17 21L17 3M13 7L17 3L21 7");
 }
 
-.l8pqsacur {
-  d: path("M6 3L6 21M3 18L6 21L9 18");
+.bs657w5zt {
+  d: path("M7 3L7 21M11 17L7 21L3 17");
 }
 
 .nrj6p8qat {
@@ -26,7 +26,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path class="hahcwdkdq"/><path class="l8pqsacur"/></g>`,
+</style><g class="nrj6p8qat"><path class="a9g3-t9mx"/><path class="bs657w5zt"/></g>`,
 		"fallback": "keyline-icons:arrow-down-up-duotone",
 	});
 }

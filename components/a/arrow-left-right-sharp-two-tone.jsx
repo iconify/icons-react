@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.b992twb7r {
-  d: path("M2 18L21 18M17.7071 14.7071L21 18L17.7071 21.2929");
+		"content": `<style>.blr6m8r6y {
+  d: path("M2 17L21 17M16.7071 12.7071L21 17L16.7071 21.2929");
 }
 
 .gp_8x1bzb {
@@ -21,11 +21,11 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.lj1cq3bag {
+.oq17tfy7o {
   stroke-opacity: 0.4;
-  d: path("M22 6L3 6M6.2929 2.7071L3 6L6.2929 9.2929");
+  d: path("M22 7L3 7M7.2929 11.2929L3 7L7.2929 2.7071");
 }
-</style><g class="gp_8x1bzb"><path class="lj1cq3bag"/><path class="b992twb7r"/></g>`,
+</style><g class="gp_8x1bzb"><path class="oq17tfy7o"/><path class="blr6m8r6y"/></g>`,
 		"fallback": "keyline-icons:arrow-left-right-sharp-two-tone",
 	});
 }

@@ -10,13 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ad_9ubb4f {
-  d: path("M6 21L6 3M9 6L6 3L3 6");
-}
-
-.ehcor-buk {
-  stroke-opacity: 0.4;
-  d: path("M18 3L18 21M21 18L18 21L15 18");
+		"content": `<style>.f-sv1wbyp {
+  d: path("M7 21L7 3M3 7L7 3L11 7");
 }
 
 .nrj6p8qat {
@@ -26,7 +21,12 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path class="ehcor-buk"/><path class="ad_9ubb4f"/></g>`,
+
+.vrem0jbde {
+  stroke-opacity: 0.4;
+  d: path("M17 3L17 21M21 17L17 21L13 17");
+}
+</style><g class="nrj6p8qat"><path class="vrem0jbde"/><path class="f-sv1wbyp"/></g>`,
 		"fallback": "keyline-icons:arrow-up-down-duotone",
 	});
 }

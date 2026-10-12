@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -13073,6 +13073,10 @@
     "./the-weather-channel": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/the-weather-channel.jsx"
+    },
+    "./theauth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theauth.jsx"
     },
     "./thesvg": {
       "types": "./types/hqrkovbr.d.ts",

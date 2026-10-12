@@ -1,0 +1,39 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.g6o7hcb4b {
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("m6.75 14.25l3.5-3.75L13 13.25l1.75-1.75l2.5 2.5");
+}
+
+.i_sc52z6z {
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M2.75 6.25a2.5 2.5 0 0 1 2.5-2.5h13.5a2.5 2.5 0 0 1 2.5 2.5v9a2.5 2.5 0 0 1-2.5 2.5H12.5L8 20.85a.77.77 0 0 1-1.25-.6v-2.5h-1.5a2.5 2.5 0 0 1-2.5-2.5Z");
+}
+
+.xjhwurbhd {
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M15.25 7.5h.01");
+}
+
+.y9tr6bcfx {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+</style><g class="y9tr6bcfx"><path class="i_sc52z6z"/><path class="g6o7hcb4b"/><path class="xjhwurbhd"/></g>`,
+		"fallback": "iconoven:chat-image",
+	});
+}
+
+export default Component;

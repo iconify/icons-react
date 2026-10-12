@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.dqwbyi7mt {
+  d: path("m10.36 4.57l.1-.96q.07-.74.82-.74h1.44q.75 0 .82.74l.1.96q.07.74.76 1.03l.43.18q.69.29 1.27-.19l.74-.61q.58-.48 1.11.05l1.02 1.02q.53.53.05 1.11l-.61.74q-.48.58-.19 1.27l.18.43q.29.69 1.03.76l.96.1q.74.07.74.82v1.44q0 .75-.74.82l-.96.1q-.74.07-1.03.76l-.18.43q-.29.69.19 1.27l.61.74q.48.58-.05 1.11l-1.02 1.02q-.53.53-1.11.05l-.74-.61q-.58-.48-1.27-.19l-.43.18q-.69.29-.76 1.03l-.1.96q-.07.74-.82.74h-1.44q-.75 0-.82-.74l-.1-.96q-.07-.74-.76-1.03l-.43-.18q-.69-.29-1.27.19l-.74.61q-.58.48-1.11-.05l-1.02-1.02q-.53-.53-.05-1.11l.61-.74q.48-.58.19-1.27l-.18-.43q-.29-.69-1.03-.76l-.96-.1q-.74-.07-.74-.82v-1.44q0-.75.74-.82l.96-.1q.74-.07 1.03-.76l.18-.43q.29-.69-.19-1.27l-.61-.74q-.48-.58.05-1.11l1.02-1.02q.53-.53 1.11-.05l.74.61q.58.48 1.27.19l.43-.18q.69-.29.76-1.03");
+}
+
+.gp0egaclj {
+  cx: 12px;
+  cy: 12px;
+  r: 3px;
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+</style><g class="hntgybcog"><path class="dqwbyi7mt"/><circle class="gp0egaclj"/></g>`,
+		"fallback": "iconoven:settings",
+	});
+}
+
+export default Component;

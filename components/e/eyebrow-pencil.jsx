@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ancp-y3na {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M3 8.5c2.5-3 6-4 9.5-3.25m-8.53 12.3l7.02-7.02q.71-.71 1.42 0l1.06 1.06q.71.71 0 1.42l-7.02 7.02q-.71.71-1.42 0l-1.06-1.06q-.71-.71 0-1.42m10.38-9.32l1.42 1.42q.53.53.89-.13l2.23-4.11q.36-.66-.15-.16q-.5.51-1.19.81L14.51 7.4q-.69.3-.16.83");
+}
+</style><path class="ancp-y3na"/>`,
+		"fallback": "iconoven:eyebrow-pencil",
+	});
+}
+
+export default Component;

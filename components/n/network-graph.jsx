@@ -1,0 +1,59 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bi4vwgbyd {
+  cx: 12px;
+  cy: 12.5px;
+  r: 2.75px;
+}
+
+.bwkxpguke {
+  cx: 18.25px;
+  cy: 5px;
+  r: 2px;
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.k24pirb5y {
+  cx: 5.25px;
+  cy: 18.5px;
+  r: 2px;
+}
+
+.t5psuggxp {
+  cx: 5px;
+  cy: 5.5px;
+  r: 2px;
+}
+
+.tl2wwdbnu {
+  cx: 18.5px;
+  cy: 18.75px;
+  r: 2px;
+}
+
+.tmwlrjguv {
+  d: path("m6.41 6.91l3.65 3.65m6.91-4.02l-3.21 3.85m-7.02 6.78l3.2-2.84m7.12 3.03l-3.08-2.95M7 5.42l9.25-.34m-9 13.46l9.25.17");
+}
+</style><g class="hntgybcog"><path class="tmwlrjguv"/><circle class="t5psuggxp"/><circle class="bwkxpguke"/><circle class="k24pirb5y"/><circle class="tl2wwdbnu"/><circle class="bi4vwgbyd"/></g>`,
+		"fallback": "iconoven:network-graph",
+	});
+}
+
+export default Component;

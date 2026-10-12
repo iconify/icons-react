@@ -1,0 +1,43 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.f7q_gopah {
+  d: path("M3.25 6c0 1.8 3.02 3.25 6.75 3.25S16.75 7.8 16.75 6");
+}
+
+.ofibmb_yq {
+  d: path("m18.9 16.9l2.35 2.35");
+}
+
+.poj5y7bey {
+  cx: 16.75px;
+  cy: 14.75px;
+  r: 3px;
+}
+
+.r0mekdkgc {
+  d: path("M3.25 6c0-1.8 3.02-3.25 6.75-3.25S16.75 4.2 16.75 6v11c0 1.8-3.02 3.25-6.75 3.25S3.25 18.8 3.25 17Z");
+}
+
+.x2cwu0gfd {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 2;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+</style><g class="x2cwu0gfd"><path class="r0mekdkgc"/><path class="f7q_gopah"/><circle class="poj5y7bey"/><path class="ofibmb_yq"/></g>`,
+		"fallback": "iconoven:database-query-sharp",
+	});
+}
+
+export default Component;

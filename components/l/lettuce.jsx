@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ritwjjbam {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M9.25 18.8a2.48 2.48 0 0 1-2.85-2.99a2.65 2.65 0 0 1-.89-4.32A2.62 2.62 0 0 1 6.9 7.35a2.43 2.43 0 0 1 3.18-2.51a2.31 2.31 0 0 1 3.84 0a2.43 2.43 0 0 1 3.18 2.51a2.62 2.62 0 0 1 1.39 4.14a2.65 2.65 0 0 1-.89 4.32a2.48 2.48 0 0 1-2.85 2.99L12 21ZM12 21V8.5");
+}
+</style><path class="ritwjjbam"/>`,
+		"fallback": "iconoven:lettuce",
+	});
+}
+
+export default Component;

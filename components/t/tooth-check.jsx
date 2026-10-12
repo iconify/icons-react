@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.pwpmt9b1q {
+  d: path("M7.5 6.75c-.95.15-1.65.9-1.75 1.9");
+}
+
+.w8c3zdb-s {
+  d: path("M7.5 3.25c-2.6 0-4.25 2.1-4.25 4.75c0 2.4 1 4 1.75 6.25c.7 2.1.9 7 3 7c1.9 0 1.6-5.25 4-5.25s2.1 5.25 4 5.25c2.1 0 2.3-4.9 3-7C19.75 12 20.75 10.4 20.75 8c0-2.65-1.65-4.75-4.25-4.75c-1.9 0-2.7 1-4.5 1s-2.6-1-4.5-1");
+}
+</style><g class="hntgybcog"><path class="w8c3zdb-s"/><path class="pwpmt9b1q"/></g>`,
+		"fallback": "iconoven:tooth-check",
+	});
+}
+
+export default Component;

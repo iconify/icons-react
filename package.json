@@ -1,11 +1,15 @@
 {
   "name": "@iconify-react/garden",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "https://icon-sets.iconify.design/garden/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
   "exports": {
+    "./123-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/1/123-20.jsx"
+    },
     "./123-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/1/123-fill-12.jsx"
@@ -21,6 +25,14 @@
     "./123-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/1/123-stroke-16.jsx"
+    },
+    "./accessibility-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessibility-fill-20.jsx"
+    },
+    "./accessibility-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessibility-stroke-20.jsx"
     },
     "./adjust-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -70,6 +82,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alert-warning-stroke-16.jsx"
     },
+    "./align-center-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-center-20.jsx"
+    },
     "./align-center-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-center-fill-12.jsx"
@@ -85,6 +101,10 @@
     "./align-center-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-center-stroke-16.jsx"
+    },
+    "./align-justify-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-justify-20.jsx"
     },
     "./align-justify-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -102,6 +122,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-justify-stroke-16.jsx"
     },
+    "./align-left-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-left-20.jsx"
+    },
     "./align-left-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-left-fill-12.jsx"
@@ -117,6 +141,10 @@
     "./align-left-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-left-stroke-16.jsx"
+    },
+    "./align-right-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-right-20.jsx"
     },
     "./align-right-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -142,6 +170,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alt-text-fill-16.jsx"
     },
+    "./alt-text-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alt-text-fill-20.jsx"
+    },
     "./alt-text-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alt-text-stroke-12.jsx"
@@ -149,6 +181,10 @@
     "./alt-text-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alt-text-stroke-16.jsx"
+    },
+    "./alt-text-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alt-text-stroke-20.jsx"
     },
     "./answer-bot-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -158,9 +194,57 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/app-26.jsx"
     },
+    "./archive-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-fill-20.jsx"
+    },
+    "./archive-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-stroke-20.jsx"
+    },
     "./arrange-content-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrange-content-26.jsx"
+    },
+    "./arrow-box-down-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-box-down-20.jsx"
+    },
+    "./arrow-box-left-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-box-left-20.jsx"
+    },
+    "./arrow-box-right-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-box-right-20.jsx"
+    },
+    "./arrow-box-up-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-box-up-20.jsx"
+    },
+    "./arrow-curve-left-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-curve-left-20.jsx"
+    },
+    "./arrow-curve-right-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-curve-right-20.jsx"
+    },
+    "./arrow-cycle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-cycle-20.jsx"
+    },
+    "./arrow-diagonal-in-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-diagonal-in-20.jsx"
+    },
+    "./arrow-diagonal-out-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-diagonal-out-20.jsx"
+    },
+    "./arrow-left-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-20.jsx"
     },
     "./arrow-left-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -169,6 +253,10 @@
     "./arrow-left-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-left-fill-16.jsx"
+    },
+    "./arrow-left-sm-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-sm-20.jsx"
     },
     "./arrow-left-sm-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -193,6 +281,10 @@
     "./arrow-left-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-left-stroke-16.jsx"
+    },
+    "./arrow-left-up-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left-up-20.jsx"
     },
     "./arrow-left-up-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -234,6 +326,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-reverse-fill-16.jsx"
     },
+    "./arrow-reverse-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-reverse-fill-20.jsx"
+    },
     "./arrow-reverse-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-reverse-stroke-12.jsx"
@@ -242,9 +338,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-reverse-stroke-16.jsx"
     },
+    "./arrow-reverse-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-reverse-stroke-20.jsx"
+    },
     "./arrow-right-left-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-right-left-26.jsx"
+    },
+    "./arrow-rotate-right-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-rotate-right-20.jsx"
+    },
+    "./arrow-trending-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-trending-20.jsx"
     },
     "./arrow-trending-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -278,6 +386,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-box-stroke-16.jsx"
     },
+    "./asterisk-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-20.jsx"
+    },
     "./asterisk-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/asterisk-fill-12.jsx"
@@ -302,6 +414,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/at-fill-16.jsx"
     },
+    "./at-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-fill-20.jsx"
+    },
     "./at-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/at-stroke-12.jsx"
@@ -309,6 +425,10 @@
     "./at-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/at-stroke-16.jsx"
+    },
+    "./at-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-stroke-20.jsx"
     },
     "./banknote-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -318,6 +438,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/banknote-fill-16.jsx"
     },
+    "./banknote-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/banknote-fill-20.jsx"
+    },
     "./banknote-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/banknote-stroke-12.jsx"
@@ -325,6 +449,10 @@
     "./banknote-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/banknote-stroke-16.jsx"
+    },
+    "./banknote-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/banknote-stroke-20.jsx"
     },
     "./bar-chart-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -338,6 +466,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bar-chart-fill-16.jsx"
     },
+    "./bar-chart-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-chart-fill-20.jsx"
+    },
+    "./bar-chart-square-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-chart-square-fill-20.jsx"
+    },
+    "./bar-chart-square-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-chart-square-stroke-20.jsx"
+    },
     "./bar-chart-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bar-chart-stroke-12.jsx"
@@ -345,6 +485,18 @@
     "./bar-chart-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bar-chart-stroke-16.jsx"
+    },
+    "./bar-chart-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-chart-stroke-20.jsx"
+    },
+    "./basket-plus-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-plus-fill-20.jsx"
+    },
+    "./basket-plus-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basket-plus-stroke-20.jsx"
     },
     "./basketball-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -354,6 +506,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/basketball-fill-16.jsx"
     },
+    "./basketball-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basketball-fill-20.jsx"
+    },
     "./basketball-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/basketball-stroke-12.jsx"
@@ -361,6 +517,30 @@
     "./basketball-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/basketball-stroke-16.jsx"
+    },
+    "./basketball-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basketball-stroke-20.jsx"
+    },
+    "./bell-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-fill-20.jsx"
+    },
+    "./bell-strike-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-strike-fill-20.jsx"
+    },
+    "./bell-strike-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-strike-stroke-20.jsx"
+    },
+    "./bell-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-stroke-20.jsx"
+    },
+    "./bold-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bold-20.jsx"
     },
     "./bold-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -390,6 +570,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book-closed-fill-16.jsx"
     },
+    "./book-closed-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-closed-fill-20.jsx"
+    },
     "./book-closed-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book-closed-stroke-12.jsx"
@@ -397,6 +581,18 @@
     "./book-closed-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book-closed-stroke-16.jsx"
+    },
+    "./book-closed-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-closed-stroke-20.jsx"
+    },
+    "./book-contacts-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-contacts-fill-20.jsx"
+    },
+    "./book-contacts-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-contacts-stroke-20.jsx"
     },
     "./book-open-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -406,6 +602,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book-open-fill-16.jsx"
     },
+    "./book-open-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-open-fill-20.jsx"
+    },
     "./book-open-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book-open-stroke-12.jsx"
@@ -413,6 +613,10 @@
     "./book-open-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book-open-stroke-16.jsx"
+    },
+    "./book-open-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book-open-stroke-20.jsx"
     },
     "./bookmark-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -422,6 +626,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bookmark-fill-16.jsx"
     },
+    "./bookmark-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-fill-20.jsx"
+    },
     "./bookmark-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bookmark-stroke-12.jsx"
@@ -429,6 +637,10 @@
     "./bookmark-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bookmark-stroke-16.jsx"
+    },
+    "./bookmark-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-stroke-20.jsx"
     },
     "./bot-generic-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -442,6 +654,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot-sparkle-fill-16.jsx"
     },
+    "./bot-sparkle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-sparkle-fill-20.jsx"
+    },
     "./bot-sparkle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot-sparkle-stroke-12.jsx"
@@ -449,6 +665,10 @@
     "./bot-sparkle-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot-sparkle-stroke-16.jsx"
+    },
+    "./bot-sparkle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-sparkle-stroke-20.jsx"
     },
     "./box-3d-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -466,6 +686,70 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/box-3d-stroke-16.jsx"
     },
+    "./box-expand-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-expand-fill-20.jsx"
+    },
+    "./box-expand-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-expand-stroke-20.jsx"
+    },
+    "./broom-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/broom-fill-20.jsx"
+    },
+    "./broom-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/broom-stroke-20.jsx"
+    },
+    "./bubble-check-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-check-fill-20.jsx"
+    },
+    "./bubble-check-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-check-stroke-20.jsx"
+    },
+    "./bubble-dots-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-dots-fill-20.jsx"
+    },
+    "./bubble-dots-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-dots-stroke-20.jsx"
+    },
+    "./bubble-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-fill-20.jsx"
+    },
+    "./bubble-lightning-bolt-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-lightning-bolt-fill-20.jsx"
+    },
+    "./bubble-lightning-bolt-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-lightning-bolt-stroke-20.jsx"
+    },
+    "./bubble-stack-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-stack-fill-20.jsx"
+    },
+    "./bubble-stack-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-stack-stroke-20.jsx"
+    },
+    "./bubble-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubble-stroke-20.jsx"
+    },
+    "./bubbles-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubbles-fill-20.jsx"
+    },
+    "./bubbles-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bubbles-stroke-20.jsx"
+    },
     "./building-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/building-26.jsx"
@@ -478,6 +762,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/building-fill-16.jsx"
     },
+    "./building-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-fill-20.jsx"
+    },
     "./building-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/building-stroke-12.jsx"
@@ -485,6 +773,10 @@
     "./building-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/building-stroke-16.jsx"
+    },
+    "./building-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-stroke-20.jsx"
     },
     "./calendar-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -494,6 +786,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-fill-16.jsx"
     },
+    "./calendar-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-fill-20.jsx"
+    },
     "./calendar-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-stroke-12.jsx"
@@ -501,6 +797,10 @@
     "./calendar-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-stroke-16.jsx"
+    },
+    "./calendar-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-stroke-20.jsx"
     },
     "./call-in-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -514,6 +814,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera-fill-16.jsx"
     },
+    "./camera-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-fill-20.jsx"
+    },
     "./camera-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera-stroke-12.jsx"
@@ -521,6 +825,10 @@
     "./camera-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera-stroke-16.jsx"
+    },
+    "./camera-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-stroke-20.jsx"
     },
     "./car-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -530,6 +838,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-fill-16.jsx"
     },
+    "./car-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-fill-20.jsx"
+    },
     "./car-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-stroke-12.jsx"
@@ -537,6 +849,10 @@
     "./car-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-stroke-16.jsx"
+    },
+    "./car-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-stroke-20.jsx"
     },
     "./center-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -546,6 +862,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/center-fill-16.jsx"
     },
+    "./center-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/center-fill-20.jsx"
+    },
     "./center-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/center-stroke-12.jsx"
@@ -554,9 +874,29 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/center-stroke-16.jsx"
     },
+    "./center-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/center-stroke-20.jsx"
+    },
+    "./chain-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chain-20.jsx"
+    },
+    "./chain-broken-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chain-broken-20.jsx"
+    },
+    "./chart-arrow-trending-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-arrow-trending-20.jsx"
+    },
     "./chat-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chat-26.jsx"
+    },
+    "./check-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-20.jsx"
     },
     "./check-badge-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -566,6 +906,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-badge-fill-16.jsx"
     },
+    "./check-badge-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-badge-fill-20.jsx"
+    },
     "./check-badge-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-badge-stroke-12.jsx"
@@ -573,6 +917,10 @@
     "./check-badge-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-badge-stroke-16.jsx"
+    },
+    "./check-badge-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-badge-stroke-20.jsx"
     },
     "./check-box-double-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -582,6 +930,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-box-double-fill-16.jsx"
     },
+    "./check-box-double-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-box-double-fill-20.jsx"
+    },
     "./check-box-double-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-box-double-stroke-12.jsx"
@@ -589,6 +941,10 @@
     "./check-box-double-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-box-double-stroke-16.jsx"
+    },
+    "./check-box-double-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-box-double-stroke-20.jsx"
     },
     "./check-box-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -614,6 +970,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-circle-fill-16.jsx"
     },
+    "./check-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-fill-20.jsx"
+    },
     "./check-circle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-circle-stroke-12.jsx"
@@ -621,6 +981,14 @@
     "./check-circle-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-circle-stroke-16.jsx"
+    },
+    "./check-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-stroke-20.jsx"
+    },
+    "./check-double-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-double-20.jsx"
     },
     "./check-double-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -654,6 +1022,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-lg-stroke-16.jsx"
     },
+    "./check-list-square-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-list-square-fill-20.jsx"
+    },
+    "./check-list-square-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-list-square-stroke-20.jsx"
+    },
+    "./check-sm-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-sm-20.jsx"
+    },
     "./check-sm-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-sm-fill-12.jsx"
@@ -669,6 +1049,14 @@
     "./check-sm-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-sm-stroke-16.jsx"
+    },
+    "./check-square-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-square-fill-20.jsx"
+    },
+    "./check-square-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-square-stroke-20.jsx"
     },
     "./checkbox-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -690,6 +1078,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-box-stroke-16.jsx"
     },
+    "./chevron-double-down-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-double-down-20.jsx"
+    },
     "./chevron-double-down-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-double-down-fill-12.jsx"
@@ -705,6 +1097,10 @@
     "./chevron-double-down-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-double-down-stroke-16.jsx"
+    },
+    "./chevron-double-left-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-double-left-20.jsx"
     },
     "./chevron-double-left-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -722,6 +1118,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-double-left-stroke-16.jsx"
     },
+    "./chevron-double-right-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-double-right-20.jsx"
+    },
     "./chevron-double-right-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-double-right-fill-12.jsx"
@@ -737,6 +1137,10 @@
     "./chevron-double-right-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-double-right-stroke-16.jsx"
+    },
+    "./chevron-double-up-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-double-up-20.jsx"
     },
     "./chevron-double-up-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -754,6 +1158,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-double-up-stroke-16.jsx"
     },
+    "./chevron-down-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-down-20.jsx"
+    },
     "./chevron-down-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-down-fill-12.jsx"
@@ -769,6 +1177,10 @@
     "./chevron-down-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-down-stroke-16.jsx"
+    },
+    "./chevron-left-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-left-20.jsx"
     },
     "./chevron-left-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -786,6 +1198,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-left-stroke-16.jsx"
     },
+    "./chevron-right-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-right-20.jsx"
+    },
     "./chevron-right-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-right-fill-12.jsx"
@@ -801,6 +1217,26 @@
     "./chevron-right-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-right-stroke-16.jsx"
+    },
+    "./chevron-square-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-square-fill-20.jsx"
+    },
+    "./chevron-square-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-square-stroke-20.jsx"
+    },
+    "./chevron-up-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up-20.jsx"
+    },
+    "./chevron-up-down-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up-down-fill-20.jsx"
+    },
+    "./chevron-up-down-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up-down-stroke-20.jsx"
     },
     "./chevron-up-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -826,6 +1262,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-fill-16.jsx"
     },
+    "./circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-fill-20.jsx"
+    },
     "./circle-full-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-full-fill-12.jsx"
@@ -841,6 +1281,14 @@
     "./circle-full-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-full-stroke-16.jsx"
+    },
+    "./circle-half-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-half-fill-20.jsx"
+    },
+    "./circle-half-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-half-stroke-20.jsx"
     },
     "./circle-line-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -874,6 +1322,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-sm-stroke-16.jsx"
     },
+    "./circle-strike-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-strike-fill-20.jsx"
+    },
+    "./circle-strike-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-strike-stroke-20.jsx"
+    },
     "./circle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-stroke-12.jsx"
@@ -881,6 +1337,10 @@
     "./circle-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-stroke-16.jsx"
+    },
+    "./circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-stroke-20.jsx"
     },
     "./clipboard-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -918,6 +1378,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard-check-stroke-16.jsx"
     },
+    "./clipboard-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-fill-20.jsx"
+    },
     "./clipboard-list-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard-list-fill-12.jsx"
@@ -925,6 +1389,10 @@
     "./clipboard-list-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard-list-fill-16.jsx"
+    },
+    "./clipboard-list-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-list-fill-20.jsx"
     },
     "./clipboard-list-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -934,9 +1402,33 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard-list-stroke-16.jsx"
     },
+    "./clipboard-list-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-list-stroke-20.jsx"
+    },
+    "./clipboard-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-stroke-20.jsx"
+    },
     "./clock-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-26.jsx"
+    },
+    "./clock-arrow-left-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-arrow-left-fill-20.jsx"
+    },
+    "./clock-arrow-left-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-arrow-left-stroke-20.jsx"
+    },
+    "./clock-arrow-right-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-arrow-right-fill-20.jsx"
+    },
+    "./clock-arrow-right-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-arrow-right-stroke-20.jsx"
     },
     "./clock-cycle-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -946,6 +1438,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-cycle-fill-16.jsx"
     },
+    "./clock-cycle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-cycle-fill-20.jsx"
+    },
     "./clock-cycle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-cycle-stroke-12.jsx"
@@ -954,6 +1450,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-cycle-stroke-16.jsx"
     },
+    "./clock-cycle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-cycle-stroke-20.jsx"
+    },
     "./clock-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-fill-12.jsx"
@@ -961,6 +1461,10 @@
     "./clock-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-fill-16.jsx"
+    },
+    "./clock-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-fill-20.jsx"
     },
     "./clock-in-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1002,9 +1506,49 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-stroke-16.jsx"
     },
+    "./clock-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-stroke-20.jsx"
+    },
+    "./cloud-arrow-down-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-down-fill-20.jsx"
+    },
+    "./cloud-arrow-down-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-down-stroke-20.jsx"
+    },
+    "./cloud-arrow-up-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-up-fill-20.jsx"
+    },
+    "./cloud-arrow-up-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-up-stroke-20.jsx"
+    },
+    "./cloud-sun-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sun-fill-20.jsx"
+    },
+    "./cloud-sun-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-sun-stroke-20.jsx"
+    },
     "./cloud-upload-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloud-upload-26.jsx"
+    },
+    "./code-bracket-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-bracket-20.jsx"
+    },
+    "./connector-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-fill-20.jsx"
+    },
+    "./connector-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/connector-stroke-20.jsx"
     },
     "./copy-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1014,6 +1558,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy-fill-16.jsx"
     },
+    "./copy-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-fill-20.jsx"
+    },
     "./copy-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy-stroke-12.jsx"
@@ -1021,6 +1569,10 @@
     "./copy-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy-stroke-16.jsx"
+    },
+    "./copy-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-stroke-20.jsx"
     },
     "./credit-card-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1034,6 +1586,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/credit-card-fill-16.jsx"
     },
+    "./credit-card-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-fill-20.jsx"
+    },
     "./credit-card-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/credit-card-stroke-12.jsx"
@@ -1041,6 +1597,10 @@
     "./credit-card-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/credit-card-stroke-16.jsx"
+    },
+    "./credit-card-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-stroke-20.jsx"
     },
     "./css-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1050,6 +1610,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/css-fill-16.jsx"
     },
+    "./css-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css-fill-20.jsx"
+    },
     "./css-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/css-stroke-12.jsx"
@@ -1057,6 +1621,18 @@
     "./css-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/css-stroke-16.jsx"
+    },
+    "./css-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/css-stroke-20.jsx"
+    },
+    "./cube-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cube-fill-20.jsx"
+    },
+    "./cube-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cube-stroke-20.jsx"
     },
     "./cursor-arrow-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1066,6 +1642,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cursor-arrow-fill-16.jsx"
     },
+    "./cursor-arrow-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-arrow-fill-20.jsx"
+    },
     "./cursor-arrow-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cursor-arrow-stroke-12.jsx"
@@ -1073,6 +1653,10 @@
     "./cursor-arrow-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cursor-arrow-stroke-16.jsx"
+    },
+    "./cursor-arrow-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor-arrow-stroke-20.jsx"
     },
     "./customer-lists-fill-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1090,6 +1674,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cutlery-fill-16.jsx"
     },
+    "./cutlery-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cutlery-fill-20.jsx"
+    },
     "./cutlery-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cutlery-stroke-12.jsx"
@@ -1097,6 +1685,14 @@
     "./cutlery-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cutlery-stroke-16.jsx"
+    },
+    "./cutlery-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cutlery-stroke-20.jsx"
+    },
+    "./dash-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dash-20.jsx"
     },
     "./dash-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1126,6 +1722,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database-fill-16.jsx"
     },
+    "./database-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-fill-20.jsx"
+    },
     "./database-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database-stroke-12.jsx"
@@ -1133,6 +1733,14 @@
     "./database-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database-stroke-16.jsx"
+    },
+    "./database-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-stroke-20.jsx"
+    },
+    "./decimal-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/decimal-20.jsx"
     },
     "./decimal-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1150,6 +1758,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/decimal-stroke-16.jsx"
     },
+    "./direction-ltr-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-ltr-20.jsx"
+    },
     "./direction-ltr-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/direction-ltr-fill-12.jsx"
@@ -1165,6 +1777,10 @@
     "./direction-ltr-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/direction-ltr-stroke-16.jsx"
+    },
+    "./direction-rtl-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/direction-rtl-20.jsx"
     },
     "./direction-rtl-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1198,6 +1814,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/document-search-stroke-16.jsx"
     },
+    "./dots-grid-2x3-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dots-grid-2x3-20.jsx"
+    },
+    "./dots-horizontal-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dots-horizontal-20.jsx"
+    },
+    "./dots-vertical-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dots-vertical-20.jsx"
+    },
     "./download-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/download-fill-12.jsx"
@@ -1222,6 +1850,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/duplicate-fill-16.jsx"
     },
+    "./duplicate-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duplicate-fill-20.jsx"
+    },
     "./duplicate-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/duplicate-stroke-12.jsx"
@@ -1229,6 +1861,18 @@
     "./duplicate-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/duplicate-stroke-16.jsx"
+    },
+    "./duplicate-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duplicate-stroke-20.jsx"
+    },
+    "./earth-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-fill-20.jsx"
+    },
+    "./earth-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth-stroke-20.jsx"
     },
     "./edit-redo-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1274,6 +1918,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/email-fill-16.jsx"
     },
+    "./email-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/email-fill-20.jsx"
+    },
     "./email-fill-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/email-fill-26.jsx"
@@ -1286,6 +1934,58 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/email-stroke-16.jsx"
     },
+    "./email-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/email-stroke-20.jsx"
+    },
+    "./emoji-excited-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-excited-fill-20.jsx"
+    },
+    "./emoji-excited-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-excited-stroke-20.jsx"
+    },
+    "./emoji-grin-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-grin-fill-20.jsx"
+    },
+    "./emoji-grin-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-grin-stroke-20.jsx"
+    },
+    "./emoji-happy-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-happy-fill-20.jsx"
+    },
+    "./emoji-happy-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-happy-stroke-20.jsx"
+    },
+    "./emoji-neutral-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-neutral-fill-20.jsx"
+    },
+    "./emoji-neutral-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-neutral-stroke-20.jsx"
+    },
+    "./emoji-sad-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-sad-fill-20.jsx"
+    },
+    "./emoji-sad-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-sad-stroke-20.jsx"
+    },
+    "./emoji-upset-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-upset-fill-20.jsx"
+    },
+    "./emoji-upset-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emoji-upset-stroke-20.jsx"
+    },
     "./eraser-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser-fill-12.jsx"
@@ -1294,6 +1994,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser-fill-16.jsx"
     },
+    "./eraser-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-fill-20.jsx"
+    },
     "./eraser-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser-stroke-12.jsx"
@@ -1301,6 +2005,26 @@
     "./eraser-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser-stroke-16.jsx"
+    },
+    "./eraser-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eraser-stroke-20.jsx"
+    },
+    "./exclamation-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-circle-fill-20.jsx"
+    },
+    "./exclamation-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-circle-stroke-20.jsx"
+    },
+    "./exclamation-triangle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-triangle-fill-20.jsx"
+    },
+    "./exclamation-triangle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-triangle-stroke-20.jsx"
     },
     "./exit-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1318,6 +2042,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/exit-stroke-16.jsx"
     },
+    "./external-link-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/external-link-20.jsx"
+    },
     "./eye-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eye-fill-12.jsx"
@@ -1325,6 +2053,10 @@
     "./eye-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eye-fill-16.jsx"
+    },
+    "./eye-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-fill-20.jsx"
     },
     "./eye-hide-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1342,6 +2074,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eye-hide-stroke-16.jsx"
     },
+    "./eye-strike-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-strike-fill-20.jsx"
+    },
+    "./eye-strike-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-strike-stroke-20.jsx"
+    },
     "./eye-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eye-stroke-12.jsx"
@@ -1349,6 +2089,10 @@
     "./eye-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eye-stroke-16.jsx"
+    },
+    "./eye-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-stroke-20.jsx"
     },
     "./face-neutral-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1446,6 +2190,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-document-fill-16.jsx"
     },
+    "./file-document-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-document-fill-20.jsx"
+    },
     "./file-document-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-document-stroke-12.jsx"
@@ -1453,6 +2201,10 @@
     "./file-document-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-document-stroke-16.jsx"
+    },
+    "./file-document-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-document-stroke-20.jsx"
     },
     "./file-error-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1466,6 +2218,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-error-fill-16.jsx"
     },
+    "./file-error-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-error-fill-20.jsx"
+    },
     "./file-error-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-error-stroke-12.jsx"
@@ -1473,6 +2229,10 @@
     "./file-error-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-error-stroke-16.jsx"
+    },
+    "./file-error-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-error-stroke-20.jsx"
     },
     "./file-generic-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1482,6 +2242,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-generic-fill-16.jsx"
     },
+    "./file-generic-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-generic-fill-20.jsx"
+    },
     "./file-generic-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-generic-stroke-12.jsx"
@@ -1489,6 +2253,10 @@
     "./file-generic-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-generic-stroke-16.jsx"
+    },
+    "./file-generic-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-generic-stroke-20.jsx"
     },
     "./file-image-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1502,6 +2270,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-image-fill-16.jsx"
     },
+    "./file-image-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-image-fill-20.jsx"
+    },
     "./file-image-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-image-stroke-12.jsx"
@@ -1509,6 +2281,10 @@
     "./file-image-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-image-stroke-16.jsx"
+    },
+    "./file-image-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-image-stroke-20.jsx"
     },
     "./file-pdf-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1522,6 +2298,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-pdf-fill-16.jsx"
     },
+    "./file-pdf-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-pdf-fill-20.jsx"
+    },
     "./file-pdf-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-pdf-stroke-12.jsx"
@@ -1529,6 +2309,10 @@
     "./file-pdf-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-pdf-stroke-16.jsx"
+    },
+    "./file-pdf-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-pdf-stroke-20.jsx"
     },
     "./file-presentation-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1542,6 +2326,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-presentation-fill-16.jsx"
     },
+    "./file-presentation-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-presentation-fill-20.jsx"
+    },
     "./file-presentation-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-presentation-stroke-12.jsx"
@@ -1549,6 +2337,18 @@
     "./file-presentation-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-presentation-stroke-16.jsx"
+    },
+    "./file-presentation-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-presentation-stroke-20.jsx"
+    },
+    "./file-search-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-search-fill-20.jsx"
+    },
+    "./file-search-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-search-stroke-20.jsx"
     },
     "./file-spreadsheet-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1562,6 +2362,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-spreadsheet-fill-16.jsx"
     },
+    "./file-spreadsheet-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-spreadsheet-fill-20.jsx"
+    },
     "./file-spreadsheet-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-spreadsheet-stroke-12.jsx"
@@ -1569,6 +2373,10 @@
     "./file-spreadsheet-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-spreadsheet-stroke-16.jsx"
+    },
+    "./file-spreadsheet-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-spreadsheet-stroke-20.jsx"
     },
     "./file-zip-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1582,6 +2390,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-zip-fill-16.jsx"
     },
+    "./file-zip-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-zip-fill-20.jsx"
+    },
     "./file-zip-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-zip-stroke-12.jsx"
@@ -1589,6 +2401,10 @@
     "./file-zip-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-zip-stroke-16.jsx"
+    },
+    "./file-zip-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-zip-stroke-20.jsx"
     },
     "./filter-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1614,6 +2430,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flag-fill-16.jsx"
     },
+    "./flag-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-fill-20.jsx"
+    },
     "./flag-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flag-stroke-12.jsx"
@@ -1621,6 +2441,18 @@
     "./flag-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flag-stroke-16.jsx"
+    },
+    "./flag-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag-stroke-20.jsx"
+    },
+    "./flow-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flow-fill-20.jsx"
+    },
+    "./flow-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flow-stroke-20.jsx"
     },
     "./folder-closed-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1638,6 +2470,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-closed-stroke-16.jsx"
     },
+    "./folder-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-fill-20.jsx"
+    },
     "./folder-open-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-open-fill-12.jsx"
@@ -1645,6 +2481,10 @@
     "./folder-open-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-open-fill-16.jsx"
+    },
+    "./folder-open-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open-fill-20.jsx"
     },
     "./folder-open-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1654,6 +2494,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-open-stroke-16.jsx"
     },
+    "./folder-open-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open-stroke-20.jsx"
+    },
+    "./folder-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-stroke-20.jsx"
+    },
+    "./folders-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folders-fill-20.jsx"
+    },
+    "./folders-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folders-stroke-20.jsx"
+    },
     "./full-width-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/full-width-fill-12.jsx"
@@ -1662,6 +2518,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/full-width-fill-16.jsx"
     },
+    "./full-width-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/full-width-fill-20.jsx"
+    },
     "./full-width-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/full-width-stroke-12.jsx"
@@ -1669,6 +2529,18 @@
     "./full-width-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/full-width-stroke-16.jsx"
+    },
+    "./full-width-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/full-width-stroke-20.jsx"
+    },
+    "./funnel-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/funnel-fill-20.jsx"
+    },
+    "./funnel-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/funnel-stroke-20.jsx"
     },
     "./garden-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1682,6 +2554,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gear-fill-16.jsx"
     },
+    "./gear-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gear-fill-20.jsx"
+    },
     "./gear-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gear-stroke-12.jsx"
@@ -1689,6 +2565,10 @@
     "./gear-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gear-stroke-16.jsx"
+    },
+    "./gear-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gear-stroke-20.jsx"
     },
     "./github-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1714,6 +2594,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-fill-16.jsx"
     },
+    "./globe-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-fill-20.jsx"
+    },
     "./globe-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-stroke-12.jsx"
@@ -1721,6 +2605,18 @@
     "./globe-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-stroke-16.jsx"
+    },
+    "./globe-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-stroke-20.jsx"
+    },
+    "./graduate-cap-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graduate-cap-fill-20.jsx"
+    },
+    "./graduate-cap-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graduate-cap-stroke-20.jsx"
     },
     "./grid-2x2-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1730,6 +2626,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-2x2-fill-16.jsx"
     },
+    "./grid-2x2-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-2x2-fill-20.jsx"
+    },
     "./grid-2x2-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-2x2-stroke-12.jsx"
@@ -1737,6 +2637,10 @@
     "./grid-2x2-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-2x2-stroke-16.jsx"
+    },
+    "./grid-2x2-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-2x2-stroke-20.jsx"
     },
     "./grid-3x3-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1746,6 +2650,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-3x3-fill-16.jsx"
     },
+    "./grid-3x3-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-3x3-fill-20.jsx"
+    },
     "./grid-3x3-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-3x3-stroke-12.jsx"
@@ -1753,6 +2661,10 @@
     "./grid-3x3-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-3x3-stroke-16.jsx"
+    },
+    "./grid-3x3-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-3x3-stroke-20.jsx"
     },
     "./grid-add-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1786,6 +2698,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/growth-chart-stroke-16.jsx"
     },
+    "./hashtag-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hashtag-20.jsx"
+    },
+    "./header-1-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/header-1-20.jsx"
+    },
+    "./header-2-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/header-2-20.jsx"
+    },
+    "./header-3-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/header-3-20.jsx"
+    },
+    "./header-4-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/header-4-20.jsx"
+    },
+    "./header-5-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/header-5-20.jsx"
+    },
+    "./header-6-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/header-6-20.jsx"
+    },
+    "./heading-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading-20.jsx"
+    },
     "./heading-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heading-fill-12.jsx"
@@ -1814,6 +2758,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-fill-16.jsx"
     },
+    "./headset-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-fill-20.jsx"
+    },
     "./headset-sparkle-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-sparkle-fill-12.jsx"
@@ -1821,6 +2769,10 @@
     "./headset-sparkle-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-sparkle-fill-16.jsx"
+    },
+    "./headset-sparkle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-sparkle-fill-20.jsx"
     },
     "./headset-sparkle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1830,6 +2782,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-sparkle-stroke-16.jsx"
     },
+    "./headset-sparkle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-sparkle-stroke-20.jsx"
+    },
     "./headset-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-stroke-12.jsx"
@@ -1837,6 +2793,10 @@
     "./headset-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-stroke-16.jsx"
+    },
+    "./headset-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-stroke-20.jsx"
     },
     "./heart-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1846,6 +2806,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-fill-16.jsx"
     },
+    "./heart-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-fill-20.jsx"
+    },
     "./heart-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-stroke-12.jsx"
@@ -1853,6 +2817,10 @@
     "./heart-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-stroke-16.jsx"
+    },
+    "./heart-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-stroke-20.jsx"
     },
     "./help-center-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1866,6 +2834,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/history-fill-16.jsx"
     },
+    "./history-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-fill-20.jsx"
+    },
     "./history-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/history-stroke-12.jsx"
@@ -1874,6 +2846,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/history-stroke-16.jsx"
     },
+    "./history-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-stroke-20.jsx"
+    },
     "./home-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/home-fill-12.jsx"
@@ -1881,6 +2857,10 @@
     "./home-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/home-fill-16.jsx"
+    },
+    "./home-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-fill-20.jsx"
     },
     "./home-fill-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1894,9 +2874,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/home-stroke-16.jsx"
     },
+    "./home-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-stroke-20.jsx"
+    },
     "./hook-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hook-26.jsx"
+    },
+    "./horizontal-rule-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horizontal-rule-20.jsx"
     },
     "./horizontal-rule-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1922,6 +2910,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-fill-16.jsx"
     },
+    "./image-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-fill-20.jsx"
+    },
     "./image-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-stroke-12.jsx"
@@ -1929,6 +2921,10 @@
     "./image-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-stroke-16.jsx"
+    },
+    "./image-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-stroke-20.jsx"
     },
     "./inbox-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1938,6 +2934,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inbox-fill-16.jsx"
     },
+    "./inbox-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-fill-20.jsx"
+    },
     "./inbox-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inbox-stroke-12.jsx"
@@ -1945,6 +2945,14 @@
     "./inbox-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inbox-stroke-16.jsx"
+    },
+    "./inbox-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-stroke-20.jsx"
+    },
+    "./indent-decrease-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-decrease-20.jsx"
     },
     "./indent-decrease-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1962,6 +2970,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/indent-decrease-stroke-16.jsx"
     },
+    "./indent-increase-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/indent-increase-20.jsx"
+    },
     "./indent-increase-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/indent-increase-fill-12.jsx"
@@ -1977,6 +2989,14 @@
     "./indent-increase-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/indent-increase-stroke-16.jsx"
+    },
+    "./info-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-circle-fill-20.jsx"
+    },
+    "./info-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info-circle-stroke-20.jsx"
     },
     "./info-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2010,6 +3030,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/interlocking-rings-stroke-16.jsx"
     },
+    "./italic-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/italic-20.jsx"
+    },
     "./italic-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/italic-fill-12.jsx"
@@ -2026,9 +3050,33 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/italic-stroke-16.jsx"
     },
+    "./key-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-fill-20.jsx"
+    },
+    "./key-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-stroke-20.jsx"
+    },
     "./knowledge-base-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/knowledge-base-26.jsx"
+    },
+    "./laptop-phone-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-phone-fill-20.jsx"
+    },
+    "./laptop-phone-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop-phone-stroke-20.jsx"
+    },
+    "./layout-grid-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-grid-fill-20.jsx"
+    },
+    "./layout-grid-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-grid-stroke-20.jsx"
     },
     "./leaf-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2070,6 +3118,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightbulb-fill-16.jsx"
     },
+    "./lightbulb-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-fill-20.jsx"
+    },
     "./lightbulb-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightbulb-stroke-12.jsx"
@@ -2077,6 +3129,10 @@
     "./lightbulb-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightbulb-stroke-16.jsx"
+    },
+    "./lightbulb-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-stroke-20.jsx"
     },
     "./lightning-bolt-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2086,6 +3142,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightning-bolt-fill-16.jsx"
     },
+    "./lightning-bolt-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightning-bolt-fill-20.jsx"
+    },
     "./lightning-bolt-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightning-bolt-stroke-12.jsx"
@@ -2093,6 +3153,10 @@
     "./lightning-bolt-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightning-bolt-stroke-16.jsx"
+    },
+    "./lightning-bolt-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightning-bolt-stroke-20.jsx"
     },
     "./line-chart-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2105,6 +3169,14 @@
     "./line-graph-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/line-graph-fill-16.jsx"
+    },
+    "./line-graph-square-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-graph-square-fill-20.jsx"
+    },
+    "./line-graph-square-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-graph-square-stroke-20.jsx"
     },
     "./line-graph-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2178,6 +3250,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/linkedin-stroke-16.jsx"
     },
+    "./list-bullet-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-bullet-20.jsx"
+    },
     "./list-bullet-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-bullet-fill-12.jsx"
@@ -2194,6 +3270,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-bullet-stroke-16.jsx"
     },
+    "./list-number-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-number-20.jsx"
+    },
     "./list-number-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-number-fill-12.jsx"
@@ -2201,6 +3281,10 @@
     "./list-number-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-number-fill-16.jsx"
+    },
+    "./list-number-rtl-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-number-rtl-20.jsx"
     },
     "./list-number-rtl-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2226,6 +3310,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-number-stroke-16.jsx"
     },
+    "./list-sparkle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkle-fill-20.jsx"
+    },
+    "./list-sparkle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-sparkle-stroke-20.jsx"
+    },
     "./location-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/location-fill-12.jsx"
@@ -2234,6 +3326,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/location-fill-16.jsx"
     },
+    "./location-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-fill-20.jsx"
+    },
     "./location-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/location-stroke-12.jsx"
@@ -2241,6 +3337,14 @@
     "./location-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/location-stroke-16.jsx"
+    },
+    "./location-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location-stroke-20.jsx"
+    },
+    "./lock-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-fill-20.jsx"
     },
     "./lock-locked-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2258,6 +3362,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-locked-stroke-16.jsx"
     },
+    "./lock-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-stroke-20.jsx"
+    },
     "./lock-unlocked-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-unlocked-fill-12.jsx"
@@ -2274,9 +3382,65 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-unlocked-stroke-16.jsx"
     },
+    "./logo-confluence-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-confluence-20.jsx"
+    },
+    "./logo-facebook-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-facebook-20.jsx"
+    },
+    "./logo-github-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-github-20.jsx"
+    },
+    "./logo-google-drive-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-google-drive-20.jsx"
+    },
+    "./logo-instagram-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-instagram-20.jsx"
+    },
+    "./logo-line-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-line-20.jsx"
+    },
+    "./logo-linkedin-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-linkedin-20.jsx"
+    },
+    "./logo-messenger-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-messenger-20.jsx"
+    },
+    "./logo-slack-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-slack-20.jsx"
+    },
+    "./logo-wechat-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-wechat-20.jsx"
+    },
+    "./logo-whatsapp-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-whatsapp-20.jsx"
+    },
+    "./logo-x-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-x-20.jsx"
+    },
+    "./logo-zendesk-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-zendesk-20.jsx"
+    },
     "./macro-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/macro-26.jsx"
+    },
+    "./magnifying-glass-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnifying-glass-20.jsx"
     },
     "./markup-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2318,6 +3482,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/megaphone-fill-16.jsx"
     },
+    "./megaphone-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/megaphone-fill-20.jsx"
+    },
     "./megaphone-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/megaphone-stroke-12.jsx"
@@ -2325,6 +3493,10 @@
     "./megaphone-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/megaphone-stroke-16.jsx"
+    },
+    "./megaphone-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/megaphone-stroke-20.jsx"
     },
     "./menu-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2342,6 +3514,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/menu-stroke-16.jsx"
     },
+    "./merge-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/merge-20.jsx"
+    },
     "./messenger-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/messenger-fill-12.jsx"
@@ -2358,6 +3534,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/messenger-stroke-16.jsx"
     },
+    "./microphone-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-fill-20.jsx"
+    },
     "./microphone-off-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-off-fill-12.jsx"
@@ -2366,6 +3546,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-off-fill-16.jsx"
     },
+    "./microphone-off-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-fill-20.jsx"
+    },
     "./microphone-off-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-off-stroke-12.jsx"
@@ -2373,6 +3557,10 @@
     "./microphone-off-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-off-stroke-16.jsx"
+    },
+    "./microphone-off-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-stroke-20.jsx"
     },
     "./microphone-on-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2389,6 +3577,10 @@
     "./microphone-on-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-on-stroke-16.jsx"
+    },
+    "./microphone-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-stroke-20.jsx"
     },
     "./minimize-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2414,6 +3606,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mobile-phone-fill-16.jsx"
     },
+    "./mobile-phone-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone-fill-20.jsx"
+    },
     "./mobile-phone-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mobile-phone-stroke-12.jsx"
@@ -2421,6 +3617,10 @@
     "./mobile-phone-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mobile-phone-stroke-16.jsx"
+    },
+    "./mobile-phone-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mobile-phone-stroke-20.jsx"
     },
     "./moderation-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2438,6 +3638,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monitor-fill-16.jsx"
     },
+    "./monitor-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-fill-20.jsx"
+    },
     "./monitor-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monitor-stroke-12.jsx"
@@ -2445,6 +3649,10 @@
     "./monitor-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monitor-stroke-16.jsx"
+    },
+    "./monitor-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-stroke-20.jsx"
     },
     "./moon-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2454,6 +3662,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/moon-fill-16.jsx"
     },
+    "./moon-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-fill-20.jsx"
+    },
     "./moon-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/moon-stroke-12.jsx"
@@ -2461,6 +3673,14 @@
     "./moon-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/moon-stroke-16.jsx"
+    },
+    "./moon-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon-stroke-20.jsx"
+    },
+    "./multiline-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multiline-20.jsx"
     },
     "./multiline-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2493,6 +3713,14 @@
     "./new-window-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/new-window-stroke-16.jsx"
+    },
+    "./note-pencil-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/note-pencil-fill-20.jsx"
+    },
+    "./note-pencil-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/note-pencil-stroke-20.jsx"
     },
     "./notes-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2602,6 +3830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette-fill-16.jsx"
     },
+    "./palette-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-fill-20.jsx"
+    },
     "./palette-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette-stroke-12.jsx"
@@ -2609,6 +3841,10 @@
     "./palette-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette-stroke-16.jsx"
+    },
+    "./palette-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-stroke-20.jsx"
     },
     "./panels-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2626,6 +3862,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/panels-stroke-16.jsx"
     },
+    "./paper-plane-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-plane-fill-20.jsx"
+    },
+    "./paper-plane-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paper-plane-stroke-20.jsx"
+    },
     "./paperclip-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paperclip-12.jsx"
@@ -2633,6 +3877,14 @@
     "./paperclip-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paperclip-16.jsx"
+    },
+    "./paperclip-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paperclip-20.jsx"
+    },
+    "./paragraph-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paragraph-20.jsx"
     },
     "./parentheses-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2650,6 +3902,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/parentheses-stroke-16.jsx"
     },
+    "./parenthesis-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parenthesis-20.jsx"
+    },
     "./pause-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pause-fill-12.jsx"
@@ -2657,6 +3913,10 @@
     "./pause-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pause-fill-16.jsx"
+    },
+    "./pause-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-fill-20.jsx"
     },
     "./pause-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2666,6 +3926,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pause-stroke-16.jsx"
     },
+    "./pause-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause-stroke-20.jsx"
+    },
     "./pencil-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pencil-fill-12.jsx"
@@ -2673,6 +3937,18 @@
     "./pencil-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pencil-fill-16.jsx"
+    },
+    "./pencil-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil-fill-20.jsx"
+    },
+    "./pencil-sparkle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil-sparkle-fill-20.jsx"
+    },
+    "./pencil-sparkle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil-sparkle-stroke-20.jsx"
     },
     "./pencil-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2682,9 +3958,101 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pencil-stroke-16.jsx"
     },
+    "./pencil-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pencil-stroke-20.jsx"
+    },
+    "./people-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-fill-20.jsx"
+    },
+    "./people-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-stroke-20.jsx"
+    },
     "./person-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-26.jsx"
+    },
+    "./person-check-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-check-fill-20.jsx"
+    },
+    "./person-check-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-check-stroke-20.jsx"
+    },
+    "./person-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-circle-fill-20.jsx"
+    },
+    "./person-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-circle-stroke-20.jsx"
+    },
+    "./person-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-fill-20.jsx"
+    },
+    "./person-key-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-key-fill-20.jsx"
+    },
+    "./person-key-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-key-stroke-20.jsx"
+    },
+    "./person-list-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-list-fill-20.jsx"
+    },
+    "./person-list-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-list-stroke-20.jsx"
+    },
+    "./person-pencil-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-pencil-fill-20.jsx"
+    },
+    "./person-pencil-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-pencil-stroke-20.jsx"
+    },
+    "./person-plus-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-plus-fill-20.jsx"
+    },
+    "./person-plus-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-plus-stroke-20.jsx"
+    },
+    "./person-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-stroke-20.jsx"
+    },
+    "./person-x-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-x-fill-20.jsx"
+    },
+    "./person-x-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-x-stroke-20.jsx"
+    },
+    "./phone-arrow-left-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-arrow-left-fill-20.jsx"
+    },
+    "./phone-arrow-left-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-arrow-left-stroke-20.jsx"
+    },
+    "./phone-arrow-right-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-arrow-right-fill-20.jsx"
+    },
+    "./phone-arrow-right-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-arrow-right-stroke-20.jsx"
     },
     "./phone-call-end-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2798,6 +4166,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-call-transfer-stroke-16.jsx"
     },
+    "./phone-end-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-end-fill-20.jsx"
+    },
+    "./phone-end-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-end-stroke-20.jsx"
+    },
     "./phone-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-fill-12.jsx"
@@ -2805,6 +4181,34 @@
     "./phone-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-fill-16.jsx"
+    },
+    "./phone-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-fill-20.jsx"
+    },
+    "./phone-in-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-in-fill-20.jsx"
+    },
+    "./phone-in-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-in-stroke-20.jsx"
+    },
+    "./phone-out-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-out-fill-20.jsx"
+    },
+    "./phone-out-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-out-stroke-20.jsx"
+    },
+    "./phone-pause-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-pause-fill-20.jsx"
+    },
+    "./phone-pause-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-pause-stroke-20.jsx"
     },
     "./phone-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2814,6 +4218,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-stroke-16.jsx"
     },
+    "./phone-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-stroke-20.jsx"
+    },
+    "./phone-waves-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-waves-fill-20.jsx"
+    },
+    "./phone-waves-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-waves-stroke-20.jsx"
+    },
     "./pin-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pin-fill-12.jsx"
@@ -2821,6 +4237,10 @@
     "./pin-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pin-fill-16.jsx"
+    },
+    "./pin-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-fill-20.jsx"
     },
     "./pin-remove-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2838,6 +4258,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pin-remove-stroke-16.jsx"
     },
+    "./pin-strike-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-strike-fill-20.jsx"
+    },
+    "./pin-strike-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-strike-stroke-20.jsx"
+    },
     "./pin-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pin-stroke-12.jsx"
@@ -2845,6 +4273,10 @@
     "./pin-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pin-stroke-16.jsx"
+    },
+    "./pin-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-stroke-20.jsx"
     },
     "./platform-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2862,6 +4294,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/play-circle-fill-16.jsx"
     },
+    "./play-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-circle-fill-20.jsx"
+    },
     "./play-circle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/play-circle-stroke-12.jsx"
@@ -2869,6 +4305,10 @@
     "./play-circle-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/play-circle-stroke-16.jsx"
+    },
+    "./play-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-circle-stroke-20.jsx"
     },
     "./play-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2878,6 +4318,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/play-fill-16.jsx"
     },
+    "./play-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-fill-20.jsx"
+    },
     "./play-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/play-stroke-12.jsx"
@@ -2885,6 +4329,10 @@
     "./play-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/play-stroke-16.jsx"
+    },
+    "./play-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play-stroke-20.jsx"
     },
     "./plug-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2894,6 +4342,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plug-fill-16.jsx"
     },
+    "./plug-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-fill-20.jsx"
+    },
     "./plug-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plug-stroke-12.jsx"
@@ -2901,6 +4353,14 @@
     "./plug-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plug-stroke-16.jsx"
+    },
+    "./plug-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-stroke-20.jsx"
+    },
+    "./plus-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-20.jsx"
     },
     "./plus-circle-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2910,6 +4370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus-circle-fill-16.jsx"
     },
+    "./plus-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-circle-fill-20.jsx"
+    },
     "./plus-circle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus-circle-stroke-12.jsx"
@@ -2917,6 +4381,10 @@
     "./plus-circle-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus-circle-stroke-16.jsx"
+    },
+    "./plus-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-circle-stroke-20.jsx"
     },
     "./plus-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2942,6 +4410,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/puzzle-piece-fill-16.jsx"
     },
+    "./puzzle-piece-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puzzle-piece-fill-20.jsx"
+    },
     "./puzzle-piece-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/puzzle-piece-stroke-12.jsx"
@@ -2949,6 +4421,18 @@
     "./puzzle-piece-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/puzzle-piece-stroke-16.jsx"
+    },
+    "./puzzle-piece-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/puzzle-piece-stroke-20.jsx"
+    },
+    "./question-mark-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-mark-circle-fill-20.jsx"
+    },
+    "./question-mark-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-mark-circle-stroke-20.jsx"
     },
     "./question-mark-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2974,6 +4458,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quote-fill-16.jsx"
     },
+    "./quote-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote-fill-20.jsx"
+    },
     "./quote-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quote-stroke-12.jsx"
@@ -2981,6 +4469,10 @@
     "./quote-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quote-stroke-16.jsx"
+    },
+    "./quote-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote-stroke-20.jsx"
     },
     "./rearrange-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2990,6 +4482,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rearrange-fill-16.jsx"
     },
+    "./rearrange-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rearrange-fill-20.jsx"
+    },
     "./rearrange-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rearrange-stroke-12.jsx"
@@ -2997,6 +4493,14 @@
     "./rearrange-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rearrange-stroke-16.jsx"
+    },
+    "./rearrange-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rearrange-stroke-20.jsx"
+    },
+    "./record-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/record-20.jsx"
     },
     "./record-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3066,6 +4570,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/reload-stroke-16.jsx"
     },
+    "./rescue-ring-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rescue-ring-fill-20.jsx"
+    },
+    "./rescue-ring-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rescue-ring-stroke-20.jsx"
+    },
     "./rocket-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rocket-fill-12.jsx"
@@ -3073,6 +4585,10 @@
     "./rocket-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rocket-fill-16.jsx"
+    },
+    "./rocket-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-fill-20.jsx"
     },
     "./rocket-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3082,6 +4598,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rocket-stroke-16.jsx"
     },
+    "./rocket-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket-stroke-20.jsx"
+    },
     "./sandbox-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sandbox-fill-12.jsx"
@@ -3090,6 +4610,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sandbox-fill-16.jsx"
     },
+    "./sandbox-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sandbox-fill-20.jsx"
+    },
     "./sandbox-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sandbox-stroke-12.jsx"
@@ -3097,6 +4621,18 @@
     "./sandbox-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sandbox-stroke-16.jsx"
+    },
+    "./sandbox-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sandbox-stroke-20.jsx"
+    },
+    "./screen-arrow-up-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-arrow-up-fill-20.jsx"
+    },
+    "./screen-arrow-up-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-arrow-up-stroke-20.jsx"
     },
     "./search-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3138,6 +4674,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shapes-fill-16.jsx"
     },
+    "./shapes-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shapes-fill-20.jsx"
+    },
     "./shapes-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shapes-stroke-12.jsx"
@@ -3145,6 +4685,10 @@
     "./shapes-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shapes-stroke-16.jsx"
+    },
+    "./shapes-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shapes-stroke-20.jsx"
     },
     "./share-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3154,6 +4698,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/share-fill-16.jsx"
     },
+    "./share-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-fill-20.jsx"
+    },
     "./share-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/share-stroke-12.jsx"
@@ -3161,6 +4709,10 @@
     "./share-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/share-stroke-16.jsx"
+    },
+    "./share-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-stroke-20.jsx"
     },
     "./shield-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3170,6 +4722,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-fill-16.jsx"
     },
+    "./shield-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-fill-20.jsx"
+    },
     "./shield-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-stroke-12.jsx"
@@ -3177,6 +4733,10 @@
     "./shield-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-stroke-16.jsx"
+    },
+    "./shield-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-stroke-20.jsx"
     },
     "./shopping-cart-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3186,6 +4746,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shopping-cart-fill-16.jsx"
     },
+    "./shopping-cart-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-fill-20.jsx"
+    },
     "./shopping-cart-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shopping-cart-stroke-12.jsx"
@@ -3193,6 +4757,18 @@
     "./shopping-cart-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shopping-cart-stroke-16.jsx"
+    },
+    "./shopping-cart-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-stroke-20.jsx"
+    },
+    "./sidebar-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-fill-20.jsx"
+    },
+    "./sidebar-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-stroke-20.jsx"
     },
     "./signpost-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3202,6 +4778,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/signpost-fill-16.jsx"
     },
+    "./signpost-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signpost-fill-20.jsx"
+    },
     "./signpost-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/signpost-stroke-12.jsx"
@@ -3209,6 +4789,10 @@
     "./signpost-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/signpost-stroke-16.jsx"
+    },
+    "./signpost-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signpost-stroke-20.jsx"
     },
     "./slack-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3225,6 +4809,14 @@
     "./slack-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/slack-stroke-16.jsx"
+    },
+    "./slider-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slider-fill-20.jsx"
+    },
+    "./slider-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slider-stroke-20.jsx"
     },
     "./smile-slight-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3274,6 +4866,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sort-stroke-16.jsx"
     },
+    "./sparkle-alt-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-alt-fill-20.jsx"
+    },
+    "./sparkle-alt-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-alt-stroke-20.jsx"
+    },
     "./sparkle-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sparkle-fill-12.jsx"
@@ -3282,6 +4882,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sparkle-fill-16.jsx"
     },
+    "./sparkle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-fill-20.jsx"
+    },
     "./sparkle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sparkle-stroke-12.jsx"
@@ -3289,6 +4893,10 @@
     "./sparkle-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sparkle-stroke-16.jsx"
+    },
+    "./sparkle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-stroke-20.jsx"
     },
     "./speech-bubble-conversation-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3354,6 +4962,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/speech-bubble-typing-stroke-16.jsx"
     },
+    "./sprout-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sprout-fill-20.jsx"
+    },
+    "./sprout-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sprout-stroke-20.jsx"
+    },
+    "./square-grid-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-grid-circle-fill-20.jsx"
+    },
+    "./square-grid-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-grid-circle-stroke-20.jsx"
+    },
     "./stamp-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stamp-fill-12.jsx"
@@ -3361,6 +4985,10 @@
     "./stamp-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stamp-fill-16.jsx"
+    },
+    "./stamp-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-fill-20.jsx"
     },
     "./stamp-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3370,6 +4998,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stamp-stroke-16.jsx"
     },
+    "./stamp-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stamp-stroke-20.jsx"
+    },
     "./star-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-fill-12.jsx"
@@ -3377,6 +5009,10 @@
     "./star-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-fill-16.jsx"
+    },
+    "./star-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-fill-20.jsx"
     },
     "./star-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3386,6 +5022,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-stroke-16.jsx"
     },
+    "./star-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-stroke-20.jsx"
+    },
+    "./stop-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-fill-20.jsx"
+    },
+    "./stop-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-stroke-20.jsx"
+    },
     "./sun-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sun-fill-12.jsx"
@@ -3394,6 +5042,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sun-fill-16.jsx"
     },
+    "./sun-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-fill-20.jsx"
+    },
     "./sun-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sun-stroke-12.jsx"
@@ -3401,6 +5053,10 @@
     "./sun-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sun-stroke-16.jsx"
+    },
+    "./sun-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun-stroke-20.jsx"
     },
     "./sunshine-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3414,6 +5070,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/table-fill-16.jsx"
     },
+    "./table-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-fill-20.jsx"
+    },
     "./table-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/table-stroke-12.jsx"
@@ -3421,6 +5081,10 @@
     "./table-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/table-stroke-16.jsx"
+    },
+    "./table-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-stroke-20.jsx"
     },
     "./tag-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3430,6 +5094,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tag-fill-16.jsx"
     },
+    "./tag-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-fill-20.jsx"
+    },
     "./tag-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tag-stroke-12.jsx"
@@ -3437,6 +5105,10 @@
     "./tag-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tag-stroke-16.jsx"
+    },
+    "./tag-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag-stroke-20.jsx"
     },
     "./terminal-cli-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3454,6 +5126,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terminal-cli-stroke-16.jsx"
     },
+    "./terminal-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-fill-20.jsx"
+    },
+    "./terminal-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-stroke-20.jsx"
+    },
     "./terminal-window-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terminal-window-fill-12.jsx"
@@ -3461,6 +5141,10 @@
     "./terminal-window-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terminal-window-fill-16.jsx"
+    },
+    "./terminal-window-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-window-fill-20.jsx"
     },
     "./terminal-window-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3470,6 +5154,26 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terminal-window-stroke-16.jsx"
     },
+    "./terminal-window-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-window-stroke-20.jsx"
+    },
+    "./test-tube-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube-fill-20.jsx"
+    },
+    "./test-tube-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube-stroke-20.jsx"
+    },
+    "./text-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-20.jsx"
+    },
+    "./text-background-color-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-background-color-20.jsx"
+    },
     "./text-color-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-color-fill-12.jsx"
@@ -3477,6 +5181,10 @@
     "./text-color-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-color-fill-16.jsx"
+    },
+    "./text-color-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-color-fill-20.jsx"
     },
     "./text-color-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3486,6 +5194,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-color-stroke-16.jsx"
     },
+    "./text-color-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-color-stroke-20.jsx"
+    },
     "./text-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-fill-12.jsx"
@@ -3493,6 +5205,10 @@
     "./text-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-fill-16.jsx"
+    },
+    "./text-size-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-size-20.jsx"
     },
     "./text-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3510,6 +5226,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thumbs-down-fill-16.jsx"
     },
+    "./thumbs-down-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-down-fill-20.jsx"
+    },
     "./thumbs-down-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thumbs-down-stroke-12.jsx"
@@ -3517,6 +5237,10 @@
     "./thumbs-down-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thumbs-down-stroke-16.jsx"
+    },
+    "./thumbs-down-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-down-stroke-20.jsx"
     },
     "./thumbs-up-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3526,6 +5250,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thumbs-up-fill-16.jsx"
     },
+    "./thumbs-up-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-up-fill-20.jsx"
+    },
     "./thumbs-up-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thumbs-up-stroke-12.jsx"
@@ -3533,6 +5261,30 @@
     "./thumbs-up-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thumbs-up-stroke-16.jsx"
+    },
+    "./thumbs-up-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-up-stroke-20.jsx"
+    },
+    "./ticket-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ticket-fill-20.jsx"
+    },
+    "./ticket-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/ticket-stroke-20.jsx"
+    },
+    "./translation-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translation-20.jsx"
+    },
+    "./translation-check-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translation-check-20.jsx"
+    },
+    "./translation-clock-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translation-clock-20.jsx"
     },
     "./translation-created-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3549,6 +5301,10 @@
     "./translation-created-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/translation-created-stroke-16.jsx"
+    },
+    "./translation-cycle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translation-cycle-20.jsx"
     },
     "./translation-deleted-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3614,6 +5370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/translation-updated-stroke-16.jsx"
     },
+    "./translation-x-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translation-x-20.jsx"
+    },
     "./trash-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trash-fill-12.jsx"
@@ -3622,6 +5382,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trash-fill-16.jsx"
     },
+    "./trash-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-fill-20.jsx"
+    },
     "./trash-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trash-stroke-12.jsx"
@@ -3629,6 +5393,10 @@
     "./trash-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trash-stroke-16.jsx"
+    },
+    "./trash-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-stroke-20.jsx"
     },
     "./tray-bar-chart-26": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3690,6 +5458,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/twitter-stroke-16.jsx"
     },
+    "./underline-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/underline-20.jsx"
+    },
     "./underline-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/underline-fill-12.jsx"
@@ -3705,6 +5477,14 @@
     "./underline-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/underline-stroke-16.jsx"
+    },
+    "./unlocked-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlocked-fill-20.jsx"
+    },
+    "./unlocked-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlocked-stroke-20.jsx"
     },
     "./upload-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3830,6 +5610,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/video-fill-16.jsx"
     },
+    "./video-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-fill-20.jsx"
+    },
     "./video-off-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/video-off-fill-12.jsx"
@@ -3846,6 +5630,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/video-off-stroke-16.jsx"
     },
+    "./video-strike-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-strike-fill-20.jsx"
+    },
+    "./video-strike-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-strike-stroke-20.jsx"
+    },
     "./video-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/video-stroke-12.jsx"
@@ -3854,9 +5646,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/video-stroke-16.jsx"
     },
+    "./video-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-stroke-20.jsx"
+    },
     "./views-fill-26": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/views-fill-26.jsx"
+    },
+    "./voicemail-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/voicemail-20.jsx"
     },
     "./voicemail-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3889,6 +5689,22 @@
     "./volume-muted-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/volume-muted-stroke-16.jsx"
+    },
+    "./volume-off-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-off-fill-20.jsx"
+    },
+    "./volume-off-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-off-stroke-20.jsx"
+    },
+    "./volume-on-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-on-fill-20.jsx"
+    },
+    "./volume-on-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume-on-stroke-20.jsx"
     },
     "./volume-unmuted-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4038,6 +5854,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wrap-left-fill-16.jsx"
     },
+    "./wrap-left-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrap-left-fill-20.jsx"
+    },
     "./wrap-left-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wrap-left-stroke-12.jsx"
@@ -4045,6 +5865,10 @@
     "./wrap-left-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wrap-left-stroke-16.jsx"
+    },
+    "./wrap-left-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrap-left-stroke-20.jsx"
     },
     "./wrap-right-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4054,6 +5878,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wrap-right-fill-16.jsx"
     },
+    "./wrap-right-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrap-right-fill-20.jsx"
+    },
     "./wrap-right-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wrap-right-stroke-12.jsx"
@@ -4061,6 +5889,22 @@
     "./wrap-right-stroke-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wrap-right-stroke-16.jsx"
+    },
+    "./wrap-right-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrap-right-stroke-20.jsx"
+    },
+    "./wrench-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrench-fill-20.jsx"
+    },
+    "./wrench-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrench-stroke-20.jsx"
+    },
+    "./x-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-20.jsx"
     },
     "./x-circle-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4070,6 +5914,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-circle-fill-16.jsx"
     },
+    "./x-circle-fill-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-fill-20.jsx"
+    },
     "./x-circle-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-circle-stroke-12.jsx"
@@ -4078,6 +5926,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-circle-stroke-16.jsx"
     },
+    "./x-circle-stroke-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-stroke-20.jsx"
+    },
     "./x-fill-12": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-fill-12.jsx"
@@ -4085,6 +5937,10 @@
     "./x-fill-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-fill-16.jsx"
+    },
+    "./x-small-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-small-20.jsx"
     },
     "./x-stroke-12": {
       "types": "./types/hqrkovbr.d.ts",

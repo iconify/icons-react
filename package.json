@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.49",
+  "version": "1.0.50",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -3518,6 +3518,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/handbag.jsx"
     },
+    "./handle-bottom-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handle-bottom-right.jsx"
+    },
     "./handshake": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/handshake.jsx"
@@ -4269,6 +4273,10 @@
     "./mail-clock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail-clock.jsx"
+    },
+    "./mail-dot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-dot.jsx"
     },
     "./mail-minus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5194,6 +5202,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-incoming.jsx"
     },
+    "./phone-log": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone-log.jsx"
+    },
     "./phone-missed": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-missed.jsx"
@@ -5850,6 +5862,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/screen-share-off.jsx"
     },
+    "./screw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screw.jsx"
+    },
     "./scroll": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scroll.jsx"
@@ -5993,6 +6009,10 @@
     "./shield-half": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-half.jsx"
+    },
+    "./shield-house": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-house.jsx"
     },
     "./shield-keyhole": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7378,6 +7398,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-search.jsx"
     },
+    "./user-round-star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-round-star.jsx"
+    },
     "./user-round-x": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-x.jsx"
@@ -7633,6 +7657,10 @@
     "./wifi-high": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wifi-high.jsx"
+    },
+    "./wifi-lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-lock.jsx"
     },
     "./wifi-low": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/p/p6ryabcru.css';
+import '../../css/g/gkyrp556o.css';
+import '../../css/h/haliu0b_r.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="p6ryabcru"/><path class="gkyrp556o"/><path class="haliu0b_r"/></g>`,
+		"fallback": "lucide-extended:megaphone-duotone",
+	});
+}
+
+export default Component;

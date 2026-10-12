@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/d1-vf5x4j.css';
+import '../../css/m/mzcm9qfhg.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path clip-rule="evenodd" class="d1-vf5x4j"/><path class="mzcm9qfhg"/>`,
+		"fallback": "lucide-extended:wand-sparkles-filled",
+	});
+}
+
+export default Component;

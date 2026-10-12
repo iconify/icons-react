@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/logos",
   "type": "module",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "homepage": "https://icon-sets.iconify.design/logos/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -926,6 +926,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/baseline.jsx"
     },
+    "./baseten": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baseten.jsx"
+    },
+    "./baseten-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baseten-icon.jsx"
+    },
     "./bash": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bash.jsx"
@@ -1141,6 +1149,14 @@
     "./brotli": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/brotli.jsx"
+    },
+    "./browserbase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserbase.jsx"
+    },
+    "./browserbase-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserbase-icon.jsx"
     },
     "./browserify": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1814,6 +1830,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coreos-icon.jsx"
     },
+    "./coreweave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coreweave.jsx"
+    },
+    "./coreweave-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coreweave-icon.jsx"
+    },
     "./couchbase": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/couchbase.jsx"
@@ -1865,6 +1889,10 @@
     "./createjs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/createjs.jsx"
+    },
+    "./crewai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crewai.jsx"
     },
     "./crittercism": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2341,6 +2369,10 @@
     "./drip": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/drip.jsx"
+    },
+    "./driverjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/driverjs.jsx"
     },
     "./drizzle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3294,6 +3326,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/google-fit.jsx"
     },
+    "./google-fonts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-fonts.jsx"
+    },
+    "./google-fonts-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-fonts-icon.jsx"
+    },
     "./google-gemini": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/google-gemini.jsx"
@@ -3446,6 +3486,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grails.jsx"
     },
+    "./grain-lang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grain-lang.jsx"
+    },
     "./grammarly": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grammarly.jsx"
@@ -3525,6 +3569,10 @@
     "./groovehq": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/groovehq.jsx"
+    },
+    "./groq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groq.jsx"
     },
     "./grove": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5506,6 +5554,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nuclide.jsx"
     },
+    "./nuget": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuget.jsx"
+    },
+    "./nuget-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nuget-icon.jsx"
+    },
     "./numpy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/numpy.jsx"
@@ -5665,6 +5721,26 @@
     "./openlayers": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/openlayers.jsx"
+    },
+    "./openrouter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openrouter.jsx"
+    },
+    "./openrouter-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openrouter-dark.jsx"
+    },
+    "./openrouter-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openrouter-icon.jsx"
+    },
+    "./openrouter-icon-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openrouter-icon-dark.jsx"
+    },
+    "./openrouter-icon-mono": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openrouter-icon-mono.jsx"
     },
     "./opensearch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6029,6 +6105,10 @@
     "./planless-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/planless-icon.jsx"
+    },
+    "./plantuml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plantuml.jsx"
     },
     "./plasmic": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6497,6 +6577,10 @@
     "./recoil-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/recoil-icon.jsx"
+    },
+    "./red-lang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/red-lang.jsx"
     },
     "./reddit": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7826,6 +7910,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trace.jsx"
     },
+    "./traefik-proxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traefik-proxy.jsx"
+    },
+    "./traefik-proxy-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/traefik-proxy-icon.jsx"
+    },
     "./travis-ci": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/travis-ci.jsx"
@@ -8326,6 +8418,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/walkme.jsx"
     },
+    "./wandb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wandb.jsx"
+    },
+    "./wandb-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wandb-icon.jsx"
+    },
     "./watchman": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/watchman.jsx"
@@ -8353,6 +8453,18 @@
     "./weave": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/weave.jsx"
+    },
+    "./weaviate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weaviate.jsx"
+    },
+    "./weaviate-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weaviate-icon.jsx"
+    },
+    "./weaviate-icon-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/weaviate-icon-alt.jsx"
     },
     "./web-dev": {
       "types": "./types/hqrkovbr.d.ts",

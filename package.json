@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/simple-icons",
   "type": "module",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "homepage": "https://icon-sets.iconify.design/simple-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -1189,6 +1189,10 @@
     "./askubuntu": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/askubuntu.jsx"
+    },
+    "./aspire": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aspire.jsx"
     },
     "./assemblyscript": {
       "types": "./types/hqrkovbr.d.ts",
@@ -14845,6 +14849,10 @@
     "./zensar": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zensar.jsx"
+    },
+    "./zensical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zensical.jsx"
     },
     "./zerodha": {
       "types": "./types/hqrkovbr.d.ts",

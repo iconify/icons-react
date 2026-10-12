@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1633,6 +1633,10 @@
     "./icinga-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/icinga-wordmark.jsx"
+    },
+    "./idris": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/idris.jsx"
     },
     "./ie10": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3630,6 +3634,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/symfony-wordmark.jsx"
     },
+    "./systemverilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/systemverilog.jsx"
+    },
     "./tailwindcss": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tailwindcss.jsx"
@@ -3969,6 +3977,10 @@
     "./vercel-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vercel-wordmark.jsx"
+    },
+    "./verilog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verilog.jsx"
     },
     "./vertx": {
       "types": "./types/hqrkovbr.d.ts",

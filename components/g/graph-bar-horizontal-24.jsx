@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r3jd1lb0p.css';
-import '../../css/u/uoxnjgbje.css';
+import '../../css/o/opchihbne.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r3jd1lb0p"/><path class="uoxnjgbje"/>`,
+		"content": `<path class="opchihbne"/>`,
 		"fallback": "octicon:graph-bar-horizontal-24",
 	});
 }

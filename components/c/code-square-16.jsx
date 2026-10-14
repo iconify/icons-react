@@ -1,6 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ecc2mpxmo.css';
+import '../../css/l/lv2r58bup.css';
+import '../../css/n/nz-7s6boo.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ecc2mpxmo"/>`,
+		"content": `<path class="lv2r58bup"/><path class="nz-7s6boo"/>`,
 		"fallback": "octicon:code-square-16",
 	});
 }

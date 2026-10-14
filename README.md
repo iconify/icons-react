@@ -1,6 +1,5 @@
 # @iconify-react/octicon
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/octicon).
 **Octicons**
 
 Author: [GitHub](https://github.com/primer/octicons/)

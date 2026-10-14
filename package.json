@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/octicon",
   "type": "module",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "homepage": "https://icon-sets.iconify.design/octicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -626,6 +626,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/code-24.jsx"
     },
+    "./code-badge-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-badge-16.jsx"
+    },
+    "./code-badge-24": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code-badge-24.jsx"
+    },
     "./code-of-conduct-16": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/code-of-conduct-16.jsx"
@@ -845,6 +853,14 @@
     "./dashboard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dashboard.jsx"
+    },
+    "./dashboard-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dashboard-16.jsx"
+    },
+    "./dashboard-24": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dashboard-24.jsx"
     },
     "./database": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1750,6 +1750,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-jinja.jsx"
     },
+    "./file-type-jitpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-jitpack.jsx"
+    },
     "./file-type-jpm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-jpm.jsx"
@@ -2185,6 +2189,10 @@
     "./file-type-light-io": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-io.jsx"
+    },
+    "./file-type-light-jitpack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-jitpack.jsx"
     },
     "./file-type-light-js": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3722,6 +3730,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-pyenv.jsx"
     },
+    "./file-type-pyinstaller": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-pyinstaller.jsx"
+    },
     "./file-type-pypi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-pypi.jsx"
@@ -4862,6 +4874,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-windi.jsx"
     },
+    "./file-type-woke": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-woke.jsx"
+    },
     "./file-type-wolfram": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-wolfram.jsx"
@@ -5454,6 +5470,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-docs-opened.jsx"
     },
+    "./folder-type-domain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-domain.jsx"
+    },
+    "./folder-type-domain-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-domain-opened.jsx"
+    },
+    "./folder-type-drizzle-orm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-drizzle-orm.jsx"
+    },
+    "./folder-type-drizzle-orm-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-drizzle-orm-opened.jsx"
+    },
     "./folder-type-e2e": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-e2e.jsx"
@@ -5830,6 +5862,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-light-devenv-opened.jsx"
     },
+    "./folder-type-light-drizzle-orm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-light-drizzle-orm.jsx"
+    },
+    "./folder-type-light-drizzle-orm-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-light-drizzle-orm-opened.jsx"
+    },
     "./folder-type-light-electron": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-light-electron.jsx"
@@ -5926,6 +5966,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-light-sass-opened.jsx"
     },
+    "./folder-type-light-skill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-light-skill.jsx"
+    },
+    "./folder-type-light-skill-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-light-skill-opened.jsx"
+    },
     "./folder-type-light-zed": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-light-zed.jsx"
@@ -5957,6 +6005,14 @@
     "./folder-type-log-opened": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-log-opened.jsx"
+    },
+    "./folder-type-lua": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-lua.jsx"
+    },
+    "./folder-type-lua-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-lua-opened.jsx"
     },
     "./folder-type-macos": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6246,6 +6302,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-private-opened.jsx"
     },
+    "./folder-type-protobuf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-protobuf.jsx"
+    },
+    "./folder-type-protobuf-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-protobuf-opened.jsx"
+    },
     "./folder-type-public": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-public.jsx"
@@ -6365,6 +6429,14 @@
     "./folder-type-shared-opened": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-shared-opened.jsx"
+    },
+    "./folder-type-skill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-skill.jsx"
+    },
+    "./folder-type-skill-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-skill-opened.jsx"
     },
     "./folder-type-slackware": {
       "types": "./types/hqrkovbr.d.ts",

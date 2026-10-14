@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -4797,6 +4797,14 @@
     "./eagle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eagle.jsx"
+    },
+    "./earmark-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earmark-dark.jsx"
+    },
+    "./earmark-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earmark-light.jsx"
     },
     "./easyeda": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15529,6 +15537,10 @@
     "./sifive": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sifive.jsx"
+    },
+    "./sigma-computing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sigma-computing.jsx"
     },
     "./signal": {
       "types": "./types/hqrkovbr.d.ts",

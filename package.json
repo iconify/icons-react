@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -3222,6 +3222,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/certimate-light.jsx"
     },
+    "./certshell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certshell.jsx"
+    },
+    "./certshell-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certshell-dark.jsx"
+    },
+    "./certshell-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certshell-light.jsx"
+    },
     "./cetusguard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cetusguard.jsx"
@@ -3790,6 +3802,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coder-light.jsx"
     },
+    "./coffer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffer.jsx"
+    },
+    "./coffer-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffer-dark.jsx"
+    },
+    "./coffer-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffer-light.jsx"
+    },
     "./coinmarketcap": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coinmarketcap.jsx"
@@ -3981,6 +4005,18 @@
     "./conduwuit-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/conduwuit-light.jsx"
+    },
+    "./conduyt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conduyt.jsx"
+    },
+    "./conduyt-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conduyt-dark.jsx"
+    },
+    "./conduyt-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/conduyt-light.jsx"
     },
     "./coneshare": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4449,6 +4485,10 @@
     "./crowdsec-manager-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crowdsec-manager-light.jsx"
+    },
+    "./crowdsec-web-ui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crowdsec-web-ui.jsx"
     },
     "./crowdstrike": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5698,6 +5738,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/draw-io-light.jsx"
     },
+    "./dreeve": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dreeve.jsx"
+    },
+    "./dreeve-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dreeve-dark.jsx"
+    },
+    "./dreeve-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dreeve-light.jsx"
+    },
     "./dribdat": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dribdat.jsx"
@@ -6041,6 +6093,10 @@
     "./ecowitt-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ecowitt-light.jsx"
+    },
+    "./edentext": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edentext.jsx"
     },
     "./edubuntu": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8026,6 +8082,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fritz-light.jsx"
     },
+    "./fromkai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fromkai.jsx"
+    },
+    "./fromkai-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fromkai-dark.jsx"
+    },
+    "./fromkai-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fromkai-light.jsx"
+    },
     "./fubotv": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fubotv.jsx"
@@ -9653,6 +9721,18 @@
     "./healthchecks-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/healthchecks-light.jsx"
+    },
+    "./healthlog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/healthlog.jsx"
+    },
+    "./healthlog-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/healthlog-dark.jsx"
+    },
+    "./healthlog-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/healthlog-light.jsx"
     },
     "./hedgedoc": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15590,6 +15670,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mysterium-light.jsx"
     },
+    "./mysterium-node": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysterium-node.jsx"
+    },
+    "./mysterium-node-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysterium-node-dark.jsx"
+    },
+    "./mysterium-node-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysterium-node-light.jsx"
+    },
     "./n8n": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/n8n.jsx"
@@ -17349,6 +17441,10 @@
     "./omniroute-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/omniroute-light.jsx"
+    },
+    "./omnisight": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omnisight.jsx"
     },
     "./omnivore": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19970,6 +20066,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/polaris-dark.jsx"
     },
+    "./polaris-game-streaming": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polaris-game-streaming.jsx"
+    },
+    "./polaris-game-streaming-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polaris-game-streaming-dark.jsx"
+    },
+    "./polaris-game-streaming-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polaris-game-streaming-light.jsx"
+    },
     "./polaris-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/polaris-light.jsx"
@@ -20537,6 +20645,18 @@
     "./protondb-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/protondb-light.jsx"
+    },
+    "./proval": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proval.jsx"
+    },
+    "./proval-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proval-dark.jsx"
+    },
+    "./proval-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/proval-light.jsx"
     },
     "./prowlarr": {
       "types": "./types/hqrkovbr.d.ts",
@@ -23806,6 +23926,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/solectrus-light.jsx"
     },
+    "./solidping": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solidping.jsx"
+    },
     "./solidtime": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/solidtime.jsx"
@@ -24486,18 +24610,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/strava-light.jsx"
     },
-    "./strava-statistics": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/strava-statistics.jsx"
-    },
-    "./strava-statistics-dark": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/strava-statistics-dark.jsx"
-    },
-    "./strava-statistics-light": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/strava-statistics-light.jsx"
-    },
     "./streamlink": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/streamlink.jsx"
@@ -24953,6 +25065,18 @@
     "./t-mobile-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/t-mobile-light.jsx"
+    },
+    "./t3-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/t3-code.jsx"
+    },
+    "./t3-code-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/t3-code-dark.jsx"
+    },
+    "./t3-code-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/t3-code-light.jsx"
     },
     "./tableau": {
       "types": "./types/hqrkovbr.d.ts",
@@ -29001,6 +29125,18 @@
     "./mantrae-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mantrae-light.jsx"
+    },
+    "./strava-statistics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strava-statistics.jsx"
+    },
+    "./strava-statistics-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strava-statistics-dark.jsx"
+    },
+    "./strava-statistics-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strava-statistics-light.jsx"
     },
     "./*": "./*"
   },

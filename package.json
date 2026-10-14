@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.50",
+  "version": "1.0.51",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -694,6 +694,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/beer-off.jsx"
     },
+    "./belarusian-ruble": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/belarusian-ruble.jsx"
+    },
     "./bell": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bell.jsx"
@@ -1149,6 +1153,10 @@
     "./calendar-check-2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-check-2.jsx"
+    },
+    "./calendar-chevrons-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-chevrons-left.jsx"
     },
     "./calendar-chevrons-right": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1658,6 +1666,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-fading-arrow-up.jsx"
     },
+    "./circle-fading-play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-fading-play.jsx"
+    },
     "./circle-fading-plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-fading-plus.jsx"
@@ -2165,6 +2177,10 @@
     "./cpu": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cpu.jsx"
+    },
+    "./cpu-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cpu-ai.jsx"
     },
     "./creative-commons": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3166,6 +3182,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-up.jsx"
     },
+    "./folder-user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-user.jsx"
+    },
+    "./folder-users": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-users.jsx"
+    },
     "./folder-x": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-x.jsx"
@@ -3422,6 +3446,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grape.jsx"
     },
+    "./graph-star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-star.jsx"
+    },
     "./grid-2x2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-2x2.jsx"
@@ -3469,6 +3497,10 @@
     "./guitar": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/guitar.jsx"
+    },
+    "./guitar-electric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guitar-electric.jsx"
     },
     "./ham": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4478,6 +4510,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-circle-reply.jsx"
     },
+    "./message-circle-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-circle-text.jsx"
+    },
     "./message-circle-warning": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-circle-warning.jsx"
@@ -5173,6 +5209,10 @@
     "./percent": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/percent.jsx"
+    },
+    "./perfume-bottle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/perfume-bottle.jsx"
     },
     "./person-standing": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5937,6 +5977,10 @@
     "./server-crash": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/server-crash.jsx"
+    },
+    "./server-nas": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/server-nas.jsx"
     },
     "./server-off": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7426,9 +7470,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/users.jsx"
     },
+    "./users-collaboration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/users-collaboration.jsx"
+    },
     "./users-round": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/users-round.jsx"
+    },
+    "./users-round-collaboration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/users-round-collaboration.jsx"
     },
     "./utensils": {
       "types": "./types/hqrkovbr.d.ts",

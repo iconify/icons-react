@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
-import '../../css/s/si5x7ftvb.css';
+import '../../css/r/r_jfodxiz.css';
 import '../../css/n/nkup55_nc.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="si5x7ftvb"/><path class="nkup55_nc"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="r_jfodxiz"/><path class="nkup55_nc"/></g>`,
 		"fallback": "matita:compass",
 	});
 }

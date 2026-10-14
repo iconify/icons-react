@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
-import '../../css/v/vqm0_dtme.css';
+import '../../css/d/dektj5bcm.css';
 import '../../css/c/ciss-jbrv.css';
 import '../../css/f/fe1ld0bgr.css';
 import '../../css/f/fltmthbdi.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="vqm0_dtme"/><path class="ciss-jbrv"/><path class="fe1ld0bgr"/><path class="fltmthbdi"/><path class="mnqpjmj2f"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="dektj5bcm"/><path class="ciss-jbrv"/><path class="fe1ld0bgr"/><path class="fltmthbdi"/><path class="mnqpjmj2f"/></g>`,
 		"fallback": "matita:crosshair",
 	});
 }

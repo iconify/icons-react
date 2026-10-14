@@ -4,8 +4,8 @@ import '../../css/x/xn5eo9bqs.css';
 import '../../css/e/etur1zaih.css';
 import '../../css/i/izd4_2bep.css';
 import '../../css/a/a56m5f6ka.css';
-import '../../css/w/wrxz1_bof.css';
-import '../../css/s/sokdlbgtm.css';
+import '../../css/r/riatdz27l.css';
+import '../../css/e/eexc6cw9v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="etur1zaih"/><path class="izd4_2bep"/><path class="a56m5f6ka"/><path class="wrxz1_bof"/><path class="sokdlbgtm"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="etur1zaih"/><path class="izd4_2bep"/><path class="a56m5f6ka"/><path class="riatdz27l"/><path class="eexc6cw9v"/></g>`,
 		"fallback": "matita:gift",
 	});
 }

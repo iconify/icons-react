@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
-import '../../css/y/ylklwibqq.css';
+import '../../css/s/sxnyd4ewi.css';
 import '../../css/b/b-p73fn2z.css';
-import '../../css/z/zjal2ei2n.css';
+import '../../css/v/v7tp-zgpi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="ylklwibqq"/><path class="b-p73fn2z"/><path class="zjal2ei2n"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="sxnyd4ewi"/><path class="b-p73fn2z"/><path class="v7tp-zgpi"/></g>`,
 		"fallback": "matita:globe",
 	});
 }

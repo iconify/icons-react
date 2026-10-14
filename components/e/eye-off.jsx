@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
 import '../../css/w/wl_rm_b1u.css';
 import '../../css/q/qewkw1bch.css';
-import '../../css/t/tzn5-tbgj.css';
+import '../../css/g/g24by4g9h.css';
 import '../../css/j/j6y_b4ril.css';
 
 const viewBox = {"width":24,"height":24};
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="wl_rm_b1u"/><path class="qewkw1bch"/><path class="tzn5-tbgj"/><path class="j6y_b4ril"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="wl_rm_b1u"/><path class="qewkw1bch"/><path class="g24by4g9h"/><path class="j6y_b4ril"/></g>`,
 		"fallback": "matita:eye-off",
 	});
 }

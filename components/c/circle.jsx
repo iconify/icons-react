@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/edcg1xozq.css';
+import '../../css/h/hre7pb13f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="edcg1xozq"/>`,
+		"content": `<path class="hre7pb13f"/>`,
 		"fallback": "matita:circle",
 	});
 }

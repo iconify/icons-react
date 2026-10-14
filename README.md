@@ -1,6 +1,5 @@
 # @iconify-react/matita
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/matita).
 **Matita**
 
 Author: [matita.dev](https://github.com/matita-dev/icons)

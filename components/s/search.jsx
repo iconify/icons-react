@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
-import '../../css/a/apsq3_uht.css';
+import '../../css/a/a4nsl4b2j.css';
 import '../../css/e/efj60ojqu.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="apsq3_uht"/><path class="efj60ojqu"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="a4nsl4b2j"/><path class="efj60ojqu"/></g>`,
 		"fallback": "matita:search",
 	});
 }

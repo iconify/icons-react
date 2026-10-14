@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
-import '../../css/h/h0brju0li.css';
+import '../../css/m/m_uivvb_j.css';
 import '../../css/m/maasf2urd.css';
 import '../../css/s/s-ip73bot.css';
 import '../../css/r/rjopkyb3f.css';
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="h0brju0li"/><path class="maasf2urd"/><path class="s-ip73bot"/><path class="rjopkyb3f"/><path class="std-qtycv"/><path class="oz_i4xb2j"/><path class="qxpw2tb6l"/><path class="nlx6z4b2p"/><path class="z513r99mr"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="m_uivvb_j"/><path class="maasf2urd"/><path class="s-ip73bot"/><path class="rjopkyb3f"/><path class="std-qtycv"/><path class="oz_i4xb2j"/><path class="qxpw2tb6l"/><path class="nlx6z4b2p"/><path class="z513r99mr"/></g>`,
 		"fallback": "matita:sun",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -45,6 +45,14 @@
     "./2fas": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/2/2fas.jsx"
+    },
+    "./2fauth-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/2/2fauth-dark.jsx"
+    },
+    "./2fauth-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/2/2fauth-light.jsx"
     },
     "./2k": {
       "types": "./types/hqrkovbr.d.ts",
@@ -201,6 +209,10 @@
     "./activeloop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/activeloop.jsx"
+    },
+    "./activepieces": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activepieces.jsx"
     },
     "./activision": {
       "types": "./types/hqrkovbr.d.ts",
@@ -594,6 +606,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alephalpha.jsx"
     },
+    "./alertmanager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alertmanager.jsx"
+    },
     "./alfred": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alfred.jsx"
@@ -898,6 +914,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/anyscale.jsx"
     },
+    "./anythingllm-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anythingllm-dark.jsx"
+    },
+    "./anythingllm-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anythingllm-light.jsx"
+    },
     "./anytype": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/anytype.jsx"
@@ -1102,6 +1126,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/appcelerator.jsx"
     },
+    "./appflowy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/appflowy.jsx"
+    },
     "./appgallery": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/appgallery.jsx"
@@ -1154,6 +1182,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/appmanager.jsx"
     },
+    "./apprise-api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apprise-api.jsx"
+    },
     "./appsignal": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/appsignal.jsx"
@@ -1181,6 +1213,10 @@
     "./arangodb": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arangodb.jsx"
+    },
+    "./arbitrum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arbitrum.jsx"
     },
     "./arc-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1470,6 +1506,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/authy.jsx"
     },
+    "./autobrr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/autobrr.jsx"
+    },
     "./autocad": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/autocad.jsx"
@@ -1653,6 +1693,10 @@
     "./babelio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/babelio.jsx"
+    },
+    "./baby-buddy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baby-buddy.jsx"
     },
     "./babylondotjs": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1914,6 +1958,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bentoml.jsx"
     },
+    "./bentopdf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bentopdf.jsx"
+    },
     "./bereal": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bereal.jsx"
@@ -1925,6 +1973,10 @@
     "./best-western": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/best-western.jsx"
+    },
+    "./beszel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beszel.jsx"
     },
     "./bet365": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2378,6 +2430,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/broadcom.jsx"
     },
+    "./browserless-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserless-dark.jsx"
+    },
+    "./browserless-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/browserless-light.jsx"
+    },
     "./browserstack": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/browserstack.jsx"
@@ -2437,6 +2497,14 @@
     "./buildkite": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/buildkite.jsx"
+    },
+    "./buildpacks-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buildpacks-dark.jsx"
+    },
+    "./buildpacks-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buildpacks-light.jsx"
     },
     "./buildship": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2510,9 +2578,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/byju-s.jsx"
     },
+    "./bytebase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bytebase.jsx"
+    },
     "./bytedance": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bytedance.jsx"
+    },
+    "./bytestash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bytestash.jsx"
     },
     "./c": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2690,6 +2766,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/castbox.jsx"
     },
+    "./castopod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/castopod.jsx"
+    },
     "./castorama": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/castorama.jsx"
@@ -2754,6 +2834,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cerebras.jsx"
     },
+    "./cert-manager-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cert-manager-dark.jsx"
+    },
+    "./cert-manager-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cert-manager-light.jsx"
+    },
     "./cesium": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cesium.jsx"
@@ -2785,6 +2873,14 @@
     "./channel-4": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/channel-4.jsx"
+    },
+    "./chaos-mesh-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chaos-mesh-dark.jsx"
+    },
+    "./chaos-mesh-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chaos-mesh-light.jsx"
     },
     "./character-ai": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2838,6 +2934,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/checkmarx.jsx"
     },
+    "./checkmate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkmate.jsx"
+    },
     "./checkmk": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/checkmk.jsx"
@@ -2877,6 +2977,10 @@
     "./chia-network": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chia-network.jsx"
+    },
+    "./chibisafe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chibisafe.jsx"
     },
     "./chick-fil-a": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3130,6 +3234,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloudera.jsx"
     },
+    "./cloudevents-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudevents-dark.jsx"
+    },
+    "./cloudevents-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudevents-light.jsx"
+    },
     "./cloudflare": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloudflare.jsx"
@@ -3145,6 +3257,10 @@
     "./cloudinary": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloudinary.jsx"
+    },
+    "./cloudreve": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudreve.jsx"
     },
     "./cloudron": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3217,6 +3333,14 @@
     "./cockpit": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cockpit.jsx"
+    },
+    "./cockpit-cms-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cockpit-cms-dark.jsx"
+    },
+    "./cockpit-cms-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cockpit-cms-light.jsx"
     },
     "./cockroach-labs": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3582,6 +3706,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/continue.jsx"
     },
+    "./contour-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contour-dark.jsx"
+    },
+    "./contour-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contour-light.jsx"
+    },
     "./contra": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contra.jsx"
@@ -3601,6 +3733,10 @@
     "./convertio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/convertio.jsx"
+    },
+    "./convertx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/convertx.jsx"
     },
     "./convex": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3630,6 +3766,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coppel.jsx"
     },
+    "./copyparty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copyparty.jsx"
+    },
     "./coqui": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coqui.jsx"
@@ -3641,6 +3781,14 @@
     "./coreboot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coreboot.jsx"
+    },
+    "./coredns-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coredns-dark.jsx"
+    },
+    "./coredns-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coredns-light.jsx"
     },
     "./corejs": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3762,6 +3910,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crewai.jsx"
     },
+    "./cri-o-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cri-o-dark.jsx"
+    },
+    "./cri-o-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cri-o-light.jsx"
+    },
     "./critical-role": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/critical-role.jsx"
@@ -3797,6 +3953,10 @@
     "./cryengine": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cryengine.jsx"
+    },
+    "./cryptgeon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cryptgeon.jsx"
     },
     "./cryptomator": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3881,6 +4041,10 @@
     "./cvs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cvs.jsx"
+    },
+    "./cyberchef": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cyberchef.jsx"
     },
     "./cybercut": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3994,6 +4158,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dashlane.jsx"
     },
+    "./dashy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dashy.jsx"
+    },
     "./dask": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dask.jsx"
@@ -4009,6 +4177,10 @@
     "./dassault-systemes": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dassault-systemes.jsx"
+    },
+    "./databasus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/databasus.jsx"
     },
     "./databricks": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4478,6 +4650,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/docker.jsx"
     },
+    "./docmost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docmost.jsx"
+    },
     "./docsdotrs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/docsdotrs.jsx"
@@ -4514,6 +4690,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/docusaurus.jsx"
     },
+    "./docuseal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docuseal.jsx"
+    },
     "./docusign": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/docusign.jsx"
@@ -4537,6 +4717,10 @@
     "./dokploy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dokploy.jsx"
+    },
+    "./dokuwiki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dokuwiki.jsx"
     },
     "./dolby": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4806,6 +4990,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/earmark-light.jsx"
     },
+    "./easy-appointments": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easy-appointments.jsx"
+    },
     "./easyeda": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/easyeda.jsx"
@@ -5058,6 +5246,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/emirates.jsx"
     },
+    "./emissary-ingress-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emissary-ingress-dark.jsx"
+    },
+    "./emissary-ingress-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emissary-ingress-light.jsx"
+    },
     "./emlakjet": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/emlakjet.jsx"
@@ -5174,6 +5370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/espn.jsx"
     },
+    "./espocrm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/espocrm.jsx"
+    },
     "./espressif": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/espressif.jsx"
@@ -5197,6 +5397,10 @@
     "./ethereum": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ethereum.jsx"
+    },
+    "./etherpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/etherpad.jsx"
     },
     "./ethers": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5522,6 +5726,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fiber.jsx"
     },
+    "./fider": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fider.jsx"
+    },
     "./fido-alliance": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fido-alliance.jsx"
@@ -5561,6 +5769,10 @@
     "./filamentphp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/filamentphp.jsx"
+    },
+    "./file-browser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-browser.jsx"
     },
     "./filedotio": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5690,6 +5902,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fizz.jsx"
     },
+    "./flame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flame.jsx"
+    },
+    "./flaresolverr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flaresolverr.jsx"
+    },
+    "./flarum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flarum.jsx"
+    },
     "./flashforge": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flashforge.jsx"
@@ -5709,6 +5933,10 @@
     "./flathub": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flathub.jsx"
+    },
+    "./flatnotes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flatnotes.jsx"
     },
     "./flatpak": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5753,6 +5981,10 @@
     "./flower": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flower.jsx"
+    },
+    "./flowise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flowise.jsx"
     },
     "./flowith": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5817,6 +6049,10 @@
     "./fnac": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fnac.jsx"
+    },
+    "./focalboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/focalboard.jsx"
     },
     "./folium": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6017,6 +6253,14 @@
     "./freepik": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/freepik.jsx"
+    },
+    "./freescout-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freescout-dark.jsx"
+    },
+    "./freescout-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/freescout-light.jsx"
     },
     "./freetube": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6418,6 +6662,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glance.jsx"
     },
+    "./glances-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glances-dark.jsx"
+    },
+    "./glances-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glances-light.jsx"
+    },
     "./glassdoor": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glassdoor.jsx"
@@ -6458,6 +6710,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glitch.jsx"
     },
+    "./glitchtip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glitchtip.jsx"
+    },
     "./glm-v": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glm-v.jsx"
@@ -6481,6 +6737,10 @@
     "./glovo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glovo.jsx"
+    },
+    "./glpi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glpi.jsx"
     },
     "./gltf": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6542,6 +6802,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/go-light.jsx"
     },
+    "./goaccess": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goaccess.jsx"
+    },
     "./gocd": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gocd.jsx"
@@ -6577,6 +6841,10 @@
     "./gogdotcom": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gogdotcom.jsx"
+    },
+    "./gogs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gogs.jsx"
     },
     "./goil-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6950,6 +7218,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/goose-codename.jsx"
     },
+    "./gotify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gotify.jsx"
+    },
     "./gotomeeting": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gotomeeting.jsx"
@@ -6986,6 +7258,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grafana.jsx"
     },
+    "./grafana-loki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grafana-loki.jsx"
+    },
     "./grails": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grails.jsx"
@@ -6997,6 +7273,10 @@
     "./grammarly": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grammarly.jsx"
+    },
+    "./gramps-web": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gramps-web.jsx"
     },
     "./grand-frais": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7065,6 +7345,10 @@
     "./gridsome": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gridsome.jsx"
+    },
+    "./grimmory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grimmory.jsx"
     },
     "./grocy": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7178,6 +7462,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/h3.jsx"
     },
+    "./habitica-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/habitica-dark.jsx"
+    },
+    "./habitica-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/habitica-light.jsx"
+    },
     "./habr": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/habr.jsx"
@@ -7233,6 +7525,10 @@
     "./haldiram": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/haldiram.jsx"
+    },
+    "./halo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/halo.jsx"
     },
     "./hancom": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7370,6 +7666,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hedra.jsx"
     },
+    "./heimdall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heimdall.jsx"
+    },
     "./heineken": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heineken.jsx"
@@ -7470,6 +7770,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hey.jsx"
     },
+    "./heyform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heyform.jsx"
+    },
     "./hi-bob": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hi-bob.jsx"
@@ -7537,6 +7841,10 @@
     "./homepage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/homepage.jsx"
+    },
+    "./homer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homer.jsx"
     },
     "./homify": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7713,6 +8021,10 @@
     "./husqvarna": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/husqvarna.jsx"
+    },
+    "./hygraph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hygraph.jsx"
     },
     "./hymer": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7938,6 +8250,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/improvmx.jsx"
     },
+    "./in-toto-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-toto-dark.jsx"
+    },
+    "./in-toto-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-toto-light.jsx"
+    },
     "./inception-labs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inception-labs.jsx"
@@ -8006,6 +8326,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/infinityfree.jsx"
     },
+    "./infisical-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infisical-dark.jsx"
+    },
+    "./infisical-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/infisical-light.jsx"
+    },
     "./inflection": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inflection.jsx"
@@ -8017,6 +8345,10 @@
     "./inflection-ai-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inflection-ai-light.jsx"
+    },
+    "./influence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/influence.jsx"
     },
     "./influxdb": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8254,6 +8586,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/istio.jsx"
     },
+    "./it-tools": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/it-tools.jsx"
+    },
     "./itau": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/itau.jsx"
@@ -8285,6 +8621,10 @@
     "./jabber": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/jabber.jsx"
+    },
+    "./jackett": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jackett.jsx"
     },
     "./jaco-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8674,6 +9014,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kamal.jsx"
     },
+    "./kanboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kanboard.jsx"
+    },
     "./kando": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kando.jsx"
@@ -8697,6 +9041,14 @@
     "./karma": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/karma.jsx"
+    },
+    "./karmada-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karmada-dark.jsx"
+    },
+    "./karmada-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karmada-light.jsx"
     },
     "./kasa-smart": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8746,6 +9098,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kdenlive.jsx"
     },
+    "./keda-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keda-dark.jsx"
+    },
+    "./keda-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keda-light.jsx"
+    },
     "./kedro": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kedro.jsx"
@@ -8789,6 +9149,10 @@
     "./keras": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keras.jsx"
+    },
+    "./kestra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kestra.jsx"
     },
     "./keybase": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8869,6 +9233,10 @@
     "./kilo-code-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kilo-code-light.jsx"
+    },
+    "./kimai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kimai.jsx"
     },
     "./kimi": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9006,6 +9374,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kolors.jsx"
     },
+    "./komga": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/komga.jsx"
+    },
     "./komoot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/komoot.jsx"
@@ -9025,6 +9397,14 @@
     "./konva": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/konva.jsx"
+    },
+    "./kopia-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kopia-dark.jsx"
+    },
+    "./kopia-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kopia-light.jsx"
     },
     "./koreader": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9070,6 +9450,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kroger.jsx"
     },
+    "./kserve-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kserve-dark.jsx"
+    },
+    "./kserve-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kserve-light.jsx"
+    },
     "./ktm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/ktm.jsx"
@@ -9082,6 +9470,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kuaishou.jsx"
     },
+    "./kubeedge-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubeedge-dark.jsx"
+    },
+    "./kubeedge-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubeedge-light.jsx"
+    },
     "./kubeflow": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kubeflow.jsx"
@@ -9090,9 +9486,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kubernetes.jsx"
     },
+    "./kubescape-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubescape-dark.jsx"
+    },
+    "./kubescape-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubescape-light.jsx"
+    },
     "./kubespray": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kubespray.jsx"
+    },
+    "./kubevela-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubevela-dark.jsx"
+    },
+    "./kubevela-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubevela-light.jsx"
     },
     "./kubuntu": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9141,6 +9553,10 @@
     "./l-equipe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/l-equipe.jsx"
+    },
+    "./label-studio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/label-studio.jsx"
     },
     "./labex": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9290,6 +9706,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/learnthis.jsx"
     },
+    "./ledger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/ledger.jsx"
+    },
     "./leedlime": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/leedlime.jsx"
@@ -9410,6 +9830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/librarything.jsx"
     },
+    "./librechat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/librechat.jsx"
+    },
     "./libreoffice": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/libreoffice.jsx"
@@ -9438,6 +9862,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/libreoffice-writer.jsx"
     },
+    "./librespeed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/librespeed.jsx"
+    },
     "./libretranslate": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/libretranslate.jsx"
@@ -9457,6 +9885,10 @@
     "./lichess": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lichess.jsx"
+    },
+    "./lidarr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lidarr.jsx"
     },
     "./lidl": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9521,6 +9953,10 @@
     "./link": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/link.jsx"
+    },
+    "./linkding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linkding.jsx"
     },
     "./linkedin": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9614,6 +10050,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/litecoin.jsx"
     },
+    "./litellm-proxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/litellm-proxy.jsx"
+    },
     "./literal": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/literal.jsx"
@@ -9638,6 +10078,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/livewire.jsx"
     },
+    "./llama-cpp-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/llama-cpp-server.jsx"
+    },
     "./llamaindex": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/llamaindex.jsx"
@@ -9657,6 +10101,10 @@
     "./lmms": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lmms.jsx"
+    },
+    "./lobe-chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lobe-chat.jsx"
     },
     "./lobehub": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9782,6 +10230,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/love2d.jsx"
     },
+    "./lowcoder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lowcoder.jsx"
+    },
     "./lowes": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lowes.jsx"
@@ -9906,6 +10358,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/magasins-u.jsx"
     },
+    "./mage-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mage-ai.jsx"
+    },
     "./magento": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/magento.jsx"
@@ -9945,6 +10401,14 @@
     "./mailgun": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mailgun.jsx"
+    },
+    "./mailhog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mailhog.jsx"
+    },
+    "./mailpit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mailpit.jsx"
     },
     "./mailtrap": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10049,6 +10513,10 @@
     "./mariadb-foundation": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mariadb-foundation.jsx"
+    },
+    "./marimo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marimo.jsx"
     },
     "./markdown-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10346,6 +10814,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/memcached.jsx"
     },
+    "./memos-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memos-dark.jsx"
+    },
+    "./memos-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/memos-light.jsx"
+    },
     "./mendeley": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mendeley.jsx"
@@ -10461,6 +10937,10 @@
     "./metro-de-paris": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/metro-de-paris.jsx"
+    },
+    "./metube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metube.jsx"
     },
     "./mewe": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10818,6 +11298,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mindstudio.jsx"
     },
+    "./minecraft-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minecraft-server.jsx"
+    },
     "./mingw-w64": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mingw-w64.jsx"
@@ -10825,6 +11309,10 @@
     "./mini": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mini.jsx"
+    },
+    "./miniflux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/miniflux.jsx"
     },
     "./minimax": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10982,9 +11470,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/modx.jsx"
     },
+    "./mojang": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mojang.jsx"
+    },
     "./mojeek": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mojeek.jsx"
+    },
+    "./mojo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mojo.jsx"
     },
     "./moleculer": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11018,6 +11514,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/moneygram.jsx"
     },
+    "./mongo-express": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mongo-express.jsx"
+    },
     "./mongodb-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mongodb-dark.jsx"
@@ -11037,6 +11537,10 @@
     "./monistic-logo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monistic-logo.jsx"
+    },
+    "./monitixx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitixx.jsx"
     },
     "./monkey-tie": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11682,6 +12186,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nobara-linux.jsx"
     },
+    "./nocobase-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nocobase-dark.jsx"
+    },
+    "./nocobase-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nocobase-light.jsx"
+    },
     "./node-red": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/node-red.jsx"
@@ -11769,6 +12281,14 @@
     "./norwegian": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/norwegian.jsx"
+    },
+    "./notary-project-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notary-project-dark.jsx"
+    },
+    "./notary-project-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notary-project-light.jsx"
     },
     "./note": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12130,6 +12650,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/omarchy.jsx"
     },
+    "./onedev": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/onedev.jsx"
+    },
     "./onelogin": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/onelogin.jsx"
@@ -12141,6 +12665,10 @@
     "./onestream": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/onestream.jsx"
+    },
+    "./onetimesecret": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/onetimesecret.jsx"
     },
     "./onex": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12189,6 +12717,14 @@
     "./open-containers-initiative": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/open-containers-initiative.jsx"
+    },
+    "./open-policy-agent-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-policy-agent-dark.jsx"
+    },
+    "./open-policy-agent-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-policy-agent-light.jsx"
     },
     "./open-source-hardware": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12270,6 +12806,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opencode.jsx"
     },
+    "./opencost-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencost-dark.jsx"
+    },
+    "./opencost-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencost-light.jsx"
+    },
     "./opencritic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opencritic.jsx"
@@ -12281,6 +12825,22 @@
     "./openfaas": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/openfaas.jsx"
+    },
+    "./openfeature-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openfeature-dark.jsx"
+    },
+    "./openfeature-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openfeature-light.jsx"
+    },
+    "./openfga-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openfga-dark.jsx"
+    },
+    "./openfga-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openfga-light.jsx"
     },
     "./opengl": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12474,6 +13034,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/orange.jsx"
     },
+    "./orangehrm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orangehrm.jsx"
+    },
     "./orchard-core": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/orchard-core.jsx"
@@ -12489,6 +13053,10 @@
     "./organic-maps": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/organic-maps.jsx"
+    },
+    "./organizr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/organizr.jsx"
     },
     "./origin": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12530,6 +13098,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/osmc.jsx"
     },
+    "./osticket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/osticket.jsx"
+    },
     "./osu": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/osu.jsx"
@@ -12569,6 +13141,14 @@
     "./owasp-dependency-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/owasp-dependency-check.jsx"
+    },
+    "./owncast-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/owncast-dark.jsx"
+    },
+    "./owncast-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/owncast-light.jsx"
     },
     "./owncloud": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12637,6 +13217,10 @@
     "./pagseguro": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pagseguro.jsx"
+    },
+    "./pairdrop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pairdrop.jsx"
     },
     "./palantir": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12794,6 +13378,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/payload-cms-light.jsx"
     },
+    "./paymenter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paymenter.jsx"
+    },
     "./payoneer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/payoneer.jsx"
@@ -12942,6 +13530,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pfsense.jsx"
     },
+    "./pg-back-web-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pg-back-web-dark.jsx"
+    },
+    "./pg-back-web-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pg-back-web-light.jsx"
+    },
+    "./pgadmin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pgadmin.jsx"
+    },
     "./phabricator": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phabricator.jsx"
@@ -12949,6 +13549,10 @@
     "./phalcon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phalcon.jsx"
+    },
+    "./phantom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phantom.jsx"
     },
     "./phaser": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12994,6 +13598,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/photopea.jsx"
     },
+    "./photoprism-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photoprism-dark.jsx"
+    },
+    "./photoprism-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photoprism-light.jsx"
+    },
     "./photoshop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/photoshop.jsx"
@@ -13013,6 +13625,10 @@
     "./photoshop-grayscale-app-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/photoshop-grayscale-app-icon.jsx"
+    },
+    "./photoview": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photoview.jsx"
     },
     "./php-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -13102,6 +13718,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pinboard.jsx"
     },
+    "./pinchflat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pinchflat.jsx"
+    },
     "./pine-script": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pine-script.jsx"
@@ -13117,6 +13737,10 @@
     "./pingdom": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pingdom.jsx"
+    },
+    "./pingvin-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pingvin-share.jsx"
     },
     "./pinia": {
       "types": "./types/hqrkovbr.d.ts",
@@ -13234,6 +13858,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plangrid.jsx"
     },
+    "./planka": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/planka.jsx"
+    },
     "./platformdotsh": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/platformdotsh.jsx"
@@ -13322,6 +13950,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plume.jsx"
     },
+    "./plunk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plunk.jsx"
+    },
     "./pluralsight": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pluralsight.jsx"
@@ -13361,6 +13993,14 @@
     "./pocket-casts": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pocket-casts.jsx"
+    },
+    "./pocket-id-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pocket-id-dark.jsx"
+    },
+    "./pocket-id-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pocket-id-light.jsx"
     },
     "./pocketbase": {
       "types": "./types/hqrkovbr.d.ts",
@@ -13674,6 +14314,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/private-internet-access.jsx"
     },
+    "./privatebin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/privatebin.jsx"
+    },
     "./pro-tools": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pro-tools.jsx"
@@ -13809,6 +14453,10 @@
     "./protractor": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/protractor.jsx"
+    },
+    "./prowlarr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prowlarr.jsx"
     },
     "./proxmox": {
       "types": "./types/hqrkovbr.d.ts",
@@ -14226,6 +14874,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rakuten-kobo.jsx"
     },
+    "./rallly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rallly.jsx"
+    },
     "./ralph-lauren-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/ralph-lauren-dark.jsx"
@@ -14374,6 +15026,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/readdotcv.jsx"
     },
+    "./readeck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/readeck.jsx"
+    },
     "./readme": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/readme.jsx"
@@ -14437,6 +15093,10 @@
     "./redis": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/redis.jsx"
+    },
+    "./redlib": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/redlib.jsx"
     },
     "./redmine": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15034,6 +15694,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rye.jsx"
     },
+    "./ryot-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ryot-dark.jsx"
+    },
+    "./ryot-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ryot-light.jsx"
+    },
     "./s-oil": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/s-oil.jsx"
@@ -15058,6 +15726,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/safari.jsx"
     },
+    "./safeline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/safeline.jsx"
+    },
     "./sage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sage.jsx"
@@ -15077,6 +15749,10 @@
     "./sailsdotjs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sailsdotjs.jsx"
+    },
+    "./saleor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saleor.jsx"
     },
     "./salesforce": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15294,6 +15970,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/seatgeek.jsx"
     },
+    "./seaweedfs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/seaweedfs.jsx"
+    },
     "./securityscorecard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/securityscorecard.jsx"
@@ -15345,6 +16025,10 @@
     "./semaphore-ci": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/semaphore-ci.jsx"
+    },
+    "./semaphore-ui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semaphore-ui.jsx"
     },
     "./semrush": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15434,6 +16118,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sfml.jsx"
     },
+    "./sftpgo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sftpgo.jsx"
+    },
     "./shadcn-ui-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shadcn-ui-dark.jsx"
@@ -15485,6 +16173,14 @@
     "./shikimori": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shikimori.jsx"
+    },
+    "./shiori": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shiori.jsx"
+    },
+    "./shlink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shlink.jsx"
     },
     "./shopee": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15562,6 +16258,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/silver-airways.jsx"
     },
+    "./silverbullet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/silverbullet.jsx"
+    },
     "./similarweb": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/similarweb.jsx"
@@ -15593,6 +16293,14 @@
     "./simplex": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/simplex.jsx"
+    },
+    "./simplex-chat-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simplex-chat-dark.jsx"
+    },
+    "./simplex-chat-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simplex-chat-light.jsx"
     },
     "./sina-weibo": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15690,6 +16398,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/slackware.jsx"
     },
+    "./slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slash.jsx"
+    },
     "./slashdot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/slashdot.jsx"
@@ -15766,6 +16478,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sncf.jsx"
     },
+    "./snipe-it": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snipe-it.jsx"
+    },
     "./snort": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/snort.jsx"
@@ -15813,6 +16529,10 @@
     "./sogou": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sogou.jsx"
+    },
+    "./soketi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soketi.jsx"
     },
     "./solana": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15990,9 +16710,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sparkpost.jsx"
     },
+    "./sparkyfitness": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkyfitness.jsx"
+    },
     "./spdx": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spdx.jsx"
+    },
+    "./speaches": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/speaches.jsx"
     },
     "./speaker-deck": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16005,6 +16733,10 @@
     "./speedtest": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/speedtest.jsx"
+    },
+    "./speedtest-tracker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/speedtest-tracker.jsx"
     },
     "./speedypage": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16025,6 +16757,14 @@
     "./spidermonkey": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spidermonkey.jsx"
+    },
+    "./spiffe-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spiffe-dark.jsx"
+    },
+    "./spiffe-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spiffe-light.jsx"
     },
     "./spigotmc": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16182,6 +16922,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stagetimer.jsx"
     },
+    "./stalwart-mail-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stalwart-mail-server.jsx"
+    },
     "./standard-chartered": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/standard-chartered.jsx"
@@ -16249,6 +16993,14 @@
     "./statista": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/statista.jsx"
+    },
+    "./statsig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statsig.jsx"
+    },
+    "./statusnook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statusnook.jsx"
     },
     "./statuspage": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16370,6 +17122,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stremio.jsx"
     },
+    "./strimzi-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strimzi-dark.jsx"
+    },
+    "./strimzi-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strimzi-light.jsx"
+    },
     "./stripe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stripe.jsx"
@@ -16486,9 +17246,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sunrise.jsx"
     },
+    "./sunshine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sunshine.jsx"
+    },
     "./supabase": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/supabase.jsx"
+    },
+    "./super-productivity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/super-productivity.jsx"
     },
     "./super-user": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16505,6 +17273,10 @@
     "./supermicro": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/supermicro.jsx"
+    },
+    "./sure": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sure.jsx"
     },
     "./surfshark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16722,6 +17494,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tampermonkey.jsx"
     },
+    "./tandoor-recipes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tandoor-recipes.jsx"
+    },
     "./tanstack": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tanstack.jsx"
@@ -16770,6 +17546,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tauri.jsx"
     },
+    "./tautulli": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tautulli.jsx"
+    },
     "./tavily": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tavily.jsx"
@@ -16778,9 +17558,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/taxbuzz.jsx"
     },
+    "./tdarr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tdarr.jsx"
+    },
     "./te-logo-whiteorange": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/te-logo-whiteorange.jsx"
+    },
+    "./teable-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teable-dark.jsx"
+    },
+    "./teable-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/teable-light.jsx"
     },
     "./teal": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16809,6 +17601,10 @@
     "./technical-communication-suite": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/technical-communication-suite.jsx"
+    },
+    "./technitium-dns-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/technitium-dns-server.jsx"
     },
     "./technology-innovation-institute-falcon": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16905,6 +17701,10 @@
     "./termius": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/termius.jsx"
+    },
+    "./termix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/termix.jsx"
     },
     "./termux": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17098,6 +17898,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/things.jsx"
     },
+    "./thingsboard-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thingsboard-dark.jsx"
+    },
+    "./thingsboard-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thingsboard-light.jsx"
+    },
     "./thinkpad": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thinkpad.jsx"
@@ -17158,6 +17966,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tiangong.jsx"
     },
+    "./tianji-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tianji-dark.jsx"
+    },
+    "./tianji-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tianji-light.jsx"
+    },
     "./ticket-tailor": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/ticket-tailor.jsx"
@@ -17209,6 +18025,10 @@
     "./tiktok-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tiktok-light.jsx"
+    },
+    "./tikv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tikv.jsx"
     },
     "./tilda-publishing": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17433,6 +18253,10 @@
     "./traefik-proxy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/traefik-proxy.jsx"
+    },
+    "./trailbase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trailbase.jsx"
     },
     "./trailforks": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17894,6 +18718,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/uniqlo.jsx"
     },
+    "./unisoc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unisoc.jsx"
+    },
     "./united-airlines": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/united-airlines.jsx"
@@ -17917,6 +18745,10 @@
     "./unjs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/unjs.jsx"
+    },
+    "./unleash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unleash.jsx"
     },
     "./unlicense": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18225,6 +19057,10 @@
     "./verizon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/verizon.jsx"
+    },
+    "./vert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vert.jsx"
     },
     "./vertexai-google": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18566,6 +19402,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vultr.jsx"
     },
+    "./vvveb-cms": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vvveb-cms.jsx"
+    },
     "./vyond": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vyond.jsx"
@@ -18598,6 +19438,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wails.jsx"
     },
+    "./wakapi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wakapi.jsx"
+    },
     "./wakatime-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wakatime-dark.jsx"
@@ -18625,6 +19469,10 @@
     "./walletconnect": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/walletconnect.jsx"
+    },
+    "./wallos": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallos.jsx"
     },
     "./walmart": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18701,6 +19549,14 @@
     "./web-awesome": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/web-awesome.jsx"
+    },
+    "./web-check-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-check-dark.jsx"
+    },
+    "./web-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/web-check-light.jsx"
     },
     "./web-components": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18806,6 +19662,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/weights-and-biases.jsx"
     },
+    "./wekan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wekan.jsx"
+    },
     "./welcome-to-the-jungle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/welcome-to-the-jungle.jsx"
@@ -18878,6 +19738,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/whole-foods-market.jsx"
     },
+    "./whoogle-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whoogle-search.jsx"
+    },
     "./whoop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/whoop.jsx"
@@ -18949,6 +19813,10 @@
     "./windicss": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/windicss.jsx"
+    },
+    "./windmill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windmill.jsx"
     },
     "./windows": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19298,6 +20166,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/y/yaml.jsx"
     },
+    "./yamtrack-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yamtrack-dark.jsx"
+    },
+    "./yamtrack-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yamtrack-light.jsx"
+    },
     "./yandex": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/y/yandex.jsx"
@@ -19597,6 +20473,10 @@
     "./zingat": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zingat.jsx"
+    },
+    "./zipline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zipline.jsx"
     },
     "./zod": {
       "types": "./types/hqrkovbr.d.ts",

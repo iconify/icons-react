@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/ix",
   "type": "module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://icon-sets.iconify.design/ix/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -253,6 +253,14 @@
     "./alarm-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alarm-filled.jsx"
+    },
+    "./alarm-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alarm-multiple.jsx"
+    },
+    "./alarm-multiple-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alarm-multiple-filled.jsx"
     },
     "./align-center-horizontally": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5813,6 +5821,14 @@
     "./warning-octagon-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/warning-octagon-filled.jsx"
+    },
+    "./warning-octagon-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warning-octagon-multiple.jsx"
+    },
+    "./warning-octagon-multiple-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warning-octagon-multiple-filled.jsx"
     },
     "./warning-rhomb": {
       "types": "./types/hqrkovbr.d.ts",

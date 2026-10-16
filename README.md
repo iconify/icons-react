@@ -1,6 +1,5 @@
 # @iconify-react/ix
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/ix).
 **Siemens Industrial Experience Icons**
 
 Author: [Siemens AG](https://github.com/siemens/ix-icons)

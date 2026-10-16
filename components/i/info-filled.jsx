@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dtd7c6khm.css';
+import '../../css/t/telbe8qah.css';
 
-const viewBox = {"width":512,"height":512};
+const viewBox = {"width":24,"height":24};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dtd7c6khm"/>`,
+		"content": `<path clip-rule="evenodd" class="telbe8qah"/>`,
 		"fallback": "ix:info-filled",
 	});
 }

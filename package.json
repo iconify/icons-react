@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.48",
+  "version": "1.0.49",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2318,6 +2318,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-openhab.jsx"
     },
+    "./file-type-light-overcommit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-overcommit.jsx"
+    },
     "./file-type-light-oxc": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-oxc.jsx"
@@ -3366,6 +3370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-outlook.jsx"
     },
+    "./file-type-overcommit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-overcommit.jsx"
+    },
     "./file-type-overmind": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-overmind.jsx"
@@ -3877,6 +3885,10 @@
     "./file-type-reactts": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-reactts.jsx"
+    },
+    "./file-type-readme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-readme.jsx"
     },
     "./file-type-readthedocs": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5189,6 +5201,14 @@
     "./folder-type-bower-opened": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-bower-opened.jsx"
+    },
+    "./folder-type-buck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-buck.jsx"
+    },
+    "./folder-type-buck-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-buck-opened.jsx"
     },
     "./folder-type-buildkite": {
       "types": "./types/hqrkovbr.d.ts",

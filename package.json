@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.51",
+  "version": "1.0.52",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -1346,6 +1346,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cctv-off.jsx"
     },
+    "./certificate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/certificate.jsx"
+    },
     "./chart-area": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-area.jsx"
@@ -2518,6 +2522,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/egg-off.jsx"
     },
+    "./eighth-note": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eighth-note.jsx"
+    },
+    "./eighth-notes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eighth-notes.jsx"
+    },
     "./eject": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eject.jsx"
@@ -3501,6 +3513,10 @@
     "./guitar-electric": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/guitar-electric.jsx"
+    },
+    "./half-note": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/half-note.jsx"
     },
     "./ham": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4870,10 +4886,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/music-2.jsx"
     },
-    "./music-3": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/m/music-3.jsx"
-    },
     "./music-4": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/music-4.jsx"
@@ -6197,6 +6209,10 @@
     "./siren": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/siren.jsx"
+    },
+    "./sixteenth-notes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sixteenth-notes.jsx"
     },
     "./skip-back": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8401,6 +8417,10 @@
     "./move-3-d": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/move-3-d.jsx"
+    },
+    "./music-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-3.jsx"
     },
     "./outdent": {
       "types": "./types/hqrkovbr.d.ts",

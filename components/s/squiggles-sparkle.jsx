@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/m/mjxjirbwm.css';
-import '../../css/t/tiopm5b9e.css';
-import '../../css/w/wztl8_byv.css';
+import '../../css/u/umzj1wb-f.css';
+import '../../css/m/mt41_nycl.css';
+import '../../css/i/i_o47vnuo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="mjxjirbwm"/><path class="tiopm5b9e"/><path class="wztl8_byv"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="umzj1wb-f"/><path class="mt41_nycl"/><path class="i_o47vnuo"/></g>`,
 		"fallback": "andrsrxn:squiggles-sparkle",
 	});
 }

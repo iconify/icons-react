@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/k/k3qomhb2x.css';
+import '../../css/z/zd5ook69p.css';
 import '../../css/a/a6yl8qvjm.css';
 import '../../css/k/k910eabre.css';
-import '../../css/s/s63co7bgz.css';
-import '../../css/q/qknj5-6ms.css';
+import '../../css/d/dtahoz0bs.css';
+import '../../css/h/ht963veys.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="k3qomhb2x"/><path class="a6yl8qvjm"/><path class="k910eabre"/><path class="s63co7bgz"/><path class="qknj5-6ms"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="zd5ook69p"/><path class="a6yl8qvjm"/><path class="k910eabre"/><path class="dtahoz0bs"/><path class="ht963veys"/></g>`,
 		"fallback": "andrsrxn:soap-dispenser",
 	});
 }

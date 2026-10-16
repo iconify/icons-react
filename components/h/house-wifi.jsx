@@ -3,8 +3,8 @@ import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/c/c20oaqmoz.css';
 import '../../css/i/iskl3g_ta.css';
-import '../../css/y/y7b62qrdj.css';
-import '../../css/p/pc-fz1b8e.css';
+import '../../css/s/st-2scbtn.css';
+import '../../css/t/t8aevub-a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="c20oaqmoz"/><path class="iskl3g_ta"/><path class="y7b62qrdj"/><path class="pc-fz1b8e"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="c20oaqmoz"/><path class="iskl3g_ta"/><path class="st-2scbtn"/><path class="t8aevub-a"/></g>`,
 		"fallback": "andrsrxn:house-wifi",
 	});
 }

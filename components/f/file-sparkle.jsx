@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/l/lmz-t6bds.css';
-import '../../css/y/y8p7i1bbp.css';
-import '../../css/h/h52hszbur.css';
+import '../../css/c/cns4skbwo.css';
+import '../../css/y/yk3u9fp8e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="lmz-t6bds"/><path class="y8p7i1bbp"/><path class="h52hszbur"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="lmz-t6bds"/><path class="cns4skbwo"/><path class="yk3u9fp8e"/></g>`,
 		"fallback": "andrsrxn:file-sparkle",
 	});
 }

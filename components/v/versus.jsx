@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ykxp4gbwk.css';
+import '../../css/p/psdvcpval.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ykxp4gbwk"/>`,
+		"content": `<path class="psdvcpval"/>`,
 		"fallback": "andrsrxn:versus",
 	});
 }

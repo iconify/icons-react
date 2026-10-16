@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/m/mhyagsv6a.css';
-import '../../css/w/w16gc8b9m.css';
+import '../../css/s/sxjrn7eqi.css';
+import '../../css/q/qxhf26b3h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="mhyagsv6a"/><path class="w16gc8b9m"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="sxjrn7eqi"/><path class="qxhf26b3h"/></g>`,
 		"fallback": "andrsrxn:ball-american-football",
 	});
 }

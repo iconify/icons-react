@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/q/qif51owfa.css';
+import '../../css/i/i8d2wjlyb.css';
 import '../../css/y/ywvxbgb_y.css';
 import '../../css/x/x8iphublh.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="qif51owfa"/><path class="ywvxbgb_y"/><path class="x8iphublh"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="i8d2wjlyb"/><path class="ywvxbgb_y"/><path class="x8iphublh"/></g>`,
 		"fallback": "andrsrxn:warning-octagon",
 	});
 }

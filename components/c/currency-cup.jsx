@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrna74bov.css';
+import '../../css/n/nmehbye3e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nrna74bov"/>`,
+		"content": `<path class="nmehbye3e"/>`,
 		"fallback": "andrsrxn:currency-cup",
 	});
 }

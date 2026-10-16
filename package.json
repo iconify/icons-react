@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -17809,6 +17809,18 @@
     "./opengrammar-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opengrammar-light.jsx"
+    },
+    "./opengym": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opengym.jsx"
+    },
+    "./opengym-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opengym-dark.jsx"
+    },
+    "./opengym-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opengym-light.jsx"
     },
     "./openhab": {
       "types": "./types/hqrkovbr.d.ts",

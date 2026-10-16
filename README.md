@@ -99,11 +99,11 @@ There are 227 branches in this repository, one for each icon set.
 - [#keyline-icons](https://github.com/iconify/icons-react/tree/keyline-icons): **Keyline Icons** (11480 icons, MIT)
 - [#ri](https://github.com/iconify/icons-react/tree/ri): **Remix Icon** (3188 icons, Apache 2.0)
 - [#mynaui](https://github.com/iconify/icons-react/tree/mynaui): **Myna UI Icons** (2620 icons, MIT)
-- [#andrsrxn](https://github.com/iconify/icons-react/tree/andrsrxn): **andrsrxn/icons** (2066 icons, MIT)
+- [#andrsrxn](https://github.com/iconify/icons-react/tree/andrsrxn): **andrsrxn/icons** (2380 icons, MIT)
 - [#griddy-icons](https://github.com/iconify/icons-react/tree/griddy-icons): **Griddy Icons** (2010 icons, MIT)
 - [#iconamoon](https://github.com/iconify/icons-react/tree/iconamoon): **IconaMoon** (1781 icons, CC BY 4.0)
 - [#iconoir](https://github.com/iconify/icons-react/tree/iconoir): **Iconoir** (1671 icons, MIT)
-- [#lucide](https://github.com/iconify/icons-react/tree/lucide): **Lucide** (1890 icons, ISC)
+- [#lucide](https://github.com/iconify/icons-react/tree/lucide): **Lucide** (1891 icons, ISC)
 - [#lucide-extended](https://github.com/iconify/icons-react/tree/lucide-extended): **Lucide Extended** (2654 icons, ISC)
 - [#lucide-lab](https://github.com/iconify/icons-react/tree/lucide-lab): **Lucide Lab** (373 icons, ISC)
 - [#uil](https://github.com/iconify/icons-react/tree/uil): **Unicons** (1215 icons, Apache 2.0)
@@ -163,7 +163,7 @@ There are 227 branches in this repository, one for each icon set.
 - [#famicons](https://github.com/iconify/icons-react/tree/famicons): **Famicons** (1342 icons, MIT)
 - [#ant-design](https://github.com/iconify/icons-react/tree/ant-design): **Ant Design Icons** (848 icons, MIT)
 - [#lsicon](https://github.com/iconify/icons-react/tree/lsicon): **Lsicon** (716 icons, MIT)
-- [#gravity-ui](https://github.com/iconify/icons-react/tree/gravity-ui): **Gravity UI Icons** (799 icons, MIT)
+- [#gravity-ui](https://github.com/iconify/icons-react/tree/gravity-ui): **Gravity UI Icons** (809 icons, MIT)
 - [#cil](https://github.com/iconify/icons-react/tree/cil): **CoreUI Free** (554 icons, CC BY 4.0)
 - [#at-icons](https://github.com/iconify/icons-react/tree/at-icons): **@icons** (642 icons, MIT)
 - [#ep](https://github.com/iconify/icons-react/tree/ep): **Element Plus** (293 icons, MIT)
@@ -181,13 +181,13 @@ There are 227 branches in this repository, one for each icon set.
 
 - [#fluent](https://github.com/iconify/icons-react/tree/fluent): **Fluent UI System Icons** (19900 icons, MIT)
 - [#ph](https://github.com/iconify/icons-react/tree/ph): **Phosphor** (9072 icons, MIT)
-- [#energy-icons](https://github.com/iconify/icons-react/tree/energy-icons): **Energy Icons** (5844 icons, MIT)
+- [#energy-icons](https://github.com/iconify/icons-react/tree/energy-icons): **Energy Icons** (8000 icons, MIT)
 - [#glyphs](https://github.com/iconify/icons-react/tree/glyphs): **Glyphs** (3452 icons, MIT)
 - [#glyphs-poly](https://github.com/iconify/icons-react/tree/glyphs-poly): **Glyphs Poly** (863 icons, MIT)
 - [#teenyicons](https://github.com/iconify/icons-react/tree/teenyicons): **Teenyicons** (1200 icons, MIT)
 - [#clarity](https://github.com/iconify/icons-react/tree/clarity): **Clarity** (1103 icons, MIT)
 - [#streamline-freehand](https://github.com/iconify/icons-react/tree/streamline-freehand): **Freehand free icons** (1000 icons, CC BY 4.0)
-- [#ix](https://github.com/iconify/icons-react/tree/ix): **Siemens Industrial Experience Icons** (1486 icons, MIT)
+- [#ix](https://github.com/iconify/icons-react/tree/ix): **Siemens Industrial Experience Icons** (1490 icons, MIT)
 - [#octicon](https://github.com/iconify/icons-react/tree/octicon): **Octicons** (774 icons, MIT)
 - [#memory](https://github.com/iconify/icons-react/tree/memory): **Memory Icons** (651 icons, Apache 2.0)
 - [#system-uicons](https://github.com/iconify/icons-react/tree/system-uicons): **System UIcons** (430 icons, Unlicense)
@@ -232,7 +232,7 @@ There are 227 branches in this repository, one for each icon set.
 
 ### Programming
 
-- [#vscode-icons](https://github.com/iconify/icons-react/tree/vscode-icons): **VSCode Icons** (1693 icons, MIT)
+- [#vscode-icons](https://github.com/iconify/icons-react/tree/vscode-icons): **VSCode Icons** (1698 icons, MIT)
 - [#codicon](https://github.com/iconify/icons-react/tree/codicon): **Codicons** (654 icons, CC BY 4.0)
 - [#material-icon-theme](https://github.com/iconify/icons-react/tree/material-icon-theme): **Material Icon Theme** (906 icons, MIT)
 - [#file-icons](https://github.com/iconify/icons-react/tree/file-icons): **File Icons** (930 icons, ISC)
@@ -255,8 +255,8 @@ There are 227 branches in this repository, one for each icon set.
 - [#nonicons](https://github.com/iconify/icons-react/tree/nonicons): **Nonicons** (69 icons, MIT)
 - [#arcticons](https://github.com/iconify/icons-react/tree/arcticons): **Arcticons** (15322 icons, CC BY-SA 4.0)
 - [#thesvg](https://github.com/iconify/icons-react/tree/thesvg): **theSVG** (3760 icons, MIT)
-- [#thesvg-color](https://github.com/iconify/icons-react/tree/thesvg-color): **theSVG Color** (4913 icons, MIT)
-- [#selfhst](https://github.com/iconify/icons-react/tree/selfhst): **selfh.st/icons** (7269 icons, CC BY 4.0)
+- [#thesvg-color](https://github.com/iconify/icons-react/tree/thesvg-color): **theSVG Color** (5133 icons, MIT)
+- [#selfhst](https://github.com/iconify/icons-react/tree/selfhst): **selfh.st/icons** (7272 icons, CC BY 4.0)
 - [#cbi](https://github.com/iconify/icons-react/tree/cbi): **Custom Brand Icons** (1757 icons, CC BY-NC-SA 4.0)
 - [#brandico](https://github.com/iconify/icons-react/tree/brandico): **Brandico** (45 icons, CC BY SA)
 - [#entypo-social](https://github.com/iconify/icons-react/tree/entypo-social): **Entypo+ Social** (76 icons, CC BY-SA 4.0)
@@ -339,4 +339,4 @@ There are 227 branches in this repository, one for each icon set.
 - [#vaadin](https://github.com/iconify/icons-react/tree/vaadin): **Vaadin Icons** (636 icons, Apache 2.0)
 - [#grommet-icons](https://github.com/iconify/icons-react/tree/grommet-icons): **Grommet Icons** (636 icons, Apache 2.0)
 
-Total: 227 icon sets, 401857 icons.
+Total: 227 icon sets, 404570 icons.

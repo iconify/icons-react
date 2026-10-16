@@ -1,0 +1,20 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/l/l10uce2pa.css';
+import '../../css/o/ou2ox_rmc.css';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="l10uce2pa"/><path class="ou2ox_rmc"/>`,
+		"fallback": "energy-icons:dew-48",
+	});
+}
+
+export default Component;

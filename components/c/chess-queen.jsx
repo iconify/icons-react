@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/s/ssmkz5zlu.css';
+import '../../css/k/ko2sdybxw.css';
 import '../../css/n/npzbi206w.css';
 import '../../css/m/m-2o9kbye.css';
 import '../../css/i/ivi_x117u.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="ssmkz5zlu"/><circle class="npzbi206w"/><circle class="m-2o9kbye"/><circle class="ivi_x117u"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="ko2sdybxw"/><circle class="npzbi206w"/><circle class="m-2o9kbye"/><circle class="ivi_x117u"/></g>`,
 		"fallback": "lucide:chess-queen",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qat35xbas.css';
+import '../../css/f/f8zzqebrs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qat35xbas"/>`,
+		"content": `<path class="f8zzqebrs"/>`,
 		"fallback": "vadivam:gallery-horizontal-end",
 	});
 }

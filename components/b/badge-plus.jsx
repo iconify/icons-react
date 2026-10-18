@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pddrhdbvl.css';
+import '../../css/o/oq2epzunt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pddrhdbvl"/>`,
+		"content": `<path class="oq2epzunt"/>`,
 		"fallback": "vadivam:badge-plus",
 	});
 }

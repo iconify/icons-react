@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/u/uhg1i7brs.css';
-import '../../css/g/gyp_jrbdc.css';
+import '../../css/q/qa0bdybdf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="uhg1i7brs"/><path class="gyp_jrbdc"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="uhg1i7brs"/><path class="qa0bdybdf"/></g>`,
 		"fallback": "vadivam:shuffle",
 	});
 }

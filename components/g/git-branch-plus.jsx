@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/c/cpza59blp.css';
-import '../../css/u/ufzy91bpu.css';
+import '../../css/e/e_vniuz2r.css';
+import '../../css/d/dyntnwehc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="cpza59blp"/><path class="ufzy91bpu"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="e_vniuz2r"/><path class="dyntnwehc"/></g>`,
 		"fallback": "vadivam:git-branch-plus",
 	});
 }

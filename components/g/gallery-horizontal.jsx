@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oabo71bam.css';
+import '../../css/e/e_tsjqbvx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oabo71bam"/>`,
+		"content": `<path class="e_tsjqbvx"/>`,
 		"fallback": "vadivam:gallery-horizontal",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/drp98crri.css';
+import '../../css/f/f-2k4oiuk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="drp98crri"/>`,
+		"content": `<path class="f-2k4oiuk"/>`,
 		"fallback": "vadivam:align-vertical-distribute-start",
 	});
 }

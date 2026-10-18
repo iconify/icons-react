@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/asz6tco0x.css';
+import '../../css/c/cj2od2bbc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="asz6tco0x"/>`,
+		"content": `<path class="cj2od2bbc"/>`,
 		"fallback": "vadivam:star-off",
 	});
 }

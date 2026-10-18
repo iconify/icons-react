@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kyua1ub1y.css';
+import '../../css/w/wk4xhy-nc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kyua1ub1y"/>`,
+		"content": `<path class="wk4xhy-nc"/>`,
 		"fallback": "vadivam:battery-medium",
 	});
 }

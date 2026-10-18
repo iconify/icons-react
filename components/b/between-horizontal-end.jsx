@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p_d3xlvip.css';
+import '../../css/c/c_4nh7rzj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p_d3xlvip"/>`,
+		"content": `<path class="c_4nh7rzj"/>`,
 		"fallback": "vadivam:between-horizontal-end",
 	});
 }

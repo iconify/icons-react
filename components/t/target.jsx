@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/u/unl9q-qra.css';
+import '../../css/n/n37pokjch.css';
 import '../../css/c/c9ye0yfbq.css';
 import '../../css/g/gllekcpqr.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="unl9q-qra"/><path class="c9ye0yfbq"/><path class="gllekcpqr"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="n37pokjch"/><path class="c9ye0yfbq"/><path class="gllekcpqr"/></g>`,
 		"fallback": "vadivam:target",
 	});
 }

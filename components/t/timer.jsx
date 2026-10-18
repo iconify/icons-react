@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yds4fl__v.css';
+import '../../css/w/wftzxc0om.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yds4fl__v"/>`,
+		"content": `<path class="wftzxc0om"/>`,
 		"fallback": "vadivam:timer",
 	});
 }

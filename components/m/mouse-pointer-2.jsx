@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gtxprhl3p.css';
+import '../../css/p/pr6-vqfij.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gtxprhl3p"/>`,
+		"content": `<path class="pr6-vqfij"/>`,
 		"fallback": "vadivam:mouse-pointer-2",
 	});
 }

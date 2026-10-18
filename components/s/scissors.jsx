@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jcsw2jbez.css';
+import '../../css/c/c9t8qfp9o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jcsw2jbez"/>`,
+		"content": `<path class="c9t8qfp9o"/>`,
 		"fallback": "vadivam:scissors",
 	});
 }

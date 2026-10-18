@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/niu_geqxg.css';
+import '../../css/j/j3dkaeb4q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="niu_geqxg"/>`,
+		"content": `<path class="j3dkaeb4q"/>`,
 		"fallback": "vadivam:badge-alert",
 	});
 }

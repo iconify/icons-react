@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/j/j9wrs-0li.css';
-import '../../css/h/hvjmops2k.css';
+import '../../css/l/l35tbxs-s.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="j9wrs-0li"/><path class="hvjmops2k"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="j9wrs-0li"/><path class="l35tbxs-s"/></g>`,
 		"fallback": "vadivam:chart-column-big",
 	});
 }

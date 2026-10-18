@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uirtob0lu.css';
+import '../../css/x/xb-8z_bky.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uirtob0lu"/>`,
+		"content": `<path class="xb-8z_bky"/>`,
 		"fallback": "vadivam:battery-plus",
 	});
 }

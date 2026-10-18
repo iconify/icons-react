@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sm242wkvz.css';
+import '../../css/b/b2sgxbbzc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sm242wkvz"/>`,
+		"content": `<path class="b2sgxbbzc"/>`,
 		"fallback": "vadivam:layout-grid",
 	});
 }

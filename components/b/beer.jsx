@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v3a8mnppv.css';
+import '../../css/g/gbz8f1bap.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v3a8mnppv"/>`,
+		"content": `<path class="gbz8f1bap"/>`,
 		"fallback": "vadivam:beer",
 	});
 }

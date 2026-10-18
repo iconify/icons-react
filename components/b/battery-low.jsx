@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f8f0kfb1z.css';
+import '../../css/k/kf5_e-pql.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f8f0kfb1z"/>`,
+		"content": `<path class="kf5_e-pql"/>`,
 		"fallback": "vadivam:battery-low",
 	});
 }

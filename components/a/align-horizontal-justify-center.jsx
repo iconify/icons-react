@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ynjlvfb2o.css';
+import '../../css/b/bdgqpge4v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ynjlvfb2o"/>`,
+		"content": `<path class="bdgqpge4v"/>`,
 		"fallback": "vadivam:align-horizontal-justify-center",
 	});
 }

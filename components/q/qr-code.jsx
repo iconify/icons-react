@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ig2jn5_zo.css';
+import '../../css/c/ckmbmabfn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ig2jn5_zo"/>`,
+		"content": `<path class="ckmbmabfn"/>`,
 		"fallback": "vadivam:qr-code",
 	});
 }

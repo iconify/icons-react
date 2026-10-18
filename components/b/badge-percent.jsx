@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jgq8trccr.css';
+import '../../css/i/i3qkidc7n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jgq8trccr"/>`,
+		"content": `<path class="i3qkidc7n"/>`,
 		"fallback": "vadivam:badge-percent",
 	});
 }

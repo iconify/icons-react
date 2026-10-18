@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/srtdg4zof.css';
+import '../../css/x/xh4c86bud.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="srtdg4zof"/>`,
+		"content": `<path class="xh4c86bud"/>`,
 		"fallback": "vadivam:align-horizontal-space-around",
 	});
 }

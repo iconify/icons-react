@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ieodu4--x.css';
+import '../../css/p/pogydcb0k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ieodu4--x"/>`,
+		"content": `<path class="pogydcb0k"/>`,
 		"fallback": "vadivam:folder-plus",
 	});
 }

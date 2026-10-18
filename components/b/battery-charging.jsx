@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/n/nwy40kvrr.css';
+import '../../css/z/zs666magt.css';
 import '../../css/h/h9vnbdbem.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="nwy40kvrr"/><path class="h9vnbdbem"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="zs666magt"/><path class="h9vnbdbem"/></g>`,
 		"fallback": "vadivam:battery-charging",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uucv2_foa.css';
+import '../../css/b/bu066-b0p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uucv2_foa"/>`,
+		"content": `<path class="bu066-b0p"/>`,
 		"fallback": "vadivam:badge",
 	});
 }

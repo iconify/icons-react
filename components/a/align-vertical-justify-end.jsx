@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i9udfcbcq.css';
+import '../../css/b/bejip4b3p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i9udfcbcq"/>`,
+		"content": `<path class="bejip4b3p"/>`,
 		"fallback": "vadivam:align-vertical-justify-end",
 	});
 }

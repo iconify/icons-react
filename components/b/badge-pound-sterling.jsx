@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/d/dtub6__pa.css';
 import '../../css/u/ugvkf9a3w.css';
+import '../../css/c/c_9kcibbk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="dtub6__pa"/><path class="ugvkf9a3w"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="ugvkf9a3w"/><path class="c_9kcibbk"/></g>`,
 		"fallback": "vadivam:badge-pound-sterling",
 	});
 }

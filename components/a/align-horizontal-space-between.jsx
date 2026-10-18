@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qwguu625s.css';
+import '../../css/e/e1505kbwm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qwguu625s"/>`,
+		"content": `<path class="e1505kbwm"/>`,
 		"fallback": "vadivam:align-horizontal-space-between",
 	});
 }

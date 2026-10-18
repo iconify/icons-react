@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ujunp-b5i.css';
+import '../../css/h/hvrr47wbl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ujunp-b5i"/>`,
+		"content": `<path class="hvrr47wbl"/>`,
 		"fallback": "vadivam:between-horizontal-start",
 	});
 }

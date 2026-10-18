@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hiffnub_g.css';
+import '../../css/q/q7uajgbvz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hiffnub_g"/>`,
+		"content": `<path class="q7uajgbvz"/>`,
 		"fallback": "vadivam:volume-x",
 	});
 }

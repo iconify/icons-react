@@ -50,7 +50,7 @@ function Component({width, height, ...props}) {
   fill: var(--svg-color--fbfacc, #fbfacc);
   d: path("M22.4 31h1.98c.32-1.05.83-2.17 1.17-3.22c-1.5 1.07-1.95-1.4-2.34-2.35c-.25.88-.76 3.32-1.98 2.5A5.7 5.7 0 0 0 22.4 31");
 }
-</style><g class="kuf42lb8e"><path class="y8mk8s_tw"/><path class="sv07opbja"/><path class="dx2owbmwd"/><path class="pmgcpxbgh"/><path class="lu154nbkr"/><path class="znuts8d4z"/></g>`,
+</style><g clip-rule="evenodd" class="kuf42lb8e"><path class="y8mk8s_tw"/><path class="sv07opbja"/><path class="dx2owbmwd"/><path class="pmgcpxbgh"/><path class="lu154nbkr"/><path class="znuts8d4z"/></g>`,
 		"fallback": "vscode-icons:folder-type-mojo",
 	});
 }

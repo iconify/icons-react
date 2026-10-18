@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.49",
+  "version": "1.0.50",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1125,6 +1125,10 @@
     "./file-type-falcon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-falcon.jsx"
+    },
+    "./file-type-fallow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-fallow.jsx"
     },
     "./file-type-fantasticon": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2334,6 +2338,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-pcl.jsx"
     },
+    "./file-type-light-platformatic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-platformatic.jsx"
+    },
     "./file-type-light-pnpm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-pnpm.jsx"
@@ -3526,6 +3534,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-plantuml.jsx"
     },
+    "./file-type-platformatic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-platformatic.jsx"
+    },
     "./file-type-platformio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-platformio.jsx"
@@ -4369,6 +4381,10 @@
     "./file-type-svg": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-svg.jsx"
+    },
+    "./file-type-svglint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-svglint.jsx"
     },
     "./file-type-svgo": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5465,6 +5481,14 @@
     "./folder-type-devenv-opened": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-devenv-opened.jsx"
+    },
+    "./folder-type-discord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-discord.jsx"
+    },
+    "./folder-type-discord-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-discord-opened.jsx"
     },
     "./folder-type-dist": {
       "types": "./types/hqrkovbr.d.ts",

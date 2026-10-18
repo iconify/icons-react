@@ -10,11 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.bm92yxbfd {
-  fill: var(--svg-color--ccd4d3, #ccd4d3);
-}
-
-.cjkigoenc {
+		"content": `<style>.cjkigoenc {
   fill: var(--svg-color--f18b21, #f18b21);
   d: path("M17.029 21.055a7.06 7.06 0 0 1-5-2.069L11 20.006a8.4 8.4 0 0 0 6.029 2.494a8.55 8.55 0 0 0 8.471-7.452h-1.45a7.115 7.115 0 0 1-7.021 6.007m0-14.11a6.9 6.9 0 0 1 4.233 1.416l.884-1.161a8.56 8.56 0 0 0-13.079 3.711l1.365.539a7.1 7.1 0 0 1 6.597-4.505");
 }
@@ -34,6 +30,11 @@ function Component({width, height, ...props}) {
   d: path("M24.644 2H8.202v23.348h16.442a1.4 1.4 0 0 0 1.4-1.39V3.39a1.4 1.4 0 0 0-1.4-1.39");
 }
 
+.gfrtyisxp {
+  fill: var(--svg-color--ccd4d3, #ccd4d3);
+  d: path("M6.281 25.434h19.455v.189H6.281zm0 .957h19.455v.189H6.281zm0 .957h19.455v.189H6.281zm0 .479h19.455v.189H6.281zm0 .478h19.455v.189H6.281zm0-1.435h19.455v.189H6.281zm0-.957h19.455v.189H6.281z");
+}
+
 .hx9esjbmh {
   fill: var(--svg-color--3f5364, #3f5364);
   d: path("M14.445 16.578a3.7 3.7 0 0 0 2.589 1.076v-1.53a2.1 2.1 0 0 1-1.508-.624Zm3.921-5.978l-.566 1.416a2.3 2.3 0 0 1 1.083.907h1.649a3.69 3.69 0 0 0-2.166-2.323");
@@ -42,10 +43,6 @@ function Component({width, height, ...props}) {
 .jtj0f0bvy {
   fill: var(--svg-color--f18b21, #f18b21);
   d: path("M13.362 14a3.7 3.7 0 0 0 .311 1.474l1.4-.624A2.1 2.1 0 0 1 14.9 14a2.146 2.146 0 0 1 2.13-2.125v-1.53A3.67 3.67 0 0 0 13.362 14m4.432 1.983l.566 1.417a3.67 3.67 0 0 0 2.186-2.351H18.9a2.18 2.18 0 0 1-1.106.934");
-}
-
-.o9gqlmbkm {
-  d: path("M6.281 25.434h19.455v.189H6.281zm0 .957h19.455v.189H6.281zm0 .957h19.455v.189H6.281zm0 .479h19.455v.189H6.281zm0 .478h19.455v.189H6.281zm0-1.435h19.455v.189H6.281zm0-.957h19.455v.189H6.281z");
 }
 
 .oq4spea4i {
@@ -82,7 +79,7 @@ function Component({width, height, ...props}) {
   fill: var(--svg-color--f18b21, #f18b21);
   d: path("M22.4 12.951h1.45A6.92 6.92 0 0 0 19.528 7.6l-.51 1.331a5.53 5.53 0 0 1 3.382 4.02M11.572 14h-1.451a6.9 6.9 0 0 0 4.352 6.4l.539-1.331A5.48 5.48 0 0 1 11.572 14");
 }
-</style><defs><clipPath id="SVGO3E6JdNL"><path class="t2lv1ei2p"/></clipPath></defs><path class="zfti50b5c"/><path class="vhr9y8elo"/><g clip-path="url(#SVGO3E6JdNL)" class="bm92yxbfd"><path class="o9gqlmbkm"/></g><path class="da6nahfxu"/><path class="pnm7v67wm"/><path class="cv8w4z8mk"/><path class="hx9esjbmh"/><path class="jtj0f0bvy"/><path class="rvysq1i3s"/><path class="oq4spea4i"/><path class="zhzsw2k6v"/><path class="cp2tba7_b"/><path class="cjkigoenc"/>`,
+</style><defs><clipPath id="SVGO3E6JdNL"><path class="t2lv1ei2p"/></clipPath></defs><path class="zfti50b5c"/><path class="vhr9y8elo"/><g clip-path="url(#SVGO3E6JdNL)"><path class="gfrtyisxp"/></g><path class="da6nahfxu"/><path class="pnm7v67wm"/><path class="cv8w4z8mk"/><path class="hx9esjbmh"/><path class="jtj0f0bvy"/><path class="rvysq1i3s"/><path class="oq4spea4i"/><path class="zhzsw2k6v"/><path class="cp2tba7_b"/><path class="cjkigoenc"/>`,
 		"fallback": "vscode-icons:file-type-chef-cookbook",
 	});
 }

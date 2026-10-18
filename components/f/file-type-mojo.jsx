@@ -44,7 +44,7 @@ function Component({width, height, ...props}) {
   fill-rule: nonzero;
   d: path("M15.29 2c0 1.75.52 4.68-.68 6.14c-.62.74-1.18.19-1.87.47c-.71.29-1.14 1.65-1.36 2.31a13.8 13.8 0 0 0-.7 3.9c-.02.6.2 1.6-.26 2.07c-1.91 1.96-2.8-1.4-2.93-2.79c-2.64 2.12-2.87 6.43-1.4 9.23c.55 1.08 1.76 1.95 2.12 3.08c-.73 0-1.27-.2-1.95-.41c.92 2.29 6.24 3.77 8.51 4h2.77c1.03-.09 1.45-.32 2.05-.5c1.79-.5 4.03-1.32 5.03-2.99c-.31.03-1.42.26-1.17-.4c.36-.94 1.86-1.63 2.41-2.57c1.72-2.94.88-6.85-.73-9.64c-.25.55-.65 2.35-1.62 1.75c-.53-.33-.64-1.09-.7-1.65c-.18-1.5.13-2.94-.37-4.41c-1.02-3.05-4.3-6.2-7.15-7.59");
 }
-</style><g class="kuf42lb8e"><path class="yas1bzbyb"/><path class="oa9k46bxw"/><path class="wzkfl6ngl"/><path class="bh0wyuxew"/><path class="hcnbz6b8u"/></g>`,
+</style><g clip-rule="evenodd" class="kuf42lb8e"><path class="yas1bzbyb"/><path class="oa9k46bxw"/><path class="wzkfl6ngl"/><path class="bh0wyuxew"/><path class="hcnbz6b8u"/></g>`,
 		"fallback": "vscode-icons:file-type-mojo",
 	});
 }

@@ -19,6 +19,12 @@ function Component({width, height, ...props}) {
   fill-rule: evenodd;
 }
 
+.km86usllf {
+  fill: var(--svg-color--fda8b3, #fda8b3);
+  d: path("M17.653 16.005a.88.88 0 0 0-.522.251a.875.875 0 0 0 0 1.238l1.132 1.131l-1.132 1.131a.875.875 0 0 0 0 1.238a.875.875 0 0 0 1.238 0l1.131-1.132l1.131 1.132a.875.875 0 0 0 1.238 0a.875.875 0 0 0 0-1.238l-1.13-1.131l1.13-1.131a.875.875 0 0 0 0-1.238a.875.875 0 0 0-1.237 0L19.5 17.388l-1.131-1.132a.88.88 0 0 0-.716-.25");
+  color: #000;
+}
+
 .n3lulu8av {
   width: 4px;
   height: 1px;
@@ -33,12 +39,6 @@ function Component({width, height, ...props}) {
   x: 14px;
   y: 24px;
   ry: 0.5px;
-}
-
-.q-7oft4fi {
-  fill: var(--svg-color--fda8b3, #fda8b3);
-  d: path("M17.653 16.005a.88.88 0 0 0-.521.251a.875.875 0 0 0 0 1.238l1.131 1.131l-1.131 1.132a.875.875 0 0 0 0 1.237a.875.875 0 0 0 1.237 0l1.131-1.131l1.132 1.13a.875.875 0 0 0 1.237 0a.875.875 0 0 0 0-1.236l-1.131-1.132l1.131-1.131a.875.875 0 0 0 0-1.238a.875.875 0 0 0-1.237 0L19.5 17.388l-1.131-1.132a.88.88 0 0 0-.716-.25");
-  color: #000;
 }
 
 .qx8weezuw {
@@ -78,7 +78,7 @@ function Component({width, height, ...props}) {
 .zffhjno0y {
   stroke-linecap: square;
 }
-</style><defs><linearGradient id="SVGimcRbe8c" x1="4" x2="28" y1="31" y2="1" gradientUnits="userSpaceOnUse"><stop offset="0" class="qx8weezuw"/><stop offset="1" class="t9juwbbkz"/></linearGradient></defs><g class="d2kvgvbvc"><path fill="url(#SVGimcRbe8c)" transform="translate(2 2)scale(.875)" class="v6qbtcbjh"/><g class="zffhjno0y"><path class="y7nzi9tng"/><path class="ck4pcsb0s"/></g><g transform="translate(2 2)scale(.875)" class="y_9pn2b8h"><path class="xhs9j6brk"/><rect class="wvijz8xis"/><rect class="ns0eb6b-u"/><rect class="n3lulu8av"/></g><path class="q-7oft4fi"/></g>`,
+</style><defs><linearGradient id="SVGimcRbe8c" x1="4" x2="28" y1="31" y2="1" gradientUnits="userSpaceOnUse"><stop offset="0" class="qx8weezuw"/><stop offset="1" class="t9juwbbkz"/></linearGradient></defs><g class="d2kvgvbvc"><path fill="url(#SVGimcRbe8c)" transform="translate(2 2)scale(.875)" class="v6qbtcbjh"/><g class="zffhjno0y"><path class="y7nzi9tng"/><path class="ck4pcsb0s"/></g><g transform="translate(2 2)scale(.875)" class="y_9pn2b8h"><path class="xhs9j6brk"/><rect class="wvijz8xis"/><rect class="ns0eb6b-u"/><rect class="n3lulu8av"/></g><path class="km86usllf"/></g>`,
 		"fallback": "vscode-icons:file-type-libreoffice-math",
 	});
 }

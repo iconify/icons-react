@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.xn7uhacnq {
+		"content": `<style>.szank4bge {
   fill: var(--svg-color--6e45e2, #6e45e2);
-  d: path("M9.03 9.03A6.97 6.97 0 0 0 2.06 16a6.97 6.97 0 0 0 6.97 6.971zm0 6.97A6.97 6.97 0 0 0 16 22.971a6.97 6.97 0 0 0 6.971-6.97a6.97 6.97 0 0 0-6.97-6.972A6.97 6.97 0 0 0 9.028 16m13.942 0v6.97A6.97 6.97 0 0 0 29.94 16a6.97 6.97 0 0 0-6.968-6.97z");
+  d: path("M9.03 9.03A6.97 6.97 0 0 0 2.06 16a6.97 6.97 0 0 0 6.97 6.97zm0 6.97A6.97 6.97 0 0 0 16 22.97A6.97 6.97 0 0 0 22.97 16A6.97 6.97 0 0 0 16 9.03A6.97 6.97 0 0 0 9.03 16m13.941 0v6.969A6.97 6.97 0 0 0 29.94 16a6.97 6.97 0 0 0-6.969-6.97z");
 }
-</style><path class="xn7uhacnq"/>`,
+</style><path class="szank4bge"/>`,
 		"fallback": "vscode-icons:file-type-mondoo",
 	});
 }

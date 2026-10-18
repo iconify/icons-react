@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   stop-color: var(--svg-color--7a9, #7a9);
 }
 
-.j2h7g0m8z {
+.ghmoj2b-i {
   fill: var(--svg-color--5b8275, #5b8275);
   fill-opacity: var(--svg-fill-opacity--0-3, 0.3);
-  d: path("m29.239 6.659l-.957 15.013l-9.141-19.687zm-6.332 19.413L16 30.013l-6.908-3.941l1.405-3.405h11.005zM16 9.458l3.619 8.8H12.38zM3.707 21.672L2.76 6.66l10.097-4.673z");
+  d: path("m29.24 6.659l-.957 15.013l-9.141-19.687zm-6.332 19.413L16 30.013l-6.907-3.941l1.405-3.405h11.005zM16 9.458l3.62 8.8h-7.24zM3.708 21.672L2.76 6.66l10.1-4.674z");
 }
 
 .krb_vzbzz {
@@ -32,7 +32,7 @@ function Component({width, height, ...props}) {
 .yttaskgkt {
   stop-color: var(--svg-color--5b8275, #5b8275);
 }
-</style><defs><linearGradient id="SVGT1FqxdFE"><stop offset="0" class="eenx60ymg"/><stop offset="1" class="yttaskgkt"/></linearGradient></defs><path fill="url(#SVGT1FqxdFE)" transform="translate(2.76 1.986)scale(.11923)" class="lzmzk1bgq"/><path class="j2h7g0m8z"/><path class="krb_vzbzz"/>`,
+</style><defs><linearGradient id="SVGT1FqxdFE"><stop offset="0" class="eenx60ymg"/><stop offset="1" class="yttaskgkt"/></linearGradient></defs><path fill="url(#SVGT1FqxdFE)" transform="translate(2.76 1.986)scale(.11923)" class="lzmzk1bgq"/><path class="ghmoj2b-i"/><path class="krb_vzbzz"/>`,
 		"fallback": "vscode-icons:file-type-ng-interceptor-js",
 	});
 }

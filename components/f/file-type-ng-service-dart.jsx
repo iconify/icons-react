@@ -28,14 +28,14 @@ function Component({width, height, ...props}) {
   d: path("m222.08 39.192l-8.019 125.92L137.39-.008zm-53.105 162.82l-57.933 33.056l-57.934-33.056l11.783-28.556h92.301zm-57.933-139.34l30.357 73.803H80.684zm-103.1 102.44L.005 39.192L84.695 0z");
 }
 
-.oe6c2jryq {
-  stop-color: var(--svg-color--173d71, #173d71);
-}
-
-.q23t27s5u {
+.mhqjgt0vx {
   fill: var(--svg-color--173d71, #173d71);
   fill-opacity: var(--svg-fill-opacity--0-3, 0.3);
-  d: path("m29.239 6.659l-.957 15.013l-9.141-19.687zm-6.332 19.413L16 30.013l-6.908-3.941l1.405-3.405h11.005zM16 9.458l3.619 8.8H12.38zM3.707 21.672L2.76 6.66l10.097-4.673z");
+  d: path("m29.24 6.659l-.957 15.013l-9.141-19.687zm-6.332 19.413L16 30.013l-6.907-3.941l1.405-3.405h11.005zM16 9.458l3.62 8.8h-7.24zM3.708 21.672L2.76 6.66l10.1-4.674z");
+}
+
+.oe6c2jryq {
+  stop-color: var(--svg-color--173d71, #173d71);
 }
 
 .q8t8rrbbl {
@@ -52,7 +52,7 @@ function Component({width, height, ...props}) {
   fill: var(--svg-color--235997, #235997);
   d: path("m19.069 19.974l3.771 3.762l4.341 4.331l1.653-.314V22.88l-1.744-1.7a2.8 2.8 0 0 0-1.56-.693v-.019Z");
 }
-</style><defs><linearGradient id="SVG8bn92ckU"><stop offset="0" class="evjdkcb4a"/><stop offset="1" class="oe6c2jryq"/></linearGradient></defs><path fill="url(#SVG8bn92ckU)" transform="translate(2.76 1.986)scale(.11923)" class="lzmzk1bgq"/><path class="q23t27s5u"/><path class="scy3g5kwj"/><path class="q8t8rrbbl"/><path class="b30s9ft8m"/><path class="sewrf2b1j"/><path class="j3l-ibboq"/>`,
+</style><defs><linearGradient id="SVG8bn92ckU"><stop offset="0" class="evjdkcb4a"/><stop offset="1" class="oe6c2jryq"/></linearGradient></defs><path fill="url(#SVG8bn92ckU)" transform="translate(2.76 1.986)scale(.11923)" class="lzmzk1bgq"/><path class="mhqjgt0vx"/><path class="scy3g5kwj"/><path class="q8t8rrbbl"/><path class="b30s9ft8m"/><path class="sewrf2b1j"/><path class="j3l-ibboq"/>`,
 		"fallback": "vscode-icons:file-type-ng-service-dart",
 	});
 }

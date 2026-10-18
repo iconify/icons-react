@@ -89,7 +89,7 @@ function Component({width, height, ...props}) {
   fill: var(--svg-color--778292, #778292);
   d: path("m20.43 24.77l-.15.48l.92 1.1l.09-.16q-.62-.57-.86-1.42");
 }
-</style><g class="bi12bsetm"><path class="uhskiccvv"/><path class="sw7oyacsx"/><path class="t861eiqsd"/><path class="ey9w0glnv"/><path class="vbjj9p4lw"/><path class="tm6kajbtb"/><path class="nuq3oxbmb"/><path class="dan_6kwbs"/><path class="szdcogbdx"/><path class="yayhkpbkt"/><path class="f3p5wjhzp"/><path class="umguhy2ym"/><path class="nr05hr44p"/><path class="m12jbkbro"/><path class="ew3amxb1d"/></g>`,
+</style><g clip-rule="evenodd" class="bi12bsetm"><path class="uhskiccvv"/><path class="sw7oyacsx"/><path class="t861eiqsd"/><path class="ey9w0glnv"/><path class="vbjj9p4lw"/><path class="tm6kajbtb"/><path class="nuq3oxbmb"/><path class="dan_6kwbs"/><path class="szdcogbdx"/><path class="yayhkpbkt"/><path class="f3p5wjhzp"/><path class="umguhy2ym"/><path class="nr05hr44p"/><path class="m12jbkbro"/><path class="ew3amxb1d"/></g>`,
 		"fallback": "vscode-icons:file-type-pixi",
 	});
 }

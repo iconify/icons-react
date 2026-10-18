@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-miterlimit: 2;
 }
-</style><g transform="translate(2 2)scale(.11667)" class="kuf42lb8e"><rect class="fbh4whsvy"/><path class="abk2hw08c"/></g>`,
+</style><g clip-rule="evenodd" transform="translate(2 2)scale(.11667)" class="kuf42lb8e"><rect class="fbh4whsvy"/><path class="abk2hw08c"/></g>`,
 		"fallback": "vscode-icons:file-type-affinity",
 	});
 }

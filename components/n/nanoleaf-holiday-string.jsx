@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ep6_o7bki.css';
+import '../../css/n/nhr80pw9z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ep6_o7bki"/>`,
+		"content": `<path class="nhr80pw9z"/>`,
 		"fallback": "cbi:nanoleaf-holiday-string",
 	});
 }

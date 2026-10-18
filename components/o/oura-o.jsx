@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kd__n8i3c.css';
+import '../../css/b/bxtv1wbml.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kd__n8i3c"/>`,
+		"content": `<path class="bxtv1wbml"/>`,
 		"fallback": "cbi:oura-o",
 	});
 }

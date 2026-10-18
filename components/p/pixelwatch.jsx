@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m2h6jcreu.css';
+import '../../css/f/fhm777k8w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m2h6jcreu"/>`,
+		"content": `<path class="fhm777k8w"/>`,
 		"fallback": "cbi:pixelwatch",
 	});
 }

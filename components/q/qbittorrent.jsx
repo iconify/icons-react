@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g3gikfbdn.css';
+import '../../css/n/n03l_4bvm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g3gikfbdn"/>`,
+		"content": `<path class="n03l_4bvm"/>`,
 		"fallback": "cbi:qbittorrent",
 	});
 }

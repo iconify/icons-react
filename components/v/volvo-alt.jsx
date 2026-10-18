@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oiioapw1t.css';
+import '../../css/t/t8sharnse.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oiioapw1t"/>`,
+		"content": `<path class="t8sharnse"/>`,
 		"fallback": "cbi:volvo-alt",
 	});
 }

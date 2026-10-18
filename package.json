@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/logos",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "homepage": "https://icon-sets.iconify.design/logos/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -325,6 +325,14 @@
     "./apidog-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apidog-icon.jsx"
+    },
+    "./apify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apify.jsx"
+    },
+    "./apify-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apify-icon.jsx"
     },
     "./apigee": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1730,6 +1738,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coffeescript.jsx"
     },
+    "./cohere": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cohere.jsx"
+    },
+    "./cohere-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cohere-icon.jsx"
+    },
     "./commitizen": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/commitizen.jsx"
@@ -1757,6 +1773,14 @@
     "./composer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/composer.jsx"
+    },
+    "./composio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/composio.jsx"
+    },
+    "./composio-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/composio-icon.jsx"
     },
     "./conan-io": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2117,6 +2141,14 @@
     "./deepgram-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/deepgram-icon.jsx"
+    },
+    "./deepinfra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deepinfra.jsx"
+    },
+    "./deepinfra-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deepinfra-icon.jsx"
     },
     "./deepseek": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2745,6 +2777,14 @@
     "./falcor": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/falcor.jsx"
+    },
+    "./falkordb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/falkordb.jsx"
+    },
+    "./falkordb-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/falkordb-icon.jsx"
     },
     "./famous": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3902,6 +3942,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hugo.jsx"
     },
+    "./hume": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hume.jsx"
+    },
+    "./hume-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hume-icon.jsx"
+    },
     "./humongous": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/humongous.jsx"
@@ -4450,6 +4498,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kustomer.jsx"
     },
+    "./lancedb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lancedb.jsx"
+    },
+    "./lancedb-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lancedb-icon.jsx"
+    },
     "./langchain": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/langchain.jsx"
@@ -4457,6 +4513,14 @@
     "./langchain-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/langchain-icon.jsx"
+    },
+    "./langfuse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/langfuse.jsx"
+    },
+    "./langfuse-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/langfuse-icon.jsx"
     },
     "./languagetool": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4693,6 +4757,14 @@
     "./lucene-net": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lucene-net.jsx"
+    },
+    "./luma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luma.jsx"
+    },
+    "./luma-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/luma-icon.jsx"
     },
     "./lumen": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5646,6 +5718,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/olark.jsx"
     },
+    "./ollama": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/ollama.jsx"
+    },
     "./onesignal": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/onesignal.jsx"
@@ -6374,6 +6450,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pycharm.jsx"
     },
+    "./pydantic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pydantic.jsx"
+    },
+    "./pydantic-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pydantic-icon.jsx"
+    },
     "./pypi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pypi.jsx"
@@ -6481,6 +6565,10 @@
     "./rackspace-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rackspace-icon.jsx"
+    },
+    "./ragflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ragflow.jsx"
     },
     "./rails": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6705,6 +6793,14 @@
     "./rest-li": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rest-li.jsx"
+    },
+    "./retell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retell.jsx"
+    },
+    "./retell-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retell-icon.jsx"
     },
     "./rethinkdb": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7566,6 +7662,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sugarss.jsx"
     },
+    "./suno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/suno.jsx"
+    },
     "./supabase": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/supabase.jsx"
@@ -7730,6 +7830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tauri.jsx"
     },
+    "./tavily": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tavily.jsx"
+    },
     "./tealium": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tealium.jsx"
@@ -7841,6 +7945,14 @@
     "./tidal-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tidal-icon.jsx"
+    },
+    "./tigergraph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tigergraph.jsx"
+    },
+    "./tigergraph-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tigergraph-icon.jsx"
     },
     "./tiktok": {
       "types": "./types/hqrkovbr.d.ts",

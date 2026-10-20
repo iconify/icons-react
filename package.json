@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/pinhead",
   "type": "module",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "homepage": "https://icon-sets.iconify.design/pinhead/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -4781,6 +4781,14 @@
     "./khanda-on-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/khanda-on-square.jsx"
+    },
+    "./kick-scooter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kick-scooter.jsx"
+    },
+    "./kick-scooter-with-power-cord": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kick-scooter-with-power-cord.jsx"
     },
     "./kidneys": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10189,6 +10197,14 @@
     "./tree-stump": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tree-stump.jsx"
+    },
+    "./tree-trunk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-trunk.jsx"
+    },
+    "./tree-trunk-with-plaque": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree-trunk-with-plaque.jsx"
     },
     "./trench": {
       "types": "./types/hqrkovbr.d.ts",

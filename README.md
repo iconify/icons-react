@@ -1,6 +1,5 @@
 # @iconify-react/pinhead
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/pinhead).
 **Pinhead Map Icons**
 
 Author: [Quincy Morgan](https://github.com/waysidemapping/pinhead)

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.53",
+  "version": "1.0.54",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -454,6 +454,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/audio-waveform.jsx"
     },
+    "./avocado": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/avocado.jsx"
+    },
     "./award": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/award.jsx"
@@ -473,6 +477,10 @@
     "./backpack": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/backpack.jsx"
+    },
+    "./bacon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bacon.jsx"
     },
     "./badge": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1013,6 +1021,10 @@
     "./brain-cog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/brain-cog.jsx"
+    },
+    "./brain-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-off.jsx"
     },
     "./brick-wall": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1629,6 +1641,22 @@
     "./circle-chevron-up": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-chevron-up.jsx"
+    },
+    "./circle-chevrons-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-chevrons-down.jsx"
+    },
+    "./circle-chevrons-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-chevrons-left.jsx"
+    },
+    "./circle-chevrons-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-chevrons-right.jsx"
+    },
+    "./circle-chevrons-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-chevrons-up.jsx"
     },
     "./circle-dashed": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3458,6 +3486,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grape.jsx"
     },
+    "./graph-hub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-hub.jsx"
+    },
     "./graph-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-star.jsx"
@@ -4066,6 +4098,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lens-convex.jsx"
     },
+    "./letter-spacing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing.jsx"
+    },
     "./letter-text": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/letter-text.jsx"
@@ -4121,6 +4157,10 @@
     "./line-dot-top-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/line-dot-top-vertical.jsx"
+    },
+    "./line-height": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height.jsx"
     },
     "./line-squiggle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6258,6 +6298,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/smartphone-nfc.jsx"
     },
+    "./smartphone-user-round": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-user-round.jsx"
+    },
     "./smile": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/smile.jsx"
@@ -7121,6 +7165,10 @@
     "./toilet": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/toilet.jsx"
+    },
+    "./tombstone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tombstone.jsx"
     },
     "./tool-case": {
       "types": "./types/hqrkovbr.d.ts",

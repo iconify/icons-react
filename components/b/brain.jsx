@@ -1,12 +1,12 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/e/e_h5_3bll.css';
-import '../../css/f/fuiyj542f.css';
-import '../../css/q/q022pyb6e.css';
-import '../../css/c/csovaybja.css';
-import '../../css/s/syb9uebtf.css';
-import '../../css/d/de6uevbjs.css';
+import '../../css/e/eawujccwp.css';
+import '../../css/h/hpc2axbfb.css';
+import '../../css/u/u2n39iylw.css';
+import '../../css/c/cvg2yryrv.css';
+import '../../css/b/b4awjxb-h.css';
+import '../../css/b/b3kw4gbdt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="e_h5_3bll"/><path class="fuiyj542f"/><path class="q022pyb6e"/><path class="csovaybja"/><path class="syb9uebtf"/><path class="de6uevbjs"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="eawujccwp"/><path class="hpc2axbfb"/><path class="u2n39iylw"/><path class="cvg2yryrv"/><path class="b4awjxb-h"/><path class="b3kw4gbdt"/></g>`,
 		"fallback": "lucide:brain",
 	});
 }

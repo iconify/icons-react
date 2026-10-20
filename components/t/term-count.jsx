@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
-import '../../css/l/lai1y5_5e.css';
-import '../../css/v/v0pht0ljf.css';
+import '../../css/w/wm26qcilw.css';
+import '../../css/j/jlpzeeb-u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="lai1y5_5e"/><path class="v0pht0ljf"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="wm26qcilw"/><path class="jlpzeeb-u"/></g>`,
 		"fallback": "wordpress:term-count",
 	});
 }

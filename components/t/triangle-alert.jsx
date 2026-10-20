@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kwvmqj5ia.css';
+import '../../css/d/dpfg07vqt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kwvmqj5ia"/>`,
+		"content": `<path class="dpfg07vqt"/>`,
 		"fallback": "vadivam:triangle-alert",
 	});
 }

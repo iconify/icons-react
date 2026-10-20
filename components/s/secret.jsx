@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wj4kgr0on.css';
-import '../../css/q/q8zv1imgh.css';
-import '../../css/d/dd4j49bys.css';
+import '../../css/r/rdcnc9bhs.css';
+import '../../css/x/xi2u7tbob.css';
 import '../../css/d/dvd6fwb9u.css';
 import '../../css/s/sk79nv4sx.css';
 import '../../css/s/s_9r2nvfj.css';
@@ -19,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="wj4kgr0on"><path class="q8zv1imgh"/><path class="dd4j49bys"/></g><g transform="translate(-.936 -.399)" class="dvd6fwb9u"><path class="sk79nv4sx"/><path class="s_9r2nvfj"/><path class="ngg9qxbhw"/><path class="c0mb9mb8x"/><circle class="u5bulhsdt"/></g>`,
+		"content": `<path class="rdcnc9bhs"/><path class="xi2u7tbob"/><g transform="translate(-.936 -.4)" class="dvd6fwb9u"><path class="sk79nv4sx"/><path class="s_9r2nvfj"/><path class="ngg9qxbhw"/><path class="c0mb9mb8x"/><circle class="u5bulhsdt"/></g>`,
 		"fallback": "k8s:secret",
 	});
 }

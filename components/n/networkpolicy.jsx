@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wj4kgr0on.css';
-import '../../css/q/q8zv1imgh.css';
-import '../../css/d/dd4j49bys.css';
-import '../../css/i/irv9_34ln.css';
+import '../../css/r/rdcnc9bhs.css';
+import '../../css/x/xi2u7tbob.css';
+import '../../css/c/cm34l7bhj.css';
 
 const viewBox = {"width":18.035,"height":17.5};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="wj4kgr0on"><path class="q8zv1imgh"/><path class="dd4j49bys"/></g><path class="irv9_34ln"/>`,
+		"content": `<path class="rdcnc9bhs"/><path class="xi2u7tbob"/><path class="cm34l7bhj"/>`,
 		"fallback": "k8s:networkpolicy",
 	});
 }

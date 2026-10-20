@@ -1,11 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wj4kgr0on.css';
-import '../../css/q/q8zv1imgh.css';
-import '../../css/d/dd4j49bys.css';
-import '../../css/j/j-npdpb0r.css';
-import '../../css/c/chpd-ob2l.css';
-import '../../css/t/tzpe2lbtc.css';
+import '../../css/r/rdcnc9bhs.css';
+import '../../css/x/xi2u7tbob.css';
+import '../../css/v/vdekjqpio.css';
+import '../../css/j/j9ry08bgz.css';
 
 const viewBox = {"width":18.035,"height":17.5};
 
@@ -16,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="wj4kgr0on"><path class="q8zv1imgh"/><path class="dd4j49bys"/></g><g class="j-npdpb0r"><path class="chpd-ob2l"/><path class="tzpe2lbtc"/></g>`,
+		"content": `<path class="rdcnc9bhs"/><path class="xi2u7tbob"/><path class="vdekjqpio"/><path class="j9ry08bgz"/>`,
 		"fallback": "k8s:limitrange",
 	});
 }

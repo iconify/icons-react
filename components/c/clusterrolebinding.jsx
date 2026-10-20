@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wj4kgr0on.css';
-import '../../css/q/q8zv1imgh.css';
-import '../../css/d/dd4j49bys.css';
-import '../../css/e/ekymasz_q.css';
+import '../../css/r/rdcnc9bhs.css';
+import '../../css/x/xi2u7tbob.css';
+import '../../css/e/ex52d_o_y.css';
 
 const viewBox = {"width":18.035,"height":17.5};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="wj4kgr0on"><path class="q8zv1imgh"/><path class="dd4j49bys"/></g><path class="ekymasz_q"/>`,
+		"content": `<path class="rdcnc9bhs"/><path class="xi2u7tbob"/><path class="ex52d_o_y"/>`,
 		"fallback": "k8s:clusterrolebinding",
 	});
 }

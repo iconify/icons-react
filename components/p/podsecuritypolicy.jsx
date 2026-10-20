@@ -1,11 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wj4kgr0on.css';
-import '../../css/q/q8zv1imgh.css';
-import '../../css/d/dd4j49bys.css';
-import '../../css/n/n1mjunbsu.css';
-import '../../css/d/dn0f1_b1f.css';
-import '../../css/f/f9urx04vy.css';
+import '../../css/r/rdcnc9bhs.css';
+import '../../css/x/xi2u7tbob.css';
+import '../../css/z/zu-bd24ei.css';
+import '../../css/m/m_3lnnb5w.css';
 
 const viewBox = {"width":18.035,"height":17.5};
 
@@ -16,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="wj4kgr0on"><path class="q8zv1imgh"/><path class="dd4j49bys"/></g><g class="n1mjunbsu"><path class="dn0f1_b1f"/><path class="f9urx04vy"/></g>`,
+		"content": `<path class="rdcnc9bhs"/><path class="xi2u7tbob"/><path class="zu-bd24ei"/><path class="m_3lnnb5w"/>`,
 		"fallback": "k8s:podsecuritypolicy",
 	});
 }

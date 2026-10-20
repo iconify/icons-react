@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/codicon",
   "type": "module",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "homepage": "https://icon-sets.iconify.design/codicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -2437,6 +2437,10 @@
     "./triangle-up": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/triangle-up.jsx"
+    },
+    "./trophy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trophy.jsx"
     },
     "./twitter": {
       "types": "./types/hqrkovbr.d.ts",

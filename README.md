@@ -1,6 +1,5 @@
 # @iconify-react/codicon
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/codicon).
 **Codicons**
 
 Author: [Microsoft Corporation](https://github.com/microsoft/vscode-codicons)

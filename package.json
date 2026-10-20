@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/energy-icons",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://icon-sets.iconify.design/energy-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -374,6 +374,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/alert-octagon-48-bold.jsx"
     },
+    "./align-bottom-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-bottom-20.jsx"
+    },
+    "./align-bottom-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-bottom-20-bold.jsx"
+    },
+    "./align-bottom-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-bottom-48.jsx"
+    },
+    "./align-bottom-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-bottom-48-bold.jsx"
+    },
     "./align-center-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-center-20.jsx"
@@ -389,6 +405,22 @@
     "./align-center-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-center-48-bold.jsx"
+    },
+    "./align-horizontal-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-horizontal-20.jsx"
+    },
+    "./align-horizontal-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-horizontal-20-bold.jsx"
+    },
+    "./align-horizontal-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-horizontal-48.jsx"
+    },
+    "./align-horizontal-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-horizontal-48-bold.jsx"
     },
     "./align-justify-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -437,6 +469,22 @@
     "./align-right-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-right-48-bold.jsx"
+    },
+    "./align-top-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-top-20.jsx"
+    },
+    "./align-top-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-top-20-bold.jsx"
+    },
+    "./align-top-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-top-48.jsx"
+    },
+    "./align-top-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/align-top-48-bold.jsx"
     },
     "./align-vertical-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1606,6 +1654,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bag-48-bold.jsx"
     },
+    "./bag-check-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-check-20.jsx"
+    },
+    "./bag-check-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-check-20-bold.jsx"
+    },
+    "./bag-check-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-check-48.jsx"
+    },
+    "./bag-check-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-check-48-bold.jsx"
+    },
+    "./bag-plus-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-plus-20.jsx"
+    },
+    "./bag-plus-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-plus-20-bold.jsx"
+    },
+    "./bag-plus-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-plus-48.jsx"
+    },
+    "./bag-plus-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bag-plus-48-bold.jsx"
+    },
     "./balcony-solar-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/balcony-solar-20.jsx"
@@ -1637,6 +1717,22 @@
     "./ball-valve-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/ball-valve-48-bold.jsx"
+    },
+    "./balloon-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/balloon-20.jsx"
+    },
+    "./balloon-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/balloon-20-bold.jsx"
+    },
+    "./balloon-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/balloon-48.jsx"
+    },
+    "./balloon-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/balloon-48-bold.jsx"
     },
     "./ballot-box-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2677,6 +2773,22 @@
     "./binder-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/binder-48-bold.jsx"
+    },
+    "./binoculars-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binoculars-20.jsx"
+    },
+    "./binoculars-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binoculars-20-bold.jsx"
+    },
+    "./binoculars-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binoculars-48.jsx"
+    },
+    "./binoculars-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binoculars-48-bold.jsx"
     },
     "./biochar-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4038,6 +4150,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-range-48-bold.jsx"
     },
+    "./calendar-star-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-star-20.jsx"
+    },
+    "./calendar-star-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-star-20-bold.jsx"
+    },
+    "./calendar-star-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-star-48.jsx"
+    },
+    "./calendar-star-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-star-48-bold.jsx"
+    },
     "./calendar-x-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-x-20.jsx"
@@ -4261,6 +4389,22 @@
     "./capacity-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/capacity-48-bold.jsx"
+    },
+    "./caps-lock-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caps-lock-20.jsx"
+    },
+    "./caps-lock-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caps-lock-20-bold.jsx"
+    },
+    "./caps-lock-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caps-lock-48.jsx"
+    },
+    "./caps-lock-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caps-lock-48-bold.jsx"
     },
     "./captions-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6630,6 +6774,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-9-48-bold.jsx"
     },
+    "./clock-alert-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-alert-20.jsx"
+    },
+    "./clock-alert-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-alert-20-bold.jsx"
+    },
+    "./clock-alert-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-alert-48.jsx"
+    },
+    "./clock-alert-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-alert-48-bold.jsx"
+    },
+    "./clock-check-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-check-20.jsx"
+    },
+    "./clock-check-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-check-20-bold.jsx"
+    },
+    "./clock-check-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-check-48.jsx"
+    },
+    "./clock-check-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-check-48-bold.jsx"
+    },
     "./clock-plus-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock-plus-20.jsx"
@@ -8038,6 +8214,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coupling-48-bold.jsx"
     },
+    "./coupon-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coupon-20.jsx"
+    },
+    "./coupon-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coupon-20-bold.jsx"
+    },
+    "./coupon-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coupon-48.jsx"
+    },
+    "./coupon-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coupon-48-bold.jsx"
+    },
     "./cow-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cow-20.jsx"
@@ -8886,6 +9078,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/desk-lamp-48-bold.jsx"
     },
+    "./devices-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-20.jsx"
+    },
+    "./devices-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-20-bold.jsx"
+    },
+    "./devices-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-48.jsx"
+    },
+    "./devices-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-48-bold.jsx"
+    },
     "./dew-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dew-20.jsx"
@@ -9221,6 +9429,38 @@
     "./dispatch-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dispatch-48-bold.jsx"
+    },
+    "./distribute-horizontal-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-horizontal-20.jsx"
+    },
+    "./distribute-horizontal-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-horizontal-20-bold.jsx"
+    },
+    "./distribute-horizontal-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-horizontal-48.jsx"
+    },
+    "./distribute-horizontal-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-horizontal-48-bold.jsx"
+    },
+    "./distribute-vertical-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-vertical-20.jsx"
+    },
+    "./distribute-vertical-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-vertical-20-bold.jsx"
+    },
+    "./distribute-vertical-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-vertical-48.jsx"
+    },
+    "./distribute-vertical-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distribute-vertical-48-bold.jsx"
     },
     "./distribution-board-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11558,6 +11798,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-search-48-bold.jsx"
     },
+    "./file-sparkle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkle-20.jsx"
+    },
+    "./file-sparkle-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkle-20-bold.jsx"
+    },
+    "./file-sparkle-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkle-48.jsx"
+    },
+    "./file-sparkle-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sparkle-48-bold.jsx"
+    },
     "./file-spreadsheet-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-spreadsheet-20.jsx"
@@ -11989,6 +12245,22 @@
     "./flashlight-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flashlight-48-bold.jsx"
+    },
+    "./flask-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask-20.jsx"
+    },
+    "./flask-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask-20-bold.jsx"
+    },
+    "./flask-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask-48.jsx"
+    },
+    "./flask-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask-48-bold.jsx"
     },
     "./floating-solar-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16454,6 +16726,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-plus-48-bold.jsx"
     },
+    "./image-sparkle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkle-20.jsx"
+    },
+    "./image-sparkle-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkle-20-bold.jsx"
+    },
+    "./image-sparkle-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkle-48.jsx"
+    },
+    "./image-sparkle-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkle-48-bold.jsx"
+    },
     "./image-x-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-x-20.jsx"
@@ -16981,6 +17269,22 @@
     "./jersey-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/jersey-48-bold.jsx"
+    },
+    "./joystick-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/joystick-20.jsx"
+    },
+    "./joystick-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/joystick-20-bold.jsx"
+    },
+    "./joystick-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/joystick-48.jsx"
+    },
+    "./joystick-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/joystick-48-bold.jsx"
     },
     "./junction-box-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17670,6 +17974,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/letter-case-48-bold.jsx"
     },
+    "./letter-spacing-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-20.jsx"
+    },
+    "./letter-spacing-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-20-bold.jsx"
+    },
+    "./letter-spacing-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-48.jsx"
+    },
+    "./letter-spacing-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-48-bold.jsx"
+    },
     "./level-crossing-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/level-crossing-20.jsx"
@@ -17798,6 +18118,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightbulb-48-bold.jsx"
     },
+    "./lightbulb-sparkle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkle-20.jsx"
+    },
+    "./lightbulb-sparkle-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkle-20-bold.jsx"
+    },
+    "./lightbulb-sparkle-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkle-48.jsx"
+    },
+    "./lightbulb-sparkle-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb-sparkle-48-bold.jsx"
+    },
     "./lighthouse-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lighthouse-20.jsx"
@@ -17845,6 +18181,22 @@
     "./line-fault-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/line-fault-48-bold.jsx"
+    },
+    "./line-height-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-20.jsx"
+    },
+    "./line-height-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-20-bold.jsx"
+    },
+    "./line-height-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-48.jsx"
+    },
+    "./line-height-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-48-bold.jsx"
     },
     "./link-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18150,6 +18502,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-48-bold.jsx"
     },
+    "./lock-check-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-check-20.jsx"
+    },
+    "./lock-check-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-check-20-bold.jsx"
+    },
+    "./lock-check-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-check-48.jsx"
+    },
+    "./lock-check-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-check-48-bold.jsx"
+    },
     "./lock-keyhole-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-keyhole-20.jsx"
@@ -18405,6 +18773,22 @@
     "./mail-search-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail-search-48-bold.jsx"
+    },
+    "./mail-unread-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-unread-20.jsx"
+    },
+    "./mail-unread-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-unread-20-bold.jsx"
+    },
+    "./mail-unread-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-unread-48.jsx"
+    },
+    "./mail-unread-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-unread-48-bold.jsx"
     },
     "./mail-x-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19078,6 +19462,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-dots-48-bold.jsx"
     },
+    "./message-heart-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-heart-20.jsx"
+    },
+    "./message-heart-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-heart-20-bold.jsx"
+    },
+    "./message-heart-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-heart-48.jsx"
+    },
+    "./message-heart-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-heart-48-bold.jsx"
+    },
     "./message-plus-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-plus-20.jsx"
@@ -19093,6 +19493,38 @@
     "./message-plus-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-plus-48-bold.jsx"
+    },
+    "./message-question-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-question-20.jsx"
+    },
+    "./message-question-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-question-20-bold.jsx"
+    },
+    "./message-question-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-question-48.jsx"
+    },
+    "./message-question-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-question-48-bold.jsx"
+    },
+    "./message-sparkle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkle-20.jsx"
+    },
+    "./message-sparkle-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkle-20-bold.jsx"
+    },
+    "./message-sparkle-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkle-48.jsx"
+    },
+    "./message-sparkle-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-sparkle-48-bold.jsx"
     },
     "./message-square-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20710,6 +21142,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/op-amp-48-bold.jsx"
     },
+    "./option-key-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-key-20.jsx"
+    },
+    "./option-key-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-key-20-bold.jsx"
+    },
+    "./option-key-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-key-48.jsx"
+    },
+    "./option-key-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/option-key-48-bold.jsx"
+    },
     "./or-gate-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/or-gate-20.jsx"
@@ -21286,6 +21734,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/parliament-48-bold.jsx"
     },
+    "./passkey-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passkey-20.jsx"
+    },
+    "./passkey-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passkey-20-bold.jsx"
+    },
+    "./passkey-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passkey-48.jsx"
+    },
+    "./passkey-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passkey-48-bold.jsx"
+    },
     "./password-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/password-20.jsx"
@@ -21493,6 +21957,22 @@
     "./pen-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pen-48-bold.jsx"
+    },
+    "./pen-sparkle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen-sparkle-20.jsx"
+    },
+    "./pen-sparkle-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen-sparkle-20-bold.jsx"
+    },
+    "./pen-sparkle-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen-sparkle-48.jsx"
+    },
+    "./pen-sparkle-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pen-sparkle-48-bold.jsx"
     },
     "./pencil-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25014,6 +25494,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/search-48-bold.jsx"
     },
+    "./search-sparkle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkle-20.jsx"
+    },
+    "./search-sparkle-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkle-20-bold.jsx"
+    },
+    "./search-sparkle-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkle-48.jsx"
+    },
+    "./search-sparkle-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-sparkle-48-bold.jsx"
+    },
     "./seaweed-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/seaweed-20.jsx"
@@ -25398,6 +25894,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-check-48-bold.jsx"
     },
+    "./shield-lock-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-lock-20.jsx"
+    },
+    "./shield-lock-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-lock-20-bold.jsx"
+    },
+    "./shield-lock-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-lock-48.jsx"
+    },
+    "./shield-lock-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-lock-48-bold.jsx"
+    },
     "./shield-off-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-off-20.jsx"
@@ -25430,6 +25942,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-plus-48-bold.jsx"
     },
+    "./shield-user-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-20.jsx"
+    },
+    "./shield-user-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-20-bold.jsx"
+    },
+    "./shield-user-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-48.jsx"
+    },
+    "./shield-user-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-48-bold.jsx"
+    },
     "./shield-x-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-x-20.jsx"
@@ -25445,6 +25973,22 @@
     "./shield-x-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-x-48-bold.jsx"
+    },
+    "./shift-key-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shift-key-20.jsx"
+    },
+    "./shift-key-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shift-key-20-bold.jsx"
+    },
+    "./shift-key-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shift-key-48.jsx"
+    },
+    "./shift-key-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shift-key-48-bold.jsx"
     },
     "./ship-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -26245,6 +26789,22 @@
     "./smartphone-check-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/smartphone-check-48-bold.jsx"
+    },
+    "./smartphone-vibrate-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-vibrate-20.jsx"
+    },
+    "./smartphone-vibrate-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-vibrate-20-bold.jsx"
+    },
+    "./smartphone-vibrate-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-vibrate-48.jsx"
+    },
+    "./smartphone-vibrate-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone-vibrate-48-bold.jsx"
     },
     "./smile-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -27125,6 +27685,38 @@
     "./spa-stones-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spa-stones-48-bold.jsx"
+    },
+    "./space-bar-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-bar-20.jsx"
+    },
+    "./space-bar-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-bar-20-bold.jsx"
+    },
+    "./space-bar-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-bar-48.jsx"
+    },
+    "./space-bar-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/space-bar-48-bold.jsx"
+    },
+    "./sparkle-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-20.jsx"
+    },
+    "./sparkle-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-20-bold.jsx"
+    },
+    "./sparkle-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-48.jsx"
+    },
+    "./sparkle-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkle-48-bold.jsx"
     },
     "./sparkles-20": {
       "types": "./types/hqrkovbr.d.ts",
@@ -28374,6 +28966,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/syringe-48-bold.jsx"
     },
+    "./tab-key-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tab-key-20.jsx"
+    },
+    "./tab-key-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tab-key-20-bold.jsx"
+    },
+    "./tab-key-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tab-key-48.jsx"
+    },
+    "./tab-key-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tab-key-48-bold.jsx"
+    },
     "./table-20": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/table-20.jsx"
@@ -28757,6 +29365,38 @@
     "./terraced-house-48-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terraced-house-48-bold.jsx"
+    },
+    "./test-tube-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube-20.jsx"
+    },
+    "./test-tube-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube-20-bold.jsx"
+    },
+    "./test-tube-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube-48.jsx"
+    },
+    "./test-tube-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/test-tube-48-bold.jsx"
+    },
+    "./text-color-20": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-color-20.jsx"
+    },
+    "./text-color-20-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-color-20-bold.jsx"
+    },
+    "./text-color-48": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-color-48.jsx"
+    },
+    "./text-color-48-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-color-48-bold.jsx"
     },
     "./text-cursor-20": {
       "types": "./types/hqrkovbr.d.ts",

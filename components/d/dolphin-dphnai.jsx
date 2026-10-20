@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mu1eihbtn.css';
+import '../../css/s/s0yhuebyd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mu1eihbtn"/>`,
+		"content": `<path class="s0yhuebyd"/>`,
 		"fallback": "thesvg-color:dolphin-dphnai",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wm9yzobix.css';
-import '../../css/n/n8hq-bb-h.css';
-import '../../css/m/mdoa6mb-r.css';
-import '../../css/a/atc9tum9k.css';
-import '../../css/q/q5-mclb4w.css';
+import '../../css/h/hzclhm7wd.css';
+import '../../css/l/lv7wocbph.css';
+import '../../css/c/cc4mncs3v.css';
+import '../../css/n/n330h3bcs.css';
 
 const viewBox = {"width":35.402,"height":11.519};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="wm9yzobix"><path class="n8hq-bb-h"/><path class="mdoa6mb-r"/><path class="atc9tum9k"/><path class="q5-mclb4w"/></g>`,
+		"content": `<path class="hzclhm7wd"/><path class="lv7wocbph"/><path class="cc4mncs3v"/><path class="n330h3bcs"/>`,
 		"fallback": "thesvg-color:oporto",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -6918,6 +6918,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/google-bigtable.jsx"
     },
+    "./google-business-profile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/google-business-profile.jsx"
+    },
     "./google-calendar": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/google-calendar.jsx"
@@ -10909,6 +10913,10 @@
     "./metamask": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/metamask.jsx"
+    },
+    "./metamcp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metamcp.jsx"
     },
     "./metasploit": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15869,6 +15877,10 @@
     "./scan": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scan.jsx"
+    },
+    "./scanfile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scanfile.jsx"
     },
     "./scania": {
       "types": "./types/hqrkovbr.d.ts",

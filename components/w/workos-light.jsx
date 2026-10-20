@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ixvuw7bjy.css';
-import '../../css/h/hy4rqvb5m.css';
-import '../../css/t/t_vp7-b6a.css';
+import '../../css/s/smc74qbot.css';
+import '../../css/u/u65_2lbpv.css';
 
 const viewBox = {"width":55.4,"height":48};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ixvuw7bjy"><path class="hy4rqvb5m"/><path class="t_vp7-b6a"/></g>`,
+		"content": `<path class="smc74qbot"/><path class="u65_2lbpv"/>`,
 		"fallback": "thesvg-color:workos-light",
 	});
 }

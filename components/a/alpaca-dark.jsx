@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qs7w7kbfr"/><path clip-rule="evenodd" class="wp17s5bha"/><path class="ref5yimac"/>`,
+		"content": `<path class="qs7w7kbfr"/><path class="wp17s5bha"/><path class="ref5yimac"/>`,
 		"fallback": "thesvg-color:alpaca-dark",
 	});
 }

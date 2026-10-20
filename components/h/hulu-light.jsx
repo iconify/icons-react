@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="trlfrfbaa"/>`,
+		"content": `<path class="trlfrfbaa"/>`,
 		"fallback": "thesvg-color:hulu-light",
 	});
 }

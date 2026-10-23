@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.51",
+  "version": "1.0.52",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2306,6 +2306,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-nim.jsx"
     },
+    "./file-type-light-noir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-noir.jsx"
+    },
     "./file-type-light-nx": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-nx.jsx"
@@ -2553,6 +2557,10 @@
     "./file-type-light-vite": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-vite.jsx"
+    },
+    "./file-type-light-viteplus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-viteplus.jsx"
     },
     "./file-type-light-vitest": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3261,6 +3269,10 @@
     "./file-type-nodemon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-nodemon.jsx"
+    },
+    "./file-type-noir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-noir.jsx"
     },
     "./file-type-npm": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4770,6 +4782,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-vite.jsx"
     },
+    "./file-type-viteplus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-viteplus.jsx"
+    },
     "./file-type-vitest": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-vitest.jsx"
@@ -5621,6 +5637,14 @@
     "./folder-type-frontcommerce-opened": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-frontcommerce-opened.jsx"
+    },
+    "./folder-type-frontend": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-frontend.jsx"
+    },
+    "./folder-type-frontend-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-frontend-opened.jsx"
     },
     "./folder-type-gcp": {
       "types": "./types/hqrkovbr.d.ts",

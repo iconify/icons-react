@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/wu9ajoqpc.css';
-import '../../css/e/eq0evh2wi.css';
-import '../../css/w/wkd69f43m.css';
+import '../../css/s/sgsol42ey.css';
+import '../../css/f/f202qswyl.css';
+import '../../css/g/g362mc32e.css';
 
-const viewBox = {"width":108,"height":63};
+const viewBox = {"width":48,"height":48};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="wu9ajoqpc"/><path clip-rule="evenodd" class="eq0evh2wi"/><path class="wkd69f43m"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="sgsol42ey"/><path clip-rule="evenodd" class="f202qswyl"/><path class="g362mc32e"/></g>`,
 		"fallback": "healthicons:baby-male-0203m-alt",
 	});
 }

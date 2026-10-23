@@ -1,10 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/t/t2k-17biz.css';
-import '../../css/c/czp-3jxtt.css';
-import '../../css/g/gdryfccos.css';
-import '../../css/o/oxtw1expr.css';
+import '../../css/n/n1lsf0bnc.css';
+import '../../css/y/ym7ym143t.css';
+import '../../css/u/uzzd8eb5t.css';
 
 const viewBox = {"width":48,"height":48};
 
@@ -15,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="t2k-17biz"/><path clip-rule="evenodd" class="czp-3jxtt"/><path clip-rule="evenodd" class="gdryfccos"/><path class="oxtw1expr"/></g>`,
+		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="ym7ym143t"/><path class="uzzd8eb5t"/></g>`,
 		"fallback": "healthicons:eyeglasses2x-outline",
 	});
 }

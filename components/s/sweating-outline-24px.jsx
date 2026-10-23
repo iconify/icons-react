@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n1lsf0bnc.css';
-import '../../css/l/leopelbhl.css';
-import '../../css/l/ltc-69bax.css';
-import '../../css/k/kltcracbk.css';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/i/iyvy9kbny.css';
+import '../../css/x/x4u8em_dw.css';
+import '../../css/y/y612qh1_g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="leopelbhl"/><path class="ltc-69bax"/><path class="kltcracbk"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="iyvy9kbny"/><path clip-rule="evenodd" class="x4u8em_dw"/><path class="y612qh1_g"/></g>`,
 		"fallback": "healthicons:sweating-outline-24px",
 	});
 }

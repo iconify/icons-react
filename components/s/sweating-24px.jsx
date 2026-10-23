@@ -1,8 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
-import '../../css/q/qeqqu_b3d.css';
-import '../../css/t/t5wljjboe.css';
+import '../../css/i/iyvy9kbny.css';
+import '../../css/x/x4u8em_dw.css';
+import '../../css/y/y612qh1_g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="qeqqu_b3d"/><path class="t5wljjboe"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="iyvy9kbny"/><path clip-rule="evenodd" class="x4u8em_dw"/><path class="y612qh1_g"/></g>`,
 		"fallback": "healthicons:sweating-24px",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
-import '../../css/q/qdi-letsc.css';
-import '../../css/u/u4-iasbfc.css';
+import '../../css/h/hvy3labqb.css';
+import '../../css/m/mbshinw4o.css';
 
 const viewBox = {"width":48,"height":48};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="qdi-letsc"/><path class="u4-iasbfc"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="hvy3labqb"/><path class="mbshinw4o"/></g>`,
 		"fallback": "healthicons:diabetes-outline",
 	});
 }

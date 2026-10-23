@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/wordpress",
   "type": "module",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "homepage": "https://icon-sets.iconify.design/wordpress/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "GPL-2.0-or-later",
@@ -89,6 +89,10 @@
     "./aspect-ratio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/aspect-ratio.jsx"
+    },
+    "./asterisk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk.jsx"
     },
     "./at-symbol": {
       "types": "./types/hqrkovbr.d.ts",
@@ -374,6 +378,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dashboard.jsx"
     },
+    "./database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database.jsx"
+    },
     "./desktop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/desktop.jsx"
@@ -433,6 +441,14 @@
     "./footer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/footer.jsx"
+    },
+    "./form-input": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/form-input.jsx"
+    },
+    "./form-select": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/form-select.jsx"
     },
     "./format-bold": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/f/f1f6jqjto.css';
+import '../../css/u/udcjzrb4o.css';
 import '../../css/n/ngy432bhd.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="f1f6jqjto"/><path class="ngy432bhd"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="udcjzrb4o"/><path class="ngy432bhd"/></g>`,
 		"fallback": "vadivam:clipboard-paste",
 	});
 }

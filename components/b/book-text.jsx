@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/svcembh9y.css';
+import '../../css/l/lhaa52bbs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="svcembh9y"/>`,
+		"content": `<path class="lhaa52bbs"/>`,
 		"fallback": "vadivam:book-text",
 	});
 }

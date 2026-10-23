@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/w/w3xd78b5b.css';
-import '../../css/p/pjr0yofbb.css';
+import '../../css/o/oj81mjbax.css';
+import '../../css/e/euml0szyx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="w3xd78b5b"/><path class="pjr0yofbb"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="oj81mjbax"/><path class="euml0szyx"/></g>`,
 		"fallback": "vadivam:calendar-check",
 	});
 }

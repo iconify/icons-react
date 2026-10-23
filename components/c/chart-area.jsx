@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/n/nmfpvvbxr.css';
-import '../../css/j/j9wrs-0li.css';
+import '../../css/t/ttdtw9bcz.css';
+import '../../css/z/zq2yh0ibb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="nmfpvvbxr"/><path class="j9wrs-0li"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="ttdtw9bcz"/><path class="zq2yh0ibb"/></g>`,
 		"fallback": "vadivam:chart-area",
 	});
 }

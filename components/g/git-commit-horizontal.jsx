@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qhh4z_b-r.css';
+import '../../css/g/gb1v_judf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qhh4z_b-r"/>`,
+		"content": `<path class="gb1v_judf"/>`,
 		"fallback": "vadivam:git-commit-horizontal",
 	});
 }

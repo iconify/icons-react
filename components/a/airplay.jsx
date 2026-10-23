@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vv0b3shvv.css';
+import '../../css/n/nrj6p8qat.css';
+import '../../css/y/y3kyshcjn.css';
+import '../../css/i/iibxckbiy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vv0b3shvv"/>`,
+		"content": `<g class="nrj6p8qat"><path class="y3kyshcjn"/><path class="iibxckbiy"/></g>`,
 		"fallback": "vadivam:airplay",
 	});
 }

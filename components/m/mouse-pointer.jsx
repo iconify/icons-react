@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p-8gb9b7s.css';
+import '../../css/m/m5e-wnbhe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p-8gb9b7s"/>`,
+		"content": `<path class="m5e-wnbhe"/>`,
 		"fallback": "vadivam:mouse-pointer",
 	});
 }

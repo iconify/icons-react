@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qxfn2sbdi.css';
+import '../../css/s/serxxpm-w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qxfn2sbdi"/>`,
+		"content": `<path class="serxxpm-w"/>`,
 		"fallback": "vadivam:app-window-mac",
 	});
 }

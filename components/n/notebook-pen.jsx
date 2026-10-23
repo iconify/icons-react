@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/m/m-mlrpb0q.css';
-import '../../css/v/v49xjtb4k.css';
+import '../../css/l/lbepd9wuj.css';
+import '../../css/v/vp9e6ghiw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="m-mlrpb0q"/><path class="v49xjtb4k"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="lbepd9wuj"/><path class="vp9e6ghiw"/></g>`,
 		"fallback": "vadivam:notebook-pen",
 	});
 }

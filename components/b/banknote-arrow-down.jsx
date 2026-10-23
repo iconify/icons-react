@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gae93nb_y.css';
+import '../../css/t/t5czkc27m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gae93nb_y"/>`,
+		"content": `<path class="t5czkc27m"/>`,
 		"fallback": "vadivam:banknote-arrow-down",
 	});
 }

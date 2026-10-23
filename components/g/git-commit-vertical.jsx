@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tlm3xgzsb.css';
+import '../../css/l/l3ma8esqd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tlm3xgzsb"/>`,
+		"content": `<path class="l3ma8esqd"/>`,
 		"fallback": "vadivam:git-commit-vertical",
 	});
 }

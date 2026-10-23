@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eff8rj4kv.css';
+import '../../css/p/pologh-tb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eff8rj4kv"/>`,
+		"content": `<path class="pologh-tb"/>`,
 		"fallback": "vadivam:bug",
 	});
 }

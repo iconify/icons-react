@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s_56zubbf.css';
+import '../../css/s/sztj6tbqc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s_56zubbf"/>`,
+		"content": `<path class="sztj6tbqc"/>`,
 		"fallback": "vadivam:chart-pie",
 	});
 }

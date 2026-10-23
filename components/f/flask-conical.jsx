@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lke22-_uq.css';
+import '../../css/d/di3bevppd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lke22-_uq"/>`,
+		"content": `<path class="di3bevppd"/>`,
 		"fallback": "vadivam:flask-conical",
 	});
 }

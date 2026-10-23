@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/io0x69bds.css';
+import '../../css/b/bysvin3rw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="io0x69bds"/>`,
+		"content": `<path class="bysvin3rw"/>`,
 		"fallback": "vadivam:square-chart-gantt",
 	});
 }

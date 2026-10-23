@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ihldf-44r.css';
+import '../../css/j/js_u-mblx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ihldf-44r"/>`,
+		"content": `<path class="js_u-mblx"/>`,
 		"fallback": "vadivam:monitor",
 	});
 }

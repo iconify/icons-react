@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rvavl4bcd.css';
+import '../../css/x/xml7hobsf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rvavl4bcd"/>`,
+		"content": `<path class="xml7hobsf"/>`,
 		"fallback": "vadivam:calendar-days",
 	});
 }

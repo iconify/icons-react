@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ap4pzbctu.css';
+import '../../css/j/jm8pl7bvy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ap4pzbctu"/>`,
+		"content": `<path class="jm8pl7bvy"/>`,
 		"fallback": "vadivam:gamepad-2",
 	});
 }

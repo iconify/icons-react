@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/awabflslf.css';
+import '../../css/t/t-v_a5bwv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="awabflslf"/>`,
+		"content": `<path class="t-v_a5bwv"/>`,
 		"fallback": "vadivam:panel-right",
 	});
 }

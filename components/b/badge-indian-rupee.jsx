@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/u/ug-s88biv.css';
+import '../../css/x/xwtioqv7r.css';
 import '../../css/c/c_9kcibbk.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="ug-s88biv"/><path class="c_9kcibbk"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="xwtioqv7r"/><path class="c_9kcibbk"/></g>`,
 		"fallback": "vadivam:badge-indian-rupee",
 	});
 }

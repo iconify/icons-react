@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ia3-xqytu.css';
+import '../../css/x/xax2ld-hf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ia3-xqytu"/>`,
+		"content": `<path class="xax2ld-hf"/>`,
 		"fallback": "vadivam:file-chart-column-increasing",
 	});
 }

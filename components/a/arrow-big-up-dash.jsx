@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ldyabcciw.css';
+import '../../css/l/la3g_rb9a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ldyabcciw"/>`,
+		"content": `<path class="la3g_rb9a"/>`,
 		"fallback": "vadivam:arrow-big-up-dash",
 	});
 }

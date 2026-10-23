@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cwsdt-b2o.css';
+import '../../css/n/nrj6p8qat.css';
+import '../../css/b/bsrv_kbua.css';
+import '../../css/t/twty1ix1d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cwsdt-b2o"/>`,
+		"content": `<g class="nrj6p8qat"><path class="bsrv_kbua"/><path class="twty1ix1d"/></g>`,
 		"fallback": "vadivam:siren",
 	});
 }

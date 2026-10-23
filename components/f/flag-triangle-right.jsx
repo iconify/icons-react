@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wjeytpgtn.css';
+import '../../css/d/dm-xv_9uy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wjeytpgtn"/>`,
+		"content": `<path class="dm-xv_9uy"/>`,
 		"fallback": "vadivam:flag-triangle-right",
 	});
 }

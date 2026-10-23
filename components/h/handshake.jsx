@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/g/gouvh-bgo.css';
+import '../../css/w/wlqo8j6qy.css';
 import '../../css/h/h3efcf3fr.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="gouvh-bgo"/><path class="h3efcf3fr"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="wlqo8j6qy"/><path class="h3efcf3fr"/></g>`,
 		"fallback": "vadivam:handshake",
 	});
 }

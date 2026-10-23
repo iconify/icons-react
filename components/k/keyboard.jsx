@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xp1ewknav.css';
+import '../../css/l/lt-hzv5tk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xp1ewknav"/>`,
+		"content": `<path class="lt-hzv5tk"/>`,
 		"fallback": "vadivam:keyboard",
 	});
 }

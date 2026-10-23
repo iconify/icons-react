@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sdne1qt2h.css';
+import '../../css/o/oi37w--vt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sdne1qt2h"/>`,
+		"content": `<path class="oi37w--vt"/>`,
 		"fallback": "vadivam:wrench",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dkti_bbwb.css';
+import '../../css/f/ff9-qubkc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dkti_bbwb"/>`,
+		"content": `<path class="ff9-qubkc"/>`,
 		"fallback": "vadivam:popcorn",
 	});
 }

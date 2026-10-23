@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fjc28qb5f.css';
+import '../../css/q/qgc7ehb4h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fjc28qb5f"/>`,
+		"content": `<path class="qgc7ehb4h"/>`,
 		"fallback": "vadivam:bluetooth",
 	});
 }

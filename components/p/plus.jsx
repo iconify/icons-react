@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ug6dl0bdc.css';
+import '../../css/n/ndf-brtro.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ug6dl0bdc"/>`,
+		"content": `<path class="ndf-brtro"/>`,
 		"fallback": "vadivam:plus",
 	});
 }

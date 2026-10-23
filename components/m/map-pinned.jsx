@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/is090zbep.css';
+import '../../css/r/rtbtnqxii.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="is090zbep"/>`,
+		"content": `<path class="rtbtnqxii"/>`,
 		"fallback": "vadivam:map-pinned",
 	});
 }

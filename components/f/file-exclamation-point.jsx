@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mbi3rb6_v.css';
+import '../../css/z/z7r6s5lmi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mbi3rb6_v"/>`,
+		"content": `<path class="z7r6s5lmi"/>`,
 		"fallback": "vadivam:file-exclamation-point",
 	});
 }

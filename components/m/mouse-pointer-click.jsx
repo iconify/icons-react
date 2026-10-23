@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/djaq13bfs.css';
+import '../../css/r/r4pj5ib5h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="djaq13bfs"/>`,
+		"content": `<path class="r4pj5ib5h"/>`,
 		"fallback": "vadivam:mouse-pointer-click",
 	});
 }

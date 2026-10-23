@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zpho4wbxo.css';
+import '../../css/m/m80_ws04e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zpho4wbxo"/>`,
+		"content": `<path class="m80_ws04e"/>`,
 		"fallback": "vadivam:wallet",
 	});
 }

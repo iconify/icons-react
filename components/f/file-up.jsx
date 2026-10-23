@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g7tq-ebjp.css';
+import '../../css/p/pc_mvgbxv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g7tq-ebjp"/>`,
+		"content": `<path class="pc_mvgbxv"/>`,
 		"fallback": "vadivam:file-up",
 	});
 }

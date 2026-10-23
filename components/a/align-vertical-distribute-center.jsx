@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ocj-alamt.css';
+import '../../css/v/vhkqh8bpz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ocj-alamt"/>`,
+		"content": `<path class="vhkqh8bpz"/>`,
 		"fallback": "vadivam:align-vertical-distribute-center",
 	});
 }

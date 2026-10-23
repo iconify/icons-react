@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xogm_7b8p.css';
+import '../../css/u/ug1puvbol.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xogm_7b8p"/>`,
+		"content": `<path class="ug1puvbol"/>`,
 		"fallback": "vadivam:layout-dashboard",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/q/qp53u5ikk.css';
+import '../../css/f/fy3104bcz.css';
 import '../../css/f/f6nx0f01y.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="qp53u5ikk"/><path class="f6nx0f01y"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="fy3104bcz"/><path class="f6nx0f01y"/></g>`,
 		"fallback": "vadivam:bell-check",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cc24mdbim.css';
+import '../../css/z/zp4cv6rlt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cc24mdbim"/>`,
+		"content": `<path class="zp4cv6rlt"/>`,
 		"fallback": "vadivam:signature",
 	});
 }

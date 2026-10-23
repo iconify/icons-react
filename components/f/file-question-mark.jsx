@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pv8cbs0ht.css';
+import '../../css/s/skjqw1bpg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pv8cbs0ht"/>`,
+		"content": `<path class="skjqw1bpg"/>`,
 		"fallback": "vadivam:file-question-mark",
 	});
 }

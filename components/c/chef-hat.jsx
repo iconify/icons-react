@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sbp_cdbbx.css';
+import '../../css/b/bgptf3xic.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sbp_cdbbx"/>`,
+		"content": `<path class="bgptf3xic"/>`,
 		"fallback": "vadivam:chef-hat",
 	});
 }

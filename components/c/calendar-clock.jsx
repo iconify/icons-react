@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/f/flqpksb2m.css';
-import '../../css/b/bfmigqbus.css';
-import '../../css/f/fqe-cmx_g.css';
+import '../../css/n/nlnjivm0k.css';
+import '../../css/n/ne97iz-kz.css';
+import '../../css/w/w30fyozde.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="flqpksb2m"/><path class="bfmigqbus"/><path class="fqe-cmx_g"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="nlnjivm0k"/><path class="ne97iz-kz"/><path class="w30fyozde"/></g>`,
 		"fallback": "vadivam:calendar-clock",
 	});
 }

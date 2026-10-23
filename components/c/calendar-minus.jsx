@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/voswg_4lh.css';
+import '../../css/e/ejfoeuq_x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="voswg_4lh"/>`,
+		"content": `<path class="ejfoeuq_x"/>`,
 		"fallback": "vadivam:calendar-minus",
 	});
 }

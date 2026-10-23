@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e76g5pbeg.css';
+import '../../css/d/d2scli3dm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e76g5pbeg"/>`,
+		"content": `<path class="d2scli3dm"/>`,
 		"fallback": "vadivam:file-chart-column",
 	});
 }

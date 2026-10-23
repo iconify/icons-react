@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/h/h_wubfbjb.css';
-import '../../css/q/qzb9ftb2f.css';
+import '../../css/e/enqzwbcfk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="h_wubfbjb"/><path class="qzb9ftb2f"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="h_wubfbjb"/><path class="enqzwbcfk"/></g>`,
 		"fallback": "vadivam:baggage-claim",
 	});
 }

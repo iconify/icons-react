@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/k/kimja1bft.css';
-import '../../css/h/hkr50px7g.css';
+import '../../css/p/polqfrbcx.css';
+import '../../css/w/wsfw4vbcn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="kimja1bft"/><path class="hkr50px7g"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="polqfrbcx"/><path class="wsfw4vbcn"/></g>`,
 		"fallback": "andrsrxn:land-plot",
 	});
 }

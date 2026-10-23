@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/f/fvjyl1y0k.css';
-import '../../css/g/gu1pn8bqq.css';
-import '../../css/q/q2myxkb3v.css';
-import '../../css/k/k64spkeqe.css';
+import '../../css/m/m4rzi2n8a.css';
+import '../../css/b/b8yyhsbiz.css';
+import '../../css/y/yj-jouauh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="fvjyl1y0k"/><path class="gu1pn8bqq"/><path class="q2myxkb3v"/><path class="k64spkeqe"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="m4rzi2n8a"/><path class="b8yyhsbiz"/><path class="yj-jouauh"/></g>`,
 		"fallback": "andrsrxn:chair-office",
 	});
 }

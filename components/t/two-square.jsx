@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/d/dz5hr8fgm.css';
 import '../../css/f/fpuyb9bst.css';
-import '../../css/h/hp52fsb-b.css';
+import '../../css/j/je33dhbkq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="rotate(90 0 21.58)scale(-1 1)" class="dz5hr8fgm"/><rect transform="rotate(90 0 21.58)scale(-1 1)" class="fpuyb9bst"/><path class="hp52fsb-b"/></g>`,
+		"content": `<g class="ft5dv1b6b"><rect transform="rotate(90 0 21.58)scale(-1 1)" class="dz5hr8fgm"/><rect transform="rotate(90 0 21.58)scale(-1 1)" class="fpuyb9bst"/><path class="je33dhbkq"/></g>`,
 		"fallback": "andrsrxn:two-square",
 	});
 }

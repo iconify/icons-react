@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-icon-theme",
   "type": "module",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "homepage": "https://icon-sets.iconify.design/material-icon-theme/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -3697,6 +3697,10 @@
     "./pdm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pdm.jsx"
+    },
+    "./peg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/peg.jsx"
     },
     "./percy": {
       "types": "./types/hqrkovbr.d.ts",

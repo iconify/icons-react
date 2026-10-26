@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u-c86pphd.css';
+import '../../css/g/gach_ob4x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u-c86pphd"/>`,
+		"content": `<path class="gach_ob4x"/>`,
 		"fallback": "cbi:nextcloud",
 	});
 }

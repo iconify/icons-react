@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/py-ddmbrt.css';
+import '../../css/d/d1z63pbhs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="py-ddmbrt"/>`,
+		"content": `<path class="d1z63pbhs"/>`,
 		"fallback": "cbi:smart-camera",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon-plain",
   "type": "module",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "homepage": "https://icon-sets.iconify.design/devicon-plain/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2845,6 +2845,10 @@
     "./tmux-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tmux-wordmark.jsx"
+    },
+    "./toml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toml.jsx"
     },
     "./tortoisegit": {
       "types": "./types/hqrkovbr.d.ts",

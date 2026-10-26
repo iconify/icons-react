@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/simple-icons",
   "type": "module",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "homepage": "https://icon-sets.iconify.design/simple-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -5645,6 +5645,10 @@
     "./happycow": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/happycow.jsx"
+    },
+    "./haproxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/haproxy.jsx"
     },
     "./harbor": {
       "types": "./types/hqrkovbr.d.ts",

@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="aywch1mse"/><path clip-rule="evenodd" class="ovj99gbqx"/><path class="q0upuzb_s"/>`,
+		"content": `<path class="aywch1mse"/><path class="ovj99gbqx"/><path class="q0upuzb_s"/>`,
 		"fallback": "thesvg:alpaca",
 	});
 }

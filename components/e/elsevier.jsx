@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ad55pdbit.css';
+import '../../css/v/v886au8qv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ad55pdbit"/>`,
+		"content": `<path class="v886au8qv"/>`,
 		"fallback": "thesvg:elsevier",
 	});
 }

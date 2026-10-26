@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/lmmvpew-x.css';
-import '../../css/z/zbkydgbar.css';
+import '../../css/k/khc6856kd.css';
+import '../../css/o/oel1jvbgo.css';
 
 const viewBox = {"width":64,"height":42};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="lmmvpew-x"/><path class="zbkydgbar"/></g>`,
+		"content": `<path class="khc6856kd"/><path class="oel1jvbgo"/>`,
 		"fallback": "thesvg:productboard",
 	});
 }

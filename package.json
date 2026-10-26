@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -850,6 +850,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apollo-graphql.jsx"
     },
+    "./apollodotio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apollodotio.jsx"
+    },
     "./apostrophe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apostrophe.jsx"
@@ -1550,6 +1554,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bitdefender.jsx"
     },
+    "./bitkit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bitkit.jsx"
+    },
     "./bitly": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bitly.jsx"
@@ -1850,6 +1858,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/buildkite.jsx"
     },
+    "./buildpacks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/buildpacks.jsx"
+    },
     "./builtbybit": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/builtbybit.jsx"
@@ -2090,6 +2102,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cerebras.jsx"
     },
+    "./cert-manager": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cert-manager.jsx"
+    },
     "./cesium": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cesium.jsx"
@@ -2121,6 +2137,10 @@
     "./channel-4": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/channel-4.jsx"
+    },
+    "./chaos-mesh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chaos-mesh.jsx"
     },
     "./charles": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2373,6 +2393,10 @@
     "./cloudera": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloudera.jsx"
+    },
+    "./cloudevents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloudevents.jsx"
     },
     "./cloudflare": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2734,6 +2758,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/continente.jsx"
     },
+    "./contour": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contour.jsx"
+    },
     "./contributor-covenant": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contributor-covenant.jsx"
@@ -2881,6 +2909,10 @@
     "./crewai": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crewai.jsx"
+    },
+    "./cri-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cri-o.jsx"
     },
     "./critical-role": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3470,6 +3502,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/docusaurus.jsx"
     },
+    "./docuseal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docuseal.jsx"
+    },
     "./dodo-payments": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dodo-payments.jsx"
@@ -3982,6 +4018,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ethereum.jsx"
     },
+    "./etherpad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/etherpad.jsx"
+    },
     "./ethers": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ethers.jsx"
@@ -4349,6 +4389,10 @@
     "./fizz": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fizz.jsx"
+    },
+    "./flame": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flame.jsx"
     },
     "./flashforge": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5037,6 +5081,10 @@
     "./godaddy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/godaddy.jsx"
+    },
+    "./godonateme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/godonateme.jsx"
     },
     "./godot": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6126,6 +6174,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/improvmx.jsx"
     },
+    "./in-toto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/in-toto.jsx"
+    },
     "./inception-labs": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inception-labs.jsx"
@@ -6698,6 +6750,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/karma.jsx"
     },
+    "./karmada": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/karmada.jsx"
+    },
     "./kasa-smart": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kasa-smart.jsx"
@@ -6986,6 +7042,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/krita.jsx"
     },
+    "./kserve": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kserve.jsx"
+    },
     "./ktm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/ktm.jsx"
@@ -6998,6 +7058,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kuaishou.jsx"
     },
+    "./kubeedge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubeedge.jsx"
+    },
     "./kubeflow": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kubeflow.jsx"
@@ -7006,9 +7070,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kubernetes.jsx"
     },
+    "./kubescape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubescape.jsx"
+    },
     "./kubespray": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kubespray.jsx"
+    },
+    "./kubevela": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kubevela.jsx"
     },
     "./kubuntu": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7674,6 +7746,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/magasins-u.jsx"
     },
+    "./mage-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mage-ai.jsx"
+    },
     "./magic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/magic.jsx"
@@ -8082,6 +8158,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/metro-de-madrid.jsx"
     },
+    "./metube": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/metube.jsx"
+    },
     "./mewe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mewe.jsx"
@@ -8113,6 +8193,10 @@
     "./microsoft-bing": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microsoft-bing.jsx"
+    },
+    "./microsoft-copilot-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoft-copilot-legacy.jsx"
     },
     "./microstation": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8322,6 +8406,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monica.jsx"
     },
+    "./monitixx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitixx.jsx"
+    },
     "./monkey-tie": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monkey-tie.jsx"
@@ -8497,6 +8585,10 @@
     "./n8n": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/n8n.jsx"
+    },
+    "./n8n-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/n8n-legacy.jsx"
     },
     "./namebase": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9106,6 +9198,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/oculus.jsx"
     },
+    "./oddinpay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oddinpay.jsx"
+    },
     "./odido": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/odido.jsx"
@@ -9210,6 +9306,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/open-containers-initiative.jsx"
     },
+    "./open-policy-agent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-policy-agent.jsx"
+    },
     "./open-source-hardware": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/open-source-hardware.jsx"
@@ -9265,6 +9365,10 @@
     "./opencode": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opencode.jsx"
+    },
+    "./opencost": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencost.jsx"
     },
     "./opencritic": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9569,6 +9673,10 @@
     "./pagseguro": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pagseguro.jsx"
+    },
+    "./pairdrop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pairdrop.jsx"
     },
     "./palantir": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10210,6 +10318,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/posthog.jsx"
     },
+    "./posthog-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/posthog-legacy.jsx"
+    },
     "./postiz": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/postiz.jsx"
@@ -10437,6 +10549,10 @@
     "./pubg": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pubg.jsx"
+    },
+    "./pubky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pubky.jsx"
     },
     "./publons": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10765,6 +10881,10 @@
     "./rakuten-kobo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rakuten-kobo.jsx"
+    },
+    "./rallly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rallly.jsx"
     },
     "./ralph-lauren": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11405,6 +11525,10 @@
     "./ryanair": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/ryanair.jsx"
+    },
+    "./rybbit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rybbit.jsx"
     },
     "./rye": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12234,6 +12358,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spicedb.jsx"
     },
+    "./spiffe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spiffe.jsx"
+    },
     "./spigotmc": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spigotmc.jsx"
@@ -12538,6 +12666,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stremio.jsx"
     },
+    "./strimzi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strimzi.jsx"
+    },
     "./stripe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stripe.jsx"
@@ -12750,6 +12882,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/synology.jsx"
     },
+    "./synonym": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/synonym.jsx"
+    },
     "./system76": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/system76.jsx"
@@ -12769,6 +12905,10 @@
     "./tado": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tado.jsx"
+    },
+    "./tahcia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tahcia.jsx"
     },
     "./taichi-graphics": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12817,6 +12957,10 @@
     "./tampermonkey": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tampermonkey.jsx"
+    },
+    "./tandoor-recipes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tandoor-recipes.jsx"
     },
     "./tanstack": {
       "types": "./types/hqrkovbr.d.ts",

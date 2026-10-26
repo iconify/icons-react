@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/egv8nrbut.css';
+import '../../css/i/i4977lbqh.css';
 
-const viewBox = {"width":24,"height":24};
+const viewBox = {"width":240,"height":96};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="egv8nrbut"/>`,
+		"content": `<path class="i4977lbqh"/>`,
 		"fallback": "thesvg:n8n",
 	});
 }

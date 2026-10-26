@@ -1,6 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dj4ohyv-i.css';
+import '../../css/c/cuyn6tgcc.css';
+import '../../css/v/vr982qbdx.css';
+import '../../css/z/zso2mq8uq.css';
+import '../../css/v/v7-gd_czh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dj4ohyv-i"/>`,
+		"content": `<g class="cuyn6tgcc"><path class="vr982qbdx"/><path clip-rule="evenodd" class="zso2mq8uq"/><path class="v7-gd_czh"/></g>`,
 		"fallback": "healthicons:face-neutral-outline-24px",
 	});
 }

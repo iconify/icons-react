@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/healthicons",
   "type": "module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://icon-sets.iconify.design/healthicons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -185,6 +185,38 @@
     "./accident-and-emergency-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/accident-and-emergency-outline.jsx"
+    },
+    "./acupuncture-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-1.jsx"
+    },
+    "./acupuncture-1-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-1-outline.jsx"
+    },
+    "./acupuncture-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-2.jsx"
+    },
+    "./acupuncture-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-2-outline.jsx"
+    },
+    "./acupuncture-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-3.jsx"
+    },
+    "./acupuncture-3-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-3-outline.jsx"
+    },
+    "./acupuncture-4": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-4.jsx"
+    },
+    "./acupuncture-4-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/acupuncture-4-outline.jsx"
     },
     "./admissions": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1442,6 +1474,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/body-outline-24px.jsx"
     },
+    "./bone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone.jsx"
+    },
+    "./bone-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone-24px.jsx"
+    },
+    "./bone-long": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone-long.jsx"
+    },
+    "./bone-long-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone-long-24px.jsx"
+    },
+    "./bone-long-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone-long-outline.jsx"
+    },
+    "./bone-long-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone-long-outline-24px.jsx"
+    },
+    "./bone-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone-outline.jsx"
+    },
+    "./bone-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bone-outline-24px.jsx"
+    },
     "./book": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book.jsx"
@@ -1485,6 +1549,30 @@
     "./boy-1015y-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/boy-1015y-outline.jsx"
+    },
+    "./braces": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/braces.jsx"
+    },
+    "./braces-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/braces-outline.jsx"
+    },
+    "./breast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/breast.jsx"
+    },
+    "./breast-cancer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/breast-cancer.jsx"
+    },
+    "./breast-cancer-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/breast-cancer-outline.jsx"
+    },
+    "./breast-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/breast-outline.jsx"
     },
     "./breast-pump": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1593,6 +1681,14 @@
     "./calm-negative": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calm-negative.jsx"
+    },
+    "./camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera.jsx"
+    },
+    "./camera-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-outline.jsx"
     },
     "./cancel": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2902,6 +2998,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dental-hygiene-outline.jsx"
     },
+    "./dermatology": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dermatology.jsx"
+    },
+    "./dermatology-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dermatology-outline.jsx"
+    },
     "./desktop-app": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/desktop-app.jsx"
@@ -2993,6 +3097,22 @@
     "./dialysis": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dialysis.jsx"
+    },
+    "./dialysis-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialysis-alt.jsx"
+    },
+    "./dialysis-alt-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialysis-alt-24px.jsx"
+    },
+    "./dialysis-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialysis-alt-outline.jsx"
+    },
+    "./dialysis-alt-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialysis-alt-outline-24px.jsx"
     },
     "./dialysis-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4506,6 +4626,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/happy-negative.jsx"
     },
+    "./happy-sleepy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/happy-sleepy.jsx"
+    },
+    "./happy-sleepy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/happy-sleepy-outline.jsx"
+    },
     "./hazardous": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hazardous.jsx"
@@ -4793,6 +4921,22 @@
     "./heartbeat-outline-24px": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heartbeat-outline-24px.jsx"
+    },
+    "./heat-therapy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heat-therapy.jsx"
+    },
+    "./heat-therapy-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heat-therapy-24px.jsx"
+    },
+    "./heat-therapy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heat-therapy-outline.jsx"
+    },
+    "./heat-therapy-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heat-therapy-outline-24px.jsx"
     },
     "./height": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5862,6 +6006,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/life-science-outline-24px.jsx"
     },
+    "./liquid-medicine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/liquid-medicine.jsx"
+    },
+    "./liquid-medicine-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/liquid-medicine-outline.jsx"
+    },
     "./liver": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/liver.jsx"
@@ -6282,6 +6434,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/masked-negative.jsx"
     },
+    "./maxillofacial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maxillofacial.jsx"
+    },
+    "./maxillofacial-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maxillofacial-outline.jsx"
+    },
     "./measles-negative": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/measles-negative.jsx"
@@ -6461,6 +6621,14 @@
     "./mental-health-outline-24px": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mental-health-outline-24px.jsx"
+    },
+    "./mental-health-therapy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mental-health-therapy.jsx"
+    },
+    "./mental-health-therapy-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mental-health-therapy-outline.jsx"
     },
     "./microscope": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8938,6 +9106,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/skin-cancer-outline.jsx"
     },
+    "./skin-layers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skin-layers.jsx"
+    },
+    "./skin-layers-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skin-layers-outline.jsx"
+    },
     "./skull": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/skull.jsx"
@@ -9825,6 +10001,14 @@
     "./tooth-outline-24px": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tooth-outline-24px.jsx"
+    },
+    "./topical-medicine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/topical-medicine.jsx"
+    },
+    "./topical-medicine-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/topical-medicine-outline.jsx"
     },
     "./transgender": {
       "types": "./types/hqrkovbr.d.ts",

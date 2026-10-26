@@ -1,11 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d__9kbylk.css';
-import '../../css/u/uolzbmrxs.css';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/d/d2kvgvbvc.css';
 import '../../css/c/cuyn6tgcc.css';
-import '../../css/k/kzsrsccfe.css';
+import '../../css/d/d__9kbylk.css';
+import '../../css/p/peo_w4jfv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><path id="SVGZg2WPbqn" class="d__9kbylk"/><path id="SVGFXsCmRkG" class="uolzbmrxs"/></defs><mask id="SVG2elAudDJ" class="ft5dv1b6b"><use href="#SVGZg2WPbqn"/><use href="#SVGFXsCmRkG" clip-rule="evenodd" class="d2kvgvbvc"/></mask><g class="cuyn6tgcc"><use href="#SVGZg2WPbqn"/><use href="#SVGFXsCmRkG" clip-rule="evenodd" class="d2kvgvbvc"/><path mask="url(#SVG2elAudDJ)" class="kzsrsccfe"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="d__9kbylk"/><path clip-rule="evenodd" class="peo_w4jfv"/></g>`,
 		"fallback": "healthicons:medicines-24px",
 	});
 }

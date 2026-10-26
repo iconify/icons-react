@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s_771mbpw.css';
+import '../../css/h/hh4nadbea.css';
 
 const viewBox = {"width":48,"height":48};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="s_771mbpw"/>`,
+		"content": `<path clip-rule="evenodd" class="hh4nadbea"/>`,
 		"fallback": "healthicons:animal-donkey2x-outline",
 	});
 }

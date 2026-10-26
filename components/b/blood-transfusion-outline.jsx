@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/khwbfjzui.css';
+import '../../css/i/imhg5cbbj.css';
 
 const viewBox = {"width":48,"height":48};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="khwbfjzui"/>`,
+		"content": `<path clip-rule="evenodd" class="imhg5cbbj"/>`,
 		"fallback": "healthicons:blood-transfusion-outline",
 	});
 }

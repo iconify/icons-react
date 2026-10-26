@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hdqw21o2b.css';
+import '../../css/o/oso_04bvg.css';
 
 const viewBox = {"width":48,"height":48};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hdqw21o2b"/>`,
+		"content": `<path class="oso_04bvg"/>`,
 		"fallback": "healthicons:cpap-masks-outline",
 	});
 }

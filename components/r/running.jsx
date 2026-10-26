@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cuyn6tgcc.css';
-import '../../css/n/nkj4d1bgu.css';
+import '../../css/s/s6rk1o_-t.css';
 import '../../css/b/b7cnvjx-i.css';
 
 const viewBox = {"width":48,"height":48};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="nkj4d1bgu"/><path class="b7cnvjx-i"/></g>`,
+		"content": `<g class="cuyn6tgcc"><path class="s6rk1o_-t"/><path class="b7cnvjx-i"/></g>`,
 		"fallback": "healthicons:running",
 	});
 }

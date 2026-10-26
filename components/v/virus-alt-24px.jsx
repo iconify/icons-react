@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x6f0_zbti.css';
+import '../../css/t/tg2o60bfc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="x6f0_zbti"/>`,
+		"content": `<path clip-rule="evenodd" class="tg2o60bfc"/>`,
 		"fallback": "healthicons:virus-alt-24px",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rh9gwwb1a.css';
+import '../../css/x/xd0vvtb1y.css';
 
 const viewBox = {"width":48,"height":48};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="rh9gwwb1a"/>`,
+		"content": `<path clip-rule="evenodd" class="xd0vvtb1y"/>`,
 		"fallback": "healthicons:close-policy-gaps-alt-outline",
 	});
 }

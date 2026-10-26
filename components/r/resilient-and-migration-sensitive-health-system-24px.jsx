@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tgexy272d.css';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/e/ei5__42ey.css';
+import '../../css/h/h2zfnvgut.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><path id="SVGRpELTb9u" class="tgexy272d"/></defs><mask id="SVGGK5dLbpI" class="ft5dv1b6b"><use href="#SVGRpELTb9u"/></mask><g class="cuyn6tgcc"><use href="#SVGRpELTb9u"/><path mask="url(#SVGGK5dLbpI)" class="ei5__42ey"/></g>`,
+		"content": `<path class="h2zfnvgut"/>`,
 		"fallback": "healthicons:resilient-and-migration-sensitive-health-system-24px",
 	});
 }

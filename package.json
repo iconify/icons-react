@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -3845,6 +3845,14 @@
     "./countingworks-pro": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/countingworks-pro.jsx"
+    },
+    "./countly-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/countly-dark.jsx"
+    },
+    "./countly-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/countly-light.jsx"
     },
     "./coupang": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11802,9 +11810,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/n26.jsx"
     },
-    "./n8n": {
+    "./n8n-dark": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/n/n8n.jsx"
+      "default": "./components/n/n8n-dark.jsx"
+    },
+    "./n8n-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/n8n-legacy.jsx"
+    },
+    "./n8n-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/n8n-light.jsx"
     },
     "./nab": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12622,6 +12638,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/oddinpay.jsx"
     },
+    "./oddinpay-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oddinpay-dark.jsx"
+    },
+    "./oddinpay-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oddinpay-light.jsx"
+    },
     "./odido": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/odido.jsx"
@@ -12929,6 +12953,14 @@
     "./openproject": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/openproject.jsx"
+    },
+    "./openreplay-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openreplay-dark.jsx"
+    },
+    "./openreplay-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openreplay-light.jsx"
     },
     "./openrouter-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -14177,6 +14209,10 @@
     "./posthog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/posthog.jsx"
+    },
+    "./posthog-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/posthog-legacy.jsx"
     },
     "./postiz": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15729,6 +15765,14 @@
     "./ryanair": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/ryanair.jsx"
+    },
+    "./rybbit-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rybbit-dark.jsx"
+    },
+    "./rybbit-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rybbit-light.jsx"
     },
     "./rye": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18902,6 +18946,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/usdc.jsx"
     },
+    "./userpilot-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/userpilot-dark.jsx"
+    },
+    "./userpilot-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/userpilot-light.jsx"
+    },
     "./uservoice": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/uservoice.jsx"
@@ -20605,6 +20657,10 @@
     "./mastra": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mastra.jsx"
+    },
+    "./n8n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/n8n.jsx"
     },
     "./*": "./*"
   },

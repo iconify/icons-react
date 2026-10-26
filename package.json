@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.52",
+  "version": "1.0.53",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -765,6 +765,10 @@
     "./file-type-cucumber": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-cucumber.jsx"
+    },
+    "./file-type-cucumberconfig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-cucumberconfig.jsx"
     },
     "./file-type-cuda": {
       "types": "./types/hqrkovbr.d.ts",

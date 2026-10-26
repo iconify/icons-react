@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.atpuzho3g {
+  d: path("M4 11L20 11C21.6569 11 23 12.3431 23 14C23 15.6569 21.6569 17 20 17L4 17C2.3431 17 1 15.6569 1 14C1 12.3431 2.3431 11 4 11Z");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.r82v1ymoe {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  fill-rule: evenodd;
+  d: path("M3.0549 12C3.0183 11.6679 2.9999 11.3341 3 11C3 6.0294 7.0294 2 12 2C16.9706 2 21 6.0294 21 11C21.0001 11.3341 20.9817 11.6679 20.9451 12L3.0549 12ZM3 16C3 15.4477 3.4477 15 4 15L20 15C20.5523 15 21 15.4477 21 16L21 18C21 20.2092 19.2092 22 17 22L7 22C4.7908 22 3 20.2092 3 18L3 16Z");
+}
+</style><g class="cuyn6tgcc"><path clip-rule="evenodd" class="r82v1ymoe"/><path class="atpuzho3g"/></g>`,
+		"fallback": "keyline-icons:hamburger-duotone",
+	});
+}
+
+export default Component;

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/t/to0c2ub7t.css';
-import '../../css/h/h63kkxb3c.css';
+import '../../css/t/tapdm42xo.css';
 import '../../css/p/pz6f_ubsp.css';
 import '../../css/p/powe2c5ch.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="to0c2ub7t"><path class="h63kkxb3c"/><path class="pz6f_ubsp"/><path class="powe2c5ch"/></g>`,
+		"content": `<g class="to0c2ub7t"><path class="tapdm42xo"/><path class="pz6f_ubsp"/><path class="powe2c5ch"/></g>`,
 		"fallback": "codex:add-background",
 	});
 }

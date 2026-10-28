@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/codex",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://icon-sets.iconify.design/codex/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -30,9 +30,57 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-right.jsx"
     },
+    "./application": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/application.jsx"
+    },
+    "./archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive.jsx"
+    },
+    "./arrow-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down.jsx"
+    },
+    "./arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left.jsx"
+    },
+    "./arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right.jsx"
+    },
+    "./arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up.jsx"
+    },
+    "./bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell.jsx"
+    },
     "./bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bold.jsx"
+    },
+    "./bolt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bolt.jsx"
+    },
+    "./book": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/book.jsx"
+    },
+    "./bookmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark.jsx"
+    },
+    "./border": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border.jsx"
+    },
+    "./box": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box.jsx"
     },
     "./brackets": {
       "types": "./types/hqrkovbr.d.ts",
@@ -41,6 +89,26 @@
     "./brackets-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/brackets-vertical.jsx"
+    },
+    "./brain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain.jsx"
+    },
+    "./briefcase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/briefcase.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./cart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart.jsx"
+    },
+    "./chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat.jsx"
     },
     "./check": {
       "types": "./types/hqrkovbr.d.ts",
@@ -70,6 +138,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard.jsx"
     },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud.jsx"
+    },
+    "./code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code.jsx"
+    },
+    "./coffee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffee.jsx"
+    },
     "./collapse": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/collapse.jsx"
@@ -82,6 +166,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy.jsx"
     },
+    "./copy-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check.jsx"
+    },
+    "./credit-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card.jsx"
+    },
     "./cross": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cross.jsx"
@@ -90,9 +182,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/curly-brackets.jsx"
     },
+    "./cursor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cursor.jsx"
+    },
+    "./database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database.jsx"
+    },
     "./delimiter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/delimiter.jsx"
+    },
+    "./desktop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/desktop.jsx"
     },
     "./direction-down-right": {
       "types": "./types/hqrkovbr.d.ts",
@@ -110,9 +214,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/direction-up-right.jsx"
     },
+    "./document": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document.jsx"
+    },
     "./dot-circle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dot-circle.jsx"
+    },
+    "./download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download.jsx"
+    },
+    "./drag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drag.jsx"
+    },
+    "./error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/error.jsx"
     },
     "./etc-horisontal": {
       "types": "./types/hqrkovbr.d.ts",
@@ -122,17 +242,49 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/etc-vertical.jsx"
     },
+    "./external-link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/external-link.jsx"
+    },
+    "./eye": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye.jsx"
+    },
     "./file": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file.jsx"
+    },
+    "./film": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/film.jsx"
+    },
+    "./filter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./folder-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open.jsx"
     },
     "./gift": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gift.jsx"
     },
+    "./git-branch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch.jsx"
+    },
     "./globe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe.jsx"
+    },
+    "./grid-view": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-view.jsx"
     },
     "./h1": {
       "types": "./types/hqrkovbr.d.ts",
@@ -158,6 +310,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/h6.jsx"
     },
+    "./hash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash.jsx"
+    },
     "./heading": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heading.jsx"
@@ -170,9 +326,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hidden.jsx"
     },
+    "./home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home.jsx"
+    },
     "./html": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/html.jsx"
+    },
+    "./inbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox.jsx"
+    },
+    "./info": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info.jsx"
     },
     "./instagram": {
       "types": "./types/hqrkovbr.d.ts",
@@ -181,6 +349,18 @@
     "./italic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/italic.jsx"
+    },
+    "./key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key.jsx"
+    },
+    "./laptop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laptop.jsx"
+    },
+    "./lightbulb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lightbulb.jsx"
     },
     "./link": {
       "types": "./types/hqrkovbr.d.ts",
@@ -202,6 +382,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/loader.jsx"
     },
+    "./location": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/location.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./log-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log-in.jsx"
+    },
+    "./log-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log-out.jsx"
+    },
+    "./logs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logs.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
     "./marker": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/marker.jsx"
@@ -214,6 +418,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/menu-small.jsx"
     },
+    "./microphone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone.jsx"
+    },
+    "./minimize": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minimize.jsx"
+    },
+    "./minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus.jsx"
+    },
+    "./money": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/money.jsx"
+    },
+    "./moon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moon.jsx"
+    },
+    "./mute": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mute.jsx"
+    },
+    "./pause": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause.jsx"
+    },
+    "./phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phone.jsx"
+    },
     "./picture": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/picture.jsx"
@@ -221,6 +457,10 @@
     "./play": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/play.jsx"
+    },
+    "./plug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug.jsx"
     },
     "./plus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -238,6 +478,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/redo.jsx"
     },
+    "./refresh": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh.jsx"
+    },
     "./remove-background": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/remove-background.jsx"
@@ -245,6 +489,10 @@
     "./replace": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/replace.jsx"
+    },
+    "./rocket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rocket.jsx"
     },
     "./save": {
       "types": "./types/hqrkovbr.d.ts",
@@ -254,9 +502,45 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/search.jsx"
     },
+    "./send": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send.jsx"
+    },
+    "./settings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings.jsx"
+    },
+    "./share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share.jsx"
+    },
+    "./shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield.jsx"
+    },
+    "./sidebar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar.jsx"
+    },
+    "./sort": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort.jsx"
+    },
+    "./sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles.jsx"
+    },
+    "./speedometer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/speedometer.jsx"
+    },
     "./star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star.jsx"
+    },
+    "./stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop.jsx"
     },
     "./stretch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -265,6 +549,10 @@
     "./strikethrough": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/strikethrough.jsx"
+    },
+    "./sun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sun.jsx"
     },
     "./table": {
       "types": "./types/hqrkovbr.d.ts",
@@ -277,6 +565,14 @@
     "./table-without-headings": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/table-without-headings.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal.jsx"
     },
     "./text": {
       "types": "./types/hqrkovbr.d.ts",
@@ -306,6 +602,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/unlink.jsx"
     },
+    "./unlock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unlock.jsx"
+    },
+    "./upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload.jsx"
+    },
     "./user": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user.jsx"
@@ -313,6 +617,14 @@
     "./users-group": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/users-group.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./volume": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/volume.jsx"
     },
     "./warning": {
       "types": "./types/hqrkovbr.d.ts",

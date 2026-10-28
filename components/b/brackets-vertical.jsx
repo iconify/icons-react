@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/ja0nf1bzs.css';
+import '../../css/z/zojfblbth.css';
 
-const viewBox = {"width":20,"height":20};
+const viewBox = {"width":24,"height":24};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ja0nf1bzs"/>`,
+		"content": `<path class="zojfblbth"/>`,
 		"fallback": "codex:brackets-vertical",
 	});
 }

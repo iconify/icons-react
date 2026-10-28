@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/wordpress",
   "type": "module",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "homepage": "https://icon-sets.iconify.design/wordpress/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "GPL-2.0-or-later",
@@ -754,10 +754,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock.jsx"
     },
-    "./lock-outline": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/l/lock-outline.jsx"
-    },
     "./lock-small": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-small.jsx"
@@ -1405,6 +1401,10 @@
     "./wordpress": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wordpress.jsx"
+    },
+    "./lock-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-outline.jsx"
     },
     "./resize-corner-n-e": {
       "types": "./types/hqrkovbr.d.ts",

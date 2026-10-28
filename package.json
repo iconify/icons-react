@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.54",
+  "version": "1.0.55",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -230,9 +230,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/archive.jsx"
     },
-    "./archive-restore": {
+    "./archive-arrow-down": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/a/archive-restore.jsx"
+      "default": "./components/a/archive-arrow-down.jsx"
+    },
+    "./archive-arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-arrow-up.jsx"
     },
     "./archive-x": {
       "types": "./types/hqrkovbr.d.ts",
@@ -470,6 +474,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/axis-3d.jsx"
     },
+    "./azerbaijani-manat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azerbaijani-manat.jsx"
+    },
     "./baby": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/baby.jsx"
@@ -557,6 +565,10 @@
     "./baggage-claim": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/baggage-claim.jsx"
+    },
+    "./ball-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/ball-wave.jsx"
     },
     "./balloon": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1002,6 +1014,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/boxes.jsx"
     },
+    "./boxes-linked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boxes-linked.jsx"
+    },
     "./braces": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/braces.jsx"
@@ -1153,6 +1169,14 @@
     "./calendar-arrow-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-arrow-down.jsx"
+    },
+    "./calendar-arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-left.jsx"
+    },
+    "./calendar-arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-right.jsx"
     },
     "./calendar-arrow-up": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1445,6 +1469,14 @@
     "./chart-pie": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-pie.jsx"
+    },
+    "./chart-quadrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-quadrant.jsx"
+    },
+    "./chart-radar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-radar.jsx"
     },
     "./chart-scatter": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2306,6 +2338,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database-check.jsx"
     },
+    "./database-cog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-cog.jsx"
+    },
     "./database-minus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database-minus.jsx"
@@ -2526,6 +2562,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ear-off.jsx"
     },
+    "./earbuds": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earbuds.jsx"
+    },
+    "./earbuds-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earbuds-off.jsx"
+    },
     "./earth": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/earth.jsx"
@@ -2573,6 +2617,10 @@
     "./ellipsis-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ellipsis-vertical.jsx"
+    },
+    "./emirati-dirham": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emirati-dirham.jsx"
     },
     "./engine": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3734,6 +3782,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hiking-stick.jsx"
     },
+    "./hockey-stick": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hockey-stick.jsx"
+    },
     "./hop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hop.jsx"
@@ -3745,6 +3797,10 @@
     "./hospital": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hospital.jsx"
+    },
+    "./hot-air-balloon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hot-air-balloon.jsx"
     },
     "./hotel": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3985,6 +4041,10 @@
     "./laptop-minimal-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/laptop-minimal-check.jsx"
+    },
+    "./laser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laser.jsx"
     },
     "./lasso": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6250,6 +6310,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/siren.jsx"
     },
+    "./siren-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/siren-off.jsx"
+    },
     "./sixteenth-notes": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sixteenth-notes.jsx"
@@ -6509,6 +6573,22 @@
     "./square-chevron-up": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-chevron-up.jsx"
+    },
+    "./square-chevrons-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-down.jsx"
+    },
+    "./square-chevrons-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-left.jsx"
+    },
+    "./square-chevrons-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-right.jsx"
+    },
+    "./square-chevrons-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-up.jsx"
     },
     "./square-code": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7506,6 +7586,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-search.jsx"
     },
+    "./user-round-shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-round-shield.jsx"
+    },
     "./user-round-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-star.jsx"
@@ -7957,6 +8041,10 @@
     "./align-horizonal-distribute-start": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-horizonal-distribute-start.jsx"
+    },
+    "./archive-restore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-restore.jsx"
     },
     "./arrow-down-01": {
       "types": "./types/hqrkovbr.d.ts",

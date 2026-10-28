@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-symbols-light",
   "type": "module",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "homepage": "https://icon-sets.iconify.design/material-symbols-light/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
@@ -14018,6 +14018,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contrast.jsx"
     },
+    "./contrast-auto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-auto.jsx"
+    },
+    "./contrast-auto-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-auto-rounded.jsx"
+    },
     "./contrast-circle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contrast-circle.jsx"
@@ -14025,6 +14033,18 @@
     "./contrast-circle-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contrast-circle-rounded.jsx"
+    },
+    "./contrast-inverse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse.jsx"
+    },
+    "./contrast-inverse-auto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-auto.jsx"
+    },
+    "./contrast-inverse-auto-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-auto-rounded.jsx"
     },
     "./contrast-rtl-off": {
       "types": "./types/hqrkovbr.d.ts",
@@ -30154,6 +30174,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/input-rounded.jsx"
     },
+    "./input-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/input-search.jsx"
+    },
+    "./input-search-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/input-search-outline.jsx"
+    },
+    "./input-search-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/input-search-outline-rounded.jsx"
+    },
+    "./input-search-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/input-search-outline-sharp.jsx"
+    },
+    "./input-search-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/input-search-rounded.jsx"
+    },
+    "./input-search-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/input-search-sharp.jsx"
+    },
     "./input-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/input-sharp.jsx"
@@ -34137,6 +34181,30 @@
     "./mail-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail-outline-sharp.jsx"
+    },
+    "./mail-person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-person.jsx"
+    },
+    "./mail-person-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-person-outline.jsx"
+    },
+    "./mail-person-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-person-outline-rounded.jsx"
+    },
+    "./mail-person-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-person-outline-sharp.jsx"
+    },
+    "./mail-person-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-person-rounded.jsx"
+    },
+    "./mail-person-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-person-sharp.jsx"
     },
     "./mail-rounded": {
       "types": "./types/hqrkovbr.d.ts",
@@ -71302,6 +71370,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contract-sharp.jsx"
     },
+    "./contrast-auto-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-auto-outline.jsx"
+    },
+    "./contrast-auto-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-auto-outline-rounded.jsx"
+    },
+    "./contrast-auto-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-auto-outline-sharp.jsx"
+    },
+    "./contrast-auto-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-auto-sharp.jsx"
+    },
     "./contrast-circle-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contrast-circle-outline.jsx"
@@ -71317,6 +71401,42 @@
     "./contrast-circle-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/contrast-circle-sharp.jsx"
+    },
+    "./contrast-inverse-auto-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-auto-outline.jsx"
+    },
+    "./contrast-inverse-auto-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-auto-outline-rounded.jsx"
+    },
+    "./contrast-inverse-auto-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-auto-outline-sharp.jsx"
+    },
+    "./contrast-inverse-auto-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-auto-sharp.jsx"
+    },
+    "./contrast-inverse-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-outline.jsx"
+    },
+    "./contrast-inverse-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-outline-rounded.jsx"
+    },
+    "./contrast-inverse-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-outline-sharp.jsx"
+    },
+    "./contrast-inverse-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-rounded.jsx"
+    },
+    "./contrast-inverse-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-inverse-sharp.jsx"
     },
     "./contrast-outline": {
       "types": "./types/hqrkovbr.d.ts",

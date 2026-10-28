@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gl34m-b_r.css';
+import '../../css/g/g09n5j3dm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gl34m-b_r"/>`,
+		"content": `<path class="g09n5j3dm"/>`,
 		"fallback": "cbi:ubiquiti-ap",
 	});
 }

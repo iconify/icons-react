@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/ts2z1fhgb.css';
+import '../../css/o/oksd2tbhk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ts2z1fhgb"/>`,
+		"content": `<path class="oksd2tbhk"/>`,
 		"fallback": "cbi:outdoor-motion",
 	});
 }

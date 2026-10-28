@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.45",
+  "version": "1.0.46",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -1082,6 +1082,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/button.jsx"
     },
+    "./bwt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bwt.jsx"
+    },
     "./byd": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/byd.jsx"
@@ -1422,6 +1426,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/citroen.jsx"
     },
+    "./claude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/claude.jsx"
+    },
     "./claude-clawd": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/claude-clawd.jsx"
@@ -1550,6 +1558,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dazn.jsx"
     },
+    "./debian": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/debian.jsx"
+    },
     "./deezer-logo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/deezer-logo.jsx"
@@ -1669,6 +1681,10 @@
     "./disney-plus-alt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/disney-plus-alt.jsx"
+    },
+    "./dm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dm.jsx"
     },
     "./dodge": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1905,6 +1921,10 @@
     "./ecowitt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ecowitt.jsx"
+    },
+    "./edeka": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edeka.jsx"
     },
     "./eero": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2589,6 +2609,10 @@
     "./hino": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hino.jsx"
+    },
+    "./hit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hit.jsx"
     },
     "./hive": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3306,6 +3330,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/linktap.jsx"
     },
+    "./linux": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/linux.jsx"
+    },
     "./lit-house-number": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lit-house-number.jsx"
@@ -3822,6 +3850,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/national-rail-alt.jsx"
     },
+    "./naturhof-wolfsberg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/naturhof-wolfsberg.jsx"
+    },
     "./nautical-lamp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nautical-lamp.jsx"
@@ -3906,6 +3938,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/netgear-switch.jsx"
     },
+    "./netto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/netto.jsx"
+    },
     "./next-hub-max": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/next-hub-max.jsx"
@@ -3925,6 +3961,18 @@
     "./nginx-proxy-manager": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nginx-proxy-manager.jsx"
+    },
+    "./nibe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nibe.jsx"
+    },
+    "./nibe-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nibe-alt.jsx"
+    },
+    "./nibe-alt2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nibe-alt2.jsx"
     },
     "./nighthawk": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4089,6 +4137,10 @@
     "./open-webui-alt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/open-webui-alt.jsx"
+    },
+    "./openai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openai.jsx"
     },
     "./openhasp": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4417,6 +4469,10 @@
     "./phoscon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phoscon.jsx"
+    },
+    "./php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/php.jsx"
     },
     "./piano": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5277,6 +5333,10 @@
     "./serie-a": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/serie-a.jsx"
+    },
+    "./server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/server.jsx"
     },
     "./seven-eleven-australia": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6238,6 +6298,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trezor.jsx"
     },
+    "./trinkgut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trinkgut.jsx"
+    },
     "./triple-wall-switch": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/triple-wall-switch.jsx"
@@ -6401,6 +6465,10 @@
     "./ubiquiti-wifi-accesspoint": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/ubiquiti-wifi-accesspoint.jsx"
+    },
+    "./ubuntu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ubuntu.jsx"
     },
     "./ue-epicboom": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6802,6 +6870,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wellness.jsx"
     },
+    "./whatsapp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whatsapp.jsx"
+    },
     "./wheel-loader": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wheel-loader.jsx"
@@ -6829,6 +6901,10 @@
     "./windows": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/windows.jsx"
+    },
+    "./windows-oficial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windows-oficial.jsx"
     },
     "./wink-tv": {
       "types": "./types/hqrkovbr.d.ts",

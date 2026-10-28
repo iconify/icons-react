@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/py2-iacpf.css';
+import '../../css/c/cej_izyna.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="py2-iacpf"/>`,
+		"content": `<path class="cej_izyna"/>`,
 		"fallback": "cbi:qbittorrent",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/osrdhooec.css';
+import '../../css/d/df_xpkb5i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="osrdhooec"/>`,
+		"content": `<path class="df_xpkb5i"/>`,
 		"fallback": "cbi:lampada-parete",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mnriyac9h.css';
+import '../../css/t/twemjdbvl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mnriyac9h"/>`,
+		"content": `<path class="twemjdbvl"/>`,
 		"fallback": "cbi:netflix",
 	});
 }

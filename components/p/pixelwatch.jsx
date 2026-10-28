@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vyvsc5bot.css';
+import '../../css/i/ijqx54bau.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vyvsc5bot"/>`,
+		"content": `<path class="ijqx54bau"/>`,
 		"fallback": "cbi:pixelwatch",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/emffggb9s.css';
+import '../../css/m/ma_gifbgk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="emffggb9s"/>`,
+		"content": `<path class="ma_gifbgk"/>`,
 		"fallback": "cbi:volvo-alt",
 	});
 }

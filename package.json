@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -281,6 +281,10 @@
     "./ag-ui": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ag-ui.jsx"
+    },
+    "./agent-qa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agent-qa.jsx"
     },
     "./agora": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3709,6 +3713,10 @@
     "./eagle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eagle.jsx"
+    },
+    "./easy-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easy-ai.jsx"
     },
     "./easyeda": {
       "types": "./types/hqrkovbr.d.ts",

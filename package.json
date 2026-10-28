@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1382,6 +1382,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glitch.jsx"
     },
+    "./gnu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnu.jsx"
+    },
     "./gnuradio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gnuradio.jsx"
@@ -2341,6 +2345,14 @@
     "./neo4j-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/neo4j-wordmark.jsx"
+    },
+    "./neon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neon.jsx"
+    },
+    "./neon-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neon-wordmark.jsx"
     },
     "./neovim": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4193,6 +4205,10 @@
     "./wordpress": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wordpress.jsx"
+    },
+    "./xai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xai.jsx"
     },
     "./xamarin": {
       "types": "./types/hqrkovbr.d.ts",

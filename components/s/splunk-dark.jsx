@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/aeap2tbsu.css';
+import '../../css/o/oovhg-9to.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="aeap2tbsu"/>`,
+		"content": `<path class="oovhg-9to"/>`,
 		"fallback": "selfhst:splunk-dark",
 	});
 }

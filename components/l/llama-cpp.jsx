@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d5e2uw75d.css';
+import '../../css/j/joosisv3a.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d5e2uw75d"/>`,
+		"content": `<path class="joosisv3a"/>`,
 		"fallback": "selfhst:llama-cpp",
 	});
 }

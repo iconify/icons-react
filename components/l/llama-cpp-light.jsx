@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/etk58nhhr.css';
+import '../../css/f/f7r4hpltc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="etk58nhhr"/>`,
+		"content": `<path class="f7r4hpltc"/>`,
 		"fallback": "selfhst:llama-cpp-light",
 	});
 }

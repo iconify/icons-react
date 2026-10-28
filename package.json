@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -401,6 +401,10 @@
     "./ag-ui": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ag-ui.jsx"
+    },
+    "./agent-qa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agent-qa.jsx"
     },
     "./agora": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5014,6 +5018,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/earmark-light.jsx"
     },
+    "./easy-ai-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easy-ai-dark.jsx"
+    },
+    "./easy-ai-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/easy-ai-light.jsx"
+    },
     "./easy-appointments": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/easy-appointments.jsx"
@@ -8457,6 +8469,10 @@
     "./instagram": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/instagram.jsx"
+    },
+    "./instagram-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/instagram-legacy.jsx"
     },
     "./instapaper": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12694,6 +12710,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/ola-cabs.jsx"
     },
+    "./olive-garden": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive-garden.jsx"
+    },
     "./ollama-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/ollama-dark.jsx"
@@ -13097,6 +13117,10 @@
     "./oracle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/oracle.jsx"
+    },
+    "./oracle-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oracle-icon.jsx"
     },
     "./orange": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16173,6 +16197,10 @@
     "./serverless": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/serverless.jsx"
+    },
+    "./servicenow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/servicenow.jsx"
     },
     "./session": {
       "types": "./types/hqrkovbr.d.ts",

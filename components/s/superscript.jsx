@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yb3pl440z.css';
+import '../../css/i/ijhevbt_t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yb3pl440z"/>`,
+		"content": `<path class="ijhevbt_t"/>`,
 		"fallback": "andrsrxn:superscript",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rkm2a9i0m.css';
+import '../../css/e/e3plau2py.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rkm2a9i0m"/>`,
+		"content": `<path class="e3plau2py"/>`,
 		"fallback": "vadivam:arrow-up-wide-narrow",
 	});
 }

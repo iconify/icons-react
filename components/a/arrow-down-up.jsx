@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wb7_rvb-g.css';
+import '../../css/p/pepvz7i-t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wb7_rvb-g"/>`,
+		"content": `<path class="pepvz7i-t"/>`,
 		"fallback": "vadivam:arrow-down-up",
 	});
 }

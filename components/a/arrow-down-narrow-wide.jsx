@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/ka267ac_d.css';
+import '../../css/k/km-grrblp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ka267ac_d"/>`,
+		"content": `<path class="km-grrblp"/>`,
 		"fallback": "vadivam:arrow-down-narrow-wide",
 	});
 }

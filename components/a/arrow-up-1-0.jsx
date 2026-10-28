@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q583cdggp.css';
+import '../../css/o/op3lkbbav.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q583cdggp"/>`,
+		"content": `<path class="op3lkbbav"/>`,
 		"fallback": "vadivam:arrow-up-1-0",
 	});
 }

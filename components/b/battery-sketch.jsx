@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/t/tczw_hbsg.css';
+import '../../css/c/cjlnqmbsm.css';
+import '../../css/e/ertd60wwo.css';
+import '../../css/b/b7i_kkbbz.css';
+import '../../css/l/l22tp1dfe.css';
+import '../../css/s/s_b6r7b0b.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="tczw_hbsg"><path class="cjlnqmbsm"/><path class="ertd60wwo wm-k"/><path class="b7i_kkbbz wm-k"/><path class="l22tp1dfe wm-a"/><path class="s_b6r7b0b wm-a"/></g>`,
+		"fallback": "withicons:battery-sketch",
+	});
+}
+
+export default Component;

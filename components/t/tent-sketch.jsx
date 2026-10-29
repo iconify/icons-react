@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/t/tczw_hbsg.css';
+import '../../css/l/l4wrd57_f.css';
+import '../../css/t/t_qq9wb5b.css';
+import '../../css/z/za0qrbr5b.css';
+import '../../css/q/qtot5zs0c.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="tczw_hbsg"><path class="l4wrd57_f wm-k"/><path class="t_qq9wb5b wm-a"/><path class="wm-k za0qrbr5b"/><path class="qtot5zs0c wm-a"/></g>`,
+		"fallback": "withicons:tent-sketch",
+	});
+}
+
+export default Component;

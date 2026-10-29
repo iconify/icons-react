@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/n1lsf0bnc.css';
+import '../../css/w/wb3a-jljz.css';
+import '../../css/w/w6ge37yyg.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="n1lsf0bnc"><path class="wb3a-jljz"/><path class="w6ge37yyg wm-a"/></g>`,
+		"fallback": "withicons:clipboard-list-solid",
+	});
+}
+
+export default Component;

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -926,6 +926,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dreamweaver.jsx"
     },
+    "./drizzle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drizzle.jsx"
+    },
     "./dropwizard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dropwizard.jsx"
@@ -1269,6 +1273,14 @@
     "./gcc": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gcc.jsx"
+    },
+    "./gemini": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gemini.jsx"
+    },
+    "./gemini-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gemini-wordmark.jsx"
     },
     "./gentoo": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1670,6 +1682,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/influxdb-wordmark.jsx"
     },
+    "./informatica": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/informatica.jsx"
+    },
+    "./informatica-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/informatica-wordmark.jsx"
+    },
     "./inkscape": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/inkscape.jsx"
@@ -1809,6 +1829,14 @@
     "./json": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/json.jsx"
+    },
+    "./juce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/juce.jsx"
+    },
+    "./juce-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/juce-wordmark.jsx"
     },
     "./jule": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2542,6 +2570,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nuxtjs-wordmark.jsx"
     },
+    "./nx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nx.jsx"
+    },
     "./oauth": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/oauth.jsx"
@@ -2758,6 +2790,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plotly-wordmark.jsx"
     },
+    "./plsql": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plsql.jsx"
+    },
     "./pm2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pm2.jsx"
@@ -2813,6 +2849,14 @@
     "./postcss-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/postcss-wordmark.jsx"
+    },
+    "./postgis": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postgis.jsx"
+    },
+    "./postgis-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postgis-wordmark.jsx"
     },
     "./postgresql": {
       "types": "./types/hqrkovbr.d.ts",

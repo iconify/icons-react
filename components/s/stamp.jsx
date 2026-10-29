@@ -1,0 +1,29 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/t/t_2lkqbxb.css';
+import '../../css/h/h_wxivbox.css';
+import '../../css/p/pfpwyqfum.css';
+import '../../css/c/cyxkx1b2p.css';
+import '../../css/g/g2d6wxbbs.css';
+import '../../css/m/mwl81kb3o.css';
+import '../../css/d/dnpigybeb.css';
+import '../../css/l/l1g11f_-z.css';
+import '../../css/v/vrsefcbok.css';
+import '../../css/r/rsapitb1c.css';
+import '../../css/w/w_4ccibhj.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="t_2lkqbxb"><path class="h_wxivbox wm-shadow"/><path class="pfpwyqfum"/><path class="cyxkx1b2p"/><path class="g2d6wxbbs"/><path class="mwl81kb3o"/><path class="dnpigybeb wm-shine"/><path class="l1g11f_-z wm-s"/><path class="vrsefcbok wm-s"/><path class="rsapitb1c wm-s"/><path class="w_4ccibhj wm-deco"/></g>`,
+		"fallback": "withicons-sticker:stamp",
+	});
+}
+
+export default Component;

@@ -1,0 +1,28 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/t/t_2lkqbxb.css';
+import '../../css/a/a76-7zbga.css';
+import '../../css/y/y08jzve3a.css';
+import '../../css/n/ns8_erbns.css';
+import '../../css/f/ff-6c8bpz.css';
+import '../../css/l/lroxnsbzw.css';
+import '../../css/r/r90r4dbvg.css';
+import '../../css/r/r3nmiobzo.css';
+import '../../css/k/k85boismm.css';
+import '../../css/w/wua19pg-k.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="t_2lkqbxb"><path class="a76-7zbga wm-shadow"/><path class="y08jzve3a"/><path class="ns8_erbns"/><path class="ff-6c8bpz"/><path class="lroxnsbzw wm-shine"/><path class="r90r4dbvg wm-s"/><path class="r3nmiobzo wm-s"/><path class="k85boismm wm-s"/><path class="wm-deco wua19pg-k"/></g>`,
+		"fallback": "withicons-sticker:phone-off",
+	});
+}
+
+export default Component;

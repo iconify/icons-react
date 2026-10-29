@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/t/t_2lkqbxb.css';
+import '../../css/u/uaaykhbeg.css';
+import '../../css/u/uwvn-ac1c.css';
+import '../../css/b/bj4ljcb6l.css';
+import '../../css/i/isf638y2c.css';
+import '../../css/s/saf1mobtr.css';
+import '../../css/j/jy843347v.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="t_2lkqbxb"><path class="uaaykhbeg wm-shadow"/><path class="uwvn-ac1c"/><path class="bj4ljcb6l"/><path class="isf638y2c"/><path class="saf1mobtr wm-shine"/><path class="jy843347v wm-deco"/></g>`,
+		"fallback": "withicons-sticker:minus",
+	});
+}
+
+export default Component;

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y-xchyb0w.css';
+import '../../css/i/itcthv82o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y-xchyb0w"/>`,
+		"content": `<path class="itcthv82o"/>`,
 		"fallback": "lucide:turkish-lira",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g5xxn-bxk.css';
+import '../../css/a/aqto-hbxb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g5xxn-bxk"/>`,
+		"content": `<path class="aqto-hbxb"/>`,
 		"fallback": "lucide:dollar-sign",
 	});
 }

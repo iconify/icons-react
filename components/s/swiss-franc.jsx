@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lerfben8u.css';
+import '../../css/y/ycko3m6rg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lerfben8u"/>`,
+		"content": `<path class="ycko3m6rg"/>`,
 		"fallback": "lucide:swiss-franc",
 	});
 }

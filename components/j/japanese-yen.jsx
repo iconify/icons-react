@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iub38o1gs.css';
+import '../../css/n/n-lh599rs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iub38o1gs"/>`,
+		"content": `<path class="n-lh599rs"/>`,
 		"fallback": "lucide:japanese-yen",
 	});
 }

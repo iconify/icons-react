@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v-kqqwy_t.css';
+import '../../css/z/zi974y_9r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v-kqqwy_t"/>`,
+		"content": `<path class="zi974y_9r"/>`,
 		"fallback": "lucide:saudi-riyal",
 	});
 }

@@ -1,0 +1,28 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/t/t5mrk6mkb.css';
+import '../../css/b/bmvlsf21d.css';
+import '../../css/p/pnjr8_b7e.css';
+import '../../css/s/stui2mbih.css';
+import '../../css/v/vkghwac4g.css';
+import '../../css/a/a937s988w.css';
+import '../../css/c/c1s13_b9v.css';
+import '../../css/z/zwj1gzbyz.css';
+import '../../css/k/knd7r8bbm.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><linearGradient id="SVG5qjpodFP" x1="0" x2="0" y1="-44.35" y2="75.65" gradientUnits="userSpaceOnUse"><stop offset="0" class="t5mrk6mkb"/><stop offset="1" class="bmvlsf21d"/></linearGradient><linearGradient id="SVGXwO9kcYw" x1="2.4" x2="21.4" y1="5.7" y2="18.3" gradientUnits="userSpaceOnUse"><stop offset="0" class="pnjr8_b7e"/><stop offset=".5" class="stui2mbih"/><stop offset=".5" class="vkghwac4g"/><stop offset="1" class="a937s988w"/></linearGradient></defs><path fill="url(#SVG5qjpodFP)" class="c1s13_b9v wm-shadow"/><path class="wm-k zwj1gzbyz"/><path fill="url(#SVGXwO9kcYw)" class="knd7r8bbm wm-k"/></g>`,
+		"fallback": "withicons-suite:rewind",
+	});
+}
+
+export default Component;

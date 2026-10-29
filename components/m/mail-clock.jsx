@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xph50ihtp.css';
+import '../../css/t/t-6gc-bcj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xph50ihtp"/>`,
+		"content": `<path class="t-6gc-bcj"/>`,
 		"fallback": "vadivam:mail-clock",
 	});
 }

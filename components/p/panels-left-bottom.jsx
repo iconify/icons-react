@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zoxaigbol.css';
+import '../../css/a/ae-5w3bsp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zoxaigbol"/>`,
+		"content": `<path class="ae-5w3bsp"/>`,
 		"fallback": "vadivam:panels-left-bottom",
 	});
 }

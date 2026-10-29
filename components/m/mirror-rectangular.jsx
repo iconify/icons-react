@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/arb_u-b8c.css';
+import '../../css/m/m1tt9fb5d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="arb_u-b8c"/>`,
+		"content": `<path class="m1tt9fb5d"/>`,
 		"fallback": "vadivam:mirror-rectangular",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/u/u9nfjuz7x.css';
+import '../../css/w/w5cun24ul.css';
 import '../../css/m/m4buqzjcx.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="u9nfjuz7x"/><path class="m4buqzjcx"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="w5cun24ul"/><path class="m4buqzjcx"/></g>`,
 		"fallback": "vadivam:image-upscale",
 	});
 }

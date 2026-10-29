@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u7_2a2mjo.css';
+import '../../css/i/ifxi99bxm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u7_2a2mjo"/>`,
+		"content": `<path class="ifxi99bxm"/>`,
 		"fallback": "vadivam:sliders-horizontal",
 	});
 }

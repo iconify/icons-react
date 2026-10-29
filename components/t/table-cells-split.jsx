@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lbc3s20gc.css';
+import '../../css/x/x944gvjbv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lbc3s20gc"/>`,
+		"content": `<path class="x944gvjbv"/>`,
 		"fallback": "vadivam:table-cells-split",
 	});
 }

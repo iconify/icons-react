@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dj3d1zxsa.css';
+import '../../css/d/da_xu-bzq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dj3d1zxsa"/>`,
+		"content": `<path class="da_xu-bzq"/>`,
 		"fallback": "vadivam:blender",
 	});
 }

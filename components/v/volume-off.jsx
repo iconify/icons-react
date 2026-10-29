@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/knxbsrbdw.css';
+import '../../css/c/ckn_rwb0g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="knxbsrbdw"/>`,
+		"content": `<path class="ckn_rwb0g"/>`,
 		"fallback": "vadivam:volume-off",
 	});
 }

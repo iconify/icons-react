@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b1ybz-kxn.css';
+import '../../css/l/lq6u91b0f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b1ybz-kxn"/>`,
+		"content": `<path class="lq6u91b0f"/>`,
 		"fallback": "vadivam:waves-ladder",
 	});
 }

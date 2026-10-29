@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/en74i_bwr.css';
+import '../../css/q/qxielmb8j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="en74i_bwr"/>`,
+		"content": `<path class="qxielmb8j"/>`,
 		"fallback": "vadivam:rewind",
 	});
 }

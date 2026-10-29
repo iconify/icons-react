@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/so_zjqcjh.css';
+import '../../css/t/tdevzw80h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="so_zjqcjh"/>`,
+		"content": `<path class="tdevzw80h"/>`,
 		"fallback": "vadivam:text-align-start",
 	});
 }

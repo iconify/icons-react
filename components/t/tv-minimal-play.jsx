@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/y/y_tuupbnv.css';
-import '../../css/n/nrw9icd8s.css';
+import '../../css/q/q2nu88bho.css';
+import '../../css/g/gwzz95rfc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="y_tuupbnv"/><path class="nrw9icd8s"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="q2nu88bho"/><path class="gwzz95rfc"/></g>`,
 		"fallback": "vadivam:tv-minimal-play",
 	});
 }

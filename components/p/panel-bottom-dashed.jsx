@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xiasleb1r.css';
+import '../../css/f/frf4fnbux.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xiasleb1r"/>`,
+		"content": `<path class="frf4fnbux"/>`,
 		"fallback": "vadivam:panel-bottom-dashed",
 	});
 }

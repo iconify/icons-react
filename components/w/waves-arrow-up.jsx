@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wtfsteb-y.css';
+import '../../css/r/rhu5zrben.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wtfsteb-y"/>`,
+		"content": `<path class="rhu5zrben"/>`,
 		"fallback": "vadivam:waves-arrow-up",
 	});
 }

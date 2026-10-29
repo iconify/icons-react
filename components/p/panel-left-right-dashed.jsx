@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kbfaopxnh.css';
+import '../../css/m/m-qoz4brv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kbfaopxnh"/>`,
+		"content": `<path class="m-qoz4brv"/>`,
 		"fallback": "vadivam:panel-left-right-dashed",
 	});
 }

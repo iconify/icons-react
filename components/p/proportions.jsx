@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h78n5_b0c.css';
+import '../../css/t/t2xw-0bez.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h78n5_b0c"/>`,
+		"content": `<path class="t2xw-0bez"/>`,
 		"fallback": "vadivam:proportions",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mp0io-2sf.css';
+import '../../css/f/fk-xnnm5m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mp0io-2sf"/>`,
+		"content": `<path class="fk-xnnm5m"/>`,
 		"fallback": "vadivam:brush-cleaning",
 	});
 }

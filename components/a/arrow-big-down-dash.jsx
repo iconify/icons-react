@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/prkoaib7h.css';
+import '../../css/n/nsd-sgbgi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="prkoaib7h"/>`,
+		"content": `<path class="nsd-sgbgi"/>`,
 		"fallback": "vadivam:arrow-big-down-dash",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mfcc_jb1s.css';
+import '../../css/h/hnhxq_btj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mfcc_jb1s"/>`,
+		"content": `<path class="hnhxq_btj"/>`,
 		"fallback": "vadivam:grid-3x2",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gojx-tb-u.css';
+import '../../css/t/tnl5uhbce.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gojx-tb-u"/>`,
+		"content": `<path class="tnl5uhbce"/>`,
 		"fallback": "vadivam:camera-off",
 	});
 }

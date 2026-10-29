@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nql205rcc.css';
+import '../../css/q/q1em_ve-i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nql205rcc"/>`,
+		"content": `<path class="q1em_ve-i"/>`,
 		"fallback": "vadivam:file-minus-corner",
 	});
 }

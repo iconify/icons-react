@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m80-xcc1w.css';
+import '../../css/u/uryvlvbch.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m80-xcc1w"/>`,
+		"content": `<path class="uryvlvbch"/>`,
 		"fallback": "vadivam:table-cells-merge",
 	});
 }

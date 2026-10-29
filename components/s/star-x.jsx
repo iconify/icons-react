@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uelglwbyg.css';
+import '../../css/j/jdb_vssxg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uelglwbyg"/>`,
+		"content": `<path class="jdb_vssxg"/>`,
 		"fallback": "vadivam:star-x",
 	});
 }

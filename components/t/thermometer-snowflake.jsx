@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rsbdr7opj.css';
+import '../../css/n/nqhh4obaz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rsbdr7opj"/>`,
+		"content": `<path class="nqhh4obaz"/>`,
 		"fallback": "vadivam:thermometer-snowflake",
 	});
 }

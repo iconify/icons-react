@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gn9v66zup.css';
+import '../../css/c/c3oxqpbyb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gn9v66zup"/>`,
+		"content": `<path class="c3oxqpbyb"/>`,
 		"fallback": "vadivam:sliders-vertical",
 	});
 }

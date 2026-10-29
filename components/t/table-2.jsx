@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gemmb2bwt.css';
+import '../../css/t/tq9lw3b8w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gemmb2bwt"/>`,
+		"content": `<path class="tq9lw3b8w"/>`,
 		"fallback": "vadivam:table-2",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ag76r2btq.css';
+import '../../css/h/hrbaprbaw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ag76r2btq"/>`,
+		"content": `<path class="hrbaprbaw"/>`,
 		"fallback": "vadivam:calendar-fold",
 	});
 }

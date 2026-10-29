@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n2wxvii_b.css';
+import '../../css/d/dlejs_b-e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n2wxvii_b"/>`,
+		"content": `<path class="dlejs_b-e"/>`,
 		"fallback": "vadivam:file-text",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ldx1ytcly.css';
+import '../../css/m/mx4hv3bus.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ldx1ytcly"/>`,
+		"content": `<path class="mx4hv3bus"/>`,
 		"fallback": "vadivam:play-off",
 	});
 }

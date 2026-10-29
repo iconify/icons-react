@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uo45pacgb.css';
+import '../../css/s/sv8lmcxko.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uo45pacgb"/>`,
+		"content": `<path class="sv8lmcxko"/>`,
 		"fallback": "vadivam:thumbs-up",
 	});
 }

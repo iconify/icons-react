@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ufavf3byq.css';
+import '../../css/i/irpwpwf3a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ufavf3byq"/>`,
+		"content": `<path class="irpwpwf3a"/>`,
 		"fallback": "vadivam:pocket-knife",
 	});
 }

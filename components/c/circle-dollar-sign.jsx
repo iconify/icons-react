@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/e/e6eatobym.css';
-import '../../css/n/nz6uz5fzu.css';
+import '../../css/g/gpcia_1kt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="e6eatobym"/><path class="nz6uz5fzu"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="e6eatobym"/><path class="gpcia_1kt"/></g>`,
 		"fallback": "vadivam:circle-dollar-sign",
 	});
 }

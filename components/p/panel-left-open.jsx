@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/t/t-45cubng.css';
+import '../../css/k/k6ss2pbgk.css';
 import '../../css/f/fgjiv0bpy.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="t-45cubng"/><path class="fgjiv0bpy"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="k6ss2pbgk"/><path class="fgjiv0bpy"/></g>`,
 		"fallback": "vadivam:panel-left-open",
 	});
 }

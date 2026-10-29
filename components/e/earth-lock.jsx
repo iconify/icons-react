@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/j/jp1uijqea.css';
+import '../../css/v/vvpog7y9l.css';
 import '../../css/l/leosdsb-w.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="jp1uijqea"/><path class="leosdsb-w"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="vvpog7y9l"/><path class="leosdsb-w"/></g>`,
 		"fallback": "vadivam:earth-lock",
 	});
 }

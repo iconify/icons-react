@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ll-wddorz.css';
+import '../../css/v/vecvceb5x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ll-wddorz"/>`,
+		"content": `<path class="vecvceb5x"/>`,
 		"fallback": "vadivam:file",
 	});
 }

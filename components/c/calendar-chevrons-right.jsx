@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ajfeeab9t.css';
+import '../../css/u/ue075dbad.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ajfeeab9t"/>`,
+		"content": `<path class="ue075dbad"/>`,
 		"fallback": "vadivam:calendar-chevrons-right",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zucb4acff.css';
+import '../../css/f/fkhgkrtkf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zucb4acff"/>`,
+		"content": `<path class="fkhgkrtkf"/>`,
 		"fallback": "vadivam:align-center-horizontal",
 	});
 }

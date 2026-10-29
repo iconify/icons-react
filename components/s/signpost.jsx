@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/graw_wnsb.css';
+import '../../css/a/a4gg4hqmg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="graw_wnsb"/>`,
+		"content": `<path class="a4gg4hqmg"/>`,
 		"fallback": "vadivam:signpost",
 	});
 }

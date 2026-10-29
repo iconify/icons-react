@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/otucgnd4e.css';
+import '../../css/r/ry82r9o5t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="otucgnd4e"/>`,
+		"content": `<path class="ry82r9o5t"/>`,
 		"fallback": "vadivam:bluetooth-searching",
 	});
 }

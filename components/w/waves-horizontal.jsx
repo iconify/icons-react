@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fkpd7_b_f.css';
+import '../../css/x/xl840eg2o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fkpd7_b_f"/>`,
+		"content": `<path class="xl840eg2o"/>`,
 		"fallback": "vadivam:waves-horizontal",
 	});
 }

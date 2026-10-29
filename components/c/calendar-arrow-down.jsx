@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fozb4jemz.css';
+import '../../css/w/wauiwxb2h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fozb4jemz"/>`,
+		"content": `<path class="wauiwxb2h"/>`,
 		"fallback": "vadivam:calendar-arrow-down",
 	});
 }

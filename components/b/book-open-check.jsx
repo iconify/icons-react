@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ibtswrwtu.css';
+import '../../css/e/e0l7dvb6e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ibtswrwtu"/>`,
+		"content": `<path class="e0l7dvb6e"/>`,
 		"fallback": "vadivam:book-open-check",
 	});
 }

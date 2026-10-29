@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/c/ciq5y6qmo.css';
+import '../../css/j/j21h_ntzq.css';
 import '../../css/v/v6k7bebpa.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="ciq5y6qmo"/><path class="v6k7bebpa"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="j21h_ntzq"/><path class="v6k7bebpa"/></g>`,
 		"fallback": "vadivam:receipt-swiss-franc",
 	});
 }

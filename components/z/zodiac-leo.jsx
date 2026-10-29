@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/b/bjzjig71q.css';
-import '../../css/e/eq85yo64p.css';
+import '../../css/b/bjjjhtu0t.css';
+import '../../css/x/xoejyzbtx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="bjzjig71q"/><path class="eq85yo64p"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="bjjjhtu0t"/><path class="xoejyzbtx"/></g>`,
 		"fallback": "vadivam:zodiac-leo",
 	});
 }

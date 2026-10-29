@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/udj-f0b4d.css';
+import '../../css/w/wzkk5e04a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="udj-f0b4d"/>`,
+		"content": `<path class="wzkk5e04a"/>`,
 		"fallback": "vadivam:alarm-clock-minus",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hg33ixklt.css';
+import '../../css/h/h6081t11q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hg33ixklt"/>`,
+		"content": `<path class="h6081t11q"/>`,
 		"fallback": "vadivam:map-pin-check",
 	});
 }

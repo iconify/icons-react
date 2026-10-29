@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/q/q2496xh2m.css';
-import '../../css/o/oo4hkjbji.css';
+import '../../css/t/t3rrtrv_m.css';
+import '../../css/n/nm0nw7bwy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="q2496xh2m"/><path class="oo4hkjbji"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="t3rrtrv_m"/><path class="nm0nw7bwy"/></g>`,
 		"fallback": "vadivam:redo-dot",
 	});
 }

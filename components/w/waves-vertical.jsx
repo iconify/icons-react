@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kpgkfcbwb.css';
+import '../../css/t/th2freejn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kpgkfcbwb"/>`,
+		"content": `<path class="th2freejn"/>`,
 		"fallback": "vadivam:waves-vertical",
 	});
 }

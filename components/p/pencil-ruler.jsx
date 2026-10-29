@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bbjc9sb_a.css';
+import '../../css/w/w5xkofc_t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bbjc9sb_a"/>`,
+		"content": `<path class="w5xkofc_t"/>`,
 		"fallback": "vadivam:pencil-ruler",
 	});
 }

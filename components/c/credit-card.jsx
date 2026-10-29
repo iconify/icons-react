@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oslpx-ver.css';
+import '../../css/o/oy1n90bfz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oslpx-ver"/>`,
+		"content": `<path class="oy1n90bfz"/>`,
 		"fallback": "vadivam:credit-card",
 	});
 }

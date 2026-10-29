@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ek_fhacrv.css';
+import '../../css/x/xka1fh12u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ek_fhacrv"/>`,
+		"content": `<path class="xka1fh12u"/>`,
 		"fallback": "vadivam:folder-kanban",
 	});
 }

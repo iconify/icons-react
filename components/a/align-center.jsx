@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/m/m33-oib3w.css';
+import '../../css/s/stui2mbih.css';
+import '../../css/u/uodpagdfp.css';
+import '../../css/v/vc--wpv5i.css';
+import '../../css/a/ackqa5buo.css';
+import '../../css/x/xbb9bdb7e.css';
+import '../../css/h/hhgj_acrx.css';
+import '../../css/x/x0k1t98xy.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><linearGradient id="SVGb0mKobDr" x1="0" x2="0" y1="3.75" y2="21.25" gradientUnits="userSpaceOnUse"><stop offset="0" class="m33-oib3w"/><stop offset=".5" class="stui2mbih"/><stop offset="1" class="uodpagdfp"/></linearGradient><linearGradient id="SVGtk0u2caA" x1="0" x2="0" y1="3.5" y2="4.7" gradientUnits="userSpaceOnUse"><stop offset=".25" class="vc--wpv5i"/><stop offset="1" class="ackqa5buo"/></linearGradient></defs><path class="wm-k xbb9bdb7e"/><path fill="url(#SVGb0mKobDr)" class="hhgj_acrx wm-shine"/><path fill="url(#SVGtk0u2caA)" class="wm-deco x0k1t98xy"/></g>`,
+		"fallback": "withicons-christmas:align-center",
+	});
+}
+
+export default Component;

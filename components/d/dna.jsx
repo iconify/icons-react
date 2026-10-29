@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/p/pp783-bfu.css';
+import '../../css/l/lq81icb7y.css';
+import '../../css/u/urdsoyirw.css';
+import '../../css/k/klalqjb5s.css';
+import '../../css/j/j10y_sbul.css';
+import '../../css/k/k_sq1bc2u.css';
+import '../../css/v/vicc33bvr.css';
+import '../../css/a/azx2d2tww.css';
+import '../../css/a/a8hol9iax.css';
+import '../../css/v/v_pa9mbso.css';
+import '../../css/g/g9j4zenoz.css';
+import '../../css/d/d4liqwb7n.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><radialGradient id="SVGVv6zBYDf" cx="12" cy="13.68" r="13.86" fx="10.08" fy="8.22" gradientUnits="userSpaceOnUse"><stop offset="0" class="pp783-bfu"/><stop offset=".45" class="pp783-bfu"/><stop offset="1" class="lq81icb7y"/></radialGradient><radialGradient id="SVGb1QNAcbg" cx="12" cy="14.1" r="13.02" gradientUnits="userSpaceOnUse"><stop offset="0" class="urdsoyirw"/><stop offset=".5" class="klalqjb5s"/><stop offset="1" class="pp783-bfu"/></radialGradient><radialGradient id="SVGI5yZ6d8X" cx="12" cy="13.05" r="12" gradientUnits="userSpaceOnUse"><stop offset="0" class="j10y_sbul"/><stop offset=".55" class="k_sq1bc2u"/><stop offset="1" class="vicc33bvr"/></radialGradient></defs><path fill="url(#SVGI5yZ6d8X)" class="azx2d2tww wm-deco"/><path class="a8hol9iax wm-shadow"/><path fill="url(#SVGb1QNAcbg)" class="v_pa9mbso wm-shine"/><path fill="url(#SVGVv6zBYDf)" class="g9j4zenoz wm-k"/><path class="d4liqwb7n wm-shine"/></g>`,
+		"fallback": "withicons-halloween:dna",
+	});
+}
+
+export default Component;

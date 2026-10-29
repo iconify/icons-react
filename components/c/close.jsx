@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/z/z7_e88ivb.css';
+import '../../css/h/hlq_ssbnu.css';
+import '../../css/u/urdsoyirw.css';
+import '../../css/k/klalqjb5s.css';
+import '../../css/p/pp783-bfu.css';
+import '../../css/j/j10y_sbul.css';
+import '../../css/k/k_sq1bc2u.css';
+import '../../css/v/vicc33bvr.css';
+import '../../css/a/azx2d2tww.css';
+import '../../css/h/h6tzfqufv.css';
+import '../../css/q/qx6zixl5r.css';
+import '../../css/p/p6j_7qbvh.css';
+import '../../css/z/zsgj57fny.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><radialGradient id="SVG6mJKWbEq" cx="12" cy="13.12" r="9.24" fx="9.76" fy="9.48" gradientUnits="userSpaceOnUse"><stop offset="0" class="z7_e88ivb"/><stop offset=".45" class="z7_e88ivb"/><stop offset="1" class="hlq_ssbnu"/></radialGradient><radialGradient id="SVGf7GKRbBZ" cx="12" cy="13.4" r="8.68" gradientUnits="userSpaceOnUse"><stop offset="0" class="urdsoyirw"/><stop offset=".5" class="klalqjb5s"/><stop offset="1" class="pp783-bfu"/></radialGradient><radialGradient id="SVGdlWcrb9s" cx="12" cy="12.7" r="11.18" gradientUnits="userSpaceOnUse"><stop offset="0" class="j10y_sbul"/><stop offset=".55" class="k_sq1bc2u"/><stop offset="1" class="vicc33bvr"/></radialGradient></defs><path fill="url(#SVGdlWcrb9s)" class="azx2d2tww wm-deco"/><path class="h6tzfqufv wm-shadow"/><path fill="url(#SVGf7GKRbBZ)" class="qx6zixl5r wm-shine"/><path fill="url(#SVG6mJKWbEq)" class="p6j_7qbvh wm-k"/><path class="wm-shine zsgj57fny"/></g>`,
+		"fallback": "withicons-halloween:close",
+	});
+}
+
+export default Component;

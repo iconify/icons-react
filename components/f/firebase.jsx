@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j-fopxbwk.css';
+import '../../css/m/m2x5yebma.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j-fopxbwk"/>`,
+		"content": `<path class="m2x5yebma"/>`,
 		"fallback": "devicon-plain:firebase",
 	});
 }

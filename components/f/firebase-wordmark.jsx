@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bqoz608tf.css';
+import '../../css/q/qd9c_2bin.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bqoz608tf"/>`,
+		"content": `<path class="qd9c_2bin"/>`,
 		"fallback": "devicon-plain:firebase-wordmark",
 	});
 }

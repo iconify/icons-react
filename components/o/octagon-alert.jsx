@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/z/z5a4ghrom.css';
+import '../../css/p/pqtp8zbrw.css';
+import '../../css/p/pkj577m_h.css';
+import '../../css/u/uld8ezbyd.css';
+import '../../css/d/d9_zxltkw.css';
+import '../../css/n/nyczm8bno.css';
+import '../../css/v/v__t56bdl.css';
+import '../../css/q/qe3149bvl.css';
+import '../../css/b/b4ykrudpr.css';
+import '../../css/y/yoqx8hbqs.css';
+import '../../css/y/y9e63rbjm.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="wm-shadow z5a4ghrom"/><path class="pqtp8zbrw wm-shadow"/><path class="pkj577m_h"/><path class="uld8ezbyd"/><path class="d9_zxltkw"/><path class="nyczm8bno"/><path class="v__t56bdl wm-shine"/><path class="qe3149bvl wm-shine"/><path class="b4ykrudpr"/><path class="yoqx8hbqs"/><path class="y9e63rbjm"/></g>`,
+		"fallback": "withicons-skeuo:octagon-alert",
+	});
+}
+
+export default Component;

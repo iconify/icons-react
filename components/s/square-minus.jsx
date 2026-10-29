@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/e/erpis30sd.css';
+import '../../css/y/yulfdub8q.css';
+import '../../css/y/yp__mibxr.css';
+import '../../css/q/q27a_xbyb.css';
+import '../../css/b/bspr2ac5z.css';
+import '../../css/q/qlmfwlbtg.css';
+import '../../css/j/j3hsr-b9o.css';
+import '../../css/e/e8o4ap5xv.css';
+import '../../css/q/qtdo0wbha.css';
+import '../../css/j/jzek8ubpa.css';
+import '../../css/n/nutb51h9c.css';
+import '../../css/l/l9uqffn9q.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="erpis30sd wm-shadow"/><path class="wm-shadow yulfdub8q"/><path class="yp__mibxr"/><path class="q27a_xbyb"/><path class="bspr2ac5z"/><path class="qlmfwlbtg"/><path class="j3hsr-b9o wm-shine"/><path class="e8o4ap5xv wm-shine"/><path class="qtdo0wbha"/><path class="jzek8ubpa"/><path class="nutb51h9c"/><path class="l9uqffn9q"/></g>`,
+		"fallback": "withicons-skeuo:square-minus",
+	});
+}
+
+export default Component;

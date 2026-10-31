@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/codicon",
   "type": "module",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "homepage": "https://icon-sets.iconify.design/codicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -1065,6 +1065,10 @@
     "./git-branch-changes": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/git-branch-changes.jsx"
+    },
+    "./git-branch-checkout": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-checkout.jsx"
     },
     "./git-branch-compact": {
       "types": "./types/hqrkovbr.d.ts",

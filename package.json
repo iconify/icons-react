@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vadivam",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "https://icon-sets.iconify.design/vadivam/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -205,6 +205,14 @@
     "./archive": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/archive.jsx"
+    },
+    "./archive-arrow-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-arrow-down.jsx"
+    },
+    "./archive-arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-arrow-up.jsx"
     },
     "./archive-restore": {
       "types": "./types/hqrkovbr.d.ts",
@@ -442,6 +450,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/axis-3d.jsx"
     },
+    "./azerbaijani-manat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azerbaijani-manat.jsx"
+    },
     "./baby": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/baby.jsx"
@@ -529,6 +541,10 @@
     "./baggage-claim": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/baggage-claim.jsx"
+    },
+    "./ball-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/ball-wave.jsx"
     },
     "./balloon": {
       "types": "./types/hqrkovbr.d.ts",
@@ -770,10 +786,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bluetooth-searching.jsx"
     },
-    "./bold": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/b/bold.jsx"
-    },
     "./bolt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bolt.jsx"
@@ -950,6 +962,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/boxes.jsx"
     },
+    "./boxes-linked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boxes-linked.jsx"
+    },
     "./braces": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/braces.jsx"
@@ -1105,6 +1121,14 @@
     "./calendar-arrow-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-arrow-down.jsx"
+    },
+    "./calendar-arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-left.jsx"
+    },
+    "./calendar-arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-right.jsx"
     },
     "./calendar-arrow-up": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1394,6 +1418,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-pie.jsx"
     },
+    "./chart-quadrant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-quadrant.jsx"
+    },
+    "./chart-radar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-radar.jsx"
+    },
     "./chart-scatter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-scatter.jsx"
@@ -1649,6 +1681,114 @@
     "./circle-gauge": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-gauge.jsx"
+    },
+    "./circle-letter-a": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-a.jsx"
+    },
+    "./circle-letter-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-b.jsx"
+    },
+    "./circle-letter-c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-c.jsx"
+    },
+    "./circle-letter-d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-d.jsx"
+    },
+    "./circle-letter-e": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-e.jsx"
+    },
+    "./circle-letter-f": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-f.jsx"
+    },
+    "./circle-letter-g": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-g.jsx"
+    },
+    "./circle-letter-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-h.jsx"
+    },
+    "./circle-letter-i": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-i.jsx"
+    },
+    "./circle-letter-j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-j.jsx"
+    },
+    "./circle-letter-k": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-k.jsx"
+    },
+    "./circle-letter-l": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-l.jsx"
+    },
+    "./circle-letter-m": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-m.jsx"
+    },
+    "./circle-letter-n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-n.jsx"
+    },
+    "./circle-letter-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-o.jsx"
+    },
+    "./circle-letter-p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-p.jsx"
+    },
+    "./circle-letter-p-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-p-off.jsx"
+    },
+    "./circle-letter-q": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-q.jsx"
+    },
+    "./circle-letter-r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-r.jsx"
+    },
+    "./circle-letter-s": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-s.jsx"
+    },
+    "./circle-letter-t": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-t.jsx"
+    },
+    "./circle-letter-u": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-u.jsx"
+    },
+    "./circle-letter-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-v.jsx"
+    },
+    "./circle-letter-w": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-w.jsx"
+    },
+    "./circle-letter-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-x.jsx"
+    },
+    "./circle-letter-y": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-y.jsx"
+    },
+    "./circle-letter-z": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-letter-z.jsx"
     },
     "./circle-minus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2238,6 +2378,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database-check.jsx"
     },
+    "./database-cog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-cog.jsx"
+    },
     "./database-minus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database-minus.jsx"
@@ -2454,6 +2598,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ear-off.jsx"
     },
+    "./earbuds": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earbuds.jsx"
+    },
+    "./earbuds-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earbuds-off.jsx"
+    },
     "./earth": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/earth.jsx"
@@ -2501,6 +2653,10 @@
     "./ellipsis-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ellipsis-vertical.jsx"
+    },
+    "./emirati-dirham": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emirati-dirham.jsx"
     },
     "./engine": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3462,10 +3618,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hdmi-port.jsx"
     },
-    "./heading": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/h/heading.jsx"
-    },
     "./heading-1": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heading-1.jsx"
@@ -3554,6 +3706,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hiking-stick.jsx"
     },
+    "./hockey-stick": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hockey-stick.jsx"
+    },
     "./hop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hop.jsx"
@@ -3565,6 +3721,10 @@
     "./hospital": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hospital.jsx"
+    },
+    "./hot-air-balloon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hot-air-balloon.jsx"
     },
     "./hotel": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3794,6 +3954,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/laptop-minimal-check.jsx"
     },
+    "./laser": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/laser.jsx"
+    },
     "./lasso": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lasso.jsx"
@@ -3898,9 +4062,113 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lens-convex.jsx"
     },
+    "./letter-a": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-a.jsx"
+    },
+    "./letter-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-b.jsx"
+    },
+    "./letter-c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-c.jsx"
+    },
+    "./letter-d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-d.jsx"
+    },
+    "./letter-e": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-e.jsx"
+    },
+    "./letter-f": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-f.jsx"
+    },
+    "./letter-g": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-g.jsx"
+    },
+    "./letter-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-h.jsx"
+    },
+    "./letter-i": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-i.jsx"
+    },
+    "./letter-j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-j.jsx"
+    },
+    "./letter-k": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-k.jsx"
+    },
+    "./letter-l": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-l.jsx"
+    },
+    "./letter-m": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-m.jsx"
+    },
+    "./letter-n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-n.jsx"
+    },
+    "./letter-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-o.jsx"
+    },
+    "./letter-p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-p.jsx"
+    },
+    "./letter-q": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-q.jsx"
+    },
+    "./letter-r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-r.jsx"
+    },
+    "./letter-s": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-s.jsx"
+    },
     "./letter-spacing": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/letter-spacing.jsx"
+    },
+    "./letter-t": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-t.jsx"
+    },
+    "./letter-u": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-u.jsx"
+    },
+    "./letter-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-v.jsx"
+    },
+    "./letter-w": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-w.jsx"
+    },
+    "./letter-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-x.jsx"
+    },
+    "./letter-y": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-y.jsx"
+    },
+    "./letter-z": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-z.jsx"
     },
     "./letters": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4765,6 +5033,10 @@
     "./notepad-text-dashed": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/notepad-text-dashed.jsx"
+    },
+    "./numbers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/numbers.jsx"
     },
     "./nut": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5998,6 +6270,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/siren.jsx"
     },
+    "./siren-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/siren-off.jsx"
+    },
     "./sixteenth-notes": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sixteenth-notes.jsx"
@@ -6246,6 +6522,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-chevron-up.jsx"
     },
+    "./square-chevrons-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-down.jsx"
+    },
+    "./square-chevrons-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-left.jsx"
+    },
+    "./square-chevrons-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-right.jsx"
+    },
+    "./square-chevrons-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-chevrons-up.jsx"
+    },
     "./square-code": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-code.jsx"
@@ -6318,13 +6610,121 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-kanban.jsx"
     },
+    "./square-kanban-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-kanban-plus.jsx"
+    },
+    "./square-letter-a": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-a.jsx"
+    },
+    "./square-letter-b": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-b.jsx"
+    },
+    "./square-letter-c": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-c.jsx"
+    },
+    "./square-letter-d": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-d.jsx"
+    },
+    "./square-letter-e": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-e.jsx"
+    },
+    "./square-letter-f": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-f.jsx"
+    },
+    "./square-letter-g": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-g.jsx"
+    },
+    "./square-letter-h": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-h.jsx"
+    },
+    "./square-letter-i": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-i.jsx"
+    },
+    "./square-letter-j": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-j.jsx"
+    },
+    "./square-letter-k": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-k.jsx"
+    },
+    "./square-letter-l": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-l.jsx"
+    },
+    "./square-letter-m": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-m.jsx"
+    },
+    "./square-letter-n": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-n.jsx"
+    },
+    "./square-letter-o": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-o.jsx"
+    },
+    "./square-letter-p": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-p.jsx"
+    },
+    "./square-letter-p-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-p-off.jsx"
+    },
+    "./square-letter-q": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-q.jsx"
+    },
+    "./square-letter-r": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-r.jsx"
+    },
+    "./square-letter-s": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-s.jsx"
+    },
+    "./square-letter-t": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-t.jsx"
+    },
+    "./square-letter-u": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-u.jsx"
+    },
+    "./square-letter-v": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-v.jsx"
+    },
+    "./square-letter-w": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-w.jsx"
+    },
+    "./square-letter-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-x.jsx"
+    },
+    "./square-letter-y": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-y.jsx"
+    },
+    "./square-letter-z": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-letter-z.jsx"
+    },
     "./square-library": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-library.jsx"
-    },
-    "./square-m": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/square-m.jsx"
     },
     "./square-menu": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6341,14 +6741,6 @@
     "./square-off": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-off.jsx"
-    },
-    "./square-parking": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/square-parking.jsx"
-    },
-    "./square-parking-off": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/square-parking-off.jsx"
     },
     "./square-pause": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7226,6 +7618,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-search.jsx"
     },
+    "./user-round-shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-round-shield.jsx"
+    },
     "./user-round-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-star.jsx"
@@ -7626,9 +8022,29 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zoom-out.jsx"
     },
+    "./bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bold.jsx"
+    },
+    "./heading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading.jsx"
+    },
     "./music": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/music.jsx"
+    },
+    "./square-m": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-m.jsx"
+    },
+    "./square-parking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-parking.jsx"
+    },
+    "./square-parking-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-parking-off.jsx"
     },
     "./trash-2": {
       "types": "./types/hqrkovbr.d.ts",

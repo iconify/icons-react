@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/h/hod1_zrxc.css';
+import '../../css/l/l-k6zopvl.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="hod1_zrxc"/><path class="l-k6zopvl"/></g>`,
+		"fallback": "coolicons:shield-sparkle-duotone-round",
+	});
+}
+
+export default Component;

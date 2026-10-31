@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/d2kvgvbvc.css';
+import '../../css/e/ei62etbun.css';
+import '../../css/w/wu226ccgn.css';
+import '../../css/h/h4kim_4pi.css';
+import '../../css/y/yur9gvbnw.css';
+import '../../css/w/wkptglbpy.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="d2kvgvbvc"><path class="ei62etbun wm-shadow"/><path class="wu226ccgn"/><path class="h4kim_4pi"/><path class="yur9gvbnw"/><path class="wkptglbpy"/></g>`,
+		"fallback": "withicons-retro:volume-1",
+	});
+}
+
+export default Component;

@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/d2kvgvbvc.css';
+import '../../css/r/rp0m-nb7w.css';
+import '../../css/k/kdhnjd3qk.css';
+import '../../css/s/s6987tevs.css';
+import '../../css/w/wu6md96gy.css';
+import '../../css/w/we348tpyt.css';
+import '../../css/s/s_k061a0k.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="d2kvgvbvc"><path class="rp0m-nb7w wm-shadow"/><path class="kdhnjd3qk"/><path class="s6987tevs"/><path class="wu6md96gy"/><path class="we348tpyt"/><path class="s_k061a0k"/></g>`,
+		"fallback": "withicons-retro:hospital",
+	});
+}
+
+export default Component;

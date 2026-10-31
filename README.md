@@ -11,6 +11,11 @@ Browse all icons: [preview TDesign Icons on Iconify](https://icon-sets.iconify.d
 ## Installation
 
 ```bash
+npm install gitlab:iconify-icons/react#tdesign
+```
+
+or
+```bash
 npm install github:iconify/icons-react#tdesign
 ```
 

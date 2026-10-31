@@ -1,0 +1,495 @@
+{
+  "name": "@iconify-react/iconito",
+  "type": "module",
+  "version": "1.0.0",
+  "homepage": "https://icon-sets.iconify.design/iconito/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./almond": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/almond.jsx"
+    },
+    "./apple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apple.jsx"
+    },
+    "./bacon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bacon.jsx"
+    },
+    "./baguette": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/baguette.jsx"
+    },
+    "./banana": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/banana.jsx"
+    },
+    "./banana-bread": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/banana-bread.jsx"
+    },
+    "./basil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/basil.jsx"
+    },
+    "./bean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bean.jsx"
+    },
+    "./beef": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beef.jsx"
+    },
+    "./beer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beer.jsx"
+    },
+    "./bell-pepper": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-pepper.jsx"
+    },
+    "./blueberry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blueberry.jsx"
+    },
+    "./bread": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bread.jsx"
+    },
+    "./broccoli": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/broccoli.jsx"
+    },
+    "./brownie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brownie.jsx"
+    },
+    "./burger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/burger.jsx"
+    },
+    "./burrito": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/burrito.jsx"
+    },
+    "./butter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/butter.jsx"
+    },
+    "./cake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cake.jsx"
+    },
+    "./candy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/candy.jsx"
+    },
+    "./carrot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carrot.jsx"
+    },
+    "./cheese": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cheese.jsx"
+    },
+    "./cheesecake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cheesecake.jsx"
+    },
+    "./chicken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chicken.jsx"
+    },
+    "./chicken-wing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chicken-wing.jsx"
+    },
+    "./chickpea": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chickpea.jsx"
+    },
+    "./chocolate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chocolate.jsx"
+    },
+    "./chocolate-cake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chocolate-cake.jsx"
+    },
+    "./cilantro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cilantro.jsx"
+    },
+    "./cocktail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cocktail.jsx"
+    },
+    "./coffee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coffee.jsx"
+    },
+    "./coleslaw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coleslaw.jsx"
+    },
+    "./cookie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie.jsx"
+    },
+    "./corn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corn.jsx"
+    },
+    "./cream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cream.jsx"
+    },
+    "./croissant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/croissant.jsx"
+    },
+    "./croissant-sweet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/croissant-sweet.jsx"
+    },
+    "./cucumber": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cucumber.jsx"
+    },
+    "./cupcake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cupcake.jsx"
+    },
+    "./curry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/curry.jsx"
+    },
+    "./donut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/donut.jsx"
+    },
+    "./dumpling": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumpling.jsx"
+    },
+    "./egg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/egg.jsx"
+    },
+    "./enchilada": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/enchilada.jsx"
+    },
+    "./fish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fish.jsx"
+    },
+    "./flour": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flour.jsx"
+    },
+    "./french-toast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/french-toast.jsx"
+    },
+    "./fried-egg-dish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fried-egg-dish.jsx"
+    },
+    "./fries": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fries.jsx"
+    },
+    "./garlic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/garlic.jsx"
+    },
+    "./grape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grape.jsx"
+    },
+    "./ham": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/ham.jsx"
+    },
+    "./honey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/honey.jsx"
+    },
+    "./ice-cream": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-cream.jsx"
+    },
+    "./juice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/juice.jsx"
+    },
+    "./kale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kale.jsx"
+    },
+    "./lamb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lamb.jsx"
+    },
+    "./lasagna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lasagna.jsx"
+    },
+    "./lemon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lemon.jsx"
+    },
+    "./lentil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lentil.jsx"
+    },
+    "./lettuce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lettuce.jsx"
+    },
+    "./lime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lime.jsx"
+    },
+    "./maple-syrup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/maple-syrup.jsx"
+    },
+    "./mayonnaise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mayonnaise.jsx"
+    },
+    "./meatball": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meatball.jsx"
+    },
+    "./milk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/milk.jsx"
+    },
+    "./mint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mint.jsx"
+    },
+    "./mushroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mushroom.jsx"
+    },
+    "./noodles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noodles.jsx"
+    },
+    "./oats": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oats.jsx"
+    },
+    "./olive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive.jsx"
+    },
+    "./olive-oil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive-oil.jsx"
+    },
+    "./onion": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/onion.jsx"
+    },
+    "./orange": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orange.jsx"
+    },
+    "./oregano": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oregano.jsx"
+    },
+    "./pad-thai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pad-thai.jsx"
+    },
+    "./pancake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pancake.jsx"
+    },
+    "./parsley": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parsley.jsx"
+    },
+    "./pasta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pasta.jsx"
+    },
+    "./pasta-dish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pasta-dish.jsx"
+    },
+    "./peanut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/peanut.jsx"
+    },
+    "./pie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pie.jsx"
+    },
+    "./pizza": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pizza.jsx"
+    },
+    "./pork": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pork.jsx"
+    },
+    "./potato": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/potato.jsx"
+    },
+    "./quinoa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quinoa.jsx"
+    },
+    "./ramen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/ramen.jsx"
+    },
+    "./rice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rice.jsx"
+    },
+    "./rice-bowl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rice-bowl.jsx"
+    },
+    "./rosemary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rosemary.jsx"
+    },
+    "./salad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salad.jsx"
+    },
+    "./salmon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salmon.jsx"
+    },
+    "./sandwich": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sandwich.jsx"
+    },
+    "./sausage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sausage.jsx"
+    },
+    "./shrimp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shrimp.jsx"
+    },
+    "./smoothie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smoothie.jsx"
+    },
+    "./soda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soda.jsx"
+    },
+    "./soup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/soup.jsx"
+    },
+    "./spinach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spinach.jsx"
+    },
+    "./squid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/squid.jsx"
+    },
+    "./stew": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stew.jsx"
+    },
+    "./strawberry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/strawberry.jsx"
+    },
+    "./sugar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sugar.jsx"
+    },
+    "./sushi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sushi.jsx"
+    },
+    "./taco": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taco.jsx"
+    },
+    "./tea": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tea.jsx"
+    },
+    "./thyme": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thyme.jsx"
+    },
+    "./tofu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tofu.jsx"
+    },
+    "./tomato": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tomato.jsx"
+    },
+    "./tortilla": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tortilla.jsx"
+    },
+    "./tuna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tuna.jsx"
+    },
+    "./turkey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turkey.jsx"
+    },
+    "./vinegar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vinegar.jsx"
+    },
+    "./waffle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waffle.jsx"
+    },
+    "./walnut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/walnut.jsx"
+    },
+    "./water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/water.jsx"
+    },
+    "./watermelon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/watermelon.jsx"
+    },
+    "./wine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wine.jsx"
+    },
+    "./yogurt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yogurt.jsx"
+    },
+    "./zucchini": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zucchini.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#iconito"
+}

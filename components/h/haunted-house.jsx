@@ -1,0 +1,27 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/p/pgqql6bua.css';
+import '../../css/n/np49-gpai.css';
+import '../../css/z/zpm3wfbsu.css';
+import '../../css/w/wt5t06dnq.css';
+import '../../css/w/w55gmnbjw.css';
+import '../../css/o/o61iemb0l.css';
+import '../../css/o/oa86kub2i.css';
+import '../../css/p/p95uf2b_k.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><radialGradient id="SVG1wEKYg3H" cx="7.42" cy="6.85" r="25.54" gradientUnits="userSpaceOnUse"><stop offset="0" class="pgqql6bua"/><stop offset=".3" class="pgqql6bua"/><stop offset="1" class="np49-gpai"/></radialGradient></defs><path class="wm-shadow zpm3wfbsu"/><path fill="url(#SVG1wEKYg3H)" class="wm-k wt5t06dnq"/><path class="w55gmnbjw wm-k"/><path class="o61iemb0l wm-shine"/><path class="oa86kub2i wm-s"/><path class="p95uf2b_k wm-deco"/></g>`,
+		"fallback": "withicons-rangoli:haunted-house",
+	});
+}
+
+export default Component;

@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/p/pgqql6bua.css';
+import '../../css/n/np49-gpai.css';
+import '../../css/s/suvvje--t.css';
+import '../../css/y/yi5a5d-jb.css';
+import '../../css/l/lf_2gdc6z.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><radialGradient id="SVG6HxgaeIr" cx="7.2" cy="7.02" r="25.33" gradientUnits="userSpaceOnUse"><stop offset="0" class="pgqql6bua"/><stop offset=".3" class="pgqql6bua"/><stop offset="1" class="np49-gpai"/></radialGradient></defs><path class="suvvje--t wm-shadow"/><path fill="url(#SVG6HxgaeIr)" class="wm-k yi5a5d-jb"/><path class="lf_2gdc6z wm-shine"/></g>`,
+		"fallback": "withicons-rangoli:app-window",
+	});
+}
+
+export default Component;

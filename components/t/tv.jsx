@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/p/pgqql6bua.css';
+import '../../css/n/np49-gpai.css';
+import '../../css/q/qpkhh7b3c.css';
+import '../../css/d/d5we7ybdi.css';
+import '../../css/w/whogfybxz.css';
+import '../../css/l/l249bujye.css';
+import '../../css/m/mdbe36exy.css';
+import '../../css/s/sicypwb5p.css';
+import '../../css/o/on9949oqm.css';
+import '../../css/g/gyytzlc5m.css';
+import '../../css/e/ea7yp0bjk.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><radialGradient id="SVGSGCFlJKt" cx="7.2" cy="9.36" r="23.71" gradientUnits="userSpaceOnUse"><stop offset="0" class="pgqql6bua"/><stop offset=".3" class="pgqql6bua"/><stop offset="1" class="np49-gpai"/></radialGradient><linearGradient id="SVGDCUexbkg" x1="4" x2="20" y1="3" y2="21" gradientUnits="userSpaceOnUse"><stop offset="0" class="qpkhh7b3c"/><stop offset="1" class="d5we7ybdi"/></linearGradient></defs><path class="whogfybxz wm-shadow"/><path fill="url(#SVGDCUexbkg)" class="l249bujye wm-a"/><path fill="url(#SVGSGCFlJKt)" class="mdbe36exy wm-k"/><path class="sicypwb5p wm-k"/><path class="on9949oqm wm-shine"/><path class="gyytzlc5m wm-deco"/><path class="ea7yp0bjk wm-deco"/></g>`,
+		"fallback": "withicons-rangoli:tv",
+	});
+}
+
+export default Component;

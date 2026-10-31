@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/e/e6xghdcyx.css';
+import '../../css/u/u-mvw4-9h.css';
+import '../../css/i/ibxr_lvxn.css';
+import '../../css/z/z7svkkhar.css';
+import '../../css/d/duyj3tkst.css';
+import '../../css/a/an6b_ibnf.css';
+import '../../css/j/jsdujswzz.css';
+import '../../css/k/k-4s74bmi.css';
+import '../../css/y/yizoptbow.css';
+import '../../css/t/trcuycchw.css';
+import '../../css/y/yc8wh-bxy.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><path class="e6xghdcyx wm-shadow"/><path class="u-mvw4-9h wm-k"/><path class="ibxr_lvxn wm-k"/><path class="wm-k z7svkkhar"/><path class="duyj3tkst wm-k"/><path class="an6b_ibnf wm-shine"/><path class="jsdujswzz wm-s"/><path class="k-4s74bmi wm-s"/><path class="wm-s yizoptbow"/><path class="trcuycchw wm-s"/><path class="wm-shine yc8wh-bxy"/></g>`,
+		"fallback": "withicons-coquette:phone-outgoing",
+	});
+}
+
+export default Component;

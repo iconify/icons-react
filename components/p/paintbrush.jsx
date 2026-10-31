@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/f/fqk8mibcy.css';
+import '../../css/y/yfymn2bvd.css';
+import '../../css/v/vlof82u3g.css';
+import '../../css/c/ca2iikbwp.css';
+import '../../css/z/zajemrbwp.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><linearGradient id="SVG0USVye8e" x1="8.81" x2="14.81" y1="2.07" y2="22.33" gradientUnits="userSpaceOnUse"><stop offset="0" class="fqk8mibcy"/><stop offset="1" class="yfymn2bvd"/></linearGradient></defs><path fill="url(#SVG0USVye8e)" class="vlof82u3g"/><path class="ca2iikbwp wm-a"/><path class="wm-shine zajemrbwp"/></g>`,
+		"fallback": "withicons-utsav:paintbrush",
+	});
+}
+
+export default Component;

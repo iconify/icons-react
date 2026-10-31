@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/pinhead",
   "type": "module",
-  "version": "1.0.37",
+  "version": "1.0.38",
   "homepage": "https://icon-sets.iconify.design/pinhead/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -1110,9 +1110,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bell.jsx"
     },
-    "./bell-in-tall-gable-roofed-building": {
+    "./bell-in-tall-gabled-shelter": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/b/bell-in-tall-gable-roofed-building.jsx"
+      "default": "./components/b/bell-in-tall-gabled-shelter.jsx"
     },
     "./bench": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1214,6 +1214,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bicycle-barrier.jsx"
     },
+    "./bicycle-in-box-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-in-box-gabled-shelter.jsx"
+    },
+    "./bicycle-in-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-in-gabled-building.jsx"
+    },
+    "./bicycle-in-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-in-gabled-shelter.jsx"
+    },
     "./bicycle-in-garage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bicycle-in-garage.jsx"
@@ -1233,6 +1245,10 @@
     "./bicycle-on-parking-line": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bicycle-on-parking-line.jsx"
+    },
+    "./bicycle-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-under-gabled-roof.jsx"
     },
     "./bicycle-under-key": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1457,6 +1473,10 @@
     "./bowling-pins": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bowling-pins.jsx"
+    },
+    "./box-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-gabled-shelter.jsx"
     },
     "./box-truck": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2078,9 +2098,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-between-roller-brushes.jsx"
     },
-    "./car-in-gable-roofed-building": {
+    "./car-in-box-gabled-shelter": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/car-in-gable-roofed-building.jsx"
+      "default": "./components/c/car-in-box-gabled-shelter.jsx"
+    },
+    "./car-in-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-in-gabled-building.jsx"
+    },
+    "./car-in-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-in-gabled-shelter.jsx"
     },
     "./car-in-parking-structure": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2093,6 +2121,10 @@
     "./car-under-checkmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-under-checkmark.jsx"
+    },
+    "./car-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-under-gabled-roof.jsx"
     },
     "./car-under-height-restrictor": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2906,6 +2938,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crane.jsx"
     },
+    "./crates-in-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crates-in-gabled-building.jsx"
+    },
     "./crates-in-rectangle-outline-under-arrow-up-beside-arrow-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crates-in-rectangle-outline-under-arrow-up-beside-arrow-down.jsx"
@@ -2914,9 +2950,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crates-in-rectangle-under-arrow-up-beside-arrow-down.jsx"
     },
-    "./crates-under-roof": {
+    "./crates-under-gabled-roof": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/crates-under-roof.jsx"
+      "default": "./components/c/crates-under-gabled-roof.jsx"
     },
     "./crescent": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3230,9 +3266,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dog-wearing-collar.jsx"
     },
-    "./dog-wearing-collar-in-shelter": {
+    "./dog-wearing-collar-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/d/dog-wearing-collar-in-shelter.jsx"
+      "default": "./components/d/dog-wearing-collar-in-eaved-leanto-shelter.jsx"
     },
     "./dog-wearing-collar-on-leash": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3362,6 +3398,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/droplet-from-pipes.jsx"
     },
+    "./droplet-in-eaved-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/droplet-in-eaved-gabled-building.jsx"
+    },
+    "./droplet-in-eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/droplet-in-eaved-gabled-building-with-chimney.jsx"
+    },
+    "./droplet-in-eaved-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/droplet-in-eaved-gabled-shelter.jsx"
+    },
     "./droplet-in-gable-roofed-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/droplet-in-gable-roofed-shelter.jsx"
@@ -3370,9 +3418,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/droplet-outline.jsx"
     },
-    "./droplet-under-roof": {
+    "./droplet-under-gabled-roof": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/d/droplet-under-roof.jsx"
+      "default": "./components/d/droplet-under-gabled-roof.jsx"
     },
     "./droplet-with-exclamation-point": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3421,6 +3469,98 @@
     "./ear-with-hearing-aid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ear-with-hearing-aid.jsx"
+    },
+    "./eaved-box-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-box-gabled-building.jsx"
+    },
+    "./eaved-box-gabled-building-and-trees-on-hill-in-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-box-gabled-building-and-trees-on-hill-in-water.jsx"
+    },
+    "./eaved-box-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-box-gabled-building-with-chimney.jsx"
+    },
+    "./eaved-box-gabled-building-with-chimney-and-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-box-gabled-building-with-chimney-and-door.jsx"
+    },
+    "./eaved-box-gabled-building-with-chimney-and-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-box-gabled-building-with-chimney-and-window.jsx"
+    },
+    "./eaved-box-gabled-building-with-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-box-gabled-building-with-door.jsx"
+    },
+    "./eaved-box-gabled-building-with-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-box-gabled-building-with-window.jsx"
+    },
+    "./eaved-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-building.jsx"
+    },
+    "./eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-building-with-chimney.jsx"
+    },
+    "./eaved-gabled-building-with-chimney-and-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-building-with-chimney-and-door.jsx"
+    },
+    "./eaved-gabled-building-with-chimney-and-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-building-with-chimney-and-window.jsx"
+    },
+    "./eaved-gabled-building-with-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-building-with-door.jsx"
+    },
+    "./eaved-gabled-building-with-fireplace-and-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-building-with-fireplace-and-chimney.jsx"
+    },
+    "./eaved-gabled-building-with-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-building-with-window.jsx"
+    },
+    "./eaved-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-shelter.jsx"
+    },
+    "./eaved-gabled-shelter-with-fireplace-and-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-gabled-shelter-with-fireplace-and-chimney.jsx"
+    },
+    "./eaved-leanto-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-leanto-shelter.jsx"
+    },
+    "./eaved-open-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-open-gabled-building.jsx"
+    },
+    "./eaved-open-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-open-gabled-building-with-chimney.jsx"
+    },
+    "./eaved-open-gabled-building-with-chimney-and-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-open-gabled-building-with-chimney-and-door.jsx"
+    },
+    "./eaved-open-gabled-building-with-chimney-and-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-open-gabled-building-with-chimney-and-window.jsx"
+    },
+    "./eaved-open-gabled-building-with-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-open-gabled-building-with-door.jsx"
+    },
+    "./eaved-open-gabled-building-with-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-open-gabled-building-with-window.jsx"
     },
     "./egg": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3966,10 +4106,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/g.jsx"
     },
-    "./gable-roofed-building": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/g/gable-roofed-building.jsx"
-    },
     "./gable-roofed-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gable-roofed-shelter.jsx"
@@ -3981,6 +4117,54 @@
     "./gable-roofed-shelter-with-spoon-and-knife": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gable-roofed-shelter-with-spoon-and-knife.jsx"
+    },
+    "./gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building.jsx"
+    },
+    "./gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-chimney.jsx"
+    },
+    "./gabled-building-with-chimney-and-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-chimney-and-door.jsx"
+    },
+    "./gabled-building-with-chimney-and-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-chimney-and-window.jsx"
+    },
+    "./gabled-building-with-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-door.jsx"
+    },
+    "./gabled-building-with-door-and-industrial-building-and-lowrise-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-door-and-industrial-building-and-lowrise-building.jsx"
+    },
+    "./gabled-building-with-flag-and-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-flag-and-door.jsx"
+    },
+    "./gabled-building-with-flag-and-info-i": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-flag-and-info-i.jsx"
+    },
+    "./gabled-building-with-garage-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-garage-door.jsx"
+    },
+    "./gabled-building-with-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-building-with-window.jsx"
+    },
+    "./gabled-roof-with-fireplace-and-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-roof-with-fireplace-and-chimney.jsx"
+    },
+    "./gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-shelter.jsx"
     },
     "./gallbladder": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4150,9 +4334,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/groin.jsx"
     },
-    "./groin-with-rememberance-ribbon": {
+    "./groin-with-remembrance-ribbon": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/g/groin-with-rememberance-ribbon.jsx"
+      "default": "./components/g/groin-with-remembrance-ribbon.jsx"
     },
     "./guidepost": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4298,9 +4482,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hanging-rail-transit-vehicle-with-destination-display.jsx"
     },
-    "./hanging-sign-with-house": {
+    "./hanging-sign-with-eaved-gabled-building-with-door": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/h/hanging-sign-with-house.jsx"
+      "default": "./components/h/hanging-sign-with-eaved-gabled-building-with-door.jsx"
     },
     "./happy-face": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4362,6 +4546,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-above-outstretched-hand.jsx"
     },
+    "./heart-in-eaved-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-in-eaved-gabled-building.jsx"
+    },
+    "./heart-in-eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-in-eaved-gabled-building-with-chimney.jsx"
+    },
+    "./heart-in-eaved-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-in-eaved-gabled-shelter.jsx"
+    },
     "./heart-organ": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-organ.jsx"
@@ -4385,6 +4581,10 @@
     "./heart-shaped-carriage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-shaped-carriage.jsx"
+    },
+    "./heart-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-under-gabled-roof.jsx"
     },
     "./heart-with-bolt": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4454,9 +4654,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/horse-high-stepping.jsx"
     },
-    "./horse-in-shelter": {
+    "./horse-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/h/horse-in-shelter.jsx"
+      "default": "./components/h/horse-in-eaved-leanto-shelter.jsx"
     },
     "./horse-running": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4485,14 +4685,6 @@
     "./hot-dog-with-mustard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hot-dog-with-mustard.jsx"
-    },
-    "./house-and-industrial-building-and-lowrise-building": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/h/house-and-industrial-building-and-lowrise-building.jsx"
-    },
-    "./house-and-trees-on-hill-in-water": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/h/house-and-trees-on-hill-in-water.jsx"
     },
     "./house-with-chimney": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4589,6 +4781,10 @@
     "./info-i": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/info-i.jsx"
+    },
+    "./information-board-with-hipped-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-board-with-hipped-roof.jsx"
     },
     "./inline-skate": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4754,9 +4950,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/key-and-arrow-right-above-arrow-left.jsx"
     },
-    "./key-with-house-keychain": {
+    "./key-on-keychain-with-eaved-gabled-building-with-window": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/k/key-with-house-keychain.jsx"
+      "default": "./components/k/key-on-keychain-with-eaved-gabled-building-with-window.jsx"
     },
     "./keyboard": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5986,9 +6182,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/open-book-above-outstretched-hand.jsx"
     },
-    "./open-book-under-roof": {
+    "./open-book-in-eaved-gabled-building": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/o/open-book-under-roof.jsx"
+      "default": "./components/o/open-book-in-eaved-gabled-building.jsx"
+    },
+    "./open-book-in-eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-book-in-eaved-gabled-building-with-chimney.jsx"
+    },
+    "./open-book-in-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-book-in-gabled-building.jsx"
+    },
+    "./open-book-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-book-under-gabled-roof.jsx"
     },
     "./open-chest-with-treasure-and-sparkles": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6253,6 +6461,10 @@
     "./people-sleeping-in-bunkbeds": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/people-sleeping-in-bunkbeds.jsx"
+    },
+    "./people-sleeping-in-bunkbeds-in-eaved-open-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-open-gabled-building.jsx"
     },
     "./people-sleeping-in-opposing-bunkbeds": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6734,9 +6946,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-sleeping-in-bed-between-floor-and-ceiling.jsx"
     },
-    "./person-sleeping-in-shelter": {
+    "./person-sleeping-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/person-sleeping-in-shelter.jsx"
+      "default": "./components/p/person-sleeping-in-eaved-leanto-shelter.jsx"
     },
     "./person-sliding": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6990,9 +7202,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-walking-with-hiking-pole-wearing-backpack.jsx"
     },
+    "./person-walking-with-hiking-pole-wearing-backpack-in-eaved-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-walking-with-hiking-pole-wearing-backpack-in-eaved-gabled-building.jsx"
+    },
+    "./person-walking-with-hiking-pole-wearing-backpack-in-eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-walking-with-hiking-pole-wearing-backpack-in-eaved-gabled-building-with-chimney.jsx"
+    },
+    "./person-walking-with-hiking-pole-wearing-backpack-in-eaved-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-walking-with-hiking-pole-wearing-backpack-in-eaved-gabled-shelter.jsx"
+    },
     "./person-walking-with-hiking-pole-wearing-backpack-in-gable-roofed-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-walking-with-hiking-pole-wearing-backpack-in-gable-roofed-shelter.jsx"
+    },
+    "./person-walking-with-hiking-pole-wearing-backpack-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-walking-with-hiking-pole-wearing-backpack-under-gabled-roof.jsx"
     },
     "./person-walking-with-white-cane": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7306,9 +7534,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/picnic-table.jsx"
     },
-    "./picnic-table-in-shelter": {
+    "./picnic-table-in-eaved-gabled-building": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/picnic-table-in-shelter.jsx"
+      "default": "./components/p/picnic-table-in-eaved-gabled-building.jsx"
+    },
+    "./picnic-table-in-eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-table-in-eaved-gabled-building-with-chimney.jsx"
+    },
+    "./picnic-table-in-eaved-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-table-in-eaved-gabled-shelter.jsx"
+    },
+    "./picnic-table-in-eaved-leanto-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-table-in-eaved-leanto-shelter.jsx"
+    },
+    "./picnic-table-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-table-under-gabled-roof.jsx"
     },
     "./pier-mounted-in-water": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7542,6 +7786,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-droplet-with-shine.jsx"
     },
+    "./pixel-eaved-box-gabled-building-with-chimney-and-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixel-eaved-box-gabled-building-with-chimney-and-door.jsx"
+    },
     "./pixel-envelope": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-envelope.jsx"
@@ -7558,6 +7806,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-fork-beside-table-knife.jsx"
     },
+    "./pixel-gabled-building-with-flag-and-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixel-gabled-building-with-flag-and-door.jsx"
+    },
     "./pixel-gasoline-pump": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-gasoline-pump.jsx"
@@ -7565,14 +7817,6 @@
     "./pixel-ghost": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-ghost.jsx"
-    },
-    "./pixel-house-with-chimney": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/pixel-house-with-chimney.jsx"
-    },
-    "./pixel-house-with-flag": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/pixel-house-with-flag.jsx"
     },
     "./pixel-international-wheelchair-symbol": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8046,9 +8290,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/recycling-symbol.jsx"
     },
-    "./rememberance-ribbon": {
+    "./remembrance-ribbon": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/r/rememberance-ribbon.jsx"
+      "default": "./components/r/remembrance-ribbon.jsx"
     },
     "./respirator": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8201,10 +8445,6 @@
     "./roof-with-fireplace-and-chimney": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/roof-with-fireplace-and-chimney.jsx"
-    },
-    "./roofed-information-board": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/r/roofed-information-board.jsx"
     },
     "./room": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8577,10 +8817,6 @@
     "./shekel": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shekel.jsx"
-    },
-    "./shelter": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/s/shelter.jsx"
     },
     "./shield": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9102,6 +9338,26 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spiral-labyrinth.jsx"
     },
+    "./splash-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/splash-down.jsx"
+    },
+    "./splash-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/splash-up.jsx"
+    },
+    "./splash-up-from-fountain-basin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/splash-up-from-fountain-basin.jsx"
+    },
+    "./splash-up-from-ground": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/splash-up-from-ground.jsx"
+    },
+    "./splash-up-from-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/splash-up-from-water.jsx"
+    },
     "./spleen": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spleen.jsx"
@@ -9130,9 +9386,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spoon-beside-table-knife.jsx"
     },
+    "./spoon-beside-table-knife-in-eaved-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spoon-beside-table-knife-in-eaved-gabled-building.jsx"
+    },
+    "./spoon-beside-table-knife-in-eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spoon-beside-table-knife-in-eaved-gabled-building-with-chimney.jsx"
+    },
+    "./spoon-beside-table-knife-in-eaved-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spoon-beside-table-knife-in-eaved-gabled-shelter.jsx"
+    },
     "./spoon-beside-table-knife-in-gable-roofed-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spoon-beside-table-knife-in-gable-roofed-shelter.jsx"
+    },
+    "./spoon-beside-table-knife-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spoon-beside-table-knife-under-gabled-roof.jsx"
     },
     "./spray-paint-can": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9570,9 +9842,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tabletop-microphone.jsx"
     },
-    "./tabletop-microphone-in-gable-roofed-building": {
+    "./tabletop-microphone-in-gabled-building": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/t/tabletop-microphone-in-gable-roofed-building.jsx"
+      "default": "./components/t/tabletop-microphone-in-gabled-building.jsx"
+    },
+    "./tabletop-microphone-in-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tabletop-microphone-in-gabled-shelter.jsx"
+    },
+    "./tabletop-microphone-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tabletop-microphone-under-gabled-roof.jsx"
     },
     "./taco": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9782,9 +10062,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/texas-with-capital-star.jsx"
     },
-    "./thatched-roof-hut": {
+    "./thatched-building": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/t/thatched-roof-hut.jsx"
+      "default": "./components/t/thatched-building.jsx"
+    },
+    "./thatched-building-with-door": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thatched-building-with-door.jsx"
+    },
+    "./thatched-building-with-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thatched-building-with-window.jsx"
     },
     "./three-chevrons-right": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10042,9 +10330,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tornado.jsx"
     },
-    "./tornado-beside-shelter": {
+    "./tornado-beside-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/t/tornado-beside-shelter.jsx"
+      "default": "./components/t/tornado-beside-eaved-leanto-shelter.jsx"
     },
     "./tour-van": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10930,9 +11218,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wide-e-on-parking-line.jsx"
     },
-    "./wide-e-under-roof": {
+    "./wide-e-under-gabled-roof": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/w/wide-e-under-roof.jsx"
+      "default": "./components/w/wide-e-under-gabled-roof.jsx"
     },
     "./wide-e-with-arrow-bottom-right": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10966,9 +11254,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wide-p-on-parking-line.jsx"
     },
-    "./wide-p-under-roof": {
+    "./wide-p-under-gabled-roof": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/w/wide-p-under-roof.jsx"
+      "default": "./components/w/wide-p-under-gabled-roof.jsx"
     },
     "./wide-p-with-arrow-bottom-right": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11222,6 +11510,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/banknote-stack-in-slot.jsx"
     },
+    "./bell-in-tall-gable-roofed-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-in-tall-gable-roofed-building.jsx"
+    },
     "./bicycle-and-key": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bicycle-and-key.jsx"
@@ -11322,6 +11614,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-beside-car-under-car-beside-car.jsx"
     },
+    "./car-in-gable-roofed-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-in-gable-roofed-building.jsx"
+    },
     "./car-with-checkmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car-with-checkmark.jsx"
@@ -11374,6 +11670,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/conifer-tree-and-oval-broadleaved-tree.jsx"
     },
+    "./crates-under-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crates-under-roof.jsx"
+    },
     "./desk-lamp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/desk-lamp.jsx"
@@ -11394,6 +11694,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/diamond-tall-outline.jsx"
     },
+    "./dog-wearing-collar-in-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog-wearing-collar-in-shelter.jsx"
+    },
     "./double-diamond-tall": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/double-diamond-tall.jsx"
@@ -11409,6 +11713,10 @@
     "./droplet-beside-question-mark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/droplet-beside-question-mark.jsx"
+    },
+    "./droplet-under-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/droplet-under-roof.jsx"
     },
     "./e-wide": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11594,6 +11902,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/four-plus-over-water.jsx"
     },
+    "./gable-roofed-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gable-roofed-building.jsx"
+    },
     "./garage-and-key": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/garage-and-key.jsx"
@@ -11614,6 +11926,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grecian-vase.jsx"
     },
+    "./groin-with-rememberance-ribbon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groin-with-rememberance-ribbon.jsx"
+    },
     "./hammer-with-nail": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hammer-with-nail.jsx"
@@ -11630,9 +11946,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hands-sign-language-interpretation.jsx"
     },
+    "./hanging-sign-with-house": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hanging-sign-with-house.jsx"
+    },
     "./head-and-shoulders": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/head-and-shoulders.jsx"
+    },
+    "./horse-in-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horse-in-shelter.jsx"
+    },
+    "./house-and-industrial-building-and-lowrise-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house-and-industrial-building-and-lowrise-building.jsx"
+    },
+    "./house-and-trees-on-hill-in-water": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house-and-trees-on-hill-in-water.jsx"
     },
     "./ice-text": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11685,6 +12017,10 @@
     "./kerb-rolled-under-shoe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kerb-rolled-under-shoe.jsx"
+    },
+    "./key-with-house-keychain": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-with-house-keychain.jsx"
     },
     "./kids-train": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11833,6 +12169,10 @@
     "./one-zero": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/one-zero.jsx"
+    },
+    "./open-book-under-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-book-under-roof.jsx"
     },
     "./overweight-person": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11998,6 +12338,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-running-after-person.jsx"
     },
+    "./person-sleeping-in-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-sleeping-in-shelter.jsx"
+    },
     "./person-sliding-down-cliff": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-sliding-down-cliff.jsx"
@@ -12134,6 +12478,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone-down-above-two-one-one.jsx"
     },
+    "./picnic-table-in-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-table-in-shelter.jsx"
+    },
     "./pill": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pill.jsx"
@@ -12153,6 +12501,14 @@
     "./pixel-head-and-shoulders": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-head-and-shoulders.jsx"
+    },
+    "./pixel-house-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixel-house-with-chimney.jsx"
+    },
+    "./pixel-house-with-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixel-house-with-flag.jsx"
     },
     "./plane-takeoff": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12198,6 +12554,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rectangle-tall-beside-waters.jsx"
     },
+    "./rememberance-ribbon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rememberance-ribbon.jsx"
+    },
     "./roman-numeral-i-over-water": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/roman-numeral-i-over-water.jsx"
@@ -12222,6 +12582,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/roman-numeral-vi-over-water.jsx"
     },
+    "./roofed-information-board": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roofed-information-board.jsx"
+    },
     "./scissors-open": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scissors-open.jsx"
@@ -12241,6 +12605,10 @@
     "./seven-one-one": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/seven-one-one.jsx"
+    },
+    "./shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shelter.jsx"
     },
     "./shopping-bag-with-music-notes-eighth": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12338,6 +12706,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/suitcase-in-rectangle-outline-and-key.jsx"
     },
+    "./tabletop-microphone-in-gable-roofed-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tabletop-microphone-in-gable-roofed-building.jsx"
+    },
     "./taxi-and-taxi-checkerboard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/taxi-and-taxi-checkerboard.jsx"
@@ -12369,6 +12741,10 @@
     "./ten": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/ten.jsx"
+    },
+    "./thatched-roof-hut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thatched-roof-hut.jsx"
     },
     "./three": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12445,6 +12821,10 @@
     "./three-plus-over-water": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/three-plus-over-water.jsx"
+    },
+    "./tornado-beside-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tornado-beside-shelter.jsx"
     },
     "./trail-blazes-down": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12561,6 +12941,14 @@
     "./wc-text": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wc-text.jsx"
+    },
+    "./wide-e-under-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wide-e-under-roof.jsx"
+    },
+    "./wide-p-under-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wide-p-under-roof.jsx"
     },
     "./winding-way-narrow": {
       "types": "./types/hqrkovbr.d.ts",

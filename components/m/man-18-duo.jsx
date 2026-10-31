@@ -23,7 +23,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><path id="SVGJtvXoccL" class="d70dgqb3v"/></defs><g class="ft5dv1b6b"><path class="k8flcdbca"/><path class="zcnv3zecm"/><path class="t1o6i88vq"/><path class="d6s348b5x"/><path class="n1fw6ublx"/><path class="tcazsqv8s"/><path clip-rule="evenodd" class="v8r2iybsu"/><path class="pd6364b8b"/><path class="sucieqbkl"/><use href="#SVGJtvXoccL"/><use href="#SVGJtvXoccL"/><path class="di28mn6wi"/><path clip-rule="evenodd" class="e0hmeybyc"/></g>`,
+		"content": `<defs><path id="SVGKSICFdBE" class="d70dgqb3v"/></defs><g class="ft5dv1b6b"><path class="k8flcdbca"/><path class="zcnv3zecm"/><path class="t1o6i88vq"/><path class="d6s348b5x"/><path class="n1fw6ublx"/><path class="tcazsqv8s"/><path clip-rule="evenodd" class="v8r2iybsu"/><path class="pd6364b8b"/><path class="sucieqbkl"/><use href="#SVGKSICFdBE"/><use href="#SVGKSICFdBE"/><path class="di28mn6wi"/><path clip-rule="evenodd" class="e0hmeybyc"/></g>`,
 		"fallback": "streamline-kameleon-color:man-18-duo",
 	});
 }

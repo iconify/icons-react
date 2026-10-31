@@ -2,14 +2,14 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/b/bi12bsetm.css';
 import '../../css/e/eb3ht5b1i.css';
-import '../../css/o/odmysdbng.css';
-import '../../css/i/icwh4nd8c.css';
-import '../../css/f/ft08jjbst.css';
-import '../../css/c/cjsh9qbru.css';
-import '../../css/a/a4x545bfx.css';
-import '../../css/b/b-33imbfd.css';
-import '../../css/h/hdzjb-b4p.css';
-import '../../css/u/uwbj216xp.css';
+import '../../css/k/kqpjpzzrl.css';
+import '../../css/p/p18s_lo_x.css';
+import '../../css/r/rqw2ufbbf.css';
+import '../../css/x/xxf39yb4o.css';
+import '../../css/r/rivul1b_c.css';
+import '../../css/n/n1a9a-jis.css';
+import '../../css/c/cqwgtobjz.css';
+import '../../css/b/bhhqm2i8f.css';
 
 const viewBox = {"width":301,"height":151};
 
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="bi12bsetm"><path class="eb3ht5b1i"/><path class="odmysdbng"/><path class="icwh4nd8c"/><path class="ft08jjbst"/><path class="cjsh9qbru"/><path class="a4x545bfx"/><path class="b-33imbfd"/><path class="hdzjb-b4p"/><path class="uwbj216xp"/></g>`,
+		"content": `<g class="bi12bsetm"><path class="eb3ht5b1i"/><path class="kqpjpzzrl"/><path class="p18s_lo_x"/><path class="rqw2ufbbf"/><path class="xxf39yb4o"/><path class="rivul1b_c"/><path class="n1a9a-jis"/><path class="cqwgtobjz"/><path class="bhhqm2i8f"/></g>`,
 		"fallback": "cif:tj",
 	});
 }

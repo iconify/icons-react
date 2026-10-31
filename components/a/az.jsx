@@ -1,12 +1,12 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/v/v2r1u945l.css';
-import '../../css/u/ui8hhj57u.css';
-import '../../css/v/vj1p6ltxl.css';
-import '../../css/r/r74_ckbxv.css';
-import '../../css/n/nudbr1b6r.css';
-import '../../css/x/xp9uod8da.css';
+import '../../css/n/nvk3-3p4t.css';
+import '../../css/y/y7z_x1bbm.css';
+import '../../css/j/jazm97brk.css';
+import '../../css/y/yd3n2du9o.css';
+import '../../css/k/kez69hb9y.css';
+import '../../css/o/o9s_abckx.css';
 
 const viewBox = {"width":301,"height":151};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="v2r1u945l"/><path class="ui8hhj57u"/><path class="vj1p6ltxl"/><circle class="r74_ckbxv"/><circle class="nudbr1b6r"/><path class="xp9uod8da"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="nvk3-3p4t"/><path class="y7z_x1bbm"/><path class="jazm97brk"/><circle class="yd3n2du9o"/><circle class="kez69hb9y"/><path class="o9s_abckx"/></g>`,
 		"fallback": "cif:az",
 	});
 }

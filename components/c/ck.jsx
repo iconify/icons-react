@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><clipPath id="SVGC4SpHdAn"><path class="k1mifvbku"/></clipPath><clipPath id="SVGL6YnXcFa"><use href="#SVGNF9m5ckl"/></clipPath><clipPath id="SVGxGQCVdad"><path class="b3nko61nd"/></clipPath><path id="SVGNF9m5ckl" class="olq3j1uzq"/></defs><path class="jbe6jccle"/><path class="uiy6esypr"/><g clip-path="url(#SVGC4SpHdAn)"><g clip-path="url(#SVGL6YnXcFa)"><path class="u3hnds9dv"/></g></g><g clip-path="url(#SVGxGQCVdad)"><g clip-path="url(#SVGL6YnXcFa)"><path class="pxgje6zpu"/></g></g><path class="pj02nm35j"/><path class="z-xb64hte"/><path class="ajy9iebmz"/><path class="njb9knbxh"/>`,
+		"content": `<defs><clipPath id="SVGrrMGUcLB"><path class="k1mifvbku"/></clipPath><clipPath id="SVGMXHX2bGM"><use href="#SVGIiniadfi"/></clipPath><clipPath id="SVGXy6A13aQ"><path class="b3nko61nd"/></clipPath><path id="SVGIiniadfi" class="olq3j1uzq"/></defs><path class="jbe6jccle"/><path class="uiy6esypr"/><g clip-path="url(#SVGrrMGUcLB)"><g clip-path="url(#SVGMXHX2bGM)"><path class="u3hnds9dv"/></g></g><g clip-path="url(#SVGXy6A13aQ)"><g clip-path="url(#SVGMXHX2bGM)"><path class="pxgje6zpu"/></g></g><path class="pj02nm35j"/><path class="z-xb64hte"/><path class="ajy9iebmz"/><path class="njb9knbxh"/>`,
 		"fallback": "cif:ck",
 	});
 }

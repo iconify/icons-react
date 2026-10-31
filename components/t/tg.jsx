@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/w/wxu_pgbcq.css';
-import '../../css/w/wofugscov.css';
-import '../../css/m/mrqz9mb6c.css';
-import '../../css/l/ldoup0bcb.css';
+import '../../css/o/o--5ip_qe.css';
+import '../../css/q/q5yl1ouih.css';
+import '../../css/y/yuibxoz6p.css';
+import '../../css/i/icd6n9bpa.css';
 
 const viewBox = {"width":300,"height":187};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="wxu_pgbcq"/><path class="wofugscov"/><path class="mrqz9mb6c"/><path class="ldoup0bcb"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="o--5ip_qe"/><path class="q5yl1ouih"/><path class="yuibxoz6p"/><path class="icd6n9bpa"/></g>`,
 		"fallback": "cif:tg",
 	});
 }

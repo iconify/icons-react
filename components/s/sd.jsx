@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/f/f8d--wbzd.css';
-import '../../css/v/vsxun6bmm.css';
+import '../../css/o/oymxiccca.css';
+import '../../css/b/bc4gh5bbk.css';
 import '../../css/w/w8lft_h8f.css';
 import '../../css/j/jxpk3fbzd.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="f8d--wbzd"/><path class="vsxun6bmm"/><path class="w8lft_h8f"/><path class="jxpk3fbzd"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="oymxiccca"/><path class="bc4gh5bbk"/><path class="w8lft_h8f"/><path class="jxpk3fbzd"/></g>`,
 		"fallback": "cif:sd",
 	});
 }

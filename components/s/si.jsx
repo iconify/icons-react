@@ -1,15 +1,15 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/h/hv45c4b_p.css';
-import '../../css/r/re0mo7bas.css';
-import '../../css/p/p3cdz14kv.css';
-import '../../css/f/flnn2ov9c.css';
-import '../../css/y/ym0gtgbhw.css';
-import '../../css/q/qsxppgbsn.css';
-import '../../css/x/xi-4c3bie.css';
-import '../../css/b/bifj5obly.css';
-import '../../css/s/sq290gtrq.css';
+import '../../css/q/qw7ettbfa.css';
+import '../../css/a/ajbmdq31u.css';
+import '../../css/r/rhu79l3wu.css';
+import '../../css/f/frqh28bzz.css';
+import '../../css/p/prhbcdc5f.css';
+import '../../css/c/c2ry9pert.css';
+import '../../css/s/sru6yy4ha.css';
+import '../../css/t/tsrhj4i9b.css';
+import '../../css/j/j-tes_b8m.css';
 
 const viewBox = {"width":300,"height":151};
 
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="hv45c4b_p"/><path class="re0mo7bas"/><path class="p3cdz14kv"/><path class="flnn2ov9c"/><path class="ym0gtgbhw"/><path class="qsxppgbsn"/><path class="xi-4c3bie"/><path class="bifj5obly"/><path class="sq290gtrq"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="qw7ettbfa"/><path class="ajbmdq31u"/><path class="rhu79l3wu"/><path class="frqh28bzz"/><path class="prhbcdc5f"/><path class="c2ry9pert"/><path class="sru6yy4ha"/><path class="tsrhj4i9b"/><path class="j-tes_b8m"/></g>`,
 		"fallback": "cif:si",
 	});
 }

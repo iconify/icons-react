@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-icon-theme",
   "type": "module",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "homepage": "https://icon-sets.iconify.design/material-icon-theme/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2585,6 +2585,10 @@
     "./folder-svg-open": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-svg-open.jsx"
+    },
+    "./folder-swift": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-swift.jsx"
     },
     "./folder-syntax": {
       "types": "./types/hqrkovbr.d.ts",

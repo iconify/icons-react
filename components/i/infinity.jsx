@@ -1,0 +1,24 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/s/sv0c39bkq.css';
+import '../../css/o/ot_1jemuk.css';
+import '../../css/i/iwms7bcbw.css';
+import '../../css/n/nxmlhnbxd.css';
+import '../../css/f/fra-i3rhs.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><linearGradient id="SVGwTGwjeRx" x1="10" x2="14" y1="7" y2="17" gradientUnits="userSpaceOnUse"><stop offset="0" class="sv0c39bkq"/><stop offset=".4" class="sv0c39bkq"/><stop offset="1" class="ot_1jemuk"/></linearGradient></defs><path class="iwms7bcbw wm-k"/><path class="nxmlhnbxd wm-deco"/><path fill="url(#SVGwTGwjeRx)" class="fra-i3rhs wm-k"/></g>`,
+		"fallback": "withicons-valentine:infinity",
+	});
+}
+
+export default Component;

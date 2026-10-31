@@ -1,0 +1,29 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/s/sv0c39bkq.css';
+import '../../css/o/ot_1jemuk.css';
+import '../../css/l/lxt23mbil.css';
+import '../../css/i/ivwewccoi.css';
+import '../../css/d/d98wb_bsv.css';
+import '../../css/b/b5i545b3c.css';
+import '../../css/n/nfpmyinnp.css';
+import '../../css/w/w2aa2etev.css';
+import '../../css/l/l7r_smbse.css';
+import '../../css/y/yzov2sjfw.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="ft5dv1b6b"><defs><linearGradient id="SVGstTSuIZQ" x1="10.25" x2="14.25" y1="2" y2="22" gradientUnits="userSpaceOnUse"><stop offset="0" class="sv0c39bkq"/><stop offset=".4" class="sv0c39bkq"/><stop offset="1" class="ot_1jemuk"/></linearGradient></defs><path class="lxt23mbil wm-k"/><path class="ivwewccoi wm-s"/><path class="d98wb_bsv wm-deco"/><path fill="url(#SVGstTSuIZQ)" class="b5i545b3c wm-k"/><path class="nfpmyinnp wm-s"/><path class="w2aa2etev wm-shadow"/><path class="l7r_smbse wm-shine"/><path class="wm-shine yzov2sjfw"/></g>`,
+		"fallback": "withicons-valentine:phone-missed",
+	});
+}
+
+export default Component;

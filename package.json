@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.53",
+  "version": "1.0.54",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -113,6 +113,10 @@
     "./file-type-allure": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-allure.jsx"
+    },
+    "./file-type-android": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-android.jsx"
     },
     "./file-type-angular": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1338,6 +1342,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-geojson.jsx"
     },
+    "./file-type-ghidra": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-ghidra.jsx"
+    },
     "./file-type-gimp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-gimp.jsx"
@@ -2397,6 +2405,10 @@
     "./file-type-light-razzle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-razzle.jsx"
+    },
+    "./file-type-light-reactjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-reactjs.jsx"
     },
     "./file-type-light-reactrouter": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3906,6 +3918,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-reactjs.jsx"
     },
+    "./file-type-reactjs-official": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-reactjs-official.jsx"
+    },
     "./file-type-reactrouter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-reactrouter.jsx"
@@ -3917,6 +3933,10 @@
     "./file-type-reactts": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-reactts.jsx"
+    },
+    "./file-type-reactts-official": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-reactts-official.jsx"
     },
     "./file-type-readme": {
       "types": "./types/hqrkovbr.d.ts",

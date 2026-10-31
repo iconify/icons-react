@@ -50,7 +50,7 @@ function Test() {
 To change icon color, use style:
 
 ```jsx
-import SampleIcon from '@iconify-react/healthicons/asthma-outline';
+import SampleIcon from '@iconify-react/healthicons/emergency-post';
 
 function Test() {
   return (

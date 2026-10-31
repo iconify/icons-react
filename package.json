@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/healthicons",
   "type": "module",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "homepage": "https://icon-sets.iconify.design/healthicons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2526,6 +2526,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/confused-negative.jsx"
     },
+    "./constipation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/constipation.jsx"
+    },
+    "./constipation-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/constipation-outline.jsx"
+    },
     "./construction": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/construction.jsx"
@@ -3330,6 +3338,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/drone-outline-24px.jsx"
     },
+    "./drop-medicine": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drop-medicine.jsx"
+    },
+    "./drop-medicine-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drop-medicine-outline.jsx"
+    },
     "./dry-eyes": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dry-eyes.jsx"
@@ -3345,6 +3361,14 @@
     "./dry-mouth-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dry-mouth-outline.jsx"
+    },
+    "./duck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duck.jsx"
+    },
+    "./duck-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duck-outline.jsx"
     },
     "./e": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3425,6 +3449,22 @@
     "./eco-care-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eco-care-outline.jsx"
+    },
+    "./egg-cell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/egg-cell.jsx"
+    },
+    "./egg-cell-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/egg-cell-24px.jsx"
+    },
+    "./egg-cell-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/egg-cell-outline.jsx"
+    },
+    "./egg-cell-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/egg-cell-outline-24px.jsx"
     },
     "./elderly": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4046,21 +4086,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/face-tongue-outline-24px.jsx"
     },
-    "./face-vomitting": {
+    "./face-vomiting": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/f/face-vomitting.jsx"
+      "default": "./components/f/face-vomiting.jsx"
     },
-    "./face-vomitting-24px": {
+    "./face-vomiting-24px": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/f/face-vomitting-24px.jsx"
+      "default": "./components/f/face-vomiting-24px.jsx"
     },
-    "./face-vomitting-outline": {
+    "./face-vomiting-outline": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/f/face-vomitting-outline.jsx"
+      "default": "./components/f/face-vomiting-outline.jsx"
     },
-    "./face-vomitting-outline-24px": {
+    "./face-vomiting-outline-24px": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/f/face-vomitting-outline-24px.jsx"
+      "default": "./components/f/face-vomiting-outline-24px.jsx"
     },
     "./face-woozy": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4237,6 +4277,22 @@
     "./finance-dept-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/finance-dept-outline.jsx"
+    },
+    "./fingernail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingernail.jsx"
+    },
+    "./fingernail-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingernail-24px.jsx"
+    },
+    "./fingernail-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingernail-outline.jsx"
+    },
+    "./fingernail-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingernail-outline-24px.jsx"
     },
     "./fingerprint": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4609,6 +4665,14 @@
     "./h-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/h-outline.jsx"
+    },
+    "./hair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hair.jsx"
+    },
+    "./hair-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hair-outline.jsx"
     },
     "./hand-wipe-paper": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6398,6 +6462,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/malnutrition-outline.jsx"
     },
+    "./mammogram": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mammogram.jsx"
+    },
+    "./mammogram-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mammogram-24px.jsx"
+    },
+    "./mammogram-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mammogram-outline.jsx"
+    },
+    "./mammogram-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mammogram-outline-24px.jsx"
+    },
     "./man": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/man.jsx"
@@ -8098,6 +8178,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/ppe-sanitizer-24px.jsx"
     },
+    "./ppe-sanitizer-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ppe-sanitizer-alt.jsx"
+    },
+    "./ppe-sanitizer-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ppe-sanitizer-alt-outline.jsx"
+    },
     "./ppe-sanitizer-negative": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/ppe-sanitizer-negative.jsx"
@@ -8110,17 +8198,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/ppe-sanitizer-outline-24px.jsx"
     },
-    "./ppe-santizer-alt": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/ppe-santizer-alt.jsx"
-    },
     "./ppe-santizer-alt-negative": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/ppe-santizer-alt-negative.jsx"
-    },
-    "./ppe-santizer-alt-outline": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/ppe-santizer-alt-outline.jsx"
     },
     "./ppe-suit": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9365,6 +9445,14 @@
     "./spleen-outline-24px": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spleen-outline-24px.jsx"
+    },
+    "./spray": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spray.jsx"
+    },
+    "./spray-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spray-outline.jsx"
     },
     "./spraying": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12118,6 +12206,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/f2x-outline.jsx"
     },
+    "./face-vomitting": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-vomitting.jsx"
+    },
+    "./face-vomitting-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-vomitting-24px.jsx"
+    },
+    "./face-vomitting-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-vomitting-outline.jsx"
+    },
+    "./face-vomitting-outline-24px": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/face-vomitting-outline-24px.jsx"
+    },
     "./factory-worker2x-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/factory-worker2x-outline.jsx"
@@ -13305,6 +13409,14 @@
     "./ppe-sanitizer2x-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/ppe-sanitizer2x-outline.jsx"
+    },
+    "./ppe-santizer-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ppe-santizer-alt.jsx"
+    },
+    "./ppe-santizer-alt-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ppe-santizer-alt-outline.jsx"
     },
     "./ppe-santizer-alt2x-outline": {
       "types": "./types/hqrkovbr.d.ts",

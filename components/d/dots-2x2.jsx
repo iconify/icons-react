@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipub9xb7v.css';
+import '../../css/a/avd91y_7v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ipub9xb7v"/>`,
+		"content": `<path class="avd91y_7v"/>`,
 		"fallback": "sidekickicons:dots-2x2",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nklzucb9e.css';
+import '../../css/g/gk615jrjr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nklzucb9e"/>`,
+		"content": `<path class="gk615jrjr"/>`,
 		"fallback": "sidekickicons:dice",
 	});
 }

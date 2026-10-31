@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vvle84btf.css';
+import '../../css/v/v6235fb7v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vvle84btf"/>`,
+		"content": `<path class="v6235fb7v"/>`,
 		"fallback": "sidekickicons:robot",
 	});
 }

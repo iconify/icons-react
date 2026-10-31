@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bpxqa_bcs.css';
+import '../../css/f/f33c-52ev.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bpxqa_bcs"/>`,
+		"content": `<path clip-rule="evenodd" class="f33c-52ev"/>`,
 		"fallback": "sidekickicons:gamepad-20-solid",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lnbsg9ofn.css';
+import '../../css/d/d2h7rrx1t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lnbsg9ofn"/>`,
+		"content": `<path class="d2h7rrx1t"/>`,
 		"fallback": "sidekickicons:check-double",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nczzpqi_i.css';
+import '../../css/i/im0xc24va.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="nczzpqi_i"/>`,
+		"content": `<path clip-rule="evenodd" class="im0xc24va"/>`,
 		"fallback": "sidekickicons:chevron-left-right-20-solid",
 	});
 }

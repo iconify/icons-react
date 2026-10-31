@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nkwi5f_-i.css';
+import '../../css/q/qnjy1bc9s.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nkwi5f_-i"/>`,
+		"content": `<path clip-rule="evenodd" class="qnjy1bc9s"/>`,
 		"fallback": "sidekickicons:blockquote-20-solid",
 	});
 }

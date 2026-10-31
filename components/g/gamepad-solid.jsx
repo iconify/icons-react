@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/miys4ebmd.css';
+import '../../css/t/tz2cu2yfe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="miys4ebmd"/>`,
+		"content": `<path clip-rule="evenodd" class="tz2cu2yfe"/>`,
 		"fallback": "sidekickicons:gamepad-solid",
 	});
 }

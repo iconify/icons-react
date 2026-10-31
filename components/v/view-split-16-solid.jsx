@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n7pxlvmcd.css';
+import '../../css/p/pwm_ltnvq.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n7pxlvmcd"/>`,
+		"content": `<path clip-rule="evenodd" class="pwm_ltnvq"/>`,
 		"fallback": "sidekickicons:view-split-16-solid",
 	});
 }

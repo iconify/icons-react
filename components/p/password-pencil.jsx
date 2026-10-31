@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lks5r8mvy.css';
+import '../../css/j/j1052qbdx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lks5r8mvy"/>`,
+		"content": `<path class="j1052qbdx"/>`,
 		"fallback": "sidekickicons:password-pencil",
 	});
 }

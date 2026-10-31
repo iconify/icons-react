@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/my_cuacnb.css';
+import '../../css/s/s-32aobnq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="my_cuacnb"/>`,
+		"content": `<path class="s-32aobnq"/>`,
 		"fallback": "sidekickicons:sidebar-left",
 	});
 }

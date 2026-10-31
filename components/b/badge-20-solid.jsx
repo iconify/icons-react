@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/akmt2_8eg.css';
+import '../../css/f/fq76k3b_t.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="akmt2_8eg"/>`,
+		"content": `<path clip-rule="evenodd" class="fq76k3b_t"/>`,
 		"fallback": "sidekickicons:badge-20-solid",
 	});
 }

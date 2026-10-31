@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/flmfigpej.css';
+import '../../css/w/w4xvbwbto.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="flmfigpej"/>`,
+		"content": `<path clip-rule="evenodd" class="w4xvbwbto"/>`,
 		"fallback": "sidekickicons:checklist-boxes-20-solid",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nolju0brc.css';
+import '../../css/y/ytob4ubxt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nolju0brc"/>`,
+		"content": `<path class="ytob4ubxt"/>`,
 		"fallback": "sidekickicons:circle-dashed",
 	});
 }

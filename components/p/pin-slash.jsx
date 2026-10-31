@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fwzse_b1z.css';
+import '../../css/w/wpvnfvb8t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fwzse_b1z"/>`,
+		"content": `<path class="wpvnfvb8t"/>`,
 		"fallback": "sidekickicons:pin-slash",
 	});
 }

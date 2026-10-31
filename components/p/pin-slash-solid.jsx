@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j-69wm_oc.css';
+import '../../css/f/fuuyvdbpl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j-69wm_oc"/>`,
+		"content": `<path clip-rule="evenodd" class="fuuyvdbpl"/>`,
 		"fallback": "sidekickicons:pin-slash-solid",
 	});
 }

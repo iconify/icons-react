@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rxptqbfgi.css';
+import '../../css/n/nnshgsbwx.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rxptqbfgi"/>`,
+		"content": `<path clip-rule="evenodd" class="nnshgsbwx"/>`,
 		"fallback": "sidekickicons:radial-rays-16-solid",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vybyybb4z.css';
+import '../../css/x/xi0yoom-o.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vybyybb4z"/>`,
+		"content": `<path clip-rule="evenodd" class="xi0yoom-o"/>`,
 		"fallback": "sidekickicons:chevron-down-up-20-solid",
 	});
 }

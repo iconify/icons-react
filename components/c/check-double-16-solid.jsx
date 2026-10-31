@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s0a7_rbgr.css';
+import '../../css/d/dsimlsgsz.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s0a7_rbgr"/>`,
+		"content": `<path clip-rule="evenodd" class="dsimlsgsz"/>`,
 		"fallback": "sidekickicons:check-double-16-solid",
 	});
 }

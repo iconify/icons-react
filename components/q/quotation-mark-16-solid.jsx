@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pdejg98sk.css';
+import '../../css/n/nhemmwbem.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pdejg98sk"/>`,
+		"content": `<path clip-rule="evenodd" class="nhemmwbem"/>`,
 		"fallback": "sidekickicons:quotation-mark-16-solid",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tdt-y-bfl.css';
+import '../../css/m/m2yfoxp2e.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tdt-y-bfl"/>`,
+		"content": `<path clip-rule="evenodd" class="m2yfoxp2e"/>`,
 		"fallback": "sidekickicons:pilcrow-20-solid",
 	});
 }

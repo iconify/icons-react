@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hsp421byy.css';
+import '../../css/u/uar1gl6yh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hsp421byy"/>`,
+		"content": `<path class="uar1gl6yh"/>`,
 		"fallback": "sidekickicons:headphones-slash",
 	});
 }

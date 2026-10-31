@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gxplhebtx.css';
+import '../../css/c/cqdmo49vt.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gxplhebtx"/>`,
+		"content": `<path clip-rule="evenodd" class="cqdmo49vt"/>`,
 		"fallback": "sidekickicons:arrow-bottom-left-on-square-20-solid",
 	});
 }

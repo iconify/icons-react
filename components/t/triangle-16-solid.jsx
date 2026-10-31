@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j3lugnbxl.css';
+import '../../css/t/tj-55ybis.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j3lugnbxl"/>`,
+		"content": `<path clip-rule="evenodd" class="tj-55ybis"/>`,
 		"fallback": "sidekickicons:triangle-16-solid",
 	});
 }

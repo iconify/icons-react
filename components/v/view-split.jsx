@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c8ektq0ta.css';
+import '../../css/m/mbpqh67iw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c8ektq0ta"/>`,
+		"content": `<path class="mbpqh67iw"/>`,
 		"fallback": "sidekickicons:view-split",
 	});
 }

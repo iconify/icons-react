@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fatbecbxr.css';
+import '../../css/i/i1weedx-t.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fatbecbxr"/>`,
+		"content": `<path clip-rule="evenodd" class="i1weedx-t"/>`,
 		"fallback": "sidekickicons:pin-slash-20-solid",
 	});
 }

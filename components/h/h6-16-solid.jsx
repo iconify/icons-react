@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kp33byh8u.css';
+import '../../css/v/ve4cdcoma.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kp33byh8u"/>`,
+		"content": `<path clip-rule="evenodd" class="ve4cdcoma"/>`,
 		"fallback": "sidekickicons:h6-16-solid",
 	});
 }

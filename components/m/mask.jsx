@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/c/cqjyyx-9n.css';
-import '../../css/w/we_rndblf.css';
+import '../../css/j/jcsgn41ac.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="cqjyyx-9n"/><path class="we_rndblf"/></g>`,
+		"content": `<path class="jcsgn41ac"/>`,
 		"fallback": "sidekickicons:mask",
 	});
 }

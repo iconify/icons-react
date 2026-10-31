@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/ggsig13zw.css';
+import '../../css/g/g7k8nrb3i.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ggsig13zw"/>`,
+		"content": `<path clip-rule="evenodd" class="g7k8nrb3i"/>`,
 		"fallback": "sidekickicons:photo-plus-20-solid",
 	});
 }

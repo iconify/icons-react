@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nv_vv6bcm.css';
-import '../../css/r/r_8zsvb4v.css';
-import '../../css/n/ncs7ab22i.css';
+import '../../css/e/euu_br-wc.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nv_vv6bcm"><path class="r_8zsvb4v"/><path class="ncs7ab22i"/></g>`,
+		"content": `<path clip-rule="evenodd" class="euu_br-wc"/>`,
 		"fallback": "sidekickicons:arrow-path-clock-16-solid",
 	});
 }

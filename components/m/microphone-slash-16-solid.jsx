@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mq42nebwn.css';
+import '../../css/e/ef1ej922j.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mq42nebwn"/>`,
+		"content": `<path clip-rule="evenodd" class="ef1ej922j"/>`,
 		"fallback": "sidekickicons:microphone-slash-16-solid",
 	});
 }

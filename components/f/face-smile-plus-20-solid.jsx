@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uzpx_acik.css';
+import '../../css/w/waqc77b8u.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uzpx_acik"/>`,
+		"content": `<path clip-rule="evenodd" class="waqc77b8u"/>`,
 		"fallback": "sidekickicons:face-smile-plus-20-solid",
 	});
 }

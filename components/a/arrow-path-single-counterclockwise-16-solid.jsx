@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kpryndzcn.css';
+import '../../css/l/l9ocxknif.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kpryndzcn"/>`,
+		"content": `<path clip-rule="evenodd" class="l9ocxknif"/>`,
 		"fallback": "sidekickicons:arrow-path-single-counterclockwise-16-solid",
 	});
 }

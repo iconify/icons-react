@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qthr_h6oz.css';
+import '../../css/o/ofy-cuz9o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qthr_h6oz"/>`,
+		"content": `<path class="ofy-cuz9o"/>`,
 		"fallback": "sidekickicons:microphone-slash",
 	});
 }

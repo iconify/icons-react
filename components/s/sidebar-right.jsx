@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ozuui3bqn.css';
+import '../../css/y/yt2ds61_u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ozuui3bqn"/>`,
+		"content": `<path class="yt2ds61_u"/>`,
 		"fallback": "sidekickicons:sidebar-right",
 	});
 }

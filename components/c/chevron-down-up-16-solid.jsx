@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tbjargc9p.css';
+import '../../css/x/x_m51orpj.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tbjargc9p"/>`,
+		"content": `<path clip-rule="evenodd" class="x_m51orpj"/>`,
 		"fallback": "sidekickicons:chevron-down-up-16-solid",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qgz4_hbde.css';
+import '../../css/d/dcrxfd7um.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qgz4_hbde"/>`,
+		"content": `<path clip-rule="evenodd" class="dcrxfd7um"/>`,
 		"fallback": "sidekickicons:lock-semi-open-16-solid",
 	});
 }

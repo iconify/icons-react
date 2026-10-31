@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l76d3obsw.css';
+import '../../css/v/v_yofr8-n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l76d3obsw"/>`,
+		"content": `<path clip-rule="evenodd" class="v_yofr8-n"/>`,
 		"fallback": "sidekickicons:password-pencil-solid",
 	});
 }

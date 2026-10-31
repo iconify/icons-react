@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xpr-blbgt.css';
+import '../../css/d/d473cldbo.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xpr-blbgt"/>`,
+		"content": `<path clip-rule="evenodd" class="d473cldbo"/>`,
 		"fallback": "sidekickicons:heading-16-solid",
 	});
 }

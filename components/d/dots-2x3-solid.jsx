@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gcw80rb5v.css';
+import '../../css/j/j855_w7iz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gcw80rb5v"/>`,
+		"content": `<path clip-rule="evenodd" class="j855_w7iz"/>`,
 		"fallback": "sidekickicons:dots-2x3-solid",
 	});
 }

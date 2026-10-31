@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ingufyn2w.css';
+import '../../css/s/sq857obgn.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ingufyn2w"/>`,
+		"content": `<path clip-rule="evenodd" class="sq857obgn"/>`,
 		"fallback": "sidekickicons:headphones-slash-16-solid",
 	});
 }

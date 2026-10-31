@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ucdljpb9x.css';
+import '../../css/i/ibh0pxv3v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ucdljpb9x"/>`,
+		"content": `<path clip-rule="evenodd" class="ibh0pxv3v"/>`,
 		"fallback": "sidekickicons:badge-solid",
 	});
 }

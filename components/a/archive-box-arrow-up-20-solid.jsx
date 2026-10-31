@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vm83secra.css';
+import '../../css/f/fdh_kmmdb.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vm83secra"/>`,
+		"content": `<path clip-rule="evenodd" class="fdh_kmmdb"/>`,
 		"fallback": "sidekickicons:archive-box-arrow-up-20-solid",
 	});
 }

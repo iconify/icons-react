@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/me7l_yy_m.css';
+import '../../css/r/rg4cegm8b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="me7l_yy_m"/>`,
+		"content": `<path class="rg4cegm8b"/>`,
 		"fallback": "sidekickicons:circle",
 	});
 }

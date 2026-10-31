@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lbskt6s3t.css';
+import '../../css/o/oyzmzykri.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lbskt6s3t"/>`,
+		"content": `<path class="oyzmzykri"/>`,
 		"fallback": "sidekickicons:badge",
 	});
 }

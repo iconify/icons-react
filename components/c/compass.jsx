@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/srkbnbc-v.css';
+import '../../css/h/hkk3whelo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="srkbnbc-v"/>`,
+		"content": `<path class="hkk3whelo"/>`,
 		"fallback": "sidekickicons:compass",
 	});
 }

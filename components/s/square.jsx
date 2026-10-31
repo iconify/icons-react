@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h08hw7r7v.css';
+import '../../css/t/tk07jkmaf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h08hw7r7v"/>`,
+		"content": `<path class="tk07jkmaf"/>`,
 		"fallback": "sidekickicons:square",
 	});
 }

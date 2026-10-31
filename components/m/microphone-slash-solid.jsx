@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/ju4m_kbvp.css';
+import '../../css/t/tq2xwlmto.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ju4m_kbvp"/>`,
+		"content": `<path clip-rule="evenodd" class="tq2xwlmto"/>`,
 		"fallback": "sidekickicons:microphone-slash-solid",
 	});
 }

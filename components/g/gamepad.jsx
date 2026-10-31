@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f37jzgbmm.css';
+import '../../css/d/do06-f15x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f37jzgbmm"/>`,
+		"content": `<path class="do06-f15x"/>`,
 		"fallback": "sidekickicons:gamepad",
 	});
 }

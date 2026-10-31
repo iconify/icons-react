@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/h/h4umnu5lv.css';
-import '../../css/e/earr4i8do.css';
+import '../../css/p/px09f3oic.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="h4umnu5lv"/><path clip-rule="evenodd" class="earr4i8do"/></g>`,
+		"content": `<path clip-rule="evenodd" class="px09f3oic"/>`,
 		"fallback": "sidekickicons:headphones-slash-20-solid",
 	});
 }

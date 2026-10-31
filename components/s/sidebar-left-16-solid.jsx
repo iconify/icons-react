@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/epd4lwbvd.css';
+import '../../css/p/pfx-owb2e.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="epd4lwbvd"/>`,
+		"content": `<path clip-rule="evenodd" class="pfx-owb2e"/>`,
 		"fallback": "sidekickicons:sidebar-left-16-solid",
 	});
 }

@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qcc0w7qat.css';
-import '../../css/a/aqwncob1j.css';
+import '../../css/j/j40wsjfyj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qcc0w7qat"/><path class="aqwncob1j"/>`,
+		"content": `<path clip-rule="evenodd" class="j40wsjfyj"/>`,
 		"fallback": "sidekickicons:headphones-slash-solid",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uwntovrda.css';
+import '../../css/a/aw5-6um0w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uwntovrda"/>`,
+		"content": `<path clip-rule="evenodd" class="aw5-6um0w"/>`,
 		"fallback": "sidekickicons:pilcrow-solid",
 	});
 }

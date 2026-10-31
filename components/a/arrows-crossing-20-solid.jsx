@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qd70iymwm.css';
+import '../../css/k/kn46_qbin.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qd70iymwm"/>`,
+		"content": `<path clip-rule="evenodd" class="kn46_qbin"/>`,
 		"fallback": "sidekickicons:arrows-crossing-20-solid",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p8bdc-bez.css';
+import '../../css/i/ierfddc8w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p8bdc-bez"/>`,
+		"content": `<path class="ierfddc8w"/>`,
 		"fallback": "sidekickicons:lock-semi-open",
 	});
 }

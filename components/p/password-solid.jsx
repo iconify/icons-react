@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ygdyhhsoi.css';
+import '../../css/z/z361xccom.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ygdyhhsoi"/>`,
+		"content": `<path clip-rule="evenodd" class="z361xccom"/>`,
 		"fallback": "sidekickicons:password-solid",
 	});
 }

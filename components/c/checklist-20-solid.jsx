@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q27yq5cdi.css';
+import '../../css/y/yniq5f4ki.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q27yq5cdi"/>`,
+		"content": `<path clip-rule="evenodd" class="yniq5f4ki"/>`,
 		"fallback": "sidekickicons:checklist-20-solid",
 	});
 }

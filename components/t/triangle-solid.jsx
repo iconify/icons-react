@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/to42jfb7p.css';
+import '../../css/x/xfknb81as.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="to42jfb7p"/>`,
+		"content": `<path clip-rule="evenodd" class="xfknb81as"/>`,
 		"fallback": "sidekickicons:triangle-solid",
 	});
 }

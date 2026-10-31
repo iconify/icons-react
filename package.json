@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.56",
+  "version": "1.0.57",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -1405,6 +1405,10 @@
     "./chart-bar-stacked": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-bar-stacked.jsx"
+    },
+    "./chart-bell-curve": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-bell-curve.jsx"
     },
     "./chart-candlestick": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2933,6 +2937,10 @@
     "./file-cog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-cog.jsx"
+    },
+    "./file-database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-database.jsx"
     },
     "./file-diff": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4738,6 +4746,34 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/map-plus.jsx"
     },
+    "./margin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/margin.jsx"
+    },
+    "./margin-bottom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/margin-bottom.jsx"
+    },
+    "./margin-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/margin-horizontal.jsx"
+    },
+    "./margin-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/margin-left.jsx"
+    },
+    "./margin-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/margin-right.jsx"
+    },
+    "./margin-top": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/margin-top.jsx"
+    },
+    "./margin-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/margin-vertical.jsx"
+    },
     "./mars": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mars.jsx"
@@ -4993,6 +5029,10 @@
     "./monitor": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/monitor.jsx"
+    },
+    "./monitor-activity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-activity.jsx"
     },
     "./monitor-check": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7005,6 +7045,34 @@
     "./square-off": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-off.jsx"
+    },
+    "./square-padding": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-padding.jsx"
+    },
+    "./square-padding-bottom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-padding-bottom.jsx"
+    },
+    "./square-padding-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-padding-horizontal.jsx"
+    },
+    "./square-padding-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-padding-left.jsx"
+    },
+    "./square-padding-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-padding-right.jsx"
+    },
+    "./square-padding-top": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-padding-top.jsx"
+    },
+    "./square-padding-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-padding-vertical.jsx"
     },
     "./square-parking": {
       "types": "./types/hqrkovbr.d.ts",

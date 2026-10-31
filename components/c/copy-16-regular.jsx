@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.pj61nbbgm {
+		"content": `<style>.jcmnkzb5p {
   fill: currentColor;
-  d: path("M5 6H4a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1h1a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h1zm7-4a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2zM8 3a1 1 0 0 0-1 1v5a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1z");
+  d: path("M5 6H3.5A1.5 1.5 0 0 0 2 7.5v5A1.5 1.5 0 0 0 3.5 14h4A1.5 1.5 0 0 0 9 12.5V12h1v.5A2.5 2.5 0 0 1 7.5 15h-4A2.5 2.5 0 0 1 1 12.5v-5A2.5 2.5 0 0 1 3.5 5H5zm7.5-5A2.5 2.5 0 0 1 15 3.5v5a2.5 2.5 0 0 1-2.5 2.5h-4A2.5 2.5 0 0 1 6 8.5v-5A2.5 2.5 0 0 1 8.5 1zm-4 1A1.5 1.5 0 0 0 7 3.5v5A1.5 1.5 0 0 0 8.5 10h4A1.5 1.5 0 0 0 14 8.5v-5A1.5 1.5 0 0 0 12.5 2z");
 }
-</style><path class="pj61nbbgm"/>`,
+</style><path class="jcmnkzb5p"/>`,
 		"fallback": "fluent:copy-16-regular",
 	});
 }

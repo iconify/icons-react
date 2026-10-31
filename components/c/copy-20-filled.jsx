@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.msgvenb2b {
+		"content": `<style>.uzami2ila {
   fill: currentColor;
-  d: path("M7 11.5a3.5 3.5 0 0 0 3.5 3.5h1.45a2.5 2.5 0 0 1-2.45 2h-4A2.5 2.5 0 0 1 3 14.5v-6A2.5 2.5 0 0 1 5.5 6H7zM14.5 3A2.5 2.5 0 0 1 17 5.5v6a2.5 2.5 0 0 1-2.5 2.5h-4A2.5 2.5 0 0 1 8 11.5v-6A2.5 2.5 0 0 1 10.5 3z");
+  d: path("M7 11a4 4 0 0 0 4 4h1a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V9a3 3 0 0 1 3-3h2zm8-9a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3h-4a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3z");
 }
-</style><path class="msgvenb2b"/>`,
+</style><path class="uzami2ila"/>`,
 		"fallback": "fluent:copy-20-filled",
 	});
 }

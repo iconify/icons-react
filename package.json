@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon-plain",
   "type": "module",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "homepage": "https://icon-sets.iconify.design/devicon-plain/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2265,6 +2265,14 @@
     "./primeng": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/primeng.jsx"
+    },
+    "./prisma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prisma.jsx"
+    },
+    "./prisma-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prisma-wordmark.jsx"
     },
     "./processing": {
       "types": "./types/hqrkovbr.d.ts",

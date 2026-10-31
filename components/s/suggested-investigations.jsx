@@ -1,8 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/juh0qibpl.css';
-import '../../css/q/qwbenrq8i.css';
-import '../../css/w/wnm3xrb7a.css';
+import '../../css/r/r0r7aeb5z.css';
+import '../../css/p/p_n_-nbql.css';
+import '../../css/q/qu3n-1kvd.css';
+import '../../css/u/u7os-98fh.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -13,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="juh0qibpl"/><path class="qwbenrq8i"/><path class="wnm3xrb7a"/>`,
+		"content": `<path class="r0r7aeb5z"/><circle class="p_n_-nbql"/><circle class="qu3n-1kvd"/><circle class="u7os-98fh"/>`,
 		"fallback": "ooui:suggested-investigations",
 	});
 }

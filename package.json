@@ -1,0 +1,1215 @@
+{
+  "name": "@iconify-react/struq",
+  "type": "module",
+  "version": "1.0.0",
+  "homepage": "https://icon-sets.iconify.design/struq/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./adjust": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust.jsx"
+    },
+    "./adjust-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adjust-draw.jsx"
+    },
+    "./agents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agents.jsx"
+    },
+    "./agents-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/agents-draw.jsx"
+    },
+    "./analytics": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/analytics.jsx"
+    },
+    "./analytics-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/analytics-draw.jsx"
+    },
+    "./api": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api.jsx"
+    },
+    "./api-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/api-draw.jsx"
+    },
+    "./archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive.jsx"
+    },
+    "./archive-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-draw.jsx"
+    },
+    "./arrow-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down.jsx"
+    },
+    "./arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-left.jsx"
+    },
+    "./arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-right.jsx"
+    },
+    "./arrow-to-end": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-to-end.jsx"
+    },
+    "./arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up.jsx"
+    },
+    "./article": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/article.jsx"
+    },
+    "./article-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/article-draw.jsx"
+    },
+    "./ask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ask.jsx"
+    },
+    "./ask-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/ask-draw.jsx"
+    },
+    "./assign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assign.jsx"
+    },
+    "./assign-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/assign-draw.jsx"
+    },
+    "./attach": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attach.jsx"
+    },
+    "./attach-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/attach-draw.jsx"
+    },
+    "./audience": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audience.jsx"
+    },
+    "./audience-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audience-draw.jsx"
+    },
+    "./blocked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blocked.jsx"
+    },
+    "./branch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/branch.jsx"
+    },
+    "./brush": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush.jsx"
+    },
+    "./brush-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-draw.jsx"
+    },
+    "./bug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug.jsx"
+    },
+    "./bug-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug-draw.jsx"
+    },
+    "./call": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/call.jsx"
+    },
+    "./call-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/call-draw.jsx"
+    },
+    "./campaign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campaign.jsx"
+    },
+    "./campaign-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/campaign-draw.jsx"
+    },
+    "./case": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/case.jsx"
+    },
+    "./chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat.jsx"
+    },
+    "./chat-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-draw.jsx"
+    },
+    "./check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check.jsx"
+    },
+    "./checks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checks.jsx"
+    },
+    "./checks-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checks-draw.jsx"
+    },
+    "./chevron-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-down.jsx"
+    },
+    "./chevron-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-left.jsx"
+    },
+    "./chevron-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-right.jsx"
+    },
+    "./chevron-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevron-up.jsx"
+    },
+    "./chevrons-up-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-up-down.jsx"
+    },
+    "./clear-style": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-style.jsx"
+    },
+    "./clear-style-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clear-style-draw.jsx"
+    },
+    "./clipboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard.jsx"
+    },
+    "./clipboard-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-draw.jsx"
+    },
+    "./close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/close.jsx"
+    },
+    "./cloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud.jsx"
+    },
+    "./cloud-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-draw.jsx"
+    },
+    "./code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/code.jsx"
+    },
+    "./columns": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/columns.jsx"
+    },
+    "./company": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/company.jsx"
+    },
+    "./company-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/company-draw.jsx"
+    },
+    "./compass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass.jsx"
+    },
+    "./compass-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass-draw.jsx"
+    },
+    "./copy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy.jsx"
+    },
+    "./copy-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-draw.jsx"
+    },
+    "./customer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customer.jsx"
+    },
+    "./customer-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customer-draw.jsx"
+    },
+    "./database": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database.jsx"
+    },
+    "./database-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/database-draw.jsx"
+    },
+    "./delete": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delete.jsx"
+    },
+    "./delete-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delete-draw.jsx"
+    },
+    "./device": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/device.jsx"
+    },
+    "./device-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/device-draw.jsx"
+    },
+    "./disconnect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/disconnect.jsx"
+    },
+    "./disconnect-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/disconnect-draw.jsx"
+    },
+    "./documents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/documents.jsx"
+    },
+    "./documents-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/documents-draw.jsx"
+    },
+    "./done": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/done.jsx"
+    },
+    "./download": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download.jsx"
+    },
+    "./download-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/download-draw.jsx"
+    },
+    "./edit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit.jsx"
+    },
+    "./edit-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/edit-draw.jsx"
+    },
+    "./enter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/enter.jsx"
+    },
+    "./error": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/error.jsx"
+    },
+    "./expand": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/expand.jsx"
+    },
+    "./external": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/external.jsx"
+    },
+    "./feedback": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/feedback.jsx"
+    },
+    "./feedback-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/feedback-draw.jsx"
+    },
+    "./field": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/field.jsx"
+    },
+    "./field-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/field-draw.jsx"
+    },
+    "./file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file.jsx"
+    },
+    "./file-archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-archive.jsx"
+    },
+    "./file-archive-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-archive-draw.jsx"
+    },
+    "./file-audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio.jsx"
+    },
+    "./file-audio-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-audio-draw.jsx"
+    },
+    "./file-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-code.jsx"
+    },
+    "./file-code-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-code-draw.jsx"
+    },
+    "./file-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-draw.jsx"
+    },
+    "./file-image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-image.jsx"
+    },
+    "./file-image-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-image-draw.jsx"
+    },
+    "./file-mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-mail.jsx"
+    },
+    "./file-mail-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-mail-draw.jsx"
+    },
+    "./file-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-new.jsx"
+    },
+    "./file-new-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-new-draw.jsx"
+    },
+    "./file-pdf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-pdf.jsx"
+    },
+    "./file-pdf-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-pdf-draw.jsx"
+    },
+    "./file-program": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-program.jsx"
+    },
+    "./file-program-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-program-draw.jsx"
+    },
+    "./file-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-search.jsx"
+    },
+    "./file-search-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-search-draw.jsx"
+    },
+    "./file-sheet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sheet.jsx"
+    },
+    "./file-sheet-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-sheet-draw.jsx"
+    },
+    "./file-slides": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-slides.jsx"
+    },
+    "./file-slides-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-slides-draw.jsx"
+    },
+    "./file-text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-text.jsx"
+    },
+    "./file-text-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-text-draw.jsx"
+    },
+    "./file-video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video.jsx"
+    },
+    "./file-video-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-video-draw.jsx"
+    },
+    "./file-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-warning.jsx"
+    },
+    "./file-word": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-word.jsx"
+    },
+    "./file-word-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-word-draw.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
+    },
+    "./folder-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-draw.jsx"
+    },
+    "./folder-export": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-export.jsx"
+    },
+    "./folder-export-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-export-draw.jsx"
+    },
+    "./folder-find": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-find.jsx"
+    },
+    "./folder-find-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-find-draw.jsx"
+    },
+    "./folder-move": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-move.jsx"
+    },
+    "./folder-move-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-move-draw.jsx"
+    },
+    "./folder-new": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-new.jsx"
+    },
+    "./folder-new-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-new-draw.jsx"
+    },
+    "./folder-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open.jsx"
+    },
+    "./folder-open-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-open-draw.jsx"
+    },
+    "./follow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/follow-up.jsx"
+    },
+    "./follow-up-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/follow-up-draw.jsx"
+    },
+    "./gauge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauge.jsx"
+    },
+    "./gauge-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauge-draw.jsx"
+    },
+    "./goal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goal.jsx"
+    },
+    "./goal-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/goal-draw.jsx"
+    },
+    "./grip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grip.jsx"
+    },
+    "./hash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hash.jsx"
+    },
+    "./heading": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heading.jsx"
+    },
+    "./headset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset.jsx"
+    },
+    "./headset-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-draw.jsx"
+    },
+    "./help": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/help.jsx"
+    },
+    "./hide": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hide.jsx"
+    },
+    "./hide-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hide-draw.jsx"
+    },
+    "./hint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hint.jsx"
+    },
+    "./hint-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hint-draw.jsx"
+    },
+    "./history": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history.jsx"
+    },
+    "./history-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/history-draw.jsx"
+    },
+    "./home": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home.jsx"
+    },
+    "./home-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-draw.jsx"
+    },
+    "./image": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image.jsx"
+    },
+    "./image-add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-add.jsx"
+    },
+    "./image-add-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-add-draw.jsx"
+    },
+    "./image-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-draw.jsx"
+    },
+    "./inbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox.jsx"
+    },
+    "./inbox-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inbox-draw.jsx"
+    },
+    "./info": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/info.jsx"
+    },
+    "./integration": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/integration.jsx"
+    },
+    "./integration-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/integration-draw.jsx"
+    },
+    "./key": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key.jsx"
+    },
+    "./key-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/key-draw.jsx"
+    },
+    "./layers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers.jsx"
+    },
+    "./layers-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-draw.jsx"
+    },
+    "./learn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/learn.jsx"
+    },
+    "./learn-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/learn-draw.jsx"
+    },
+    "./link": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link.jsx"
+    },
+    "./link-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/link-draw.jsx"
+    },
+    "./list": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list.jsx"
+    },
+    "./list-ordered": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-ordered.jsx"
+    },
+    "./lock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock.jsx"
+    },
+    "./lock-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lock-draw.jsx"
+    },
+    "./mail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail.jsx"
+    },
+    "./mail-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-draw.jsx"
+    },
+    "./minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus.jsx"
+    },
+    "./more": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/more.jsx"
+    },
+    "./move-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/move-vertical.jsx"
+    },
+    "./mute": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mute.jsx"
+    },
+    "./mute-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mute-draw.jsx"
+    },
+    "./new-chat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/new-chat.jsx"
+    },
+    "./new-chat-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/new-chat-draw.jsx"
+    },
+    "./notes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notes.jsx"
+    },
+    "./notes-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notes-draw.jsx"
+    },
+    "./offline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/offline.jsx"
+    },
+    "./palette": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette.jsx"
+    },
+    "./palette-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/palette-draw.jsx"
+    },
+    "./panel-top": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/panel-top.jsx"
+    },
+    "./paste": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paste.jsx"
+    },
+    "./paste-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paste-draw.jsx"
+    },
+    "./pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin.jsx"
+    },
+    "./pin-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-draw.jsx"
+    },
+    "./play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/play.jsx"
+    },
+    "./plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus.jsx"
+    },
+    "./polish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polish.jsx"
+    },
+    "./polish-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/polish-draw.jsx"
+    },
+    "./practice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/practice.jsx"
+    },
+    "./practice-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/practice-draw.jsx"
+    },
+    "./quote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/quote.jsx"
+    },
+    "./rail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail.jsx"
+    },
+    "./rail-close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rail-close.jsx"
+    },
+    "./receipt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/receipt.jsx"
+    },
+    "./remind": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remind.jsx"
+    },
+    "./remind-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/remind-draw.jsx"
+    },
+    "./replace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replace.jsx"
+    },
+    "./replace-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replace-draw.jsx"
+    },
+    "./report": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/report.jsx"
+    },
+    "./report-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/report-draw.jsx"
+    },
+    "./restore": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restore.jsx"
+    },
+    "./restore-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restore-draw.jsx"
+    },
+    "./retry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retry.jsx"
+    },
+    "./retry-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/retry-draw.jsx"
+    },
+    "./save": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/save.jsx"
+    },
+    "./save-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/save-draw.jsx"
+    },
+    "./scan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan.jsx"
+    },
+    "./scan-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scan-draw.jsx"
+    },
+    "./screen-share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-share.jsx"
+    },
+    "./screen-share-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-share-draw.jsx"
+    },
+    "./search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search.jsx"
+    },
+    "./search-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-draw.jsx"
+    },
+    "./search-empty": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/search-empty.jsx"
+    },
+    "./selection": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection.jsx"
+    },
+    "./selection-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection-draw.jsx"
+    },
+    "./send": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send.jsx"
+    },
+    "./send-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-draw.jsx"
+    },
+    "./send-later": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-later.jsx"
+    },
+    "./send-later-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-later-draw.jsx"
+    },
+    "./settings": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings.jsx"
+    },
+    "./settings-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/settings-draw.jsx"
+    },
+    "./share": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share.jsx"
+    },
+    "./share-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/share-draw.jsx"
+    },
+    "./shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield.jsx"
+    },
+    "./shield-alert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-alert.jsx"
+    },
+    "./shield-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-draw.jsx"
+    },
+    "./shield-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-off.jsx"
+    },
+    "./shortcuts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shortcuts.jsx"
+    },
+    "./shortcuts-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shortcuts-draw.jsx"
+    },
+    "./show": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/show.jsx"
+    },
+    "./show-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/show-draw.jsx"
+    },
+    "./sidebar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar.jsx"
+    },
+    "./sidebar-close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-close.jsx"
+    },
+    "./sign-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sign-out.jsx"
+    },
+    "./sign-out-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sign-out-draw.jsx"
+    },
+    "./simplify": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simplify.jsx"
+    },
+    "./simplify-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/simplify-draw.jsx"
+    },
+    "./skip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip.jsx"
+    },
+    "./skip-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-draw.jsx"
+    },
+    "./slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slash.jsx"
+    },
+    "./snippets": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snippets.jsx"
+    },
+    "./snippets-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snippets-draw.jsx"
+    },
+    "./sort-az": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-az.jsx"
+    },
+    "./sort-size-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-size-down.jsx"
+    },
+    "./sort-size-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-size-up.jsx"
+    },
+    "./sort-za": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-za.jsx"
+    },
+    "./sound": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sound.jsx"
+    },
+    "./sound-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sound-draw.jsx"
+    },
+    "./step-current": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-current.jsx"
+    },
+    "./step-partial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-partial.jsx"
+    },
+    "./step-todo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-todo.jsx"
+    },
+    "./stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop.jsx"
+    },
+    "./stop-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stop-draw.jsx"
+    },
+    "./support": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/support.jsx"
+    },
+    "./support-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/support-draw.jsx"
+    },
+    "./swap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swap.jsx"
+    },
+    "./swap-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/swap-draw.jsx"
+    },
+    "./table": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table.jsx"
+    },
+    "./tag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tag.jsx"
+    },
+    "./template": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/template.jsx"
+    },
+    "./template-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/template-draw.jsx"
+    },
+    "./text": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text.jsx"
+    },
+    "./theme-auto": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theme-auto.jsx"
+    },
+    "./theme-auto-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theme-auto-draw.jsx"
+    },
+    "./theme-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theme-dark.jsx"
+    },
+    "./theme-dark-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theme-dark-draw.jsx"
+    },
+    "./theme-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theme-light.jsx"
+    },
+    "./theme-light-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theme-light-draw.jsx"
+    },
+    "./timer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/timer.jsx"
+    },
+    "./timer-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/timer-draw.jsx"
+    },
+    "./toggle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle.jsx"
+    },
+    "./transcript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transcript.jsx"
+    },
+    "./transcript-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/transcript-draw.jsx"
+    },
+    "./translate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate.jsx"
+    },
+    "./translate-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-draw.jsx"
+    },
+    "./type": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/type.jsx"
+    },
+    "./undo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undo.jsx"
+    },
+    "./undo-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/undo-draw.jsx"
+    },
+    "./unpin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unpin.jsx"
+    },
+    "./unpin-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unpin-draw.jsx"
+    },
+    "./upload": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload.jsx"
+    },
+    "./upload-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upload-draw.jsx"
+    },
+    "./user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user.jsx"
+    },
+    "./user-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-draw.jsx"
+    },
+    "./verified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verified.jsx"
+    },
+    "./verified-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/verified-draw.jsx"
+    },
+    "./video": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video.jsx"
+    },
+    "./video-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/video-draw.jsx"
+    },
+    "./view-details": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-details.jsx"
+    },
+    "./view-grid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-grid.jsx"
+    },
+    "./view-list": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-list.jsx"
+    },
+    "./view-small": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/view-small.jsx"
+    },
+    "./warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warning.jsx"
+    },
+    "./window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/window.jsx"
+    },
+    "./window-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/window-draw.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#struq"
+}

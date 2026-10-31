@@ -1,0 +1,21 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/n/n1lsf0bnc.css';
+import '../../css/b/bvc2-kbwf.css';
+import '../../css/a/amlv7db0u.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="n1lsf0bnc"><path class="bvc2-kbwf wm-k"/><path class="amlv7db0u wm-a"/></g>`,
+		"fallback": "withicons:battery-full-gloss",
+	});
+}
+
+export default Component;

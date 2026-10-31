@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><linearGradient id="SVGeq4GoeLw" x1="150" x2="234" y1="119.2" y2="264.8" gradientUnits="userSpaceOnUse"><stop offset="0" class="ykd9cjbnf"/><stop offset=".5" class="ykd9cjbnf"/><stop offset="1" class="fqk8mibcy"/></linearGradient><symbol id="SVG0a04Kbxn" viewBox="0 0 384 384"><circle fill="url(#SVGeq4GoeLw)" class="luenvmnwd"/><path class="uazzy_ebx"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 192 192; 45 192 192"/></path></symbol></defs><use width="384" height="384" href="#SVG0a04Kbxn" transform="translate(64 64)"/>`,
+		"content": `<defs><linearGradient id="SVGJ7o51c0h" x1="150" x2="234" y1="119.2" y2="264.8" gradientUnits="userSpaceOnUse"><stop offset="0" class="ykd9cjbnf"/><stop offset=".5" class="ykd9cjbnf"/><stop offset="1" class="fqk8mibcy"/></linearGradient><symbol id="SVGdsIlseCu" viewBox="0 0 384 384"><circle fill="url(#SVGJ7o51c0h)" class="luenvmnwd"/><path class="uazzy_ebx"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 192 192; 45 192 192"/></path></symbol></defs><use width="384" height="384" href="#SVGdsIlseCu" transform="translate(64 64)"/>`,
 		"fallback": "meteocons:clear-day-fill",
 	});
 }

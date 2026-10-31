@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><symbol id="SVGR15heb5B" viewBox="0 0 109.1 73.2"><path class="orexe2b-x"/></symbol></defs><use width="109.1" height="73.2" href="#SVGR15heb5B" transform="matrix(1.46 0 0 1.47 176.26 202.35)"/>`,
+		"content": `<defs><symbol id="SVG8c4FjcGg" viewBox="0 0 109.1 73.2"><path class="orexe2b-x"/></symbol></defs><use width="109.1" height="73.2" href="#SVG8c4FjcGg" transform="matrix(1.46 0 0 1.47 176.26 202.35)"/>`,
 		"fallback": "meteocons:celsius",
 	});
 }

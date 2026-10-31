@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><linearGradient id="SVG76xxrbfa" x1="163.5" x2="296.6" y1="185.7" y2="416.3" gradientUnits="userSpaceOnUse"><stop offset="0" class="tdby753_d"/><stop offset=".5" class="tdby753_d"/><stop offset="1" class="xqytf2l6q"/></linearGradient></defs><path fill="url(#SVG76xxrbfa)" class="l3xgrcbun"/>`,
+		"content": `<defs><linearGradient id="SVG8WbtdOMt" x1="163.5" x2="296.6" y1="185.7" y2="416.3" gradientUnits="userSpaceOnUse"><stop offset="0" class="tdby753_d"/><stop offset=".5" class="tdby753_d"/><stop offset="1" class="xqytf2l6q"/></linearGradient></defs><path fill="url(#SVG8WbtdOMt)" class="l3xgrcbun"/>`,
 		"fallback": "meteocons:code-green-fill",
 	});
 }

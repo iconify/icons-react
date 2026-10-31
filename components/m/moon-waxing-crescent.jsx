@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/v/v1njp3l4b.css';
-import '../../css/m/md6xbkbma.css';
+import '../../css/n/n8pog1kss.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v1njp3l4b"/><path class="md6xbkbma"/>`,
+		"content": `<path class="v1njp3l4b"/><path class="n8pog1kss"/>`,
 		"fallback": "meteocons:moon-waxing-crescent",
 	});
 }

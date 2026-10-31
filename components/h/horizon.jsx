@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><clipPath id="SVGWfBvnzCF"><path class="tjdecabze"/></clipPath><symbol id="SVGYqAb8ZRw" viewBox="0 0 375 375"><circle class="vlj0scbpf"/><path class="d-2gb0bhq"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 187.5 187.5; 45 187.5 187.5"/></path></symbol></defs><g clip-path="url(#SVGWfBvnzCF)"><use width="375" height="375" href="#SVGYqAb8ZRw" transform="translate(68.5 104.5)"/></g><path class="wi93bqmrk"/>`,
+		"content": `<defs><clipPath id="SVGMLGqBdhj"><path class="tjdecabze"/></clipPath><symbol id="SVGK9G88drL" viewBox="0 0 375 375"><circle class="vlj0scbpf"/><path class="d-2gb0bhq"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 187.5 187.5; 45 187.5 187.5"/></path></symbol></defs><g clip-path="url(#SVGMLGqBdhj)"><use width="375" height="375" href="#SVGK9G88drL" transform="translate(68.5 104.5)"/></g><path class="wi93bqmrk"/>`,
 		"fallback": "meteocons:horizon",
 	});
 }

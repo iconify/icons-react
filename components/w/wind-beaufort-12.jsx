@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><symbol id="SVGDZwFFdWn" viewBox="0 0 342 234"><path class="vlk5ymyap"><animate attributeName="stroke-dashoffset" dur="6s" repeatCount="indefinite" values="0; 4736"/></path><path class="i27tkhlqe"><animate attributeName="stroke-dashoffset" dur="6s" repeatCount="indefinite" values="0; 2860"/></path></symbol></defs><use width="342" height="234" href="#SVGDZwFFdWn" transform="translate(85 139)"/><path class="aaw-b7bkq"/>`,
+		"content": `<defs><symbol id="SVGVaVFxbNl" viewBox="0 0 342 234"><path class="vlk5ymyap"><animate attributeName="stroke-dashoffset" dur="6s" repeatCount="indefinite" values="0; 4736"/></path><path class="i27tkhlqe"><animate attributeName="stroke-dashoffset" dur="6s" repeatCount="indefinite" values="0; 2860"/></path></symbol></defs><use width="342" height="234" href="#SVGVaVFxbNl" transform="translate(85 139)"/><path class="aaw-b7bkq"/>`,
 		"fallback": "meteocons:wind-beaufort-12",
 	});
 }

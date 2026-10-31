@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><symbol id="SVGuIBCwefD" viewBox="0 0 72 168"><circle class="e3h1a6bcc"/><path class="yuyfg5bdi"/></symbol></defs><use width="72" height="168" href="#SVGuIBCwefD" transform="translate(220 204)"/>`,
+		"content": `<defs><symbol id="SVGJUtsncQm" viewBox="0 0 72 168"><circle class="e3h1a6bcc"/><path class="yuyfg5bdi"/></symbol></defs><use width="72" height="168" href="#SVGJUtsncQm" transform="translate(220 204)"/>`,
 		"fallback": "meteocons:thermometer-mercury-cold-fill",
 	});
 }

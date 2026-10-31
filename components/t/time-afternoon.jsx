@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><symbol id="SVGUUWKNc3I" viewBox="0 0 291 291"><circle class="l57hr9diu"/><path class="v-b9irtdp"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 145.5 145.5; 45 145.5 145.5"/></path></symbol></defs><path class="mhnfz8baj"/><use width="291" height="291" href="#SVGUUWKNc3I" transform="translate(110.38 72.63)"/>`,
+		"content": `<defs><symbol id="SVG4Xo5ybmC" viewBox="0 0 291 291"><circle class="l57hr9diu"/><path class="v-b9irtdp"><animateTransform additive="sum" attributeName="transform" dur="6s" repeatCount="indefinite" type="rotate" values="0 145.5 145.5; 45 145.5 145.5"/></path></symbol></defs><path class="mhnfz8baj"/><use width="291" height="291" href="#SVG4Xo5ybmC" transform="translate(110.38 72.63)"/>`,
 		"fallback": "meteocons:time-afternoon",
 	});
 }

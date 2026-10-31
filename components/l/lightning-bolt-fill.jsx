@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><linearGradient id="SVGvnYDXzed" x1="8.7" x2="80.9" y1="17.1" y2="142.1" gradientUnits="userSpaceOnUse"><stop offset="0" class="mzwgp8pmp"/><stop offset=".5" class="mzwgp8pmp"/><stop offset="1" class="fqk8mibcy"/></linearGradient><symbol id="SVGpUv0Udwf" viewBox="0 0 102.7 186.8"><path fill="url(#SVGvnYDXzed)" class="le-qv1b7l"><animate id="SVGbxDaaeoE" attributeName="opacity" begin="0s; x1.end+.67s" dur="1.33s" keyTimes="0; .38; .5; .63; .75; .86; .94; 1" values="1; 1; 0; 1; 0; 1; 0; 1"/></path></symbol></defs><use width="102.7" height="186.7" href="#SVGpUv0Udwf" transform="translate(186.37 130)scale(1.36)"/>`,
+		"content": `<defs><linearGradient id="SVG59sE6btB" x1="8.7" x2="80.9" y1="17.1" y2="142.1" gradientUnits="userSpaceOnUse"><stop offset="0" class="mzwgp8pmp"/><stop offset=".5" class="mzwgp8pmp"/><stop offset="1" class="fqk8mibcy"/></linearGradient><symbol id="SVGcgJ6tenJ" viewBox="0 0 102.7 186.8"><path fill="url(#SVG59sE6btB)" class="le-qv1b7l"><animate id="SVGfQ2cBnbC" attributeName="opacity" begin="0s;SVGfQ2cBnbC.end+.67s" dur="1.33s" keyTimes="0; .38; .5; .63; .75; .86; .94; 1" values="1; 1; 0; 1; 0; 1; 0; 1"/></path></symbol></defs><use width="102.7" height="186.7" href="#SVGcgJ6tenJ" transform="translate(186.37 130)scale(1.36)"/>`,
 		"fallback": "meteocons:lightning-bolt-fill",
 	});
 }

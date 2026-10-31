@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eporl6ber.css';
+import '../../css/i/irmk_pbcb.css';
+import '../../css/z/zpt2lgb4a.css';
+import '../../css/r/rpp_nsbbd.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eporl6ber"/>`,
+		"content": `<path class="irmk_pbcb"/><path class="zpt2lgb4a"/><path class="rpp_nsbbd"/>`,
 		"fallback": "devicon:prisma",
 	});
 }

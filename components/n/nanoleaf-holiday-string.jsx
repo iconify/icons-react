@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jdrogmbvx.css';
+import '../../css/l/l69adjb5c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jdrogmbvx"/>`,
+		"content": `<path class="l69adjb5c"/>`,
 		"fallback": "cbi:nanoleaf-holiday-string",
 	});
 }

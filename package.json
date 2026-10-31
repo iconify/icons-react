@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -2066,6 +2066,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fedex.jsx"
     },
+    "./feishin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/feishin.jsx"
+    },
     "./festavia": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/festavia.jsx"
@@ -2666,6 +2670,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/honeywell.jsx"
     },
+    "./honor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/honor.jsx"
+    },
     "./hood-extraction": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hood-extraction.jsx"
@@ -3205,6 +3213,10 @@
     "./lego": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lego.jsx"
+    },
+    "./lenovo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lenovo.jsx"
     },
     "./letsencrypt": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6634,6 +6646,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/virginmedia.jsx"
     },
+    "./vivo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vivo.jsx"
+    },
     "./voc": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/voc.jsx"
@@ -6902,9 +6918,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/windows.jsx"
     },
-    "./windows-oficial": {
+    "./windows-official": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/w/windows-oficial.jsx"
+      "default": "./components/w/windows-official.jsx"
     },
     "./wink-tv": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6957,6 +6973,10 @@
     "./wps-wifi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wps-wifi.jsx"
+    },
+    "./wrtag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wrtag.jsx"
     },
     "./wyzecam": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7521,6 +7541,10 @@
     "./webber-grill": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/webber-grill.jsx"
+    },
+    "./windows-oficial": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/windows-oficial.jsx"
     },
     "./*": "./*"
   },

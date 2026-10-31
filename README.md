@@ -1,0 +1,48 @@
+# @iconify-react/withicons-brutal
+
+**with icons Brutal**
+
+Author: [Evergrow](https://github.com/withevergrow/withicons)
+
+License: [MIT](https://github.com/withevergrow/withicons/blob/main/LICENSE)
+
+Browse all icons: [preview with icons Brutal on Iconify](https://icon-sets.iconify.design/withicons-brutal/)
+
+## Installation
+
+```bash
+npm install gitlab:iconify-icons/react#withicons-brutal
+```
+
+or
+```bash
+npm install github:iconify/icons-react#withicons-brutal
+```
+
+## Usage
+
+For full documentation visit [Iconify website](https://iconify.design/docs/usage/svg-css/react/).
+
+Few usage examples:
+
+```jsx
+import SampleIcon from '@iconify-react/withicons-brutal/home';
+
+function Test() {
+  return (
+    <SampleIcon />
+  );
+}
+```
+
+To resize icon, set `width` and/or `height` parameters:
+
+```jsx
+import SampleIcon from '@iconify-react/withicons-brutal/search';
+
+function Test() {
+  return (
+    <SampleIcon height="1em" />
+  );
+}
+```

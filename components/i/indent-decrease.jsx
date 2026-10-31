@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/dkv48acbf.css';
+import '../../css/m/m6i-bjqet.css';
+import '../../css/n/n9dic-1bb.css';
+import '../../css/e/eg3i18brb.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="dkv48acbf"><path class="m6i-bjqet wm-k"/><path class="n9dic-1bb wm-a"/><path class="eg3i18brb wm-deco"/></g>`,
+		"fallback": "withicons-kawaii:indent-decrease",
+	});
+}
+
+export default Component;

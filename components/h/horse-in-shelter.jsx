@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vom63sb8o.css';
+import '../../css/c/c351c7shn.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vom63sb8o"/>`,
+		"content": `<path class="c351c7shn"/>`,
 		"fallback": "pinhead:horse-in-shelter",
 	});
 }

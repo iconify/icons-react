@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jlq4g9a-n.css';
+import '../../css/y/yr938p2vn.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jlq4g9a-n"/>`,
+		"content": `<path class="yr938p2vn"/>`,
 		"fallback": "pinhead:picnic-table-in-eaved-leanto-shelter",
 	});
 }

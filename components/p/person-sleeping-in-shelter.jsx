@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a-tdp8bef.css';
+import '../../css/m/my4upjy5t.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a-tdp8bef"/>`,
+		"content": `<path class="my4upjy5t"/>`,
 		"fallback": "pinhead:person-sleeping-in-shelter",
 	});
 }

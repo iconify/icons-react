@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/pinhead",
   "type": "module",
-  "version": "1.0.38",
+  "version": "1.0.39",
   "homepage": "https://icon-sets.iconify.design/pinhead/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -3274,6 +3274,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dog-wearing-collar-on-leash.jsx"
     },
+    "./dog-wearing-collar-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog-wearing-collar-under-gabled-roof.jsx"
+    },
     "./dog-wearing-harness": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dog-wearing-harness.jsx"
@@ -4158,6 +4162,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gabled-building-with-window.jsx"
     },
+    "./gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gabled-roof.jsx"
+    },
     "./gabled-roof-with-fireplace-and-chimney": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gabled-roof-with-fireplace-and-chimney.jsx"
@@ -4666,6 +4674,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/horse-spring-rider.jsx"
     },
+    "./horse-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horse-under-gabled-roof.jsx"
+    },
     "./horseshoe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/horseshoe.jsx"
@@ -4782,9 +4794,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/info-i.jsx"
     },
-    "./information-board-with-hipped-roof": {
+    "./information-board-with-eaved-hipped-roof": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/information-board-with-hipped-roof.jsx"
+      "default": "./components/i/information-board-with-eaved-hipped-roof.jsx"
     },
     "./inline-skate": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6462,9 +6474,29 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/people-sleeping-in-bunkbeds.jsx"
     },
+    "./people-sleeping-in-bunkbeds-in-eaved-gabled-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-gabled-building.jsx"
+    },
+    "./people-sleeping-in-bunkbeds-in-eaved-gabled-building-with-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-gabled-building-with-chimney.jsx"
+    },
+    "./people-sleeping-in-bunkbeds-in-eaved-gabled-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-gabled-shelter.jsx"
+    },
+    "./people-sleeping-in-bunkbeds-in-eaved-leanto-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-leanto-shelter.jsx"
+    },
     "./people-sleeping-in-bunkbeds-in-eaved-open-gabled-building": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-open-gabled-building.jsx"
+    },
+    "./people-sleeping-in-bunkbeds-under-gabled-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-sleeping-in-bunkbeds-under-gabled-roof.jsx"
     },
     "./people-sleeping-in-opposing-bunkbeds": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7234,6 +7266,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-wearing-cheese-wedge-hat.jsx"
     },
+    "./person-wearing-greek-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-wearing-greek-cross.jsx"
+    },
     "./person-wearing-helmet-paddling-kayak-on-water": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-wearing-helmet-paddling-kayak-on-water.jsx"
@@ -7285,6 +7321,10 @@
     "./person-with-ponytail-riding-zip-line": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-with-ponytail-riding-zip-line.jsx"
+    },
+    "./person-with-stethoscope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-with-stethoscope.jsx"
     },
     "./peso": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7826,6 +7866,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-invader.jsx"
     },
+    "./pixel-jack-o-lantern": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pixel-jack-o-lantern.jsx"
+    },
     "./pixel-map-pin": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pixel-map-pin.jsx"
@@ -8029,6 +8073,10 @@
     "./poo-pile": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/poo-pile.jsx"
+    },
+    "./poo-pile-with-smiling-face": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/poo-pile-with-smiling-face.jsx"
     },
     "./portable-fence": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11973,6 +12021,10 @@
     "./ice-text-above-icicles": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ice-text-above-icicles.jsx"
+    },
+    "./information-board-with-hipped-roof": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/information-board-with-hipped-roof.jsx"
     },
     "./isosceles-trapezoid-tall-down": {
       "types": "./types/hqrkovbr.d.ts",

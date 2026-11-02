@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t53n6nbft.css';
+import '../../css/g/gf0pmjbgg.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t53n6nbft"/>`,
+		"content": `<path class="gf0pmjbgg"/>`,
 		"fallback": "pinhead:splash-up-from-water",
 	});
 }

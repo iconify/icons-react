@@ -93,9 +93,9 @@ There are 259 branches in this repository, one for each icon set.
 - [#solar](https://github.com/iconify/icons-react/tree/solar): **Solar** (8706 icons, CC BY 4.0)
 - [#tabler](https://github.com/iconify/icons-react/tree/tabler): **Tabler Icons** (6257 icons, MIT)
 - [#iconoven](https://github.com/iconify/icons-react/tree/iconoven): **IconOven** (18236 icons, MIT)
-- [#coolicons](https://github.com/iconify/icons-react/tree/coolicons): **coolicons** (6100 icons, MIT)
+- [#coolicons](https://github.com/iconify/icons-react/tree/coolicons): **coolicons** (18870 icons, MIT)
 - [#boxicons](https://github.com/iconify/icons-react/tree/boxicons): **Boxicons** (3768 icons, MIT)
-- [#mingcute](https://github.com/iconify/icons-react/tree/mingcute): **MingCute Icon** (3320 icons, Apache 2.0)
+- [#mingcute](https://github.com/iconify/icons-react/tree/mingcute): **MingCute Icon** (4526 icons, Apache 2.0)
 - [#keyline-icons](https://github.com/iconify/icons-react/tree/keyline-icons): **Keyline Icons** (13232 icons, MIT)
 - [#ri](https://github.com/iconify/icons-react/tree/ri): **Remix Icon** (3188 icons, Apache 2.0)
 - [#mynaui](https://github.com/iconify/icons-react/tree/mynaui): **Myna UI Icons** (2620 icons, MIT)
@@ -149,7 +149,7 @@ There are 259 branches in this repository, one for each icon set.
 - [#lineicons](https://github.com/iconify/icons-react/tree/lineicons): **Lineicons** (606 icons, MIT)
 - [#wordpress](https://github.com/iconify/icons-react/tree/wordpress): **WordPress Icons** (344 icons, GPL)
 - [#struq](https://github.com/iconify/icons-react/tree/struq): **Struq Icons** (300 icons, MIT)
-- [#matita](https://github.com/iconify/icons-react/tree/matita): **Matita** (260 icons, MIT)
+- [#matita](https://github.com/iconify/icons-react/tree/matita): **Matita** (302 icons, MIT)
 - [#icon-park-outline](https://github.com/iconify/icons-react/tree/icon-park-outline): **IconPark Outline** (2658 icons, Apache 2.0)
 - [#icon-park-solid](https://github.com/iconify/icons-react/tree/icon-park-solid): **IconPark Solid** (1947 icons, Apache 2.0)
 - [#icon-park-twotone](https://github.com/iconify/icons-react/tree/icon-park-twotone): **IconPark TwoTone** (1944 icons, Apache 2.0)
@@ -200,7 +200,7 @@ There are 259 branches in this repository, one for each icon set.
 - [#codex](https://github.com/iconify/icons-react/tree/codex): **CodeX Icons** (156 icons, MIT)
 - [#ei](https://github.com/iconify/icons-react/tree/ei): **Evil Icons** (70 icons, MIT)
 - [#heroicons](https://github.com/iconify/icons-react/tree/heroicons): **HeroIcons** (1288 icons, MIT)
-- [#sidekickicons](https://github.com/iconify/icons-react/tree/sidekickicons): **SidekickIcons** (312 icons, MIT)
+- [#sidekickicons](https://github.com/iconify/icons-react/tree/sidekickicons): **SidekickIcons** (396 icons, MIT)
 - [#garden](https://github.com/iconify/icons-react/tree/garden): **Garden SVG Icons** (1491 icons, Apache 2.0)
 - [#pepicons-pop](https://github.com/iconify/icons-react/tree/pepicons-pop): **Pepicons Pop!** (1275 icons, CC BY 4.0)
 - [#pepicons-print](https://github.com/iconify/icons-react/tree/pepicons-print): **Pepicons Print** (1275 icons, CC BY 4.0)
@@ -257,8 +257,8 @@ There are 259 branches in this repository, one for each icon set.
 - [#codicon](https://github.com/iconify/icons-react/tree/codicon): **Codicons** (657 icons, CC BY 4.0)
 - [#material-icon-theme](https://github.com/iconify/icons-react/tree/material-icon-theme): **Material Icon Theme** (909 icons, MIT)
 - [#file-icons](https://github.com/iconify/icons-react/tree/file-icons): **File Icons** (930 icons, ISC)
-- [#devicon](https://github.com/iconify/icons-react/tree/devicon): **Devicon** (1079 icons, MIT)
-- [#devicon-plain](https://github.com/iconify/icons-react/tree/devicon-plain): **Devicon Plain** (786 icons, MIT)
+- [#devicon](https://github.com/iconify/icons-react/tree/devicon): **Devicon** (1087 icons, MIT)
+- [#devicon-plain](https://github.com/iconify/icons-react/tree/devicon-plain): **Devicon Plain** (788 icons, MIT)
 - [#catppuccin](https://github.com/iconify/icons-react/tree/catppuccin): **Catppuccin Icons** (656 icons, MIT)
 - [#skill-icons](https://github.com/iconify/icons-react/tree/skill-icons): **Skill Icons** (400 icons, MIT)
 - [#gcp](https://github.com/iconify/icons-react/tree/gcp): **Google Cloud Icons** (214 icons, Apache 2.0)
@@ -274,8 +274,8 @@ There are 259 branches in this repository, one for each icon set.
 - [#fa7-brands](https://github.com/iconify/icons-react/tree/fa7-brands): **Font Awesome Brands** (608 icons, CC BY 4.0)
 - [#bxl](https://github.com/iconify/icons-react/tree/bxl): **Boxicons Brands** (295 icons, MIT)
 - [#nonicons](https://github.com/iconify/icons-react/tree/nonicons): **Nonicons** (69 icons, MIT)
-- [#thesvg](https://github.com/iconify/icons-react/tree/thesvg): **theSVG** (3798 icons, MIT)
-- [#thesvg-color](https://github.com/iconify/icons-react/tree/thesvg-color): **theSVG Color** (5166 icons, MIT)
+- [#thesvg](https://github.com/iconify/icons-react/tree/thesvg): **theSVG** (3804 icons, MIT)
+- [#thesvg-color](https://github.com/iconify/icons-react/tree/thesvg-color): **theSVG Color** (5168 icons, MIT)
 - [#selfhst](https://github.com/iconify/icons-react/tree/selfhst): **selfh.st/icons** (7292 icons, CC BY 4.0)
 - [#cbi](https://github.com/iconify/icons-react/tree/cbi): **Custom Brand Icons** (1790 icons, CC BY-NC-SA 4.0)
 - [#brandico](https://github.com/iconify/icons-react/tree/brandico): **Brandico** (45 icons, CC BY SA)
@@ -301,7 +301,7 @@ There are 259 branches in this repository, one for each icon set.
 
 ### Location
 
-- [#pinhead](https://github.com/iconify/icons-react/tree/pinhead): **Pinhead Map Icons** (2809 icons, CC0)
+- [#pinhead](https://github.com/iconify/icons-react/tree/pinhead): **Pinhead Map Icons** (2821 icons, CC0)
 - [#roentgen](https://github.com/iconify/icons-react/tree/roentgen): **Röntgen** (574 icons, CC BY 4.0)
 - [#maki](https://github.com/iconify/icons-react/tree/maki): **Maki** (215 icons, CC0)
 - [#temaki](https://github.com/iconify/icons-react/tree/temaki): **Temaki** (557 icons, CC0)
@@ -386,4 +386,4 @@ There are 259 branches in this repository, one for each icon set.
 - [#vaadin](https://github.com/iconify/icons-react/tree/vaadin): **Vaadin Icons** (636 icons, Apache 2.0)
 - [#grommet-icons](https://github.com/iconify/icons-react/tree/grommet-icons): **Grommet Icons** (636 icons, Apache 2.0)
 
-Total: 259 icon sets, 449418 icons.
+Total: 259 icon sets, 463550 icons.

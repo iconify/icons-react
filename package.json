@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -3914,6 +3914,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/emirates.jsx"
     },
+    "./emissary-ingress": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/emissary-ingress.jsx"
+    },
     "./emlakjet": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/emlakjet.jsx"
@@ -4177,6 +4181,10 @@
     "./fanfou": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fanfou.jsx"
+    },
+    "./fans": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fans.jsx"
     },
     "./fantom": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6798,6 +6806,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kdenlive.jsx"
     },
+    "./keda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keda.jsx"
+    },
     "./kedro": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kedro.jsx"
@@ -7021,6 +7033,10 @@
     "./konva": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/konva.jsx"
+    },
+    "./kopia": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kopia.jsx"
     },
     "./koreader": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9389,6 +9405,10 @@
     "./openfaas": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/openfaas.jsx"
+    },
+    "./openfga": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openfga.jsx"
     },
     "./opengl": {
       "types": "./types/hqrkovbr.d.ts",
@@ -13001,6 +13021,10 @@
     "./task": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/task.jsx"
+    },
+    "./taskade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskade.jsx"
     },
     "./tasmota": {
       "types": "./types/hqrkovbr.d.ts",

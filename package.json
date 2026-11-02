@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -998,6 +998,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/electron-wordmark.jsx"
     },
+    "./elementplus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elementplus.jsx"
+    },
+    "./elementplus-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elementplus-wordmark.jsx"
+    },
     "./eleventy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eleventy.jsx"
@@ -1778,6 +1786,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/jekyll.jsx"
     },
+    "./jekyll-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jekyll-wordmark.jsx"
+    },
     "./jenkins": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/jenkins.jsx"
@@ -2145,6 +2157,10 @@
     "./lumen": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lumen.jsx"
+    },
+    "./lwc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lwc.jsx"
     },
     "./magento": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2810,6 +2826,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pnpm-wordmark.jsx"
     },
+    "./pocketbase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pocketbase.jsx"
+    },
+    "./pocketbase-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pocketbase-wordmark.jsx"
+    },
     "./podman": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/podman.jsx"
@@ -3221,6 +3245,14 @@
     "./remix-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/remix-wordmark.jsx"
+    },
+    "./render": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/render.jsx"
+    },
+    "./render-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/render-wordmark.jsx"
     },
     "./renpy": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,7 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v5o67xb4n.css';
-import '../../css/v/vclaoe-gr.css';
+import '../../css/k/ko5dwac9v.css';
+import '../../css/q/q_5fvp18n.css';
+import '../../css/q/qua1n-5tb.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -12,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v5o67xb4n"/><path class="vclaoe-gr"/>`,
+		"content": `<path class="ko5dwac9v"/><path class="q_5fvp18n"/><path class="qua1n-5tb"/>`,
 		"fallback": "devicon:vlang",
 	});
 }

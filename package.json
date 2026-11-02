@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -5629,6 +5629,10 @@
     "./fanfou": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fanfou.jsx"
+    },
+    "./fans": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fans.jsx"
     },
     "./fanta": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17653,6 +17657,10 @@
     "./task": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/task.jsx"
+    },
+    "./taskade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskade.jsx"
     },
     "./tasmota": {
       "types": "./types/hqrkovbr.d.ts",

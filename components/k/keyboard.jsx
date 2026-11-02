@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
 import '../../css/x/xs57kdb9i.css';
-import '../../css/h/hzzf7bglq.css';
-import '../../css/h/hslk2mt9b.css';
+import '../../css/d/d0dt39byy.css';
+import '../../css/l/l4657hg_b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="xs57kdb9i"/><path class="hzzf7bglq"/><path class="hslk2mt9b"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="xs57kdb9i"/><path class="d0dt39byy"/><path class="l4657hg_b"/></g>`,
 		"fallback": "matita:keyboard",
 	});
 }

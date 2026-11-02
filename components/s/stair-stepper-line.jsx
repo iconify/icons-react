@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zr74g4b5e.css';
+import '../../css/q/qoh6psbwd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zr74g4b5e"/>`,
+		"content": `<path class="qoh6psbwd"/>`,
 		"fallback": "mingcute:stair-stepper-line",
 	});
 }

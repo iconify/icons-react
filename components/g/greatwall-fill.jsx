@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/moryof8mh.css';
+import '../../css/v/vpp256gqu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="moryof8mh"/>`,
+		"content": `<path class="vpp256gqu"/>`,
 		"fallback": "mingcute:greatwall-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/ggrv6-bhg.css';
+import '../../css/k/kfk5-2ass.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ggrv6-bhg"/>`,
+		"content": `<path class="kfk5-2ass"/>`,
 		"fallback": "mingcute:danmaku-line",
 	});
 }

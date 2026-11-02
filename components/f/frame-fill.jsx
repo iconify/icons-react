@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t5-v0tbmd.css';
+import '../../css/l/l49ddegon.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t5-v0tbmd"/>`,
+		"content": `<path class="l49ddegon"/>`,
 		"fallback": "mingcute:frame-fill",
 	});
 }

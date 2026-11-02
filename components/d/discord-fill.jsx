@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bh49r0egi.css';
+import '../../css/x/xc2cfj1yx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bh49r0egi"/>`,
+		"content": `<path class="xc2cfj1yx"/>`,
 		"fallback": "mingcute:discord-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v2ppnnbpm.css';
+import '../../css/b/blhm5fk1l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="v2ppnnbpm"/>`,
+		"content": `<path class="blhm5fk1l"/>`,
 		"fallback": "mingcute:nurse-fill",
 	});
 }

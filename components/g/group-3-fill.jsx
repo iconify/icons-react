@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s7-9x2bvb.css';
+import '../../css/t/ti3devbrs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s7-9x2bvb"/>`,
+		"content": `<path class="ti3devbrs"/>`,
 		"fallback": "mingcute:group-3-fill",
 	});
 }

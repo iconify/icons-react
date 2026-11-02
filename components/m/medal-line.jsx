@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mwa774bxt.css';
+import '../../css/z/z4sqqccfx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mwa774bxt"/>`,
+		"content": `<path class="z4sqqccfx"/>`,
 		"fallback": "mingcute:medal-line",
 	});
 }

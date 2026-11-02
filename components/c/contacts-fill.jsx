@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tngkkybgv.css';
+import '../../css/i/i1gr_acfz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tngkkybgv"/>`,
+		"content": `<path class="i1gr_acfz"/>`,
 		"fallback": "mingcute:contacts-fill",
 	});
 }

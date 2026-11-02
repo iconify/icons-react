@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oxany_f2a.css';
+import '../../css/g/g_go7u7sv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oxany_f2a"/>`,
+		"content": `<path class="g_go7u7sv"/>`,
 		"fallback": "mingcute:refresh-3-fill",
 	});
 }

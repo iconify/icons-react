@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h1sw88bqp.css';
+import '../../css/l/ln7uv3d2c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h1sw88bqp"/>`,
+		"content": `<path class="ln7uv3d2c"/>`,
 		"fallback": "mingcute:quarter-circle-dash-line",
 	});
 }

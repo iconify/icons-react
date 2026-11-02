@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nb6qywzxu.css';
+import '../../css/d/dlntbmarp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nb6qywzxu"/>`,
+		"content": `<path class="dlntbmarp"/>`,
 		"fallback": "mingcute:vector-bezier-3-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j1ucmp_vc.css';
+import '../../css/y/yvnh_wvmr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j1ucmp_vc"/>`,
+		"content": `<path class="yvnh_wvmr"/>`,
 		"fallback": "mingcute:aiming-2-line",
 	});
 }

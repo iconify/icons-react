@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oums-nbgd.css';
+import '../../css/q/q_n-dbbym.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oums-nbgd"/>`,
+		"content": `<path class="q_n-dbbym"/>`,
 		"fallback": "mingcute:mingcute-line",
 	});
 }

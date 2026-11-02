@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u1_vmfbyw.css';
+import '../../css/a/avd8sacsn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u1_vmfbyw"/>`,
+		"content": `<path class="avd8sacsn"/>`,
 		"fallback": "mingcute:currency-euro-2-line",
 	});
 }

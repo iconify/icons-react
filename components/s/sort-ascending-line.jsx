@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c-ameepbt.css';
+import '../../css/k/khi8ekbup.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c-ameepbt"/>`,
+		"content": `<path class="khi8ekbup"/>`,
 		"fallback": "mingcute:sort-ascending-line",
 	});
 }

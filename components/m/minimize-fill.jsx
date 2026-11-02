@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rtgdftkpg.css';
+import '../../css/r/rdo1-lb0a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="rtgdftkpg"/>`,
+		"content": `<path class="rdo1-lb0a"/>`,
 		"fallback": "mingcute:minimize-fill",
 	});
 }

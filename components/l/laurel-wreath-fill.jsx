@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e75o2bcvi.css';
+import '../../css/r/r1tsrb9bp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="e75o2bcvi"/>`,
+		"content": `<path class="r1tsrb9bp"/>`,
 		"fallback": "mingcute:laurel-wreath-fill",
 	});
 }

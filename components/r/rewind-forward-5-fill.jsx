@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nunlv_k3g.css';
+import '../../css/b/b-ypogqwb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nunlv_k3g"/>`,
+		"content": `<path class="b-ypogqwb"/>`,
 		"fallback": "mingcute:rewind-forward-5-fill",
 	});
 }

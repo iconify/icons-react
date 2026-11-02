@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/krmec0bwt.css';
+import '../../css/i/i_d10yikf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="krmec0bwt"/>`,
+		"content": `<path class="i_d10yikf"/>`,
 		"fallback": "mingcute:butterfly-line",
 	});
 }

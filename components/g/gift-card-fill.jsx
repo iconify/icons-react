@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rgc4gwb-w.css';
+import '../../css/y/yp8d2ookr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rgc4gwb-w"/>`,
+		"content": `<path class="yp8d2ookr"/>`,
 		"fallback": "mingcute:gift-card-fill",
 	});
 }

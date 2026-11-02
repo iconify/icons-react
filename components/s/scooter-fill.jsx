@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hho220g3f.css';
+import '../../css/z/zj3r7hxgo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hho220g3f"/>`,
+		"content": `<path class="zj3r7hxgo"/>`,
 		"fallback": "mingcute:scooter-fill",
 	});
 }

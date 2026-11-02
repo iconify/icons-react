@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ed5-32ims.css';
+import '../../css/w/w05klibnz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ed5-32ims"/>`,
+		"content": `<path class="w05klibnz"/>`,
 		"fallback": "mingcute:file-line",
 	});
 }

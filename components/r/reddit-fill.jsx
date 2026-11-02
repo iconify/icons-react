@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xshk93bpa.css';
+import '../../css/w/wlm2j4byg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xshk93bpa"/>`,
+		"content": `<path class="wlm2j4byg"/>`,
 		"fallback": "mingcute:reddit-fill",
 	});
 }

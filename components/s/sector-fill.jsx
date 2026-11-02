@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/muf2sjrtx.css';
+import '../../css/r/rvm18-ban.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="muf2sjrtx"/>`,
+		"content": `<path class="rvm18-ban"/>`,
 		"fallback": "mingcute:sector-fill",
 	});
 }

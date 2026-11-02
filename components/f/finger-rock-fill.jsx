@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b6erbx_3d.css';
+import '../../css/n/n3a517biz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b6erbx_3d"/>`,
+		"content": `<path class="n3a517biz"/>`,
 		"fallback": "mingcute:finger-rock-fill",
 	});
 }

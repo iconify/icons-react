@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/ve6zp4c2q.css';
+import '../../css/g/giliqpzpo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ve6zp4c2q"/>`,
+		"content": `<path class="giliqpzpo"/>`,
 		"fallback": "mingcute:libra-fill",
 	});
 }

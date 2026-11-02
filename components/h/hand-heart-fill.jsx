@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sa3_utw2x.css';
+import '../../css/u/us2as5bdo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sa3_utw2x"/>`,
+		"content": `<path class="us2as5bdo"/>`,
 		"fallback": "mingcute:hand-heart-fill",
 	});
 }

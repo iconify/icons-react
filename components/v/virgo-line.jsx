@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xo44_mtta.css';
+import '../../css/e/e3ch4dbjl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xo44_mtta"/>`,
+		"content": `<path class="e3ch4dbjl"/>`,
 		"fallback": "mingcute:virgo-line",
 	});
 }

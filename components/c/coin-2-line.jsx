@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/ssvx-7v6r.css';
+import '../../css/l/lk-oenbrh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ssvx-7v6r"/>`,
+		"content": `<path class="lk-oenbrh"/>`,
 		"fallback": "mingcute:coin-2-line",
 	});
 }

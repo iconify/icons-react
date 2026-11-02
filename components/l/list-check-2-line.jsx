@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iea6d-aqd.css';
+import '../../css/r/r4kbw18me.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iea6d-aqd"/>`,
+		"content": `<path class="r4kbw18me"/>`,
 		"fallback": "mingcute:list-check-2-line",
 	});
 }

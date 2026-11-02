@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ofaq-pqxl.css';
-import '../../css/p/ph8y6rbyy.css';
+import '../../css/t/tzine-gxn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ofaq-pqxl"/><path class="ph8y6rbyy"/>`,
+		"content": `<path class="tzine-gxn"/>`,
 		"fallback": "mingcute:heavy-rain-fill",
 	});
 }

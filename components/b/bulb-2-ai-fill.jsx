@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d204npb2c.css';
+import '../../css/s/s_x1l4byl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d204npb2c"/>`,
+		"content": `<path class="s_x1l4byl"/>`,
 		"fallback": "mingcute:bulb-2-ai-fill",
 	});
 }

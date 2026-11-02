@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/diga86qzj.css';
+import '../../css/j/jhcfmqbaj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="diga86qzj"/>`,
+		"content": `<path class="jhcfmqbaj"/>`,
 		"fallback": "mingcute:corner-down-left-fill",
 	});
 }

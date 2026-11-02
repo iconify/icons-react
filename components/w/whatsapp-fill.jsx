@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h_lmppaus.css';
+import '../../css/i/irsnnebwd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h_lmppaus"/>`,
+		"content": `<path class="irsnnebwd"/>`,
 		"fallback": "mingcute:whatsapp-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s1tyi1bfr.css';
+import '../../css/i/i-xs4108g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s1tyi1bfr"/>`,
+		"content": `<path class="i-xs4108g"/>`,
 		"fallback": "mingcute:typhoon-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oiyemtbtn.css';
+import '../../css/h/h_x67tzov.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oiyemtbtn"/>`,
+		"content": `<path class="h_x67tzov"/>`,
 		"fallback": "mingcute:task-line",
 	});
 }

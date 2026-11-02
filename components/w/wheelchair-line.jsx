@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pps2d9m7e.css';
+import '../../css/z/zu5w89brh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pps2d9m7e"/>`,
+		"content": `<path class="zu5w89brh"/>`,
 		"fallback": "mingcute:wheelchair-line",
 	});
 }

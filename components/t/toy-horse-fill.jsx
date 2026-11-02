@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r560ybvhm.css';
+import '../../css/p/pvvsffehu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r560ybvhm"/>`,
+		"content": `<path class="pvvsffehu"/>`,
 		"fallback": "mingcute:toy-horse-fill",
 	});
 }

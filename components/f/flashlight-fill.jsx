@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f9vzhu_1x.css';
+import '../../css/w/wk2b9t_sg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f9vzhu_1x"/>`,
+		"content": `<path class="wk2b9t_sg"/>`,
 		"fallback": "mingcute:flashlight-fill",
 	});
 }

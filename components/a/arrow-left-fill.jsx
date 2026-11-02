@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dg_scyb_f.css';
+import '../../css/a/a2o65lcwr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dg_scyb_f"/>`,
+		"content": `<path class="a2o65lcwr"/>`,
 		"fallback": "mingcute:arrow-left-fill",
 	});
 }

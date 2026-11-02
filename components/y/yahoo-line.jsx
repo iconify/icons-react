@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dq16c_bps.css';
+import '../../css/i/inzek8ert.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dq16c_bps"/>`,
+		"content": `<path class="inzek8ert"/>`,
 		"fallback": "mingcute:yahoo-line",
 	});
 }

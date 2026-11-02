@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jo2ri5m8s.css';
+import '../../css/m/m4qh46b7u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jo2ri5m8s"/>`,
+		"content": `<path class="m4qh46b7u"/>`,
 		"fallback": "mingcute:tether-usdt-fill",
 	});
 }

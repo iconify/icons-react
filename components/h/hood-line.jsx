@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ahb-vszou.css';
+import '../../css/y/yy-869bza.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ahb-vszou"/>`,
+		"content": `<path class="yy-869bza"/>`,
 		"fallback": "mingcute:hood-line",
 	});
 }

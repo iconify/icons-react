@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yt7sh2lev.css';
+import '../../css/z/zxrtyqdeo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yt7sh2lev"/>`,
+		"content": `<path class="zxrtyqdeo"/>`,
 		"fallback": "mingcute:battery-charging-line",
 	});
 }

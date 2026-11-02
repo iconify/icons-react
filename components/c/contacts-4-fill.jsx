@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xeq3q_egv.css';
-import '../../css/o/oomnq0bpf.css';
-import '../../css/k/kxrp00z_z.css';
+import '../../css/w/wm_tvin8y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xeq3q_egv"/><path clip-rule="evenodd" class="oomnq0bpf"/><path class="kxrp00z_z"/>`,
+		"content": `<path class="wm_tvin8y"/>`,
 		"fallback": "mingcute:contacts-4-fill",
 	});
 }

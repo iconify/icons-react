@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bt-bdj62o.css';
+import '../../css/o/or3-8bu1l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bt-bdj62o"/>`,
+		"content": `<path class="or3-8bu1l"/>`,
 		"fallback": "mingcute:paster-fill",
 	});
 }

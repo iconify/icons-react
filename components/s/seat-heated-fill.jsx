@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n_x8pkbab.css';
+import '../../css/q/qt9-rls8z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n_x8pkbab"/>`,
+		"content": `<path class="qt9-rls8z"/>`,
 		"fallback": "mingcute:seat-heated-fill",
 	});
 }

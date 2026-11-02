@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/aaih7sebo.css';
+import '../../css/i/imlgop09i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="aaih7sebo"/>`,
+		"content": `<path class="imlgop09i"/>`,
 		"fallback": "mingcute:folder-warning-line",
 	});
 }

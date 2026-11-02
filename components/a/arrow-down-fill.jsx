@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/io4t3absr.css';
+import '../../css/j/jj_3tub_e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="io4t3absr"/>`,
+		"content": `<path class="jj_3tub_e"/>`,
 		"fallback": "mingcute:arrow-down-fill",
 	});
 }

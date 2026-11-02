@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z148u-b7f.css';
+import '../../css/q/qj-kbybdn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z148u-b7f"/>`,
+		"content": `<path class="qj-kbybdn"/>`,
 		"fallback": "mingcute:roblox-fill",
 	});
 }

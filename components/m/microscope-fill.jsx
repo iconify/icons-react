@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hgtba__ty.css';
+import '../../css/u/uejxkl2qs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="hgtba__ty"/>`,
+		"content": `<path class="uejxkl2qs"/>`,
 		"fallback": "mingcute:microscope-fill",
 	});
 }

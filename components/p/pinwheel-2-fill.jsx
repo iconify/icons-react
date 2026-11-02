@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wih8tubvq.css';
+import '../../css/a/a_fyibbkm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wih8tubvq"/>`,
+		"content": `<path class="a_fyibbkm"/>`,
 		"fallback": "mingcute:pinwheel-2-fill",
 	});
 }

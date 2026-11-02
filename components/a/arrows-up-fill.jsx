@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v7xgfjbyu.css';
+import '../../css/s/s74ucqtbn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v7xgfjbyu"/>`,
+		"content": `<path class="s74ucqtbn"/>`,
 		"fallback": "mingcute:arrows-up-fill",
 	});
 }

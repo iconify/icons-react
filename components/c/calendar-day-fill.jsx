@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uzmxtt7ys.css';
+import '../../css/n/nkeo3w_2f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uzmxtt7ys"/>`,
+		"content": `<path class="nkeo3w_2f"/>`,
 		"fallback": "mingcute:calendar-day-fill",
 	});
 }

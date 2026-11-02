@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qigz4b1gt.css';
+import '../../css/q/q591nmoit.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="qigz4b1gt"/>`,
+		"content": `<path class="q591nmoit"/>`,
 		"fallback": "mingcute:christ-the-redeemer-fill",
 	});
 }

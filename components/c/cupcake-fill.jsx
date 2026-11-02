@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k1a387bbn.css';
+import '../../css/o/omgomyb-f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="k1a387bbn"/>`,
+		"content": `<path class="omgomyb-f"/>`,
 		"fallback": "mingcute:cupcake-fill",
 	});
 }

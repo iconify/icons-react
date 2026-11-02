@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m-4i5sbuh.css';
+import '../../css/w/wz2g41okh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m-4i5sbuh"/>`,
+		"content": `<path class="wz2g41okh"/>`,
 		"fallback": "mingcute:rewind-backward-10-line",
 	});
 }

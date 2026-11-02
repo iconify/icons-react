@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/likc0vc3f.css';
+import '../../css/q/qj0au43ti.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="likc0vc3f"/>`,
+		"content": `<path class="qj0au43ti"/>`,
 		"fallback": "mingcute:textbox-ai-fill",
 	});
 }

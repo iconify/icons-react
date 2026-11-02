@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/ri0479btz.css';
+import '../../css/m/mamctmbrz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ri0479btz"/>`,
+		"content": `<path class="mamctmbrz"/>`,
 		"fallback": "mingcute:bank-card-fill",
 	});
 }

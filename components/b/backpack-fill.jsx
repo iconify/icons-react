@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pbaak6e_e.css';
+import '../../css/g/gs8vflbzf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pbaak6e_e"/>`,
+		"content": `<path class="gs8vflbzf"/>`,
 		"fallback": "mingcute:backpack-fill",
 	});
 }

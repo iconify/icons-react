@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/waq0mlnar.css';
+import '../../css/n/nx_e3_7ia.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="waq0mlnar"/>`,
+		"content": `<path class="nx_e3_7ia"/>`,
 		"fallback": "mingcute:user-setting-fill",
 	});
 }

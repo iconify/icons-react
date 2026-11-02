@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t21kzacmn.css';
+import '../../css/u/uudrqtg4t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t21kzacmn"/>`,
+		"content": `<path class="uudrqtg4t"/>`,
 		"fallback": "mingcute:qrcode-line",
 	});
 }

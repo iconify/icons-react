@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ohlarcbjs.css';
+import '../../css/c/cz0c64buj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ohlarcbjs"/>`,
+		"content": `<path class="cz0c64buj"/>`,
 		"fallback": "mingcute:threads-line",
 	});
 }

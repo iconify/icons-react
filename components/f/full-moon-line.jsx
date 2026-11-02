@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r9790znoc.css';
-import '../../css/g/ghwi1p49f.css';
+import '../../css/l/l0vko-r_m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r9790znoc"/><path class="ghwi1p49f"/>`,
+		"content": `<path class="l0vko-r_m"/>`,
 		"fallback": "mingcute:full-moon-line",
 	});
 }

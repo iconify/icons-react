@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/llibqiifx.css';
+import '../../css/m/mhgi928af.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="llibqiifx"/>`,
+		"content": `<path class="mhgi928af"/>`,
 		"fallback": "mingcute:hexagons-fill",
 	});
 }

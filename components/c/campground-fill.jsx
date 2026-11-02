@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rm4rvkc0n.css';
-import '../../css/p/p1djqlbbh.css';
+import '../../css/y/y-61nbr-y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rm4rvkc0n"/><path class="p1djqlbbh"/>`,
+		"content": `<path class="y-61nbr-y"/>`,
 		"fallback": "mingcute:campground-fill",
 	});
 }

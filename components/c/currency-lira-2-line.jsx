@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iomt7boyb.css';
+import '../../css/m/ml6p7i4lo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iomt7boyb"/>`,
+		"content": `<path class="ml6p7i4lo"/>`,
 		"fallback": "mingcute:currency-lira-2-line",
 	});
 }

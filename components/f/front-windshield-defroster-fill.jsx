@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dvz8k-fun.css';
+import '../../css/t/tr9ki8bdq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dvz8k-fun"/>`,
+		"content": `<path class="tr9ki8bdq"/>`,
 		"fallback": "mingcute:front-windshield-defroster-fill",
 	});
 }

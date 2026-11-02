@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xvqldsf7d.css';
+import '../../css/j/jpusvrhxd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xvqldsf7d"/>`,
+		"content": `<path class="jpusvrhxd"/>`,
 		"fallback": "mingcute:layers-fill",
 	});
 }

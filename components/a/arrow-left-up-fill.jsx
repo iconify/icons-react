@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b8_4imbgx.css';
+import '../../css/x/xghvmkoku.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b8_4imbgx"/>`,
+		"content": `<path class="xghvmkoku"/>`,
 		"fallback": "mingcute:arrow-left-up-fill",
 	});
 }

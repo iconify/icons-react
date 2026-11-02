@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xdihez-4t.css';
+import '../../css/z/zko-cjbzs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xdihez-4t"/>`,
+		"content": `<path class="zko-cjbzs"/>`,
 		"fallback": "mingcute:bomb-line",
 	});
 }

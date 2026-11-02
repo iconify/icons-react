@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uclud-n7w.css';
+import '../../css/s/s5o9ygl0k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uclud-n7w"/>`,
+		"content": `<path class="s5o9ygl0k"/>`,
 		"fallback": "mingcute:currency-rupee-line",
 	});
 }

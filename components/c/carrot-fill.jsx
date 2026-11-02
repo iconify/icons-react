@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iv3p--bns.css';
+import '../../css/o/o1wrvac7y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iv3p--bns"/>`,
+		"content": `<path class="o1wrvac7y"/>`,
 		"fallback": "mingcute:carrot-fill",
 	});
 }

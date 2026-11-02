@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pr1kcqb-t.css';
+import '../../css/w/w9s6pabbs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pr1kcqb-t"/>`,
+		"content": `<path class="w9s6pabbs"/>`,
 		"fallback": "mingcute:football-line",
 	});
 }

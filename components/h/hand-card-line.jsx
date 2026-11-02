@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nh7vy4bqk.css';
+import '../../css/l/l3pg7mxhm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nh7vy4bqk"/>`,
+		"content": `<path class="l3pg7mxhm"/>`,
 		"fallback": "mingcute:hand-card-line",
 	});
 }

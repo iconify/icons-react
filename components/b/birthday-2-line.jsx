@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/whoue71nt.css';
+import '../../css/z/z_iijgbtf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="whoue71nt"/>`,
+		"content": `<path class="z_iijgbtf"/>`,
 		"fallback": "mingcute:birthday-2-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gelac1c3m.css';
+import '../../css/s/smbh6-igf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gelac1c3m"/>`,
+		"content": `<path class="smbh6-igf"/>`,
 		"fallback": "mingcute:sugar-coated-haws-line",
 	});
 }

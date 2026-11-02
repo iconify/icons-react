@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o_hu68j3v.css';
+import '../../css/z/zybeskbnx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o_hu68j3v"/>`,
+		"content": `<path class="zybeskbnx"/>`,
 		"fallback": "mingcute:chart-bar-fill",
 	});
 }

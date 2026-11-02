@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/amvtn4bof.css';
+import '../../css/u/uubay8r-f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="amvtn4bof"/>`,
+		"content": `<path class="uubay8r-f"/>`,
 		"fallback": "mingcute:currency-bitcoin-line",
 	});
 }

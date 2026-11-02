@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sku5yxboa.css';
+import '../../css/s/sy5-_nb0r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sku5yxboa"/>`,
+		"content": `<path class="sy5-_nb0r"/>`,
 		"fallback": "mingcute:speaker-fill",
 	});
 }

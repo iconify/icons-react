@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qkkysdgde.css';
+import '../../css/e/e_5fidcna.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qkkysdgde"/>`,
+		"content": `<path class="e_5fidcna"/>`,
 		"fallback": "mingcute:feeder-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jhae8twzk.css';
+import '../../css/g/gfry4lb_r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jhae8twzk"/>`,
+		"content": `<path class="gfry4lb_r"/>`,
 		"fallback": "mingcute:square-arrow-right-fill",
 	});
 }

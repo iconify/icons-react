@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jalnjobfk.css';
+import '../../css/v/vk66__azu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jalnjobfk"/>`,
+		"content": `<path class="vk66__azu"/>`,
 		"fallback": "mingcute:pencil-ruler-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/toc7-6bjy.css';
+import '../../css/z/z39dw-vma.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="toc7-6bjy"/>`,
+		"content": `<path class="z39dw-vma"/>`,
 		"fallback": "mingcute:currency-baht-fill",
 	});
 }

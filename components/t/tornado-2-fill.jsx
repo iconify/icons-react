@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vzvp85bxi.css';
+import '../../css/l/libwabbnj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="vzvp85bxi"/>`,
+		"content": `<path class="libwabbnj"/>`,
 		"fallback": "mingcute:tornado-2-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/soq9j-sgp.css';
+import '../../css/t/tjf-5bbta.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="soq9j-sgp"/>`,
+		"content": `<path class="tjf-5bbta"/>`,
 		"fallback": "mingcute:ufo-2-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n01i9nsok.css';
+import '../../css/t/tf_g7rv5q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n01i9nsok"/>`,
+		"content": `<path class="tf_g7rv5q"/>`,
 		"fallback": "mingcute:file-music-fill",
 	});
 }

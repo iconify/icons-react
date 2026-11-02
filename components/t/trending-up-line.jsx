@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fzi850luf.css';
+import '../../css/v/ve27pm75g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fzi850luf"/>`,
+		"content": `<path class="ve27pm75g"/>`,
 		"fallback": "mingcute:trending-up-line",
 	});
 }

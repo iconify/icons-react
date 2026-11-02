@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/libgasujb.css';
+import '../../css/u/ulnrl9bri.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="libgasujb"/>`,
+		"content": `<path class="ulnrl9bri"/>`,
 		"fallback": "mingcute:history-anticlockwise-fill",
 	});
 }

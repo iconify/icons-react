@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/olfdsqt4s.css';
+import '../../css/m/m6ui_zbwb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="olfdsqt4s"/>`,
+		"content": `<path class="m6ui_zbwb"/>`,
 		"fallback": "mingcute:transformation-line",
 	});
 }

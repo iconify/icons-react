@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eci9ug11m.css';
+import '../../css/o/omv4uwkpo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eci9ug11m"/>`,
+		"content": `<path class="omv4uwkpo"/>`,
 		"fallback": "mingcute:hight-beam-headlights-line",
 	});
 }

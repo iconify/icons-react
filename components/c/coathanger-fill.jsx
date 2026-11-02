@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wpc4lacel.css';
+import '../../css/s/sxcpg12gh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="wpc4lacel"/>`,
+		"content": `<path class="sxcpg12gh"/>`,
 		"fallback": "mingcute:coathanger-fill",
 	});
 }

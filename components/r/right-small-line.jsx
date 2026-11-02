@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/loyc48x7n.css';
+import '../../css/o/oqxt5gmua.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="loyc48x7n"/>`,
+		"content": `<path class="oqxt5gmua"/>`,
 		"fallback": "mingcute:right-small-line",
 	});
 }

@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a0sto2usv.css';
-import '../../css/l/lhhhg9ebv.css';
+import '../../css/o/omhm-gykt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a0sto2usv"/><path class="lhhhg9ebv"/>`,
+		"content": `<path class="omhm-gykt"/>`,
 		"fallback": "mingcute:temple-of-heaven-fill",
 	});
 }

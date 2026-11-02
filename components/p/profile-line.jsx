@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/veacedb4p.css';
+import '../../css/f/fmke3m5bt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="veacedb4p"/>`,
+		"content": `<path class="fmke3m5bt"/>`,
 		"fallback": "mingcute:profile-line",
 	});
 }

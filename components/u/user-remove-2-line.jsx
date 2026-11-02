@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j2o-rpepc.css';
+import '../../css/y/yqnxifbaq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j2o-rpepc"/>`,
+		"content": `<path class="yqnxifbaq"/>`,
 		"fallback": "mingcute:user-remove-2-line",
 	});
 }

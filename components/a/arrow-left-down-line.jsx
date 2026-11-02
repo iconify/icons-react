@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/aancabc5v.css';
+import '../../css/f/fadjvvb-s.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="aancabc5v"/>`,
+		"content": `<path class="fadjvvb-s"/>`,
 		"fallback": "mingcute:arrow-left-down-line",
 	});
 }

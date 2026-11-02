@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/has-te2vt.css';
+import '../../css/v/vmd6mmf_b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="has-te2vt"/>`,
+		"content": `<path class="vmd6mmf_b"/>`,
 		"fallback": "mingcute:t-shirt-2-fill",
 	});
 }

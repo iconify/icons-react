@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ub--ebuyj.css';
+import '../../css/s/sds3d1box.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ub--ebuyj"/>`,
+		"content": `<path class="sds3d1box"/>`,
 		"fallback": "mingcute:shirt-fill",
 	});
 }

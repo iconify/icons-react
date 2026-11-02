@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kgz7q7b3e.css';
+import '../../css/u/ut_z27wac.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="kgz7q7b3e"/>`,
+		"content": `<path class="ut_z27wac"/>`,
 		"fallback": "mingcute:ferris-wheel-fill",
 	});
 }

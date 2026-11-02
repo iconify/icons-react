@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jpsob4btj.css';
+import '../../css/x/xhsi4tbzp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jpsob4btj"/>`,
+		"content": `<path class="xhsi4tbzp"/>`,
 		"fallback": "mingcute:arrow-right-down-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tjh50pbdb.css';
+import '../../css/d/dash5mbrn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tjh50pbdb"/>`,
+		"content": `<path class="dash5mbrn"/>`,
 		"fallback": "mingcute:pingpong-line",
 	});
 }

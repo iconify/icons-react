@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/itv_042ot.css';
+import '../../css/e/etbmk_b8a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="itv_042ot"/>`,
+		"content": `<path class="etbmk_b8a"/>`,
 		"fallback": "mingcute:translate-2-ai-fill",
 	});
 }

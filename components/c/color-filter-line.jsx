@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jom4w58hj.css';
+import '../../css/i/iguu3q8az.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jom4w58hj"/>`,
+		"content": `<path class="iguu3q8az"/>`,
 		"fallback": "mingcute:color-filter-line",
 	});
 }

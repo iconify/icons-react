@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vzeqs-rvh.css';
+import '../../css/w/wvmb6gb4b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vzeqs-rvh"/>`,
+		"content": `<path class="wvmb6gb4b"/>`,
 		"fallback": "mingcute:delete-back-fill",
 	});
 }

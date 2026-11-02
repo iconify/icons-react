@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zepghmc3v.css';
+import '../../css/s/sjioum-zc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zepghmc3v"/>`,
+		"content": `<path class="sjioum-zc"/>`,
 		"fallback": "mingcute:sticker-line",
 	});
 }

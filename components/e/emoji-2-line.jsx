@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nbb6-l2kn.css';
+import '../../css/k/ks9d45bwu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nbb6-l2kn"/>`,
+		"content": `<path class="ks9d45bwu"/>`,
 		"fallback": "mingcute:emoji-2-line",
 	});
 }

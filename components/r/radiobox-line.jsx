@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mf2faab1e.css';
-import '../../css/u/u-06obvoh.css';
+import '../../css/b/b8x-ccc5n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mf2faab1e"/><path class="u-06obvoh"/>`,
+		"content": `<path class="b8x-ccc5n"/>`,
 		"fallback": "mingcute:radiobox-line",
 	});
 }

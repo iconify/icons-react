@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lxgevzonk.css';
+import '../../css/i/id_vwwy8i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lxgevzonk"/>`,
+		"content": `<path class="id_vwwy8i"/>`,
 		"fallback": "mingcute:corner-up-right-line",
 	});
 }

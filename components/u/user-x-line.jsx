@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bc4mb0wfu.css';
+import '../../css/n/nobwamnql.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bc4mb0wfu"/>`,
+		"content": `<path class="nobwamnql"/>`,
 		"fallback": "mingcute:user-x-line",
 	});
 }

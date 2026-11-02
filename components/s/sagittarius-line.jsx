@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cssa9abid.css';
+import '../../css/m/mkmpimb3d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cssa9abid"/>`,
+		"content": `<path class="mkmpimb3d"/>`,
 		"fallback": "mingcute:sagittarius-line",
 	});
 }

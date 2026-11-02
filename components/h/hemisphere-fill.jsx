@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/na23c-lwx.css';
+import '../../css/r/rx9dn2b-u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="na23c-lwx"/>`,
+		"content": `<path class="rx9dn2b-u"/>`,
 		"fallback": "mingcute:hemisphere-fill",
 	});
 }

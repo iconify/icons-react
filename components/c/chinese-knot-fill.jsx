@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gos7t18ro.css';
+import '../../css/x/xvmku2bra.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="gos7t18ro"/>`,
+		"content": `<path class="xvmku2bra"/>`,
 		"fallback": "mingcute:chinese-knot-fill",
 	});
 }

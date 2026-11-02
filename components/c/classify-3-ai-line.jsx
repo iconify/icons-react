@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xwg-msb6r.css';
+import '../../css/i/it_td9u6i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xwg-msb6r"/>`,
+		"content": `<path class="it_td9u6i"/>`,
 		"fallback": "mingcute:classify-3-ai-line",
 	});
 }

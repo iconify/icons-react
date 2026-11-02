@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b5eeapbuo.css';
+import '../../css/z/z5e-1qbcu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b5eeapbuo"/>`,
+		"content": `<path class="z5e-1qbcu"/>`,
 		"fallback": "mingcute:stair-stepper-fill",
 	});
 }

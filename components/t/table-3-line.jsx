@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ex3-_xbaa.css';
+import '../../css/j/ji4o9ze8o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ex3-_xbaa"/>`,
+		"content": `<path class="ji4o9ze8o"/>`,
 		"fallback": "mingcute:table-3-line",
 	});
 }

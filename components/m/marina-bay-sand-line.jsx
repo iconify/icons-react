@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oxae--4pg.css';
+import '../../css/p/pp5uy7o3x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oxae--4pg"/>`,
+		"content": `<path class="pp5uy7o3x"/>`,
 		"fallback": "mingcute:marina-bay-sand-line",
 	});
 }

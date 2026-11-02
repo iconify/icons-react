@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n7_ppxb-x.css';
+import '../../css/k/km1oxzbcp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n7_ppxb-x"/>`,
+		"content": `<path class="km1oxzbcp"/>`,
 		"fallback": "mingcute:signature-2-ai-fill",
 	});
 }

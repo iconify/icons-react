@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pehldku7v.css';
+import '../../css/n/n8p_mibin.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pehldku7v"/>`,
+		"content": `<path class="n8p_mibin"/>`,
 		"fallback": "mingcute:hands-clapping-fill",
 	});
 }

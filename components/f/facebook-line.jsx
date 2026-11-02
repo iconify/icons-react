@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nmc74g-ck.css';
+import '../../css/i/i7q9k5bjy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nmc74g-ck"/>`,
+		"content": `<path class="i7q9k5bjy"/>`,
 		"fallback": "mingcute:facebook-line",
 	});
 }

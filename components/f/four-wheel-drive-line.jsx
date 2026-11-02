@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z3g7_wbvr.css';
+import '../../css/b/beiwgnruu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z3g7_wbvr"/>`,
+		"content": `<path class="beiwgnruu"/>`,
 		"fallback": "mingcute:four-wheel-drive-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t8gih_bzc.css';
+import '../../css/v/va7zxrbnt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t8gih_bzc"/>`,
+		"content": `<path class="va7zxrbnt"/>`,
 		"fallback": "mingcute:planet-line",
 	});
 }

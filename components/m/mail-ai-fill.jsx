@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l_x-2hbtj.css';
+import '../../css/k/klw64wbtg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l_x-2hbtj"/>`,
+		"content": `<path class="klw64wbtg"/>`,
 		"fallback": "mingcute:mail-ai-fill",
 	});
 }

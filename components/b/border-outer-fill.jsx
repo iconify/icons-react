@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ls18477wm.css';
+import '../../css/w/w15byfb-i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ls18477wm"/>`,
+		"content": `<path class="w15byfb-i"/>`,
 		"fallback": "mingcute:border-outer-fill",
 	});
 }

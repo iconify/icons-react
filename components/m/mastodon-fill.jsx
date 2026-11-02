@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mo5_wobsm.css';
+import '../../css/b/bk3jx7dit.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mo5_wobsm"/>`,
+		"content": `<path class="bk3jx7dit"/>`,
 		"fallback": "mingcute:mastodon-fill",
 	});
 }

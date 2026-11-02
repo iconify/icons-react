@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pu1l5dbsx.css';
+import '../../css/d/do5q-pbkh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pu1l5dbsx"/>`,
+		"content": `<path class="do5q-pbkh"/>`,
 		"fallback": "mingcute:gesture-unlock-line",
 	});
 }

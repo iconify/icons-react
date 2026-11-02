@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fh10bubme.css';
+import '../../css/i/iffe5zl0o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fh10bubme"/>`,
+		"content": `<path class="iffe5zl0o"/>`,
 		"fallback": "mingcute:maya-pyramids-line",
 	});
 }

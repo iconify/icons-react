@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f4hr-nbop.css';
+import '../../css/w/w105aewjk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f4hr-nbop"/>`,
+		"content": `<path class="w105aewjk"/>`,
 		"fallback": "mingcute:telescope-2-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/onkvqv5wu.css';
+import '../../css/u/uuq0-yb1z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="onkvqv5wu"/>`,
+		"content": `<path class="uuq0-yb1z"/>`,
 		"fallback": "mingcute:wechat-pay-line",
 	});
 }

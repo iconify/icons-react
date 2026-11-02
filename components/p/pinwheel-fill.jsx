@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mvnvor-hs.css';
+import '../../css/o/oul-srbrn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mvnvor-hs"/>`,
+		"content": `<path class="oul-srbrn"/>`,
 		"fallback": "mingcute:pinwheel-fill",
 	});
 }

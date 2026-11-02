@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nkn6_o_df.css';
+import '../../css/r/rel4krbaz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nkn6_o_df"/>`,
+		"content": `<path class="rel4krbaz"/>`,
 		"fallback": "mingcute:gift-card-line",
 	});
 }

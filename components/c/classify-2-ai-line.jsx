@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mv5o5wirv.css';
+import '../../css/g/gmqisccvx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mv5o5wirv"/>`,
+		"content": `<path class="gmqisccvx"/>`,
 		"fallback": "mingcute:classify-2-ai-line",
 	});
 }

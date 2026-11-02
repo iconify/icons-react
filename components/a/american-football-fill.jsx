@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lyv6d8bin.css';
+import '../../css/c/cws1kbczm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lyv6d8bin"/>`,
+		"content": `<path class="cws1kbczm"/>`,
 		"fallback": "mingcute:american-football-fill",
 	});
 }

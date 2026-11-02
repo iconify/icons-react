@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wgdzz-bee.css';
+import '../../css/i/i50442qoh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wgdzz-bee"/>`,
+		"content": `<path class="i50442qoh"/>`,
 		"fallback": "mingcute:building-3-line",
 	});
 }

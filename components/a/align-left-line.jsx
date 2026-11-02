@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y-wtz1env.css';
+import '../../css/f/fjogw_dsf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y-wtz1env"/>`,
+		"content": `<path class="fjogw_dsf"/>`,
 		"fallback": "mingcute:align-left-line",
 	});
 }

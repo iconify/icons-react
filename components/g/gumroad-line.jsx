@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pytlbv_yi.css';
+import '../../css/b/bigfy4btb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pytlbv_yi"/>`,
+		"content": `<path class="bigfy4btb"/>`,
 		"fallback": "mingcute:gumroad-line",
 	});
 }

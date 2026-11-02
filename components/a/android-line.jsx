@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lyfglqr6b.css';
+import '../../css/f/f4ops_xbg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lyfglqr6b"/>`,
+		"content": `<path class="f4ops_xbg"/>`,
 		"fallback": "mingcute:android-line",
 	});
 }

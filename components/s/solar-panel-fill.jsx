@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c-i5xtbgo.css';
+import '../../css/q/qvbtkp-2a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c-i5xtbgo"/>`,
+		"content": `<path class="qvbtkp-2a"/>`,
 		"fallback": "mingcute:solar-panel-fill",
 	});
 }

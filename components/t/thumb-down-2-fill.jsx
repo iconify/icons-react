@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kfmtyirhz.css';
+import '../../css/f/ff0zzib3l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kfmtyirhz"/>`,
+		"content": `<path class="ff0zzib3l"/>`,
 		"fallback": "mingcute:thumb-down-2-fill",
 	});
 }

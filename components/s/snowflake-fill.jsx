@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a_ks2lbjv.css';
+import '../../css/d/d1vk-2blj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a_ks2lbjv"/>`,
+		"content": `<path class="d1vk-2blj"/>`,
 		"fallback": "mingcute:snowflake-fill",
 	});
 }

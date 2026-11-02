@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ofc-ngbjx.css';
+import '../../css/j/j3ip3z8db.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ofc-ngbjx"/>`,
+		"content": `<path class="j3ip3z8db"/>`,
 		"fallback": "mingcute:heartbeat-fill",
 	});
 }

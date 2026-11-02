@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b2p_l-b6d.css';
+import '../../css/h/hfgs5d_bi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="b2p_l-b6d"/>`,
+		"content": `<path class="hfgs5d_bi"/>`,
 		"fallback": "mingcute:service-fill",
 	});
 }

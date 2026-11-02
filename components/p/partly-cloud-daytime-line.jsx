@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gzh4x-bjd.css';
+import '../../css/r/r387op9rr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gzh4x-bjd"/>`,
+		"content": `<path class="r387op9rr"/>`,
 		"fallback": "mingcute:partly-cloud-daytime-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gj4txcc8s.css';
+import '../../css/z/zzusml32t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gj4txcc8s"/>`,
+		"content": `<path class="zzusml32t"/>`,
 		"fallback": "mingcute:history-anticlockwise-line",
 	});
 }

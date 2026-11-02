@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cwoa4qbfw.css';
+import '../../css/s/s6uf64bhb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cwoa4qbfw"/>`,
+		"content": `<path class="s6uf64bhb"/>`,
 		"fallback": "mingcute:airplay-fill",
 	});
 }

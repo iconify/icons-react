@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hsdd1r8-q.css';
+import '../../css/w/wpjy7rbvl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hsdd1r8-q"/>`,
+		"content": `<path class="wpjy7rbvl"/>`,
 		"fallback": "mingcute:toggle-left-2-fill",
 	});
 }

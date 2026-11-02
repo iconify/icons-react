@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kres2h2xx.css';
+import '../../css/k/kvti5845q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kres2h2xx"/>`,
+		"content": `<path class="kvti5845q"/>`,
 		"fallback": "mingcute:file-forbid-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dae-kfbkh.css';
+import '../../css/g/gfp-t12yn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dae-kfbkh"/>`,
+		"content": `<path class="gfp-t12yn"/>`,
 		"fallback": "mingcute:search-fill",
 	});
 }

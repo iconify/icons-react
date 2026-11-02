@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sgh_0ybfz.css';
+import '../../css/t/tgbi-g60n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sgh_0ybfz"/>`,
+		"content": `<path class="tgbi-g60n"/>`,
 		"fallback": "mingcute:new-folder-line",
 	});
 }

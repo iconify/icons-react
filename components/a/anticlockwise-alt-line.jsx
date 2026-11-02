@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sl50bob_z.css';
+import '../../css/t/tvitscc-u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sl50bob_z"/>`,
+		"content": `<path class="tvitscc-u"/>`,
 		"fallback": "mingcute:anticlockwise-alt-line",
 	});
 }

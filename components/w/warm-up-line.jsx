@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n6wgv3bmp.css';
+import '../../css/n/n5__pu5le.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n6wgv3bmp"/>`,
+		"content": `<path class="n5__pu5le"/>`,
 		"fallback": "mingcute:warm-up-line",
 	});
 }

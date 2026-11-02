@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dh8ynxhnb.css';
+import '../../css/y/y557qqb3j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dh8ynxhnb"/>`,
+		"content": `<path class="y557qqb3j"/>`,
 		"fallback": "mingcute:high-voltage-power-fill",
 	});
 }

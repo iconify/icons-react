@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w2vnijbkg.css';
+import '../../css/k/kwm26vjmp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="w2vnijbkg"/>`,
+		"content": `<path class="kwm26vjmp"/>`,
 		"fallback": "mingcute:rows-3-fill",
 	});
 }

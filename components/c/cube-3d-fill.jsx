@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/djhyracdg.css';
+import '../../css/c/c06-m_bfm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="djhyracdg"/>`,
+		"content": `<path class="c06-m_bfm"/>`,
 		"fallback": "mingcute:cube-3d-fill",
 	});
 }

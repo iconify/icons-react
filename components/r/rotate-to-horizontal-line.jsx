@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/natyyebwz.css';
+import '../../css/b/bc1degvmp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="natyyebwz"/>`,
+		"content": `<path class="bc1degvmp"/>`,
 		"fallback": "mingcute:rotate-to-horizontal-line",
 	});
 }

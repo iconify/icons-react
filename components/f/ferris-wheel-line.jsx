@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vvg9x3bmc.css';
+import '../../css/m/m5-wb9brz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vvg9x3bmc"/>`,
+		"content": `<path class="m5-wb9brz"/>`,
 		"fallback": "mingcute:ferris-wheel-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ypa60bcwd.css';
+import '../../css/o/ox1429anc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ypa60bcwd"/>`,
+		"content": `<path class="ox1429anc"/>`,
 		"fallback": "mingcute:mind-map-fill",
 	});
 }

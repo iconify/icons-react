@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/ce6a4cb3j.css';
+import '../../css/l/l-27el72i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ce6a4cb3j"/>`,
+		"content": `<path class="l-27el72i"/>`,
 		"fallback": "mingcute:emergency-flashers-fill",
 	});
 }

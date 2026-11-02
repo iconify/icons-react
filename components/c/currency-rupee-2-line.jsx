@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iv405_04e.css';
+import '../../css/t/tpqc9_8ge.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iv405_04e"/>`,
+		"content": `<path class="tpqc9_8ge"/>`,
 		"fallback": "mingcute:currency-rupee-2-line",
 	});
 }

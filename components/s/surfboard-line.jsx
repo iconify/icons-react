@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/ppk8ufbgj.css';
+import '../../css/f/f6-1abcer.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ppk8ufbgj"/>`,
+		"content": `<path class="f6-1abcer"/>`,
 		"fallback": "mingcute:surfboard-line",
 	});
 }

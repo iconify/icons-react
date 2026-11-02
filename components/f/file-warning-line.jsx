@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y_cbpvx_y.css';
+import '../../css/s/s061digtx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y_cbpvx_y"/>`,
+		"content": `<path class="s061digtx"/>`,
 		"fallback": "mingcute:file-warning-line",
 	});
 }

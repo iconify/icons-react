@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j1587wbjj.css';
-import '../../css/b/b3rcvrrsh.css';
+import '../../css/t/tsjnptbtl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j1587wbjj"/><path class="b3rcvrrsh"/>`,
+		"content": `<path class="tsjnptbtl"/>`,
 		"fallback": "mingcute:search-3-ai-fill",
 	});
 }

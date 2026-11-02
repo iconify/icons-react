@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wdit3bbvh.css';
+import '../../css/m/m7yriv1-j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wdit3bbvh"/>`,
+		"content": `<path class="m7yriv1-j"/>`,
 		"fallback": "mingcute:monero-line",
 	});
 }

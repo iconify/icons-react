@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w_-lpjk0t.css';
+import '../../css/g/g6o_i0g4x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w_-lpjk0t"/>`,
+		"content": `<path class="g6o_i0g4x"/>`,
 		"fallback": "mingcute:stethoscope-fill",
 	});
 }

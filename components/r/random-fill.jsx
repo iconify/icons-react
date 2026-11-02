@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zfca5tesk.css';
+import '../../css/f/f8fmwbbgh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zfca5tesk"/>`,
+		"content": `<path class="f8fmwbbgh"/>`,
 		"fallback": "mingcute:random-fill",
 	});
 }

@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o9r54cbek.css';
-import '../../css/w/wsm_8oqcp.css';
+import '../../css/v/v8i_ocopi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o9r54cbek"/><path class="wsm_8oqcp"/>`,
+		"content": `<path class="v8i_ocopi"/>`,
 		"fallback": "mingcute:showers-fill",
 	});
 }

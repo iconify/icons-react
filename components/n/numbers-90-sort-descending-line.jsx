@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i0untebfk.css';
+import '../../css/o/oc9b7dblo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i0untebfk"/>`,
+		"content": `<path class="oc9b7dblo"/>`,
 		"fallback": "mingcute:numbers-90-sort-descending-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/ty4dirbdc.css';
+import '../../css/c/chfadgb-t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ty4dirbdc"/>`,
+		"content": `<path class="chfadgb-t"/>`,
 		"fallback": "mingcute:front-fog-lights-line",
 	});
 }

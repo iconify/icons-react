@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gsl5haset.css';
+import '../../css/e/ep2fcfbif.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gsl5haset"/>`,
+		"content": `<path class="ep2fcfbif"/>`,
 		"fallback": "mingcute:coupon-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ngx224b7r.css';
+import '../../css/t/tf3_j1bgk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ngx224b7r"/>`,
+		"content": `<path class="tf3_j1bgk"/>`,
 		"fallback": "mingcute:exposure-line",
 	});
 }

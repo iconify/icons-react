@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zgrgnkbtc.css';
+import '../../css/m/mc8w2sd8p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zgrgnkbtc"/>`,
+		"content": `<path class="mc8w2sd8p"/>`,
 		"fallback": "mingcute:unhappy-dizzy-line",
 	});
 }

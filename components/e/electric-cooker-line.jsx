@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jiw619uzi.css';
+import '../../css/j/jfj70_hgl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jiw619uzi"/>`,
+		"content": `<path class="jfj70_hgl"/>`,
 		"fallback": "mingcute:electric-cooker-line",
 	});
 }

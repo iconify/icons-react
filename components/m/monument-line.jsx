@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lrz70jbie.css';
+import '../../css/d/dsd79yplg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lrz70jbie"/>`,
+		"content": `<path class="dsd79yplg"/>`,
 		"fallback": "mingcute:monument-line",
 	});
 }

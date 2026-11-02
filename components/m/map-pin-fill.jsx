@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/puoglsbtl.css';
+import '../../css/x/x04u6rb4n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="puoglsbtl"/>`,
+		"content": `<path class="x04u6rb4n"/>`,
 		"fallback": "mingcute:map-pin-fill",
 	});
 }

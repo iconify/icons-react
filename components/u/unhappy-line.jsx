@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/repvixbuj.css';
+import '../../css/g/g1o8-rjdh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="repvixbuj"/>`,
+		"content": `<path class="g1o8-rjdh"/>`,
 		"fallback": "mingcute:unhappy-line",
 	});
 }

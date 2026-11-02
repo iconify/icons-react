@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fdg726bhb.css';
-import '../../css/e/e74mzrb2k.css';
-import '../../css/v/v_mr9f9tj.css';
+import '../../css/v/vy2sqfbmd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fdg726bhb"/><path clip-rule="evenodd" class="e74mzrb2k"/><path class="v_mr9f9tj"/>`,
+		"content": `<path class="vy2sqfbmd"/>`,
 		"fallback": "mingcute:qrcode-2-fill",
 	});
 }

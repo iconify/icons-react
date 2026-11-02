@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s9-rvbopt.css';
+import '../../css/f/f2dhhlbzw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s9-rvbopt"/>`,
+		"content": `<path class="f2dhhlbzw"/>`,
 		"fallback": "mingcute:share-forward-fill",
 	});
 }

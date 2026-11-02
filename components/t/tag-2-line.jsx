@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/ba874dbxc.css';
-import '../../css/r/r-_tixcty.css';
+import '../../css/t/tjvn8-bgd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ba874dbxc"/><path class="r-_tixcty"/>`,
+		"content": `<path class="tjvn8-bgd"/>`,
 		"fallback": "mingcute:tag-2-line",
 	});
 }

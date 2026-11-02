@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/prcvixf5y.css';
+import '../../css/k/k7uhn5aqn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="prcvixf5y"/>`,
+		"content": `<path class="k7uhn5aqn"/>`,
 		"fallback": "mingcute:phone-call-fill",
 	});
 }

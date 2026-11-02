@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jblxonclo.css';
+import '../../css/y/y667grbwb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jblxonclo"/>`,
+		"content": `<path class="y667grbwb"/>`,
 		"fallback": "mingcute:rewind-backward-square-15-fill",
 	});
 }

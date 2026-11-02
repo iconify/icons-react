@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dnkwypo9x.css';
+import '../../css/n/n4rwqgb4e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dnkwypo9x"/>`,
+		"content": `<path class="n4rwqgb4e"/>`,
 		"fallback": "mingcute:incognito-mode-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/erhpgh0an.css';
+import '../../css/e/e50bn5bpi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="erhpgh0an"/>`,
+		"content": `<path class="e50bn5bpi"/>`,
 		"fallback": "mingcute:invite-fill",
 	});
 }

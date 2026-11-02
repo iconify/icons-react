@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bkyvmsbdk.css';
+import '../../css/e/eg4wjbxkx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bkyvmsbdk"/>`,
+		"content": `<path class="eg4wjbxkx"/>`,
 		"fallback": "mingcute:vkontakte-fill",
 	});
 }

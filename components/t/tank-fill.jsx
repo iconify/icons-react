@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/im26rieus.css';
+import '../../css/m/m-ynm3bjb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="im26rieus"/>`,
+		"content": `<path class="m-ynm3bjb"/>`,
 		"fallback": "mingcute:tank-fill",
 	});
 }

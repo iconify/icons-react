@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w8x4ceb_e.css';
+import '../../css/j/j6_fa-bgp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w8x4ceb_e"/>`,
+		"content": `<path class="j6_fa-bgp"/>`,
 		"fallback": "mingcute:fullscreen-fill",
 	});
 }

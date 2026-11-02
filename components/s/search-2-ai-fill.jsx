@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cpmobdbuk.css';
+import '../../css/k/k8tcwf7xx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cpmobdbuk"/>`,
+		"content": `<path class="k8tcwf7xx"/>`,
 		"fallback": "mingcute:search-2-ai-fill",
 	});
 }

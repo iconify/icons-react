@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nzp15iw1o.css';
+import '../../css/f/f5t-otp0n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nzp15iw1o"/>`,
+		"content": `<path class="f5t-otp0n"/>`,
 		"fallback": "mingcute:virus-line",
 	});
 }

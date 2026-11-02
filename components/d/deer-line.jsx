@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mn30pmbtu.css';
+import '../../css/a/ay418-bzm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mn30pmbtu"/>`,
+		"content": `<path class="ay418-bzm"/>`,
 		"fallback": "mingcute:deer-line",
 	});
 }

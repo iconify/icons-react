@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pe88tlfgt.css';
+import '../../css/z/z_8ww0brf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pe88tlfgt"/>`,
+		"content": `<path class="z_8ww0brf"/>`,
 		"fallback": "mingcute:candle-line",
 	});
 }

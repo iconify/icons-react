@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cr6ru96_d.css';
+import '../../css/s/sxpld78_w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cr6ru96_d"/>`,
+		"content": `<path class="sxpld78_w"/>`,
 		"fallback": "mingcute:cursor-fill",
 	});
 }

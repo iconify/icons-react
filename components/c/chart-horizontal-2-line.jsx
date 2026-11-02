@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ubzqx4l4f.css';
-import '../../css/d/dnxa5bcqv.css';
+import '../../css/r/rxtx3ffxf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ubzqx4l4f"/><path class="dnxa5bcqv"/>`,
+		"content": `<path class="rxtx3ffxf"/>`,
 		"fallback": "mingcute:chart-horizontal-2-line",
 	});
 }

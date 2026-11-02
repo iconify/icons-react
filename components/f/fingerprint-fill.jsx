@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/onocauoox.css';
-import '../../css/l/lpwvf4b-h.css';
+import '../../css/v/vpy5x2bli.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="onocauoox"/><path class="lpwvf4b-h"/>`,
+		"content": `<path class="vpy5x2bli"/>`,
 		"fallback": "mingcute:fingerprint-fill",
 	});
 }

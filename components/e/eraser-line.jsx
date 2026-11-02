@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fcngefdcl.css';
+import '../../css/c/cl98cu6fg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fcngefdcl"/>`,
+		"content": `<path class="cl98cu6fg"/>`,
 		"fallback": "mingcute:eraser-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lki1sk28e.css';
+import '../../css/p/pi916br-i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lki1sk28e"/>`,
+		"content": `<path class="pi916br-i"/>`,
 		"fallback": "mingcute:cursor-text-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ub30ixkmo.css';
+import '../../css/e/eimycabdj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ub30ixkmo"/>`,
+		"content": `<path class="eimycabdj"/>`,
 		"fallback": "mingcute:chat-4-ai-fill",
 	});
 }

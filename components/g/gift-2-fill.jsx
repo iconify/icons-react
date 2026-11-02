@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s0kuz9boj.css';
+import '../../css/a/asglhu-pd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s0kuz9boj"/>`,
+		"content": `<path class="asglhu-pd"/>`,
 		"fallback": "mingcute:gift-2-fill",
 	});
 }

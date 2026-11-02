@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dgocfxbje.css';
+import '../../css/w/wgr19of2b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="dgocfxbje"/>`,
+		"content": `<path class="wgr19of2b"/>`,
 		"fallback": "mingcute:rectangle-fill",
 	});
 }

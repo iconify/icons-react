@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kge_lwb8s.css';
+import '../../css/v/v51h_ttym.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kge_lwb8s"/>`,
+		"content": `<path class="v51h_ttym"/>`,
 		"fallback": "mingcute:skateboard-line",
 	});
 }

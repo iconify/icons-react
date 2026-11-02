@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/olip4ntqa.css';
+import '../../css/a/awmlule4f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="olip4ntqa"/>`,
+		"content": `<path class="awmlule4f"/>`,
 		"fallback": "mingcute:tunnel-line",
 	});
 }

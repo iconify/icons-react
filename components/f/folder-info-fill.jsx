@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/edlu_rqaa.css';
+import '../../css/o/ol3fglb1w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="edlu_rqaa"/>`,
+		"content": `<path class="ol3fglb1w"/>`,
 		"fallback": "mingcute:folder-info-fill",
 	});
 }

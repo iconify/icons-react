@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zf--3zurr.css';
+import '../../css/x/xuoh5bbbk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zf--3zurr"/>`,
+		"content": `<path class="xuoh5bbbk"/>`,
 		"fallback": "mingcute:anniversary-line",
 	});
 }

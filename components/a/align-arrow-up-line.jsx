@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dly37_bzm.css';
+import '../../css/t/tnnsqdbin.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dly37_bzm"/>`,
+		"content": `<path class="tnnsqdbin"/>`,
 		"fallback": "mingcute:align-arrow-up-line",
 	});
 }

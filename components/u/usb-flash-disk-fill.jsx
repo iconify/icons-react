@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/onvxh595y.css';
+import '../../css/a/arw00qbxw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="onvxh595y"/>`,
+		"content": `<path class="arw00qbxw"/>`,
 		"fallback": "mingcute:usb-flash-disk-fill",
 	});
 }

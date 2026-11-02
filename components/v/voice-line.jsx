@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p0fg658ou.css';
+import '../../css/p/p23o-dqio.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p0fg658ou"/>`,
+		"content": `<path class="p23o-dqio"/>`,
 		"fallback": "mingcute:voice-line",
 	});
 }

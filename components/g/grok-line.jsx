@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yoe6gv-um.css';
+import '../../css/y/yl0xmxbvd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yoe6gv-um"/>`,
+		"content": `<path class="yl0xmxbvd"/>`,
 		"fallback": "mingcute:grok-line",
 	});
 }

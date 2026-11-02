@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/b/b52jpbbmn.css';
-import '../../css/m/mtymvigmb.css';
+import '../../css/c/cq4sgrxgw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="b52jpbbmn"/><path class="mtymvigmb"/></g>`,
+		"content": `<path class="cq4sgrxgw"/>`,
 		"fallback": "mingcute:barcode-scan-fill",
 	});
 }

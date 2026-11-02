@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wzviopblm.css';
-import '../../css/i/inq_0bbzz.css';
-import '../../css/e/elablv1yg.css';
-import '../../css/r/rtqak74-b.css';
+import '../../css/t/tt-tfom0m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wzviopblm"/><path class="inq_0bbzz"/><path clip-rule="evenodd" class="elablv1yg"/><path class="rtqak74-b"/>`,
+		"content": `<path class="tt-tfom0m"/>`,
 		"fallback": "mingcute:ios-line",
 	});
 }

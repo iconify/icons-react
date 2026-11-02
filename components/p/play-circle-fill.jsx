@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vlthwk80x.css';
+import '../../css/u/us89vp96s.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vlthwk80x"/>`,
+		"content": `<path class="us89vp96s"/>`,
 		"fallback": "mingcute:play-circle-fill",
 	});
 }

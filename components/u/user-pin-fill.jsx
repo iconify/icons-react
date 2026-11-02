@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rhln61bon.css';
-import '../../css/m/mvx_vib_d.css';
+import '../../css/e/e-k40wb7u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rhln61bon"/><path clip-rule="evenodd" class="mvx_vib_d"/>`,
+		"content": `<path class="e-k40wb7u"/>`,
 		"fallback": "mingcute:user-pin-fill",
 	});
 }

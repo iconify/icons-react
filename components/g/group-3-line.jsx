@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hgb_9abwd.css';
+import '../../css/d/d0-arvhnl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hgb_9abwd"/>`,
+		"content": `<path class="d0-arvhnl"/>`,
 		"fallback": "mingcute:group-3-line",
 	});
 }

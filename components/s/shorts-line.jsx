@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/ribcprbpt.css';
+import '../../css/g/gs9nh_bwl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ribcprbpt"/>`,
+		"content": `<path class="gs9nh_bwl"/>`,
 		"fallback": "mingcute:shorts-line",
 	});
 }

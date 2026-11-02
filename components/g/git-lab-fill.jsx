@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ltx-teboz.css';
+import '../../css/b/bf4qsvbyk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ltx-teboz"/>`,
+		"content": `<path class="bf4qsvbyk"/>`,
 		"fallback": "mingcute:git-lab-fill",
 	});
 }

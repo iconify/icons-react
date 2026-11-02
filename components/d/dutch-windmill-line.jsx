@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/op9p-6diq.css';
+import '../../css/l/l4auubcdm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="op9p-6diq"/>`,
+		"content": `<path class="l4auubcdm"/>`,
 		"fallback": "mingcute:dutch-windmill-line",
 	});
 }

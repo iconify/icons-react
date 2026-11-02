@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dkfmv4bce.css';
+import '../../css/d/d8tgerbvi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dkfmv4bce"/>`,
+		"content": `<path class="d8tgerbvi"/>`,
 		"fallback": "mingcute:weightlifting-line",
 	});
 }

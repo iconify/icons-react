@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kt-9i5kip.css';
-import '../../css/l/ldidwdo6o.css';
-import '../../css/d/dby2-abgs.css';
-import '../../css/q/qx4r4bcyw.css';
+import '../../css/e/epm_5nbns.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kt-9i5kip"/><path class="ldidwdo6o"/><path class="dby2-abgs"/><path class="qx4r4bcyw"/>`,
+		"content": `<path class="epm_5nbns"/>`,
 		"fallback": "mingcute:axe-fill",
 	});
 }

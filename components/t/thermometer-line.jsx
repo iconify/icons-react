@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yyci4acry.css';
-import '../../css/j/jy7_ogj-g.css';
+import '../../css/n/nr67ybbud.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yyci4acry"/><path class="jy7_ogj-g"/>`,
+		"content": `<path class="nr67ybbud"/>`,
 		"fallback": "mingcute:thermometer-line",
 	});
 }

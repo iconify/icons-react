@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/azk57blhu.css';
+import '../../css/i/iumlklekx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="azk57blhu"/>`,
+		"content": `<path class="iumlklekx"/>`,
 		"fallback": "mingcute:bluetooth-off-fill",
 	});
 }

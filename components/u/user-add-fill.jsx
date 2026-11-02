@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v1_mx-blf.css';
+import '../../css/w/wkhs_xi9k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v1_mx-blf"/>`,
+		"content": `<path class="wkhs_xi9k"/>`,
 		"fallback": "mingcute:user-add-fill",
 	});
 }

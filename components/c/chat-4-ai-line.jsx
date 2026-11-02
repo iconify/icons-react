@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f-vq1vbql.css';
+import '../../css/q/qgux-pbfl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f-vq1vbql"/>`,
+		"content": `<path class="qgux-pbfl"/>`,
 		"fallback": "mingcute:chat-4-ai-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oqu52_xpu.css';
+import '../../css/s/s64d5hbcj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oqu52_xpu"/>`,
+		"content": `<path class="s64d5hbcj"/>`,
 		"fallback": "mingcute:text-area-line",
 	});
 }

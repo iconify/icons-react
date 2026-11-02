@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wegkaw1iq.css';
+import '../../css/n/nkybxbclw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wegkaw1iq"/>`,
+		"content": `<path class="nkybxbclw"/>`,
 		"fallback": "mingcute:comment-fill",
 	});
 }

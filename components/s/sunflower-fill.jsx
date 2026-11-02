@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/autt7ps_t.css';
+import '../../css/t/tar_hac0r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="autt7ps_t"/>`,
+		"content": `<path class="tar_hac0r"/>`,
 		"fallback": "mingcute:sunflower-fill",
 	});
 }

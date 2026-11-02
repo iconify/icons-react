@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ui8ehd76t.css';
+import '../../css/c/cc458yufi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ui8ehd76t"/>`,
+		"content": `<path class="cc458yufi"/>`,
 		"fallback": "mingcute:father-christmas-line",
 	});
 }

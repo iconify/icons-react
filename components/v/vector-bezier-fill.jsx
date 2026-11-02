@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wg00ribqx.css';
+import '../../css/g/ggim82b3a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="wg00ribqx"/>`,
+		"content": `<path class="ggim82b3a"/>`,
 		"fallback": "mingcute:vector-bezier-fill",
 	});
 }

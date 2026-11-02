@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uifvd8bms.css';
+import '../../css/c/ctszb1amv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uifvd8bms"/>`,
+		"content": `<path class="ctszb1amv"/>`,
 		"fallback": "mingcute:pin-line",
 	});
 }

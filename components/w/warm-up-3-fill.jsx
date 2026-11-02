@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eevgm_byn.css';
+import '../../css/w/w2qfondcu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eevgm_byn"/>`,
+		"content": `<path class="w2qfondcu"/>`,
 		"fallback": "mingcute:warm-up-3-fill",
 	});
 }

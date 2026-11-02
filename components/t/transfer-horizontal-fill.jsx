@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kkmy43dwe.css';
+import '../../css/o/o9o738bti.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kkmy43dwe"/>`,
+		"content": `<path class="o9o738bti"/>`,
 		"fallback": "mingcute:transfer-horizontal-fill",
 	});
 }

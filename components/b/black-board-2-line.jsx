@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gu624--wg.css';
+import '../../css/w/wwwigfbmj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gu624--wg"/>`,
+		"content": `<path class="wwwigfbmj"/>`,
 		"fallback": "mingcute:black-board-2-line",
 	});
 }

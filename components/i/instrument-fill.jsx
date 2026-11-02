@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zrtnir10g.css';
+import '../../css/p/pq5d24bbx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zrtnir10g"/>`,
+		"content": `<path class="pq5d24bbx"/>`,
 		"fallback": "mingcute:instrument-fill",
 	});
 }

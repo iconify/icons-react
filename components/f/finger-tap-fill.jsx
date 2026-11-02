@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gmu2mhb1x.css';
+import '../../css/o/on-v0u84l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="gmu2mhb1x"/>`,
+		"content": `<path class="on-v0u84l"/>`,
 		"fallback": "mingcute:finger-tap-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mub4bxbvj.css';
+import '../../css/k/k-6jceb8a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="mub4bxbvj"/>`,
+		"content": `<path class="k-6jceb8a"/>`,
 		"fallback": "mingcute:homepod-mini-fill",
 	});
 }

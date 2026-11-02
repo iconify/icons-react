@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n9thupbto.css';
+import '../../css/j/j47thmb1e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n9thupbto"/>`,
+		"content": `<path class="j47thmb1e"/>`,
 		"fallback": "mingcute:airdrop-line",
 	});
 }

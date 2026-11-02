@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bd57n2brx.css';
+import '../../css/q/q-re4_eag.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bd57n2brx"/>`,
+		"content": `<path class="q-re4_eag"/>`,
 		"fallback": "mingcute:currency-nigeria-fill",
 	});
 }

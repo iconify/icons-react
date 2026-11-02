@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/etl6gjblu.css';
-import '../../css/c/czl4vwb8t.css';
-import '../../css/b/bmgtm8_um.css';
+import '../../css/q/qgh__w-ay.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="etl6gjblu"/><path class="czl4vwb8t"/><path class="bmgtm8_um"/>`,
+		"content": `<path class="qgh__w-ay"/>`,
 		"fallback": "mingcute:live-photo-line",
 	});
 }

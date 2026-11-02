@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qq0rjpbdi.css';
+import '../../css/k/ke28dhbov.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qq0rjpbdi"/>`,
+		"content": `<path class="ke28dhbov"/>`,
 		"fallback": "mingcute:earth-latitude-line",
 	});
 }

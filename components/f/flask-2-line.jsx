@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lyx0hrb_d.css';
+import '../../css/z/zup424bdc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lyx0hrb_d"/>`,
+		"content": `<path class="zup424bdc"/>`,
 		"fallback": "mingcute:flask-2-line",
 	});
 }

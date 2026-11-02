@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wv5foobii.css';
+import '../../css/i/ia090xb_a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wv5foobii"/>`,
+		"content": `<path class="ia090xb_a"/>`,
 		"fallback": "mingcute:check-circle-fill",
 	});
 }

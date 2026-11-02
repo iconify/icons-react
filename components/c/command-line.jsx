@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rql910rds.css';
+import '../../css/y/y4tal-b1m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rql910rds"/>`,
+		"content": `<path class="y4tal-b1m"/>`,
 		"fallback": "mingcute:command-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dzu-h2-ey.css';
+import '../../css/e/e5a2eljqm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dzu-h2-ey"/>`,
+		"content": `<path class="e5a2eljqm"/>`,
 		"fallback": "mingcute:calendar-time-add-fill",
 	});
 }

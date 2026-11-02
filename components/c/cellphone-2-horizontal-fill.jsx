@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fq3--h1on.css';
+import '../../css/y/yoqgnebgy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fq3--h1on"/>`,
+		"content": `<path class="yoqgnebgy"/>`,
 		"fallback": "mingcute:cellphone-2-horizontal-fill",
 	});
 }

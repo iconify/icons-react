@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m4za2abrc.css';
+import '../../css/e/e3d32hgyr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m4za2abrc"/>`,
+		"content": `<path class="e3d32hgyr"/>`,
 		"fallback": "mingcute:black-board-line",
 	});
 }

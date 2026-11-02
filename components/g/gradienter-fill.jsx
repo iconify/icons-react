@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f__kf5b1p.css';
+import '../../css/u/up7bxb_fq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f__kf5b1p"/>`,
+		"content": `<path class="up7bxb_fq"/>`,
 		"fallback": "mingcute:gradienter-fill",
 	});
 }

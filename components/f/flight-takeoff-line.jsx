@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gqzly4tsd.css';
+import '../../css/n/nfoyag69q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gqzly4tsd"/>`,
+		"content": `<path class="nfoyag69q"/>`,
 		"fallback": "mingcute:flight-takeoff-line",
 	});
 }

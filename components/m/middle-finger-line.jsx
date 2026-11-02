@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m7rtt_btp.css';
+import '../../css/i/ixx0vdzcv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m7rtt_btp"/>`,
+		"content": `<path class="ixx0vdzcv"/>`,
 		"fallback": "mingcute:middle-finger-line",
 	});
 }

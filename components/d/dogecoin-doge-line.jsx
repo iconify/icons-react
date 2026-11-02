@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x2mflz02z.css';
+import '../../css/e/e10ivmb_n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x2mflz02z"/>`,
+		"content": `<path class="e10ivmb_n"/>`,
 		"fallback": "mingcute:dogecoin-doge-line",
 	});
 }

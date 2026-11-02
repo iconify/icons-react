@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tvj0xbcec.css';
+import '../../css/a/ac_kg-bls.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tvj0xbcec"/>`,
+		"content": `<path class="ac_kg-bls"/>`,
 		"fallback": "mingcute:movie-line",
 	});
 }

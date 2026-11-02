@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/klrt-hbmq.css';
+import '../../css/s/srzp5ibqi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="klrt-hbmq"/>`,
+		"content": `<path class="srzp5ibqi"/>`,
 		"fallback": "mingcute:align-right-2-line",
 	});
 }

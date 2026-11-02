@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vg14t-wju.css';
+import '../../css/b/bsxaeflza.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vg14t-wju"/>`,
+		"content": `<path class="bsxaeflza"/>`,
 		"fallback": "mingcute:calendar-add-fill",
 	});
 }

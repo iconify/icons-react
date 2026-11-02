@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/acxrv9d-i.css';
+import '../../css/v/vw-1_aciu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="acxrv9d-i"/>`,
+		"content": `<path class="vw-1_aciu"/>`,
 		"fallback": "mingcute:layout-7-fill",
 	});
 }

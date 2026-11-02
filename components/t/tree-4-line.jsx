@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pgklcob_s.css';
+import '../../css/t/te7x2geix.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pgklcob_s"/>`,
+		"content": `<path class="te7x2geix"/>`,
 		"fallback": "mingcute:tree-4-line",
 	});
 }

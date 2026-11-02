@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lz-gipbgy.css';
+import '../../css/m/mrytxqbtb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lz-gipbgy"/>`,
+		"content": `<path class="mrytxqbtb"/>`,
 		"fallback": "mingcute:egg-line",
 	});
 }

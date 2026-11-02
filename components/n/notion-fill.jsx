@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m95-apbor.css';
+import '../../css/q/q466almew.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="m95-apbor"/>`,
+		"content": `<path class="q466almew"/>`,
 		"fallback": "mingcute:notion-fill",
 	});
 }

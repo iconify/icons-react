@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/owihpxbhp.css';
-import '../../css/b/b3rcvrrsh.css';
+import '../../css/u/ua000itue.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="owihpxbhp"/><path class="b3rcvrrsh"/>`,
+		"content": `<path class="ua000itue"/>`,
 		"fallback": "mingcute:search-3-ai-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cebhracry.css';
+import '../../css/w/wmgvc-bss.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cebhracry"/>`,
+		"content": `<path class="wmgvc-bss"/>`,
 		"fallback": "mingcute:vibe-coding-fill",
 	});
 }

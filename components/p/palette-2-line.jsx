@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/ggdj-rbkr.css';
-import '../../css/d/d4aj_070k.css';
+import '../../css/d/dcss0flej.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ggdj-rbkr"/><circle class="d4aj_070k"/>`,
+		"content": `<path class="dcss0flej"/>`,
 		"fallback": "mingcute:palette-2-line",
 	});
 }

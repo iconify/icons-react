@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/acrih_vdm.css';
+import '../../css/x/x8_zu0j5h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="acrih_vdm"/>`,
+		"content": `<path class="x8_zu0j5h"/>`,
 		"fallback": "mingcute:layout-leftbar-close-line",
 	});
 }

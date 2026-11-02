@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vshyk7bsv.css';
+import '../../css/q/qj8d-0s5e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vshyk7bsv"/>`,
+		"content": `<path class="qj8d-0s5e"/>`,
 		"fallback": "mingcute:vector-group-fill",
 	});
 }

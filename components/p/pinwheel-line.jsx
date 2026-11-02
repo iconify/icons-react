@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bo30uzbpl.css';
+import '../../css/w/wishomb3q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bo30uzbpl"/>`,
+		"content": `<path class="wishomb3q"/>`,
 		"fallback": "mingcute:pinwheel-line",
 	});
 }

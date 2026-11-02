@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yg2i99t7q.css';
+import '../../css/x/xejxsubmd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yg2i99t7q"/>`,
+		"content": `<path class="xejxsubmd"/>`,
 		"fallback": "mingcute:sort-descending-line",
 	});
 }

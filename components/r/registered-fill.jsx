@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dcpn8ebbc.css';
+import '../../css/e/e3grej-wt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dcpn8ebbc"/>`,
+		"content": `<path class="e3grej-wt"/>`,
 		"fallback": "mingcute:registered-fill",
 	});
 }

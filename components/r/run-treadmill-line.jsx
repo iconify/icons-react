@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/ba-ur9lbp.css';
+import '../../css/b/bnyhwpbeu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ba-ur9lbp"/>`,
+		"content": `<path class="bnyhwpbeu"/>`,
 		"fallback": "mingcute:run-treadmill-line",
 	});
 }

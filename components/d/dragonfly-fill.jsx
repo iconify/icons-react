@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ngovbnf4y.css';
+import '../../css/b/bzlosk28h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ngovbnf4y"/>`,
+		"content": `<path class="bzlosk28h"/>`,
 		"fallback": "mingcute:dragonfly-fill",
 	});
 }

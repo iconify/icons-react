@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sf86hnbfm.css';
+import '../../css/r/rd2sngqei.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sf86hnbfm"/>`,
+		"content": `<path class="rd2sngqei"/>`,
 		"fallback": "mingcute:sydney-opera-house-line",
 	});
 }

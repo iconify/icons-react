@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bmtgx5unr.css';
+import '../../css/c/cxjtsz59o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bmtgx5unr"/>`,
+		"content": `<path class="cxjtsz59o"/>`,
 		"fallback": "mingcute:christmas-ball-line",
 	});
 }

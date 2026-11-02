@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qxsc2h-na.css';
+import '../../css/n/nd1hdgbae.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qxsc2h-na"/>`,
+		"content": `<path class="nd1hdgbae"/>`,
 		"fallback": "mingcute:distribute-spacing-vertical-fill",
 	});
 }

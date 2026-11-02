@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dxh3p_uns.css';
+import '../../css/t/tba_rrbin.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="dxh3p_uns"/>`,
+		"content": `<path class="tba_rrbin"/>`,
 		"fallback": "mingcute:cellphone-fill",
 	});
 }

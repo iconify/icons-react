@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jiytj0umg.css';
+import '../../css/m/msmplhg-c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jiytj0umg"/>`,
+		"content": `<path class="msmplhg-c"/>`,
 		"fallback": "mingcute:layout-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wuk76lbpl.css';
+import '../../css/b/b8nghhbtr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wuk76lbpl"/>`,
+		"content": `<path class="b8nghhbtr"/>`,
 		"fallback": "mingcute:tornado-fill",
 	});
 }

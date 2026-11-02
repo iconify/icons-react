@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gbq5kebal.css';
+import '../../css/h/hnwoh5z1w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gbq5kebal"/>`,
+		"content": `<path class="hnwoh5z1w"/>`,
 		"fallback": "mingcute:rotate-to-vertical-fill",
 	});
 }

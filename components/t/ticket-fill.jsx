@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fkf-om-yv.css';
+import '../../css/r/r888i_z2j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fkf-om-yv"/>`,
+		"content": `<path class="r888i_z2j"/>`,
 		"fallback": "mingcute:ticket-fill",
 	});
 }

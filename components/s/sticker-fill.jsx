@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jajm5-bsz.css';
-import '../../css/k/k_heijbqq.css';
+import '../../css/s/scjmdrbdz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jajm5-bsz"/><path class="k_heijbqq"/>`,
+		"content": `<path class="scjmdrbdz"/>`,
 		"fallback": "mingcute:sticker-fill",
 	});
 }

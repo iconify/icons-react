@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hi95u7abw.css';
+import '../../css/p/pd--d5ahu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hi95u7abw"/>`,
+		"content": `<path class="pd--d5ahu"/>`,
 		"fallback": "mingcute:steering-wheel-fill",
 	});
 }

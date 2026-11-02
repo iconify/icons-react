@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p71seyb2e.css';
+import '../../css/z/zicn2_zap.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p71seyb2e"/>`,
+		"content": `<path class="zicn2_zap"/>`,
 		"fallback": "mingcute:bulb-ai-line",
 	});
 }

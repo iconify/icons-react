@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tjxba3boa.css';
+import '../../css/q/q_f6sqfep.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tjxba3boa"/>`,
+		"content": `<path class="q_f6sqfep"/>`,
 		"fallback": "mingcute:git-commit-fill",
 	});
 }

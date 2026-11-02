@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oho-25_re.css';
+import '../../css/f/fd0h02asm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oho-25_re"/>`,
+		"content": `<path class="fd0h02asm"/>`,
 		"fallback": "mingcute:bath-line",
 	});
 }

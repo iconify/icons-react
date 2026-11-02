@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lp1zz_b8k.css';
+import '../../css/b/b_tp76blh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lp1zz_b8k"/>`,
+		"content": `<path class="b_tp76blh"/>`,
 		"fallback": "mingcute:solana-sol-line",
 	});
 }

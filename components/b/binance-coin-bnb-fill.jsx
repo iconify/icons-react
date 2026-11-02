@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/coz08f0-x.css';
+import '../../css/c/cpm12ebsx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="coz08f0-x"/>`,
+		"content": `<path class="cpm12ebsx"/>`,
 		"fallback": "mingcute:binance-coin-bnb-fill",
 	});
 }

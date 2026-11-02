@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/ximv8ihgl.css';
-import '../../css/p/pl259k1fn.css';
+import '../../css/j/jakbai47o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ximv8ihgl"/><path class="pl259k1fn"/>`,
+		"content": `<path class="jakbai47o"/>`,
 		"fallback": "mingcute:danmaku-on-fill",
 	});
 }

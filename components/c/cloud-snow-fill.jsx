@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dxl_0ldls.css';
+import '../../css/l/l__9c4bjm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dxl_0ldls"/>`,
+		"content": `<path class="l__9c4bjm"/>`,
 		"fallback": "mingcute:cloud-snow-fill",
 	});
 }

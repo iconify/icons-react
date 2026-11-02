@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kautov5ob.css';
+import '../../css/r/r5envbbfp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kautov5ob"/>`,
+		"content": `<path class="r5envbbfp"/>`,
 		"fallback": "mingcute:user-hide-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vo09kqb5d.css';
+import '../../css/c/c7q6swbmq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="vo09kqb5d"/>`,
+		"content": `<path class="c7q6swbmq"/>`,
 		"fallback": "mingcute:avalanche-avax-fill",
 	});
 }

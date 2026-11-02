@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cse72pblw.css';
+import '../../css/h/huapvubzw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cse72pblw"/>`,
+		"content": `<path class="huapvubzw"/>`,
 		"fallback": "mingcute:miyajima-torii-line",
 	});
 }

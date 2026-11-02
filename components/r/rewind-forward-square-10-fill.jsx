@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dt2orlbgf.css';
+import '../../css/w/wodxxpkrr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dt2orlbgf"/>`,
+		"content": `<path class="wodxxpkrr"/>`,
 		"fallback": "mingcute:rewind-forward-square-10-fill",
 	});
 }

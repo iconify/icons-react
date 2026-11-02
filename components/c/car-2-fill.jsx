@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tvlr7taap.css';
+import '../../css/j/jc65wbbse.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tvlr7taap"/>`,
+		"content": `<path class="jc65wbbse"/>`,
 		"fallback": "mingcute:car-2-fill",
 	});
 }

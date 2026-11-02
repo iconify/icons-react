@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hdo9_1h6o.css';
+import '../../css/h/hohvgli-d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hdo9_1h6o"/>`,
+		"content": `<path class="hohvgli-d"/>`,
 		"fallback": "mingcute:safe-flash-fill",
 	});
 }

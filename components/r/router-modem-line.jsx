@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n33mwg7_b.css';
+import '../../css/s/s3_secbni.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n33mwg7_b"/>`,
+		"content": `<path class="s3_secbni"/>`,
 		"fallback": "mingcute:router-modem-line",
 	});
 }

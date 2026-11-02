@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/abgai4bzo.css';
+import '../../css/k/ksp-3cifm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="abgai4bzo"/>`,
+		"content": `<path class="ksp-3cifm"/>`,
 		"fallback": "mingcute:instrument-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gh7u_yvuu.css';
+import '../../css/s/sodb7pimc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gh7u_yvuu"/>`,
+		"content": `<path class="sodb7pimc"/>`,
 		"fallback": "mingcute:vue-fill",
 	});
 }

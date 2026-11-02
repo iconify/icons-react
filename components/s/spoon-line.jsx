@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uor33c4rd.css';
+import '../../css/m/mupwids-x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uor33c4rd"/>`,
+		"content": `<path class="mupwids-x"/>`,
 		"fallback": "mingcute:spoon-line",
 	});
 }

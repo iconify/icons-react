@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ucfaugjig.css';
+import '../../css/q/qei0r4z2t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ucfaugjig"/>`,
+		"content": `<path class="qei0r4z2t"/>`,
 		"fallback": "mingcute:binance-usd-busd-fill",
 	});
 }

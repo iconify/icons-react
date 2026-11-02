@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j7hi9sbth.css';
-import '../../css/u/ukauanbdu.css';
-import '../../css/m/mrpd8lbxi.css';
+import '../../css/l/lcfquw3sp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j7hi9sbth"/><path class="ukauanbdu"/><path class="mrpd8lbxi"/>`,
+		"content": `<path class="lcfquw3sp"/>`,
 		"fallback": "mingcute:reddit-line",
 	});
 }

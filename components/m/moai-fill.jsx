@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i64rjbc9j.css';
+import '../../css/d/dvnosdbgp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="i64rjbc9j"/>`,
+		"content": `<path class="dvnosdbgp"/>`,
 		"fallback": "mingcute:moai-fill",
 	});
 }

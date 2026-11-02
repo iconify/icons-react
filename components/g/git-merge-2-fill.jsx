@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zaazf3prt.css';
+import '../../css/d/d-be48n4b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zaazf3prt"/>`,
+		"content": `<path class="d-be48n4b"/>`,
 		"fallback": "mingcute:git-merge-2-fill",
 	});
 }

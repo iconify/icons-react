@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ej4wkabvy.css';
+import '../../css/b/bfwuf0bgu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ej4wkabvy"/>`,
+		"content": `<path class="bfwuf0bgu"/>`,
 		"fallback": "mingcute:remote-control-fill",
 	});
 }

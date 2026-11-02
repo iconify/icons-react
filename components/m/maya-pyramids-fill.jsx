@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pelcyhb6y.css';
+import '../../css/c/chgko6bau.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="pelcyhb6y"/>`,
+		"content": `<path class="chgko6bau"/>`,
 		"fallback": "mingcute:maya-pyramids-fill",
 	});
 }

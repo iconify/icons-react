@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r3lttot3l.css';
-import '../../css/m/mf2faab1e.css';
-import '../../css/i/igmy_9b_l.css';
+import '../../css/w/wa9uavbmw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r3lttot3l"/><path class="mf2faab1e"/><path class="igmy_9b_l"/>`,
+		"content": `<path class="wa9uavbmw"/>`,
 		"fallback": "mingcute:more-3-line",
 	});
 }

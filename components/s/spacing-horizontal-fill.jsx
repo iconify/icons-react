@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wjesy3bzr.css';
+import '../../css/p/p4w03bbpx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wjesy3bzr"/>`,
+		"content": `<path class="p4w03bbpx"/>`,
 		"fallback": "mingcute:spacing-horizontal-fill",
 	});
 }

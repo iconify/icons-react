@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k-o72s6ja.css';
+import '../../css/w/w9gasub-a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k-o72s6ja"/>`,
+		"content": `<path class="w9gasub-a"/>`,
 		"fallback": "mingcute:markdown-line",
 	});
 }

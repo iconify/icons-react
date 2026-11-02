@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ugu7h1-mz.css';
+import '../../css/n/nj76dvodx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ugu7h1-mz"/>`,
+		"content": `<path class="nj76dvodx"/>`,
 		"fallback": "mingcute:unlink-fill",
 	});
 }

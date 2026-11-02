@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oq367kv2n.css';
-import '../../css/q/q9e-uvxvv.css';
+import '../../css/a/awvoz5hrs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oq367kv2n"/><path clip-rule="evenodd" class="q9e-uvxvv"/>`,
+		"content": `<path class="awvoz5hrs"/>`,
 		"fallback": "mingcute:mailbox-fill",
 	});
 }

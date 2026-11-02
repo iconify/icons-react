@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gle8jacmg.css';
+import '../../css/y/yzsz40bjy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gle8jacmg"/>`,
+		"content": `<path class="yzsz40bjy"/>`,
 		"fallback": "mingcute:wechat-miniprogram-fill",
 	});
 }

@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ayrbz2i7q.css';
-import '../../css/z/zs61z1u9e.css';
+import '../../css/u/u8-cp0bpm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ayrbz2i7q"/><path class="zs61z1u9e"/>`,
+		"content": `<path class="u8-cp0bpm"/>`,
 		"fallback": "mingcute:indent-increase-fill",
 	});
 }

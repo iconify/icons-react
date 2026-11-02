@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/ht-empbyv.css';
+import '../../css/p/p8tagfb9n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ht-empbyv"/>`,
+		"content": `<path class="p8tagfb9n"/>`,
 		"fallback": "mingcute:layout-11-fill",
 	});
 }

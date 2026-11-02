@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/guacuabyw.css';
-import '../../css/w/wqgx4hy9o.css';
+import '../../css/g/gfmalelkg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="guacuabyw"/><path class="wqgx4hy9o"/>`,
+		"content": `<path class="gfmalelkg"/>`,
 		"fallback": "mingcute:open-door-line",
 	});
 }

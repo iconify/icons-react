@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fexe7_bbq.css';
+import '../../css/d/dqgdrnbya.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fexe7_bbq"/>`,
+		"content": `<path class="dqgdrnbya"/>`,
 		"fallback": "mingcute:high-knees-line",
 	});
 }

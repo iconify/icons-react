@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yu8_hgk1e.css';
+import '../../css/a/ayiptbb-c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yu8_hgk1e"/>`,
+		"content": `<path class="ayiptbb-c"/>`,
 		"fallback": "mingcute:look-down-fill",
 	});
 }

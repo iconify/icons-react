@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bceb90b6z.css';
+import '../../css/c/c_gwlfbcp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bceb90b6z"/>`,
+		"content": `<path class="c_gwlfbcp"/>`,
 		"fallback": "mingcute:binance-usd-busd-line",
 	});
 }

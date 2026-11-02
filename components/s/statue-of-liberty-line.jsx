@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wllrp9urp.css';
-import '../../css/c/czs93-zxq.css';
+import '../../css/j/jy2to3bbw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wllrp9urp"/><path class="czs93-zxq"/>`,
+		"content": `<path class="jy2to3bbw"/>`,
 		"fallback": "mingcute:statue-of-liberty-line",
 	});
 }

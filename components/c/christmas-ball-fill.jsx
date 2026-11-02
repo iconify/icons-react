@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lcpo2hbtr.css';
+import '../../css/t/timrc318u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lcpo2hbtr"/>`,
+		"content": `<path class="timrc318u"/>`,
 		"fallback": "mingcute:christmas-ball-fill",
 	});
 }

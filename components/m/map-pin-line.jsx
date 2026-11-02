@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g5jodh5el.css';
+import '../../css/x/xlst_c_vd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g5jodh5el"/>`,
+		"content": `<path class="xlst_c_vd"/>`,
 		"fallback": "mingcute:map-pin-line",
 	});
 }

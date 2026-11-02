@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mk2wribdi.css';
+import '../../css/p/p2-t9rblz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mk2wribdi"/>`,
+		"content": `<path class="p2-t9rblz"/>`,
 		"fallback": "mingcute:desk-lamp-fill",
 	});
 }

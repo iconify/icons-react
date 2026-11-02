@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h2827svke.css';
+import '../../css/v/vh53_dbyk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="h2827svke"/>`,
+		"content": `<path class="vh53_dbyk"/>`,
 		"fallback": "mingcute:copilot-fill",
 	});
 }

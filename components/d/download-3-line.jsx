@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/amgdxw1dc.css';
+import '../../css/q/qvs-sobwt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="amgdxw1dc"/>`,
+		"content": `<path class="qvs-sobwt"/>`,
 		"fallback": "mingcute:download-3-line",
 	});
 }

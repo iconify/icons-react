@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/osg8puemb.css';
+import '../../css/y/yb0m9_28x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="osg8puemb"/>`,
+		"content": `<path class="yb0m9_28x"/>`,
 		"fallback": "mingcute:sleep-line",
 	});
 }

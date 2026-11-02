@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/opv7sjbuo.css';
+import '../../css/d/dm_pr0vcp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="opv7sjbuo"/>`,
+		"content": `<path class="dm_pr0vcp"/>`,
 		"fallback": "mingcute:eraser-ai-fill",
 	});
 }

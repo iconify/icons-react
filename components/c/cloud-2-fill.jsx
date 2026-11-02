@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tsmudmsks.css';
+import '../../css/m/m35kljbyi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tsmudmsks"/>`,
+		"content": `<path class="m35kljbyi"/>`,
 		"fallback": "mingcute:cloud-2-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zx2cq-bjz.css';
+import '../../css/l/lti8xrsjp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zx2cq-bjz"/>`,
+		"content": `<path class="lti8xrsjp"/>`,
 		"fallback": "mingcute:camcorder-fill",
 	});
 }

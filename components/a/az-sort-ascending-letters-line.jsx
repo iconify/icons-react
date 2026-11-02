@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vmi280ire.css';
+import '../../css/t/tuu733bvg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vmi280ire"/>`,
+		"content": `<path class="tuu733bvg"/>`,
 		"fallback": "mingcute:az-sort-ascending-letters-line",
 	});
 }

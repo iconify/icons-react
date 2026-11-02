@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xglfi1bww.css';
+import '../../css/l/lbqzk_jzx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xglfi1bww"/>`,
+		"content": `<path class="lbqzk_jzx"/>`,
 		"fallback": "mingcute:kakao-talk-fill",
 	});
 }

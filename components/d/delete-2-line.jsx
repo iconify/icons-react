@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bb-s0g_vo.css';
+import '../../css/r/r0aa-ibik.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bb-s0g_vo"/>`,
+		"content": `<path class="r0aa-ibik"/>`,
 		"fallback": "mingcute:delete-2-line",
 	});
 }

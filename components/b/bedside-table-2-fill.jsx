@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vl38k0bkg.css';
+import '../../css/k/k71_yo_lj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vl38k0bkg"/>`,
+		"content": `<path class="k71_yo_lj"/>`,
 		"fallback": "mingcute:bedside-table-2-fill",
 	});
 }

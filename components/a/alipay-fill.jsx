@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lqf-js7hl.css';
+import '../../css/g/gu72-xdxl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lqf-js7hl"/>`,
+		"content": `<path class="gu72-xdxl"/>`,
 		"fallback": "mingcute:alipay-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/ty8-mztlv.css';
+import '../../css/u/uod0nwcbr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ty8-mztlv"/>`,
+		"content": `<path class="uod0nwcbr"/>`,
 		"fallback": "mingcute:arrow-left-up-circle-fill",
 	});
 }

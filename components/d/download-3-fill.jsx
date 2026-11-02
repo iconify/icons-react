@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ni-8--job.css';
+import '../../css/z/zcvz30b_i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ni-8--job"/>`,
+		"content": `<path class="zcvz30b_i"/>`,
 		"fallback": "mingcute:download-3-fill",
 	});
 }

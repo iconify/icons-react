@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lsmnwl62l.css';
+import '../../css/o/ozic-irzt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lsmnwl62l"/>`,
+		"content": `<path class="ozic-irzt"/>`,
 		"fallback": "mingcute:bridge-2-line",
 	});
 }

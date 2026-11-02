@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f-tb6tb0o.css';
+import '../../css/w/w206-pg8v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f-tb6tb0o"/>`,
+		"content": `<path class="w206-pg8v"/>`,
 		"fallback": "mingcute:battery-charging-fill",
 	});
 }

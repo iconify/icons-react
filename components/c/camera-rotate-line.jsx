@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r6-2_0kgl.css';
+import '../../css/o/o20venbso.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r6-2_0kgl"/>`,
+		"content": `<path class="o20venbso"/>`,
 		"fallback": "mingcute:camera-rotate-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k_8jjgbpr.css';
+import '../../css/s/shu7_ybxp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k_8jjgbpr"/>`,
+		"content": `<path class="shu7_ybxp"/>`,
 		"fallback": "mingcute:currency-lira-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u530itbxd.css';
+import '../../css/t/tuw6ov97b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u530itbxd"/>`,
+		"content": `<path class="tuw6ov97b"/>`,
 		"fallback": "mingcute:notion-line",
 	});
 }

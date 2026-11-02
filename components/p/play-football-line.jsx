@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q_lv-h22b.css';
+import '../../css/u/uevot4b2o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q_lv-h22b"/>`,
+		"content": `<path class="uevot4b2o"/>`,
 		"fallback": "mingcute:play-football-line",
 	});
 }

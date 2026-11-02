@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ai5jxwb3m.css';
+import '../../css/m/moypylafa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ai5jxwb3m"/>`,
+		"content": `<path class="moypylafa"/>`,
 		"fallback": "mingcute:linear-line",
 	});
 }

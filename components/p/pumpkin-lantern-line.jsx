@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gc2_9ibwj.css';
+import '../../css/h/h0l_11bed.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gc2_9ibwj"/>`,
+		"content": `<path class="h0l_11bed"/>`,
 		"fallback": "mingcute:pumpkin-lantern-line",
 	});
 }

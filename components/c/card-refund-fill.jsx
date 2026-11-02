@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o2cllrpuh.css';
+import '../../css/h/h6g4r_b0r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o2cllrpuh"/>`,
+		"content": `<path class="h6g4r_b0r"/>`,
 		"fallback": "mingcute:card-refund-fill",
 	});
 }

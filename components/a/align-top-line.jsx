@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zenmd1bam.css';
+import '../../css/x/xt8m-8zdy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zenmd1bam"/>`,
+		"content": `<path class="xt8m-8zdy"/>`,
 		"fallback": "mingcute:align-top-line",
 	});
 }

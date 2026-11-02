@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hump41b1k.css';
+import '../../css/q/qm_3ngbzn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hump41b1k"/>`,
+		"content": `<path class="qm_3ngbzn"/>`,
 		"fallback": "mingcute:add-line",
 	});
 }

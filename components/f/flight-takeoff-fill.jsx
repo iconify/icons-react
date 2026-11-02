@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p-imowbph.css';
+import '../../css/b/bgb1gcbej.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p-imowbph"/>`,
+		"content": `<path class="bgb1gcbej"/>`,
 		"fallback": "mingcute:flight-takeoff-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u5v64fbos.css';
+import '../../css/h/hp7cisbvw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u5v64fbos"/>`,
+		"content": `<path class="hp7cisbvw"/>`,
 		"fallback": "mingcute:video-ai-fill",
 	});
 }

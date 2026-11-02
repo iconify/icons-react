@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ejm67ybkl.css';
+import '../../css/c/cilo2uhhy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ejm67ybkl"/>`,
+		"content": `<path class="cilo2uhhy"/>`,
 		"fallback": "mingcute:letter-spacing-fill",
 	});
 }

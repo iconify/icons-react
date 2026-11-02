@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jhy-46b0z.css';
+import '../../css/v/vrdubfuac.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jhy-46b0z"/>`,
+		"content": `<path class="vrdubfuac"/>`,
 		"fallback": "mingcute:battery-3-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q_6awkojm.css';
+import '../../css/p/psp9dbjum.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q_6awkojm"/>`,
+		"content": `<path class="psp9dbjum"/>`,
 		"fallback": "mingcute:screwdriver-line",
 	});
 }

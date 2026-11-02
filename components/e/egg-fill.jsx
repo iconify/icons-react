@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o9_mr5btm.css';
+import '../../css/b/bldn_f5bn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o9_mr5btm"/>`,
+		"content": `<path class="bldn_f5bn"/>`,
 		"fallback": "mingcute:egg-fill",
 	});
 }

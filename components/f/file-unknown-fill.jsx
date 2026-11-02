@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rfnma4bxo.css';
+import '../../css/z/zoof9ubgk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rfnma4bxo"/>`,
+		"content": `<path class="zoof9ubgk"/>`,
 		"fallback": "mingcute:file-unknown-fill",
 	});
 }

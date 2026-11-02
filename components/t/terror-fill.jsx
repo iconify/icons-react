@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gxw_tdzlv.css';
+import '../../css/v/vugvi1nbe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gxw_tdzlv"/>`,
+		"content": `<path class="vugvi1nbe"/>`,
 		"fallback": "mingcute:terror-fill",
 	});
 }

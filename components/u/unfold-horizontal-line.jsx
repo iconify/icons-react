@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l220euvzv.css';
+import '../../css/k/kmd5wrb0a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l220euvzv"/>`,
+		"content": `<path class="kmd5wrb0a"/>`,
 		"fallback": "mingcute:unfold-horizontal-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lnss54tzv.css';
+import '../../css/r/rqzc2vbov.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lnss54tzv"/>`,
+		"content": `<path class="rqzc2vbov"/>`,
 		"fallback": "mingcute:list-expansion-fill",
 	});
 }

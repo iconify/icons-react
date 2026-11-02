@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mkbu03bak.css';
+import '../../css/v/vygf5iblq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mkbu03bak"/>`,
+		"content": `<path class="vygf5iblq"/>`,
 		"fallback": "mingcute:ebike-line",
 	});
 }

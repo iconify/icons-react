@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jcqr52b1e.css';
+import '../../css/c/c8r1b7blq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jcqr52b1e"/>`,
+		"content": `<path class="c8r1b7blq"/>`,
 		"fallback": "mingcute:tiktok-fill",
 	});
 }

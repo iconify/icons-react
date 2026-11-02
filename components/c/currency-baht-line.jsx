@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gaxm8-_2c.css';
+import '../../css/b/bz2t_87az.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gaxm8-_2c"/>`,
+		"content": `<path class="bz2t_87az"/>`,
 		"fallback": "mingcute:currency-baht-line",
 	});
 }

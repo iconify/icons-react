@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qq_mcpbfs.css';
+import '../../css/o/of1h860am.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qq_mcpbfs"/>`,
+		"content": `<path class="of1h860am"/>`,
 		"fallback": "mingcute:battery-3-line",
 	});
 }

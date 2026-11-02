@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f8_z80bha.css';
+import '../../css/u/u-kd8_byt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f8_z80bha"/>`,
+		"content": `<path class="u-kd8_byt"/>`,
 		"fallback": "mingcute:vue-line",
 	});
 }

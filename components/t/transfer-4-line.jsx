@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xql-uobud.css';
+import '../../css/v/vyysn4b6k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xql-uobud"/>`,
+		"content": `<path class="vyysn4b6k"/>`,
 		"fallback": "mingcute:transfer-4-line",
 	});
 }

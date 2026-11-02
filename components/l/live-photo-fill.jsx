@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bmw45m5_z.css';
+import '../../css/u/u8nfscbtn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="bmw45m5_z"/>`,
+		"content": `<path class="u8nfscbtn"/>`,
 		"fallback": "mingcute:live-photo-fill",
 	});
 }

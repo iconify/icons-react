@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/egx0h6b0p.css';
+import '../../css/k/kf8-d7ban.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="egx0h6b0p"/>`,
+		"content": `<path class="kf8-d7ban"/>`,
 		"fallback": "mingcute:layout-grid-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qasjs_bsn.css';
+import '../../css/s/skl5xx2af.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qasjs_bsn"/>`,
+		"content": `<path class="skl5xx2af"/>`,
 		"fallback": "mingcute:hand-finger-2-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/piwlctbfn.css';
+import '../../css/k/kjirbivsr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="piwlctbfn"/>`,
+		"content": `<path class="kjirbivsr"/>`,
 		"fallback": "mingcute:folder-locked-2-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u1l8t4z4l.css';
+import '../../css/j/jgoagzb8g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="u1l8t4z4l"/>`,
+		"content": `<path class="jgoagzb8g"/>`,
 		"fallback": "mingcute:round-line",
 	});
 }

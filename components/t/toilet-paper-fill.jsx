@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d8fshfj-z.css';
-import '../../css/n/nmroajm4x.css';
+import '../../css/z/zkwozubwc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d8fshfj-z"/><path clip-rule="evenodd" class="nmroajm4x"/>`,
+		"content": `<path class="zkwozubwc"/>`,
 		"fallback": "mingcute:toilet-paper-fill",
 	});
 }

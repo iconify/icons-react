@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tit07-pqz.css';
+import '../../css/n/nh00robgp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tit07-pqz"/>`,
+		"content": `<path class="nh00robgp"/>`,
 		"fallback": "mingcute:warm-up-2-fill",
 	});
 }

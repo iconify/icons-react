@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oi_htnp5m.css';
-import '../../css/b/bvztumbiv.css';
+import '../../css/y/yzk1kzome.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oi_htnp5m"/><ellipse class="bvztumbiv"/>`,
+		"content": `<path class="yzk1kzome"/>`,
 		"fallback": "mingcute:tether-usdt-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fx2r51bif.css';
+import '../../css/v/v32jgbb2a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fx2r51bif"/>`,
+		"content": `<path class="v32jgbb2a"/>`,
 		"fallback": "mingcute:contacts-2-line",
 	});
 }

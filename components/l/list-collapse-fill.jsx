@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/ve-cpnbsd.css';
+import '../../css/f/f72h2ac5z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ve-cpnbsd"/>`,
+		"content": `<path class="f72h2ac5z"/>`,
 		"fallback": "mingcute:list-collapse-fill",
 	});
 }

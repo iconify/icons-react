@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cgu141ten.css';
+import '../../css/q/q-lld0-aa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cgu141ten"/>`,
+		"content": `<path class="q-lld0-aa"/>`,
 		"fallback": "mingcute:pisces-fill",
 	});
 }

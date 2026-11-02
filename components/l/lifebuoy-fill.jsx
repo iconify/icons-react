@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dk3didcla.css';
+import '../../css/v/v0y2rbkof.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dk3didcla"/>`,
+		"content": `<path class="v0y2rbkof"/>`,
 		"fallback": "mingcute:lifebuoy-fill",
 	});
 }

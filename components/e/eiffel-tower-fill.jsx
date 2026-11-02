@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/ggbogeabh.css';
+import '../../css/a/as9abwbim.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ggbogeabh"/>`,
+		"content": `<path class="as9abwbim"/>`,
 		"fallback": "mingcute:eiffel-tower-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/au2dbgp3t.css';
+import '../../css/g/glq0v05nm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="au2dbgp3t"/>`,
+		"content": `<path class="glq0v05nm"/>`,
 		"fallback": "mingcute:kakao-talk-line",
 	});
 }

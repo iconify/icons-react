@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cg3lhxc0h.css';
+import '../../css/k/ku189v24n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cg3lhxc0h"/>`,
+		"content": `<path class="ku189v24n"/>`,
 		"fallback": "mingcute:brain-fill",
 	});
 }

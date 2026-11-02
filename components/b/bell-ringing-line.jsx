@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/atbu4hsrl.css';
+import '../../css/z/z7cb2zbff.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="atbu4hsrl"/>`,
+		"content": `<path class="z7cb2zbff"/>`,
 		"fallback": "mingcute:bell-ringing-line",
 	});
 }

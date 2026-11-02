@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nmncqrbeq.css';
+import '../../css/m/m236ioque.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nmncqrbeq"/>`,
+		"content": `<path class="m236ioque"/>`,
 		"fallback": "mingcute:escalator-up-line",
 	});
 }

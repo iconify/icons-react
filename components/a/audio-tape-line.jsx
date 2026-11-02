@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yszkt334k.css';
-import '../../css/n/n0xni4bmh.css';
+import '../../css/u/uefbi9byy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yszkt334k"/><path class="n0xni4bmh"/>`,
+		"content": `<path class="uefbi9byy"/>`,
 		"fallback": "mingcute:audio-tape-line",
 	});
 }

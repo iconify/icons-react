@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dacda1b4i.css';
+import '../../css/m/mawy-2kwb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="dacda1b4i"/>`,
+		"content": `<path class="mawy-2kwb"/>`,
 		"fallback": "mingcute:chart-bar-2-fill",
 	});
 }

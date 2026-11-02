@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dera1ebbd.css';
+import '../../css/r/r_5yqbc-s.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dera1ebbd"/>`,
+		"content": `<path class="r_5yqbc-s"/>`,
 		"fallback": "mingcute:ease-in-out-control-point-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oykyflbit.css';
+import '../../css/c/ckbz_sbxp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oykyflbit"/>`,
+		"content": `<path class="ckbz_sbxp"/>`,
 		"fallback": "mingcute:camera-2-off-line",
 	});
 }

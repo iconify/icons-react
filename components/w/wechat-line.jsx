@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/maozdbcoj.css';
+import '../../css/k/kuw4hdc2z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="maozdbcoj"/>`,
+		"content": `<path class="kuw4hdc2z"/>`,
 		"fallback": "mingcute:wechat-line",
 	});
 }

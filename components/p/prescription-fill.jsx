@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sdhkrgbat.css';
+import '../../css/w/wmd_l1_lf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sdhkrgbat"/>`,
+		"content": `<path class="wmd_l1_lf"/>`,
 		"fallback": "mingcute:prescription-fill",
 	});
 }

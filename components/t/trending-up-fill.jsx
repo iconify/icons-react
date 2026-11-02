@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mmq-2ccok.css';
+import '../../css/k/kusfgdcji.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mmq-2ccok"/>`,
+		"content": `<path class="kusfgdcji"/>`,
 		"fallback": "mingcute:trending-up-fill",
 	});
 }

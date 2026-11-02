@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/abrao85rm.css';
+import '../../css/t/tscstsbri.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="abrao85rm"/>`,
+		"content": `<path class="tscstsbri"/>`,
 		"fallback": "mingcute:fault-fill",
 	});
 }

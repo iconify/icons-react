@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/asspptbxz.css';
-import '../../css/b/bbvbykbhx.css';
+import '../../css/o/o52_otb2i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="asspptbxz"/><path clip-rule="evenodd" class="bbvbykbhx"/>`,
+		"content": `<path class="o52_otb2i"/>`,
 		"fallback": "mingcute:zazen-fill",
 	});
 }

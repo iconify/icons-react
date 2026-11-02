@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pbt_c7bwg.css';
+import '../../css/d/dvvtsgrrx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="pbt_c7bwg"/>`,
+		"content": `<path class="dvvtsgrrx"/>`,
 		"fallback": "mingcute:polkadot-dot-fill",
 	});
 }

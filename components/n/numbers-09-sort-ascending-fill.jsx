@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/ck12p5bii.css';
+import '../../css/c/cb2h1e7fe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ck12p5bii"/>`,
+		"content": `<path class="cb2h1e7fe"/>`,
 		"fallback": "mingcute:numbers-09-sort-ascending-fill",
 	});
 }

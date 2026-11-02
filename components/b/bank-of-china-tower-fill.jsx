@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qny-dzbzf.css';
+import '../../css/u/uu3xoxbxm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="qny-dzbzf"/>`,
+		"content": `<path class="uu3xoxbxm"/>`,
 		"fallback": "mingcute:bank-of-china-tower-fill",
 	});
 }

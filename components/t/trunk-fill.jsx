@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iblp2qmfr.css';
+import '../../css/k/krlfzsbfn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iblp2qmfr"/>`,
+		"content": `<path class="krlfzsbfn"/>`,
 		"fallback": "mingcute:trunk-fill",
 	});
 }

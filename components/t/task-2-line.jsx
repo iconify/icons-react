@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v3klf5b_b.css';
+import '../../css/v/vn7smsden.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v3klf5b_b"/>`,
+		"content": `<path class="vn7smsden"/>`,
 		"fallback": "mingcute:task-2-line",
 	});
 }

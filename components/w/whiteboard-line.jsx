@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xfvpunchv.css';
+import '../../css/o/oau11fbaz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xfvpunchv"/>`,
+		"content": `<path class="oau11fbaz"/>`,
 		"fallback": "mingcute:whiteboard-line",
 	});
 }

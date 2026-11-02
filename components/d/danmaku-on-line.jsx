@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w9g01ubhj.css';
+import '../../css/l/lbclqhbsm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w9g01ubhj"/>`,
+		"content": `<path class="lbclqhbsm"/>`,
 		"fallback": "mingcute:danmaku-on-line",
 	});
 }

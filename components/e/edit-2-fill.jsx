@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kqod50btl.css';
+import '../../css/y/yprd_cbpx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kqod50btl"/>`,
+		"content": `<path class="yprd_cbpx"/>`,
 		"fallback": "mingcute:edit-2-fill",
 	});
 }

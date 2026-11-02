@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q-uovxbcy.css';
+import '../../css/s/sxikenb6q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q-uovxbcy"/>`,
+		"content": `<path class="sxikenb6q"/>`,
 		"fallback": "mingcute:google-gemini-fill",
 	});
 }

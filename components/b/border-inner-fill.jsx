@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cu2di8bob.css';
+import '../../css/g/glkt4nbay.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cu2di8bob"/>`,
+		"content": `<path class="glkt4nbay"/>`,
 		"fallback": "mingcute:border-inner-fill",
 	});
 }

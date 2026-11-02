@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fg14hfbad.css';
+import '../../css/f/f32zxbc_u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fg14hfbad"/>`,
+		"content": `<path class="f32zxbc_u"/>`,
 		"fallback": "mingcute:book-5-line",
 	});
 }

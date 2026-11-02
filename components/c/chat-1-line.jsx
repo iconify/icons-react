@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qzed_32fq.css';
+import '../../css/q/qstwzrbnk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qzed_32fq"/>`,
+		"content": `<path class="qstwzrbnk"/>`,
 		"fallback": "mingcute:chat-1-line",
 	});
 }

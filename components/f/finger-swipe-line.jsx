@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/irve6l9sy.css';
+import '../../css/v/vl_edabcw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="irve6l9sy"/>`,
+		"content": `<path class="vl_edabcw"/>`,
 		"fallback": "mingcute:finger-swipe-line",
 	});
 }

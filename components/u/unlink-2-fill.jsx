@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ylog8lipq.css';
+import '../../css/x/x_kme4g_e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ylog8lipq"/>`,
+		"content": `<path class="x_kme4g_e"/>`,
 		"fallback": "mingcute:unlink-2-fill",
 	});
 }

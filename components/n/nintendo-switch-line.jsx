@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/soe3d3biv.css';
-import '../../css/o/ouvk3bb1u.css';
+import '../../css/y/y2bxj9bez.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="soe3d3biv"/><path class="ouvk3bb1u"/>`,
+		"content": `<path class="y2bxj9bez"/>`,
 		"fallback": "mingcute:nintendo-switch-line",
 	});
 }

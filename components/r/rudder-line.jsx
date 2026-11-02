@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fvjbrz5oz.css';
+import '../../css/k/kpt8t_sgw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fvjbrz5oz"/>`,
+		"content": `<path class="kpt8t_sgw"/>`,
 		"fallback": "mingcute:rudder-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i7sr6ib-j.css';
+import '../../css/o/ot7fqob2c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i7sr6ib-j"/>`,
+		"content": `<path class="ot7fqob2c"/>`,
 		"fallback": "mingcute:presentation-1-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jk-wzp8cc.css';
+import '../../css/r/r-g5kwbik.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jk-wzp8cc"/>`,
+		"content": `<path class="r-g5kwbik"/>`,
 		"fallback": "mingcute:homepod-mini-line",
 	});
 }

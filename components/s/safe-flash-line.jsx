@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x1pb_cbyb.css';
+import '../../css/t/tjfa6i3ef.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x1pb_cbyb"/>`,
+		"content": `<path class="tjfa6i3ef"/>`,
 		"fallback": "mingcute:safe-flash-line",
 	});
 }

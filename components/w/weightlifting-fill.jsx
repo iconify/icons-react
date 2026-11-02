@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cmc7_aczv.css';
-import '../../css/d/d30tv5bpb.css';
-import '../../css/s/ssc_8on_a.css';
+import '../../css/s/s4hid8bgs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cmc7_aczv"/><path clip-rule="evenodd" class="d30tv5bpb"/><path class="ssc_8on_a"/>`,
+		"content": `<path class="s4hid8bgs"/>`,
 		"fallback": "mingcute:weightlifting-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z5tvhacpb.css';
+import '../../css/l/lo585-bjn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z5tvhacpb"/>`,
+		"content": `<path class="lo585-bjn"/>`,
 		"fallback": "mingcute:diary-line",
 	});
 }

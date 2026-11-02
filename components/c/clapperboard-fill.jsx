@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ofo4tbb3m.css';
+import '../../css/j/j7mm-nbpt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ofo4tbb3m"/>`,
+		"content": `<path class="j7mm-nbpt"/>`,
 		"fallback": "mingcute:clapperboard-fill",
 	});
 }

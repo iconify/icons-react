@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hcysl7box.css';
+import '../../css/d/d2p1vc5cp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="hcysl7box"/>`,
+		"content": `<path class="d2p1vc5cp"/>`,
 		"fallback": "mingcute:burj-khalifa-tower-fill",
 	});
 }

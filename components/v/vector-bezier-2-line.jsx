@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/ga2dxowpa.css';
+import '../../css/z/zdnn1hg-d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ga2dxowpa"/>`,
+		"content": `<path class="zdnn1hg-d"/>`,
 		"fallback": "mingcute:vector-bezier-2-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r-25xw8du.css';
+import '../../css/a/aqf70vd_c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r-25xw8du"/>`,
+		"content": `<path class="aqf70vd_c"/>`,
 		"fallback": "mingcute:history-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u-j5vklnh.css';
+import '../../css/v/v3qt8gsqa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u-j5vklnh"/>`,
+		"content": `<path class="v3qt8gsqa"/>`,
 		"fallback": "mingcute:high-voltage-power-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/crd2_n-ve.css';
+import '../../css/k/k0lybsbje.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="crd2_n-ve"/>`,
+		"content": `<path class="k0lybsbje"/>`,
 		"fallback": "mingcute:red-packet-line",
 	});
 }

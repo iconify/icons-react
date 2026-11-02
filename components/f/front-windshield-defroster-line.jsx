@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k6vxfeb_d.css';
+import '../../css/d/d_p2-wb2t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k6vxfeb_d"/>`,
+		"content": `<path class="d_p2-wb2t"/>`,
 		"fallback": "mingcute:front-windshield-defroster-line",
 	});
 }

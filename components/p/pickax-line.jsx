@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dhwnvm0_h.css';
+import '../../css/t/ti_d_mbqj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dhwnvm0_h"/>`,
+		"content": `<path class="ti_d_mbqj"/>`,
 		"fallback": "mingcute:pickax-line",
 	});
 }

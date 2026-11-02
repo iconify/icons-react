@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/ti42iobpp.css';
-import '../../css/w/w3z640blx.css';
-import '../../css/b/b_fzd2v5j.css';
+import '../../css/s/sxdbxebbj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ti42iobpp"/><path class="w3z640blx"/><path class="b_fzd2v5j"/>`,
+		"content": `<path class="sxdbxebbj"/>`,
 		"fallback": "mingcute:flash-circle-line",
 	});
 }

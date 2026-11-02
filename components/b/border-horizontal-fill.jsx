@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zj-fh3btt.css';
+import '../../css/k/k3anj3bgt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zj-fh3btt"/>`,
+		"content": `<path class="k3anj3bgt"/>`,
 		"fallback": "mingcute:border-horizontal-fill",
 	});
 }

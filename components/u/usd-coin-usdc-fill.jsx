@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rws-_wbjn.css';
+import '../../css/x/x9-1teouy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rws-_wbjn"/>`,
+		"content": `<path class="x9-1teouy"/>`,
 		"fallback": "mingcute:usd-coin-usdc-fill",
 	});
 }

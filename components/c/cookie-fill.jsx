@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ekym8_b2r.css';
+import '../../css/a/axsiesbbx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ekym8_b2r"/>`,
+		"content": `<path class="axsiesbbx"/>`,
 		"fallback": "mingcute:cookie-fill",
 	});
 }

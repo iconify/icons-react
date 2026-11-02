@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pjvz-qrwr.css';
+import '../../css/q/q-v4z3bkl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pjvz-qrwr"/>`,
+		"content": `<path class="q-v4z3bkl"/>`,
 		"fallback": "mingcute:emoji-2-fill",
 	});
 }

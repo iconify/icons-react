@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/ps1e0_brw.css';
+import '../../css/o/ozh610-un.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ps1e0_brw"/>`,
+		"content": `<path class="ozh610-un"/>`,
 		"fallback": "mingcute:user-pin-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gsut6wb8t.css';
+import '../../css/h/h0b08wrvf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gsut6wb8t"/>`,
+		"content": `<path class="h0b08wrvf"/>`,
 		"fallback": "mingcute:folding-fan-line",
 	});
 }

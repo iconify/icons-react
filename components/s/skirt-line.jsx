@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nsl32d72m.css';
+import '../../css/i/iu-erx86y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nsl32d72m"/>`,
+		"content": `<path class="iu-erx86y"/>`,
 		"fallback": "mingcute:skirt-line",
 	});
 }

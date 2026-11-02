@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pmx-s5blk.css';
+import '../../css/s/s_pik8fnc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pmx-s5blk"/>`,
+		"content": `<path class="s_pik8fnc"/>`,
 		"fallback": "mingcute:emoji-fill",
 	});
 }

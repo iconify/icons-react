@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cqhs-rbdo.css';
+import '../../css/x/x54yklbqk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cqhs-rbdo"/>`,
+		"content": `<path class="x54yklbqk"/>`,
 		"fallback": "mingcute:eraser-ai-line",
 	});
 }

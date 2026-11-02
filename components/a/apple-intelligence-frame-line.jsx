@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jjr9i_a7v.css';
-import '../../css/m/m5y4f8bjk.css';
+import '../../css/r/rmq_8zrle.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<rect class="jjr9i_a7v"/><path class="m5y4f8bjk"/>`,
+		"content": `<path class="rmq_8zrle"/>`,
 		"fallback": "mingcute:apple-intelligence-frame-line",
 	});
 }

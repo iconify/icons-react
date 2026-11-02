@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wnkdo2gun.css';
+import '../../css/m/mc7_h46hz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wnkdo2gun"/>`,
+		"content": `<path class="mc7_h46hz"/>`,
 		"fallback": "mingcute:swimming-pool-line",
 	});
 }

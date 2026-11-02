@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/ddvka3bld.css';
+import '../../css/c/cp6_omz3i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ddvka3bld"/>`,
+		"content": `<path class="cp6_omz3i"/>`,
 		"fallback": "mingcute:usb-line",
 	});
 }

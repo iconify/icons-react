@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hcilopbey.css';
+import '../../css/a/ay2pi0bpt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hcilopbey"/>`,
+		"content": `<path class="ay2pi0bpt"/>`,
 		"fallback": "mingcute:xrp-fill",
 	});
 }

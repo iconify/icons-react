@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ihvzegruc.css';
+import '../../css/s/sfm0fpb3v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ihvzegruc"/>`,
+		"content": `<path class="sfm0fpb3v"/>`,
 		"fallback": "mingcute:git-branch-line",
 	});
 }

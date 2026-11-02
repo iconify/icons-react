@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/db0ssxsmu.css';
+import '../../css/v/vdcssabnl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="db0ssxsmu"/>`,
+		"content": `<path class="vdcssabnl"/>`,
 		"fallback": "mingcute:forbid-circle-line",
 	});
 }

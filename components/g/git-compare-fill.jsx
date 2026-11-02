@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d2oymvbqz.css';
+import '../../css/v/vdjb4f5fe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d2oymvbqz"/>`,
+		"content": `<path class="vdjb4f5fe"/>`,
 		"fallback": "mingcute:git-compare-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i4hxffrur.css';
+import '../../css/l/l_oo315vk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="i4hxffrur"/>`,
+		"content": `<path class="l_oo315vk"/>`,
 		"fallback": "mingcute:round-fill",
 	});
 }

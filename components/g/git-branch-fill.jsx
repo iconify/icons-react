@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n8djc38rd.css';
+import '../../css/w/w8a7vcc0f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n8djc38rd"/>`,
+		"content": `<path class="w8a7vcc0f"/>`,
 		"fallback": "mingcute:git-branch-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mfvh-zmer.css';
+import '../../css/k/kirqiqf8a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mfvh-zmer"/>`,
+		"content": `<path class="kirqiqf8a"/>`,
 		"fallback": "mingcute:clock-fill",
 	});
 }

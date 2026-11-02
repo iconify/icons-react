@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mbsmy68vk.css';
+import '../../css/h/hdr31ye6f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mbsmy68vk"/>`,
+		"content": `<path class="hdr31ye6f"/>`,
 		"fallback": "mingcute:eiffel-tower-line",
 	});
 }

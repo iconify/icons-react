@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rg8m7tbjz.css';
+import '../../css/m/myx2facns.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rg8m7tbjz"/>`,
+		"content": `<path class="myx2facns"/>`,
 		"fallback": "mingcute:layout-leftbar-close-fill",
 	});
 }

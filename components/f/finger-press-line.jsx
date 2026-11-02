@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u2kr22bcu.css';
+import '../../css/m/mzt3dg0_l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u2kr22bcu"/>`,
+		"content": `<path class="mzt3dg0_l"/>`,
 		"fallback": "mingcute:finger-press-line",
 	});
 }

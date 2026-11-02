@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q2x_3ebpa.css';
+import '../../css/l/lhz-0n1hf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q2x_3ebpa"/>`,
+		"content": `<path class="lhz-0n1hf"/>`,
 		"fallback": "mingcute:currency-bitcoin-2-line",
 	});
 }

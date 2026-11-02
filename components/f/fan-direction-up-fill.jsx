@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wt09b1byx.css';
+import '../../css/j/jf-55cwyl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wt09b1byx"/>`,
+		"content": `<path class="jf-55cwyl"/>`,
 		"fallback": "mingcute:fan-direction-up-fill",
 	});
 }

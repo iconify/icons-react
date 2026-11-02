@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tfko4vv9a.css';
+import '../../css/e/elmwj_b2p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tfko4vv9a"/>`,
+		"content": `<path class="elmwj_b2p"/>`,
 		"fallback": "mingcute:building-6-line",
 	});
 }

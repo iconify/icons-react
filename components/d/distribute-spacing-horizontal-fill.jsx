@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pi2dzkbac.css';
+import '../../css/p/p0in5lbks.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pi2dzkbac"/>`,
+		"content": `<path class="p0in5lbks"/>`,
 		"fallback": "mingcute:distribute-spacing-horizontal-fill",
 	});
 }

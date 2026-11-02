@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f2jo_5btr.css';
-import '../../css/m/muf1bphxu.css';
+import '../../css/s/sk_85gb6j.css';
+import '../../css/c/czwlbs76f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="f2jo_5btr"/><path class="muf1bphxu"/>`,
+		"content": `<path class="sk_85gb6j"/><path class="czwlbs76f"/>`,
 		"fallback": "mingcute:loading-3-fill",
 	});
 }

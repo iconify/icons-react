@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/plc_te-wm.css';
+import '../../css/g/grg9tgctz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="plc_te-wm"/>`,
+		"content": `<path class="grg9tgctz"/>`,
 		"fallback": "mingcute:hospital-line",
 	});
 }

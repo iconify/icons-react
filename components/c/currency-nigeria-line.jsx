@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n_2j2gw1e.css';
+import '../../css/e/es5tsw1hf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n_2j2gw1e"/>`,
+		"content": `<path class="es5tsw1hf"/>`,
 		"fallback": "mingcute:currency-nigeria-line",
 	});
 }

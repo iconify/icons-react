@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/knj52s_nk.css';
+import '../../css/t/tbc_5ab7p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="knj52s_nk"/>`,
+		"content": `<path class="tbc_5ab7p"/>`,
 		"fallback": "mingcute:layout-right-fill",
 	});
 }

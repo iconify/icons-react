@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jzv0wwgxn.css';
+import '../../css/h/hxqy_1fvp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jzv0wwgxn"/>`,
+		"content": `<path class="hxqy_1fvp"/>`,
 		"fallback": "mingcute:thermometer-fill",
 	});
 }

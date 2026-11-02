@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m310ahvgy.css';
+import '../../css/j/jo71ltb8t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m310ahvgy"/>`,
+		"content": `<path class="jo71ltb8t"/>`,
 		"fallback": "mingcute:battery-automotive-line",
 	});
 }

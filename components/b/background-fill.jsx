@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/ht-brkb7f.css';
+import '../../css/u/um_6sorma.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ht-brkb7f"/>`,
+		"content": `<path class="um_6sorma"/>`,
 		"fallback": "mingcute:background-fill",
 	});
 }

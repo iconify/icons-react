@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q5-fr6b_l.css';
+import '../../css/y/y4pvc_skn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q5-fr6b_l"/>`,
+		"content": `<path class="y4pvc_skn"/>`,
 		"fallback": "mingcute:border-horizontal-line",
 	});
 }

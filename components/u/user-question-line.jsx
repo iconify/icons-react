@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kht5u-kyt.css';
+import '../../css/m/mfgz6bbfy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kht5u-kyt"/>`,
+		"content": `<path class="mfgz6bbfy"/>`,
 		"fallback": "mingcute:user-question-line",
 	});
 }

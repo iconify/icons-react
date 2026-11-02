@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gimaec7ca.css';
+import '../../css/b/b26hqzblr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gimaec7ca"/>`,
+		"content": `<path class="b26hqzblr"/>`,
 		"fallback": "mingcute:egyptian-pyramids-line",
 	});
 }

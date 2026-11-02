@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mvgx_ibgf.css';
+import '../../css/j/jvzk9s--e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mvgx_ibgf"/>`,
+		"content": `<path class="jvzk9s--e"/>`,
 		"fallback": "mingcute:direction-arrow-line",
 	});
 }

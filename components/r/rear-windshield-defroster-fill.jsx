@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ub-rgf-9w.css';
+import '../../css/m/m68lqw2ts.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ub-rgf-9w"/>`,
+		"content": `<path class="m68lqw2ts"/>`,
 		"fallback": "mingcute:rear-windshield-defroster-fill",
 	});
 }

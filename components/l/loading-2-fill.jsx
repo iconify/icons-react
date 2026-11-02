@@ -1,8 +1,13 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/p/pn2ogq_7k.css';
-import '../../css/n/nyagzdb8y.css';
+import '../../css/f/fz_wa7byo.css';
+import '../../css/f/fhlupx00x.css';
+import '../../css/k/ka7tfjekq.css';
+import '../../css/e/eryeldb2m.css';
+import '../../css/h/hz9x32b5t.css';
+import '../../css/i/ivdvkcmlb.css';
+import '../../css/u/ut1eg1q1g.css';
+import '../../css/p/pflx05bzn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="pn2ogq_7k"/><path class="nyagzdb8y"/></g>`,
+		"content": `<path class="fz_wa7byo"/><path class="fhlupx00x"/><path class="ka7tfjekq"/><path class="eryeldb2m"/><path class="hz9x32b5t"/><path class="ivdvkcmlb"/><path class="ut1eg1q1g"/><path class="pflx05bzn"/>`,
 		"fallback": "mingcute:loading-2-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yxls03bja.css';
+import '../../css/f/f3tnxnbnb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yxls03bja"/>`,
+		"content": `<path class="f3tnxnbnb"/>`,
 		"fallback": "mingcute:baseball-fill",
 	});
 }

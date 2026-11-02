@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kj_kz5bpx.css';
+import '../../css/w/wiqcku4-j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kj_kz5bpx"/>`,
+		"content": `<path class="wiqcku4-j"/>`,
 		"fallback": "mingcute:snowflake-line",
 	});
 }

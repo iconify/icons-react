@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ibdr8ccft.css';
+import '../../css/o/odzrnjbfe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ibdr8ccft"/>`,
+		"content": `<path class="odzrnjbfe"/>`,
 		"fallback": "mingcute:folder-download-line",
 	});
 }

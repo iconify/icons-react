@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j9--6g2ow.css';
+import '../../css/i/iv46si9ls.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j9--6g2ow"/>`,
+		"content": `<path class="iv46si9ls"/>`,
 		"fallback": "mingcute:viber-messenger-fill",
 	});
 }

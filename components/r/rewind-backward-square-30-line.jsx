@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jaxm-tbrc.css';
+import '../../css/v/v8oilfbbh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jaxm-tbrc"/>`,
+		"content": `<path class="v8oilfbbh"/>`,
 		"fallback": "mingcute:rewind-backward-square-30-line",
 	});
 }

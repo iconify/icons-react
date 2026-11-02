@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v2i2c-bmx.css';
+import '../../css/j/jsnmn6bud.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v2i2c-bmx"/>`,
+		"content": `<path class="jsnmn6bud"/>`,
 		"fallback": "mingcute:corner-up-right-fill",
 	});
 }

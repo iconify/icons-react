@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/grmcd7z2z.css';
+import '../../css/t/tloiup0ky.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="grmcd7z2z"/>`,
+		"content": `<path class="tloiup0ky"/>`,
 		"fallback": "mingcute:add-circle-line",
 	});
 }

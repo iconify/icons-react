@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/re694ccje.css';
+import '../../css/n/n-xpgstal.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="re694ccje"/>`,
+		"content": `<path class="n-xpgstal"/>`,
 		"fallback": "mingcute:brain-line",
 	});
 }

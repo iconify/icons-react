@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ngrcr4m5m.css';
+import '../../css/a/a2ok74t7p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ngrcr4m5m"/>`,
+		"content": `<path class="a2ok74t7p"/>`,
 		"fallback": "mingcute:siri-frame-fill",
 	});
 }

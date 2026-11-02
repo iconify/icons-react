@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uin8x9ouj.css';
+import '../../css/v/vh5358bwu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uin8x9ouj"/>`,
+		"content": `<path class="vh5358bwu"/>`,
 		"fallback": "mingcute:laugh-line",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h1cd53nrv.css';
+import '../../css/h/hihomp6hz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h1cd53nrv"/>`,
+		"content": `<path class="hihomp6hz"/>`,
 		"fallback": "mingcute:mortarboard-fill",
 	});
 }

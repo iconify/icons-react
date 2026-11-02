@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rgbjdlmzo.css';
+import '../../css/d/ddd6gmb-z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rgbjdlmzo"/>`,
+		"content": `<path class="ddd6gmb-z"/>`,
 		"fallback": "mingcute:house-2-fill",
 	});
 }

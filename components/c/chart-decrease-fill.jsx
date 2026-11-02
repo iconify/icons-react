@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x-ccf1npc.css';
+import '../../css/c/c9c0taccq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x-ccf1npc"/>`,
+		"content": `<path class="c9c0taccq"/>`,
 		"fallback": "mingcute:chart-decrease-fill",
 	});
 }

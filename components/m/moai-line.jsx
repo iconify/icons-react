@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ox_hucdtk.css';
+import '../../css/q/q1m107bxm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ox_hucdtk"/>`,
+		"content": `<path class="q1m107bxm"/>`,
 		"fallback": "mingcute:moai-line",
 	});
 }

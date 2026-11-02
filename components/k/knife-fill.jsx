@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ax_-m_bti.css';
+import '../../css/u/ue5b__b5a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ax_-m_bti"/>`,
+		"content": `<path class="ue5b__b5a"/>`,
 		"fallback": "mingcute:knife-fill",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qrh1ln4gp.css';
+import '../../css/e/ev35-acdk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qrh1ln4gp"/>`,
+		"content": `<path class="ev35-acdk"/>`,
 		"fallback": "mingcute:sunset-line",
 	});
 }

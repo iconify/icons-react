@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/chyip73rw.css';
-import '../../css/i/iyrdw09zc.css';
+import '../../css/j/jypfwkbuw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="chyip73rw"/><path clip-rule="evenodd" class="iyrdw09zc"/>`,
+		"content": `<path class="jypfwkbuw"/>`,
 		"fallback": "mingcute:broom-line",
 	});
 }

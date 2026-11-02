@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t5ot12pbw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t5ot12pbw"/>`,
+		"content": `<style>.t5ot12pbw {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 12a9 9 0 1 0 18 0a9 9 0 0 0-18 0m6-1l3 3l3-3");
+}
+</style><path class="t5ot12pbw"/>`,
 		"fallback": "coolicons:circle-chevron-down-round",
 	});
 }

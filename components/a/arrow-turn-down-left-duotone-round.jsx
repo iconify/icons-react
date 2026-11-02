@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e0qnszbie.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e0qnszbie"/>`,
+		"content": `<style>.e0qnszbie {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m12 11l-5 5l5 5m5-18v9a4 4 0 0 1-4 4H7");
+}
+</style><path class="e0qnszbie"/>`,
 		"fallback": "coolicons:arrow-turn-down-left-duotone-round",
 	});
 }

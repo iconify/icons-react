@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y9qwkaj6s.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y9qwkaj6s"/>`,
+		"content": `<style>.y9qwkaj6s {
+  fill: currentColor;
+  d: path("M13 7v10a1 1 0 0 1-2 0V7a1 1 0 0 1 2 0");
+}
+</style><path class="y9qwkaj6s"/>`,
 		"fallback": "coolicons:divider-medium-bulk-round",
 	});
 }

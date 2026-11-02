@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qrjeuwbsk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qrjeuwbsk"/>`,
+		"content": `<style>.qrjeuwbsk {
+  fill: currentColor;
+  d: path("M6.894 6.447a1 1 0 1 1-1.788-.894l1-2a1 1 0 1 1 1.788.894Zm4 0a1 1 0 1 1-1.788-.894l1-2a1 1 0 1 1 1.788.894Zm4 0a1 1 0 1 1-1.788-.894l1-2a1 1 0 1 1 1.788.894ZM2 11a3 3 0 0 1 3-3h10c.856 0 1.667.36 2.236 1H19a3 3 0 1 1 0 6h-1.251a8.004 8.004 0 0 1-8.755 5.937A8.005 8.005 0 0 1 2 13Zm16 0v2h1a1 1 0 0 0 0-2Z");
+}
+</style><path class="qrjeuwbsk"/>`,
 		"fallback": "coolicons:coffee-fill-round",
 	});
 }

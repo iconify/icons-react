@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/powor1xqb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="powor1xqb"/>`,
+		"content": `<style>.powor1xqb {
+  fill: currentColor;
+  d: path("M7.099 7a5.003 5.003 0 0 1 9.802 0H17a5 5 0 0 1 5 5v4a5 5 0 0 1-1.464 3.536A5 5 0 0 1 17 21H7a5 5 0 0 1-5-5v-4a5 5 0 0 1 5-5ZM9.17 7h5.66a3.002 3.002 0 0 0-5.66 0");
+}
+</style><path class="powor1xqb"/>`,
 		"fallback": "coolicons:briefcase-fill-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zs59oehdn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zs59oehdn"/>`,
+		"content": `<style>.zs59oehdn {
+  fill: currentColor;
+  d: path("m14.414 11l.293.293a2.414 2.414 0 0 1 0 3.414l-6 6a3.828 3.828 0 0 1-5.414-5.414l6-6a2.414 2.414 0 0 1 3.414 0l.293.293l6.293-6.293a.999.999 0 1 1 1.414 1.414Z");
+}
+</style><path class="zs59oehdn"/>`,
 		"fallback": "coolicons:screwdriver-fill-round",
 	});
 }

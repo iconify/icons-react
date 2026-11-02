@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rxt3a99fj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rxt3a99fj"/>`,
+		"content": `<style>.rxt3a99fj {
+  fill: currentColor;
+  d: path("M12 2h2c1.317 0 2.748.335 3.707 1.293l3 3C21.665 7.252 22 8.683 22 10v4c0 1.317-.335 2.748-1.293 3.707l-3 3C16.748 21.665 15.317 22 14 22h-4c-1.317 0-2.748-.335-3.707-1.293l-3-3C2.335 16.748 2 15.317 2 14v-4c0-1.317.335-2.748 1.293-3.707l3-3C7.252 2.335 8.683 2 10 2Zm-1.067 11.519l-2.226-2.226a.999.999 0 1 0-1.414 1.414l3 3a1 1 0 0 0 1.475-.067l5-6a1 1 0 1 0-1.536-1.28Z");
+}
+</style><path class="rxt3a99fj"/>`,
 		"fallback": "coolicons:octagon-check-fill-round",
 	});
 }

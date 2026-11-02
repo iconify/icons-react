@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d2jy7ccqw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d2jy7ccqw"/>`,
+		"content": `<style>.d2jy7ccqw {
+  fill: currentColor;
+  d: path("M9 5v5h3a6 6 0 1 1-6 6a1 1 0 0 1 2 0a4 4 0 1 0 4-4H8a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h8a1 1 0 0 1 0 2Z");
+}
+</style><path class="d2jy7ccqw"/>`,
 		"fallback": "coolicons:number-5-bulk-round",
 	});
 }

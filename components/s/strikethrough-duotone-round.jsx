@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r_3kegdhc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r_3kegdhc"/>`,
+		"content": `<style>.r_3kegdhc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M16 6a5 5 0 1 0-8 6m8 0a5 5 0 0 1-8 6m-4-6h16");
+}
+</style><path class="r_3kegdhc"/>`,
 		"fallback": "coolicons:strikethrough-duotone-round",
 	});
 }

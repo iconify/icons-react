@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.trqwz6wjp {
+  fill: currentColor;
+  d: path("M6.543 8.617L5.168 6.555a1 1 0 0 1 1.664-1.11l1.5 2.25a10.02 10.02 0 0 1 7.336 0l1.5-2.25a1 1 0 0 1 1.664 1.11l-1.375 2.062a10.07 10.07 0 0 1 3.757 4.49A9.9 9.9 0 0 1 22 17a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1a9.9 9.9 0 0 1 .786-3.893a10.07 10.07 0 0 1 3.757-4.49M8 12a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2Zm8 0a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2Z");
+}
+</style><path class="trqwz6wjp"/>`,
+		"fallback": "coolicons:android-fill",
+	});
+}
+
+export default Component;

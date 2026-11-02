@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s7whn1bae.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s7whn1bae"/>`,
+		"content": `<style>.s7whn1bae {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M7 5v14M7 5h6a3 3 0 0 1 3 3v1a3 3 0 0 1-3 3H7m0 0h7a3 3 0 0 1 3 3v1a3 3 0 0 1-3 3H7M7 3v2m4-2v2M7 19v2m4-2v2");
+}
+</style><path class="s7whn1bae"/>`,
 		"fallback": "coolicons:currency-bitcoin-round",
 	});
 }

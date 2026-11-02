@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q8l-7zvse.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q8l-7zvse"/>`,
+		"content": `<style>.q8l-7zvse {
+  fill: currentColor;
+  d: path("m9 8.586l2.293-2.293a5.243 5.243 0 0 1 7.414 7.414L16.414 16ZM5.293 19.707a5.243 5.243 0 0 1 0-7.414L7.586 10L15 17.414L13.414 19H21a1 1 0 0 1 0 2H7a1 1 0 0 1-.707-.293Z");
+}
+</style><path class="q8l-7zvse"/>`,
 		"fallback": "coolicons:eraser-fill-round",
 	});
 }

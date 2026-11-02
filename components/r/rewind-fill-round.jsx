@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qouqbozat.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qouqbozat"/>`,
+		"content": `<style>.qouqbozat {
+  fill: currentColor;
+  d: path("M13 9v.101l4.457-2.673A2.998 2.998 0 0 1 22 9v6a3 3 0 0 1-4.543 2.572L13 14.899V15a3 3 0 0 1-4.543 2.572l-5-3a2.998 2.998 0 0 1 0-5.144l5-3A2.998 2.998 0 0 1 13 9");
+}
+</style><path class="qouqbozat"/>`,
 		"fallback": "coolicons:rewind-fill-round",
 	});
 }

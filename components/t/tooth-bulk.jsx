@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.zf89xgbyo {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M12 2.764C12.901 2.215 13.955 2 15 2a4.995 4.995 0 0 1 5 5a37 37 0 0 1-.161 3.662c-.164 1.634-.524 3.241-.688 4.875A35 35 0 0 0 19 19a3.001 3.001 0 0 1-6 0v-1a1 1 0 0 0-2 0v1a3 3 0 0 1-6 0a35 35 0 0 0-.151-3.463c-.164-1.634-.524-3.241-.688-4.875A37 37 0 0 1 4 7a4.995 4.995 0 0 1 5-5c1.045 0 2.099.215 3 .764");
+}
+</style><path class="zf89xgbyo"/>`,
+		"fallback": "coolicons:tooth-bulk",
+	});
+}
+
+export default Component;

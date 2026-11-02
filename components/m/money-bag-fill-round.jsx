@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y9jb1cbpn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y9jb1cbpn"/>`,
+		"content": `<style>.y9jb1cbpn {
+  fill: currentColor;
+  d: path("M9.234 7L7.143 3.514A.997.997 0 0 1 8 2h8a1 1 0 0 1 .857 1.514L14.766 7Zm6.18 2l3.293 3.293C19.665 13.252 20 14.683 20 16v2a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-2c0-1.317.335-2.748 1.293-3.707L8.586 9Z");
+}
+</style><path class="y9jb1cbpn"/>`,
 		"fallback": "coolicons:money-bag-fill-round",
 	});
 }

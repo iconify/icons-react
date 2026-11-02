@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/roahvb2is.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="roahvb2is"/>`,
+		"content": `<style>.roahvb2is {
+  fill: currentColor;
+  d: path("M21.707 10.293a2.414 2.414 0 0 1 0 3.414l-8 8a2.414 2.414 0 0 1-3.414 0l-8-8a2.414 2.414 0 0 1 0-3.414l8-8a2.414 2.414 0 0 1 3.414 0Z");
+}
+</style><path class="roahvb2is"/>`,
 		"fallback": "coolicons:component-instance-fill-round",
 	});
 }

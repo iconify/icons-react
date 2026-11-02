@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ad6t1ls9e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ad6t1ls9e"/>`,
+		"content": `<style>.ad6t1ls9e {
+  fill: currentColor;
+  d: path("M16 2a5 5 0 0 1 5 5v3c-.001 5.712-3.495 9.647-8.594 11.914a1 1 0 0 1-.812 0C6.495 19.647 3.001 15.712 3 10V7a5 5 0 0 1 5-5Zm-1 7.267V9a3 3 0 1 0-6 0v.267A2 2 0 0 0 8 11v2a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2v-2c0-.715-.38-1.376-1-1.733M13 9h-2a1 1 0 0 1 2 0");
+}
+</style><path class="ad6t1ls9e"/>`,
 		"fallback": "coolicons:shield-lock-fill-round",
 	});
 }

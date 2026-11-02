@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/m/mx9hxde4b.css';
-import '../../css/t/t_a1jrbwb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="mx9hxde4b"/><path class="t_a1jrbwb"/></g>`,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.mx9hxde4b {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M2.954 16.131A9.946 9.946 0 0 1 19.032 4.968A9.945 9.945 0 0 1 7.869 21.046l-4.673.935a1 1 0 0 1-1.177-1.177Z");
+}
+
+.t_a1jrbwb {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 16a8.944 8.944 0 1 1 4 4l-5 1Zm5-7l6 6m0-6l-6 6");
+}
+</style><g class="ft5dv1b6b"><path class="mx9hxde4b"/><path class="t_a1jrbwb"/></g>`,
 		"fallback": "coolicons:chat-circle-close-duotone-round",
 	});
 }

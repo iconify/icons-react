@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.wyjf21cly {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 5h16v16H4Zm4-2v2m8-2v2M4 9h16M8 13h.01M8 17h.01M12 13h.01M12 17h.01M16 13h.01M16 17h.01");
+}
+
+.x3sp62bgi {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M3 9V5a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1");
+}
+</style><g class="ft5dv1b6b"><path class="x3sp62bgi"/><path class="wyjf21cly"/></g>`,
+		"fallback": "coolicons:calendar-days-duotone-sharp",
+	});
+}
+
+export default Component;

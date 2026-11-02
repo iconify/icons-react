@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tjvwrkxaa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tjvwrkxaa"/>`,
+		"content": `<style>.tjvwrkxaa {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M7 4v16M17 4l-8 8l8 8M7 12h2");
+}
+</style><path class="tjvwrkxaa"/>`,
 		"fallback": "coolicons:letter-k-round",
 	});
 }

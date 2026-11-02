@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/b/be48nj1pv.css';
-import '../../css/x/xk0yj8bdb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="be48nj1pv"/><path class="xk0yj8bdb"/></g>`,
+		"content": `<style>.be48nj1pv {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M5 18V9a7 7 0 1 1 14 0c0 1.529-.372 3.012-1.326 4.23c-.71.906-1.629 1.536-2.582 2.155c-.533.347-1.147.724-1.571 1.203c-.364.411-.521.864-.521 1.412a3.98 3.98 0 0 1-1.172 2.828A3.998 3.998 0 0 1 5 18");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.xk0yj8bdb {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M6 9a6 6 0 1 1 12 0c0 6-6 5-6 9a3 3 0 0 1-6 0m8-9a2 2 0 1 0-4 0c2 0 2 3 0 3");
+}
+</style><g class="ft5dv1b6b"><path class="be48nj1pv"/><path class="xk0yj8bdb"/></g>`,
 		"fallback": "coolicons:ear-duotone-round",
 	});
 }

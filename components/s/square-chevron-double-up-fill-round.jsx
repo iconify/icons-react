@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e39-0ub8d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e39-0ub8d"/>`,
+		"content": `<style>.e39-0ub8d {
+  fill: currentColor;
+  d: path("M2 7a5 5 0 0 1 5-5h10a5 5 0 0 1 5 5v10a5 5 0 0 1-1.464 3.536A5 5 0 0 1 17 22H7a5 5 0 0 1-5-5Zm12.293 3.707a.999.999 0 1 0 1.414-1.414l-3-3a.997.997 0 0 0-1.414 0l-3 3a.999.999 0 1 0 1.414 1.414L12 8.414Zm0 6a.999.999 0 1 0 1.414-1.414l-3-3a1 1 0 0 0-1.414 0l-3 3a.999.999 0 1 0 1.414 1.414L12 14.414Z");
+}
+</style><path class="e39-0ub8d"/>`,
 		"fallback": "coolicons:square-chevron-double-up-fill-round",
 	});
 }

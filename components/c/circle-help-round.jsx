@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c4lh6ebdk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c4lh6ebdk"/>`,
+		"content": `<style>.c4lh6ebdk {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 12a9 9 0 1 0 18 0a9 9 0 0 0-18 0m6-1a3 3 0 1 1 3 3m0 3h.01");
+}
+</style><path class="c4lh6ebdk"/>`,
 		"fallback": "coolicons:circle-help-round",
 	});
 }

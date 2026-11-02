@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nu9u27bcl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nu9u27bcl"/>`,
+		"content": `<style>.nu9u27bcl {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M7 6c3-1 7-1 10 0c.5 1 1 2 1 3c1-.5 2.5 0 3 1c-1 1-2 2-3 2c.5 1 1 2.5 1 5s-2 4-7 4s-7-1.5-7-4s.5-4 1-5c-1 0-2-1-3-2c.5-1 2-1.5 3-1c0-1 .5-2 1-3m0 0c-2.5-.5-4-1.5-4-3m14 3c2.5-.5 4-1.5 4-3M5.298 14C8.6 13 15.4 13 18.702 14M9 10h.01M15 10h.01M10 17h.01M14 17h.01");
+}
+</style><path class="nu9u27bcl"/>`,
 		"fallback": "coolicons:cow-round",
 	});
 }

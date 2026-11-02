@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/l/lkjj9mb_g.css';
-import '../../css/c/c09kvpbzs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="lkjj9mb_g"/><path class="c09kvpbzs"/></g>`,
+		"content": `<style>.c09kvpbzs {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m4 4l10 3l3 6l-4 4l-6-3Zm13 9l1 1a2.828 2.828 0 1 1-4 4l-1-1M4 4l4 4m3 3h.01");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.lkjj9mb_g {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("m4 4l10 3l3 6l-4 4l-6-3Z");
+}
+</style><g class="ft5dv1b6b"><path class="lkjj9mb_g"/><path class="c09kvpbzs"/></g>`,
 		"fallback": "coolicons:pen-tool-duotone-round",
 	});
 }

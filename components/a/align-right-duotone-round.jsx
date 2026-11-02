@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/y/ymuo3i5hu.css';
-import '../../css/k/kpc9-2j-e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="ymuo3i5hu"/><path class="kpc9-2j-e"/></g>`,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.kpc9-2j-e {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 7a3 3 0 0 1 3-3h6a3 3 0 0 1 0 6H7a3 3 0 0 1-3-3m4 10a3 3 0 0 1 3-3h2a3 3 0 0 1 0 6h-2a3 3 0 0 1-3-3M20 3v18");
+}
+
+.ymuo3i5hu {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M7 4h6a3 3 0 1 1 0 6H7a3 3 0 1 1 0-6m4 10h2a3 3 0 1 1 0 6h-2a3 3 0 1 1 0-6");
+}
+</style><g class="ft5dv1b6b"><path class="ymuo3i5hu"/><path class="kpc9-2j-e"/></g>`,
 		"fallback": "coolicons:align-right-duotone-round",
 	});
 }

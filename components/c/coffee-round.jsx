@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oobjjsbfy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oobjjsbfy"/>`,
+		"content": `<style>.oobjjsbfy {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 13v-2a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v2a7 7 0 0 1-14 0m14-3h2a2 2 0 1 1 0 4h-2M7 4L6 6m5-2l-1 2m5-2l-1 2");
+}
+</style><path class="oobjjsbfy"/>`,
 		"fallback": "coolicons:coffee-round",
 	});
 }

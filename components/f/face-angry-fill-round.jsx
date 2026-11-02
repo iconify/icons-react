@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u1j18jb1i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u1j18jb1i"/>`,
+		"content": `<style>.u1j18jb1i {
+  fill: currentColor;
+  d: path("M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12m8.447-2.894l-2-1a1 1 0 1 0-.894 1.788l2 1a1 1 0 1 0 .894-1.788m4 1.788l2-1a1 1 0 1 0-.894-1.788l-2 1a1 1 0 1 0 .894 1.788m-7.154 3.399a.999.999 0 1 0 1.414 1.414A4.64 4.64 0 0 1 12 14.343a4.64 4.64 0 0 1 3.293 1.364a.999.999 0 1 0 1.414-1.414a6.656 6.656 0 0 0-9.414 0");
+}
+</style><path class="u1j18jb1i"/>`,
 		"fallback": "coolicons:face-angry-fill-round",
 	});
 }

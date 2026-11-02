@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zpw68zb-y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zpw68zb-y"/>`,
+		"content": `<style>.zpw68zb-y {
+  fill: currentColor;
+  d: path("M15.707 20.707a5.243 5.243 0 0 1-7.414 0l-5-5a5.243 5.243 0 0 1 0-7.414l5-5a5.243 5.243 0 0 1 7.414 0l5 5a5.243 5.243 0 0 1 0 7.414Z");
+}
+</style><path class="zpw68zb-y"/>`,
 		"fallback": "coolicons:diamond-fill-round",
 	});
 }

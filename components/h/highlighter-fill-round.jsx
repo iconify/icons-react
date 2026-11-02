@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rv0ponhul.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rv0ponhul"/>`,
+		"content": `<style>.rv0ponhul {
+  fill: currentColor;
+  d: path("M10.293 6.293a5.243 5.243 0 0 1 7.414 7.414l-4 4a1 1 0 0 1-1.414 0L12 17.414l-2.293 2.293C8.992 20.422 8.039 21 7 21H4a2 2 0 0 1-2-2v-1c0-1.039.578-1.992 1.293-2.707L6.586 12l-.293-.293a.997.997 0 0 1 0-1.414ZM4.707 16.707C4.395 17.02 4 17.532 4 18v1h3c.468 0 .98-.395 1.293-.707L10.586 16L8 13.414Z");
+}
+</style><path class="rv0ponhul"/>`,
 		"fallback": "coolicons:highlighter-fill-round",
 	});
 }

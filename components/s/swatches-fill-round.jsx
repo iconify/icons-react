@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e21ipqbnu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e21ipqbnu"/>`,
+		"content": `<style>.e21ipqbnu {
+  fill: currentColor;
+  d: path("M2 7a5 5 0 0 1 9.985-.399l.308-.308a3.83 3.83 0 0 1 5.414 0l1 1a3.83 3.83 0 0 1 0 5.414l-.312.312A4 4 0 0 1 22 17v1a4 4 0 0 1-4 4H7a5 5 0 0 1-5-5Zm13.293 6.293l2-2a1.83 1.83 0 0 0 0-2.586l-1-1a1.83 1.83 0 0 0-2.586 0L12 9.414v7.172ZM18 20a2 2 0 0 0 2-2v-1a2 2 0 0 0-2-2h-1.586l-5 5ZM7 16a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2Z");
+}
+</style><path class="e21ipqbnu"/>`,
 		"fallback": "coolicons:swatches-fill-round",
 	});
 }

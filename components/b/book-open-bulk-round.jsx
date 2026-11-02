@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h76dexwai.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h76dexwai"/>`,
+		"content": `<style>.h76dexwai {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M9.293 18.707C8.737 18.152 7.749 18 7 18H6a4 4 0 0 1-4-4V9a5 5 0 0 1 5-5h1a4.99 4.99 0 0 1 4 1.998A4.99 4.99 0 0 1 16 4h1a5 5 0 0 1 5 5v5a4 4 0 0 1-4 4h-1c-.749 0-1.737.152-2.293.707l-2 2a1 1 0 0 1-1.414 0ZM11 15a1 1 0 0 0 2 0v-5a1 1 0 0 0-.133-.498l-.001-.002a1 1 0 0 0-1.731-.001l-.001.001A1 1 0 0 0 11 10Z");
+}
+</style><path class="h76dexwai"/>`,
 		"fallback": "coolicons:book-open-bulk-round",
 	});
 }

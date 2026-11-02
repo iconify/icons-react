@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y20p6kbnd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y20p6kbnd"/>`,
+		"content": `<style>.y20p6kbnd {
+  fill: currentColor;
+  d: path("M3 8a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v8a5 5 0 0 1-1.464 3.536A5 5 0 0 1 16 21H8a5 5 0 0 1-5-5Zm5-3a3 3 0 0 0-3 3v8a3.004 3.004 0 0 0 3 3h6V5Z");
+}
+</style><path class="y20p6kbnd"/>`,
 		"fallback": "coolicons:panel-right-fill-round",
 	});
 }

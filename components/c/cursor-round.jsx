@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vlp85eb2t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vlp85eb2t"/>`,
+		"content": `<style>.vlp85eb2t {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m12 6l6 2c1.107.369 1.738 1.631 1 2l-2 1c-.984.492-.984 2.016 0 3l2 2a1.414 1.414 0 0 1 0 2l-1 1a1.414 1.414 0 0 1-2 0l-2-2c-.984-.984-2.508-.984-3 0l-1 2c-.369.738-1.631.107-2-1L4 6c-.412-1.236.764-2.412 2-2z");
+}
+</style><path class="vlp85eb2t"/>`,
 		"fallback": "coolicons:cursor-round",
 	});
 }

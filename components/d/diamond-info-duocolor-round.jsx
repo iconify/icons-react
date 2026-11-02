@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/o/o_xv2lbek.css';
-import '../../css/g/g63hpbb4p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="o_xv2lbek"/><path class="g63hpbb4p"/></g>`,
+		"content": `<style>.g63hpbb4p {
+  d: path("m17 18l-2 2a4.243 4.243 0 0 1-6 0l-5-5a4.243 4.243 0 0 1 0-6l5-5a4.243 4.243 0 0 1 6 0l5 5a4.243 4.243 0 0 1 0 6z");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.o_xv2lbek {
+  stroke-opacity: 0.4;
+  d: path("M12 8h.01M12 11v4");
+}
+</style><g class="nrj6p8qat"><path class="o_xv2lbek"/><path class="g63hpbb4p"/></g>`,
 		"fallback": "coolicons:diamond-info-duocolor-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vady1na6l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vady1na6l"/>`,
+		"content": `<style>.vady1na6l {
+  fill: currentColor;
+  d: path("M9 17V7c0-.633.184-1.247.536-1.774a3.44 3.44 0 0 1 1.328-1.154c1.126-.563 2.463-.526 3.583.034A3.21 3.21 0 0 1 16.236 7a3.21 3.21 0 0 1-1.789 2.894L11 11.618V17a1 1 0 0 1-2 0m-2 2c0 .048.049.099.078.133c.335.396 1.086.629 1.572.731c1.139.241 2.674.184 3.731-.344c.197-.099.397-.217.541-.387c.029-.034.078-.085.078-.133a1 1 0 0 1 2 0c0 .53-.211 1.023-.551 1.424c-1.78 2.103-7.118 2.103-8.898 0C5.211 20.023 5 19.53 5 19a1 1 0 0 1 2 0");
+}
+</style><path class="vady1na6l"/>`,
 		"fallback": "coolicons:golf-fill-round",
 	});
 }

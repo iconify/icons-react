@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b9clepwnv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b9clepwnv"/>`,
+		"content": `<style>.b9clepwnv {
+  fill: currentColor;
+  d: path("M2 18V3.414l3.293 3.293a.999.999 0 1 0 1.414-1.414L3.414 2H18c.265 0 .52.105.707.293l3 3A1 1 0 0 1 22 6v15a1 1 0 0 1-1 1H6a1 1 0 0 1-.707-.293l-3-3A1 1 0 0 1 2 18M20 8a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1Zm-10 9v-7a.999.999 0 0 1 1.814-.581L15 13.88V10a1 1 0 0 1 2 0v7a.999.999 0 0 1-1.814.581L12 13.12V17a1 1 0 0 1-2 0");
+}
+</style><path class="b9clepwnv"/>`,
 		"fallback": "coolicons:notion-fill-round",
 	});
 }

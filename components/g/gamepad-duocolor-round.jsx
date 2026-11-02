@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/r/r8h3aabwm.css';
-import '../../css/y/yd5yxj9_b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="r8h3aabwm"/><path class="yd5yxj9_b"/></g>`,
+		"content": `<style>.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.r8h3aabwm {
+  stroke-opacity: 0.4;
+  d: path("M7 12h6m-3-3v6m6-1h.01M18 10h.01");
+}
+
+.yd5yxj9_b {
+  d: path("M3 9a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v6a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4Z");
+}
+</style><g class="nrj6p8qat"><path class="r8h3aabwm"/><path class="yd5yxj9_b"/></g>`,
 		"fallback": "coolicons:gamepad-duocolor-round",
 	});
 }

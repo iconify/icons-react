@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tbkhrhzzl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tbkhrhzzl"/>`,
+		"content": `<style>.tbkhrhzzl {
+  fill: currentColor;
+  d: path("M8 14V6a4 4 0 0 1 8 0v5a2 2 0 0 0 2-2V6a1 1 0 0 1 2 0v3a4 4 0 0 1-4 4v7h3a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2h3v-4a4 4 0 0 1-4-4V8a1 1 0 0 1 2 0v4a2 2 0 0 0 2 2");
+}
+</style><path class="tbkhrhzzl"/>`,
 		"fallback": "coolicons:cactus-fill-round",
 	});
 }

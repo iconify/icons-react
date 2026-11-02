@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/fo9rwymio.css';
-import '../../css/u/uloqrgb0d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="fo9rwymio"/><path class="uloqrgb0d"/></g>`,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.fo9rwymio {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M12 2h2c1.317 0 2.748.335 3.707 1.293l3 3C21.665 7.252 22 8.683 22 10v4c0 1.317-.335 2.748-1.293 3.707l-3 3C16.748 21.665 15.317 22 14 22h-4c-1.317 0-2.748-.335-3.707-1.293l-3-3C2.335 16.748 2 15.317 2 14v-4c0-1.317.335-2.748 1.293-3.707l3-3C7.252 2.335 8.683 2 10 2Z");
+}
+
+.uloqrgb0d {
+  d: path("M9.707 8.293L12 10.586l2.293-2.293a.999.999 0 1 1 1.414 1.414L13.414 12l2.293 2.293a.999.999 0 1 1-1.414 1.414L12 13.414l-2.293 2.293a.999.999 0 1 1-1.414-1.414L10.586 12L8.293 9.707a.999.999 0 1 1 1.414-1.414");
+}
+</style><g class="cuyn6tgcc"><path class="fo9rwymio"/><path class="uloqrgb0d"/></g>`,
 		"fallback": "coolicons:octagon-close-bulk-round",
 	});
 }

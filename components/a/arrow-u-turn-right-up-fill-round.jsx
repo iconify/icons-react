@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fwupfyc_f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fwupfyc_f"/>`,
+		"content": `<style>.fwupfyc_f {
+  fill: currentColor;
+  d: path("m15.707 2.293l4 4a.999.999 0 1 1-1.414 1.414L16 5.414V17a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5v-6a1 1 0 0 1 2 0v6a3 3 0 0 0 3 3h2c.796 0 1.559-.316 2.121-.879A3 3 0 0 0 14 17V5.414l-2.293 2.293a.999.999 0 1 1-1.414-1.414l4-4a1 1 0 0 1 1.405-.009z");
+}
+</style><path class="fwupfyc_f"/>`,
 		"fallback": "coolicons:arrow-u-turn-right-up-fill-round",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/s/sinucbbfo.css';
-import '../../css/j/jodp59bzf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="sinucbbfo"/><path class="jodp59bzf"/></g>`,
+		"content": `<style>.jodp59bzf {
+  d: path("M5 7a4 4 0 1 0 8 0a4 4 0 0 0-8 0M3 21a6 6 0 1 1 12 0");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.sinucbbfo {
+  stroke-opacity: 0.4;
+  d: path("M15 3a4 4 0 1 1 0 8m1 4c2.761 0 5 2.686 5 6");
+}
+</style><g class="nrj6p8qat"><path class="sinucbbfo"/><path class="jodp59bzf"/></g>`,
 		"fallback": "coolicons:users-duocolor-round",
 	});
 }

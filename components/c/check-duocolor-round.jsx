@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ld20vpmse.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ld20vpmse"/>`,
+		"content": `<style>.ld20vpmse {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m6 12l4 4l8-8");
+}
+</style><path class="ld20vpmse"/>`,
 		"fallback": "coolicons:check-duocolor-round",
 	});
 }

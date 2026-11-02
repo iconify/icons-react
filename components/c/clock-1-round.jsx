@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l3t8qpbvh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l3t8qpbvh"/>`,
+		"content": `<style>.l3t8qpbvh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 12a9 9 0 1 0 18 0a9 9 0 0 0-18 0m9-5v5l3-4");
+}
+</style><path class="l3t8qpbvh"/>`,
 		"fallback": "coolicons:clock-1-round",
 	});
 }

@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.o07v5m8qr {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M2 5a3 3 0 0 1 3-3h6a3 3 0 0 1 3 3v14a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3Z");
+}
+
+.q8he2i8hf {
+  d: path("M13 11h2a3 3 0 0 1 3 3v1a1 1 0 0 0 2 0V8c0-.468-.395-.98-.707-1.293l-2-2a.999.999 0 1 1 1.414-1.414l2 2C21.422 6.008 22 6.961 22 8v7a3 3 0 1 1-6 0v-1a.997.997 0 0 0-1-1h-2a1 1 0 0 1 0-2M9.8 8.6L8 11h2a.998.998 0 0 1 .8 1.6l-3 4a1 1 0 0 1-1.6-1.2L8 13H6a.998.998 0 0 1-.8-1.6l3-4a1 1 0 0 1 1.6 1.2");
+}
+</style><g class="cuyn6tgcc"><path class="o07v5m8qr"/><path class="q8he2i8hf"/></g>`,
+		"fallback": "coolicons:charging-station-bulk",
+	});
+}
+
+export default Component;

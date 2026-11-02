@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u58qtlurp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u58qtlurp"/>`,
+		"content": `<style>.u58qtlurp {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M5 14v2a4 4 0 0 0 4 4h6a4 4 0 0 0 4-4V9a3 3 0 0 0-3-3m-4 0H9a4 4 0 0 0-4 4m4-7l3 3l-3 3");
+}
+</style><path class="u58qtlurp"/>`,
 		"fallback": "coolicons:rotate-right-round",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/luvn0zfzk.css';
-import '../../css/n/n2tzskgxj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="luvn0zfzk"/><path class="n2tzskgxj"/></g>`,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.luvn0zfzk {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M20.475 15.233L8.243 3H16a5 5 0 0 1 5 5v5a5 5 0 0 1-.525 2.233M4.999 3.999l13.393 13.393c-.734.4-1.556.608-2.392.608H8a5 5 0 0 1-5-5V8c0-1.576.737-3.057 1.999-4.001");
+}
+
+.n2tzskgxj {
+  d: path("m3.707 1.293l19 19a.999.999 0 1 1-1.414 1.414l-19-19a.999.999 0 1 1 1.414-1.414M9 19h6a1 1 0 0 1 0 2H9a1 1 0 0 1 0-2");
+}
+</style><g class="cuyn6tgcc"><path class="luvn0zfzk"/><path class="n2tzskgxj"/></g>`,
 		"fallback": "coolicons:monitor-off-bulk-round",
 	});
 }

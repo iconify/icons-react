@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z0gd1lu9k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z0gd1lu9k"/>`,
+		"content": `<style>.z0gd1lu9k {
+  fill: currentColor;
+  d: path("m12 5.586l.293-.293a5.243 5.243 0 0 1 7.414 7.414l-4 4a5.243 5.243 0 0 1-7.414 0l-4-4a5.243 5.243 0 0 1 7.414-7.414Z");
+}
+</style><path class="z0gd1lu9k"/>`,
 		"fallback": "coolicons:heart-alt-fill-round",
 	});
 }

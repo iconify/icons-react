@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/e/ejfagnbsy.css';
-import '../../css/j/jrm76tm4n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ejfagnbsy"/><path class="jrm76tm4n"/></g>`,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.ejfagnbsy {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M20 12.829V15a7 7 0 1 1-14 0a1 1 0 0 1 2 0a5 5 0 1 0 10 0v-2.171a3 3 0 1 1 2 0M19 11a1 1 0 1 0 0-2a1 1 0 0 0 0 2");
+}
+
+.jrm76tm4n {
+  d: path("M6 3v2a1 1 0 0 1-1.867.498A1 1 0 0 0 4 6v5a3 3 0 1 0 6 0V6a1 1 0 0 0-.133-.502A1 1 0 0 1 8 5V3a1 1 0 0 1 2 0v.171A3 3 0 0 1 12 6v5a5 5 0 0 1-10 0V6c0-1.27.803-2.405 2-2.829V3a1 1 0 0 1 2 0");
+}
+</style><g class="cuyn6tgcc"><path class="ejfagnbsy"/><path class="jrm76tm4n"/></g>`,
 		"fallback": "coolicons:stethoscope-bulk-round",
 	});
 }

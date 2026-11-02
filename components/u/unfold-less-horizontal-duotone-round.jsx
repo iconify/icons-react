@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vcfttybhh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vcfttybhh"/>`,
+		"content": `<style>.vcfttybhh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m5 16l4-4l-4-4m14 0l-4 4l4 4");
+}
+</style><path class="vcfttybhh"/>`,
 		"fallback": "coolicons:unfold-less-horizontal-duotone-round",
 	});
 }

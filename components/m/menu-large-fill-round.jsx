@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y2w3jzfpl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y2w3jzfpl"/>`,
+		"content": `<style>.y2w3jzfpl {
+  fill: currentColor;
+  d: path("M21 6a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2Zm0 5a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2Zm0 5a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2Z");
+}
+</style><path class="y2w3jzfpl"/>`,
 		"fallback": "coolicons:menu-large-fill-round",
 	});
 }

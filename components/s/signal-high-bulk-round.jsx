@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yugmclm0w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yugmclm0w"/>`,
+		"content": `<style>.yugmclm0w {
+  fill: currentColor;
+  d: path("M19 4v16a1 1 0 0 1-2 0V4a1 1 0 0 1 2 0m-6 4a1 1 0 0 1 2 0v12a1 1 0 0 1-2 0Zm-4 4a1 1 0 0 1 2 0v8a1 1 0 0 1-2 0Zm-4 4a1 1 0 0 1 2 0v4a1 1 0 0 1-2 0Z");
+}
+</style><path class="yugmclm0w"/>`,
 		"fallback": "coolicons:signal-high-bulk-round",
 	});
 }

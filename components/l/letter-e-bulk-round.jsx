@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/it9b3kbdf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="it9b3kbdf"/>`,
+		"content": `<style>.it9b3kbdf {
+  fill: currentColor;
+  d: path("M8 5v6h7a1 1 0 0 1 0 2H8v6h9a1 1 0 0 1 0 2H7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 0 2Z");
+}
+</style><path class="it9b3kbdf"/>`,
 		"fallback": "coolicons:letter-e-bulk-round",
 	});
 }

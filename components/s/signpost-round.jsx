@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cvhra_bzm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cvhra_bzm"/>`,
+		"content": `<style>.cvhra_bzm {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M10 6h5c1.28 0 2.36.36 3 1l1 1a1.414 1.414 0 0 1 0 2l-1 1c-.64.64-1.72 1-3 1H7a3 3 0 0 1 0-6zm2-3v3m0 6v9");
+}
+</style><path class="cvhra_bzm"/>`,
 		"fallback": "coolicons:signpost-round",
 	});
 }

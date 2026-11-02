@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mur--tena.css';
-import '../../css/w/wortxmbbk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="mur--tena"/><path class="wortxmbbk"/></g>`,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.mur--tena {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M6 14h12a4 4 0 0 1 0 8H6a4 4 0 0 1 0-8");
+}
+
+.wortxmbbk {
+  d: path("m12.01 6.424l-.003.002a7 7 0 0 0-.3.281a.999.999 0 1 1-1.414-1.414q.144-.144.296-.282a8.073 8.073 0 0 1 11.118.282a1.002 1.002 0 0 1-1.414 1.414a6.065 6.065 0 0 0-8.283-.283m5.283 3.283l-.002-.001a1.83 1.83 0 0 0-2.584.001a.999.999 0 1 1-1.414-1.414l.001-.001a3.825 3.825 0 0 1 5.413.001a.999.999 0 1 1-1.414 1.414M17 15a1 1 0 0 1-2 0v-3a1 1 0 0 1 2 0Zm-9.99 2a1 1 0 0 1 0 2H7a1 1 0 0 1 0-2Zm4 0a1 1 0 0 1 0 2H11a1 1 0 0 1 0-2Z");
+}
+</style><g class="cuyn6tgcc"><path class="mur--tena"/><path class="wortxmbbk"/></g>`,
 		"fallback": "coolicons:router-bulk-round",
 	});
 }

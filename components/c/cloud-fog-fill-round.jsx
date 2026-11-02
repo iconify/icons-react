@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kgd96-8ux.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kgd96-8ux"/>`,
+		"content": `<style>.kgd96-8ux {
+  fill: currentColor;
+  d: path("M7 16a5 5 0 0 1-4.987-4.646a5 5 0 0 1 4.282-5.305a6.58 6.58 0 0 1 2.773-3.121a6.75 6.75 0 0 1 4.33-.792c2.381.358 4.323 1.911 5.151 4.18c.21.58.346 1.184.407 1.799A4 4 0 0 1 18 16Zm12 1a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Zm-2 3a1 1 0 0 1 0 2H7a1 1 0 0 1 0-2Z");
+}
+</style><path class="kgd96-8ux"/>`,
 		"fallback": "coolicons:cloud-fog-fill-round",
 	});
 }

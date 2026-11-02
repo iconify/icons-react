@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/ve53p6bmv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ve53p6bmv"/>`,
+		"content": `<style>.ve53p6bmv {
+  fill: currentColor;
+  d: path("M17.237 6.005A5 5 0 0 1 22 11v1a1 1 0 0 1-1.447.894A1.237 1.237 0 0 0 18.764 14a1.232 1.232 0 0 0 1.789 1.106A1 1 0 0 1 22 16v1a5 5 0 0 1-1.464 3.536A5 5 0 0 1 17 22h-6a5 5 0 0 1-4.995-4.763a3.237 3.237 0 1 1 0-6.474a5 5 0 0 1 4.758-4.758a3.237 3.237 0 1 1 6.474 0");
+}
+</style><path class="ve53p6bmv"/>`,
 		"fallback": "coolicons:puzzle-fill-round",
 	});
 }

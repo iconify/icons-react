@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oivi-4bfl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oivi-4bfl"/>`,
+		"content": `<style>.oivi-4bfl {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 16a8.944 8.944 0 1 1 4 4l-5 1Zm4-4l3 3l5-6");
+}
+</style><path class="oivi-4bfl"/>`,
 		"fallback": "coolicons:chat-circle-check-round",
 	});
 }

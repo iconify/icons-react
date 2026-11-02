@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/lseivboih.css';
-import '../../css/v/vdyirccfx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="lseivboih"/><path class="vdyirccfx"/></g>`,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.lseivboih {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M5 2h14a3 3 0 1 1 0 6H5a3 3 0 1 1 0-6");
+}
+
+.vdyirccfx {
+  d: path("M6 14a6 6 0 1 0 12 0V7a1 1 0 0 1 2 0v7a8 8 0 0 1-16 0V7a1 1 0 0 1 2 0Zm2.315-1.557a4.001 4.001 0 0 1 7.37 3.114a4.001 4.001 0 0 1-7.37-3.114m1.842 2.335a2 2 0 1 0 3.686-1.556a2 2 0 0 0-3.686 1.556M12 13h.01a1 1 0 0 1 0 2H12a1 1 0 0 1 0-2");
+}
+</style><g class="cuyn6tgcc"><path class="lseivboih"/><path class="vdyirccfx"/></g>`,
 		"fallback": "coolicons:cctv-bulk-round",
 	});
 }

@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ulfxfjbnb {
+  fill: currentColor;
+  d: path("m15.968 9.446l-6.522 6.522a4 4 0 1 1-1.414-1.414l6.522-6.522a4 4 0 1 1 1.414 1.414m1.254-1.603a2.001 2.001 0 0 0 1.556-3.686a2 2 0 0 0-1.556 3.686m-9.808 8.743a2 2 0 1 0-2.828 2.828a2 2 0 0 0 2.828-2.828");
+}
+</style><path class="ulfxfjbnb"/>`,
+		"fallback": "coolicons:path-fill-sharp",
+	});
+}
+
+export default Component;

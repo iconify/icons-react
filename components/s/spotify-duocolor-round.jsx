@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/c/cz7l42nhx.css';
-import '../../css/x/xtmvrk2bu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="cz7l42nhx"/><path class="xtmvrk2bu"/></g>`,
+		"content": `<style>.cz7l42nhx {
+  stroke-opacity: 0.4;
+  d: path("M3 12a9 9 0 1 0 18 0a9 9 0 0 0-18 0");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.xtmvrk2bu {
+  d: path("M7.2 8.426A13 13 0 0 1 17 9.742m-9.5 1.719a10 10 0 0 1 8.5 1.187m-8 1.814a7 7 0 0 1 7 1.176");
+}
+</style><g class="nrj6p8qat"><path class="cz7l42nhx"/><path class="xtmvrk2bu"/></g>`,
 		"fallback": "coolicons:spotify-duocolor-round",
 	});
 }

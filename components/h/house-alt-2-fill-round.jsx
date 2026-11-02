@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cgipwwbaw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cgipwwbaw"/>`,
+		"content": `<style>.cgipwwbaw {
+  fill: currentColor;
+  d: path("M4 13c0-1.317.335-2.748 1.293-3.707l3-3a5.243 5.243 0 0 1 7.414 0l3 3C19.665 10.252 20 11.683 20 13v6h1a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2h1Zm6 6h4v-3a2 2 0 1 0-4 0Z");
+}
+</style><path class="cgipwwbaw"/>`,
 		"fallback": "coolicons:house-alt-2-fill-round",
 	});
 }

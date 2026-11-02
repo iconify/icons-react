@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.rl10nzj9w {
+  fill: currentColor;
+  d: path("M13 21a1 1 0 0 1-2 0V5.354A4 4 0 1 0 8 12a1 1 0 0 1 0 2a5.9 5.9 0 0 1-2.336-.472A6 6 0 0 1 3.64 3.879A6 6 0 0 1 12 3.525a6.002 6.002 0 1 1 6.336 10.003A5.9 5.9 0 0 1 16 14a1 1 0 0 1 0-2a4 4 0 1 0-3-6.646Z");
+}
+</style><path class="rl10nzj9w"/>`,
+		"fallback": "coolicons:zodiac-aries-fill",
+	});
+}
+
+export default Component;

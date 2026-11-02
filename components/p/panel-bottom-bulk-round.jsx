@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/f--irmbsa.css';
-import '../../css/y/yfoootbiq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="f--irmbsa"/><path class="yfoootbiq"/></g>`,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.f--irmbsa {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M3 8a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v8a5 5 0 0 1-1.464 3.536A5 5 0 0 1 16 21H8a5 5 0 0 1-5-5Z");
+}
+
+.yfoootbiq {
+  d: path("M4 14h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2");
+}
+</style><g class="cuyn6tgcc"><path class="f--irmbsa"/><path class="yfoootbiq"/></g>`,
 		"fallback": "coolicons:panel-bottom-bulk-round",
 	});
 }

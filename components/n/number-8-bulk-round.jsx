@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w7573mrea.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w7573mrea"/>`,
+		"content": `<style>.w7573mrea {
+  fill: currentColor;
+  d: path("M12 12a4 4 0 1 0 0 8a4 4 0 0 0 0-8m-3.145-1.112A5.002 5.002 0 0 1 12 2a5.001 5.001 0 0 1 3.145 8.888A6.001 6.001 0 0 1 12 22a6 6 0 0 1-3.145-11.112M12 4a3 3 0 1 0 0 6a3 3 0 0 0 0-6");
+}
+</style><path class="w7573mrea"/>`,
 		"fallback": "coolicons:number-8-bulk-round",
 	});
 }

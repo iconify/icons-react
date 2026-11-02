@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/j/jpe7lzmwk.css';
-import '../../css/b/b2o18jb4y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="jpe7lzmwk"/><path class="b2o18jb4y"/></g>`,
+		"content": `<style>.b2o18jb4y {
+  d: path("M3 5a2 2 0 0 1 2-2h14a2 2 0 1 1 0 4H5a2 2 0 0 1-2-2m2 2v7a7 7 0 0 0 14 0V7");
+}
+
+.jpe7lzmwk {
+  stroke-opacity: 0.4;
+  d: path("M9 14a3 3 0 1 0 6 0a3 3 0 0 0-6 0m3 0h.01");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="nrj6p8qat"><path class="jpe7lzmwk"/><path class="b2o18jb4y"/></g>`,
 		"fallback": "coolicons:cctv-duocolor-round",
 	});
 }

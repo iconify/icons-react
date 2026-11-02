@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dc8t9bblx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dc8t9bblx"/>`,
+		"content": `<style>.dc8t9bblx {
+  fill: currentColor;
+  d: path("M15.145 10.888a6.001 6.001 0 1 1-8.673 7.448A5.9 5.9 0 0 1 6 16a1 1 0 0 1 2 0a4 4 0 1 0 4-4a1 1 0 0 1 0-2a3 3 0 1 0-3-3a1 1 0 0 1-2 0a5.002 5.002 0 0 1 9.746-1.574a5 5 0 0 1-1.601 5.462");
+}
+</style><path class="dc8t9bblx"/>`,
 		"fallback": "coolicons:number-3-bulk-round",
 	});
 }

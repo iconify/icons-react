@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/g/gtmr7ugch.css';
-import '../../css/q/qts689b8w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="gtmr7ugch"/><path class="qts689b8w"/></g>`,
+		"content": `<style>.gtmr7ugch {
+  stroke-opacity: 0.4;
+  d: path("M5 12h2m0 0h10m0 0h2");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.qts689b8w {
+  d: path("M4 3a15 15 0 0 1 0 18M20 3a15 15 0 0 0 0 18");
+}
+</style><g class="nrj6p8qat"><path class="gtmr7ugch"/><path class="qts689b8w"/></g>`,
 		"fallback": "coolicons:zodiac-pisces-duocolor-round",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/p/p_-fa49ll.css';
-import '../../css/z/z1x668frl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="p_-fa49ll"/><path class="z1x668frl"/></g>`,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.p_-fa49ll {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M2.236 4.832A3 3 0 1 1 7.763 7.17a3 3 0 0 1-5.527-2.338m0 12a3 3 0 1 1 5.527 2.338a3 3 0 0 1-5.527-2.338m14 0a3 3 0 1 1 5.527 2.338a3 3 0 0 1-5.527-2.338");
+}
+
+.z1x668frl {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 6a2 2 0 1 0 4 0a2 2 0 0 0-4 0m0 12a2 2 0 1 0 4 0a2 2 0 0 0-4 0m14 0a2 2 0 1 0 4 0a2 2 0 0 0-4 0M5 8v8m14-4v4M17 4l4 4m0-4l-4 4");
+}
+</style><g class="ft5dv1b6b"><path class="p_-fa49ll"/><path class="z1x668frl"/></g>`,
 		"fallback": "coolicons:git-pull-request-closed-duotone-round",
 	});
 }

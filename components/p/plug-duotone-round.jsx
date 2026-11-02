@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/q/qb9bnmh0z.css';
-import '../../css/k/kzlcwnntl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="qb9bnmh0z"/><path class="kzlcwnntl"/></g>`,
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.kzlcwnntl {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M6 11a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2a4 4 0 0 1-4 4h-4a4 4 0 0 1-4-4Zm6 6v4M9 3v4m6-4v4");
+}
+
+.qb9bnmh0z {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M6 11a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2a4 4 0 0 1-4 4h-4a4 4 0 0 1-4-4Z");
+}
+</style><g class="ft5dv1b6b"><path class="qb9bnmh0z"/><path class="kzlcwnntl"/></g>`,
 		"fallback": "coolicons:plug-duotone-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fb-pknbdx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fb-pknbdx"/>`,
+		"content": `<style>.fb-pknbdx {
+  fill: currentColor;
+  d: path("M5.035 6.401A5.004 5.004 0 0 1 10 2h4a5.004 5.004 0 0 1 4.965 4.401A4.99 4.99 0 0 1 22 11v3a4.01 4.01 0 0 1-3.002 3.875A4 4 0 0 1 15 22H9a4 4 0 0 1-3.998-4.125A4.006 4.006 0 0 1 2 14v-3a4.99 4.99 0 0 1 3.035-4.599M16.83 6A3.01 3.01 0 0 0 14 4h-4a3 3 0 0 0-2.83 2ZM10 10a1 1 0 0 0 0 2h4a1 1 0 0 0 0-2Zm-3 8a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2Z");
+}
+</style><path class="fb-pknbdx"/>`,
 		"fallback": "coolicons:printer-fill-round",
 	});
 }

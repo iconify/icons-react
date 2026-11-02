@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t-5xk6bmx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t-5xk6bmx"/>`,
+		"content": `<style>.t-5xk6bmx {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M5 12a7 7 0 1 1 14 0a7 7 0 0 1-14 0");
+}
+</style><path class="t-5xk6bmx"/>`,
 		"fallback": "coolicons:circle-medium-bulk-round",
 	});
 }

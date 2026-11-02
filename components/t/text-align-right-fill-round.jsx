@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/en9t1ybbw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="en9t1ybbw"/>`,
+		"content": `<style>.en9t1ybbw {
+  fill: currentColor;
+  d: path("M20 5a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2Zm0 4a1 1 0 0 1 0 2H10a1 1 0 0 1 0-2Zm0 4a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2Zm0 4a1 1 0 0 1 0 2H10a1 1 0 0 1 0-2Z");
+}
+</style><path class="en9t1ybbw"/>`,
 		"fallback": "coolicons:text-align-right-fill-round",
 	});
 }

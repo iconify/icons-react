@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/riazaaboq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="riazaaboq"/>`,
+		"content": `<style>.riazaaboq {
+  fill: currentColor;
+  d: path("M6 8a6 6 0 1 1 12 0A6 6 0 0 1 6 8m14 14H4a1 1 0 0 1-1-1c0-.829.336-1.577.865-2.203c.552-.651 1.272-1.14 2.031-1.52C7.741 16.355 9.953 16 12 16s4.259.355 6.104 1.277c.759.38 1.479.869 2.031 1.52c.529.626.865 1.374.865 2.203a1 1 0 0 1-1 1");
+}
+</style><path class="riazaaboq"/>`,
 		"fallback": "coolicons:user-alt-fill-round",
 	});
 }

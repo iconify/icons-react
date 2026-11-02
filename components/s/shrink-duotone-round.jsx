@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oxng05b5j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oxng05b5j"/>`,
+		"content": `<style>.oxng05b5j {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M20 10h-6V4M4 14h6v6");
+}
+</style><path class="oxng05b5j"/>`,
 		"fallback": "coolicons:shrink-duotone-round",
 	});
 }

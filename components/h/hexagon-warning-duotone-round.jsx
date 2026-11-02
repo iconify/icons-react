@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/c/cgha4ub1e.css';
-import '../../css/m/moirqe6hf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="cgha4ub1e"/><path class="moirqe6hf"/></g>`,
+		"content": `<style>.cgha4ub1e {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M20 12v3c-.001 1.305-.863 2.431-2 3l-4 2a4.47 4.47 0 0 1-4 0l-4-2c-1.137-.569-1.999-1.695-2-3V9c.001-1.305.863-2.431 2-3l4-2a4.47 4.47 0 0 1 4 0l4 2c1.137.569 1.999 1.695 2 3Z");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.moirqe6hf {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M20 12v3c0 1.226-.774 2.387-2 3l-4 2a4.47 4.47 0 0 1-4 0l-4-2c-1.226-.613-2-1.774-2-3V9c0-1.226.774-2.387 2-3l4-2a4.47 4.47 0 0 1 4 0l4 2c1.226.613 2 1.774 2 3zm-8-3v4m0 3h.01");
+}
+</style><g class="ft5dv1b6b"><path class="cgha4ub1e"/><path class="moirqe6hf"/></g>`,
 		"fallback": "coolicons:hexagon-warning-duotone-round",
 	});
 }

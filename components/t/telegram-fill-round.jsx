@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jbu9v-bjr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jbu9v-bjr"/>`,
+		"content": `<style>.jbu9v-bjr {
+  fill: currentColor;
+  d: path("m2.638 10.068l18-7a1 1 0 0 1 1.332 1.175l-4 16a1 1 0 0 1-1.677.464l-4.185-4.185L9.8 19.6a1 1 0 0 1-1.749-.284l-1.869-5.607l-3.629-1.815a.999.999 0 0 1 .085-1.826m9.069 4.639l3-3a.999.999 0 1 0-1.414-1.414l-3 3a.999.999 0 1 0 1.414 1.414");
+}
+</style><path class="jbu9v-bjr"/>`,
 		"fallback": "coolicons:telegram-fill-round",
 	});
 }

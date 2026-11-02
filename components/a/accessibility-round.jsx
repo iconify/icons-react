@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cao1pl0kz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cao1pl0kz"/>`,
+		"content": `<style>.cao1pl0kz {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 12a9 9 0 1 0 18 0a9 9 0 0 0-18 0m8-4a1 1 0 1 0 2 0a1 1 0 0 0-2 0m-4 4h10m-5 0v2l-3 3m3-3l3 3");
+}
+</style><path class="cao1pl0kz"/>`,
 		"fallback": "coolicons:accessibility-round",
 	});
 }

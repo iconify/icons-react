@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gd18994yc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gd18994yc"/>`,
+		"content": `<style>.gd18994yc {
+  fill: currentColor;
+  d: path("M13 5v14a1 1 0 0 1-2 0V5a1 1 0 0 1 2 0");
+}
+</style><path class="gd18994yc"/>`,
 		"fallback": "coolicons:tally-1-bulk-round",
 	});
 }

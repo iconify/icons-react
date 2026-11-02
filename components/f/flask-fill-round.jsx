@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u6ultac4f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u6ultac4f"/>`,
+		"content": `<style>.u6ultac4f {
+  fill: currentColor;
+  d: path("M8 2h8a1 1 0 0 1 0 2h-1v4.764l3.894 7.789c.56 1.12.597 2.457.034 3.583a3.44 3.44 0 0 1-1.154 1.328A3.2 3.2 0 0 1 16 22H8c-1.967-.001-3.33-1.698-3.334-3.598a4.1 4.1 0 0 1 .44-1.849L9 8.764V4H8a1 1 0 0 1 0-2m3 7a1 1 0 0 1-.106.447L8.618 14h6.764l-2.276-4.553A1 1 0 0 1 13 9V4h-2Z");
+}
+</style><path class="u6ultac4f"/>`,
 		"fallback": "coolicons:flask-fill-round",
 	});
 }

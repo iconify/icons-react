@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yl1_hpqhg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yl1_hpqhg"/>`,
+		"content": `<style>.yl1_hpqhg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M12 8h2c1.393 0 2.602.806 3 2l2 6c.656 1.968-.868 4-3 4H8c-2.132 0-3.656-2.032-3-4l2-6c.398-1.194 1.204-2 2-2zm0 0a2 2 0 1 1 0-4m0 0a2 2 0 1 1 0 4");
+}
+</style><path class="yl1_hpqhg"/>`,
 		"fallback": "coolicons:weight-round",
 	});
 }

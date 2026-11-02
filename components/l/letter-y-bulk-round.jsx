@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m_p24pbfh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m_p24pbfh"/>`,
+		"content": `<style>.m_p24pbfh {
+  fill: currentColor;
+  d: path("m12 10.113l4.152-6.643a.998.998 0 0 1 1.731.061a1 1 0 0 1-.035.999L13 12.287V20a1 1 0 0 1-2 0v-7.713L6.152 4.53a1 1 0 0 1 1.696-1.06Z");
+}
+</style><path class="m_p24pbfh"/>`,
 		"fallback": "coolicons:letter-y-bulk-round",
 	});
 }

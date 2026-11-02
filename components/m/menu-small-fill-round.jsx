@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/ksasmkh2r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ksasmkh2r"/>`,
+		"content": `<style>.ksasmkh2r {
+  fill: currentColor;
+  d: path("M17 7a1 1 0 0 1 0 2H7a1 1 0 0 1 0-2Zm0 4a1 1 0 0 1 0 2H7a1 1 0 0 1 0-2Zm0 4a1 1 0 0 1 0 2H7a1 1 0 0 1 0-2Z");
+}
+</style><path class="ksasmkh2r"/>`,
 		"fallback": "coolicons:menu-small-fill-round",
 	});
 }

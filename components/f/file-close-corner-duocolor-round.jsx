@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/l/l9ycfeb_j.css';
-import '../../css/v/v2_l12bpv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="l9ycfeb_j"/><path class="v2_l12bpv"/></g>`,
+		"content": `<style>.l9ycfeb_j {
+  stroke-opacity: 0.4;
+  d: path("m14 14l6 6m0-6l-6 6");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.v2_l12bpv {
+  d: path("M13 3H9a4 4 0 0 0-4 4v10a4 4 0 0 0 4 4m4-18l6 6m-6-6v4a2 2 0 0 0 2 2h4");
+}
+</style><g class="nrj6p8qat"><path class="l9ycfeb_j"/><path class="v2_l12bpv"/></g>`,
 		"fallback": "coolicons:file-close-corner-duocolor-round",
 	});
 }

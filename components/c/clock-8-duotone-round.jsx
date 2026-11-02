@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/ft5dv1b6b.css';
-import '../../css/s/sct98hluz.css';
-import '../../css/d/d3p653v9u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="sct98hluz"/><path class="d3p653v9u"/></g>`,
+		"content": `<style>.d3p653v9u {
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M3 12a9 9 0 1 0 18 0a9 9 0 0 0-18 0m9-5v5l-4 3");
+}
+
+.ft5dv1b6b {
+  fill: none;
+}
+
+.sct98hluz {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M3 12a9 9 0 0 1 9-9a9 9 0 0 1 9 9a9 9 0 0 1-9 9a9 9 0 0 1-9-9");
+}
+</style><g class="ft5dv1b6b"><path class="sct98hluz"/><path class="d3p653v9u"/></g>`,
 		"fallback": "coolicons:clock-8-duotone-round",
 	});
 }

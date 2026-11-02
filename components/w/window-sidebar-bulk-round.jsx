@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/q/qnq26wo8j.css';
-import '../../css/s/sd3hecchs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="qnq26wo8j"/><path class="sd3hecchs"/></g>`,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.qnq26wo8j {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M17 21H7a5 5 0 0 1-5-5V8a5 5 0 0 1 5-5h10a5 5 0 0 1 5 5v8a5 5 0 0 1-1.464 3.536A5 5 0 0 1 17 21");
+}
+
+.sd3hecchs {
+  d: path("M3 7h18a1 1 0 0 1 0 2H10v11a1 1 0 0 1-2 0V9H3a1 1 0 0 1 0-2");
+}
+</style><g class="cuyn6tgcc"><path class="qnq26wo8j"/><path class="sd3hecchs"/></g>`,
 		"fallback": "coolicons:window-sidebar-bulk-round",
 	});
 }

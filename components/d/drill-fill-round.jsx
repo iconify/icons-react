@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u4aun1b9b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u4aun1b9b"/>`,
+		"content": `<style>.u4aun1b9b {
+  fill: currentColor;
+  d: path("M5 3h8c.856 0 1.667.36 2.236 1H17a2 2 0 0 1 2 2h2a1 1 0 0 1 0 2h-2a2 2 0 0 1-2 2h-1.764A3 3 0 0 1 13 11h-1v4.171A3.001 3.001 0 0 1 11 21H7a3 3 0 0 1-1-5.829V11H5a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3");
+}
+</style><path class="u4aun1b9b"/>`,
 		"fallback": "coolicons:drill-fill-round",
 	});
 }

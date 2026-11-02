@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.mi77ijbww {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M10 10L8.084 6.778A2.5 2.5 0 0 1 12 3.732a2.5 2.5 0 0 1 3.916 3.046L14 10l3.222-1.916A2.5 2.5 0 0 1 20.268 12a2.5 2.5 0 0 1-3.046 3.916L14 14l1.916 3.222A2.5 2.5 0 0 1 12 20.268a2.5 2.5 0 0 1-3.916-3.046L10 14l-3.222 1.916A2.5 2.5 0 0 1 3.732 12a2.5 2.5 0 0 1 3.046-3.916z");
+}
+</style><path class="mi77ijbww"/>`,
+		"fallback": "coolicons:clover",
+	});
+}
+
+export default Component;

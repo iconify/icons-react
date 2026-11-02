@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mwifcgbsb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mwifcgbsb"/>`,
+		"content": `<style>.mwifcgbsb {
+  fill: currentColor;
+  d: path("M12 3h6a1 1 0 0 1 0 2h-5v15a1 1 0 0 1-2 0V5H6a1 1 0 0 1 0-2Z");
+}
+</style><path class="mwifcgbsb"/>`,
 		"fallback": "coolicons:letter-t-fill-round",
 	});
 }

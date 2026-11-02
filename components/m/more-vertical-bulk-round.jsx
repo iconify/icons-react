@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hm5a0s0xs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hm5a0s0xs"/>`,
+		"content": `<style>.hm5a0s0xs {
+  fill: currentColor;
+  d: path("M10.158 5.221a2 2 0 1 1 3.684 1.558a2 2 0 0 1-3.684-1.558m0 6a2 2 0 1 1 3.684 1.558a2 2 0 0 1-3.684-1.558m0 6a2 2 0 1 1 3.684 1.558a2 2 0 0 1-3.684-1.558");
+}
+</style><path class="hm5a0s0xs"/>`,
 		"fallback": "coolicons:more-vertical-bulk-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dwlfc3bdk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dwlfc3bdk"/>`,
+		"content": `<style>.dwlfc3bdk {
+  fill: currentColor;
+  d: path("M6 14V8a6 6 0 1 1 12 0v12a1 1 0 0 1-2 0v-5H8v5a1 1 0 0 1-2 0Zm2-1h8V8a4 4 0 0 0-8 0Z");
+}
+</style><path class="dwlfc3bdk"/>`,
 		"fallback": "coolicons:letter-a-fill-round",
 	});
 }

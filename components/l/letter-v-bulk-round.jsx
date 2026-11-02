@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m1rvn5bri.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m1rvn5bri"/>`,
+		"content": `<style>.m1rvn5bri {
+  fill: currentColor;
+  d: path("m12 17.152l5.064-13.503a1 1 0 1 1 1.872.702l-6 16a1 1 0 0 1-1.872 0l-6-16a1 1 0 1 1 1.872-.702Z");
+}
+</style><path class="m1rvn5bri"/>`,
 		"fallback": "coolicons:letter-v-bulk-round",
 	});
 }

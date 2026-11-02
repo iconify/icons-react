@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rahubnbki.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rahubnbki"/>`,
+		"content": `<style>.rahubnbki {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M9 16c1.427-2.14 4.573-2.14 6 0m-9-3c1.484-1.78 3.682-3 6-3m-9 0c2.285-2.57 5.56-4 9-4m0 13h.01M17 5l4 4m0-4l-4 4");
+}
+</style><path class="rahubnbki"/>`,
 		"fallback": "coolicons:wifi-problem-duotone-round",
 	});
 }

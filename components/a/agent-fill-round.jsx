@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dx_t18ycs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dx_t18ycs"/>`,
+		"content": `<style>.dx_t18ycs {
+  fill: currentColor;
+  d: path("M13 5.733V8h2a5 5 0 0 1 5 5v1h1a1 1 0 0 1 0 2h-1v1a5 5 0 0 1-1.464 3.536A5 5 0 0 1 15 22H9a5 5 0 0 1-5-5v-1H3a1 1 0 0 1 0-2h1v-1a5 5 0 0 1 5-5h2V5.733a2.001 2.001 0 1 1 2 0m-4.011 8.266L8.986 14a1 1 0 0 0 0 2l.003.001c.134.028.261.107.375.177a4.9 4.9 0 0 1 1.458 1.458c.07.114.149.241.177.375l.001.003a1 1 0 0 0 2 0l.001-.003c.028-.134.107-.261.177-.375a4.9 4.9 0 0 1 1.458-1.458c.114-.07.241-.149.375-.177l.003-.001a1 1 0 0 0 0-2l-.003-.001c-.134-.028-.261-.107-.375-.177a4.9 4.9 0 0 1-1.458-1.458c-.07-.114-.149-.241-.177-.375L13 11.986a1 1 0 0 0-2 0l-.001.003c-.028.134-.107.261-.177.375a4.9 4.9 0 0 1-1.458 1.458c-.114.07-.241.149-.375.177");
+}
+</style><path class="dx_t18ycs"/>`,
 		"fallback": "coolicons:agent-fill-round",
 	});
 }

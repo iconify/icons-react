@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k8k_y-jda.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k8k_y-jda"/>`,
+		"content": `<style>.k8k_y-jda {
+  fill: currentColor;
+  d: path("m2.019 20.804l.935-4.673a9.945 9.945 0 1 1 4.915 4.915l-4.673.935a1 1 0 0 1-1.177-1.177M10 10h1a1 1 0 0 0 0-2H9a1 1 0 0 0-1 1v1a6 6 0 0 0 6 6h1a1 1 0 0 0 1-1v-2a1 1 0 0 0-2 0v1a4 4 0 0 1-4-4");
+}
+</style><path class="k8k_y-jda"/>`,
 		"fallback": "coolicons:whatsapp-fill-round",
 	});
 }

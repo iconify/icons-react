@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l0_od9bys.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l0_od9bys"/>`,
+		"content": `<style>.l0_od9bys {
+  fill: currentColor;
+  d: path("M16 12v1a1 1 0 0 0 .293.707A1 1 0 0 0 18 13q0-.071.01-.141a6 6 0 0 0-.25-2.779a6.065 6.065 0 0 0-6.619-4.09a6.073 6.073 0 0 0-4.901 7.93a6.075 6.075 0 0 0 6.619 4.09a1.002 1.002 0 0 1 1.11 1.238a1 1 0 0 1-.828.742a8.073 8.073 0 0 1-9.131-9.131a8.072 8.072 0 0 1 15.989 2.217a3 3 0 0 1-5.287 1.865A4 4 0 1 1 16 12m-2.157-.778a2 2 0 1 0-3.686 1.556a2 2 0 0 0 3.686-1.556");
+}
+</style><path class="l0_od9bys"/>`,
 		"fallback": "coolicons:mention-fill-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e7-cenqsf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e7-cenqsf"/>`,
+		"content": `<style>.e7-cenqsf {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M11 7h8M5 12h14m-8 5h8");
+}
+</style><path class="e7-cenqsf"/>`,
 		"fallback": "coolicons:menu-alt-2-duotone-round",
 	});
 }

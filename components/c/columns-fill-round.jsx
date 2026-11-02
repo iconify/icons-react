@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oe5303d4d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oe5303d4d"/>`,
+		"content": `<style>.oe5303d4d {
+  fill: currentColor;
+  d: path("M11 7v10a4 4 0 0 1-8 0V7a4 4 0 0 1 8 0m10 0v10a4 4 0 0 1-8 0V7a4 4 0 0 1 8 0");
+}
+</style><path class="oe5303d4d"/>`,
 		"fallback": "coolicons:columns-fill-round",
 	});
 }

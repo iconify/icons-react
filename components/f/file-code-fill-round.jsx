@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rbilo7g8f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rbilo7g8f"/>`,
+		"content": `<style>.rbilo7g8f {
+  fill: currentColor;
+  d: path("M19.707 8.293A1 1 0 0 1 20 9v8a5 5 0 0 1-1.464 3.536A5 5 0 0 1 15 22H9a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5h4c.265 0 .52.105.707.293ZM13 7a2 2 0 0 0 2 2h3l-5-5Zm-5.707 8.707l2 2a.999.999 0 1 0 1.414-1.414L9.414 15l1.293-1.293a.999.999 0 1 0-1.414-1.414l-2 2a.997.997 0 0 0 0 1.414m7.414-3.414a.999.999 0 1 0-1.414 1.414L14.586 15l-1.293 1.293a.999.999 0 1 0 1.414 1.414l2-2a1 1 0 0 0 0-1.414Z");
+}
+</style><path class="rbilo7g8f"/>`,
 		"fallback": "coolicons:file-code-fill-round",
 	});
 }

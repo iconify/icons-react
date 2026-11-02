@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xqcf44yln.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xqcf44yln"/>`,
+		"content": `<style>.xqcf44yln {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M13 6h8m-8 6h8m-8 6h8M3 6l3 3l3-3m0 12l-3-3l-3 3");
+}
+</style><path class="xqcf44yln"/>`,
 		"fallback": "coolicons:list-collapse-round",
 	});
 }

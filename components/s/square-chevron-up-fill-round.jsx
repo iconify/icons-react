@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jwl12gbfw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jwl12gbfw"/>`,
+		"content": `<style>.jwl12gbfw {
+  fill: currentColor;
+  d: path("M2 7a5 5 0 0 1 5-5h10a5 5 0 0 1 5 5v10a5 5 0 0 1-1.464 3.536A5 5 0 0 1 17 22H7a5 5 0 0 1-5-5Zm10 4.414l2.293 2.293a.999.999 0 1 0 1.414-1.414l-3-3a1 1 0 0 0-1.414 0l-3 3a.999.999 0 1 0 1.414 1.414Z");
+}
+</style><path class="jwl12gbfw"/>`,
 		"fallback": "coolicons:square-chevron-up-fill-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e-zx8m0by.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e-zx8m0by"/>`,
+		"content": `<style>.e-zx8m0by {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M4 5v14m8-14v14m8-14v14M8 5v14m8-14v14");
+}
+</style><path class="e-zx8m0by"/>`,
 		"fallback": "coolicons:barcode-round",
 	});
 }

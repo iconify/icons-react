@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t-hp-mnyd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t-hp-mnyd"/>`,
+		"content": `<style>.t-hp-mnyd {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m9 6l-6 6l6 6m-6-6h18");
+}
+</style><path class="t-hp-mnyd"/>`,
 		"fallback": "coolicons:arrow-left-large-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/skjvdnbvw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="skjvdnbvw"/>`,
+		"content": `<style>.skjvdnbvw {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M7 20V4l10 16V4");
+}
+</style><path class="skjvdnbvw"/>`,
 		"fallback": "coolicons:letter-n-duotone-round",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/a/a2axkab4k.css';
-import '../../css/y/y1innc7rh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,19 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="a2axkab4k"/><path class="y1innc7rh"/></g>`,
+		"content": `<style>.a2axkab4k {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M10.707 3.293L12.414 5H17a5 5 0 0 1 5 5v6a5 5 0 0 1-1.464 3.536A5 5 0 0 1 17 21H7a5 5 0 0 1-5-5V6a3 3 0 0 1 3-3h5c.265 0 .52.105.707.293");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.y1innc7rh {
+  d: path("M15 10a1 1 0 0 1 0 2H9a1 1 0 0 1 0-2Zm0 4a1 1 0 0 1 0 2H9a1 1 0 0 1 0-2Z");
+}
+</style><g class="cuyn6tgcc"><path class="a2axkab4k"/><path class="y1innc7rh"/></g>`,
 		"fallback": "coolicons:folder-text-bulk-round",
 	});
 }

@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rctcusbzz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rctcusbzz"/>`,
+		"content": `<style>.rctcusbzz {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M14 17H7v-7m0 7L17 7");
+}
+</style><path class="rctcusbzz"/>`,
 		"fallback": "coolicons:arrow-down-left-duocolor-round",
 	});
 }

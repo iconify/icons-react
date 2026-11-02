@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xjp6pgx3h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xjp6pgx3h"/>`,
+		"content": `<style>.xjp6pgx3h {
+  fill: currentColor;
+  d: path("m20 9.838l.949 2.846c.119.359.026.755-.242 1.023l-7 7a2.414 2.414 0 0 1-3.414 0l-7-7a1 1 0 0 1-.242-1.023L4 9.838V5c0-.898.572-1.928 1.521-2.089a1.34 1.34 0 0 1 1.186.382l3 3c.948.948 3.638.948 4.586 0l3-3c.31-.311.752-.456 1.186-.382C19.428 3.072 20 4.102 20 5ZM9.707 11.293a.999.999 0 1 0-1.414 1.414l1 1a.999.999 0 1 0 1.414-1.414Zm6 1.414a.999.999 0 1 0-1.414-1.414l-1 1a.999.999 0 1 0 1.414 1.414ZM12.01 15H12a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2");
+}
+</style><path class="xjp6pgx3h"/>`,
 		"fallback": "coolicons:fox-fill-round",
 	});
 }

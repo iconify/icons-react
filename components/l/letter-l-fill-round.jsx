@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ixaw-ldqz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ixaw-ldqz"/>`,
+		"content": `<style>.ixaw-ldqz {
+  fill: currentColor;
+  d: path("M8 19h9a1 1 0 0 1 0 2H7a1 1 0 0 1-1-1V4a1 1 0 0 1 2 0Z");
+}
+</style><path class="ixaw-ldqz"/>`,
 		"fallback": "coolicons:letter-l-fill-round",
 	});
 }

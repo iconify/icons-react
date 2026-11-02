@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/m/mxoqgwdnm.css';
-import '../../css/e/e1ij25anb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="mxoqgwdnm"/><path class="e1ij25anb"/></g>`,
+		"content": `<style>.e1ij25anb {
+  d: path("M5 7a4 4 0 1 0 8 0a4 4 0 0 0-8 0M3 21a6 6 0 0 1 6-6");
+}
+
+.mxoqgwdnm {
+  stroke-opacity: 0.4;
+  d: path("M17 13c0 2 2 4 4 4c-2 0-4 2-4 4c0-2-2-4-4-4c2 0 4-2 4-4");
+}
+
+.nrj6p8qat {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+</style><g class="nrj6p8qat"><path class="mxoqgwdnm"/><path class="e1ij25anb"/></g>`,
 		"fallback": "coolicons:user-sparkle-corner-duocolor-round",
 	});
 }

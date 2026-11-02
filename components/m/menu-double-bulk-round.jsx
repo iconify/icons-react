@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i7pgc_e7m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i7pgc_e7m"/>`,
+		"content": `<style>.i7pgc_e7m {
+  fill: currentColor;
+  d: path("M19 8a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Zm0 6a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z");
+}
+</style><path class="i7pgc_e7m"/>`,
 		"fallback": "coolicons:menu-double-bulk-round",
 	});
 }

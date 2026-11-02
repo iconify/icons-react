@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sek5qrbnh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sek5qrbnh"/>`,
+		"content": `<style>.sek5qrbnh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M16 7a4 4 0 1 0-8 0v10a4 4 0 1 0 8 0a4 4 0 0 0-8 0");
+}
+</style><path class="sek5qrbnh"/>`,
 		"fallback": "coolicons:number-6-duotone-round",
 	});
 }

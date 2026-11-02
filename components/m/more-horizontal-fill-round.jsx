@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ox_vk2bqq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ox_vk2bqq"/>`,
+		"content": `<style>.ox_vk2bqq {
+  fill: currentColor;
+  d: path("M4.158 11.221a2 2 0 1 1 3.684 1.558a2 2 0 0 1-3.684-1.558m6 0a2 2 0 1 1 3.684 1.558a2 2 0 0 1-3.684-1.558m6 0a2 2 0 1 1 3.684 1.558a2 2 0 0 1-3.684-1.558");
+}
+</style><path class="ox_vk2bqq"/>`,
 		"fallback": "coolicons:more-horizontal-fill-round",
 	});
 }

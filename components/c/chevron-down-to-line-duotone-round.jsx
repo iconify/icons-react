@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ibunlsb4a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ibunlsb4a"/>`,
+		"content": `<style>.ibunlsb4a {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m6 7l6 6l6-6M6 17h12");
+}
+</style><path class="ibunlsb4a"/>`,
 		"fallback": "coolicons:chevron-down-to-line-duotone-round",
 	});
 }

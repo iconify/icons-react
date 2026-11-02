@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r51w4ibnc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r51w4ibnc"/>`,
+		"content": `<style>.r51w4ibnc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("m9 11l3 3l3-3");
+}
+</style><path class="r51w4ibnc"/>`,
 		"fallback": "coolicons:chevron-down-small-round",
 	});
 }

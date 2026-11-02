@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.godoibvmt {
+  fill: currentColor;
+  d: path("m9.117 4l-.5 4H4.219l.811-3.243A1 1 0 0 1 6 4Zm2.016 0h1.734l.5 4h-2.734Zm4.25 4l-.5-4H18a1 1 0 0 1 .97.757L19.781 8ZM3.719 10h4.648l-.5 4H4a.998.998 0 0 1-.97-1.243Zm10.273 3l.125 1H13v4h3a1 1 0 0 1 0 2H8a1 1 0 0 1 0-2h3v-4H9.883l.5-4h3.234Zm2-.124L15.633 10h4.648l.689 2.757A.998.998 0 0 1 20 14h-3.867Z");
+}
+</style><path class="godoibvmt"/>`,
+		"fallback": "coolicons:solar-panel-fill",
+	});
+}
+
+export default Component;

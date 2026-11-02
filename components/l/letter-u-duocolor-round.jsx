@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nggfwi-6z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nggfwi-6z"/>`,
+		"content": `<style>.nggfwi-6z {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M7 4v12a5 5 0 0 0 10 0V4");
+}
+</style><path class="nggfwi-6z"/>`,
 		"fallback": "coolicons:letter-u-duocolor-round",
 	});
 }

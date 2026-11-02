@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mcnuuetab.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mcnuuetab"/>`,
+		"content": `<style>.mcnuuetab {
+  fill: currentColor;
+  d: path("M6 11.586V8a5 5 0 0 1 5-5h4a5 5 0 0 1 5 5v11h1a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2h1v-3c0-1.317.335-2.748 1.293-3.707ZM18 8a3 3 0 0 0-3-3h-4a3 3 0 0 0-3 3v1.734a3.83 3.83 0 0 1 4.707.559l2 2C15.665 13.252 16 14.683 16 16v3h2Z");
+}
+</style><path class="mcnuuetab"/>`,
 		"fallback": "coolicons:building-3-fill-round",
 	});
 }

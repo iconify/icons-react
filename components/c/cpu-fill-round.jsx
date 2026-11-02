@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oa0rcoq6y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oa0rcoq6y"/>`,
+		"content": `<style>.oa0rcoq6y {
+  fill: currentColor;
+  d: path("M11 3v2h2V3a1 1 0 0 1 2 0v2.099A5.02 5.02 0 0 1 18.901 9H21a1 1 0 0 1 0 2h-2v2h2a1 1 0 0 1 0 2h-2.099A5.02 5.02 0 0 1 15 18.901V21a1 1 0 0 1-2 0v-2h-2v2a1 1 0 0 1-2 0v-2.099A5.02 5.02 0 0 1 5.099 15H3a1 1 0 0 1 0-2h2v-2H3a1 1 0 0 1 0-2h2.099A5.02 5.02 0 0 1 9 5.099V3a1 1 0 0 1 2 0m-1.764 7.832a3 3 0 1 0 5.527 2.335a3 3 0 0 0-5.527-2.335");
+}
+</style><path class="oa0rcoq6y"/>`,
 		"fallback": "coolicons:cpu-fill-round",
 	});
 }

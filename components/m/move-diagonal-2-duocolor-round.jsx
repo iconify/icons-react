@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/knisc_b1o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="knisc_b1o"/>`,
+		"content": `<style>.knisc_b1o {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M9 5H5v4m10 10h4v-4M5 5l14 14");
+}
+</style><path class="knisc_b1o"/>`,
 		"fallback": "coolicons:move-diagonal-2-duocolor-round",
 	});
 }

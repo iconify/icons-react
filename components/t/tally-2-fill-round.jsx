@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/ri96t0v6a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ri96t0v6a"/>`,
+		"content": `<style>.ri96t0v6a {
+  fill: currentColor;
+  d: path("M11 19a1 1 0 0 1-2 0V5a1 1 0 0 1 2 0Zm4 0a1 1 0 0 1-2 0V5a1 1 0 0 1 2 0Z");
+}
+</style><path class="ri96t0v6a"/>`,
 		"fallback": "coolicons:tally-2-fill-round",
 	});
 }

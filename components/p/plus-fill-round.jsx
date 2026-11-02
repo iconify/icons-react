@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tgr9h6b5b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tgr9h6b5b"/>`,
+		"content": `<style>.tgr9h6b5b {
+  fill: currentColor;
+  d: path("M13 11h5a1 1 0 0 1 0 2h-5v5a1 1 0 0 1-2 0v-5H6a1 1 0 0 1 0-2h5V6a1 1 0 0 1 2 0Z");
+}
+</style><path class="tgr9h6b5b"/>`,
 		"fallback": "coolicons:plus-fill-round",
 	});
 }

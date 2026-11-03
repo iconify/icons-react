@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.54",
+  "version": "1.0.55",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -6325,6 +6325,14 @@
     "./folder-type-nuxt-opened": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-type-nuxt-opened.jsx"
+    },
+    "./folder-type-nyc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-nyc.jsx"
+    },
+    "./folder-type-nyc-opened": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-type-nyc-opened.jsx"
     },
     "./folder-type-ocx": {
       "types": "./types/hqrkovbr.d.ts",

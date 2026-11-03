@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -9,6 +9,10 @@
     "./aarch64": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/aarch64.jsx"
+    },
+    "./adminer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adminer.jsx"
     },
     "./adonisjs": {
       "types": "./types/hqrkovbr.d.ts",
@@ -153,6 +157,10 @@
     "./antigravity": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/antigravity.jsx"
+    },
+    "./antlr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/antlr.jsx"
     },
     "./apache": {
       "types": "./types/hqrkovbr.d.ts",
@@ -822,6 +830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dbeaver.jsx"
     },
+    "./dbvisualizer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dbvisualizer.jsx"
+    },
     "./debian": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/debian.jsx"
@@ -857,6 +869,10 @@
     "./devicon-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/devicon-wordmark.jsx"
+    },
+    "./dialogflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialogflow.jsx"
     },
     "./digitalocean": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1590,6 +1606,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hibernate-wordmark.jsx"
     },
+    "./homeassistant": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homeassistant.jsx"
+    },
+    "./homeassistant-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/homeassistant-wordmark.jsx"
+    },
     "./homebrew": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/homebrew.jsx"
@@ -2258,6 +2282,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/meteor-wordmark.jsx"
     },
+    "./microsoftgraph": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microsoftgraph.jsx"
+    },
     "./microsoftsqlserver": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microsoftsqlserver.jsx"
@@ -2353,6 +2381,10 @@
     "./mysql-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mysql-wordmark.jsx"
+    },
+    "./mysqlworkbench": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mysqlworkbench.jsx"
     },
     "./n8n": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2778,6 +2810,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/php.jsx"
     },
+    "./phpmyadmin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpmyadmin.jsx"
+    },
+    "./phpmyadmin-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phpmyadmin-wordmark.jsx"
+    },
     "./phpstorm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phpstorm.jsx"
@@ -2897,6 +2937,10 @@
     "./postman-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/postman-wordmark.jsx"
+    },
+    "./powerbi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/powerbi.jsx"
     },
     "./powershell": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3418,6 +3462,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sema-wordmark.jsx"
     },
+    "./semanticui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/semanticui.jsx"
+    },
     "./sentry": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sentry.jsx"
@@ -3433,6 +3481,14 @@
     "./sequelize-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sequelize-wordmark.jsx"
+    },
+    "./servicenow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/servicenow.jsx"
+    },
+    "./servicenow-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/servicenow-wordmark.jsx"
     },
     "./sfml": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4090,6 +4146,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/visualbasic.jsx"
     },
+    "./visualparadigm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/visualparadigm.jsx"
+    },
     "./visualstudio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/visualstudio.jsx"
@@ -4173,6 +4233,10 @@
     "./vyper-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vyper-wordmark.jsx"
+    },
+    "./wakatime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wakatime.jsx"
     },
     "./waku": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4293,6 +4357,10 @@
     "./xamarin-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/xamarin-wordmark.jsx"
+    },
+    "./xampp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xampp.jsx"
     },
     "./xcode": {
       "types": "./types/hqrkovbr.d.ts",

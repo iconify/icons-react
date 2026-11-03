@@ -17,8 +17,11 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.ne_lywboa {
-  d: path("M6.4472 14.2764L7 14L15 10.0001L21 13L21.5528 13.2764");
+.l795ftb_f {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M8 13.5L14.5528 10.2237C14.8343 10.0829 15.1657 10.0829 15.4472 10.2237L20 12.5L20 15C20 15.5523 19.5523 16 19 16L9 16C8.4477 16 8 15.5523 8 15L8 13.5ZM12 7C12 7.5523 11.5523 8 11 8C10.4477 8 10 7.5523 10 7C10 6.4477 10.4477 6 11 6C11.5523 6 12 6.4477 12 7Z");
+  stroke: none;
 }
 
 .xtbju33sf {
@@ -28,17 +31,11 @@ function Component({width, height, ...props}) {
   stroke: none;
 }
 
-.y-gfmr48b {
-  fill: currentColor;
-  d: path("M12 7C12 7.5523 11.5523 8 11 8C10.4477 8 10 7.5523 10 7C10 6.4477 10.4477 6 11 6C11.5523 6 12 6.4477 12 7Z");
-  stroke: none;
-}
-
 .z308c8bnb {
   stroke-opacity: 0.4;
   d: path("M3 7L3 21L17 21");
 }
-</style><g class="gp_8x1bzb"><path class="xtbju33sf"/><path class="z308c8bnb"/><path class="ne_lywboa"/><path class="y-gfmr48b"/></g>`,
+</style><g class="gp_8x1bzb"><path class="xtbju33sf"/><path class="z308c8bnb"/><path clip-rule="evenodd" class="l795ftb_f"/></g>`,
 		"fallback": "keyline-icons:images-sharp-duotone",
 	});
 }

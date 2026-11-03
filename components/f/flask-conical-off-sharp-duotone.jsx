@@ -31,10 +31,16 @@ function Component({width, height, ...props}) {
   stroke: none;
 }
 
+.vvqv_7bbf {
+  fill: currentColor;
+  d: path("M20.4747 20.4736L20.9307 21.6344C20.9764 21.7508 20.9999 21.8747 20.9999 21.9997C20.9999 22.5518 20.5522 22.9992 20.0001 22.999L4.0001 22.999C3.4479 22.9992 3.0002 22.5517 3.0002 21.9995C3.0002 21.8746 3.0237 21.7507 3.0693 21.6344L4.8899 17L17.0011 17L20.4747 20.4736Z");
+  stroke: none;
+}
+
 .ysqxkebtz {
   d: path("M1.70709 1.70703L22.2929 22.2928");
 }
-</style><g class="gp_8x1bzb"><path class="o4-575bqq"/><path class="quk2qgbrt"/><path class="ysqxkebtz"/></g>`,
+</style><g class="gp_8x1bzb"><path class="o4-575bqq"/><path class="vvqv_7bbf"/><path class="quk2qgbrt"/><path class="ysqxkebtz"/></g>`,
 		"fallback": "keyline-icons:flask-conical-off-sharp-duotone",
 	});
 }

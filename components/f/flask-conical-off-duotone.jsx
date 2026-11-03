@@ -21,6 +21,12 @@ function Component({width, height, ...props}) {
   stroke: none;
 }
 
+.nhq6q3fvo {
+  fill: currentColor;
+  d: path("M18.1951 22.9936C18.1294 22.9979 18.0635 23 17.9976 23L6.0024 23C4.3455 23.0003 3.0022 21.6571 3.0022 20.0002C3.0022 19.554 3.1017 19.1134 3.2936 18.7105L4.1079 17L16.9998 17L20.8686 20.8692C20.5067 22.0649 19.4417 22.9112 18.1951 22.9936Z");
+  stroke: none;
+}
+
 .nrj6p8qat {
   fill: none;
   stroke: currentColor;
@@ -35,7 +41,7 @@ function Component({width, height, ...props}) {
   d: path("M16.0005 1C16.5525 1.00025 17.0005 1.44787 17.0005 2C17.0005 2.55213 16.5525 2.99975 16.0005 3H15.5005V7.77441L16.1694 9.17969C16.4063 9.67799 16.1947 10.2741 15.6967 10.5117C15.1982 10.7491 14.6012 10.5376 14.3637 10.0391L13.6948 8.63379C13.5671 8.36551 13.5005 8.07182 13.5005 7.77441V3H10.5005V3.84277C10.5005 4.39491 10.0525 4.84253 9.50046 4.84277C8.94817 4.84277 8.50046 4.39506 8.50046 3.84277V3H8.00046C7.44817 3 7.00046 2.55228 7.00046 2C7.00046 1.44772 7.44817 1 8.00046 1H16.0005Z");
   stroke: none;
 }
-</style><g class="nrj6p8qat"><path class="ihmrgyadd"/><path class="zaeq1obyq"/><path class="ayo73pbzj"/></g>`,
+</style><g class="nrj6p8qat"><path class="ihmrgyadd"/><path class="nhq6q3fvo"/><path class="zaeq1obyq"/><path class="ayo73pbzj"/></g>`,
 		"fallback": "keyline-icons:flask-conical-off-duotone",
 	});
 }

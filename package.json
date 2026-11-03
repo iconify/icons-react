@@ -1,11 +1,27 @@
 {
   "name": "@iconify-react/sidekickicons",
   "type": "module",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "homepage": "https://icon-sets.iconify.design/sidekickicons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
   "exports": {
+    "./anchor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor.jsx"
+    },
+    "./anchor-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor-16-solid.jsx"
+    },
+    "./anchor-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor-20-solid.jsx"
+    },
+    "./anchor-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor-solid.jsx"
+    },
     "./arc-third": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arc-third.jsx"
@@ -278,6 +294,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrows-crossing-solid.jsx"
     },
+    "./backward-bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backward-bar.jsx"
+    },
+    "./backward-bar-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backward-bar-16-solid.jsx"
+    },
+    "./backward-bar-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backward-bar-20-solid.jsx"
+    },
+    "./backward-bar-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backward-bar-solid.jsx"
+    },
     "./badge": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/badge.jsx"
@@ -357,6 +389,22 @@
     "./blockquote-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/blockquote-solid.jsx"
+    },
+    "./bluetooth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth.jsx"
+    },
+    "./bluetooth-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth-16-solid.jsx"
+    },
+    "./bluetooth-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth-20-solid.jsx"
+    },
+    "./bluetooth-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bluetooth-solid.jsx"
     },
     "./camera-rotate": {
       "types": "./types/hqrkovbr.d.ts",
@@ -822,6 +870,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/floppy-disk-solid.jsx"
     },
+    "./forward-bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-bar.jsx"
+    },
+    "./forward-bar-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-bar-16-solid.jsx"
+    },
+    "./forward-bar-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-bar-20-solid.jsx"
+    },
+    "./forward-bar-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-bar-solid.jsx"
+    },
     "./gamepad": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gamepad.jsx"
@@ -837,6 +901,22 @@
     "./gamepad-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gamepad-solid.jsx"
+    },
+    "./gauge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauge.jsx"
+    },
+    "./gauge-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauge-16-solid.jsx"
+    },
+    "./gauge-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauge-20-solid.jsx"
+    },
+    "./gauge-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gauge-solid.jsx"
     },
     "./gender-ambiguous": {
       "types": "./types/hqrkovbr.d.ts",
@@ -901,6 +981,22 @@
     "./gender-trans-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gender-trans-solid.jsx"
+    },
+    "./git-branch": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch.jsx"
+    },
+    "./git-branch-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-16-solid.jsx"
+    },
+    "./git-branch-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-20-solid.jsx"
+    },
+    "./git-branch-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-branch-solid.jsx"
     },
     "./h4": {
       "types": "./types/hqrkovbr.d.ts",
@@ -998,6 +1094,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headphones-solid.jsx"
     },
+    "./headset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset.jsx"
+    },
+    "./headset-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-16-solid.jsx"
+    },
+    "./headset-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-20-solid.jsx"
+    },
+    "./headset-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headset-solid.jsx"
+    },
     "./hourglass": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hourglass.jsx"
@@ -1093,6 +1205,22 @@
     "./keyboard-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keyboard-solid.jsx"
+    },
+    "./leaf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leaf.jsx"
+    },
+    "./leaf-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leaf-16-solid.jsx"
+    },
+    "./leaf-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leaf-20-solid.jsx"
+    },
+    "./leaf-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/leaf-solid.jsx"
     },
     "./lettered-list": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1269,6 +1397,22 @@
     "./pilcrow-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pilcrow-solid.jsx"
+    },
+    "./pill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pill.jsx"
+    },
+    "./pill-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pill-16-solid.jsx"
+    },
+    "./pill-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pill-20-solid.jsx"
+    },
+    "./pill-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pill-solid.jsx"
     },
     "./pin": {
       "types": "./types/hqrkovbr.d.ts",

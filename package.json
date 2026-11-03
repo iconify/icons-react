@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1730,6 +1730,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/backloggd.jsx"
     },
+    "./backrest-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backrest-dark.jsx"
+    },
+    "./backrest-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/backrest-light.jsx"
+    },
     "./backstage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/backstage.jsx"
@@ -3050,6 +3058,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chromium.jsx"
     },
+    "./chronograf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chronograf.jsx"
+    },
     "./chrysler": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chrysler.jsx"
@@ -3177,6 +3189,10 @@
     "./claude-code": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/claude-code.jsx"
+    },
+    "./cleanuparr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cleanuparr.jsx"
     },
     "./clearml": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3597,6 +3613,10 @@
     "./comma": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/comma.jsx"
+    },
+    "./commafeed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/commafeed.jsx"
     },
     "./commanda-cohere": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5630,9 +5650,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fanfou.jsx"
     },
-    "./fans": {
+    "./fans-dark": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/f/fans.jsx"
+      "default": "./components/f/fans-dark.jsx"
+    },
+    "./fans-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fans-light.jsx"
     },
     "./fanta": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5657,6 +5681,10 @@
     "./farmsent": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/farmsent.jsx"
+    },
+    "./farsiui": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/farsiui.jsx"
     },
     "./fastapi": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5941,6 +5969,10 @@
     "./fizz": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fizz.jsx"
+    },
+    "./flagsmith": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flagsmith.jsx"
     },
     "./flame": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7686,6 +7718,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headphone-zone.jsx"
     },
+    "./headscale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headscale.jsx"
+    },
     "./headspace": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headspace.jsx"
@@ -8030,6 +8066,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hugging-face.jsx"
     },
+    "./huginn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/huginn.jsx"
+    },
     "./hugo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hugo.jsx"
@@ -8081,6 +8121,10 @@
     "./hyperbolic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hyperbolic.jsx"
+    },
+    "./hyperdx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hyperdx.jsx"
     },
     "./hyperskill": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8269,6 +8313,10 @@
     "./imessage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/imessage.jsx"
+    },
+    "./imgproxy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imgproxy.jsx"
     },
     "./imgur": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8625,6 +8673,10 @@
     "./isro": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/isro.jsx"
+    },
+    "./isso": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/isso.jsx"
     },
     "./issuu": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9418,6 +9470,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kokonut-ui-light.jsx"
     },
+    "./kokoro-tts": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kokoro-tts.jsx"
+    },
     "./kolors": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kolors.jsx"
@@ -9497,6 +9553,10 @@
     "./kroger": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kroger.jsx"
+    },
+    "./kroki": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kroki.jsx"
     },
     "./kserve-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10370,6 +10430,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lvgl.jsx"
     },
+    "./lychee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lychee.jsx"
+    },
     "./lydia": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lydia.jsx"
@@ -10401,6 +10465,10 @@
     "./macy-s": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/macy-s.jsx"
+    },
+    "./mafl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mafl.jsx"
     },
     "./magasins-u": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11754,6 +11822,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mullvad.jsx"
     },
+    "./multi-scrobbler": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/multi-scrobbler.jsx"
+    },
     "./multisim": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/multisim.jsx"
@@ -12801,6 +12873,10 @@
     "./open-containers-initiative": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/open-containers-initiative.jsx"
+    },
+    "./open-notebook": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-notebook.jsx"
     },
     "./open-policy-agent-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -14930,6 +15006,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/radarr.jsx"
     },
+    "./radicale": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radicale.jsx"
+    },
     "./radio-france": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/radio-france.jsx"
@@ -15582,6 +15662,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rollupdotjs.jsx"
     },
+    "./romm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/romm.jsx"
+    },
     "./roocode": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/roocode.jsx"
@@ -15657,6 +15741,10 @@
     "./rss": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rss.jsx"
+    },
+    "./rss-bridge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-bridge.jsx"
     },
     "./rsshub": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15833,6 +15921,10 @@
     "./sabeco-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sabeco-light.jsx"
+    },
+    "./sabnzbd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sabnzbd.jsx"
     },
     "./safari": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16094,6 +16186,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/securityscorecard.jsx"
     },
+    "./seerr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/seerr.jsx"
+    },
     "./sefaria": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sefaria.jsx"
@@ -16241,6 +16337,10 @@
     "./sftpgo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sftpgo.jsx"
+    },
+    "./shaarli": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shaarli.jsx"
     },
     "./shadcn-ui-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16730,6 +16830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sonicwall.jsx"
     },
+    "./sonojs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sonojs.jsx"
+    },
     "./sonos": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sonos.jsx"
@@ -16898,6 +17002,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spinnaker.jsx"
     },
+    "./spliit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spliit.jsx"
+    },
     "./splunk": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/splunk.jsx"
@@ -16909,6 +17017,10 @@
     "./sponge": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sponge.jsx"
+    },
+    "./spoolman": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spoolman.jsx"
     },
     "./spotify": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17949,6 +18061,14 @@
     "./the-irish-times": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/the-irish-times.jsx"
+    },
+    "./the-lounge-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-lounge-dark.jsx"
+    },
+    "./the-lounge-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-lounge-light.jsx"
     },
     "./the-mighty": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19998,6 +20118,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wireguard.jsx"
     },
+    "./wiremock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wiremock.jsx"
+    },
     "./wireshark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wireshark.jsx"
@@ -20382,6 +20506,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/y/youmind.jsx"
     },
+    "./yourls": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/y/yourls.jsx"
+    },
     "./youtube": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/y/youtube.jsx"
@@ -20689,6 +20817,10 @@
     "./circleci": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circleci.jsx"
+    },
+    "./fans": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fans.jsx"
     },
     "./mastra": {
       "types": "./types/hqrkovbr.d.ts",

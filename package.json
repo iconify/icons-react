@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.27",
+  "version": "1.0.28",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -6874,6 +6874,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/feeds-fun-light.jsx"
     },
+    "./felicloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/felicloud.jsx"
+    },
+    "./felicloud-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/felicloud-dark.jsx"
+    },
+    "./felicloud-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/felicloud-light.jsx"
+    },
     "./fenrus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fenrus.jsx"
@@ -9338,6 +9350,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/growchief-light.jsx"
     },
+    "./gryffi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gryffi.jsx"
+    },
+    "./gryffi-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gryffi-dark.jsx"
+    },
+    "./gryffi-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gryffi-light.jsx"
+    },
     "./gryt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gryt.jsx"
@@ -11649,6 +11673,18 @@
     "./kener-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kener-light.jsx"
+    },
+    "./kept-inventory": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kept-inventory.jsx"
+    },
+    "./kept-inventory-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kept-inventory-dark.jsx"
+    },
+    "./kept-inventory-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kept-inventory-light.jsx"
     },
     "./kestra": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20566,6 +20602,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/prometheus-light.jsx"
     },
+    "./pronote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pronote.jsx"
+    },
+    "./pronote-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pronote-dark.jsx"
+    },
+    "./pronote-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pronote-light.jsx"
+    },
     "./proshop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/proshop.jsx"
@@ -22230,6 +22278,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/revolt-light.jsx"
     },
+    "./rewindarr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewindarr.jsx"
+    },
+    "./rewindarr-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewindarr-dark.jsx"
+    },
+    "./rewindarr-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rewindarr-light.jsx"
+    },
     "./rgallery": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rgallery.jsx"
@@ -22349,6 +22409,10 @@
     "./riverside-fm-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/riverside-fm-light.jsx"
+    },
+    "./robin-tracking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/robin-tracking.jsx"
     },
     "./robinhood": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25229,6 +25293,18 @@
     "./target-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/target-light.jsx"
+    },
+    "./taskade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskade.jsx"
+    },
+    "./taskade-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskade-dark.jsx"
+    },
+    "./taskade-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskade-light.jsx"
     },
     "./tasktrove": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/logos",
   "type": "module",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "homepage": "https://icon-sets.iconify.design/logos/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -2478,6 +2478,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/drupal-icon.jsx"
     },
+    "./dspy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dspy.jsx"
+    },
     "./duckduckgo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/duckduckgo.jsx"
@@ -3830,6 +3834,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hermes.jsx"
     },
+    "./hermes-agent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hermes-agent.jsx"
+    },
     "./heroku": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heroku.jsx"
@@ -3857,6 +3865,14 @@
     "./hibernate": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hibernate.jsx"
+    },
+    "./higgsfield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/higgsfield.jsx"
+    },
+    "./higgsfield-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/higgsfield-icon.jsx"
     },
     "./highcharts": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4430,6 +4446,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kilo-dark.jsx"
     },
+    "./kimi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kimi.jsx"
+    },
+    "./kimi-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kimi-icon.jsx"
+    },
+    "./kimi-icon-clean": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kimi-icon-clean.jsx"
+    },
     "./kinto": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kinto.jsx"
@@ -4713,6 +4741,14 @@
     "./livekit-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/livekit-icon.jsx"
+    },
+    "./llama-index": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/llama-index.jsx"
+    },
+    "./llama-index-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/llama-index-icon.jsx"
     },
     "./loader": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5114,9 +5150,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/meta.jsx"
     },
+    "./meta-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meta-ai.jsx"
+    },
     "./meta-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/meta-icon.jsx"
+    },
+    "./meta-muse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/meta-muse.jsx"
     },
     "./metabase": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5642,6 +5686,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nomad-icon.jsx"
     },
+    "./notebook-lm": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notebook-lm.jsx"
+    },
+    "./notebook-lm-mono": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/notebook-lm-mono.jsx"
+    },
     "./notion": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/notion.jsx"
@@ -5810,6 +5862,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opencart.jsx"
     },
+    "./openclaw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openclaw.jsx"
+    },
+    "./openclaw-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/openclaw-icon.jsx"
+    },
     "./opencode": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opencode.jsx"
@@ -5953,6 +6013,10 @@
     "./osquery": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/osquery.jsx"
+    },
+    "./otter-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/otter-ai.jsx"
     },
     "./otto": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6157,6 +6221,10 @@
     "./phpstorm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phpstorm.jsx"
+    },
+    "./pi-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pi-code.jsx"
     },
     "./picasa": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7014,6 +7082,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/runscope.jsx"
     },
+    "./runway": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/runway.jsx"
+    },
+    "./runway-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/runway-icon.jsx"
+    },
     "./rush": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rush.jsx"
@@ -7081,6 +7157,14 @@
     "./scala": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scala.jsx"
+    },
+    "./scale-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scale-ai.jsx"
+    },
+    "./scale-ai-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scale-ai-icon.jsx"
     },
     "./scaledrone": {
       "types": "./types/hqrkovbr.d.ts",

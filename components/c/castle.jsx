@@ -6,8 +6,8 @@ import '../../css/x/xbgj11bpa.css';
 import '../../css/h/h150grijx.css';
 import '../../css/i/ij2x_72vy.css';
 import '../../css/n/nx_9e3w_t.css';
-import '../../css/i/i6bqmeb4c.css';
-import '../../css/x/xxa4lzb3n.css';
+import '../../css/i/iul3cibqd.css';
+import '../../css/a/ahd_g7qai.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x_rgy1sol"/><path class="v1begw9tr"/><path class="xbgj11bpa"/><path class="h150grijx"/><g class="ij2x_72vy"><path class="nx_9e3w_t"/><path class="i6bqmeb4c"/><path class="xxa4lzb3n"/></g>`,
+		"content": `<path class="x_rgy1sol"/><path class="v1begw9tr"/><path class="xbgj11bpa"/><path class="h150grijx"/><g class="ij2x_72vy"><path class="nx_9e3w_t"/><path class="iul3cibqd"/><path class="ahd_g7qai"/></g>`,
 		"fallback": "openmoji:castle",
 	});
 }

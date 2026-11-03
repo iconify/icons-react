@@ -6,7 +6,7 @@ import '../../css/f/f77ow1-rp.css';
 import '../../css/j/j7oihg-em.css';
 import '../../css/x/x8poo_bjf.css';
 import '../../css/y/y50_l57je.css';
-import '../../css/e/ec92z_pcz.css';
+import '../../css/g/gk6nbnb4v.css';
 import '../../css/r/ri8gvzbpp.css';
 import '../../css/d/dtoy04b3t.css';
 
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="u4z_agy3h"><path class="gtl5_mbfu"/><circle class="f77ow1-rp"/><circle class="j7oihg-em"/></g><g class="x8poo_bjf"><path class="y50_l57je"/><path class="ec92z_pcz"/><circle class="ri8gvzbpp"/><circle class="dtoy04b3t"/></g>`,
+		"content": `<g class="u4z_agy3h"><path class="gtl5_mbfu"/><circle class="f77ow1-rp"/><circle class="j7oihg-em"/></g><g class="x8poo_bjf"><path class="y50_l57je"/><path class="gk6nbnb4v"/><circle class="ri8gvzbpp"/><circle class="dtoy04b3t"/></g>`,
 		"fallback": "openmoji:fork-and-knife-with-plate",
 	});
 }

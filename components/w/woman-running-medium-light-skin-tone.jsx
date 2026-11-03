@@ -7,7 +7,7 @@ import '../../css/v/v73jdib8l.css';
 import '../../css/b/brzn_0bpr.css';
 import '../../css/a/amm3co44a.css';
 import '../../css/c/cw3d66bob.css';
-import '../../css/q/qo-c8go1c.css';
+import '../../css/x/x5l10rknl.css';
 import '../../css/e/ewlnzbcfw.css';
 
 const viewBox = {"width":72,"height":72};
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="wpyqy236k"><circle class="q133b_p0v"/><path class="nzppajfmi"/><path class="v73jdib8l"/></g><g class="brzn_0bpr"><circle class="amm3co44a"/><path class="cw3d66bob"/><path class="qo-c8go1c"/><path class="ewlnzbcfw"/></g>`,
+		"content": `<g class="wpyqy236k"><circle class="q133b_p0v"/><path class="nzppajfmi"/><path class="v73jdib8l"/></g><g class="brzn_0bpr"><circle class="amm3co44a"/><path class="cw3d66bob"/><path class="x5l10rknl"/><path class="ewlnzbcfw"/></g>`,
 		"fallback": "openmoji:woman-running-medium-light-skin-tone",
 	});
 }

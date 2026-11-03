@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hqqcd7bya.css';
-import '../../css/g/ghnrm6ksq.css';
+import '../../css/u/ul_bi8ihr.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hqqcd7bya"/><path class="ghnrm6ksq"/>`,
+		"content": `<path class="hqqcd7bya"/><path class="ul_bi8ihr"/>`,
 		"fallback": "openmoji:trident-emblem",
 	});
 }

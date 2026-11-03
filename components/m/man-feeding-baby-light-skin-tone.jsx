@@ -9,7 +9,7 @@ import '../../css/v/vgfqv0bfg.css';
 import '../../css/g/gn_2_0brn.css';
 import '../../css/d/dkzzj4w1d.css';
 import '../../css/j/jn8qy4bru.css';
-import '../../css/l/lkb72ua0d.css';
+import '../../css/z/zphkauqvf.css';
 import '../../css/p/prg0-63tm.css';
 import '../../css/y/ywniddcnl.css';
 import '../../css/d/dn9uurz-v.css';
@@ -23,7 +23,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fxon-_byi"/><path class="h15lizbyz"/><path class="qtqp3-xjq"/><circle class="yykkwmbei"/><g class="hq1bfqbrr"><path class="vgfqv0bfg"/><path class="gn_2_0brn"/></g><path class="dkzzj4w1d"/><g class="jn8qy4bru"><path class="lkb72ua0d"/><circle class="prg0-63tm"/><path class="ywniddcnl"/><path class="dn9uurz-v"/></g>`,
+		"content": `<path class="fxon-_byi"/><path class="h15lizbyz"/><path class="qtqp3-xjq"/><circle class="yykkwmbei"/><g class="hq1bfqbrr"><path class="vgfqv0bfg"/><path class="gn_2_0brn"/></g><path class="dkzzj4w1d"/><g class="jn8qy4bru"><path class="zphkauqvf"/><circle class="prg0-63tm"/><path class="ywniddcnl"/><path class="dn9uurz-v"/></g>`,
 		"fallback": "openmoji:man-feeding-baby-light-skin-tone",
 	});
 }

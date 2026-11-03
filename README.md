@@ -11,6 +11,11 @@ Browse all icons: [preview OpenMoji on Iconify](https://icon-sets.iconify.design
 ## Installation
 
 ```bash
+npm install gitlab:iconify-icons/react#openmoji
+```
+
+or
+```bash
 npm install github:iconify/icons-react#openmoji
 ```
 

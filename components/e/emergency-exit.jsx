@@ -4,7 +4,7 @@ import '../../css/r/ryli0b21x.css';
 import '../../css/k/kxrdghhzg.css';
 import '../../css/v/vsuf1kbiw.css';
 import '../../css/j/jn8qy4bru.css';
-import '../../css/b/b40mtibns.css';
+import '../../css/z/zk7q6nryy.css';
 import '../../css/w/wok593inm.css';
 
 const viewBox = {"width":72,"height":72};
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ryli0b21x"/><circle class="kxrdghhzg"/><path class="vsuf1kbiw"/><g class="jn8qy4bru"><path class="b40mtibns"/><path class="wok593inm"/></g>`,
+		"content": `<path class="ryli0b21x"/><circle class="kxrdghhzg"/><path class="vsuf1kbiw"/><g class="jn8qy4bru"><path class="zk7q6nryy"/><path class="wok593inm"/></g>`,
 		"fallback": "openmoji:emergency-exit",
 	});
 }

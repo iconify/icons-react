@@ -6,7 +6,7 @@ import '../../css/m/m5p-3qd4a.css';
 import '../../css/p/pwdekvbfn.css';
 import '../../css/i/ik3a81xhf.css';
 import '../../css/z/z04drlb1l.css';
-import '../../css/q/q812qi0em.css';
+import '../../css/d/dfwwzpb3l.css';
 import '../../css/e/ey-8tjbfb.css';
 import '../../css/o/ozpln0mbq.css';
 
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zgi_x_bsy"/><path class="vv-zg3n3h"/><path class="m5p-3qd4a"/><path class="pwdekvbfn"/><path class="ik3a81xhf"/><g class="z04drlb1l"><path class="q812qi0em"/><path class="ey-8tjbfb"/><path class="ozpln0mbq"/></g>`,
+		"content": `<path class="zgi_x_bsy"/><path class="vv-zg3n3h"/><path class="m5p-3qd4a"/><path class="pwdekvbfn"/><path class="ik3a81xhf"/><g class="z04drlb1l"><path class="dfwwzpb3l"/><path class="ey-8tjbfb"/><path class="ozpln0mbq"/></g>`,
 		"fallback": "openmoji:electric-plug",
 	});
 }

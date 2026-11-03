@@ -6,7 +6,7 @@ import '../../css/n/nbudjgbrb.css';
 import '../../css/g/gecge6__a.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/m/m4-6vibjc.css';
-import '../../css/p/pb83nccyn.css';
+import '../../css/e/e46hw7bkb.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zgm50yc_s"/><path class="rjvu1wn-k"/><path class="nbudjgbrb"/><path class="gecge6__a"/><g class="jn8qy4bru"><path class="m4-6vibjc"/><path class="pb83nccyn"/></g>`,
+		"content": `<path class="zgm50yc_s"/><path class="rjvu1wn-k"/><path class="nbudjgbrb"/><path class="gecge6__a"/><g class="jn8qy4bru"><path class="m4-6vibjc"/><path class="e46hw7bkb"/></g>`,
 		"fallback": "openmoji:dagger",
 	});
 }

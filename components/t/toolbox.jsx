@@ -10,7 +10,7 @@ import '../../css/k/kdj4d0wwt.css';
 import '../../css/g/gfbc12aky.css';
 import '../../css/z/zj9lv8b2i.css';
 import '../../css/m/md07lkssk.css';
-import '../../css/t/tfxtefb8p.css';
+import '../../css/k/kr_o1d81e.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ubtt0-b3g"/><path class="du55hrmeb"/><path class="vt00uqbmj"/><path class="b1hs--7gh"/><path class="t-dv3dbyc"/><g class="to5_hpm1w"><path class="kdj4d0wwt"/><path class="gfbc12aky"/><path class="zj9lv8b2i"/><path class="md07lkssk"/><path class="tfxtefb8p"/></g>`,
+		"content": `<path class="ubtt0-b3g"/><path class="du55hrmeb"/><path class="vt00uqbmj"/><path class="b1hs--7gh"/><path class="t-dv3dbyc"/><g class="to5_hpm1w"><path class="kdj4d0wwt"/><path class="gfbc12aky"/><path class="zj9lv8b2i"/><path class="md07lkssk"/><path class="kr_o1d81e"/></g>`,
 		"fallback": "openmoji:toolbox",
 	});
 }

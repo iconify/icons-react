@@ -10,7 +10,7 @@ import '../../css/r/rej2etb5q.css';
 import '../../css/f/fi4b802my.css';
 import '../../css/q/qlahhobeh.css';
 import '../../css/i/ij2x_72vy.css';
-import '../../css/w/wa7rlab4c.css';
+import '../../css/k/k343b2b5l.css';
 import '../../css/x/xz7gqebix.css';
 import '../../css/c/cd11v1dfj.css';
 import '../../css/z/zc_13qbtx.css';
@@ -24,7 +24,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dono3jbnt"/><path class="k46q_qb2n"/><path class="ei58v5bii"/><path class="ud5517b1d"/><path class="vasd38bfi"/><path class="z_lyx23mc"/><path class="rej2etb5q"/><path class="fi4b802my"/><path class="qlahhobeh"/><g class="ij2x_72vy"><path class="wa7rlab4c"/><path class="xz7gqebix"/><path class="cd11v1dfj"/><path class="zc_13qbtx"/></g>`,
+		"content": `<path class="dono3jbnt"/><path class="k46q_qb2n"/><path class="ei58v5bii"/><path class="ud5517b1d"/><path class="vasd38bfi"/><path class="z_lyx23mc"/><path class="rej2etb5q"/><path class="fi4b802my"/><path class="qlahhobeh"/><g class="ij2x_72vy"><path class="k343b2b5l"/><path class="xz7gqebix"/><path class="cd11v1dfj"/><path class="zc_13qbtx"/></g>`,
 		"fallback": "openmoji:monorail",
 	});
 }

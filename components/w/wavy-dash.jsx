@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/k/k3ti3obmt.css';
-import '../../css/m/mef0poblo.css';
+import '../../css/j/jlpxzebyb.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k3ti3obmt"/><path class="mef0poblo"/>`,
+		"content": `<path class="k3ti3obmt"/><path class="jlpxzebyb"/>`,
 		"fallback": "openmoji:wavy-dash",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hhpbuwbuk.css';
-import '../../css/i/i3i83bc-c.css';
+import '../../css/o/o8nz3vbpd.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hhpbuwbuk"/><path class="i3i83bc-c"/>`,
+		"content": `<path class="hhpbuwbuk"/><path class="o8nz3vbpd"/>`,
 		"fallback": "openmoji:wrench",
 	});
 }

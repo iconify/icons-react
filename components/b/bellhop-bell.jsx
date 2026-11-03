@@ -11,7 +11,7 @@ import '../../css/z/z_rdosb3j.css';
 import '../../css/k/kjtdm709d.css';
 import '../../css/p/p-k_akp3p.css';
 import '../../css/s/so1hzfbwi.css';
-import '../../css/p/pwwqypb0b.css';
+import '../../css/b/br4zfexfy.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qqb0yibwd"/><path class="mg98y3ezi"/><path class="njtbjwb0x"/><path class="xbqp9abmy"/><path class="g4yd2ahoq"/><path class="ad7amnb4x"/><g class="to5_hpm1w"><path class="z_rdosb3j"/><path class="kjtdm709d"/><path class="p-k_akp3p"/><path class="so1hzfbwi"/><path class="pwwqypb0b"/></g>`,
+		"content": `<path class="qqb0yibwd"/><path class="mg98y3ezi"/><path class="njtbjwb0x"/><path class="xbqp9abmy"/><path class="g4yd2ahoq"/><path class="ad7amnb4x"/><g class="to5_hpm1w"><path class="z_rdosb3j"/><path class="kjtdm709d"/><path class="p-k_akp3p"/><path class="so1hzfbwi"/><path class="br4zfexfy"/></g>`,
 		"fallback": "openmoji:bellhop-bell",
 	});
 }

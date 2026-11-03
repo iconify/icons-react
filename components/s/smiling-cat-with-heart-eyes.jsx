@@ -7,7 +7,7 @@ import '../../css/c/cdtskgbpa.css';
 import '../../css/h/hcdfcn4yk.css';
 import '../../css/i/ij2x_72vy.css';
 import '../../css/a/a6658-bbb.css';
-import '../../css/p/pvosdhbum.css';
+import '../../css/x/xc6qm6bkn.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b8q6r-b0v"/><path class="lf7kg_bnu"/><path class="frs9qwylh"/><path class="cdtskgbpa"/><path class="hcdfcn4yk"/><g class="ij2x_72vy"><path class="a6658-bbb"/><path class="pvosdhbum"/></g>`,
+		"content": `<path class="b8q6r-b0v"/><path class="lf7kg_bnu"/><path class="frs9qwylh"/><path class="cdtskgbpa"/><path class="hcdfcn4yk"/><g class="ij2x_72vy"><path class="a6658-bbb"/><path class="xc6qm6bkn"/></g>`,
 		"fallback": "openmoji:smiling-cat-with-heart-eyes",
 	});
 }

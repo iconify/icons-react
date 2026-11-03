@@ -5,7 +5,7 @@ import '../../css/r/r92qjrbee.css';
 import '../../css/c/c2dn6-bls.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/w/wgxp6ybdl.css';
-import '../../css/i/iaenl7p1m.css';
+import '../../css/y/y07ht013e.css';
 import '../../css/u/u7olocczg.css';
 import '../../css/r/rp169lb8c.css';
 
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j_04idcau"/><path class="r92qjrbee"/><path class="c2dn6-bls"/><g class="jn8qy4bru"><path class="wgxp6ybdl"/><path class="iaenl7p1m"/><path class="u7olocczg"/><path class="rp169lb8c"/></g>`,
+		"content": `<path class="j_04idcau"/><path class="r92qjrbee"/><path class="c2dn6-bls"/><g class="jn8qy4bru"><path class="wgxp6ybdl"/><path class="y07ht013e"/><path class="u7olocczg"/><path class="rp169lb8c"/></g>`,
 		"fallback": "openmoji:tear-off-calendar",
 	});
 }

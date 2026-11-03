@@ -9,7 +9,7 @@ import '../../css/u/uf57z07ig.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/q/qzvy4pbfa.css';
 import '../../css/y/yksv0_bgc.css';
-import '../../css/z/zvbe4ezzr.css';
+import '../../css/v/v3o619k7p.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bz7zvfk3h"/><path class="l5tchbczb"/><g class="x4u8pbwjc"><path class="em7wggvtv"/><path class="m0ji7x0qy"/><circle class="uf57z07ig"/></g><g class="jn8qy4bru"><path class="qzvy4pbfa"/><path class="yksv0_bgc"/><path class="zvbe4ezzr"/></g>`,
+		"content": `<path class="bz7zvfk3h"/><path class="l5tchbczb"/><g class="x4u8pbwjc"><path class="em7wggvtv"/><path class="m0ji7x0qy"/><circle class="uf57z07ig"/></g><g class="jn8qy4bru"><path class="qzvy4pbfa"/><path class="yksv0_bgc"/><path class="v3o619k7p"/></g>`,
 		"fallback": "openmoji:evacuate-downstairs",
 	});
 }

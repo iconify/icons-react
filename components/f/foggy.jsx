@@ -12,7 +12,7 @@ import '../../css/b/bwiiiccga.css';
 import '../../css/v/v5s_ehb3h.css';
 import '../../css/d/dx4vuc79d.css';
 import '../../css/i/inmy_9xxd.css';
-import '../../css/p/pt_n3ebyj.css';
+import '../../css/l/lodl3fbpk.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -23,7 +23,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k2th0e4og"/><path class="zpchptbvn"/><path class="zqplhxzju"/><path class="dm8y5wb7b"/><path class="kk2xe_bws"/><path class="pj5ukwbvq"/><path class="fkii8rb3v"/><path class="ga21k5zyu"/><path class="bwiiiccga"/><path class="v5s_ehb3h"/><path class="dx4vuc79d"/><path class="inmy_9xxd"/><path class="pt_n3ebyj"/>`,
+		"content": `<path class="k2th0e4og"/><path class="zpchptbvn"/><path class="zqplhxzju"/><path class="dm8y5wb7b"/><path class="kk2xe_bws"/><path class="pj5ukwbvq"/><path class="fkii8rb3v"/><path class="ga21k5zyu"/><path class="bwiiiccga"/><path class="v5s_ehb3h"/><path class="dx4vuc79d"/><path class="inmy_9xxd"/><path class="lodl3fbpk"/>`,
 		"fallback": "openmoji:foggy",
 	});
 }

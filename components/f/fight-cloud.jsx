@@ -8,7 +8,7 @@ import '../../css/f/f4b2b5b0y.css';
 import '../../css/u/u2za_nb9z.css';
 import '../../css/j/jkozvacze.css';
 import '../../css/j/jn8qy4bru.css';
-import '../../css/r/r2ch53yhc.css';
+import '../../css/w/wjr57103p.css';
 import '../../css/j/jabjai4fg.css';
 import '../../css/i/ittlynbqx.css';
 
@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="e3fsewyjy"><path class="o2l9vwbvo"/><path class="xt60nzb_z"/></g><path class="uwedcpk8f"/><path class="f4b2b5b0y"/><path class="u2za_nb9z"/><path class="jkozvacze"/><g class="jn8qy4bru"><path class="r2ch53yhc"/><path class="jabjai4fg"/><path class="ittlynbqx"/></g>`,
+		"content": `<g class="e3fsewyjy"><path class="o2l9vwbvo"/><path class="xt60nzb_z"/></g><path class="uwedcpk8f"/><path class="f4b2b5b0y"/><path class="u2za_nb9z"/><path class="jkozvacze"/><g class="jn8qy4bru"><path class="wjr57103p"/><path class="jabjai4fg"/><path class="ittlynbqx"/></g>`,
 		"fallback": "openmoji:fight-cloud",
 	});
 }

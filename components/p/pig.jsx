@@ -4,7 +4,7 @@ import '../../css/u/uugee_ckg.css';
 import '../../css/b/b7_eq70_a.css';
 import '../../css/i/ij2x_72vy.css';
 import '../../css/c/cn8kflqeu.css';
-import '../../css/j/jm8yjtbgp.css';
+import '../../css/e/eem25gbjx.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uugee_ckg"/><path class="b7_eq70_a"/><g class="ij2x_72vy"><path class="cn8kflqeu"/><path class="jm8yjtbgp"/></g>`,
+		"content": `<path class="uugee_ckg"/><path class="b7_eq70_a"/><g class="ij2x_72vy"><path class="cn8kflqeu"/><path class="eem25gbjx"/></g>`,
 		"fallback": "openmoji:pig",
 	});
 }

@@ -5,7 +5,7 @@ import '../../css/v/vf5b9zb0i.css';
 import '../../css/i/i2wvy_wgy.css';
 import '../../css/r/r4hn0mbcy.css';
 import '../../css/x/x8poo_bjf.css';
-import '../../css/d/de0_phkht.css';
+import '../../css/z/zg3rijrtk.css';
 import '../../css/r/r2xtw7bor.css';
 
 const viewBox = {"width":72,"height":72};
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f657yvg-i"/><g class="vf5b9zb0i"><circle class="i2wvy_wgy"/><path class="r4hn0mbcy"/></g><g class="x8poo_bjf"><circle class="i2wvy_wgy"/><path class="de0_phkht"/><path class="r2xtw7bor"/></g>`,
+		"content": `<path class="f657yvg-i"/><g class="vf5b9zb0i"><circle class="i2wvy_wgy"/><path class="r4hn0mbcy"/></g><g class="x8poo_bjf"><circle class="i2wvy_wgy"/><path class="zg3rijrtk"/><path class="r2xtw7bor"/></g>`,
 		"fallback": "openmoji:person-surfing-medium-dark-skin-tone",
 	});
 }

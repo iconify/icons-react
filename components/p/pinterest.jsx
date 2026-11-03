@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/b/b_5by1bgh.css';
-import '../../css/h/hckr-tb6h.css';
+import '../../css/f/fuuchc-tk.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b_5by1bgh"/><path class="hckr-tb6h"/>`,
+		"content": `<path class="b_5by1bgh"/><path class="fuuchc-tk"/>`,
 		"fallback": "openmoji:pinterest",
 	});
 }

@@ -13,7 +13,7 @@ import '../../css/b/brzn_0bpr.css';
 import '../../css/b/buyqzc8ct.css';
 import '../../css/m/me_3l_b4k.css';
 import '../../css/m/mpqvphioo.css';
-import '../../css/l/lkq4a16lk.css';
+import '../../css/l/luluhubxg.css';
 import '../../css/h/hm3v71blp.css';
 import '../../css/r/r8m1w247w.css';
 
@@ -26,7 +26,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ipn39nb8z"/><path class="rs4ql2yvz"/><path class="zn91qubdg"/><path class="qgvavt3qi"/><path class="tngv7sudk"/><path class="padc0mdgk"/><path class="cx_-qib-a"/><path class="k1vn6tb8l"/><path class="suselt1-t"/><g class="brzn_0bpr"><path class="buyqzc8ct"/><path class="me_3l_b4k"/><path class="mpqvphioo"/><path class="lkq4a16lk"/><path class="hm3v71blp"/><path class="r8m1w247w"/></g>`,
+		"content": `<path class="ipn39nb8z"/><path class="rs4ql2yvz"/><path class="zn91qubdg"/><path class="qgvavt3qi"/><path class="tngv7sudk"/><path class="padc0mdgk"/><path class="cx_-qib-a"/><path class="k1vn6tb8l"/><path class="suselt1-t"/><g class="brzn_0bpr"><path class="buyqzc8ct"/><path class="me_3l_b4k"/><path class="mpqvphioo"/><path class="luluhubxg"/><path class="hm3v71blp"/><path class="r8m1w247w"/></g>`,
 		"fallback": "openmoji:raccoon",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/lt9f0cb0i.css';
-import '../../css/b/brrdf9bhm.css';
+import '../../css/l/lz7k7y3sv.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lt9f0cb0i"/><path class="brrdf9bhm"/>`,
+		"content": `<path class="lt9f0cb0i"/><path class="lz7k7y3sv"/>`,
 		"fallback": "openmoji:spoon",
 	});
 }

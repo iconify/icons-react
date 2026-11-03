@@ -5,7 +5,7 @@ import '../../css/r/rrmex0lvx.css';
 import '../../css/l/lijjq1poj.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/h/hiudp9bpu.css';
-import '../../css/b/bn4qn_b5m.css';
+import '../../css/r/rydai1bzg.css';
 import '../../css/l/lg5bhsb0i.css';
 
 const viewBox = {"width":72,"height":72};
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="lr4jm709b"/><path class="rrmex0lvx"/><path class="lijjq1poj"/><g class="jn8qy4bru"><circle class="hiudp9bpu"/><path class="bn4qn_b5m"/><path class="lg5bhsb0i"/></g>`,
+		"content": `<circle class="lr4jm709b"/><path class="rrmex0lvx"/><path class="lijjq1poj"/><g class="jn8qy4bru"><circle class="hiudp9bpu"/><path class="rydai1bzg"/><path class="lg5bhsb0i"/></g>`,
 		"fallback": "openmoji:boy-standing",
 	});
 }

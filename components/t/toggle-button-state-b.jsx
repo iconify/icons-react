@@ -5,7 +5,7 @@ import '../../css/m/mz-os-bmg.css';
 import '../../css/i/ixayrypbe.css';
 import '../../css/x/x_xp0fb8j.css';
 import '../../css/i/ij2x_72vy.css';
-import '../../css/d/dmojpbbzm.css';
+import '../../css/j/jdg1d8u_x.css';
 import '../../css/d/d1qgnn8hc.css';
 import '../../css/w/w_0jp_bmb.css';
 
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ae849gbxa"><path class="mz-os-bmg"/><circle class="ixayrypbe"/><path class="x_xp0fb8j"/></g><g class="ij2x_72vy"><path class="dmojpbbzm"/><circle class="d1qgnn8hc"/><path class="w_0jp_bmb"/></g>`,
+		"content": `<g class="ae849gbxa"><path class="mz-os-bmg"/><circle class="ixayrypbe"/><path class="x_xp0fb8j"/></g><g class="ij2x_72vy"><path class="jdg1d8u_x"/><circle class="d1qgnn8hc"/><path class="w_0jp_bmb"/></g>`,
 		"fallback": "openmoji:toggle-button-state-b",
 	});
 }

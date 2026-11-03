@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/y/yhz-90b4r.css';
-import '../../css/u/udf7n_b4p.css';
+import '../../css/g/gfbw707kv.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yhz-90b4r"/><path class="udf7n_b4p"/>`,
+		"content": `<path class="yhz-90b4r"/><path class="gfbw707kv"/>`,
 		"fallback": "openmoji:artstation",
 	});
 }

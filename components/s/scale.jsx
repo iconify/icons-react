@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/msxw39e1d.css';
+import '../../css/q/qfm4mdbvy.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="msxw39e1d"/>`,
+		"content": `<path class="qfm4mdbvy"/>`,
 		"fallback": "openmoji:scale",
 	});
 }

@@ -5,7 +5,7 @@ import '../../css/h/hz1zk_bsj.css';
 import '../../css/a/awpu8mb-l.css';
 import '../../css/x/x8poo_bjf.css';
 import '../../css/n/n5bhdb4ld.css';
-import '../../css/m/mzz-ioa3t.css';
+import '../../css/x/xzq96meoh.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="k9pq-abme"><circle class="hz1zk_bsj"/><path class="awpu8mb-l"/></g><g class="x8poo_bjf"><circle class="hz1zk_bsj"/><path class="n5bhdb4ld"/><path class="mzz-ioa3t"/></g>`,
+		"content": `<g class="k9pq-abme"><circle class="hz1zk_bsj"/><path class="awpu8mb-l"/></g><g class="x8poo_bjf"><circle class="hz1zk_bsj"/><path class="n5bhdb4ld"/><path class="xzq96meoh"/></g>`,
 		"fallback": "openmoji:person-in-lotus-position-medium-skin-tone",
 	});
 }

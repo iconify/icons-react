@@ -5,7 +5,7 @@ import '../../css/y/yugwo7b3o.css';
 import '../../css/r/r_amhvbap.css';
 import '../../css/i/ij2x_72vy.css';
 import '../../css/u/ubtitpbsd.css';
-import '../../css/p/pod_bnbkb.css';
+import '../../css/w/waf7g3b8h.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="chr1acb-v"/><path class="yugwo7b3o"/><path class="r_amhvbap"/><g class="ij2x_72vy"><path class="ubtitpbsd"/><path class="pod_bnbkb"/></g>`,
+		"content": `<path class="chr1acb-v"/><path class="yugwo7b3o"/><path class="r_amhvbap"/><g class="ij2x_72vy"><path class="ubtitpbsd"/><path class="waf7g3b8h"/></g>`,
 		"fallback": "openmoji:donkey",
 	});
 }

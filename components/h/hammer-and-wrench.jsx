@@ -6,7 +6,7 @@ import '../../css/m/mixumub2y.css';
 import '../../css/a/a0ezjxkkf.css';
 import '../../css/x/xb0dlfuwk.css';
 import '../../css/a/amg3e5b5r.css';
-import '../../css/s/sath0kbdg.css';
+import '../../css/l/lrbvcbcon.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kpkwgdkyq"/><path class="t9lx2dbpq"/><path class="mixumub2y"/><path class="a0ezjxkkf"/><path class="xb0dlfuwk"/><path class="amg3e5b5r"/><path class="sath0kbdg"/>`,
+		"content": `<path class="kpkwgdkyq"/><path class="t9lx2dbpq"/><path class="mixumub2y"/><path class="a0ezjxkkf"/><path class="xb0dlfuwk"/><path class="amg3e5b5r"/><path class="lrbvcbcon"/>`,
 		"fallback": "openmoji:hammer-and-wrench",
 	});
 }

@@ -5,7 +5,7 @@ import '../../css/x/xxonbvbnd.css';
 import '../../css/i/ij2x_72vy.css';
 import '../../css/v/vldzwb61k.css';
 import '../../css/u/uj_cakbpx.css';
-import '../../css/z/zs1hzja9h.css';
+import '../../css/e/epzbhlb3j.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a2w3kw90h"/><path class="xxonbvbnd"/><g class="ij2x_72vy"><path class="vldzwb61k"/><path class="uj_cakbpx"/><path class="zs1hzja9h"/></g>`,
+		"content": `<path class="a2w3kw90h"/><path class="xxonbvbnd"/><g class="ij2x_72vy"><path class="vldzwb61k"/><path class="uj_cakbpx"/><path class="epzbhlb3j"/></g>`,
 		"fallback": "openmoji:notebook",
 	});
 }

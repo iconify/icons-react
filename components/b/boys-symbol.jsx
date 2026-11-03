@@ -7,7 +7,7 @@ import '../../css/i/in-tozufp.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/n/n8gu1ebhy.css';
 import '../../css/a/amrud_b6t.css';
-import '../../css/f/f4ynodbvo.css';
+import '../../css/r/r1wmnyb3h.css';
 import '../../css/i/i1husubzm.css';
 
 const viewBox = {"width":72,"height":72};
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mrks0fbpf"/><circle class="doeb2ib7n"/><path class="xhk3xvr4u"/><path class="in-tozufp"/><g class="jn8qy4bru"><path class="n8gu1ebhy"/><circle class="amrud_b6t"/><path class="f4ynodbvo"/><path class="i1husubzm"/></g>`,
+		"content": `<path class="mrks0fbpf"/><circle class="doeb2ib7n"/><path class="xhk3xvr4u"/><path class="in-tozufp"/><g class="jn8qy4bru"><path class="n8gu1ebhy"/><circle class="amrud_b6t"/><path class="r1wmnyb3h"/><path class="i1husubzm"/></g>`,
 		"fallback": "openmoji:boys-symbol",
 	});
 }

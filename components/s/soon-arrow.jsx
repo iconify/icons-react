@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/ddq_2tbpa.css';
-import '../../css/u/u9_0cx3wu.css';
+import '../../css/a/avm-knshb.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ddq_2tbpa"/><path class="u9_0cx3wu"/>`,
+		"content": `<path class="ddq_2tbpa"/><path class="avm-knshb"/>`,
 		"fallback": "openmoji:soon-arrow",
 	});
 }

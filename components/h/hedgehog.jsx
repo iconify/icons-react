@@ -3,8 +3,8 @@ import { createElement } from 'react';
 import '../../css/o/oj_j01b-n.css';
 import '../../css/k/k99pi4o6z.css';
 import '../../css/i/ij2x_72vy.css';
-import '../../css/k/khaum3bxk.css';
-import '../../css/g/go94mvb9x.css';
+import '../../css/g/g4t23_b3u.css';
+import '../../css/t/tv76tf8go.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oj_j01b-n"/><path class="k99pi4o6z"/><g class="ij2x_72vy"><path class="khaum3bxk"/><path class="go94mvb9x"/></g>`,
+		"content": `<path class="oj_j01b-n"/><path class="k99pi4o6z"/><g class="ij2x_72vy"><path class="g4t23_b3u"/><path class="tv76tf8go"/></g>`,
 		"fallback": "openmoji:hedgehog",
 	});
 }

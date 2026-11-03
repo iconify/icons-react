@@ -11,7 +11,7 @@ import '../../css/u/u9yh_jb_g.css';
 import '../../css/u/uzs1o5buo.css';
 import '../../css/v/vi3y68brs.css';
 import '../../css/v/vgn8j_1tq.css';
-import '../../css/r/r1nr39ark.css';
+import '../../css/f/ftrz5qb9a.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="od-kebojv"/><path class="w1usx9wox"/><path class="od4_0bxsi"/><path class="wx3pult5d"/><path class="rb4ewebvj"/><path class="y89a3hbvr"/><path class="g4o-8hbkx"/><path class="u9yh_jb_g"/><path class="uzs1o5buo"/><path class="vi3y68brs"/><path class="vgn8j_1tq"/><path class="r1nr39ark"/>`,
+		"content": `<path class="od-kebojv"/><path class="w1usx9wox"/><path class="od4_0bxsi"/><path class="wx3pult5d"/><path class="rb4ewebvj"/><path class="y89a3hbvr"/><path class="g4o-8hbkx"/><path class="u9yh_jb_g"/><path class="uzs1o5buo"/><path class="vi3y68brs"/><path class="vgn8j_1tq"/><path class="ftrz5qb9a"/>`,
 		"fallback": "openmoji:teddy-bear",
 	});
 }

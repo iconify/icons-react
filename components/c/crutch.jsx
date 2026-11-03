@@ -5,7 +5,7 @@ import '../../css/h/hzhjkd9qs.css';
 import '../../css/t/tcjp2ixaq.css';
 import '../../css/b/brzn_0bpr.css';
 import '../../css/p/ptnvr4b0o.css';
-import '../../css/m/mdaycg09e.css';
+import '../../css/i/i7h1blb6n.css';
 import '../../css/y/yc1apxber.css';
 
 const viewBox = {"width":72,"height":72};
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="zmgukn87m"><path class="hzhjkd9qs"/><path class="tcjp2ixaq"/></g><g class="brzn_0bpr"><path class="ptnvr4b0o"/><path class="mdaycg09e"/><path class="yc1apxber"/></g>`,
+		"content": `<g class="zmgukn87m"><path class="hzhjkd9qs"/><path class="tcjp2ixaq"/></g><g class="brzn_0bpr"><path class="ptnvr4b0o"/><path class="i7h1blb6n"/><path class="yc1apxber"/></g>`,
 		"fallback": "openmoji:crutch",
 	});
 }

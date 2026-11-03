@@ -10,7 +10,7 @@ import '../../css/s/sx4t15btu.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/r/r87n-1b4m.css';
 import '../../css/v/vlxsozv4t.css';
-import '../../css/j/jb4i499jz.css';
+import '../../css/v/vbpermbna.css';
 import '../../css/o/o1zfrabpg.css';
 import '../../css/z/zl-sr5bqt.css';
 
@@ -23,7 +23,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="twtzmnm7l"/><path class="ot6m68bpc"/><path class="om88zllss"/><path class="n7j27vblz"/><path class="qgeevo0ly"/><path class="fhfun6bju"/><path class="sx4t15btu"/><g class="jn8qy4bru"><path class="r87n-1b4m"/><path class="vlxsozv4t"/><path class="jb4i499jz"/><path class="o1zfrabpg"/><rect transform="rotate(-84.74 33.787 48.842)" class="zl-sr5bqt"/></g>`,
+		"content": `<path class="twtzmnm7l"/><path class="ot6m68bpc"/><path class="om88zllss"/><path class="n7j27vblz"/><path class="qgeevo0ly"/><path class="fhfun6bju"/><path class="sx4t15btu"/><g class="jn8qy4bru"><path class="r87n-1b4m"/><path class="vlxsozv4t"/><path class="vbpermbna"/><path class="o1zfrabpg"/><rect transform="rotate(-84.74 33.787 48.842)" class="zl-sr5bqt"/></g>`,
 		"fallback": "openmoji:military-helmet",
 	});
 }

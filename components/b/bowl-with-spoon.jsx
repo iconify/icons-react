@@ -5,7 +5,7 @@ import '../../css/x/x34dybc5a.css';
 import '../../css/j/jihb52b5a.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/v/vmpwdzb_y.css';
-import '../../css/t/tjhblrbih.css';
+import '../../css/b/boh3ko58j.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wmzn24bfh"/><path class="x34dybc5a"/><path class="jihb52b5a"/><g class="jn8qy4bru"><path class="vmpwdzb_y"/><path class="tjhblrbih"/></g>`,
+		"content": `<path class="wmzn24bfh"/><path class="x34dybc5a"/><path class="jihb52b5a"/><g class="jn8qy4bru"><path class="vmpwdzb_y"/><path class="boh3ko58j"/></g>`,
 		"fallback": "openmoji:bowl-with-spoon",
 	});
 }

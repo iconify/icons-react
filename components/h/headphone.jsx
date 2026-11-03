@@ -5,8 +5,8 @@ import '../../css/m/myyi8vngx.css';
 import '../../css/o/ov3z5ybhm.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/g/gf76gdbwh.css';
-import '../../css/w/wkwymhb-o.css';
-import '../../css/h/hhdhrc96d.css';
+import '../../css/l/lr-e6xyga.css';
+import '../../css/a/a141ezb9d.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p98tnc2uy"/><path class="myyi8vngx"/><path class="ov3z5ybhm"/><g class="jn8qy4bru"><path class="gf76gdbwh"/><path class="wkwymhb-o"/><path class="hhdhrc96d"/></g>`,
+		"content": `<path class="p98tnc2uy"/><path class="myyi8vngx"/><path class="ov3z5ybhm"/><g class="jn8qy4bru"><path class="gf76gdbwh"/><path class="lr-e6xyga"/><path class="a141ezb9d"/></g>`,
 		"fallback": "openmoji:headphone",
 	});
 }

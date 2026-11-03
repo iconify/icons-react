@@ -10,7 +10,7 @@ import '../../css/s/srmcv3q5m.css';
 import '../../css/f/f9poklboe.css';
 import '../../css/p/posvtmfmo.css';
 import '../../css/n/n1fh_kbkz.css';
-import '../../css/j/jnl_nvcgt.css';
+import '../../css/q/qiqjqqbet.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fwm-vtb9j"/><path class="gbo7s9bqv"/><path class="k1zdocfzj"/><path class="x_xz4j6jm"/><path class="mj3_jhbvv"/><path class="fr6umxb4x"/><path class="srmcv3q5m"/><g class="f9poklboe"><path class="posvtmfmo"/><path class="n1fh_kbkz"/><path class="jnl_nvcgt"/></g>`,
+		"content": `<path class="fwm-vtb9j"/><path class="gbo7s9bqv"/><path class="k1zdocfzj"/><path class="x_xz4j6jm"/><path class="mj3_jhbvv"/><path class="fr6umxb4x"/><path class="srmcv3q5m"/><g class="f9poklboe"><path class="posvtmfmo"/><path class="n1fh_kbkz"/><path class="qiqjqqbet"/></g>`,
 		"fallback": "openmoji:charging-station",
 	});
 }

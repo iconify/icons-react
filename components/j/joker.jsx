@@ -7,7 +7,7 @@ import '../../css/c/cm5ew0b-g.css';
 import '../../css/i/ibudfbbzj.css';
 import '../../css/v/vzpfgihor.css';
 import '../../css/f/flgp14kwi.css';
-import '../../css/o/oeuzbyykd.css';
+import '../../css/e/e1yq9cctb.css';
 import '../../css/k/k-jmo0bxs.css';
 import '../../css/f/fbrx4cc8u.css';
 import '../../css/s/sy2i10zgt.css';
@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xffbjwbtb"/><path class="hdxoraccf"/><path class="sqb40ukbe"/><path class="cm5ew0b-g"/><path class="ibudfbbzj"/><path class="vzpfgihor"/><path class="flgp14kwi"/><path class="oeuzbyykd"/><circle class="k-jmo0bxs"/><circle class="fbrx4cc8u"/><circle class="sy2i10zgt"/><path class="dz_05qbcl"/>`,
+		"content": `<path class="xffbjwbtb"/><path class="hdxoraccf"/><path class="sqb40ukbe"/><path class="cm5ew0b-g"/><path class="ibudfbbzj"/><path class="vzpfgihor"/><path class="flgp14kwi"/><path class="e1yq9cctb"/><circle class="k-jmo0bxs"/><circle class="fbrx4cc8u"/><circle class="sy2i10zgt"/><path class="dz_05qbcl"/>`,
 		"fallback": "openmoji:joker",
 	});
 }

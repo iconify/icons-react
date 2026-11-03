@@ -7,7 +7,7 @@ import '../../css/y/yu5swobax.css';
 import '../../css/z/zxwj7ecff.css';
 import '../../css/x/x8poo_bjf.css';
 import '../../css/l/l1uhiebia.css';
-import '../../css/m/mvpu7zbnz.css';
+import '../../css/e/e13jlni0d.css';
 import '../../css/k/kxkls-but.css';
 
 const viewBox = {"width":72,"height":72};
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="h57zd1b-p"/><g class="bbt4cvb0h"><circle class="setlbfbis"/><path class="yu5swobax"/><path class="zxwj7ecff"/></g><g class="x8poo_bjf"><circle class="setlbfbis"/><circle class="l1uhiebia"/><path class="mvpu7zbnz"/><path class="kxkls-but"/></g>`,
+		"content": `<circle class="h57zd1b-p"/><g class="bbt4cvb0h"><circle class="setlbfbis"/><path class="yu5swobax"/><path class="zxwj7ecff"/></g><g class="x8poo_bjf"><circle class="setlbfbis"/><circle class="l1uhiebia"/><path class="e13jlni0d"/><path class="kxkls-but"/></g>`,
 		"fallback": "openmoji:person-bouncing-ball-dark-skin-tone",
 	});
 }

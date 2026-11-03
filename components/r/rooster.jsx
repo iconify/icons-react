@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ox8x25enn.css';
+import '../../css/g/gbywigb2j.css';
 import '../../css/h/hxjrp7bsm.css';
 import '../../css/u/uifpxk46j.css';
 import '../../css/i/ij2x_72vy.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ox8x25enn"/><path class="hxjrp7bsm"/><path class="uifpxk46j"/><g class="ij2x_72vy"><path class="tiw4sgagi"/><path class="u655hlwru"/></g>`,
+		"content": `<path class="gbywigb2j"/><path class="hxjrp7bsm"/><path class="uifpxk46j"/><g class="ij2x_72vy"><path class="tiw4sgagi"/><path class="u655hlwru"/></g>`,
 		"fallback": "openmoji:rooster",
 	});
 }

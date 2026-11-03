@@ -5,7 +5,7 @@ import '../../css/h/hzhb0bcwn.css';
 import '../../css/a/aymm9687y.css';
 import '../../css/r/rbrc508ky.css';
 import '../../css/l/ldneyybya.css';
-import '../../css/b/bs3jnjb_k.css';
+import '../../css/p/p7u7k5zhl.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uaf7zzb_b"/><g class="hzhb0bcwn"><path class="aymm9687y"/><path class="rbrc508ky"/><path class="ldneyybya"/><path class="bs3jnjb_k"/></g>`,
+		"content": `<path class="uaf7zzb_b"/><g class="hzhb0bcwn"><path class="aymm9687y"/><path class="rbrc508ky"/><path class="ldneyybya"/><path class="p7u7k5zhl"/></g>`,
 		"fallback": "openmoji:alien-monster",
 	});
 }

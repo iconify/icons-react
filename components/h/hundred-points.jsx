@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t69l_3jve.css';
+import '../../css/g/grb84xddd.css';
 import '../../css/w/wd-ix_sxa.css';
 import '../../css/e/eh35uyflb.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><path id="SVGc4SZ0cCp" class="t69l_3jve"/></defs><use href="#SVGc4SZ0cCp" class="wd-ix_sxa"/><use href="#SVGc4SZ0cCp" class="eh35uyflb"/>`,
+		"content": `<defs><path id="SVGrg9cCcwZ" class="grb84xddd"/></defs><use href="#SVGrg9cCcwZ" class="wd-ix_sxa"/><use href="#SVGrg9cCcwZ" class="eh35uyflb"/>`,
 		"fallback": "openmoji:hundred-points",
 	});
 }

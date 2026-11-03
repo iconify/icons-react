@@ -10,7 +10,7 @@ import '../../css/z/z04drlb1l.css';
 import '../../css/x/xtipnobil.css';
 import '../../css/q/q3pfx7bia.css';
 import '../../css/l/lciuqzbmf.css';
-import '../../css/r/rp50_bcvl.css';
+import '../../css/t/tjk9ubcvp.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k6519s9hi"/><path class="pj7umhbct"/><path class="w9f5vhbbf"/><ellipse class="r2nywfb_m"/><path class="lp7bhyb1c"/><path class="zcg5n7bqa"/><g class="z04drlb1l"><path class="xtipnobil"/><path class="q3pfx7bia"/><path class="lciuqzbmf"/><path class="rp50_bcvl"/></g>`,
+		"content": `<path class="k6519s9hi"/><path class="pj7umhbct"/><path class="w9f5vhbbf"/><ellipse class="r2nywfb_m"/><path class="lp7bhyb1c"/><path class="zcg5n7bqa"/><g class="z04drlb1l"><path class="xtipnobil"/><path class="q3pfx7bia"/><path class="lciuqzbmf"/><path class="tjk9ubcvp"/></g>`,
 		"fallback": "openmoji:dollar-banknote",
 	});
 }

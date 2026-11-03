@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jcyedxxtq.css';
+import '../../css/d/dyf0a2sut.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/p/pyhwdlbaj.css';
 import '../../css/f/fk9ervbqx.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jcyedxxtq"/><g class="jn8qy4bru"><path class="pyhwdlbaj"/><path class="fk9ervbqx"/><path class="cfi22q2gr"/></g>`,
+		"content": `<path class="dyf0a2sut"/><g class="jn8qy4bru"><path class="pyhwdlbaj"/><path class="fk9ervbqx"/><path class="cfi22q2gr"/></g>`,
 		"fallback": "openmoji:fingerprint",
 	});
 }

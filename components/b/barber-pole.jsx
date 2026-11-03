@@ -6,7 +6,7 @@ import '../../css/m/mrfkyrbzf.css';
 import '../../css/l/lsw-97xqb.css';
 import '../../css/n/ntmncb6za.css';
 import '../../css/i/ij2x_72vy.css';
-import '../../css/n/nz8i3_8cf.css';
+import '../../css/b/bo8m2caoj.css';
 import '../../css/l/l5f9vyk8m.css';
 import '../../css/b/bm_xi_-9f.css';
 
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ae849gbxa"><path class="zngqh74uw"/><path class="mrfkyrbzf"/><path class="lsw-97xqb"/><path class="ntmncb6za"/></g><g class="ij2x_72vy"><path class="nz8i3_8cf"/><path class="l5f9vyk8m"/><path class="bm_xi_-9f"/></g>`,
+		"content": `<g class="ae849gbxa"><path class="zngqh74uw"/><path class="mrfkyrbzf"/><path class="lsw-97xqb"/><path class="ntmncb6za"/></g><g class="ij2x_72vy"><path class="bo8m2caoj"/><path class="l5f9vyk8m"/><path class="bm_xi_-9f"/></g>`,
 		"fallback": "openmoji:barber-pole",
 	});
 }

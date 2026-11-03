@@ -9,8 +9,8 @@ import '../../css/m/m_wf7pd_c.css';
 import '../../css/y/yp_pngb3p.css';
 import '../../css/b/brzn_0bpr.css';
 import '../../css/n/nyp7xbb-r.css';
-import '../../css/o/oaz0a3wlp.css';
-import '../../css/k/k3ihp_-ik.css';
+import '../../css/a/a-lvbbjoe.css';
+import '../../css/d/d71inobtv.css';
 import '../../css/w/wor606edz.css';
 import '../../css/j/j61-w7bto.css';
 import '../../css/l/lv4j5ac1m.css';
@@ -25,7 +25,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="ednohy4ic"/><circle class="w94_oobvj"/><path class="qkxifhbzb"/><path class="cehj_bbbz"/><g class="eztqw9biy"><circle class="m_wf7pd_c"/><path class="yp_pngb3p"/></g><g class="brzn_0bpr"><circle class="nyp7xbb-r"/><path class="oaz0a3wlp"/><path class="k3ihp_-ik"/><path class="wor606edz"/><circle class="j61-w7bto"/><circle class="lv4j5ac1m"/><path class="poou0fyae"/></g>`,
+		"content": `<circle class="ednohy4ic"/><circle class="w94_oobvj"/><path class="qkxifhbzb"/><path class="cehj_bbbz"/><g class="eztqw9biy"><circle class="m_wf7pd_c"/><path class="yp_pngb3p"/></g><g class="brzn_0bpr"><circle class="nyp7xbb-r"/><path class="a-lvbbjoe"/><path class="d71inobtv"/><path class="wor606edz"/><circle class="j61-w7bto"/><circle class="lv4j5ac1m"/><path class="poou0fyae"/></g>`,
 		"fallback": "openmoji:man-in-motorized-wheelchair-medium-dark-skin-tone",
 	});
 }

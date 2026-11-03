@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/fjf8htb8n.css';
-import '../../css/c/cg7sbj33e.css';
-import '../../css/i/ix5ht9bxi.css';
+import '../../css/j/jnu1yz2pk.css';
+import '../../css/x/xlqockw5m.css';
 import '../../css/z/zh2h96b0l.css';
 import '../../css/i/ilz9b8c5r.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fjf8htb8n"/><path class="cg7sbj33e"/><path class="ix5ht9bxi"/><path class="zh2h96b0l"/><path class="ilz9b8c5r"/>`,
+		"content": `<path class="fjf8htb8n"/><path class="jnu1yz2pk"/><path class="xlqockw5m"/><path class="zh2h96b0l"/><path class="ilz9b8c5r"/>`,
 		"fallback": "openmoji:melting-face",
 	});
 }

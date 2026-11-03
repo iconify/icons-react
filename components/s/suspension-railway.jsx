@@ -6,7 +6,7 @@ import '../../css/n/nwqgddbmc.css';
 import '../../css/l/ll5w0-bfb.css';
 import '../../css/r/ricqq_bwv.css';
 import '../../css/b/btnne-b7c.css';
-import '../../css/e/e0932zbwd.css';
+import '../../css/i/irhnmhbny.css';
 import '../../css/v/vx6nh9bmj.css';
 import '../../css/l/lsvpv55ej.css';
 import '../../css/e/ez21lu2no.css';
@@ -25,7 +25,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="j-npdpb0r"><path class="b5d49bb8l"/><path class="nwqgddbmc"/><path class="ll5w0-bfb"/><path class="ricqq_bwv"/></g><g class="btnne-b7c"><path class="e0932zbwd"/><path class="vx6nh9bmj"/><path class="lsvpv55ej"/><path class="ez21lu2no"/><path class="aq1sgmi4t"/><path class="pzv3s7tzu"/><path class="zf04sob1i"/><path class="olt16yb2e"/><path class="jfthm1blv"/></g>`,
+		"content": `<g class="j-npdpb0r"><path class="b5d49bb8l"/><path class="nwqgddbmc"/><path class="ll5w0-bfb"/><path class="ricqq_bwv"/></g><g class="btnne-b7c"><path class="irhnmhbny"/><path class="vx6nh9bmj"/><path class="lsvpv55ej"/><path class="ez21lu2no"/><path class="aq1sgmi4t"/><path class="pzv3s7tzu"/><path class="zf04sob1i"/><path class="olt16yb2e"/><path class="jfthm1blv"/></g>`,
 		"fallback": "openmoji:suspension-railway",
 	});
 }

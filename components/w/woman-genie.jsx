@@ -13,7 +13,7 @@ import '../../css/s/slxme6b-t.css';
 import '../../css/s/s30y0pijs.css';
 import '../../css/j/jz9m8o_mp.css';
 import '../../css/k/kco325b2d.css';
-import '../../css/d/dk5mq7zjw.css';
+import '../../css/r/r1izsl-lx.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -24,7 +24,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="le19kdc_f"/><path class="qdoou1dlk"/><path class="ed0ha9sfi"/><path class="qhhc4zbnp"/><ellipse class="ktlkvyiry"/><path class="xccvuilrh"/><path class="o9mz01s6a"/><ellipse class="qq_p9vbfh"/><path class="k82zgebrl"/><path class="slxme6b-t"/><path class="s30y0pijs"/><path class="jz9m8o_mp"/><path class="kco325b2d"/><path class="dk5mq7zjw"/>`,
+		"content": `<path class="le19kdc_f"/><path class="qdoou1dlk"/><path class="ed0ha9sfi"/><path class="qhhc4zbnp"/><ellipse class="ktlkvyiry"/><path class="xccvuilrh"/><path class="o9mz01s6a"/><ellipse class="qq_p9vbfh"/><path class="k82zgebrl"/><path class="slxme6b-t"/><path class="s30y0pijs"/><path class="jz9m8o_mp"/><path class="kco325b2d"/><path class="r1izsl-lx"/>`,
 		"fallback": "openmoji:woman-genie",
 	});
 }

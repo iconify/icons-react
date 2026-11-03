@@ -6,7 +6,7 @@ import '../../css/j/j-ih9d92t.css';
 import '../../css/x/x7a3q1b3l.css';
 import '../../css/s/shoeovb9g.css';
 import '../../css/j/jn8qy4bru.css';
-import '../../css/i/iqsqkbbcc.css';
+import '../../css/w/wcqyxab-b.css';
 import '../../css/x/xtyenbcqc.css';
 import '../../css/a/an2ftrb5p.css';
 
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jgjy9r09n"/><path class="i6jqbtb4r"/><path class="j-ih9d92t"/><path class="x7a3q1b3l"/><path class="shoeovb9g"/><g class="jn8qy4bru"><path class="iqsqkbbcc"/><path class="xtyenbcqc"/><path class="an2ftrb5p"/></g>`,
+		"content": `<path class="jgjy9r09n"/><path class="i6jqbtb4r"/><path class="j-ih9d92t"/><path class="x7a3q1b3l"/><path class="shoeovb9g"/><g class="jn8qy4bru"><path class="wcqyxab-b"/><path class="xtyenbcqc"/><path class="an2ftrb5p"/></g>`,
 		"fallback": "openmoji:dodo",
 	});
 }

@@ -7,7 +7,7 @@ import '../../css/z/ztuuj7i-c.css';
 import '../../css/z/z04drlb1l.css';
 import '../../css/r/rgm6lhb4q.css';
 import '../../css/k/km_iyubzm.css';
-import '../../css/g/ggsu8tn_m.css';
+import '../../css/a/acu2nxm0p.css';
 import '../../css/w/wg08686ck.css';
 import '../../css/s/sh-t9ccek.css';
 import '../../css/u/utv6ymtjf.css';
@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rjype7bxv"/><path class="zuight_1c"/><path class="v1h0tc80k"/><path class="ztuuj7i-c"/><g class="z04drlb1l"><path class="rgm6lhb4q"/><path class="km_iyubzm"/><path class="ggsu8tn_m"/><path class="wg08686ck"/><path class="sh-t9ccek"/><path class="utv6ymtjf"/></g>`,
+		"content": `<path class="rjype7bxv"/><path class="zuight_1c"/><path class="v1h0tc80k"/><path class="ztuuj7i-c"/><g class="z04drlb1l"><path class="rgm6lhb4q"/><path class="km_iyubzm"/><path class="acu2nxm0p"/><path class="wg08686ck"/><path class="sh-t9ccek"/><path class="utv6ymtjf"/></g>`,
 		"fallback": "openmoji:woman-sneezing-into-elbow",
 	});
 }

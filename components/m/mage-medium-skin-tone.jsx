@@ -7,7 +7,7 @@ import '../../css/i/ipqflkpvf.css';
 import '../../css/x/x6o_f8bzm.css';
 import '../../css/a/ahz0upblx.css';
 import '../../css/k/knurkbklx.css';
-import '../../css/d/d5d9zrb0b.css';
+import '../../css/p/pznmt8bcz.css';
 import '../../css/h/h2l9xs_0p.css';
 import '../../css/w/wkz0_n5gi.css';
 import '../../css/n/nk9i3irvx.css';
@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ed-idh1qq"/><path class="oychbz_cf"/><path class="me83qybfj"/><path class="ipqflkpvf"/><path class="x6o_f8bzm"/><path class="ahz0upblx"/><path class="knurkbklx"/><path class="d5d9zrb0b"/><path class="h2l9xs_0p"/><path class="wkz0_n5gi"/><path class="nk9i3irvx"/><path class="q3aj0vory"/>`,
+		"content": `<path class="ed-idh1qq"/><path class="oychbz_cf"/><path class="me83qybfj"/><path class="ipqflkpvf"/><path class="x6o_f8bzm"/><path class="ahz0upblx"/><path class="knurkbklx"/><path class="pznmt8bcz"/><path class="h2l9xs_0p"/><path class="wkz0_n5gi"/><path class="nk9i3irvx"/><path class="q3aj0vory"/>`,
 		"fallback": "openmoji:mage-medium-skin-tone",
 	});
 }

@@ -6,7 +6,7 @@ import '../../css/m/mgk2zwu0h.css';
 import '../../css/t/tta6kkblt.css';
 import '../../css/y/yejd8jbuo.css';
 import '../../css/y/yun89fbhz.css';
-import '../../css/d/da8u-nbqa.css';
+import '../../css/y/yfx3ytvpk.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zb-fc8bpf"/><path class="s1m9_0bjz"/><path class="mgk2zwu0h"/><path class="tta6kkblt"/><path class="yejd8jbuo"/><path class="yun89fbhz"/><path class="da8u-nbqa"/>`,
+		"content": `<path class="zb-fc8bpf"/><path class="s1m9_0bjz"/><path class="mgk2zwu0h"/><path class="tta6kkblt"/><path class="yejd8jbuo"/><path class="yun89fbhz"/><path class="yfx3ytvpk"/>`,
 		"fallback": "openmoji:man-in-steamy-room-light-skin-tone",
 	});
 }

@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/b/bv_1knjic.css';
 import '../../css/y/yq0zo9bus.css';
 import '../../css/e/es3vfqb9k.css';
-import '../../css/k/kyr5awbst.css';
+import '../../css/b/bt5dm4bbv.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bv_1knjic"/><path class="yq0zo9bus"/><path class="es3vfqb9k"/><path class="kyr5awbst"/>`,
+		"content": `<path class="bv_1knjic"/><path class="yq0zo9bus"/><path class="es3vfqb9k"/><path class="bt5dm4bbv"/>`,
 		"fallback": "openmoji:police-car-light",
 	});
 }

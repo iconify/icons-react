@@ -10,7 +10,7 @@ import '../../css/b/brzn_0bpr.css';
 import '../../css/b/blan7ib2n.css';
 import '../../css/n/n31isb1mj.css';
 import '../../css/o/oz1rahbof.css';
-import '../../css/y/yd9q1lkwf.css';
+import '../../css/r/rfs24fyab.css';
 import '../../css/o/oe-5gubxb.css';
 
 const viewBox = {"width":72,"height":72};
@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jxo3dbtec"/><circle class="ekkpbvr7v"/><path class="kk4enct_i"/><path class="vl301qbkm"/><path class="bsxpa2pml"/><path class="g4rplzbbp"/><g class="brzn_0bpr"><circle class="blan7ib2n"/><path class="n31isb1mj"/><path class="oz1rahbof"/><path class="yd9q1lkwf"/><circle class="oe-5gubxb"/></g>`,
+		"content": `<path class="jxo3dbtec"/><circle class="ekkpbvr7v"/><path class="kk4enct_i"/><path class="vl301qbkm"/><path class="bsxpa2pml"/><path class="g4rplzbbp"/><g class="brzn_0bpr"><circle class="blan7ib2n"/><path class="n31isb1mj"/><path class="oz1rahbof"/><path class="rfs24fyab"/><circle class="oe-5gubxb"/></g>`,
 		"fallback": "openmoji:statue-of-zeus-at-olympia",
 	});
 }

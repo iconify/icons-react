@@ -5,7 +5,7 @@ import '../../css/b/bi4f5zq2g.css';
 import '../../css/q/qepwlccda.css';
 import '../../css/i/ij2x_72vy.css';
 import '../../css/t/tt9zo6bmf.css';
-import '../../css/h/h-0rs9omy.css';
+import '../../css/l/lrt1hqvfe.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eccxkzksd"/><path class="bi4f5zq2g"/><path class="qepwlccda"/><g class="ij2x_72vy"><path class="tt9zo6bmf"/><path class="h-0rs9omy"/></g>`,
+		"content": `<path class="eccxkzksd"/><path class="bi4f5zq2g"/><path class="qepwlccda"/><g class="ij2x_72vy"><path class="tt9zo6bmf"/><path class="lrt1hqvfe"/></g>`,
 		"fallback": "openmoji:sandwich",
 	});
 }

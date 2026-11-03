@@ -9,7 +9,7 @@ import '../../css/m/myikuibol.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/s/sh_ekablt.css';
 import '../../css/d/d4dhm5bgd.css';
-import '../../css/o/od22g4m9k.css';
+import '../../css/q/qbbya4wav.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z89--t6ie"/><path class="k_h61kbdf"/><g class="x4u8pbwjc"><path class="naff6fbjq"/><circle class="e5_66ue5d"/></g><path class="myikuibol"/><g class="jn8qy4bru"><path class="sh_ekablt"/><path class="d4dhm5bgd"/><path class="od22g4m9k"/></g>`,
+		"content": `<path class="z89--t6ie"/><path class="k_h61kbdf"/><g class="x4u8pbwjc"><path class="naff6fbjq"/><circle class="e5_66ue5d"/></g><path class="myikuibol"/><g class="jn8qy4bru"><path class="sh_ekablt"/><path class="d4dhm5bgd"/><path class="qbbya4wav"/></g>`,
 		"fallback": "openmoji:drop-cover-hold",
 	});
 }

@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/y/yovn8d77q.css';
 import '../../css/y/yz18-g6mm.css';
 import '../../css/j/jw-8z9bfz.css';
-import '../../css/u/umjelqb9d.css';
+import '../../css/a/a2ujlf-2d.css';
 import '../../css/l/lkm6-6boh.css';
 import '../../css/d/dr_eaubxu.css';
 import '../../css/u/urydj00hn.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yovn8d77q"/><path class="yz18-g6mm"/><path class="jw-8z9bfz"/><path class="umjelqb9d"/><path class="lkm6-6boh"/><path class="dr_eaubxu"/><path class="urydj00hn"/><path class="e5fbn_kkl"/>`,
+		"content": `<path class="yovn8d77q"/><path class="yz18-g6mm"/><path class="jw-8z9bfz"/><path class="a2ujlf-2d"/><path class="lkm6-6boh"/><path class="dr_eaubxu"/><path class="urydj00hn"/><path class="e5fbn_kkl"/>`,
 		"fallback": "openmoji:bride-with-veil-medium-dark-skin-tone",
 	});
 }

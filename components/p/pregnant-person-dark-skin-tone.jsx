@@ -11,8 +11,8 @@ import '../../css/b/bgqascl4h.css';
 import '../../css/g/gptix0mvd.css';
 import '../../css/r/rylsbmkim.css';
 import '../../css/m/mgzhlsjzn.css';
-import '../../css/t/txu-e5git.css';
-import '../../css/y/yyeioybuj.css';
+import '../../css/n/nnq1jzb6e.css';
+import '../../css/k/k823hbwwu.css';
 import '../../css/w/wbivfwb5k.css';
 
 const viewBox = {"width":72,"height":72};
@@ -24,7 +24,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z44ehf2gw"/><path class="rqvv7cbzk"/><path class="k2xvkzbqp"/><path class="nzy2y-udu"/><path class="mvi1zpbgt"/><g class="e_raf5bng"><ellipse transform="rotate(-26.19 35.398 14.973)" class="yydhh0uak"/><path class="bgqascl4h"/></g><path class="gptix0mvd"/><path class="rylsbmkim"/><path class="mgzhlsjzn"/><path class="txu-e5git"/><path class="yyeioybuj"/><path class="wbivfwb5k"/>`,
+		"content": `<path class="z44ehf2gw"/><path class="rqvv7cbzk"/><path class="k2xvkzbqp"/><path class="nzy2y-udu"/><path class="mvi1zpbgt"/><g class="e_raf5bng"><ellipse transform="rotate(-26.19 35.398 14.973)" class="yydhh0uak"/><path class="bgqascl4h"/></g><path class="gptix0mvd"/><path class="rylsbmkim"/><path class="mgzhlsjzn"/><path class="nnq1jzb6e"/><path class="k823hbwwu"/><path class="wbivfwb5k"/>`,
 		"fallback": "openmoji:pregnant-person-dark-skin-tone",
 	});
 }

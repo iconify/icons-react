@@ -6,7 +6,7 @@ import '../../css/i/iff8-juqi.css';
 import '../../css/h/hj1c6pywy.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/g/g2aoiwb3v.css';
-import '../../css/i/ikluv5b6n.css';
+import '../../css/f/fk2_hwbqz.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="watrobcwe"/><path class="c73611bax"/><path class="iff8-juqi"/><path class="hj1c6pywy"/><g class="jn8qy4bru"><ellipse class="g2aoiwb3v"/><path class="ikluv5b6n"/></g>`,
+		"content": `<path class="watrobcwe"/><path class="c73611bax"/><path class="iff8-juqi"/><path class="hj1c6pywy"/><g class="jn8qy4bru"><ellipse class="g2aoiwb3v"/><path class="fk2_hwbqz"/></g>`,
 		"fallback": "openmoji:mirror",
 	});
 }

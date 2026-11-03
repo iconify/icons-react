@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/u/uroqbab3z.css';
-import '../../css/d/d23743b9c.css';
+import '../../css/g/gtjqggbel.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uroqbab3z"/><path class="d23743b9c"/>`,
+		"content": `<path class="uroqbab3z"/><path class="gtjqggbel"/>`,
 		"fallback": "openmoji:heart-suit",
 	});
 }

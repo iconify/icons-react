@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ib08t_4oj.css';
 import '../../css/e/epf28maej.css';
 import '../../css/g/gg9khyk8m.css';
-import '../../css/e/emqiupbaj.css';
+import '../../css/r/rn6rhvbcd.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ib08t_4oj"/><path class="epf28maej"/><path class="gg9khyk8m"/><path class="emqiupbaj"/>`,
+		"content": `<path class="ib08t_4oj"/><path class="epf28maej"/><path class="gg9khyk8m"/><path class="rn6rhvbcd"/>`,
 		"fallback": "openmoji:hammer",
 	});
 }

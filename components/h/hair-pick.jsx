@@ -5,7 +5,7 @@ import '../../css/j/jtvf014yy.css';
 import '../../css/t/tuwlzzbuq.css';
 import '../../css/b/brzn_0bpr.css';
 import '../../css/a/anumt-d7o.css';
-import '../../css/f/fh24wh2_x.css';
+import '../../css/l/l_tk7-bju.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cpprrl-oc"/><path class="jtvf014yy"/><circle class="tuwlzzbuq"/><g class="brzn_0bpr"><circle class="anumt-d7o"/><path class="fh24wh2_x"/></g>`,
+		"content": `<path class="cpprrl-oc"/><path class="jtvf014yy"/><circle class="tuwlzzbuq"/><g class="brzn_0bpr"><circle class="anumt-d7o"/><path class="l_tk7-bju"/></g>`,
 		"fallback": "openmoji:hair-pick",
 	});
 }

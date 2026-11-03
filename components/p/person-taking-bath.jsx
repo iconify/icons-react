@@ -7,7 +7,7 @@ import '../../css/u/ul0lppx7l.css';
 import '../../css/u/un2isdb-v.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/z/z4m9yddla.css';
-import '../../css/h/ht7mivu3c.css';
+import '../../css/h/h6z4dhbpv.css';
 import '../../css/n/nc1qjfkwi.css';
 import '../../css/s/shy696bdg.css';
 
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zdayylbnh"/><path class="zy_jtubcb"/><path class="xujnnxbtr"/><path class="ul0lppx7l"/><path class="un2isdb-v"/><g class="jn8qy4bru"><path class="z4m9yddla"/><path class="ht7mivu3c"/><path class="nc1qjfkwi"/><path class="shy696bdg"/></g>`,
+		"content": `<path class="zdayylbnh"/><path class="zy_jtubcb"/><path class="xujnnxbtr"/><path class="ul0lppx7l"/><path class="un2isdb-v"/><g class="jn8qy4bru"><path class="z4m9yddla"/><path class="h6z4dhbpv"/><path class="nc1qjfkwi"/><path class="shy696bdg"/></g>`,
 		"fallback": "openmoji:person-taking-bath",
 	});
 }

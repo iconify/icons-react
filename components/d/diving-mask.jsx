@@ -12,7 +12,7 @@ import '../../css/e/e3fsewyjy.css';
 import '../../css/j/jn8qy4bru.css';
 import '../../css/o/oxfr4d88j.css';
 import '../../css/g/gs8ea2bbe.css';
-import '../../css/w/w-yz-xbqc.css';
+import '../../css/v/vs7yrobnz.css';
 
 const viewBox = {"width":72,"height":72};
 
@@ -23,7 +23,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<defs><path id="SVGxXAsmdZC" class="amkopibvs"/></defs><path class="fsz-qlp5e"/><g class="zmgukn87m"><path class="b_rzbvbzp"/><path class="dleid608m"/></g><path class="fx3041alf"/><path class="nn3xo3b6h"/><path class="o7f-y2b0q"/><use href="#SVGxXAsmdZC" class="e3fsewyjy"/><use href="#SVGxXAsmdZC" class="e3fsewyjy"/><g class="jn8qy4bru"><path class="oxfr4d88j"/><path class="gs8ea2bbe"/><path class="w-yz-xbqc"/></g>`,
+		"content": `<defs><path id="SVGxXAsmdZC" class="amkopibvs"/></defs><path class="fsz-qlp5e"/><g class="zmgukn87m"><path class="b_rzbvbzp"/><path class="dleid608m"/></g><path class="fx3041alf"/><path class="nn3xo3b6h"/><path class="o7f-y2b0q"/><use href="#SVGxXAsmdZC" class="e3fsewyjy"/><use href="#SVGxXAsmdZC" class="e3fsewyjy"/><g class="jn8qy4bru"><path class="oxfr4d88j"/><path class="gs8ea2bbe"/><path class="vs7yrobnz"/></g>`,
 		"fallback": "openmoji:diving-mask",
 	});
 }

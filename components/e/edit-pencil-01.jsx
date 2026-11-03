@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/ccge8ybny.css';
+import '../../css/x/x1-_mvbyb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ccge8ybny"/>`,
+		"content": `<path class="x1-_mvbyb"/>`,
 		"fallback": "ci:edit-pencil-01",
 	});
 }

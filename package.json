@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-icon-theme",
   "type": "module",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "homepage": "https://icon-sets.iconify.design/material-icon-theme/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -941,6 +941,10 @@
     "./folder-bower-open": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-bower-open.jsx"
+    },
+    "./folder-bruno": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-bruno.jsx"
     },
     "./folder-buildkite": {
       "types": "./types/hqrkovbr.d.ts",

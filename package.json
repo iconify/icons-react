@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -10406,6 +10406,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lumen.jsx"
     },
+    "./lumin-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lumin-dark.jsx"
+    },
+    "./lumin-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lumin-light.jsx"
+    },
     "./lunacy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lunacy.jsx"
@@ -19749,6 +19757,14 @@
     "./wappalyzer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wappalyzer.jsx"
+    },
+    "./warden-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warden-dark.jsx"
+    },
+    "./warden-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warden-light.jsx"
     },
     "./warner-bros": {
       "types": "./types/hqrkovbr.d.ts",

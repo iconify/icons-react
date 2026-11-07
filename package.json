@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/openmoji",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "homepage": "https://icon-sets.iconify.design/openmoji/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-SA-4.0",
@@ -7213,6 +7213,10 @@
     "./macaw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/macaw.jsx"
+    },
+    "./madeira-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/madeira-flag.jsx"
     },
     "./madrid-autonomous-community-flag": {
       "types": "./types/hqrkovbr.d.ts",

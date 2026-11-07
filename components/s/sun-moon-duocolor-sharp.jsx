@@ -18,15 +18,15 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.slaixwgbi {
-  d: path("M15 15a6 6 0 1 1-6-6a4.269 4.269 0 0 0 6 6");
+.v8e09gi-m {
+  d: path("M15 15a6 6 0 1 1-6-6a4.269 4.269 0 1 0 6 6");
 }
 
 .wh05cbb3m {
   stroke-opacity: 0.4;
   d: path("M13.026 9.18a3 3 0 0 1 1.793 1.794M19 12h2m-9-7V3m4.95 4.05l1.414-1.414");
 }
-</style><g class="nrj6p8qat"><path class="wh05cbb3m"/><path class="slaixwgbi"/></g>`,
+</style><g class="nrj6p8qat"><path class="wh05cbb3m"/><path class="v8e09gi-m"/></g>`,
 		"fallback": "coolicons:sun-moon-duocolor-sharp",
 	});
 }

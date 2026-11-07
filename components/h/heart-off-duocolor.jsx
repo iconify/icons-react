@@ -23,10 +23,10 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.ql6bruu3y {
-  d: path("M6 5c-1.458.615-3 1.615-3 4c0 6 9 11 9 11s2.556-1.653 5-4m3-3c.703-1.2 1-2.653 1-4c0-5.34-5.37-5.754-8-3");
+.yz85cqd5u {
+  d: path("M5.564 4.564C4.106 5.178 3 6.615 3 9c0 6 9 11 9 11s2.706-1.503 5.15-3.85m2.693-3.307C20.547 11.643 21 10.347 21 9c0-5.34-5.543-5.927-8.173-3.173");
 }
-</style><g class="nrj6p8qat"><path class="lmxlbqbeq"/><path class="ql6bruu3y"/></g>`,
+</style><g class="nrj6p8qat"><path class="lmxlbqbeq"/><path class="yz85cqd5u"/></g>`,
 		"fallback": "coolicons:heart-off-duocolor",
 	});
 }

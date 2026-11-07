@@ -10,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.nrj6p8qat {
+		"content": `<style>.l6krpxbux {
+  d: path("M18 19H7A5 5 0 0 1 7 9q.112-.39.252-.748m2.726-3.274C13.338 3.11 18 5.242 18 11a4 4 0 0 1 3.646 5.647");
+}
+
+.nrj6p8qat {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -18,15 +22,11 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.ob0455u5l {
-  d: path("M18 19H7A5 5 0 0 1 7 9c.074-.26-.093-.762 0-1m3-3c3.359-1.868 8 .242 8 6a4 4 0 0 1 4 4c0 .587.227.498 0 1");
-}
-
 .p52u7fomt {
   stroke-opacity: 0.4;
   d: path("m2 3l19 19");
 }
-</style><g class="nrj6p8qat"><path class="p52u7fomt"/><path class="ob0455u5l"/></g>`,
+</style><g class="nrj6p8qat"><path class="p52u7fomt"/><path class="l6krpxbux"/></g>`,
 		"fallback": "coolicons:cloud-off-duocolor-round",
 	});
 }

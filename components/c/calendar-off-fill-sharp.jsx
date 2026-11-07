@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.isfc0pbjg {
+		"content": `<style>.vrfyt_btn {
   fill: currentColor;
-  d: path("m2.707 1.293l20 20a.999.999 0 1 1-1.414 1.414l-.824-.824A1 1 0 0 1 20 22H4a1 1 0 0 1-1-1V5c0-.164.04-.325.117-.469L1.293 2.707a.999.999 0 1 1 1.414-1.414M15 3a1 1 0 0 1 2 0v1h3a1 1 0 0 1 1 1v9a1 1 0 0 1-2 0v-4h-4.757l-6-6H15Zm-6.414 7H5v10h13.586Z");
+  d: path("M22.707 21.293a.999.999 0 1 1-1.414 1.414L20.586 22H4a1 1 0 0 1-1-1V4.414L1.293 2.707a.999.999 0 1 1 1.414-1.414ZM15 3a1 1 0 0 1 2 0v1h3a1 1 0 0 1 1 1v9a1 1 0 0 1-2 0v-4h-4.757l-6-6H15ZM5 10v10h13.586l-10-10Z");
 }
-</style><path class="isfc0pbjg"/>`,
+</style><path class="vrfyt_btn"/>`,
 		"fallback": "coolicons:calendar-off-fill-sharp",
 	});
 }

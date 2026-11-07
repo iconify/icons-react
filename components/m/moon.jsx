@@ -10,15 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.dmthkzbut {
+		"content": `<style>.j61nyfbxw {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("M21 12a9 9 0 1 1-9-9a6.403 6.403 0 0 0 9 9");
+  d: path("M21 12a9 9 0 1 1-9-9a6.403 6.403 0 1 0 9 9");
 }
-</style><path class="dmthkzbut"/>`,
+</style><path class="j61nyfbxw"/>`,
 		"fallback": "coolicons:moon",
 	});
 }

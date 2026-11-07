@@ -10,15 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.t5qqrubeb {
+		"content": `<style>.ionn2cb6i {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("M4 4h16v13H4Zm5 16h6M10 7v6l4-3Z");
+  d: path("M4 4h16v13H4Zm5 16h6M10 7l5 3.5l-5 3.5Z");
 }
-</style><path class="t5qqrubeb"/>`,
+</style><path class="ionn2cb6i"/>`,
 		"fallback": "coolicons:monitor-play-sharp",
 	});
 }

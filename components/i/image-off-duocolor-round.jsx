@@ -10,13 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.amvyz_4ey {
-  d: path("M20 20c-.724.724-1.895 1-3 1H7a4 4 0 0 1-4-4V7c0-1.105.276-2.276 1-3m5-1h8a4 4 0 0 1 4 4v8");
-}
-
-.ge0pu2v_p {
+		"content": `<style>.ge0pu2v_p {
   stroke-opacity: 0.4;
   d: path("m3 17l7-7m5-2a1 1 0 1 0 2 0a1 1 0 0 0-2 0M2 2l20 20");
+}
+
+.i-4u-8b8y {
+  d: path("M19.828 19.828A4 4 0 0 1 17 21H7a4 4 0 0 1-4-4V7c0-1.105.448-2.105 1.172-2.828M9 3h8a4 4 0 0 1 4 4v8");
 }
 
 .nrj6p8qat {
@@ -26,7 +26,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path class="ge0pu2v_p"/><path class="amvyz_4ey"/></g>`,
+</style><g class="nrj6p8qat"><path class="ge0pu2v_p"/><path class="i-4u-8b8y"/></g>`,
 		"fallback": "coolicons:image-off-duocolor-round",
 	});
 }

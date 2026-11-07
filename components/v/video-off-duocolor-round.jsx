@@ -23,10 +23,10 @@ function Component({width, height, ...props}) {
   d: path("m2 3l19 19");
 }
 
-.rwnz-s3pt {
-  d: path("M15 16c-.628 1.388-2.378 2-4 2H7a4 4 0 0 1-4-4v-4c0-1.622.612-3.372 2-4m6 0a4 4 0 0 1 4 4m0 0l2-1c1.838-.919 4 .162 4 2v2c0 .828-.35 1.593-1 2");
+.wiz9_z3fs {
+  d: path("M14.647 15.647A4 4 0 0 1 11 18H7a4 4 0 0 1-4-4v-4a4 4 0 0 1 2.354-3.646M11 6a4 4 0 0 1 4 4m0 0l2-1c1.838-.919 4 .162 4 2v2c0 .828-.44 1.503-1.09 1.91");
 }
-</style><g class="nrj6p8qat"><path class="p52u7fomt"/><path class="rwnz-s3pt"/></g>`,
+</style><g class="nrj6p8qat"><path class="p52u7fomt"/><path class="wiz9_z3fs"/></g>`,
 		"fallback": "coolicons:video-off-duocolor-round",
 	});
 }

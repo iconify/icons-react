@@ -10,24 +10,24 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.fo6ymko1a {
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.h4rg4j2_u {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M12 5a8 8 0 0 1 8 8Zm6.568 12.568A7.998 7.998 0 0 1 4.164 14.61a8 8 0 0 1 3.268-8.178Z");
+}
+
+.qno1o-b9v {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("M7 6c-2.074 1.445-3 4.28-3 7a8 8 0 0 0 8 8c2.72 0 5.555-.926 7-3m1-5a8 8 0 0 0-8-8M3 6l2-2m13-1l3 3M3 2l19 19");
+  d: path("M7.432 6.432a8 8 0 1 0 11.137 11.137M20 13a8 8 0 0 0-8-8M3 6l2-2m13-1l3 3M3 2l19 19");
 }
-
-.ft5dv1b6b {
-  fill: none;
-}
-
-.l1v41vl7a {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3.708 9.496c1.934-4.578 7.216-6.721 11.795-4.786a9 9 0 0 1 4.787 11.793A9 9 0 0 1 8.497 21.29c-4.578-1.934-6.724-7.215-4.789-11.794");
-}
-</style><g class="ft5dv1b6b"><path class="l1v41vl7a"/><path class="fo6ymko1a"/></g>`,
+</style><g class="ft5dv1b6b"><path class="h4rg4j2_u"/><path class="qno1o-b9v"/></g>`,
 		"fallback": "coolicons:alarm-off-duotone-sharp",
 	});
 }

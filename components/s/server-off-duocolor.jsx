@@ -23,10 +23,10 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.rzj1uuier {
-  d: path("M10 10H5a2 2 0 0 1-2-2V6c0-.811.306-1.686 1-2m6 0h9a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-3m4 10c-.251.114-.707 0-1 0H5a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h9");
+.qdombrbrj {
+  d: path("M10 10H5a2 2 0 0 1-2-2V6a2 2 0 0 1 1.177-1.823M10 4h9a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-3m3.823 9.823c-.25.114-.53.177-.823.177H5a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h9");
 }
-</style><g class="nrj6p8qat"><path class="e72o9db0j"/><path class="rzj1uuier"/></g>`,
+</style><g class="nrj6p8qat"><path class="e72o9db0j"/><path class="qdombrbrj"/></g>`,
 		"fallback": "coolicons:server-off-duocolor",
 	});
 }

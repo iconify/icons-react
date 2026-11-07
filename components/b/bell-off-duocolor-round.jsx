@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ilekwnb0p {
-  d: path("M12 17H6a2 2 0 0 1-2-2c0-1 1-1 1-2v-3c0-1.678 1.015-2.794 2-4m3-3c.566-.148 1.387 0 2 0a7 7 0 0 1 7 7v2m-1 5h-6");
+		"content": `<style>.dbnb7cc6s {
+  d: path("M12 17H6a2 2 0 0 1-2-2c0-1 1-1 1-2v-3c0-1.678.59-3.219 1.575-4.425m3.652-2.348A7 7 0 0 1 19 10v2m-1 5h-6");
 }
 
 .k-_zycb2u {
@@ -26,7 +26,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path class="k-_zycb2u"/><path class="ilekwnb0p"/></g>`,
+</style><g class="nrj6p8qat"><path class="k-_zycb2u"/><path class="dbnb7cc6s"/></g>`,
 		"fallback": "coolicons:bell-off-duocolor-round",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.58",
+  "version": "1.0.59",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -1729,6 +1729,10 @@
     "./circle-fading-arrow-up": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-fading-arrow-up.jsx"
+    },
+    "./circle-fading-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-fading-check.jsx"
     },
     "./circle-fading-play": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3690,6 +3694,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grid-3x3.jsx"
     },
+    "./grid-3x3-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grid-3x3-off.jsx"
+    },
     "./grip": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/grip.jsx"
@@ -5126,6 +5134,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mop-sparkles.jsx"
     },
+    "./moped": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/moped.jsx"
+    },
     "./mosque": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mosque.jsx"
@@ -5354,6 +5366,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/omega.jsx"
     },
+    "./opacity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opacity.jsx"
+    },
     "./option": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/option.jsx"
@@ -5386,9 +5402,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/package-open.jsx"
     },
+    "./package-pen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-pen.jsx"
+    },
     "./package-plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/package-plus.jsx"
+    },
+    "./package-question-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-question-mark.jsx"
     },
     "./package-search": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6886,6 +6910,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-dashed-plus.jsx"
     },
+    "./square-dashed-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-dashed-search.jsx"
+    },
     "./square-dashed-text": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-dashed-text.jsx"
@@ -7926,6 +7954,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-cog.jsx"
     },
+    "./user-exclamation-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-exclamation-point.jsx"
+    },
     "./user-group": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-group.jsx"
@@ -7965,6 +7997,10 @@
     "./user-round-cog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-cog.jsx"
+    },
+    "./user-round-exclamation-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-round-exclamation-point.jsx"
     },
     "./user-round-group": {
       "types": "./types/hqrkovbr.d.ts",

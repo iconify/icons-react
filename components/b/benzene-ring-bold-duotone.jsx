@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/fs1s4bb3o.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/p/pyh2oqlzb.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/f/f5f0jwb-w.css';
 import '../../css/g/gqdhlkbho.css';
 import '../../css/d/d8_onbakg.css';
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="fs1s4bb3o"/><g class="mc2zb0bvp"><path class="f5f0jwb-w"/><path class="gqdhlkbho"/><path class="d8_onbakg"/></g></g>`,
+		"content": `<path clip-rule="evenodd" class="pyh2oqlzb"/><g class="xtpeb-edw"><path class="f5f0jwb-w"/><path class="gqdhlkbho"/><path class="d8_onbakg"/></g>`,
 		"fallback": "solar:benzene-ring-bold-duotone",
 	});
 }

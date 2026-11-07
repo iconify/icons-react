@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/o/ow0r4_bzg.css';
-import '../../css/z/z8lsfuh3d.css';
+import '../../css/u/u41r5aczw.css';
+import '../../css/u/umyvzfuaq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ow0r4_bzg"/><path class="z8lsfuh3d"/></g>`,
+		"content": `<path class="u41r5aczw"/><path class="umyvzfuaq"/>`,
 		"fallback": "solar:question-mark-outline",
 	});
 }

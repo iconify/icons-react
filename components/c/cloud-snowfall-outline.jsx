@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/q/qegcz1b8e.css';
-import '../../css/k/kq3d4tbip.css';
+import '../../css/a/a_0l8pw0z.css';
+import '../../css/d/dt2d6ubkc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="qegcz1b8e"/><path class="kq3d4tbip"/></g>`,
+		"content": `<path class="a_0l8pw0z"/><path class="dt2d6ubkc"/>`,
 		"fallback": "solar:cloud-snowfall-outline",
 	});
 }

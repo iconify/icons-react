@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/x/x0c9_4bxl.css';
-import '../../css/n/nh1xv36ao.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/o/oxmr-bbpl.css';
+import '../../css/m/mjeg-y3pl.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/f/f09_mkvvu.css';
 import '../../css/k/kv93igb5n.css';
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="x0c9_4bxl"/><path class="nh1xv36ao"/><g class="mc2zb0bvp"><path class="f09_mkvvu"/><path class="kv93igb5n"/></g></g>`,
+		"content": `<path class="oxmr-bbpl"/><path class="mjeg-y3pl"/><g class="xtpeb-edw"><path class="f09_mkvvu"/><path class="kv93igb5n"/></g>`,
 		"fallback": "solar:file-stack-bold-duotone",
 	});
 }

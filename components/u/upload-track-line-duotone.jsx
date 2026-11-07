@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/s/s8y023b0u.css';
 import '../../css/p/pknklcb3b.css';
-import '../../css/t/tqfsqjbfu.css';
+import '../../css/i/i-87nachm.css';
 import '../../css/n/n-y7-h-tz.css';
 import '../../css/d/doy9q4b5f.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="s8y023b0u"/><path class="pknklcb3b"/><path class="tqfsqjbfu"/><path class="n-y7-h-tz"/><circle class="doy9q4b5f"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="s8y023b0u"/><path class="pknklcb3b"/><path class="i-87nachm"/><path class="n-y7-h-tz"/><circle class="doy9q4b5f"/></g>`,
 		"fallback": "solar:upload-track-line-duotone",
 	});
 }

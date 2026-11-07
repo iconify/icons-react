@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/onwk3j-1y.css';
+import '../../css/a/at9nt_-im.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="onwk3j-1y"/>`,
+		"content": `<path class="at9nt_-im"/>`,
 		"fallback": "solar:flame-linear",
 	});
 }

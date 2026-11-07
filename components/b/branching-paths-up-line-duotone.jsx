@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/w/wf89k6buf.css';
+import '../../css/l/lxnzn9nmw.css';
 import '../../css/m/mc2zb0bvp.css';
 import '../../css/w/wrqhnubdm.css';
 import '../../css/c/c6g87kbzs.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="wf89k6buf"/><g class="mc2zb0bvp"><path class="wrqhnubdm"/><path class="c6g87kbzs"/></g><path class="n7bi59bvp"/><path class="f0le29xkr"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="lxnzn9nmw"/><g class="mc2zb0bvp"><path class="wrqhnubdm"/><path class="c6g87kbzs"/></g><path class="n7bi59bvp"/><path class="f0le29xkr"/></g>`,
 		"fallback": "solar:branching-paths-up-line-duotone",
 	});
 }

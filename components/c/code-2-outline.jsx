@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t519rybsn.css';
+import '../../css/g/gtxp16bpb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="t519rybsn"/>`,
+		"content": `<path clip-rule="evenodd" class="gtxp16bpb"/>`,
 		"fallback": "solar:code-2-outline",
 	});
 }

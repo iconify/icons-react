@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/ldi9lbb3u.css';
-import '../../css/d/d93exubkv.css';
-import '../../css/d/da_pl4pve.css';
-import '../../css/j/jhxws-09i.css';
+import '../../css/p/prk0eb3-z.css';
+import '../../css/w/w4wifcf1d.css';
+import '../../css/i/iagcdmkde.css';
+import '../../css/u/uwtspp4wr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="ldi9lbb3u"/><path class="d93exubkv"/><path class="da_pl4pve"/><path class="jhxws-09i"/></g>`,
+		"content": `<path clip-rule="evenodd" class="prk0eb3-z"/><path class="w4wifcf1d"/><path class="iagcdmkde"/><path class="uwtspp4wr"/>`,
 		"fallback": "solar:suitcase-tag-bold",
 	});
 }

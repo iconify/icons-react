@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pr52f_b5y.css';
-import '../../css/l/l7wj_5b3n.css';
+import '../../css/o/oku40tmkl.css';
 import '../../css/t/th0xxsgwf.css';
 import '../../css/w/wbw_ixbrw.css';
 import '../../css/y/yad62e0rw.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><path class="l7wj_5b3n"/><path class="th0xxsgwf"/><path class="wbw_ixbrw"/><ellipse class="yad62e0rw"/><path class="g4gus2y6w"/></g>`,
+		"content": `<g class="pr52f_b5y"><path class="oku40tmkl"/><path class="th0xxsgwf"/><path class="wbw_ixbrw"/><ellipse class="yad62e0rw"/><path class="g4gus2y6w"/></g>`,
 		"fallback": "solar:sticker-smile-circle-2-line-duotone",
 	});
 }

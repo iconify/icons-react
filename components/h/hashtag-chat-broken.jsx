@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/e/e8kbl8kxb.css';
+import '../../css/w/wchb2xsyu.css';
 import '../../css/j/jiks3hb7x.css';
 import '../../css/w/wqzg3jbpj.css';
 import '../../css/h/h-j2vcb_a.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="e8kbl8kxb"/><path class="jiks3hb7x"/><path class="wqzg3jbpj"/><path class="h-j2vcb_a"/><path class="krcz9mbyu"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="wchb2xsyu"/><path class="jiks3hb7x"/><path class="wqzg3jbpj"/><path class="h-j2vcb_a"/><path class="krcz9mbyu"/></g>`,
 		"fallback": "solar:hashtag-chat-broken",
 	});
 }

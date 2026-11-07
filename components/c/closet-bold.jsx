@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mnsucibnt.css';
-import '../../css/a/ail7rketm.css';
-import '../../css/w/w11gq4btp.css';
-import '../../css/h/hq1qt2gln.css';
-import '../../css/z/zolbpybdg.css';
+import '../../css/s/sjwt09onl.css';
+import '../../css/x/xo-a06wvd.css';
+import '../../css/b/bzx8_jbar.css';
+import '../../css/g/gup1u2bvx.css';
+import '../../css/a/aw0ixqbjo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="mnsucibnt"/><path class="ail7rketm"/><path clip-rule="evenodd" class="w11gq4btp"/><path clip-rule="evenodd" class="hq1qt2gln"/><path clip-rule="evenodd" class="zolbpybdg"/></g>`,
+		"content": `<path class="sjwt09onl"/><path class="xo-a06wvd"/><path clip-rule="evenodd" class="bzx8_jbar"/><path clip-rule="evenodd" class="gup1u2bvx"/><path clip-rule="evenodd" class="aw0ixqbjo"/>`,
 		"fallback": "solar:closet-bold",
 	});
 }

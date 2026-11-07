@@ -2,9 +2,9 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/a/acmhcgbix.css';
-import '../../css/p/py4d89c_p.css';
-import '../../css/i/i2dleueig.css';
-import '../../css/b/byf-qcfwz.css';
+import '../../css/z/z8j9m1bjy.css';
+import '../../css/g/gdtht-o7n.css';
+import '../../css/g/gzu3vyboy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="acmhcgbix"/><path class="py4d89c_p"/><path class="i2dleueig"/><path class="byf-qcfwz"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="acmhcgbix"/><path class="z8j9m1bjy"/><path class="gdtht-o7n"/><path class="gzu3vyboy"/></g>`,
 		"fallback": "solar:wallet-line-duotone",
 	});
 }

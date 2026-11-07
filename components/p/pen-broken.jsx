@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j08t-ob-p.css';
+import '../../css/n/nz90m1b7e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j08t-ob-p"/>`,
+		"content": `<path class="nz90m1b7e"/>`,
 		"fallback": "solar:pen-broken",
 	});
 }

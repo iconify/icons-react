@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vn7zg8bmo.css';
+import '../../css/b/b2zmq5bbp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vn7zg8bmo"/>`,
+		"content": `<path class="b2zmq5bbp"/>`,
 		"fallback": "solar:undo-right-round-broken",
 	});
 }

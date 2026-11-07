@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/e/ea90dub6v.css';
+import '../../css/f/fi1yetb4b.css';
 import '../../css/k/ktpncgb0v.css';
 import '../../css/j/jmn44onlx.css';
 import '../../css/w/wy63pibnm.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ea90dub6v"/><path class="ktpncgb0v"/><path class="jmn44onlx"/><path class="wy63pibnm"/><path class="wu6h5cbil"/><path class="sqxfocc0h"/><path class="lqjkhsbgy"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="fi1yetb4b"/><path class="ktpncgb0v"/><path class="jmn44onlx"/><path class="wy63pibnm"/><path class="wu6h5cbil"/><path class="sqxfocc0h"/><path class="lqjkhsbgy"/></g>`,
 		"fallback": "solar:subtitles-linear",
 	});
 }

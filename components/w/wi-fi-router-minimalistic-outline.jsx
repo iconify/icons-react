@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/o/odo2x7s2w.css';
-import '../../css/q/qeh1rda9f.css';
-import '../../css/j/j12wdzb5f.css';
-import '../../css/n/nowz9vacl.css';
-import '../../css/h/h-3wj0b9y.css';
+import '../../css/m/m3kz85edk.css';
+import '../../css/c/ckyo9rb7l.css';
+import '../../css/d/dyy0skbpx.css';
+import '../../css/u/uh_9yfsol.css';
+import '../../css/p/pdxud9b4m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="odo2x7s2w"/><path class="qeh1rda9f"/><path class="j12wdzb5f"/><path class="nowz9vacl"/><path clip-rule="evenodd" class="h-3wj0b9y"/></g>`,
+		"content": `<path class="m3kz85edk"/><path class="ckyo9rb7l"/><path class="dyy0skbpx"/><path class="uh_9yfsol"/><path clip-rule="evenodd" class="pdxud9b4m"/>`,
 		"fallback": "solar:wi-fi-router-minimalistic-outline",
 	});
 }

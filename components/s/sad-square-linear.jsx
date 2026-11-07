@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pr52f_b5y.css';
 import '../../css/b/bx61cb_8u.css';
-import '../../css/p/pt7930ade.css';
+import '../../css/e/ed_8b_mzn.css';
 import '../../css/w/wbw_ixbrw.css';
 import '../../css/y/yad62e0rw.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><path class="bx61cb_8u"/><path class="pt7930ade"/><path class="wbw_ixbrw"/><ellipse class="yad62e0rw"/></g>`,
+		"content": `<g class="pr52f_b5y"><path class="bx61cb_8u"/><path class="ed_8b_mzn"/><path class="wbw_ixbrw"/><ellipse class="yad62e0rw"/></g>`,
 		"fallback": "solar:sad-square-linear",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pr52f_b5y.css';
-import '../../css/g/gdrayebum.css';
+import '../../css/a/ah2n0bcph.css';
 import '../../css/s/saw53o2qp.css';
 import '../../css/d/d2xz6hb5j.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><path class="gdrayebum"/><path class="saw53o2qp"/><circle class="d2xz6hb5j"/></g>`,
+		"content": `<g class="pr52f_b5y"><path class="ah2n0bcph"/><path class="saw53o2qp"/><circle class="d2xz6hb5j"/></g>`,
 		"fallback": "solar:smartphone-2-linear",
 	});
 }

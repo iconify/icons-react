@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/i/ijnvt0btl.css';
-import '../../css/d/dtj43q5cf.css';
-import '../../css/x/x02i6wbpa.css';
-import '../../css/a/avpk5oscq.css';
+import '../../css/j/jx0p4fbya.css';
+import '../../css/u/u2j-9r34n.css';
+import '../../css/p/p21ljo36x.css';
+import '../../css/u/udrot0b5i.css';
+import '../../css/i/i44sm08zt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ijnvt0btl"/><path class="dtj43q5cf"/><path class="x02i6wbpa"/><rect class="avpk5oscq"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="u2j-9r34n"/><path class="p21ljo36x"/><path class="udrot0b5i"/><path class="i44sm08zt"/></g>`,
 		"fallback": "solar:transmission-square-linear",
 	});
 }

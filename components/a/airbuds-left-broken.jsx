@@ -5,7 +5,7 @@ import '../../css/d/dtd3uwwop.css';
 import '../../css/m/ms74kbcwg.css';
 import '../../css/f/f7hcbzbgn.css';
 import '../../css/a/a_mtj062n.css';
-import '../../css/l/lcrq5obob.css';
+import '../../css/d/dszhm1zyl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="dtd3uwwop"/><path class="ms74kbcwg"/><path class="f7hcbzbgn"/><path class="a_mtj062n"/><path class="lcrq5obob"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="dtd3uwwop"/><path class="ms74kbcwg"/><path class="f7hcbzbgn"/><path class="a_mtj062n"/><path class="dszhm1zyl"/></g>`,
 		"fallback": "solar:airbuds-left-broken",
 	});
 }

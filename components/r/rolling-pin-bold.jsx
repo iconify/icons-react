@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/p/pmwvltbwu.css';
-import '../../css/b/bso_8zbol.css';
-import '../../css/c/cbkt77dxd.css';
+import '../../css/t/ttg6ivr-q.css';
+import '../../css/k/k0g8rv05t.css';
+import '../../css/a/ahhagtoge.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="pmwvltbwu"/><path class="bso_8zbol"/><path class="cbkt77dxd"/></g>`,
+		"content": `<path class="ttg6ivr-q"/><path class="k0g8rv05t"/><path class="ahhagtoge"/>`,
 		"fallback": "solar:rolling-pin-bold",
 	});
 }

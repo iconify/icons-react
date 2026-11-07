@@ -1,13 +1,12 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/l/l0lxso0pj.css';
 import '../../css/s/sfdtz-b-u.css';
-import '../../css/q/qascy_bmd.css';
-import '../../css/m/mb5td1v2l.css';
-import '../../css/i/i2zb28byn.css';
-import '../../css/a/a5milofum.css';
+import '../../css/k/k50tiocwd.css';
+import '../../css/h/hcsq5hb5u.css';
+import '../../css/t/tn3cnxbms.css';
+import '../../css/i/i56kufhep.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -18,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="l0lxso0pj"/><path class="sfdtz-b-u"/></g><path class="qascy_bmd"/><path class="mb5td1v2l"/><path clip-rule="evenodd" class="i2zb28byn"/><path class="a5milofum"/></g>`,
+		"content": `<g class="xtpeb-edw"><path class="l0lxso0pj"/><path class="sfdtz-b-u"/></g><path class="k50tiocwd"/><path class="hcsq5hb5u"/><path clip-rule="evenodd" class="tn3cnxbms"/><path class="i56kufhep"/>`,
 		"fallback": "solar:airbuds-remove-bold-duotone",
 	});
 }

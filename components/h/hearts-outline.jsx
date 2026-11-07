@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n3ql-zbaq.css';
+import '../../css/q/q0n85kb1f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="n3ql-zbaq"/>`,
+		"content": `<path clip-rule="evenodd" class="q0n85kb1f"/>`,
 		"fallback": "solar:hearts-outline",
 	});
 }

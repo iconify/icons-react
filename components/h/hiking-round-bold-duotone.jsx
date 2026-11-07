@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/h/hlil8_b4l.css';
-import '../../css/e/ews0u17zd.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/m/mxi8hkb5i.css';
+import '../../css/l/lw72yprve.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/r/r3qvqygmn.css';
 import '../../css/z/zt-41go0y.css';
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="hlil8_b4l"/><path clip-rule="evenodd" class="ews0u17zd"/><g class="mc2zb0bvp"><path class="r3qvqygmn"/><path class="zt-41go0y"/></g></g>`,
+		"content": `<path class="mxi8hkb5i"/><path clip-rule="evenodd" class="lw72yprve"/><g class="xtpeb-edw"><path class="r3qvqygmn"/><path class="zt-41go0y"/></g>`,
 		"fallback": "solar:hiking-round-bold-duotone",
 	});
 }

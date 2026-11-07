@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/r/rmhqtra8a.css';
-import '../../css/e/e4naw8x2g.css';
-import '../../css/e/e886txqpd.css';
-import '../../css/z/zsc2x9xjn.css';
-import '../../css/s/sm4-xcb7r.css';
+import '../../css/s/s09_o6rsp.css';
+import '../../css/a/a0j8fkmhb.css';
+import '../../css/l/ln35q8plx.css';
+import '../../css/g/g7dhhz-fw.css';
+import '../../css/n/nvr01tbel.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="rmhqtra8a"/><path class="e4naw8x2g"/><path class="e886txqpd"/><path class="zsc2x9xjn"/><path class="sm4-xcb7r"/></g>`,
+		"content": `<path class="s09_o6rsp"/><path class="a0j8fkmhb"/><path class="ln35q8plx"/><path class="g7dhhz-fw"/><path class="nvr01tbel"/>`,
 		"fallback": "solar:palette-2-bold-duotone",
 	});
 }

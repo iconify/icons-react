@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ueu8080la.css';
+import '../../css/r/rd9a8-uca.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ueu8080la"/>`,
+		"content": `<path clip-rule="evenodd" class="rd9a8-uca"/>`,
 		"fallback": "solar:table-cells-merge-outline",
 	});
 }

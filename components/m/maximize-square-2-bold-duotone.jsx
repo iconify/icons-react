@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/wf89k6buf.css';
-import '../../css/k/ksjxiodpt.css';
-import '../../css/g/gughkpbfx.css';
-import '../../css/b/brggc5baf.css';
-import '../../css/o/o5ltvv6jc.css';
+import '../../css/d/dm03gzbnp.css';
+import '../../css/h/h8h-3cbpv.css';
+import '../../css/j/jr-ln5z8r.css';
+import '../../css/p/pit1n5bmd.css';
+import '../../css/x/x_5u-tb1v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="wf89k6buf"/><path class="ksjxiodpt"/><path class="gughkpbfx"/><path class="brggc5baf"/><path class="o5ltvv6jc"/></g>`,
+		"content": `<path class="dm03gzbnp"/><path class="h8h-3cbpv"/><path class="jr-ln5z8r"/><path class="pit1n5bmd"/><path class="x_5u-tb1v"/>`,
 		"fallback": "solar:maximize-square-2-bold-duotone",
 	});
 }

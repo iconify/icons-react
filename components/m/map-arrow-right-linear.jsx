@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b_um-ac-e.css';
+import '../../css/m/m_-k83bxt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b_um-ac-e"/>`,
+		"content": `<path class="m_-k83bxt"/>`,
 		"fallback": "solar:map-arrow-right-linear",
 	});
 }

@@ -1,17 +1,16 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/f0srqwlxg.css';
-import '../../css/c/c_-fkubam.css';
-import '../../css/g/g4t441_ot.css';
-import '../../css/h/hdtt9e9mh.css';
-import '../../css/e/el5r46bwu.css';
-import '../../css/p/pokwz2bng.css';
-import '../../css/o/ovahuib5a.css';
-import '../../css/u/u3k278byk.css';
-import '../../css/u/u1zgecixd.css';
-import '../../css/h/h61r0ubby.css';
-import '../../css/k/k7rfhob8x.css';
+import '../../css/m/manx2832l.css';
+import '../../css/i/inowgf1od.css';
+import '../../css/s/s9xp0qbks.css';
+import '../../css/p/pk3k9_xdm.css';
+import '../../css/k/kziyyodiz.css';
+import '../../css/r/r0ut4ubdk.css';
+import '../../css/e/encgw1sgz.css';
+import '../../css/f/fb411ub2i.css';
+import '../../css/l/l4ty0rvhb.css';
+import '../../css/c/cokqabbkf.css';
+import '../../css/u/ux5cbxbmg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -22,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="f0srqwlxg"/><path class="c_-fkubam"/><path class="g4t441_ot"/><path class="hdtt9e9mh"/><path class="el5r46bwu"/><path class="pokwz2bng"/><path class="ovahuib5a"/><path class="u3k278byk"/><path class="u1zgecixd"/><path class="h61r0ubby"/><path class="k7rfhob8x"/></g>`,
+		"content": `<path class="manx2832l"/><path class="inowgf1od"/><path class="s9xp0qbks"/><path class="pk3k9_xdm"/><path class="kziyyodiz"/><path class="r0ut4ubdk"/><path class="encgw1sgz"/><path class="fb411ub2i"/><path class="l4ty0rvhb"/><path class="cokqabbkf"/><path class="ux5cbxbmg"/>`,
 		"fallback": "solar:video-frame-cut-bold-duotone",
 	});
 }

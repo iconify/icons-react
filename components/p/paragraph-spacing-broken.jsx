@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/e/e55mrdbou.css';
+import '../../css/t/tlstgmb9z.css';
 import '../../css/b/bq0ypf47a.css';
 import '../../css/i/iim04tfhn.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="e55mrdbou"/><path class="bq0ypf47a"/><path class="iim04tfhn"/></g>`,
+		"content": `<g class="hntgybcog"><path class="tlstgmb9z"/><path class="bq0ypf47a"/><path class="iim04tfhn"/></g>`,
 		"fallback": "solar:paragraph-spacing-broken",
 	});
 }

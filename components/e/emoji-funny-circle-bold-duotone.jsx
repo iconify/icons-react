@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/y/yp54sytzi.css';
-import '../../css/e/e15jp5xgs.css';
-import '../../css/v/vn6aygsxu.css';
-import '../../css/t/t12e08b0j.css';
+import '../../css/r/rnb90nbxf.css';
+import '../../css/n/nqs92bb2p.css';
+import '../../css/i/ijcx_p_-b.css';
+import '../../css/o/o7_qo9bal.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="yp54sytzi"/><path class="e15jp5xgs"/><path class="vn6aygsxu"/><path class="t12e08b0j"/></g>`,
+		"content": `<path class="rnb90nbxf"/><path class="nqs92bb2p"/><path class="ijcx_p_-b"/><path class="o7_qo9bal"/>`,
 		"fallback": "solar:emoji-funny-circle-bold-duotone",
 	});
 }

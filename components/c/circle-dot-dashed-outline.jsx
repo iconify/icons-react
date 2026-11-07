@@ -1,15 +1,14 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/a/a2qrklqfa.css';
-import '../../css/v/vhcmiqbop.css';
-import '../../css/t/ti_sh1vty.css';
-import '../../css/p/p-z3wpbdn.css';
-import '../../css/a/aa326i-9n.css';
-import '../../css/w/wv_uagb0m.css';
-import '../../css/i/ic3y_xb7l.css';
-import '../../css/b/bi95us7uc.css';
-import '../../css/z/z3vv9ubpg.css';
+import '../../css/p/pgvsm8bkl.css';
+import '../../css/z/zyed28-7m.css';
+import '../../css/v/vugil5bsm.css';
+import '../../css/e/e_n9s58xp.css';
+import '../../css/y/y92f2qblx.css';
+import '../../css/e/er9_2_bjd.css';
+import '../../css/o/o-vugzbgf.css';
+import '../../css/y/yumzeobpq.css';
+import '../../css/u/ui2wz_n-y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -20,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="a2qrklqfa"/><path class="vhcmiqbop"/><path class="ti_sh1vty"/><path class="p-z3wpbdn"/><path class="aa326i-9n"/><path class="wv_uagb0m"/><path class="ic3y_xb7l"/><path class="bi95us7uc"/><path class="z3vv9ubpg"/></g>`,
+		"content": `<path class="pgvsm8bkl"/><path class="zyed28-7m"/><path class="vugil5bsm"/><path class="e_n9s58xp"/><path class="y92f2qblx"/><path class="er9_2_bjd"/><path class="o-vugzbgf"/><path class="yumzeobpq"/><path class="ui2wz_n-y"/>`,
 		"fallback": "solar:circle-dot-dashed-outline",
 	});
 }

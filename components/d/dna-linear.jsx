@@ -4,7 +4,7 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/j/jk67y2bqf.css';
 import '../../css/d/dx-e0-b8f.css';
 import '../../css/e/elt_7nb2r.css';
-import '../../css/w/wsuddoh2h.css';
+import '../../css/p/prwwu1gyx.css';
 import '../../css/c/c-mx3hbhd.css';
 import '../../css/s/s8c9jx2mx.css';
 import '../../css/s/sf5snrbbo.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="jk67y2bqf"/><path class="dx-e0-b8f"/><path class="elt_7nb2r"/><path class="wsuddoh2h"/><path class="c-mx3hbhd"/><path class="s8c9jx2mx"/><path class="sf5snrbbo"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="jk67y2bqf"/><path class="dx-e0-b8f"/><path class="elt_7nb2r"/><path class="prwwu1gyx"/><path class="c-mx3hbhd"/><path class="s8c9jx2mx"/><path class="sf5snrbbo"/></g>`,
 		"fallback": "solar:dna-linear",
 	});
 }

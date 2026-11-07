@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/z/zj2p4py0y.css';
 import '../../css/a/af3t0nyrd.css';
-import '../../css/v/vn7srixjk.css';
+import '../../css/z/z2-7z3bev.css';
 import '../../css/p/pn5tqtb4p.css';
 import '../../css/i/iejxo-b0t.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="zj2p4py0y"/><path class="af3t0nyrd"/><path class="vn7srixjk"/><path class="pn5tqtb4p"/><path class="iejxo-b0t"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="zj2p4py0y"/><path class="af3t0nyrd"/><path class="z2-7z3bev"/><path class="pn5tqtb4p"/><path class="iejxo-b0t"/></g>`,
 		"fallback": "solar:wi-fi-high-broken",
 	});
 }

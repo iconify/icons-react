@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/w/wf89k6buf.css';
+import '../../css/l/lxnzn9nmw.css';
 import '../../css/w/w2dqczb0r.css';
 import '../../css/z/zs9521pzc.css';
 import '../../css/e/er-qpx8gd.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="wf89k6buf"/><path class="w2dqczb0r"/><path class="zs9521pzc"/><path class="er-qpx8gd"/><path class="lffdqhb9f"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="lxnzn9nmw"/><path class="w2dqczb0r"/><path class="zs9521pzc"/><path class="er-qpx8gd"/><path class="lffdqhb9f"/></g>`,
 		"fallback": "solar:checklist-minimalistic-line-duotone",
 	});
 }

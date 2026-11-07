@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vi9217b4x.css';
+import '../../css/t/tj-ph1b3z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vi9217b4x"/>`,
+		"content": `<path class="tj-ph1b3z"/>`,
 		"fallback": "solar:map-arrow-down-linear",
 	});
 }

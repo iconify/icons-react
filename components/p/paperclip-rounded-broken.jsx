@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e-kz5nbvd.css';
+import '../../css/k/kbj6x5byz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e-kz5nbvd"/>`,
+		"content": `<path class="kbj6x5byz"/>`,
 		"fallback": "solar:paperclip-rounded-broken",
 	});
 }

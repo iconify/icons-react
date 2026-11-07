@@ -4,7 +4,7 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/o/ow0fid2eg.css';
 import '../../css/x/x-21zwayg.css';
 import '../../css/c/chfv8st2f.css';
-import '../../css/u/uw_f3e0nw.css';
+import '../../css/r/rcgoqzxit.css';
 import '../../css/j/jdkg2b8su.css';
 import '../../css/i/i2afqdhro.css';
 import '../../css/l/li08e_y6g.css';
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ow0fid2eg"/><path class="x-21zwayg"/><path class="chfv8st2f"/><path class="uw_f3e0nw"/><path class="jdkg2b8su"/><path class="i2afqdhro"/><path class="li08e_y6g"/><path class="kdceb2bpp"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="ow0fid2eg"/><path class="x-21zwayg"/><path class="chfv8st2f"/><path class="rcgoqzxit"/><path class="jdkg2b8su"/><path class="i2afqdhro"/><path class="li08e_y6g"/><path class="kdceb2bpp"/></g>`,
 		"fallback": "solar:gamepad-charge-broken",
 	});
 }

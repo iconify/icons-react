@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/o/opi0yfbgs.css';
-import '../../css/f/f0xxkyjkv.css';
-import '../../css/e/ej_c7zbbd.css';
-import '../../css/p/p5-lc9iqw.css';
-import '../../css/f/faoe3kvrs.css';
+import '../../css/n/n_vrrliit.css';
+import '../../css/n/n-jx8c_mo.css';
+import '../../css/p/pb5pipz8a.css';
+import '../../css/q/qya8g87br.css';
+import '../../css/v/v0yar7wgg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="opi0yfbgs"/><path class="f0xxkyjkv"/><path class="ej_c7zbbd"/><path class="p5-lc9iqw"/><path class="faoe3kvrs"/></g>`,
+		"content": `<path class="n_vrrliit"/><path class="n-jx8c_mo"/><path class="pb5pipz8a"/><path class="qya8g87br"/><path class="v0yar7wgg"/>`,
 		"fallback": "solar:wi-fi-cross-outline",
 	});
 }

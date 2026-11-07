@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/x/xvkwtxc3k.css';
-import '../../css/b/b1svdoqoo.css';
+import '../../css/d/dxd5nqi3i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="xvkwtxc3k"/><path class="b1svdoqoo"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="xvkwtxc3k"/><path class="dxd5nqi3i"/></g>`,
 		"fallback": "solar:stretching-linear",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/i/ix92dhgob.css';
-import '../../css/x/xgikp8vnr.css';
-import '../../css/l/lupbgxb_z.css';
-import '../../css/t/t8828n_8o.css';
+import '../../css/k/k3dfu3brp.css';
+import '../../css/q/qfj7523-i.css';
+import '../../css/h/h_vbtsb7e.css';
+import '../../css/x/xy6mmpbpv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ix92dhgob"/><path class="xgikp8vnr"/><path class="lupbgxb_z"/><path class="t8828n_8o"/></g>`,
+		"content": `<path class="k3dfu3brp"/><path class="qfj7523-i"/><path class="h_vbtsb7e"/><path class="xy6mmpbpv"/>`,
 		"fallback": "solar:smart-home-angle-outline",
 	});
 }

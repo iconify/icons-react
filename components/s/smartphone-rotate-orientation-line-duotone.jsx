@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/z/z8qpob2lz.css';
-import '../../css/s/sxsqxibve.css';
+import '../../css/f/feqt5rzvl.css';
+import '../../css/a/akyqa1bwb.css';
 import '../../css/i/iir_s_ykv.css';
 import '../../css/l/l-48cgbbs.css';
 import '../../css/q/qxe-cdcss.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="z8qpob2lz"/><path class="sxsqxibve"/><path class="iir_s_ykv"/><path class="l-48cgbbs"/><path class="qxe-cdcss"/><path class="i5_aqn80p"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="feqt5rzvl"/><path class="akyqa1bwb"/><path class="iir_s_ykv"/><path class="l-48cgbbs"/><path class="qxe-cdcss"/><path class="i5_aqn80p"/></g>`,
 		"fallback": "solar:smartphone-rotate-orientation-line-duotone",
 	});
 }

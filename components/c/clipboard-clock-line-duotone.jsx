@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/v/vsdjuskpk.css';
-import '../../css/m/m390b8qby.css';
+import '../../css/m/my5268blj.css';
 import '../../css/x/xjmp9lmjf.css';
 import '../../css/j/jn1z35blr.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="vsdjuskpk"/><path class="m390b8qby"/><circle class="xjmp9lmjf"/><path class="jn1z35blr"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="vsdjuskpk"/><path class="my5268blj"/><circle class="xjmp9lmjf"/><path class="jn1z35blr"/></g>`,
 		"fallback": "solar:clipboard-clock-line-duotone",
 	});
 }

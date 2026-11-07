@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iia-u33yn.css';
+import '../../css/v/vnvfmbbnk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iia-u33yn"/>`,
+		"content": `<path class="vnvfmbbnk"/>`,
 		"fallback": "solar:figma-broken",
 	});
 }

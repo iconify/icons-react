@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/wethgabtb.css';
-import '../../css/l/lrd97y3uh.css';
-import '../../css/w/wxqfd6k_b.css';
-import '../../css/t/to8rd8orv.css';
-import '../../css/p/pbnpm7-9j.css';
+import '../../css/k/kek-0ac7m.css';
+import '../../css/v/v1fis2bwy.css';
+import '../../css/d/dypmnxb4q.css';
+import '../../css/c/ce-i1mh_z.css';
+import '../../css/u/uljji2but.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="wethgabtb"/><path class="lrd97y3uh"/><path clip-rule="evenodd" class="wxqfd6k_b"/><path class="to8rd8orv"/><path class="pbnpm7-9j"/></g>`,
+		"content": `<path class="kek-0ac7m"/><path class="v1fis2bwy"/><path clip-rule="evenodd" class="dypmnxb4q"/><path class="ce-i1mh_z"/><path class="uljji2but"/>`,
 		"fallback": "solar:siren-rounded-outline",
 	});
 }

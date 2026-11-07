@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sty21ibsk.css';
+import '../../css/s/sdhgtobpj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sty21ibsk"/>`,
+		"content": `<path class="sdhgtobpj"/>`,
 		"fallback": "solar:hearts-linear",
 	});
 }

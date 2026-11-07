@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/t/tpbjr0bjg.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/m/m9o8uvbmd.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/x/xmfni_o2v.css';
 import '../../css/y/yz_ogeb_k.css';
 import '../../css/e/el-7b12ci.css';
@@ -21,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="tpbjr0bjg"/><g class="mc2zb0bvp"><path class="xmfni_o2v"/><path class="yz_ogeb_k"/><path class="el-7b12ci"/><path class="r6h97u2su"/><path class="w9fplmb5z"/><path class="r5h8dybvg"/><path class="yxxrf1biu"/><path class="sobpxebin"/></g></g>`,
+		"content": `<path clip-rule="evenodd" class="m9o8uvbmd"/><g class="xtpeb-edw"><path class="xmfni_o2v"/><path class="yz_ogeb_k"/><path class="el-7b12ci"/><path class="r6h97u2su"/><path class="w9fplmb5z"/><path class="r5h8dybvg"/><path class="yxxrf1biu"/><path class="sobpxebin"/></g>`,
 		"fallback": "solar:shock-absorber-bold-duotone",
 	});
 }

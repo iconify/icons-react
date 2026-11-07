@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ia0plmbic.css';
+import '../../css/b/b1qrgebiq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ia0plmbic"/>`,
+		"content": `<path class="b1qrgebiq"/>`,
 		"fallback": "solar:crown-minimalistic-linear",
 	});
 }

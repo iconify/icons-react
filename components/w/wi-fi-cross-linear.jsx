@@ -5,7 +5,7 @@ import '../../css/n/nx9b_s0ui.css';
 import '../../css/i/itvkagoch.css';
 import '../../css/k/kpzw3mbym.css';
 import '../../css/z/zj2p4py0y.css';
-import '../../css/p/p8hfojb7u.css';
+import '../../css/c/cwatz7g8l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="nx9b_s0ui"/><path class="itvkagoch"/><path class="kpzw3mbym"/><path class="zj2p4py0y"/><path class="p8hfojb7u"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="nx9b_s0ui"/><path class="itvkagoch"/><path class="kpzw3mbym"/><path class="zj2p4py0y"/><path class="cwatz7g8l"/></g>`,
 		"fallback": "solar:wi-fi-cross-linear",
 	});
 }

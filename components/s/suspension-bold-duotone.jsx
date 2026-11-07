@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/r/ral4dpmfu.css';
-import '../../css/p/pf4pa1bsm.css';
-import '../../css/b/b9gesmbow.css';
-import '../../css/r/rapb4wc6p.css';
-import '../../css/j/j0wjv4bfx.css';
+import '../../css/o/oxdwvpbri.css';
+import '../../css/u/ucym07b5n.css';
+import '../../css/h/hpp6ujt5x.css';
+import '../../css/c/cfu0w31nz.css';
+import '../../css/k/kuukv2b8k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ral4dpmfu"/><path class="pf4pa1bsm"/><path class="b9gesmbow"/><path class="rapb4wc6p"/><path class="j0wjv4bfx"/></g>`,
+		"content": `<path class="oxdwvpbri"/><path class="ucym07b5n"/><path class="hpp6ujt5x"/><path class="cfu0w31nz"/><path class="kuukv2b8k"/>`,
 		"fallback": "solar:suspension-bold-duotone",
 	});
 }

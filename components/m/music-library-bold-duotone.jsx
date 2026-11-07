@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/n/n1j6tx76b.css';
-import '../../css/p/pym8deq-f.css';
-import '../../css/u/uz194sblu.css';
-import '../../css/m/mc2zb0bvp.css';
-import '../../css/t/te4tu1b2p.css';
-import '../../css/b/bdje-z_9r.css';
+import '../../css/x/xd9sx6bdy.css';
+import '../../css/f/ftsxs4bzr.css';
+import '../../css/d/dtxau0b4t.css';
+import '../../css/x/xtpeb-edw.css';
+import '../../css/a/a7wynk4qy.css';
+import '../../css/g/g2kigbbqe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="n1j6tx76b"/><path class="pym8deq-f"/><path class="uz194sblu"/><g class="mc2zb0bvp"><path class="te4tu1b2p"/><path class="bdje-z_9r"/></g></g>`,
+		"content": `<path clip-rule="evenodd" class="xd9sx6bdy"/><path class="ftsxs4bzr"/><path class="dtxau0b4t"/><g class="xtpeb-edw"><path class="a7wynk4qy"/><path class="g2kigbbqe"/></g>`,
 		"fallback": "solar:music-library-bold-duotone",
 	});
 }

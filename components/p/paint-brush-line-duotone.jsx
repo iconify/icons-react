@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/r/rgpbbbb1c.css';
+import '../../css/w/wl0yuv6my.css';
 import '../../css/j/j2fajacou.css';
 import '../../css/t/tg3ffvmkc.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="rgpbbbb1c"/><path class="j2fajacou"/><path class="tg3ffvmkc"/></g>`,
+		"content": `<g class="hntgybcog"><path class="wl0yuv6my"/><path class="j2fajacou"/><path class="tg3ffvmkc"/></g>`,
 		"fallback": "solar:paint-brush-line-duotone",
 	});
 }

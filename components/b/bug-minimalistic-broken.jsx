@@ -4,12 +4,12 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/s/s0k-qebzz.css';
 import '../../css/u/ugk0bzb-s.css';
 import '../../css/k/ksod32btv.css';
-import '../../css/k/ko4lyrbvn.css';
-import '../../css/g/gm1terbiy.css';
+import '../../css/x/xpw199b1a.css';
+import '../../css/o/okv-1ab4t.css';
 import '../../css/p/pm3t8d4ps.css';
 import '../../css/p/p472ttwxz.css';
-import '../../css/k/kh5piou6z.css';
-import '../../css/j/jibp3o9ef.css';
+import '../../css/j/jhanyibir.css';
+import '../../css/e/enfo96b9n.css';
 import '../../css/x/xdj171b8t.css';
 import '../../css/g/gkzpwmxcg.css';
 
@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="s0k-qebzz"/><path class="ugk0bzb-s"/><path class="ksod32btv"/><path class="ko4lyrbvn"/><path class="gm1terbiy"/><path class="pm3t8d4ps"/><path class="p472ttwxz"/><path class="kh5piou6z"/><path class="jibp3o9ef"/><path class="xdj171b8t"/><path class="gkzpwmxcg"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="s0k-qebzz"/><path class="ugk0bzb-s"/><path class="ksod32btv"/><path class="xpw199b1a"/><path class="okv-1ab4t"/><path class="pm3t8d4ps"/><path class="p472ttwxz"/><path class="jhanyibir"/><path class="enfo96b9n"/><path class="xdj171b8t"/><path class="gkzpwmxcg"/></g>`,
 		"fallback": "solar:bug-minimalistic-broken",
 	});
 }

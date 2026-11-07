@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/udo-qjbdc.css';
+import '../../css/g/g2togz17h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="udo-qjbdc"/>`,
+		"content": `<path class="g2togz17h"/>`,
 		"fallback": "solar:planet-3-broken",
 	});
 }

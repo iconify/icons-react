@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/v/v7-s45wqk.css';
-import '../../css/v/vohrg0uxt.css';
-import '../../css/s/s2x337bqx.css';
-import '../../css/w/wuz6-icel.css';
-import '../../css/i/i52sr-dmc.css';
+import '../../css/y/y7zz7vboy.css';
+import '../../css/i/ipogvcwzq.css';
+import '../../css/n/nr35mg1ux.css';
+import '../../css/i/i9yxaoc2b.css';
+import '../../css/b/b1qrr3bxa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="v7-s45wqk"/><path class="vohrg0uxt"/><path class="s2x337bqx"/><path class="wuz6-icel"/><path class="i52sr-dmc"/></g>`,
+		"content": `<path clip-rule="evenodd" class="y7zz7vboy"/><path class="ipogvcwzq"/><path class="nr35mg1ux"/><path class="i9yxaoc2b"/><path class="b1qrr3bxa"/>`,
 		"fallback": "solar:clapperboard-play-bold-duotone",
 	});
 }

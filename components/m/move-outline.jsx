@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rl5mm0lik.css';
+import '../../css/a/aay4mrbtd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rl5mm0lik"/>`,
+		"content": `<path class="aay4mrbtd"/>`,
 		"fallback": "solar:move-outline",
 	});
 }

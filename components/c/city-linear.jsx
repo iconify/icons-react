@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/o/odzpm0jzs.css';
 import '../../css/y/y6fmg0bii.css';
-import '../../css/e/e2-2pvbbr.css';
+import '../../css/z/zhevo1v4w.css';
 import '../../css/m/mazw48b6h.css';
 import '../../css/i/iidlf9dhp.css';
 import '../../css/x/xpzbxokqs.css';
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="odzpm0jzs"/><path class="y6fmg0bii"/><path class="e2-2pvbbr"/><path class="mazw48b6h"/><path class="iidlf9dhp"/><path class="xpzbxokqs"/><path class="gyt9v7b_a"/><path class="c1vi8l2_y"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="odzpm0jzs"/><path class="y6fmg0bii"/><path class="zhevo1v4w"/><path class="mazw48b6h"/><path class="iidlf9dhp"/><path class="xpzbxokqs"/><path class="gyt9v7b_a"/><path class="c1vi8l2_y"/></g>`,
 		"fallback": "solar:city-linear",
 	});
 }

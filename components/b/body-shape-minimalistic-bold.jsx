@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/de--p5bvm.css';
+import '../../css/p/p8g4cug_r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="de--p5bvm"/>`,
+		"content": `<path class="p8g4cug_r"/>`,
 		"fallback": "solar:body-shape-minimalistic-bold",
 	});
 }

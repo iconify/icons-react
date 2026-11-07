@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/o/oypn1ubbc.css';
+import '../../css/s/shxkxxv-h.css';
 import '../../css/i/iqy4f3ajf.css';
 import '../../css/y/y26jmob4o.css';
 import '../../css/d/d9-3mgywf.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="oypn1ubbc"/><path class="iqy4f3ajf"/><path class="y26jmob4o"/><path class="d9-3mgywf"/><path class="yn0ky0bzp"/><path class="p46370bes"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="shxkxxv-h"/><path class="iqy4f3ajf"/><path class="y26jmob4o"/><path class="d9-3mgywf"/><path class="yn0ky0bzp"/><path class="p46370bes"/></g>`,
 		"fallback": "solar:remote-controller-2-line-duotone",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/l/lebqn5bme.css';
+import '../../css/x/xekr-cc0r.css';
 import '../../css/l/l_3c_lb_q.css';
 import '../../css/q/qxdu-bceo.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="lebqn5bme"/><circle class="l_3c_lb_q"/><path class="qxdu-bceo"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="xekr-cc0r"/><circle class="l_3c_lb_q"/><path class="qxdu-bceo"/></g>`,
 		"fallback": "solar:medal-star-circle-linear",
 	});
 }

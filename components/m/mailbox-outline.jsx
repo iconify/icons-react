@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qvrdntb2n.css';
+import '../../css/s/soddisw5d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="qvrdntb2n"/>`,
+		"content": `<path clip-rule="evenodd" class="soddisw5d"/>`,
 		"fallback": "solar:mailbox-outline",
 	});
 }

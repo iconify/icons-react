@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/l-5n86b-i.css';
-import '../../css/l/li_x_qb7t.css';
-import '../../css/q/q4fuubn3g.css';
-import '../../css/f/fpmrqqzwz.css';
-import '../../css/y/yjogm03ma.css';
+import '../../css/a/ar3grmbxb.css';
+import '../../css/o/ohscxxbjx.css';
+import '../../css/x/x0ga9cfcw.css';
+import '../../css/o/o7fi5_bdy.css';
+import '../../css/q/qwupe9yaw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="l-5n86b-i"/><path class="li_x_qb7t"/><path class="q4fuubn3g"/><path clip-rule="evenodd" class="fpmrqqzwz"/><path class="yjogm03ma"/></g>`,
+		"content": `<path class="ar3grmbxb"/><path class="ohscxxbjx"/><path class="x0ga9cfcw"/><path clip-rule="evenodd" class="o7fi5_bdy"/><path class="qwupe9yaw"/>`,
 		"fallback": "solar:cassette-2-bold",
 	});
 }

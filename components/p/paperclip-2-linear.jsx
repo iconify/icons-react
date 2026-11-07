@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v9aa3xh8j.css';
+import '../../css/w/whzycacat.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v9aa3xh8j"/>`,
+		"content": `<path class="whzycacat"/>`,
 		"fallback": "solar:paperclip-2-linear",
 	});
 }

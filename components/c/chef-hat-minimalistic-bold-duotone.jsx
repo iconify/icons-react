@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/y/ycithb40p.css';
-import '../../css/e/ei9xr0bfl.css';
+import '../../css/z/zscshfblg.css';
+import '../../css/f/fpavm-beg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ycithb40p"/><path class="ei9xr0bfl"/></g>`,
+		"content": `<path class="zscshfblg"/><path class="fpavm-beg"/>`,
 		"fallback": "solar:chef-hat-minimalistic-bold-duotone",
 	});
 }

@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/o/oygfoquqy.css';
-import '../../css/b/b7jntsuhi.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/u/u50k6zbdy.css';
+import '../../css/h/h1p_nyb0m.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/f/fon80x16t.css';
 import '../../css/x/xtbgsz62x.css';
 import '../../css/g/gt9041bte.css';
@@ -20,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="oygfoquqy"/><path class="b7jntsuhi"/><g class="mc2zb0bvp"><path class="fon80x16t"/><path class="xtbgsz62x"/><path class="gt9041bte"/><path class="tc89sw18l"/><path class="yva3si-8m"/><path class="j3ld0_b4o"/></g></g>`,
+		"content": `<path class="u50k6zbdy"/><path class="h1p_nyb0m"/><g class="xtpeb-edw"><path class="fon80x16t"/><path class="xtbgsz62x"/><path class="gt9041bte"/><path class="tc89sw18l"/><path class="yva3si-8m"/><path class="j3ld0_b4o"/></g>`,
 		"fallback": "solar:bone-fracture-bold-duotone",
 	});
 }

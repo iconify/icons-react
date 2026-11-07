@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/p/p65p1hbxh.css';
-import '../../css/i/ix2yyfqqg.css';
+import '../../css/n/nym5net5m.css';
 import '../../css/a/axy_-vb0r.css';
 import '../../css/r/rho2h4_9z.css';
 import '../../css/v/vy5waob-q.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="p65p1hbxh"/><path class="ix2yyfqqg"/><path class="axy_-vb0r"/><path class="rho2h4_9z"/><path class="vy5waob-q"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="p65p1hbxh"/><path class="nym5net5m"/><path class="axy_-vb0r"/><path class="rho2h4_9z"/><path class="vy5waob-q"/></g>`,
 		"fallback": "solar:bedside-table-2-line-duotone",
 	});
 }

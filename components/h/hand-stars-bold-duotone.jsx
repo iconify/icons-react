@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/z/zjag56b6z.css';
-import '../../css/j/j8l2ed4er.css';
-import '../../css/d/d9tahkbuu.css';
-import '../../css/o/o74_6ebpd.css';
+import '../../css/a/a7qi5pmcg.css';
+import '../../css/e/ex62vvb2p.css';
+import '../../css/s/smy-kq_2o.css';
+import '../../css/z/z973ydbeg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="zjag56b6z"/><path class="j8l2ed4er"/><path class="d9tahkbuu"/><path class="o74_6ebpd"/></g>`,
+		"content": `<path class="a7qi5pmcg"/><path class="ex62vvb2p"/><path class="smy-kq_2o"/><path class="z973ydbeg"/>`,
 		"fallback": "solar:hand-stars-bold-duotone",
 	});
 }

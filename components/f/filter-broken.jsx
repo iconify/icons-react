@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dbc3x4ajk.css';
+import '../../css/z/zn5eehber.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dbc3x4ajk"/>`,
+		"content": `<path class="zn5eehber"/>`,
 		"fallback": "solar:filter-broken",
 	});
 }

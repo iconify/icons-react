@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/m/m8netx35k.css';
+import '../../css/l/l1rm8bhcu.css';
 import '../../css/p/pve7dkb2j.css';
 import '../../css/q/qgl0b2pvl.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="m8netx35k"/><path class="pve7dkb2j"/><path class="qgl0b2pvl"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="l1rm8bhcu"/><path class="pve7dkb2j"/><path class="qgl0b2pvl"/></g>`,
 		"fallback": "solar:hand-shake-line-duotone",
 	});
 }

@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mc2zb0bvp.css';
-import '../../css/m/mcno18bmy.css';
-import '../../css/i/i92g2uadp.css';
-import '../../css/v/vsloccbcs.css';
-import '../../css/g/gqdm7qboe.css';
+import '../../css/x/xtpeb-edw.css';
+import '../../css/z/zp4lv4mif.css';
+import '../../css/z/z92cejbkn.css';
+import '../../css/j/jrxr2kb5a.css';
+import '../../css/s/sxc-zkb1d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="mcno18bmy"/><path class="i92g2uadp"/></g><path class="vsloccbcs"/><path class="gqdm7qboe"/></g>`,
+		"content": `<g class="xtpeb-edw"><path class="zp4lv4mif"/><path class="z92cejbkn"/></g><path class="jrxr2kb5a"/><path class="sxc-zkb1d"/>`,
 		"fallback": "solar:chevrons-left-right-bold-duotone",
 	});
 }

@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/wo16r8ief.css';
-import '../../css/g/gcs8t4brs.css';
-import '../../css/b/b2o1pwbes.css';
-import '../../css/y/ywo8pdqxt.css';
-import '../../css/p/p93mmtu1a.css';
+import '../../css/f/f6ld_jb7u.css';
+import '../../css/e/e85_kpklm.css';
+import '../../css/r/r2y9xybok.css';
+import '../../css/l/l5limrb2k.css';
+import '../../css/t/tpv95qpsr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="wo16r8ief"/><path clip-rule="evenodd" class="gcs8t4brs"/><path class="b2o1pwbes"/><path class="ywo8pdqxt"/><path class="p93mmtu1a"/></g>`,
+		"content": `<path class="f6ld_jb7u"/><path clip-rule="evenodd" class="e85_kpklm"/><path class="r2y9xybok"/><path class="l5limrb2k"/><path class="tpv95qpsr"/>`,
 		"fallback": "solar:cup-hot-bold",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/g/guj5ndblb.css';
+import '../../css/i/ih2r9krfu.css';
 import '../../css/x/x-22ajbkr.css';
 import '../../css/z/zqljambho.css';
 import '../../css/f/fpr1n1b3q.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="guj5ndblb"/><path class="x-22ajbkr"/><path class="zqljambho"/><path class="fpr1n1b3q"/><path class="abaosiy3n"/><path class="ujrmgmblc"/><path class="obcs1cbgf"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="ih2r9krfu"/><path class="x-22ajbkr"/><path class="zqljambho"/><path class="fpr1n1b3q"/><path class="abaosiy3n"/><path class="ujrmgmblc"/><path class="obcs1cbgf"/></g>`,
 		"fallback": "solar:microphone-2-linear",
 	});
 }

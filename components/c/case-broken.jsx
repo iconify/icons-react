@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/u/uv3607vad.css';
-import '../../css/t/tb-kfybul.css';
+import '../../css/f/fku6--sxs.css';
+import '../../css/u/uo7ud1b4w.css';
 import '../../css/t/tg6vyv3do.css';
-import '../../css/j/jct4a2bzg.css';
+import '../../css/a/acwk9qbkt.css';
 import '../../css/e/e_466bh1b.css';
 import '../../css/d/dfkb1eb4o.css';
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="uv3607vad"/><path class="tb-kfybul"/><path class="tg6vyv3do"/><path class="jct4a2bzg"/><path class="e_466bh1b"/><path class="dfkb1eb4o"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="fku6--sxs"/><path class="uo7ud1b4w"/><path class="tg6vyv3do"/><path class="acwk9qbkt"/><path class="e_466bh1b"/><path class="dfkb1eb4o"/></g>`,
 		"fallback": "solar:case-broken",
 	});
 }

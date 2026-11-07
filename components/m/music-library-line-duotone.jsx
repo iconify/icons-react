@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/e/ea_31gbnm.css';
+import '../../css/y/yh6hz8b9k.css';
 import '../../css/u/u9_hwpzmi.css';
 import '../../css/v/vnsop5_4w.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ea_31gbnm"/><path class="u9_hwpzmi"/><path class="vnsop5_4w"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="yh6hz8b9k"/><path class="u9_hwpzmi"/><path class="vnsop5_4w"/></g>`,
 		"fallback": "solar:music-library-line-duotone",
 	});
 }

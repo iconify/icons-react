@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gcmodn71m.css';
+import '../../css/a/atj5g8h1y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gcmodn71m"/>`,
+		"content": `<path class="atj5g8h1y"/>`,
 		"fallback": "solar:sledgehammer-broken",
 	});
 }

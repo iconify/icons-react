@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/d/dtl23o_xq.css';
-import '../../css/y/y1xc06bdo.css';
-import '../../css/e/e8xwqrlkc.css';
+import '../../css/x/xk0kdnbak.css';
+import '../../css/e/eze7bbbbn.css';
 import '../../css/r/r0p-ejt9x.css';
 import '../../css/l/lt36robqc.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="dtl23o_xq"/><path class="y1xc06bdo"/><path class="e8xwqrlkc"/><path class="r0p-ejt9x"/><path class="lt36robqc"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="dtl23o_xq"/><path class="xk0kdnbak"/><path class="eze7bbbbn"/><path class="r0p-ejt9x"/><path class="lt36robqc"/></g>`,
 		"fallback": "solar:user-plus-linear",
 	});
 }

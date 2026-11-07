@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/hqpl1bcby.css';
-import '../../css/e/egzhicj_c.css';
+import '../../css/k/k9htqua9u.css';
 import '../../css/p/p1tpmgbyh.css';
 import '../../css/h/h6_ngrzeb.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="hqpl1bcby"/><path class="egzhicj_c"/><path class="p1tpmgbyh"/><path class="h6_ngrzeb"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="hqpl1bcby"/><path class="k9htqua9u"/><path class="p1tpmgbyh"/><path class="h6_ngrzeb"/></g>`,
 		"fallback": "solar:pills-3-line-duotone",
 	});
 }

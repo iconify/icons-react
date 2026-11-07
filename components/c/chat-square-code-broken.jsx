@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/x/xjes2kbti.css';
+import '../../css/q/qllqasblk.css';
 import '../../css/y/yzbzu_bof.css';
-import '../../css/e/ev6y-cbzf.css';
-import '../../css/e/ejdkgccas.css';
+import '../../css/h/hq3-ki02p.css';
+import '../../css/h/hfi1qwbxh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="xjes2kbti"/><path class="yzbzu_bof"/><path class="ev6y-cbzf"/><path class="ejdkgccas"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="qllqasblk"/><path class="yzbzu_bof"/><path class="hq3-ki02p"/><path class="hfi1qwbxh"/></g>`,
 		"fallback": "solar:chat-square-code-broken",
 	});
 }

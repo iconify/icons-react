@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/n/n6y02tb2f.css';
-import '../../css/f/fyvqt1pdf.css';
-import '../../css/s/soh-f4tar.css';
-import '../../css/o/o9q7sacyd.css';
-import '../../css/r/rh8fn_wwa.css';
+import '../../css/s/s94wizb4p.css';
+import '../../css/a/a2vumeq3o.css';
+import '../../css/s/s3m1l3b4t.css';
+import '../../css/u/u4_xj9blu.css';
+import '../../css/u/u7mfpjuoc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="n6y02tb2f"/><path class="fyvqt1pdf"/><path class="soh-f4tar"/><path class="o9q7sacyd"/><path clip-rule="evenodd" class="rh8fn_wwa"/></g>`,
+		"content": `<path class="s94wizb4p"/><path class="a2vumeq3o"/><path class="s3m1l3b4t"/><path class="u4_xj9blu"/><path clip-rule="evenodd" class="u7mfpjuoc"/>`,
 		"fallback": "solar:notebook-2-outline",
 	});
 }

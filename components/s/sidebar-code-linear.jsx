@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/r/rma5_ql1e.css';
+import '../../css/l/lt87iveio.css';
 import '../../css/a/a8a2mlbtc.css';
 import '../../css/m/mblpvrk8u.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="rma5_ql1e"/><path class="a8a2mlbtc"/><path class="mblpvrk8u"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="lt87iveio"/><path class="a8a2mlbtc"/><path class="mblpvrk8u"/></g>`,
 		"fallback": "solar:sidebar-code-linear",
 	});
 }

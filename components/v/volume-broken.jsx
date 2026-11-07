@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/no41bfb-q.css';
+import '../../css/h/hqum4actq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="no41bfb-q"/>`,
+		"content": `<path class="hqum4actq"/>`,
 		"fallback": "solar:volume-broken",
 	});
 }

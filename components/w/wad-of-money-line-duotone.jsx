@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/w/whmpjxefc.css';
-import '../../css/l/lfghc9-gy.css';
+import '../../css/q/q0pnou38b.css';
+import '../../css/c/csztdybah.css';
 import '../../css/x/xs_-ubcxl.css';
 import '../../css/q/qy5qlq-tp.css';
 import '../../css/t/t9mbxobpm.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="whmpjxefc"/><path class="lfghc9-gy"/><path class="xs_-ubcxl"/><path class="qy5qlq-tp"/><path class="t9mbxobpm"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="q0pnou38b"/><path class="csztdybah"/><path class="xs_-ubcxl"/><path class="qy5qlq-tp"/><path class="t9mbxobpm"/></g>`,
 		"fallback": "solar:wad-of-money-line-duotone",
 	});
 }

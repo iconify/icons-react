@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/f63d8qhks.css';
-import '../../css/b/bq3rtxb6u.css';
-import '../../css/t/tyxzc9bcm.css';
-import '../../css/a/ahtkhu2_p.css';
-import '../../css/i/i7p5pab2u.css';
-import '../../css/p/po-6-ib2u.css';
+import '../../css/r/re74k8eaa.css';
+import '../../css/n/nquug4bon.css';
+import '../../css/d/dh1if8bzc.css';
+import '../../css/z/zlv857b-x.css';
+import '../../css/l/l662jhb3d.css';
+import '../../css/j/j8blkxn0m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="f63d8qhks"/><path class="bq3rtxb6u"/><path class="tyxzc9bcm"/><path class="ahtkhu2_p"/><path class="i7p5pab2u"/><path class="po-6-ib2u"/></g>`,
+		"content": `<path class="re74k8eaa"/><path class="nquug4bon"/><path class="dh1if8bzc"/><path class="zlv857b-x"/><path class="l662jhb3d"/><path class="j8blkxn0m"/>`,
 		"fallback": "solar:volleyball-bold",
 	});
 }

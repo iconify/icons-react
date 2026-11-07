@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/x/xcnzjfvig.css';
-import '../../css/n/ny6rvempn.css';
+import '../../css/s/s8ozf6mmj.css';
+import '../../css/r/rs9vlc3gn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="xcnzjfvig"/><path class="ny6rvempn"/></g>`,
+		"content": `<g class="hntgybcog"><path class="s8ozf6mmj"/><path class="rs9vlc3gn"/></g>`,
 		"fallback": "solar:heart-crack-line-duotone",
 	});
 }

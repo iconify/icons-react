@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bottp98ly.css';
+import '../../css/e/et0o79h9i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bottp98ly"/>`,
+		"content": `<path class="et0o79h9i"/>`,
 		"fallback": "solar:move-horizontal-bold",
 	});
 }

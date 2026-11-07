@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sb6shej8z.css';
+import '../../css/z/z520fs12r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="sb6shej8z"/>`,
+		"content": `<path clip-rule="evenodd" class="z520fs12r"/>`,
 		"fallback": "solar:bluetooth-wave-outline",
 	});
 }

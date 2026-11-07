@@ -4,7 +4,7 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/hs8rvvlxb.css';
 import '../../css/f/fu7ml01dv.css';
 import '../../css/a/avvl2tizt.css';
-import '../../css/s/sbmqfhzny.css';
+import '../../css/g/ge3j4jbjb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="hs8rvvlxb"/><path class="fu7ml01dv"/><path class="avvl2tizt"/><path class="sbmqfhzny"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="hs8rvvlxb"/><path class="fu7ml01dv"/><path class="avvl2tizt"/><path class="ge3j4jbjb"/></g>`,
 		"fallback": "solar:ranking-line-duotone",
 	});
 }

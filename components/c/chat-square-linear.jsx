@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dom1d86ql.css';
+import '../../css/l/llj5-713t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dom1d86ql"/>`,
+		"content": `<path class="llj5-713t"/>`,
 		"fallback": "solar:chat-square-linear",
 	});
 }

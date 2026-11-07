@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/p/pdcao9bkm.css';
-import '../../css/b/bi2xhac7n.css';
+import '../../css/m/mgns90b-d.css';
+import '../../css/e/ekudvch8j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="pdcao9bkm"/><path class="bi2xhac7n"/></g>`,
+		"content": `<path class="mgns90b-d"/><path class="ekudvch8j"/>`,
 		"fallback": "solar:exclamation-mark-outline",
 	});
 }

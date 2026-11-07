@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pr52f_b5y.css';
-import '../../css/x/xt9ylgxbv.css';
+import '../../css/e/e6lmoxbxr.css';
 import '../../css/t/tnqrs3bck.css';
-import '../../css/q/qtktxacxl.css';
-import '../../css/s/sfy91pb3e.css';
-import '../../css/h/hli2s3b5e.css';
+import '../../css/x/xerbjnbev.css';
+import '../../css/f/fr4skcb1d.css';
+import '../../css/o/omy09pzyk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><path class="xt9ylgxbv"/><path class="tnqrs3bck"/><path class="qtktxacxl"/><path class="sfy91pb3e"/><path class="hli2s3b5e"/></g>`,
+		"content": `<g class="pr52f_b5y"><path class="e6lmoxbxr"/><path class="tnqrs3bck"/><path class="xerbjnbev"/><path class="fr4skcb1d"/><path class="omy09pzyk"/></g>`,
 		"fallback": "solar:magic-wand-3-line-duotone",
 	});
 }

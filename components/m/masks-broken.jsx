@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/d/d3aradb7w.css';
+import '../../css/n/n7f7o4bum.css';
 import '../../css/j/j6u4q-b2b.css';
 import '../../css/w/wtktpgbca.css';
 import '../../css/o/oxhorhz7x.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="d3aradb7w"/><path class="j6u4q-b2b"/><path class="wtktpgbca"/><path class="oxhorhz7x"/><path class="n2acu5z3d"/><path class="ri-a6dzxu"/><path class="rw2_hftsa"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="n7f7o4bum"/><path class="j6u4q-b2b"/><path class="wtktpgbca"/><path class="oxhorhz7x"/><path class="n2acu5z3d"/><path class="ri-a6dzxu"/><path class="rw2_hftsa"/></g>`,
 		"fallback": "solar:masks-broken",
 	});
 }

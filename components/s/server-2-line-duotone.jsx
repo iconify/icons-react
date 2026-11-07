@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/a/az6u9rb8a.css';
-import '../../css/r/r8yg0wt-q.css';
+import '../../css/i/iisg1y_0l.css';
+import '../../css/s/snfivq3ng.css';
 import '../../css/w/wmv_g2b0a.css';
 import '../../css/s/sob1app1w.css';
 import '../../css/q/qcji_nb3a.css';
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="az6u9rb8a"/><path class="r8yg0wt-q"/><path class="wmv_g2b0a"/><path class="sob1app1w"/><path class="qcji_nb3a"/><path class="drih6ob2s"/><path class="dbda7jb-a"/><path class="nu5dhcc1j"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="iisg1y_0l"/><path class="snfivq3ng"/><path class="wmv_g2b0a"/><path class="sob1app1w"/><path class="qcji_nb3a"/><path class="drih6ob2s"/><path class="dbda7jb-a"/><path class="nu5dhcc1j"/></g>`,
 		"fallback": "solar:server-2-line-duotone",
 	});
 }

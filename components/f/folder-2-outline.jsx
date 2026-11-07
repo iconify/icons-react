@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/go_38giyk.css';
+import '../../css/s/ssso-fkbl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="go_38giyk"/>`,
+		"content": `<path clip-rule="evenodd" class="ssso-fkbl"/>`,
 		"fallback": "solar:folder-2-outline",
 	});
 }

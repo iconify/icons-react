@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/i/i9a7o5iov.css';
+import '../../css/q/qpizk3b2i.css';
 import '../../css/y/ytwl2ebtc.css';
 import '../../css/r/rmwzjebkv.css';
 import '../../css/d/djtt46btr.css';
-import '../../css/p/p_9-p8r6d.css';
+import '../../css/u/u7zw42bna.css';
 import '../../css/o/ou-u7bcws.css';
 
 const viewBox = {"width":24,"height":24};
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="i9a7o5iov"/><path class="ytwl2ebtc"/><path class="rmwzjebkv"/><path class="djtt46btr"/><path class="p_9-p8r6d"/><path class="ou-u7bcws"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="qpizk3b2i"/><path class="ytwl2ebtc"/><path class="rmwzjebkv"/><path class="djtt46btr"/><path class="u7zw42bna"/><path class="ou-u7bcws"/></g>`,
 		"fallback": "solar:calendar-date-linear",
 	});
 }

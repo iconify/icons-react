@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/r/r06h_3ljo.css';
-import '../../css/p/pr6lxtbqk.css';
-import '../../css/d/d2g69cbkx.css';
+import '../../css/m/mm_litbye.css';
+import '../../css/l/l68gd2b_u.css';
+import '../../css/u/utklsfbvf.css';
 import '../../css/p/piipinbcz.css';
 import '../../css/k/kkehyzd5g.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="r06h_3ljo"/><path class="pr6lxtbqk"/><path class="d2g69cbkx"/><path class="piipinbcz"/><path class="kkehyzd5g"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="mm_litbye"/><path class="l68gd2b_u"/><path class="utklsfbvf"/><path class="piipinbcz"/><path class="kkehyzd5g"/></g>`,
 		"fallback": "solar:conditioner-line-duotone",
 	});
 }

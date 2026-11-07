@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/n1lsf0bnc.css';
-import '../../css/m/mpdpocb9m.css';
-import '../../css/c/c62bycc4j.css';
+import '../../css/m/mheavg9js.css';
+import '../../css/s/soncm72fr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="mpdpocb9m"/><path class="c62bycc4j"/></g>`,
+		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="mheavg9js"/><path class="soncm72fr"/></g>`,
 		"fallback": "solar:bag-music-2-outline",
 	});
 }

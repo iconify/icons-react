@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/j/jcs245bfb.css';
+import '../../css/i/i45ltnydv.css';
 import '../../css/p/plhtj7b7c.css';
 import '../../css/e/e0cmz0boh.css';
 import '../../css/z/zr35ecbmr.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="jcs245bfb"/><path class="plhtj7b7c"/><path class="e0cmz0boh"/><path class="zr35ecbmr"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="i45ltnydv"/><path class="plhtj7b7c"/><path class="e0cmz0boh"/><path class="zr35ecbmr"/></g>`,
 		"fallback": "solar:file-video-camera-linear",
 	});
 }

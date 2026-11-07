@@ -2,10 +2,10 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/a/at_81ebpk.css';
-import '../../css/b/bqfg75b4w.css';
-import '../../css/g/gz3zbhgyq.css';
-import '../../css/i/iyvfpqslp.css';
-import '../../css/b/bz9hxnbeg.css';
+import '../../css/t/tf_8-xb1g.css';
+import '../../css/q/qxli02nev.css';
+import '../../css/e/ex_z2zb_b.css';
+import '../../css/d/d-orjcc8m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="at_81ebpk"/><path class="bqfg75b4w"/><path class="gz3zbhgyq"/><path class="iyvfpqslp"/><path class="bz9hxnbeg"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="at_81ebpk"/><path class="tf_8-xb1g"/><path class="qxli02nev"/><path class="ex_z2zb_b"/><path class="d-orjcc8m"/></g>`,
 		"fallback": "solar:share-linear",
 	});
 }

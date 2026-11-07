@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/s/s4q5tcbyx.css';
-import '../../css/n/nd185z8sm.css';
-import '../../css/d/d7bq5xjoc.css';
+import '../../css/w/wt_ga9x1x.css';
+import '../../css/k/k2crqybes.css';
+import '../../css/l/lcil0k4ow.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="s4q5tcbyx"/><path class="nd185z8sm"/><path class="d7bq5xjoc"/></g>`,
+		"content": `<path clip-rule="evenodd" class="wt_ga9x1x"/><path class="k2crqybes"/><path class="lcil0k4ow"/>`,
 		"fallback": "solar:ticket-sale-outline",
 	});
 }

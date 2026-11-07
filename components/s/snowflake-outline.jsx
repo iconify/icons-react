@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y8t1-_2-q.css';
+import '../../css/v/vss0sdbge.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="y8t1-_2-q"/>`,
+		"content": `<path clip-rule="evenodd" class="vss0sdbge"/>`,
 		"fallback": "solar:snowflake-outline",
 	});
 }

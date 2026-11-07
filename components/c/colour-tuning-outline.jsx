@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lg4mb7p2r.css';
+import '../../css/e/eib-kokoe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="lg4mb7p2r"/>`,
+		"content": `<path clip-rule="evenodd" class="eib-kokoe"/>`,
 		"fallback": "solar:colour-tuning-outline",
 	});
 }

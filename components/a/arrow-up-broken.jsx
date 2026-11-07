@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h9nvxccti.css';
+import '../../css/j/jdep0-bpc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h9nvxccti"/>`,
+		"content": `<path class="jdep0-bpc"/>`,
 		"fallback": "solar:arrow-up-broken",
 	});
 }

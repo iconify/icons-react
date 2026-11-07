@@ -4,7 +4,7 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/w/wryq7qf1p.css';
 import '../../css/g/g9iewmb7q.css';
 import '../../css/r/roum1zb8y.css';
-import '../../css/l/l0_9bj_zz.css';
+import '../../css/y/yjcbf8b5d.css';
 import '../../css/t/ts8bjky0l.css';
 import '../../css/l/ll0cv8o9n.css';
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="wryq7qf1p"/><path class="g9iewmb7q"/><path class="roum1zb8y"/><path class="l0_9bj_zz"/><path class="ts8bjky0l"/><path class="ll0cv8o9n"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="wryq7qf1p"/><path class="g9iewmb7q"/><path class="roum1zb8y"/><path class="yjcbf8b5d"/><path class="ts8bjky0l"/><path class="ll0cv8o9n"/></g>`,
 		"fallback": "solar:wi-fi-router-minimalistic-broken",
 	});
 }

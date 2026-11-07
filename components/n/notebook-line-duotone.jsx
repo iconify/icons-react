@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/k/kbbftyu-m.css';
+import '../../css/c/c-nsjhbdo.css';
 import '../../css/q/q1gsu37sn.css';
 import '../../css/w/wurlbwzqw.css';
 import '../../css/k/kd9g48fun.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="kbbftyu-m"/><path class="q1gsu37sn"/><path class="wurlbwzqw"/><path class="kd9g48fun"/><path class="emjwy2umw"/><path class="ur-0t6b4e"/><path class="xxfyb4b_r"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="c-nsjhbdo"/><path class="q1gsu37sn"/><path class="wurlbwzqw"/><path class="kd9g48fun"/><path class="emjwy2umw"/><path class="ur-0t6b4e"/><path class="xxfyb4b_r"/></g>`,
 		"fallback": "solar:notebook-line-duotone",
 	});
 }

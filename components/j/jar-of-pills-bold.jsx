@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/fbqfi4sib.css';
-import '../../css/y/y7r8vsqdr.css';
-import '../../css/e/e56ib4b-i.css';
-import '../../css/e/e0oiq1b4b.css';
+import '../../css/e/em3p83bvs.css';
+import '../../css/a/a7uahqbqs.css';
+import '../../css/b/bqzidgs3h.css';
+import '../../css/n/nrkqveb2f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="fbqfi4sib"/><path clip-rule="evenodd" class="y7r8vsqdr"/><path class="e56ib4b-i"/><path class="e0oiq1b4b"/></g>`,
+		"content": `<path class="em3p83bvs"/><path clip-rule="evenodd" class="a7uahqbqs"/><path class="bqzidgs3h"/><path class="nrkqveb2f"/>`,
 		"fallback": "solar:jar-of-pills-bold",
 	});
 }

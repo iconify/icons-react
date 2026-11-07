@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/v/vea8iybjt.css';
+import '../../css/b/bg1voxbrd.css';
 import '../../css/k/ki00rvofo.css';
 import '../../css/v/v4sczhx0t.css';
 import '../../css/z/zoz248zcv.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="vea8iybjt"/><path class="ki00rvofo"/><path class="v4sczhx0t"/><path class="zoz248zcv"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="bg1voxbrd"/><path class="ki00rvofo"/><path class="v4sczhx0t"/><path class="zoz248zcv"/></g>`,
 		"fallback": "solar:microphone-large-line-duotone",
 	});
 }

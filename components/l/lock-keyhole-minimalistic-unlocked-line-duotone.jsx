@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/c/c3buh4fbk.css';
+import '../../css/m/mgx0gjb2o.css';
 import '../../css/e/e2t_fbj3i.css';
 import '../../css/c/ct1wj-9ig.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="c3buh4fbk"/><path class="e2t_fbj3i"/><path class="ct1wj-9ig"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="mgx0gjb2o"/><path class="e2t_fbj3i"/><path class="ct1wj-9ig"/></g>`,
 		"fallback": "solar:lock-keyhole-minimalistic-unlocked-line-duotone",
 	});
 }

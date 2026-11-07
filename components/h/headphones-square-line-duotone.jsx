@@ -4,8 +4,8 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/x/xeqfbqmug.css';
 import '../../css/e/e_8kd3buu.css';
 import '../../css/p/pbhj346_p.css';
-import '../../css/g/gss1pq6sj.css';
-import '../../css/x/x4tkz9bbr.css';
+import '../../css/c/c20zxwbse.css';
+import '../../css/q/qicxzyeyu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="xeqfbqmug"/><path class="e_8kd3buu"/><path class="pbhj346_p"/><path class="gss1pq6sj"/><path class="x4tkz9bbr"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="xeqfbqmug"/><path class="e_8kd3buu"/><path class="pbhj346_p"/><path class="c20zxwbse"/><path class="qicxzyeyu"/></g>`,
 		"fallback": "solar:headphones-square-line-duotone",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/m/m9lr-xbek.css';
+import '../../css/b/b-bymobfb.css';
 import '../../css/n/n4nddbcfo.css';
 import '../../css/g/g8sz4sbjf.css';
 import '../../css/d/dkk21mj1n.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="m9lr-xbek"/><path class="n4nddbcfo"/><path class="g8sz4sbjf"/><path class="dkk21mj1n"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="b-bymobfb"/><path class="n4nddbcfo"/><path class="g8sz4sbjf"/><path class="dkk21mj1n"/></g>`,
 		"fallback": "solar:smartphone-vibration-linear",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/ml_n0obfa.css';
-import '../../css/e/egm-6jb-e.css';
-import '../../css/h/hdp-dbbeo.css';
-import '../../css/u/ub1sm6b-d.css';
+import '../../css/j/j6-2od-ft.css';
+import '../../css/k/kb3qv9b3z.css';
+import '../../css/z/zkdww2byo.css';
+import '../../css/x/xu5i9lf5g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="ml_n0obfa"/><path class="egm-6jb-e"/><path class="hdp-dbbeo"/><path class="ub1sm6b-d"/></g>`,
+		"content": `<path clip-rule="evenodd" class="j6-2od-ft"/><path class="kb3qv9b3z"/><path class="zkdww2byo"/><path class="xu5i9lf5g"/>`,
 		"fallback": "solar:ufo-outline",
 	});
 }

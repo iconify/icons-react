@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/x/xte30hbrs.css';
-import '../../css/u/ufcvxubwa.css';
-import '../../css/d/dogmykb7z.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/j/jajc9k77y.css';
+import '../../css/s/s_tz82bpo.css';
+import '../../css/c/clztyml9n.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/t/t0_5lgbdo.css';
 import '../../css/n/nmse1bcme.css';
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="xte30hbrs"/><path class="ufcvxubwa"/><path class="dogmykb7z"/><g class="mc2zb0bvp"><path class="t0_5lgbdo"/><path class="nmse1bcme"/></g></g>`,
+		"content": `<path class="jajc9k77y"/><path class="s_tz82bpo"/><path class="clztyml9n"/><g class="xtpeb-edw"><path class="t0_5lgbdo"/><path class="nmse1bcme"/></g>`,
 		"fallback": "solar:incognito-bold-duotone",
 	});
 }

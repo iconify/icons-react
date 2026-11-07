@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/i/i5firfbkf.css';
-import '../../css/t/td-8tjwmd.css';
+import '../../css/d/d-vry1bva.css';
+import '../../css/m/m-4cng7zq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="i5firfbkf"/><path class="td-8tjwmd"/></g>`,
+		"content": `<path class="d-vry1bva"/><path class="m-4cng7zq"/>`,
 		"fallback": "solar:sim-card-minimalistic-bold-duotone",
 	});
 }

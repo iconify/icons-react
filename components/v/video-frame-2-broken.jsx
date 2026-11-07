@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ye3a0wb8h.css';
+import '../../css/w/wnuus6brx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ye3a0wb8h"/>`,
+		"content": `<path class="wnuus6brx"/>`,
 		"fallback": "solar:video-frame-2-broken",
 	});
 }

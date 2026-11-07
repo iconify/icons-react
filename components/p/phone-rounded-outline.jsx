@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cnnb9e_nb.css';
+import '../../css/u/u_ivplufr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="cnnb9e_nb"/>`,
+		"content": `<path clip-rule="evenodd" class="u_ivplufr"/>`,
 		"fallback": "solar:phone-rounded-outline",
 	});
 }

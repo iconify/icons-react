@@ -2,9 +2,9 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/hq-5njbjh.css';
-import '../../css/x/xfy0nnwjl.css';
-import '../../css/f/fhy922bbx.css';
-import '../../css/w/whvwt4bny.css';
+import '../../css/g/gmsfucc8d.css';
+import '../../css/n/nq90nsjcw.css';
+import '../../css/f/femrn7bog.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="hq-5njbjh"/><path class="xfy0nnwjl"/><path class="fhy922bbx"/><path class="whvwt4bny"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="hq-5njbjh"/><path class="gmsfucc8d"/><path class="nq90nsjcw"/><path class="femrn7bog"/></g>`,
 		"fallback": "solar:suitcase-lines-broken",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/a/adlaw-b6t.css';
+import '../../css/c/cp0_ni67i.css';
 import '../../css/p/pmwvkubtc.css';
 import '../../css/g/gkiwa1bxg.css';
 import '../../css/r/r02hdib4f.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="adlaw-b6t"/><path class="pmwvkubtc"/><path class="gkiwa1bxg"/><path class="r02hdib4f"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="cp0_ni67i"/><path class="pmwvkubtc"/><path class="gkiwa1bxg"/><path class="r02hdib4f"/></g>`,
 		"fallback": "solar:sd-card-broken",
 	});
 }

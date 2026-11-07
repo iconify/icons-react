@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/l/lipr7d2ci.css';
-import '../../css/w/wj0xsxwpq.css';
+import '../../css/w/wk5fq_b9n.css';
+import '../../css/z/zgs7zguvi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="lipr7d2ci"/><path class="wj0xsxwpq"/></g>`,
+		"content": `<g class="hntgybcog"><path class="wk5fq_b9n"/><path class="zgs7zguvi"/></g>`,
 		"fallback": "solar:dumbbells-2-broken",
 	});
 }

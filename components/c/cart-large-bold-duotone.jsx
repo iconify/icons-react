@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/p/pirn0_bio.css';
-import '../../css/n/n7c4a2awt.css';
-import '../../css/n/nkg6ymbnc.css';
-import '../../css/d/daleh4b4i.css';
-import '../../css/z/zcwku4x5u.css';
+import '../../css/q/qtl0lbbqr.css';
+import '../../css/u/u_jrch4xm.css';
+import '../../css/s/sxqy4g73d.css';
+import '../../css/m/mfpwskuoa.css';
+import '../../css/m/m4ndt4bdj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="pirn0_bio"/><path class="n7c4a2awt"/><path class="nkg6ymbnc"/><path class="daleh4b4i"/><path class="zcwku4x5u"/></g>`,
+		"content": `<path class="qtl0lbbqr"/><path class="u_jrch4xm"/><path class="sxqy4g73d"/><path class="mfpwskuoa"/><path class="m4ndt4bdj"/>`,
 		"fallback": "solar:cart-large-bold-duotone",
 	});
 }

@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/f/fbm9j5b4h.css';
+import '../../css/k/khepvrb6r.css';
 import '../../css/n/n1_ykhn3f.css';
-import '../../css/g/gims79b8a.css';
-import '../../css/h/h3xl994jw.css';
+import '../../css/e/ep2vvy3hy.css';
+import '../../css/e/exgld-b-f.css';
 import '../../css/v/v3g6xoxym.css';
 import '../../css/j/j6p0y4-0y.css';
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="fbm9j5b4h"/><path class="n1_ykhn3f"/><path class="gims79b8a"/><path class="h3xl994jw"/><circle class="v3g6xoxym"/><path class="j6p0y4-0y"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="khepvrb6r"/><path class="n1_ykhn3f"/><path class="ep2vvy3hy"/><path class="exgld-b-f"/><circle class="v3g6xoxym"/><path class="j6p0y4-0y"/></g>`,
 		"fallback": "solar:diploma-broken",
 	});
 }

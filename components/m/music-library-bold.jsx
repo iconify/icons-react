@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/c/ccaahidjq.css';
-import '../../css/f/fwdp9bc6y.css';
-import '../../css/n/nhny52bzl.css';
-import '../../css/y/ybvayg3ql.css';
-import '../../css/r/r1qckhbuy.css';
+import '../../css/c/c3_gtob6t.css';
+import '../../css/b/bz0qnvbjd.css';
+import '../../css/f/f_w5wdbfk.css';
+import '../../css/b/bwm8hf_io.css';
+import '../../css/r/r6zg66thw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ccaahidjq"/><path class="fwdp9bc6y"/><path clip-rule="evenodd" class="nhny52bzl"/><path class="ybvayg3ql"/><path class="r1qckhbuy"/></g>`,
+		"content": `<path class="c3_gtob6t"/><path class="bz0qnvbjd"/><path clip-rule="evenodd" class="f_w5wdbfk"/><path class="bwm8hf_io"/><path class="r6zg66thw"/>`,
 		"fallback": "solar:music-library-bold",
 	});
 }

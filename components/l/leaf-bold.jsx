@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/r/rtudc5aqg.css';
-import '../../css/f/fthlceekr.css';
-import '../../css/m/m0xpkndgg.css';
-import '../../css/d/dabhqx2gp.css';
-import '../../css/z/zqp9xwbru.css';
+import '../../css/w/wbvmhfb9a.css';
+import '../../css/e/ete-qkfso.css';
+import '../../css/a/adiss9bph.css';
+import '../../css/y/y32pobbgx.css';
+import '../../css/x/xzy08hf3x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="rtudc5aqg"/><path class="fthlceekr"/><path class="m0xpkndgg"/><path class="dabhqx2gp"/><path class="zqp9xwbru"/></g>`,
+		"content": `<path class="wbvmhfb9a"/><path class="ete-qkfso"/><path class="adiss9bph"/><path class="y32pobbgx"/><path class="xzy08hf3x"/>`,
 		"fallback": "solar:leaf-bold",
 	});
 }

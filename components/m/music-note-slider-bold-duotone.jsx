@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/o/ojdl96y2v.css';
 import '../../css/r/r5pybk82q.css';
-import '../../css/p/p4c1v3blx.css';
-import '../../css/g/gkxzbs98m.css';
+import '../../css/p/peg0m9y2g.css';
+import '../../css/h/h34bhmoma.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="ojdl96y2v"/><path class="r5pybk82q"/></g><path class="p4c1v3blx"/><path clip-rule="evenodd" class="gkxzbs98m"/></g>`,
+		"content": `<g class="xtpeb-edw"><path class="ojdl96y2v"/><path class="r5pybk82q"/></g><path class="peg0m9y2g"/><path clip-rule="evenodd" class="h34bhmoma"/>`,
 		"fallback": "solar:music-note-slider-bold-duotone",
 	});
 }

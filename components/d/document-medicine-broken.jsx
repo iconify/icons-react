@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/d/d-3h37-ms.css';
-import '../../css/r/ruv56nblh.css';
+import '../../css/z/zjfd1kaum.css';
 import '../../css/b/byonj9b2c.css';
 import '../../css/h/h4m9tpedx.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="d-3h37-ms"/><path class="ruv56nblh"/><path class="byonj9b2c"/><path class="h4m9tpedx"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="d-3h37-ms"/><path class="zjfd1kaum"/><path class="byonj9b2c"/><path class="h4m9tpedx"/></g>`,
 		"fallback": "solar:document-medicine-broken",
 	});
 }

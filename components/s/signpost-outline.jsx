@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jky4bybmy.css';
+import '../../css/u/u8b1vfbix.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="jky4bybmy"/>`,
+		"content": `<path clip-rule="evenodd" class="u8b1vfbix"/>`,
 		"fallback": "solar:signpost-outline",
 	});
 }

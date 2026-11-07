@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cimketp8l.css';
+import '../../css/j/j7bc-4bra.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cimketp8l"/>`,
+		"content": `<path class="j7bc-4bra"/>`,
 		"fallback": "solar:unread-broken",
 	});
 }

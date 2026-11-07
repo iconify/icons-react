@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/l64754odp.css';
-import '../../css/f/fidd3xbvx.css';
-import '../../css/d/dyu0cp5on.css';
-import '../../css/u/ub6dtb6xc.css';
+import '../../css/z/zd9cc7byy.css';
+import '../../css/p/p0x-smbyj.css';
+import '../../css/k/k5ylgwyba.css';
+import '../../css/s/sdgjn765p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="l64754odp"/><path class="fidd3xbvx"/><path class="dyu0cp5on"/><path class="ub6dtb6xc"/></g>`,
+		"content": `<path class="zd9cc7byy"/><path class="p0x-smbyj"/><path class="k5ylgwyba"/><path class="sdgjn765p"/>`,
 		"fallback": "solar:book-minimalistic-bold-duotone",
 	});
 }

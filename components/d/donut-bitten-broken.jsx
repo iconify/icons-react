@@ -9,7 +9,7 @@ import '../../css/q/q1801mj_c.css';
 import '../../css/t/to56nbbry.css';
 import '../../css/c/cn1xlvb1s.css';
 import '../../css/c/cnraiqbfw.css';
-import '../../css/j/jb-9bwmjx.css';
+import '../../css/k/klusn8b1n.css';
 import '../../css/y/yb1rgd57n.css';
 import '../../css/e/e-hxpcc7k.css';
 import '../../css/l/l7sbk4gfq.css';
@@ -26,7 +26,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="gp0egaclj"/><path class="a0u0egbsz"/><path class="soo7ncb-d"/><path class="s0qi5sbmn"/><path class="q1801mj_c"/><path class="to56nbbry"/><path class="cn1xlvb1s"/><path class="cnraiqbfw"/><path class="jb-9bwmjx"/><path class="yb1rgd57n"/><path class="e-hxpcc7k"/><path class="l7sbk4gfq"/><path class="p5676pb1l"/><path class="u81o9h0xn"/><path class="l_bgd0ewc"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="gp0egaclj"/><path class="a0u0egbsz"/><path class="soo7ncb-d"/><path class="s0qi5sbmn"/><path class="q1801mj_c"/><path class="to56nbbry"/><path class="cn1xlvb1s"/><path class="cnraiqbfw"/><path class="klusn8b1n"/><path class="yb1rgd57n"/><path class="e-hxpcc7k"/><path class="l7sbk4gfq"/><path class="p5676pb1l"/><path class="u81o9h0xn"/><path class="l_bgd0ewc"/></g>`,
 		"fallback": "solar:donut-bitten-broken",
 	});
 }

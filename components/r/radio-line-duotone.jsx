@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/x/xl-jlp1rp.css';
-import '../../css/h/hme959bub.css';
+import '../../css/k/k66tt2kvs.css';
+import '../../css/j/jik2yirrk.css';
 import '../../css/d/dn6v61b9t.css';
 import '../../css/m/mlbrz3ncq.css';
 import '../../css/h/h6e5_kbbf.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="xl-jlp1rp"/><path class="hme959bub"/><path class="dn6v61b9t"/><path class="mlbrz3ncq"/><path class="h6e5_kbbf"/><path class="n787bfb7v"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="k66tt2kvs"/><path class="jik2yirrk"/><path class="dn6v61b9t"/><path class="mlbrz3ncq"/><path class="h6e5_kbbf"/><path class="n787bfb7v"/></g>`,
 		"fallback": "solar:radio-line-duotone",
 	});
 }

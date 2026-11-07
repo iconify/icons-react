@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z-ofhyb6s.css';
+import '../../css/f/fsxcuxblb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z-ofhyb6s"/>`,
+		"content": `<path class="fsxcuxblb"/>`,
 		"fallback": "solar:link-round-broken",
 	});
 }

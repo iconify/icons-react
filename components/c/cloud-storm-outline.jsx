@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/q/qpmrcbb5z.css';
-import '../../css/o/oq4fybckd.css';
-import '../../css/k/kwotsob1p.css';
-import '../../css/o/o1btycv3s.css';
-import '../../css/l/llv44swwl.css';
+import '../../css/p/ph-lyk__x.css';
+import '../../css/y/ybkhrgori.css';
+import '../../css/n/n_7s633jr.css';
+import '../../css/o/onh9oyipx.css';
+import '../../css/m/mgjb77b4m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="qpmrcbb5z"/><path class="oq4fybckd"/><path class="kwotsob1p"/><path class="o1btycv3s"/><path class="llv44swwl"/></g>`,
+		"content": `<path class="ph-lyk__x"/><path class="ybkhrgori"/><path class="n_7s633jr"/><path class="onh9oyipx"/><path class="mgjb77b4m"/>`,
 		"fallback": "solar:cloud-storm-outline",
 	});
 }

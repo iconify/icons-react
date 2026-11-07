@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/n1lsf0bnc.css';
 import '../../css/w/w57rd2nab.css';
-import '../../css/z/z2ewacgol.css';
+import '../../css/q/qf1p_zb0n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="w57rd2nab"/><path class="z2ewacgol"/></g>`,
+		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="w57rd2nab"/><path class="qf1p_zb0n"/></g>`,
 		"fallback": "solar:snowflake-bold-duotone",
 	});
 }

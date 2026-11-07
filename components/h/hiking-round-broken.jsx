@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/l/lgksoiblo.css';
 import '../../css/e/eqbz-wbsh.css';
-import '../../css/i/ig236ibqn.css';
+import '../../css/b/blj8bd-xv.css';
 import '../../css/h/h6ikd3bsu.css';
 import '../../css/j/jotpxq6-n.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="lgksoiblo"/><path class="eqbz-wbsh"/><path class="ig236ibqn"/><path class="h6ikd3bsu"/><path class="jotpxq6-n"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="lgksoiblo"/><path class="eqbz-wbsh"/><path class="blj8bd-xv"/><path class="h6ikd3bsu"/><path class="jotpxq6-n"/></g>`,
 		"fallback": "solar:hiking-round-broken",
 	});
 }

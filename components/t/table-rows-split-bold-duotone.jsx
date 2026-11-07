@@ -1,16 +1,15 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mc2zb0bvp.css';
-import '../../css/y/ya1ojnb-c.css';
-import '../../css/e/eiulumbot.css';
-import '../../css/q/qee8h-blo.css';
-import '../../css/w/wsuupmhrl.css';
-import '../../css/x/x7b_uwcpy.css';
-import '../../css/r/r_wiw3bhg.css';
-import '../../css/b/bu8_ehbxg.css';
-import '../../css/y/ygaudsjjf.css';
-import '../../css/u/u11emuw3x.css';
+import '../../css/x/xtpeb-edw.css';
+import '../../css/g/gb9lyd4go.css';
+import '../../css/e/ephu9cbch.css';
+import '../../css/a/ap6khzqok.css';
+import '../../css/a/any7xwbba.css';
+import '../../css/f/fj1ohpyjn.css';
+import '../../css/m/m6l098byt.css';
+import '../../css/b/b0r_8t64h.css';
+import '../../css/u/uje0cgb4o.css';
+import '../../css/j/j8easmmqf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -21,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="ya1ojnb-c"/><path class="eiulumbot"/></g><path class="qee8h-blo"/><path class="wsuupmhrl"/><path class="x7b_uwcpy"/><path class="r_wiw3bhg"/><path class="bu8_ehbxg"/><path class="ygaudsjjf"/><path class="u11emuw3x"/></g>`,
+		"content": `<g class="xtpeb-edw"><path class="gb9lyd4go"/><path class="ephu9cbch"/></g><path class="ap6khzqok"/><path class="any7xwbba"/><path class="fj1ohpyjn"/><path class="m6l098byt"/><path class="b0r_8t64h"/><path class="uje0cgb4o"/><path class="j8easmmqf"/>`,
 		"fallback": "solar:table-rows-split-bold-duotone",
 	});
 }

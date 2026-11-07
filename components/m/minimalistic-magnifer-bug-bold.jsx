@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/y/yz0ujqbim.css';
-import '../../css/k/kdd-19ezf.css';
-import '../../css/h/hw34cebkg.css';
-import '../../css/m/mcvbrbb3a.css';
-import '../../css/w/winjwabdp.css';
+import '../../css/x/x-5f2htjo.css';
+import '../../css/f/fmaln8b1x.css';
+import '../../css/g/gjy-pevvw.css';
+import '../../css/d/df_l7-bhp.css';
+import '../../css/m/m06wy2bms.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="yz0ujqbim"/><path class="kdd-19ezf"/><path class="hw34cebkg"/><path class="mcvbrbb3a"/><path clip-rule="evenodd" class="winjwabdp"/></g>`,
+		"content": `<path class="x-5f2htjo"/><path class="fmaln8b1x"/><path class="gjy-pevvw"/><path class="df_l7-bhp"/><path clip-rule="evenodd" class="m06wy2bms"/>`,
 		"fallback": "solar:minimalistic-magnifer-bug-bold",
 	});
 }

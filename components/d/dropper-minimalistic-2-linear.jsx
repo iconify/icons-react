@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/a/avntskb1y.css';
+import '../../css/y/yvr49nc7e.css';
 import '../../css/g/gswougl7d.css';
-import '../../css/h/hdzipz46a.css';
+import '../../css/z/zj48ghuwd.css';
 import '../../css/p/pq5xj2bli.css';
 import '../../css/z/zfge7hb-h.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="avntskb1y"/><path class="gswougl7d"/><path class="hdzipz46a"/><path class="pq5xj2bli"/><path class="zfge7hb-h"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="yvr49nc7e"/><path class="gswougl7d"/><path class="zj48ghuwd"/><path class="pq5xj2bli"/><path class="zfge7hb-h"/></g>`,
 		"fallback": "solar:dropper-minimalistic-2-linear",
 	});
 }

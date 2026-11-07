@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/t/tmsthrbjy.css';
-import '../../css/c/cns6ly1bg.css';
+import '../../css/j/j5--7lgaw.css';
+import '../../css/y/yc8xgkbyw.css';
 import '../../css/p/pqsrmgrdx.css';
 import '../../css/h/hqsaabc6g.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="tmsthrbjy"/><path class="cns6ly1bg"/><path class="pqsrmgrdx"/><path class="hqsaabc6g"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="j5--7lgaw"/><path class="yc8xgkbyw"/><path class="pqsrmgrdx"/><path class="hqsaabc6g"/></g>`,
 		"fallback": "solar:pills-3-broken",
 	});
 }

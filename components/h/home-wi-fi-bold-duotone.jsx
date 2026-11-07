@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/fwx8lbc8q.css';
-import '../../css/c/chixjsepu.css';
-import '../../css/i/ixq7gpbhu.css';
-import '../../css/e/ev1h7fb7b.css';
+import '../../css/g/g23epvw1o.css';
+import '../../css/h/hosmgacxy.css';
+import '../../css/u/ugpo-abdx.css';
+import '../../css/y/ybm4f5bzb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="fwx8lbc8q"/><path class="chixjsepu"/><path class="ixq7gpbhu"/><path class="ev1h7fb7b"/></g>`,
+		"content": `<path class="g23epvw1o"/><path class="hosmgacxy"/><path class="ugpo-abdx"/><path class="ybm4f5bzb"/>`,
 		"fallback": "solar:home-wi-fi-bold-duotone",
 	});
 }

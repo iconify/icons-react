@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pr52f_b5y.css';
 import '../../css/j/jty_abcpu.css';
-import '../../css/k/kkkxcvfgx.css';
-import '../../css/l/lkwjg8bzf.css';
+import '../../css/m/m-_j7-iyd.css';
+import '../../css/t/tr1xg7b_k.css';
 import '../../css/t/t6qg_cbvk.css';
 import '../../css/l/l5tkhob0v.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><circle class="jty_abcpu"/><path class="kkkxcvfgx"/><path class="lkwjg8bzf"/><path class="t6qg_cbvk"/><ellipse transform="rotate(-15 8.714 11.328)" class="l5tkhob0v"/></g>`,
+		"content": `<g class="pr52f_b5y"><circle class="jty_abcpu"/><path class="m-_j7-iyd"/><path class="tr1xg7b_k"/><path class="t6qg_cbvk"/><ellipse transform="rotate(-15 8.714 11.328)" class="l5tkhob0v"/></g>`,
 		"fallback": "solar:emoji-funny-circle-line-duotone",
 	});
 }

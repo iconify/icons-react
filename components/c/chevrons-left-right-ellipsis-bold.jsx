@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/x/xm8h3ub8g.css';
-import '../../css/n/ntvg8ebwg.css';
-import '../../css/s/s16hu4bqq.css';
-import '../../css/f/f3zftobmw.css';
-import '../../css/e/ejcm2pblc.css';
+import '../../css/q/qz625mb3h.css';
+import '../../css/v/vfll34fsr.css';
+import '../../css/v/v69b44b0n.css';
+import '../../css/u/uwtypmg-l.css';
+import '../../css/j/jo4v5sbsx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="xm8h3ub8g"/><path class="ntvg8ebwg"/><path class="s16hu4bqq"/><path class="f3zftobmw"/><path class="ejcm2pblc"/></g>`,
+		"content": `<path class="qz625mb3h"/><path class="vfll34fsr"/><path class="v69b44b0n"/><path class="uwtypmg-l"/><path class="jo4v5sbsx"/>`,
 		"fallback": "solar:chevrons-left-right-ellipsis-bold",
 	});
 }

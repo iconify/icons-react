@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fo708vpsb.css';
+import '../../css/o/ok3gm7bho.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fo708vpsb"/>`,
+		"content": `<path class="ok3gm7bho"/>`,
 		"fallback": "solar:move-horizontal-linear",
 	});
 }

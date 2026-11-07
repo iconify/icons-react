@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/c/c38jz1bub.css';
-import '../../css/b/b3gp8zbvg.css';
-import '../../css/d/d8_mfnsge.css';
+import '../../css/v/vt5rq6mfd.css';
+import '../../css/r/rce5qmo1y.css';
+import '../../css/k/kyu7tx1-w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="c38jz1bub"/><path class="b3gp8zbvg"/><path class="d8_mfnsge"/></g>`,
+		"content": `<path class="vt5rq6mfd"/><path class="rce5qmo1y"/><path class="kyu7tx1-w"/>`,
 		"fallback": "solar:money-bag-bold-duotone",
 	});
 }

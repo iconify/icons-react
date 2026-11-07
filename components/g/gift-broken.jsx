@@ -5,8 +5,8 @@ import '../../css/o/oyjqk5bct.css';
 import '../../css/d/dxon-mtqm.css';
 import '../../css/o/o6zz0vbkl.css';
 import '../../css/m/mzn_blbqr.css';
-import '../../css/t/ttk7zkrfj.css';
-import '../../css/j/jz2fo-b4g.css';
+import '../../css/d/dadlzrowr.css';
+import '../../css/r/raokm3b8s.css';
 import '../../css/s/si_mtzbvj.css';
 
 const viewBox = {"width":24,"height":24};
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="oyjqk5bct"/><path class="dxon-mtqm"/><path class="o6zz0vbkl"/><path class="mzn_blbqr"/><path class="ttk7zkrfj"/><path class="jz2fo-b4g"/><path class="si_mtzbvj"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="oyjqk5bct"/><path class="dxon-mtqm"/><path class="o6zz0vbkl"/><path class="mzn_blbqr"/><path class="dadlzrowr"/><path class="raokm3b8s"/><path class="si_mtzbvj"/></g>`,
 		"fallback": "solar:gift-broken",
 	});
 }

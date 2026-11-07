@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e5nc-lbnd.css';
+import '../../css/j/jksbokb6c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e5nc-lbnd"/>`,
+		"content": `<path class="jksbokb6c"/>`,
 		"fallback": "solar:hourglass-broken",
 	});
 }

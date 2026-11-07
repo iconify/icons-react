@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/y/ye7qo4bza.css';
+import '../../css/r/r-tv-oxcw.css';
 import '../../css/s/sp0979bhv.css';
 import '../../css/s/sieuiccfi.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ye7qo4bza"/><path class="sp0979bhv"/><path class="sieuiccfi"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="r-tv-oxcw"/><path class="sp0979bhv"/><path class="sieuiccfi"/></g>`,
 		"fallback": "solar:posts-carousel-vertical-line-duotone",
 	});
 }

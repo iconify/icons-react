@@ -2,10 +2,10 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/h_tsn8bxt.css';
-import '../../css/w/wt3ybdb3f.css';
-import '../../css/b/bluprsbtv.css';
-import '../../css/z/z1gx3x2aw.css';
-import '../../css/t/tl598c2go.css';
+import '../../css/d/d-c45hbtt.css';
+import '../../css/i/ihlf2jb-v.css';
+import '../../css/z/z_ptkubbq.css';
+import '../../css/y/yk6o1ybek.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="h_tsn8bxt"/><path class="wt3ybdb3f"/><path class="bluprsbtv"/><path class="z1gx3x2aw"/><path class="tl598c2go"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="h_tsn8bxt"/><path class="d-c45hbtt"/><path class="ihlf2jb-v"/><path class="z_ptkubbq"/><path class="yk6o1ybek"/></g>`,
 		"fallback": "solar:black-hole-2-line-duotone",
 	});
 }

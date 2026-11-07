@@ -5,7 +5,7 @@ import '../../css/j/jv514ss1m.css';
 import '../../css/r/rbjrgob2r.css';
 import '../../css/q/qesyv5buv.css';
 import '../../css/d/djbi_ub-i.css';
-import '../../css/c/c79b8acay.css';
+import '../../css/k/k2s9xcb6i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="jv514ss1m"/><path class="rbjrgob2r"/><path class="qesyv5buv"/><path class="djbi_ub-i"/><path class="c79b8acay"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="jv514ss1m"/><path class="rbjrgob2r"/><path class="qesyv5buv"/><path class="djbi_ub-i"/><path class="k2s9xcb6i"/></g>`,
 		"fallback": "solar:list-minus-linear",
 	});
 }

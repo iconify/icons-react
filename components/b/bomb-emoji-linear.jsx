@@ -4,7 +4,7 @@ import '../../css/p/pr52f_b5y.css';
 import '../../css/m/m8po4lb0y.css';
 import '../../css/d/dg7kedy1c.css';
 import '../../css/u/ux6s2nbnw.css';
-import '../../css/w/ws_nvmbfy.css';
+import '../../css/d/dlv77yj6n.css';
 import '../../css/k/k0xylug1p.css';
 import '../../css/t/tsz6qlbio.css';
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><circle class="m8po4lb0y"/><path class="dg7kedy1c"/><path class="ux6s2nbnw"/><path class="ws_nvmbfy"/><path class="k0xylug1p"/><ellipse class="tsz6qlbio"/></g>`,
+		"content": `<g class="pr52f_b5y"><circle class="m8po4lb0y"/><path class="dg7kedy1c"/><path class="ux6s2nbnw"/><path class="dlv77yj6n"/><path class="k0xylug1p"/><ellipse class="tsz6qlbio"/></g>`,
 		"fallback": "solar:bomb-emoji-linear",
 	});
 }

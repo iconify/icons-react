@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/r/rma5_ql1e.css';
+import '../../css/l/lt87iveio.css';
 import '../../css/m/migl5jbsu.css';
 import '../../css/b/beaeuqbls.css';
 import '../../css/i/ip-kvve8g.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="rma5_ql1e"/><path class="migl5jbsu"/><path class="beaeuqbls"/><path class="ip-kvve8g"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="lt87iveio"/><path class="migl5jbsu"/><path class="beaeuqbls"/><path class="ip-kvve8g"/></g>`,
 		"fallback": "solar:siderbar-line-duotone",
 	});
 }

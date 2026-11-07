@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jarezk6na.css';
+import '../../css/p/p4tjy3b9x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jarezk6na"/>`,
+		"content": `<path class="p4tjy3b9x"/>`,
 		"fallback": "solar:end-call-rounded-broken",
 	});
 }

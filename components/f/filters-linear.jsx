@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h29j--52h.css';
+import '../../css/h/hv2ikpz9m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h29j--52h"/>`,
+		"content": `<path class="hv2ikpz9m"/>`,
 		"fallback": "solar:filters-linear",
 	});
 }

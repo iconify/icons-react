@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/n/nwzadmbzz.css';
-import '../../css/i/ikjivy1kl.css';
-import '../../css/y/yaqpnvgfb.css';
-import '../../css/a/a2owrl2nd.css';
+import '../../css/f/flxmbubhy.css';
+import '../../css/n/nvklklbjn.css';
+import '../../css/r/ri6h5bc1k.css';
+import '../../css/r/rbjjgofgz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="nwzadmbzz"/><path class="ikjivy1kl"/><path class="yaqpnvgfb"/><path clip-rule="evenodd" class="a2owrl2nd"/></g>`,
+		"content": `<path class="flxmbubhy"/><path class="nvklklbjn"/><path class="ri6h5bc1k"/><path clip-rule="evenodd" class="rbjjgofgz"/>`,
 		"fallback": "solar:banknote-bold-duotone",
 	});
 }

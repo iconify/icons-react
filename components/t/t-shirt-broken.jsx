@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u_tkacbyx.css';
+import '../../css/o/oqdio7zmb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u_tkacbyx"/>`,
+		"content": `<path class="oqdio7zmb"/>`,
 		"fallback": "solar:t-shirt-broken",
 	});
 }

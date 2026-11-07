@@ -1,17 +1,16 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/j/jx0by1bku.css';
 import '../../css/u/ul-8h9bpd.css';
-import '../../css/i/ivz0kjzeo.css';
-import '../../css/d/d83h8oa5f.css';
-import '../../css/a/ajt7g1bty.css';
-import '../../css/j/jr37kjlyl.css';
-import '../../css/d/dcbukcaqf.css';
-import '../../css/t/t5nh29bwk.css';
-import '../../css/b/brhuxjbcp.css';
-import '../../css/o/o6cckebsq.css';
+import '../../css/l/lqny_nboz.css';
+import '../../css/c/czt1aibqi.css';
+import '../../css/d/d3hs5zbmt.css';
+import '../../css/j/j8xsxbbfb.css';
+import '../../css/c/c2k0n4b4v.css';
+import '../../css/w/wvh2u4igd.css';
+import '../../css/x/xxwsw1bna.css';
+import '../../css/t/tydcgrfdt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -22,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="jx0by1bku"/><path class="ul-8h9bpd"/></g><path class="ivz0kjzeo"/><path class="d83h8oa5f"/><path class="ajt7g1bty"/><path class="jr37kjlyl"/><path class="dcbukcaqf"/><path class="t5nh29bwk"/><path class="brhuxjbcp"/><path class="o6cckebsq"/></g>`,
+		"content": `<g class="xtpeb-edw"><path class="jx0by1bku"/><path class="ul-8h9bpd"/></g><path class="lqny_nboz"/><path class="czt1aibqi"/><path class="d3hs5zbmt"/><path class="j8xsxbbfb"/><path class="c2k0n4b4v"/><path class="wvh2u4igd"/><path class="xxwsw1bna"/><path class="tydcgrfdt"/>`,
 		"fallback": "solar:server-square-update-bold-duotone",
 	});
 }

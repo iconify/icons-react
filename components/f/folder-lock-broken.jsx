@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/j/jdby9gq-h.css';
+import '../../css/z/zff8-s_yj.css';
 import '../../css/o/o0rbffbmi.css';
 import '../../css/i/i4dcgmbin.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="jdby9gq-h"/><path class="o0rbffbmi"/><path class="i4dcgmbin"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="zff8-s_yj"/><path class="o0rbffbmi"/><path class="i4dcgmbin"/></g>`,
 		"fallback": "solar:folder-lock-broken",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/d/dhu6t20or.css';
-import '../../css/u/u-rzv3g9s.css';
-import '../../css/w/w_ednrbgb.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/l/l3xnvg8so.css';
+import '../../css/i/iw7kyb51l.css';
+import '../../css/m/m37d-abet.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/n/nnbvolc4c.css';
 import '../../css/g/g74e2oluk.css';
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="dhu6t20or"/><path class="u-rzv3g9s"/><path clip-rule="evenodd" class="w_ednrbgb"/><g class="mc2zb0bvp"><path class="nnbvolc4c"/><path class="g74e2oluk"/></g></g>`,
+		"content": `<path class="l3xnvg8so"/><path class="iw7kyb51l"/><path clip-rule="evenodd" class="m37d-abet"/><g class="xtpeb-edw"><path class="nnbvolc4c"/><path class="g74e2oluk"/></g>`,
 		"fallback": "solar:airbuds-left-bold-duotone",
 	});
 }

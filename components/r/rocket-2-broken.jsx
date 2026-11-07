@@ -2,10 +2,10 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/q/q31ynxbic.css';
-import '../../css/g/gm04g_b8c.css';
-import '../../css/d/ds2ci9blu.css';
-import '../../css/x/xpn4xccyr.css';
-import '../../css/t/t4euwlpjt.css';
+import '../../css/k/kjoweacae.css';
+import '../../css/u/uzaasqbnx.css';
+import '../../css/s/s6txghz2w.css';
+import '../../css/t/tszisubeg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="q31ynxbic"/><path class="gm04g_b8c"/><path class="ds2ci9blu"/><path class="xpn4xccyr"/><path class="t4euwlpjt"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="q31ynxbic"/><path class="kjoweacae"/><path class="uzaasqbnx"/><path class="s6txghz2w"/><path class="tszisubeg"/></g>`,
 		"fallback": "solar:rocket-2-broken",
 	});
 }

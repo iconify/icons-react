@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/s/spvw1m4wo.css';
-import '../../css/g/gbci9hyta.css';
-import '../../css/e/ej0drdrvm.css';
+import '../../css/k/kuibckblt.css';
+import '../../css/z/z4vmzfb6d.css';
 import '../../css/j/jiw1pkbmf.css';
 import '../../css/q/qfb0low_q.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="spvw1m4wo"/><path class="gbci9hyta"/><path class="ej0drdrvm"/><path class="jiw1pkbmf"/><path class="qfb0low_q"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="spvw1m4wo"/><path class="kuibckblt"/><path class="z4vmzfb6d"/><path class="jiw1pkbmf"/><path class="qfb0low_q"/></g>`,
 		"fallback": "solar:cassette-broken",
 	});
 }

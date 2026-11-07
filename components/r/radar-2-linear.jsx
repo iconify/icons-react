@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tr28umbra.css';
+import '../../css/i/ip0t-wb9i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tr28umbra"/>`,
+		"content": `<path class="ip0t-wb9i"/>`,
 		"fallback": "solar:radar-2-linear",
 	});
 }

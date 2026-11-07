@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/i/il5wbr13b.css';
-import '../../css/d/dkb17ryis.css';
+import '../../css/u/udpk4tbla.css';
+import '../../css/p/pob1i1ksy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="il5wbr13b"/><path clip-rule="evenodd" class="dkb17ryis"/></g>`,
+		"content": `<path class="udpk4tbla"/><path clip-rule="evenodd" class="pob1i1ksy"/>`,
 		"fallback": "solar:gamepad-charge-bold",
 	});
 }

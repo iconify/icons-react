@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/l/l2pb8ibam.css';
-import '../../css/i/in9x9bcfr.css';
-import '../../css/p/p9903jtoy.css';
+import '../../css/w/whvrg7cyn.css';
+import '../../css/b/bq-hnz50z.css';
+import '../../css/u/uo3kambic.css';
 import '../../css/c/c25lkgbgb.css';
 import '../../css/c/ca5b8gbur.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="l2pb8ibam"/><path class="in9x9bcfr"/><path class="p9903jtoy"/><path class="c25lkgbgb"/><path class="ca5b8gbur"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="whvrg7cyn"/><path class="bq-hnz50z"/><path class="uo3kambic"/><path class="c25lkgbgb"/><path class="ca5b8gbur"/></g>`,
 		"fallback": "solar:case-minimalistic-line-duotone",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/p/p1w5v8cev.css';
+import '../../css/i/i-vl_3bog.css';
 import '../../css/y/y0do8_bvl.css';
 import '../../css/i/il3n3pbvc.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="p1w5v8cev"/><path class="y0do8_bvl"/><path class="il3n3pbvc"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="i-vl_3bog"/><path class="y0do8_bvl"/><path class="il3n3pbvc"/></g>`,
 		"fallback": "solar:airbuds-case-charge-linear",
 	});
 }

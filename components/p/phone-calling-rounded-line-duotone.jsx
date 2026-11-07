@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/b/bqq_qyjlf.css';
+import '../../css/l/lu1ywdb1f.css';
 import '../../css/b/bucfw6bdg.css';
 import '../../css/q/qy44fxbnk.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="bqq_qyjlf"/><path class="bucfw6bdg"/><path class="qy44fxbnk"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="lu1ywdb1f"/><path class="bucfw6bdg"/><path class="qy44fxbnk"/></g>`,
 		"fallback": "solar:phone-calling-rounded-line-duotone",
 	});
 }

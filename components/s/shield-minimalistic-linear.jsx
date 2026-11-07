@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/isuqlx49y.css';
+import '../../css/d/djh_z1beg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="isuqlx49y"/>`,
+		"content": `<path class="djh_z1beg"/>`,
 		"fallback": "solar:shield-minimalistic-linear",
 	});
 }

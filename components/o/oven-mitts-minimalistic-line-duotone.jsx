@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/z/zozlqirrp.css';
-import '../../css/n/n8zxfbaww.css';
+import '../../css/j/j46ndxbae.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="zozlqirrp"/><path class="n8zxfbaww"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="zozlqirrp"/><path class="j46ndxbae"/></g>`,
 		"fallback": "solar:oven-mitts-minimalistic-line-duotone",
 	});
 }

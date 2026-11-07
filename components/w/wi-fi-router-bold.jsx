@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/w0oxyi59p.css';
-import '../../css/i/i537oybnl.css';
-import '../../css/t/tthxbwbtx.css';
-import '../../css/b/bimj6bcxy.css';
+import '../../css/u/ullszbbqu.css';
+import '../../css/d/dy4_z9gcp.css';
+import '../../css/y/yfs8wlcdx.css';
+import '../../css/l/lf_p4sb4d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="w0oxyi59p"/><path class="i537oybnl"/><path class="tthxbwbtx"/><path clip-rule="evenodd" class="bimj6bcxy"/></g>`,
+		"content": `<path class="ullszbbqu"/><path class="dy4_z9gcp"/><path class="yfs8wlcdx"/><path clip-rule="evenodd" class="lf_p4sb4d"/>`,
 		"fallback": "solar:wi-fi-router-bold",
 	});
 }

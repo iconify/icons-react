@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/z/zrz74tbgv.css';
+import '../../css/p/p-fv8xbjx.css';
 import '../../css/j/jv514ss1m.css';
 import '../../css/r/rbjrgob2r.css';
 import '../../css/q/qesyv5buv.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="zrz74tbgv"/><path class="jv514ss1m"/><path class="rbjrgob2r"/><path class="qesyv5buv"/><path class="djbi_ub-i"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="p-fv8xbjx"/><path class="jv514ss1m"/><path class="rbjrgob2r"/><path class="qesyv5buv"/><path class="djbi_ub-i"/></g>`,
 		"fallback": "solar:list-cross-linear",
 	});
 }

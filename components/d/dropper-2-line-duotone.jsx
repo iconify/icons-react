@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/hl0mleb2v.css';
-import '../../css/q/qh75jcq5x.css';
+import '../../css/n/n8st7-4by.css';
 import '../../css/x/x_2xbjk-i.css';
 import '../../css/b/bqpt78r5r.css';
 import '../../css/j/j_6w1fbre.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="hl0mleb2v"/><path class="qh75jcq5x"/><path class="x_2xbjk-i"/><path class="bqpt78r5r"/><path class="j_6w1fbre"/><path class="xjwylvpfw"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="hl0mleb2v"/><path class="n8st7-4by"/><path class="x_2xbjk-i"/><path class="bqpt78r5r"/><path class="j_6w1fbre"/><path class="xjwylvpfw"/></g>`,
 		"fallback": "solar:dropper-2-line-duotone",
 	});
 }

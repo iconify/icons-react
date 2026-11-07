@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/x/xo5liybaf.css';
-import '../../css/d/dp5ljuulf.css';
+import '../../css/z/z58cvdbyi.css';
+import '../../css/z/zy_e48yuc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="xo5liybaf"/><path class="dp5ljuulf"/></g>`,
+		"content": `<path class="z58cvdbyi"/><path class="zy_e48yuc"/>`,
 		"fallback": "solar:airbuds-case-minimalistic-bold-duotone",
 	});
 }

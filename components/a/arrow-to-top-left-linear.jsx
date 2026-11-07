@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tqosdg6xy.css';
+import '../../css/c/ccmgnje9k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tqosdg6xy"/>`,
+		"content": `<path class="ccmgnje9k"/>`,
 		"fallback": "solar:arrow-to-top-left-linear",
 	});
 }

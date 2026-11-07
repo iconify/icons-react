@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/o/owcgvxbrw.css';
-import '../../css/z/zs9t6tbda.css';
-import '../../css/a/asax6dbwr.css';
-import '../../css/c/cn3dkgbwg.css';
-import '../../css/z/zg3tycboc.css';
-import '../../css/m/mc9xiqbxf.css';
+import '../../css/o/o2du46z8a.css';
+import '../../css/l/ltlw69bzm.css';
+import '../../css/t/tf7t0y6bk.css';
+import '../../css/c/cekfqs6vf.css';
+import '../../css/f/fihon3scm.css';
+import '../../css/z/zfe9u-5ub.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="owcgvxbrw"/><path class="zs9t6tbda"/><path class="asax6dbwr"/><path class="cn3dkgbwg"/><path class="zg3tycboc"/><path class="mc9xiqbxf"/></g>`,
+		"content": `<path class="o2du46z8a"/><path class="ltlw69bzm"/><path class="tf7t0y6bk"/><path class="cekfqs6vf"/><path class="fihon3scm"/><path class="zfe9u-5ub"/>`,
 		"fallback": "solar:list-ordered-outline",
 	});
 }

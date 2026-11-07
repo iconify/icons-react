@@ -6,7 +6,7 @@ import '../../css/a/a6_8dacep.css';
 import '../../css/w/wcg0_nb2l.css';
 import '../../css/x/x21bsmbiw.css';
 import '../../css/p/pf-164bff.css';
-import '../../css/t/t9uc9ofkw.css';
+import '../../css/h/hwlfbn0bu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="pvep1hbek"/><path class="a6_8dacep"/><path class="wcg0_nb2l"/><path class="x21bsmbiw"/><path class="pf-164bff"/><path class="t9uc9ofkw"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="pvep1hbek"/><path class="a6_8dacep"/><path class="wcg0_nb2l"/><path class="x21bsmbiw"/><path class="pf-164bff"/><path class="hwlfbn0bu"/></g>`,
 		"fallback": "solar:presentation-graph-broken",
 	});
 }

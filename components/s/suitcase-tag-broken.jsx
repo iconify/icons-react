@@ -2,10 +2,10 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/hq-5njbjh.css';
-import '../../css/m/mxvnuacok.css';
-import '../../css/k/klode0b5x.css';
-import '../../css/q/q1gbbksae.css';
-import '../../css/p/pybti58qc.css';
+import '../../css/k/khpsiybcv.css';
+import '../../css/f/fbw3i1bgm.css';
+import '../../css/o/o9av8zbgg.css';
+import '../../css/e/ebr-_j5mg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="hq-5njbjh"/><path class="mxvnuacok"/><path class="klode0b5x"/><path class="q1gbbksae"/><path class="pybti58qc"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="hq-5njbjh"/><path class="khpsiybcv"/><path class="fbw3i1bgm"/><path class="o9av8zbgg"/><path class="ebr-_j5mg"/></g>`,
 		"fallback": "solar:suitcase-tag-broken",
 	});
 }

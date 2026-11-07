@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/ztn9307gx.css';
+import '../../css/h/hia_t6bgm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ztn9307gx"/>`,
+		"content": `<path clip-rule="evenodd" class="hia_t6bgm"/>`,
 		"fallback": "solar:signpost-2-bold",
 	});
 }

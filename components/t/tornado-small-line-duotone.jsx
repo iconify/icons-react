@@ -5,7 +5,7 @@ import '../../css/k/k4ialmxqs.css';
 import '../../css/i/ihtlpugbo.css';
 import '../../css/w/wh_7-zbzo.css';
 import '../../css/b/bdw1r4b6v.css';
-import '../../css/d/dfx-lljpe.css';
+import '../../css/l/ln19sqozd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="k4ialmxqs"/><path class="ihtlpugbo"/><path class="wh_7-zbzo"/><path class="bdw1r4b6v"/><path class="dfx-lljpe"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="k4ialmxqs"/><path class="ihtlpugbo"/><path class="wh_7-zbzo"/><path class="bdw1r4b6v"/><path class="ln19sqozd"/></g>`,
 		"fallback": "solar:tornado-small-line-duotone",
 	});
 }

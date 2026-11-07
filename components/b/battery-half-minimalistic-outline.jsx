@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/v/vun0ddrph.css';
-import '../../css/s/sv57hgpcx.css';
-import '../../css/i/iin1g9v9i.css';
-import '../../css/x/x1rqnf35i.css';
+import '../../css/m/maw4ikbnh.css';
+import '../../css/y/yn4p-lbjx.css';
+import '../../css/e/e96hvo6ly.css';
+import '../../css/o/ocb7_jb-g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="vun0ddrph"/><path class="sv57hgpcx"/><path clip-rule="evenodd" class="iin1g9v9i"/><path class="x1rqnf35i"/></g>`,
+		"content": `<path class="maw4ikbnh"/><path class="yn4p-lbjx"/><path clip-rule="evenodd" class="e96hvo6ly"/><path class="ocb7_jb-g"/>`,
 		"fallback": "solar:battery-half-minimalistic-outline",
 	});
 }

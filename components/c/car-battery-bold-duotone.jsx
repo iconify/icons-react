@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/fbtabu1sz.css';
-import '../../css/c/ch32guwfs.css';
-import '../../css/k/kz8wrqbpn.css';
-import '../../css/r/rd8q98hym.css';
-import '../../css/g/gsv_k0fqo.css';
+import '../../css/y/yallzciul.css';
+import '../../css/m/m-7zrk-pf.css';
+import '../../css/p/pnuw8wf1j.css';
+import '../../css/f/f93hblbdf.css';
+import '../../css/d/d7qschzxb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="fbtabu1sz"/><path class="ch32guwfs"/><path class="kz8wrqbpn"/><path class="rd8q98hym"/><path class="gsv_k0fqo"/></g>`,
+		"content": `<path class="yallzciul"/><path class="m-7zrk-pf"/><path class="pnuw8wf1j"/><path class="f93hblbdf"/><path class="d7qschzxb"/>`,
 		"fallback": "solar:car-battery-bold-duotone",
 	});
 }

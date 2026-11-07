@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/j/jxxa3wbaj.css';
-import '../../css/h/hq968pb5a.css';
+import '../../css/z/zig-ebb6a.css';
+import '../../css/c/ccspchbwo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="jxxa3wbaj"/><path class="hq968pb5a"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="zig-ebb6a"/><path class="ccspchbwo"/></g>`,
 		"fallback": "solar:oven-mitts-minimalistic-broken",
 	});
 }

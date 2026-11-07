@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/x/xbhr7_qlj.css';
+import '../../css/o/okgs1pb0k.css';
 import '../../css/c/cbjl0_2fs.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="xbhr7_qlj"/><path class="cbjl0_2fs"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="okgs1pb0k"/><path class="cbjl0_2fs"/></g>`,
 		"fallback": "solar:paperclip-rounded-2-line-duotone",
 	});
 }

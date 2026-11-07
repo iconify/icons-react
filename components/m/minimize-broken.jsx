@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/j/jyzi93bgq.css';
+import '../../css/e/ebs-wtr1f.css';
 import '../../css/b/bvt-woblq.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="jyzi93bgq"/><path class="bvt-woblq"/></g>`,
+		"content": `<g class="hntgybcog"><path class="ebs-wtr1f"/><path class="bvt-woblq"/></g>`,
 		"fallback": "solar:minimize-broken",
 	});
 }

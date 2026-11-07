@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/v/vte9i7bqc.css';
-import '../../css/y/yinb-z7cx.css';
-import '../../css/p/p-7aslvxg.css';
-import '../../css/i/ipnosvgas.css';
-import '../../css/t/t2m3jlpnn.css';
+import '../../css/y/yhwtfcbit.css';
+import '../../css/n/np8ymybnq.css';
+import '../../css/l/l19alibyj.css';
+import '../../css/b/b7fd3hbhl.css';
+import '../../css/r/rcu-dxg4m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="vte9i7bqc"/><path class="yinb-z7cx"/><path class="p-7aslvxg"/><path class="ipnosvgas"/><path class="t2m3jlpnn"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="yhwtfcbit"/><path class="np8ymybnq"/><path class="l19alibyj"/><path class="b7fd3hbhl"/><path class="rcu-dxg4m"/></g>`,
 		"fallback": "solar:dumbbell-large-minimalistic-linear",
 	});
 }

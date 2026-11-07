@@ -2,8 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/e/eq3frqb0l.css';
-import '../../css/e/eefesfbec.css';
-import '../../css/s/s9pl2sawz.css';
+import '../../css/k/kl82w_b3r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="eq3frqb0l"/><path class="eefesfbec"/><path class="s9pl2sawz"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="eq3frqb0l"/><path class="kl82w_b3r"/></g>`,
 		"fallback": "solar:chat-square-quote-linear",
 	});
 }

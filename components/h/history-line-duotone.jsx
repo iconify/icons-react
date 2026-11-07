@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/b/b-n_a840k.css';
-import '../../css/v/v822nacbe.css';
+import '../../css/o/ofx19vbpg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="b-n_a840k"/><path class="v822nacbe"/></g>`,
+		"content": `<g class="hntgybcog"><path class="b-n_a840k"/><path class="ofx19vbpg"/></g>`,
 		"fallback": "solar:history-line-duotone",
 	});
 }

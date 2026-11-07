@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/d/dqwn18b1s.css';
-import '../../css/s/s7f1fwbbg.css';
-import '../../css/w/wotaafb6p.css';
-import '../../css/o/o1cpgsbzo.css';
+import '../../css/p/pj3u4_bby.css';
+import '../../css/k/kdqg7zpqi.css';
+import '../../css/y/yb1t-pwor.css';
+import '../../css/s/s6qd-zbqk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="dqwn18b1s"/><path clip-rule="evenodd" class="s7f1fwbbg"/><path class="wotaafb6p"/><path class="o1cpgsbzo"/></g>`,
+		"content": `<path class="pj3u4_bby"/><path clip-rule="evenodd" class="kdqg7zpqi"/><path class="yb1t-pwor"/><path class="s6qd-zbqk"/>`,
 		"fallback": "solar:card-search-bold-duotone",
 	});
 }

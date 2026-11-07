@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/wethgabtb.css';
-import '../../css/i/iu_7qrbzv.css';
-import '../../css/t/to8rd8orv.css';
-import '../../css/p/pbnpm7-9j.css';
+import '../../css/k/kek-0ac7m.css';
+import '../../css/r/rqbzrccbz.css';
+import '../../css/c/ce-i1mh_z.css';
+import '../../css/u/uljji2but.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="wethgabtb"/><path clip-rule="evenodd" class="iu_7qrbzv"/><path class="to8rd8orv"/><path class="pbnpm7-9j"/></g>`,
+		"content": `<path class="kek-0ac7m"/><path clip-rule="evenodd" class="rqbzrccbz"/><path class="ce-i1mh_z"/><path class="uljji2but"/>`,
 		"fallback": "solar:siren-rounded-bold",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/f/fnoa-db2b.css';
+import '../../css/n/nakcxna2k.css';
 import '../../css/t/tt1o2hb5m.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="fnoa-db2b"/><path class="tt1o2hb5m"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="nakcxna2k"/><path class="tt1o2hb5m"/></g>`,
 		"fallback": "solar:radar-2-line-duotone",
 	});
 }

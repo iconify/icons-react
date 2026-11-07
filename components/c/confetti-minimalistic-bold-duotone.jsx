@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/u/ulggbubep.css';
-import '../../css/e/e0t_2ibfu.css';
-import '../../css/y/y1ssisa2j.css';
-import '../../css/g/gnf227sve.css';
-import '../../css/f/ff-wf3tij.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/t/t-588-edq.css';
+import '../../css/h/hnitplbio.css';
+import '../../css/y/yy4nhxbrk.css';
+import '../../css/r/rnflygbfl.css';
+import '../../css/g/g_vt3ac2w.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/m/mi7e3vbgk.css';
 import '../../css/e/eji8ztb9k.css';
 import '../../css/h/hez6p_b_b.css';
@@ -23,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ulggbubep"/><path class="e0t_2ibfu"/><path class="y1ssisa2j"/><path class="gnf227sve"/><path class="ff-wf3tij"/><g class="mc2zb0bvp"><path class="mi7e3vbgk"/><path class="eji8ztb9k"/><path class="hez6p_b_b"/><path class="q0s17klfs"/><path class="a4xypxbat"/><path class="hmxxvvbxb"/></g></g>`,
+		"content": `<path class="t-588-edq"/><path class="hnitplbio"/><path class="yy4nhxbrk"/><path class="rnflygbfl"/><path class="g_vt3ac2w"/><g class="xtpeb-edw"><path class="mi7e3vbgk"/><path class="eji8ztb9k"/><path class="hez6p_b_b"/><path class="q0s17klfs"/><path class="a4xypxbat"/><path class="hmxxvvbxb"/></g>`,
 		"fallback": "solar:confetti-minimalistic-bold-duotone",
 	});
 }

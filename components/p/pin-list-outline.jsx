@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/w222tbclf.css';
-import '../../css/b/bg2z60l4k.css';
-import '../../css/f/fcsgee45r.css';
-import '../../css/d/drb7xldnm.css';
+import '../../css/m/m76_9tmlz.css';
+import '../../css/f/fi7kcnkgv.css';
+import '../../css/b/b7o2pc7la.css';
+import '../../css/f/f5nmdybij.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="w222tbclf"/><path class="bg2z60l4k"/><path class="fcsgee45r"/><path class="drb7xldnm"/></g>`,
+		"content": `<path clip-rule="evenodd" class="m76_9tmlz"/><path class="fi7kcnkgv"/><path class="b7o2pc7la"/><path class="f5nmdybij"/>`,
 		"fallback": "solar:pin-list-outline",
 	});
 }

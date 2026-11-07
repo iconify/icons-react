@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bl91i5v9k.css';
+import '../../css/h/hkai44buu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="bl91i5v9k"/>`,
+		"content": `<path class="hkai44buu"/>`,
 		"fallback": "solar:case-round-minimalistic-bold",
 	});
 }

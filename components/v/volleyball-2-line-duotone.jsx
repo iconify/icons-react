@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/j/jke_9w8am.css';
-import '../../css/p/px9v4k7lg.css';
+import '../../css/f/f6ro20_jw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="jke_9w8am"/><path class="px9v4k7lg"/></g>`,
+		"content": `<g class="hntgybcog"><path class="jke_9w8am"/><path class="f6ro20_jw"/></g>`,
 		"fallback": "solar:volleyball-2-line-duotone",
 	});
 }

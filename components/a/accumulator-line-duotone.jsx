@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/y/yq5tzwbme.css';
-import '../../css/e/eak43rb5w.css';
+import '../../css/x/x8xa62bop.css';
+import '../../css/v/vjjx-kb3t.css';
 import '../../css/g/g16nbcc0i.css';
 import '../../css/d/ds4eep50x.css';
 import '../../css/e/e92whkbjm.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="yq5tzwbme"/><path class="eak43rb5w"/><path class="g16nbcc0i"/><path class="ds4eep50x"/><path class="e92whkbjm"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="x8xa62bop"/><path class="vjjx-kb3t"/><path class="g16nbcc0i"/><path class="ds4eep50x"/><path class="e92whkbjm"/></g>`,
 		"fallback": "solar:accumulator-line-duotone",
 	});
 }

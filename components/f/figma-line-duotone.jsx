@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/p/pd9ve-4jk.css';
-import '../../css/w/w3r548b8g.css';
-import '../../css/z/zgkec2ftu.css';
-import '../../css/p/p6qg516ed.css';
-import '../../css/h/hrnbbwbro.css';
+import '../../css/m/mw9a2m02n.css';
+import '../../css/a/a7_qblosi.css';
+import '../../css/v/vgpahk0tv.css';
+import '../../css/v/v2kjfgb-s.css';
+import '../../css/j/jehd3zbqn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="pd9ve-4jk"/><path class="w3r548b8g"/><path class="zgkec2ftu"/><path class="p6qg516ed"/><path class="hrnbbwbro"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="mw9a2m02n"/><path class="a7_qblosi"/><path class="vgpahk0tv"/><path class="v2kjfgb-s"/><path class="jehd3zbqn"/></g>`,
 		"fallback": "solar:figma-line-duotone",
 	});
 }

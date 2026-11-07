@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/k/k_8y6cbed.css';
+import '../../css/c/cxn0dz0cz.css';
 import '../../css/p/pu97ujszu.css';
 import '../../css/d/d7egxzbrr.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="k_8y6cbed"/><path class="pu97ujszu"/><path class="d7egxzbrr"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="cxn0dz0cz"/><path class="pu97ujszu"/><path class="d7egxzbrr"/></g>`,
 		"fallback": "solar:battery-charge-broken",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/r/ru5ls45mk.css';
+import '../../css/u/u836v1b4v.css';
 import '../../css/k/ko6o-6b9b.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ru5ls45mk"/><path class="ko6o-6b9b"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="u836v1b4v"/><path class="ko6o-6b9b"/></g>`,
 		"fallback": "solar:rewind-back-circle-broken",
 	});
 }

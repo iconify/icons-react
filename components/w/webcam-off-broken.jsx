@@ -6,7 +6,7 @@ import '../../css/k/kva043bzk.css';
 import '../../css/t/t26d7g3rg.css';
 import '../../css/c/cu1491zmm.css';
 import '../../css/o/o5pqkb2dm.css';
-import '../../css/h/he1zf30yg.css';
+import '../../css/b/bdz-ljbiy.css';
 import '../../css/i/iy-m30bpe.css';
 import '../../css/r/rsrhfac5n.css';
 
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="v_cyp7bey"/><path class="kva043bzk"/><path class="t26d7g3rg"/><path class="cu1491zmm"/><path class="o5pqkb2dm"/><path class="he1zf30yg"/><path class="iy-m30bpe"/><path class="rsrhfac5n"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="v_cyp7bey"/><path class="kva043bzk"/><path class="t26d7g3rg"/><path class="cu1491zmm"/><path class="o5pqkb2dm"/><path class="bdz-ljbiy"/><path class="iy-m30bpe"/><path class="rsrhfac5n"/></g>`,
 		"fallback": "solar:webcam-off-broken",
 	});
 }

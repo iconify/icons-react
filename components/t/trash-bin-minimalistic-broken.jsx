@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/q/qn7ra9bpb.css';
-import '../../css/o/oxji76bkm.css';
-import '../../css/c/ck-x5--3n.css';
+import '../../css/k/kvdjm4bsr.css';
+import '../../css/f/fh6a-dbrt.css';
+import '../../css/n/nr-pbwdvr.css';
 import '../../css/p/p2-mbsbue.css';
 import '../../css/w/w8w5t9ikw.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="qn7ra9bpb"/><path class="oxji76bkm"/><path class="ck-x5--3n"/><path class="p2-mbsbue"/><path class="w8w5t9ikw"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="kvdjm4bsr"/><path class="fh6a-dbrt"/><path class="nr-pbwdvr"/><path class="p2-mbsbue"/><path class="w8w5t9ikw"/></g>`,
 		"fallback": "solar:trash-bin-minimalistic-broken",
 	});
 }

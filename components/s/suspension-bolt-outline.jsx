@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sexa44bni.css';
+import '../../css/r/rb5440rgz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="sexa44bni"/>`,
+		"content": `<path clip-rule="evenodd" class="rb5440rgz"/>`,
 		"fallback": "solar:suspension-bolt-outline",
 	});
 }

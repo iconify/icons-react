@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/l9sc9mb6r.css';
-import '../../css/v/v18w0jb-s.css';
+import '../../css/n/nqmz4sbco.css';
+import '../../css/a/aaopfcb-u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="l9sc9mb6r"/><path clip-rule="evenodd" class="v18w0jb-s"/></g>`,
+		"content": `<path class="nqmz4sbco"/><path clip-rule="evenodd" class="aaopfcb-u"/>`,
 		"fallback": "solar:star-fall-minimalistic-2-bold-duotone",
 	});
 }

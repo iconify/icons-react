@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/ww2in-a1q.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/u/ubcl_ebpv.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/o/osf9ghbva.css';
 import '../../css/w/wid0-bcxr.css';
 import '../../css/a/a9nz3ub6w.css';
@@ -19,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ww2in-a1q"/><g class="mc2zb0bvp"><path class="osf9ghbva"/><path class="wid0-bcxr"/><path class="a9nz3ub6w"/><path class="suwot2e_p"/><path class="y9r2iyjgv"/><path class="b95xkdzok"/></g></g>`,
+		"content": `<path class="ubcl_ebpv"/><g class="xtpeb-edw"><path class="osf9ghbva"/><path class="wid0-bcxr"/><path class="a9nz3ub6w"/><path class="suwot2e_p"/><path class="y9r2iyjgv"/><path class="b95xkdzok"/></g>`,
 		"fallback": "solar:wi-fi-off-bold-duotone",
 	});
 }

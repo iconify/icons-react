@@ -1,16 +1,15 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/p/pdzz5drvs.css';
-import '../../css/q/qkv_jnvrp.css';
-import '../../css/t/tz5xo4bcd.css';
-import '../../css/o/ofb7nkkeq.css';
-import '../../css/h/h1d9tmxie.css';
-import '../../css/g/g00h8qyhs.css';
-import '../../css/q/q3-49ab4q.css';
-import '../../css/i/igzm4qf1w.css';
-import '../../css/j/j2nqhrbqv.css';
-import '../../css/z/zlkql3bcv.css';
+import '../../css/m/mqmhc7b0x.css';
+import '../../css/s/s_jemhbps.css';
+import '../../css/l/lvh_gjuhk.css';
+import '../../css/i/iwoyv2bvo.css';
+import '../../css/c/c2smib53z.css';
+import '../../css/u/uy3tbrb3c.css';
+import '../../css/r/rs0gvgyfv.css';
+import '../../css/f/f6tn_1tid.css';
+import '../../css/a/a0kdizbxx.css';
+import '../../css/g/gmiec_bcp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -21,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="pdzz5drvs"/><path class="qkv_jnvrp"/><path class="tz5xo4bcd"/><path class="ofb7nkkeq"/><path class="h1d9tmxie"/><path class="g00h8qyhs"/><path class="q3-49ab4q"/><path class="igzm4qf1w"/><path class="j2nqhrbqv"/><path class="zlkql3bcv"/></g>`,
+		"content": `<path class="mqmhc7b0x"/><path class="s_jemhbps"/><path class="lvh_gjuhk"/><path class="iwoyv2bvo"/><path class="c2smib53z"/><path class="uy3tbrb3c"/><path class="rs0gvgyfv"/><path class="f6tn_1tid"/><path class="a0kdizbxx"/><path class="gmiec_bcp"/>`,
 		"fallback": "solar:cloud-snowfall-minimalistic-bold",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/y/yslf3cctx.css';
-import '../../css/d/dc43t0b2s.css';
-import '../../css/p/pgvt321cd.css';
-import '../../css/d/dwptqjbme.css';
+import '../../css/s/suyoj3b9r.css';
+import '../../css/r/r_aluvvdv.css';
+import '../../css/o/oj3cw1blx.css';
+import '../../css/h/hepad7g3n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="yslf3cctx"/><path class="dc43t0b2s"/><path class="pgvt321cd"/><path class="dwptqjbme"/></g>`,
+		"content": `<path class="suyoj3b9r"/><path class="r_aluvvdv"/><path class="oj3cw1blx"/><path class="hepad7g3n"/>`,
 		"fallback": "solar:kanban-square-bold-duotone",
 	});
 }

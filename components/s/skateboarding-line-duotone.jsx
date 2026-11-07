@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/u/um3c8ib4d.css';
 import '../../css/p/pyd8uurcz.css';
-import '../../css/l/l-j6abbgp.css';
+import '../../css/s/sku8d52nq.css';
 import '../../css/q/qczwjibac.css';
 import '../../css/a/a7ayi91_s.css';
 import '../../css/m/mxrg5g32t.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="um3c8ib4d"/><circle class="pyd8uurcz"/><path class="l-j6abbgp"/><path class="qczwjibac"/><path class="a7ayi91_s"/><path class="mxrg5g32t"/><path class="hocwk9rpw"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="um3c8ib4d"/><circle class="pyd8uurcz"/><path class="sku8d52nq"/><path class="qczwjibac"/><path class="a7ayi91_s"/><path class="mxrg5g32t"/><path class="hocwk9rpw"/></g>`,
 		"fallback": "solar:skateboarding-line-duotone",
 	});
 }

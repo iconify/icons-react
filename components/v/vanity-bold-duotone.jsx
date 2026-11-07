@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/r/rgz-_0tym.css';
-import '../../css/d/d8q4e7j3z.css';
-import '../../css/h/hy5r8xb9e.css';
-import '../../css/l/l92feidoj.css';
-import '../../css/m/mds0_q72e.css';
-import '../../css/z/zofvwwbzh.css';
+import '../../css/b/b-fn14bsx.css';
+import '../../css/r/rzfigt_wj.css';
+import '../../css/n/nv0ks132c.css';
+import '../../css/d/dpktspbaa.css';
+import '../../css/s/s8kjxnw5q.css';
+import '../../css/g/gvx018bix.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="rgz-_0tym"/><path clip-rule="evenodd" class="d8q4e7j3z"/><path clip-rule="evenodd" class="hy5r8xb9e"/><path class="l92feidoj"/><path class="mds0_q72e"/><path class="zofvwwbzh"/></g>`,
+		"content": `<path class="b-fn14bsx"/><path clip-rule="evenodd" class="rzfigt_wj"/><path clip-rule="evenodd" class="nv0ks132c"/><path class="dpktspbaa"/><path class="s8kjxnw5q"/><path class="gvx018bix"/>`,
 		"fallback": "solar:vanity-bold-duotone",
 	});
 }

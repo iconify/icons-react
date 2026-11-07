@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/h/hjvhm_iif.css';
+import '../../css/o/o4aqkhbqi.css';
 import '../../css/m/m_f5uw_8g.css';
 import '../../css/a/aewalzb3w.css';
 import '../../css/m/mrov9tb8p.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="hjvhm_iif"/><circle class="m_f5uw_8g"/><path class="aewalzb3w"/><path class="mrov9tb8p"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="o4aqkhbqi"/><circle class="m_f5uw_8g"/><path class="aewalzb3w"/><path class="mrov9tb8p"/></g>`,
 		"fallback": "solar:map-point-hospital-line-duotone",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/d/d9igfubdy.css';
+import '../../css/t/t8jed3q6q.css';
 import '../../css/q/qftlv8bpb.css';
 import '../../css/v/vucbnbbhu.css';
 import '../../css/l/lta1ae56a.css';
@@ -14,8 +14,8 @@ import '../../css/k/kvnjkvb7x.css';
 import '../../css/y/y89jwwbfp.css';
 import '../../css/z/z91zqgbok.css';
 import '../../css/z/zca6p_bfo.css';
-import '../../css/b/bdtptebcp.css';
-import '../../css/c/c7s7ctprl.css';
+import '../../css/c/ct8de1bqv.css';
+import '../../css/q/qkc8pybpt.css';
 import '../../css/e/ei6v1xbcc.css';
 
 const viewBox = {"width":24,"height":24};
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="d9igfubdy"/><path class="qftlv8bpb"/><path class="vucbnbbhu"/><path class="lta1ae56a"/><path class="zb_o4p5fn"/><path class="kk1iv2blu"/><path class="zydd4fbxz"/><path class="n_hx95bzk"/><path class="ntnce-blv"/><path class="kvnjkvb7x"/><path class="y89jwwbfp"/><path class="z91zqgbok"/><path class="zca6p_bfo"/><path class="bdtptebcp"/><path class="c7s7ctprl"/><path class="ei6v1xbcc"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="t8jed3q6q"/><path class="qftlv8bpb"/><path class="vucbnbbhu"/><path class="lta1ae56a"/><path class="zb_o4p5fn"/><path class="kk1iv2blu"/><path class="zydd4fbxz"/><path class="n_hx95bzk"/><path class="ntnce-blv"/><path class="kvnjkvb7x"/><path class="y89jwwbfp"/><path class="z91zqgbok"/><path class="zca6p_bfo"/><path class="ct8de1bqv"/><path class="qkc8pybpt"/><path class="ei6v1xbcc"/></g>`,
 		"fallback": "solar:virus-broken",
 	});
 }

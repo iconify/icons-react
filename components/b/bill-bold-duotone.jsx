@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/i/io2mm3b4i.css';
-import '../../css/d/dfep9nb_v.css';
-import '../../css/u/ug1uowu6z.css';
-import '../../css/h/hbb908j_v.css';
+import '../../css/t/tax30dbya.css';
+import '../../css/n/nrh4mfbus.css';
+import '../../css/j/j7cw-sb7g.css';
+import '../../css/g/gxlvpg50i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="io2mm3b4i"/><path class="dfep9nb_v"/><path class="ug1uowu6z"/><path class="hbb908j_v"/></g>`,
+		"content": `<path class="tax30dbya"/><path class="nrh4mfbus"/><path class="j7cw-sb7g"/><path class="gxlvpg50i"/>`,
 		"fallback": "solar:bill-bold-duotone",
 	});
 }

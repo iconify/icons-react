@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/x/xtx0s6u8w.css';
-import '../../css/d/dgeooxrnl.css';
+import '../../css/d/duna4jbyi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="xtx0s6u8w"/><path class="dgeooxrnl"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="xtx0s6u8w"/><path class="duna4jbyi"/></g>`,
 		"fallback": "solar:planet-2-linear",
 	});
 }

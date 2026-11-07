@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/c/cjnwjzb4c.css';
-import '../../css/z/zir5_7bld.css';
-import '../../css/g/gygffl34c.css';
-import '../../css/h/hu5w36xiu.css';
+import '../../css/v/v69cw1nsu.css';
+import '../../css/y/yzo8rfbaj.css';
+import '../../css/y/y2atx_blf.css';
+import '../../css/t/tn5jxebef.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="cjnwjzb4c"/><path clip-rule="evenodd" class="zir5_7bld"/><path clip-rule="evenodd" class="gygffl34c"/><path clip-rule="evenodd" class="hu5w36xiu"/></g>`,
+		"content": `<path class="v69cw1nsu"/><path clip-rule="evenodd" class="yzo8rfbaj"/><path clip-rule="evenodd" class="y2atx_blf"/><path clip-rule="evenodd" class="tn5jxebef"/>`,
 		"fallback": "solar:headphones-square-sound-bold",
 	});
 }

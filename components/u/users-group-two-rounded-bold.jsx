@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/v/v0mnniwzq.css';
-import '../../css/v/v1e_5xx-u.css';
-import '../../css/z/zwbprvbgc.css';
-import '../../css/d/dp5zcac4d.css';
-import '../../css/l/l8lhr17sb.css';
-import '../../css/w/w5qhdv_nw.css';
+import '../../css/l/lagukibcz.css';
+import '../../css/y/yffxg5ktw.css';
+import '../../css/b/bi3s7qmxc.css';
+import '../../css/b/buif742pl.css';
+import '../../css/z/z_0u9humb.css';
+import '../../css/c/cfzsbfbml.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="v0mnniwzq"/><path class="v1e_5xx-u"/><path class="zwbprvbgc"/><path class="dp5zcac4d"/><path class="l8lhr17sb"/><path class="w5qhdv_nw"/></g>`,
+		"content": `<path class="lagukibcz"/><path class="yffxg5ktw"/><path class="bi3s7qmxc"/><path class="buif742pl"/><path class="z_0u9humb"/><path class="cfzsbfbml"/>`,
 		"fallback": "solar:users-group-two-rounded-bold",
 	});
 }

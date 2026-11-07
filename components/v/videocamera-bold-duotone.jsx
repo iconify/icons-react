@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/y/ybtsdob7h.css';
-import '../../css/g/g61gfabvb.css';
+import '../../css/g/gn_f1tn5f.css';
+import '../../css/g/gj0rcw2bf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ybtsdob7h"/><path class="g61gfabvb"/></g>`,
+		"content": `<path class="gn_f1tn5f"/><path class="gj0rcw2bf"/>`,
 		"fallback": "solar:videocamera-bold-duotone",
 	});
 }

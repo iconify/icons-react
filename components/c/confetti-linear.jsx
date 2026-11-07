@@ -1,13 +1,13 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pr52f_b5y.css';
-import '../../css/q/q024e90lv.css';
-import '../../css/h/h8bkbccbg.css';
+import '../../css/f/f4knhacco.css';
+import '../../css/i/iz3lcib7g.css';
 import '../../css/o/o9qiojmml.css';
 import '../../css/z/zfl_jac2j.css';
-import '../../css/x/xb7rq2bhz.css';
-import '../../css/g/gb16o5b2r.css';
-import '../../css/v/vmwys4mje.css';
+import '../../css/u/un7ro4b8f.css';
+import '../../css/y/ynbr-cmaf.css';
+import '../../css/d/dsimmlbll.css';
 import '../../css/d/d-_n9be_g.css';
 import '../../css/l/l4kdp-b_l.css';
 import '../../css/k/kkbn8ggrm.css';
@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><path class="q024e90lv"/><path class="h8bkbccbg"/><path class="o9qiojmml"/><path class="zfl_jac2j"/><path class="xb7rq2bhz"/><path class="gb16o5b2r"/><path class="vmwys4mje"/><path class="d-_n9be_g"/><path class="l4kdp-b_l"/><path class="kkbn8ggrm"/><path class="gswofgbdq"/></g>`,
+		"content": `<g class="pr52f_b5y"><path class="f4knhacco"/><path class="iz3lcib7g"/><path class="o9qiojmml"/><path class="zfl_jac2j"/><path class="un7ro4b8f"/><path class="ynbr-cmaf"/><path class="dsimmlbll"/><path class="d-_n9be_g"/><path class="l4kdp-b_l"/><path class="kkbn8ggrm"/><path class="gswofgbdq"/></g>`,
 		"fallback": "solar:confetti-linear",
 	});
 }

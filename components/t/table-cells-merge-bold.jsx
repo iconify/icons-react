@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/j/j2l6nrkld.css';
-import '../../css/s/s7875pb6y.css';
-import '../../css/f/flt-a_pfe.css';
-import '../../css/t/tu2k-znyw.css';
-import '../../css/y/ykk1_gx4n.css';
+import '../../css/m/myg4xebay.css';
+import '../../css/v/vz7kdz1fb.css';
+import '../../css/w/w_91c9bhk.css';
+import '../../css/c/chnbh0b2d.css';
+import '../../css/f/fsm6edcal.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="j2l6nrkld"/><path class="s7875pb6y"/><path class="flt-a_pfe"/><path class="tu2k-znyw"/><path class="ykk1_gx4n"/></g>`,
+		"content": `<path class="myg4xebay"/><path class="vz7kdz1fb"/><path class="w_91c9bhk"/><path class="chnbh0b2d"/><path class="fsm6edcal"/>`,
 		"fallback": "solar:table-cells-merge-bold",
 	});
 }

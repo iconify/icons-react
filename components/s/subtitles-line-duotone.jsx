@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/k/kfvnd7u4f.css';
+import '../../css/l/l6e-nzb0i.css';
 import '../../css/k/ktpncgb0v.css';
 import '../../css/j/jmn44onlx.css';
 import '../../css/w/wy63pibnm.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="kfvnd7u4f"/><path class="ktpncgb0v"/><path class="jmn44onlx"/><path class="wy63pibnm"/><path class="wu6h5cbil"/><path class="sqxfocc0h"/><path class="lqjkhsbgy"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="l6e-nzb0i"/><path class="ktpncgb0v"/><path class="jmn44onlx"/><path class="wy63pibnm"/><path class="wu6h5cbil"/><path class="sqxfocc0h"/><path class="lqjkhsbgy"/></g>`,
 		"fallback": "solar:subtitles-line-duotone",
 	});
 }

@@ -4,7 +4,7 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/j/j-heh34pv.css';
 import '../../css/c/cz-6xlbfk.css';
 import '../../css/d/dvt7o1bcw.css';
-import '../../css/z/z-3-7paba.css';
+import '../../css/w/w3r9-bcte.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="j-heh34pv"/><path class="cz-6xlbfk"/><path class="dvt7o1bcw"/><path class="z-3-7paba"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="j-heh34pv"/><path class="cz-6xlbfk"/><path class="dvt7o1bcw"/><path class="w3r9-bcte"/></g>`,
 		"fallback": "solar:soundwave-circle-linear",
 	});
 }

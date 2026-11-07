@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/b/bi127sxje.css';
-import '../../css/m/mqv8oacrv.css';
+import '../../css/w/wk1_5xrpd.css';
 import '../../css/t/t5vsymb5k.css';
 import '../../css/q/q3b3n4bkx.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="bi127sxje"/><path class="mqv8oacrv"/><circle class="t5vsymb5k"/><path class="q3b3n4bkx"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="bi127sxje"/><path class="wk1_5xrpd"/><circle class="t5vsymb5k"/><path class="q3b3n4bkx"/></g>`,
 		"fallback": "solar:gallery-wide-broken",
 	});
 }

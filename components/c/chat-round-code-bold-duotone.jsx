@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/b/bym8zsb_r.css';
-import '../../css/z/z566erb8j.css';
-import '../../css/u/ur1ufwbfi.css';
-import '../../css/i/ike3v34es.css';
+import '../../css/n/n0jc9qlwi.css';
+import '../../css/e/edykgp0xs.css';
+import '../../css/c/c3bf_ebrx.css';
+import '../../css/v/vjimy6bso.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="bym8zsb_r"/><path class="z566erb8j"/><path class="ur1ufwbfi"/><path class="ike3v34es"/></g>`,
+		"content": `<path class="n0jc9qlwi"/><path class="edykgp0xs"/><path class="c3bf_ebrx"/><path class="vjimy6bso"/>`,
 		"fallback": "solar:chat-round-code-bold-duotone",
 	});
 }

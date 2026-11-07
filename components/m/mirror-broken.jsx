@@ -3,8 +3,8 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/o/osuf_jq5d.css';
 import '../../css/e/e85a4hbua.css';
-import '../../css/r/rmewz67rh.css';
-import '../../css/m/mmjk66e8m.css';
+import '../../css/q/q91-j3b0a.css';
+import '../../css/q/q1cgl7rzl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="osuf_jq5d"/><path class="e85a4hbua"/><path class="rmewz67rh"/><path class="mmjk66e8m"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="osuf_jq5d"/><path class="e85a4hbua"/><path class="q91-j3b0a"/><path class="q1cgl7rzl"/></g>`,
 		"fallback": "solar:mirror-broken",
 	});
 }

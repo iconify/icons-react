@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/s/sbxllk_zm.css';
-import '../../css/f/f63-i9bah.css';
+import '../../css/c/cyjboy1lu.css';
+import '../../css/w/w72z5bcvg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="sbxllk_zm"/><path clip-rule="evenodd" class="f63-i9bah"/></g>`,
+		"content": `<path class="cyjboy1lu"/><path clip-rule="evenodd" class="w72z5bcvg"/>`,
 		"fallback": "solar:thermometer-outline",
 	});
 }

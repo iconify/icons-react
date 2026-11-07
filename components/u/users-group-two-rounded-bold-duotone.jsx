@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/v/v0mnniwzq.css';
-import '../../css/d/dp5zcac4d.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/l/lagukibcz.css';
+import '../../css/b/buif742pl.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/r/rv8lfbcew.css';
 import '../../css/p/piw-45d7x.css';
 import '../../css/c/cazy7abfr.css';
@@ -18,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="v0mnniwzq"/><path class="dp5zcac4d"/><g class="mc2zb0bvp"><path class="rv8lfbcew"/><path class="piw-45d7x"/><path class="cazy7abfr"/><path class="ydxu9l6jm"/></g></g>`,
+		"content": `<path class="lagukibcz"/><path class="buif742pl"/><g class="xtpeb-edw"><path class="rv8lfbcew"/><path class="piw-45d7x"/><path class="cazy7abfr"/><path class="ydxu9l6jm"/></g>`,
 		"fallback": "solar:users-group-two-rounded-bold-duotone",
 	});
 }

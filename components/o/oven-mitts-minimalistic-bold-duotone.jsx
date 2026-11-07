@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/v/vzcyqibve.css';
-import '../../css/y/y_zmmbcqk.css';
+import '../../css/e/ex5i2y_lu.css';
+import '../../css/k/ka-iktbmz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="vzcyqibve"/><path class="y_zmmbcqk"/></g>`,
+		"content": `<path clip-rule="evenodd" class="ex5i2y_lu"/><path class="ka-iktbmz"/>`,
 		"fallback": "solar:oven-mitts-minimalistic-bold-duotone",
 	});
 }

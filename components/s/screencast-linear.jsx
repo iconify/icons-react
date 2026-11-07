@@ -2,9 +2,9 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/i/ik4yyycul.css';
-import '../../css/s/sdldar-9p.css';
-import '../../css/y/yaqv4iv0o.css';
-import '../../css/z/zwy84xboo.css';
+import '../../css/v/v4tckp_mx.css';
+import '../../css/d/dxz_62g8x.css';
+import '../../css/u/uzj9wplpi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ik4yyycul"/><path class="sdldar-9p"/><path class="yaqv4iv0o"/><path class="zwy84xboo"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="ik4yyycul"/><path class="v4tckp_mx"/><path class="dxz_62g8x"/><path class="uzj9wplpi"/></g>`,
 		"fallback": "solar:screencast-linear",
 	});
 }

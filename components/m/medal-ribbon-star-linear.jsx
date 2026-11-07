@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/v/vto_qpspa.css';
+import '../../css/p/pfjefkbxt.css';
 import '../../css/i/i6nrt8nnu.css';
 import '../../css/r/rmic-8buf.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="vto_qpspa"/><path class="i6nrt8nnu"/><path class="rmic-8buf"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="pfjefkbxt"/><path class="i6nrt8nnu"/><path class="rmic-8buf"/></g>`,
 		"fallback": "solar:medal-ribbon-star-linear",
 	});
 }

@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/u/uvx_hvkwu.css';
-import '../../css/n/nqhgbgggh.css';
+import '../../css/l/l17661bjv.css';
+import '../../css/q/qhhul4b8a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="uvx_hvkwu"/><path class="nqhgbgggh"/></g>`,
+		"content": `<path class="l17661bjv"/><path class="qhhul4b8a"/>`,
 		"fallback": "solar:ticket-star-bold-duotone",
 	});
 }

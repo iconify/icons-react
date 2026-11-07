@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/c/csrkrnb5y.css';
 import '../../css/l/lsxguc_1v.css';
-import '../../css/d/di80acbxg.css';
-import '../../css/x/x__-1cckh.css';
+import '../../css/b/bj30ulegm.css';
+import '../../css/k/k756bi2wv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="csrkrnb5y"/><path class="lsxguc_1v"/></g><path class="di80acbxg"/><path class="x__-1cckh"/></g>`,
+		"content": `<g class="xtpeb-edw"><path class="csrkrnb5y"/><path class="lsxguc_1v"/></g><path class="bj30ulegm"/><path class="k756bi2wv"/>`,
 		"fallback": "solar:map-bold-duotone",
 	});
 }

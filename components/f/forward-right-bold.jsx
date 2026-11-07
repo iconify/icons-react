@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/useee1s0h.css';
+import '../../css/i/ipa3nybtl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="useee1s0h"/>`,
+		"content": `<path class="ipa3nybtl"/>`,
 		"fallback": "solar:forward-right-bold",
 	});
 }

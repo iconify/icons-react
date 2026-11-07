@@ -1,15 +1,14 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/z/zawk6smbg.css';
 import '../../css/y/ybuibgbim.css';
-import '../../css/v/v-g54vo2p.css';
-import '../../css/p/pkqmocq4y.css';
-import '../../css/u/ua502d5fn.css';
-import '../../css/h/hsbeizbun.css';
-import '../../css/p/pu9cezbur.css';
-import '../../css/i/i4eqhbb5p.css';
+import '../../css/n/neqagcbsd.css';
+import '../../css/d/d770n5yfy.css';
+import '../../css/m/mbu81kbfo.css';
+import '../../css/e/eq4jbwbqz.css';
+import '../../css/o/ow856lbaj.css';
+import '../../css/f/fgysd4b_n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -20,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><g class="mc2zb0bvp"><path class="zawk6smbg"/><path class="ybuibgbim"/></g><path class="v-g54vo2p"/><path class="pkqmocq4y"/><path class="ua502d5fn"/><path class="hsbeizbun"/><path class="pu9cezbur"/><path class="i4eqhbb5p"/></g>`,
+		"content": `<g class="xtpeb-edw"><path class="zawk6smbg"/><path class="ybuibgbim"/></g><path class="neqagcbsd"/><path class="d770n5yfy"/><path class="mbu81kbfo"/><path class="eq4jbwbqz"/><path class="ow856lbaj"/><path class="fgysd4b_n"/>`,
 		"fallback": "solar:server-2-bold-duotone",
 	});
 }

@@ -1,14 +1,14 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pr52f_b5y.css';
-import '../../css/t/tsr9o8boz.css';
-import '../../css/h/h8bkbccbg.css';
+import '../../css/g/gkh7_ydkl.css';
+import '../../css/i/iz3lcib7g.css';
 import '../../css/o/o9qiojmml.css';
 import '../../css/z/zfl_jac2j.css';
-import '../../css/z/zhnmupb5x.css';
-import '../../css/u/umj20kj0i.css';
-import '../../css/l/l48yrhqcy.css';
-import '../../css/k/kqoti-bwz.css';
+import '../../css/u/un7ro4b8f.css';
+import '../../css/y/ynbr-cmaf.css';
+import '../../css/d/dsimmlbll.css';
+import '../../css/z/zq-n21o7p.css';
 import '../../css/k/kkbn8ggrm.css';
 
 const viewBox = {"width":24,"height":24};
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="pr52f_b5y"><path class="tsr9o8boz"/><path class="h8bkbccbg"/><path class="o9qiojmml"/><path class="zfl_jac2j"/><path class="zhnmupb5x"/><path class="umj20kj0i"/><path class="l48yrhqcy"/><path class="kqoti-bwz"/><path class="kkbn8ggrm"/></g>`,
+		"content": `<g class="pr52f_b5y"><path class="gkh7_ydkl"/><path class="iz3lcib7g"/><path class="o9qiojmml"/><path class="zfl_jac2j"/><path class="un7ro4b8f"/><path class="ynbr-cmaf"/><path class="dsimmlbll"/><path class="zq-n21o7p"/><path class="kkbn8ggrm"/></g>`,
 		"fallback": "solar:confetti-broken",
 	});
 }

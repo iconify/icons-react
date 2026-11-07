@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/q/qy9rdbuvy.css';
-import '../../css/t/tj0h6ru8e.css';
-import '../../css/w/w1_y2vige.css';
+import '../../css/n/n_xfbhytv.css';
+import '../../css/t/t5sicqsen.css';
+import '../../css/u/u1-hubbrp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="qy9rdbuvy"/><path class="tj0h6ru8e"/><path class="w1_y2vige"/></g>`,
+		"content": `<path clip-rule="evenodd" class="n_xfbhytv"/><path class="t5sicqsen"/><path class="u1-hubbrp"/>`,
 		"fallback": "solar:washing-machine-outline",
 	});
 }

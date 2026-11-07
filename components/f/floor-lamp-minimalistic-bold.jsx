@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/wo_awpt7h.css';
-import '../../css/w/wyjl3bbib.css';
-import '../../css/h/hkzmygcvp.css';
+import '../../css/z/zhocsxiwx.css';
+import '../../css/h/hlr7qvbgb.css';
+import '../../css/y/y1m3u927f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="wo_awpt7h"/><path class="wyjl3bbib"/><path class="hkzmygcvp"/></g>`,
+		"content": `<path class="zhocsxiwx"/><path class="hlr7qvbgb"/><path class="y1m3u927f"/>`,
 		"fallback": "solar:floor-lamp-minimalistic-bold",
 	});
 }

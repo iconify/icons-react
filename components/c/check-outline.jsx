@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n2jnsvczx.css';
+import '../../css/l/l4osr_8qb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n2jnsvczx"/>`,
+		"content": `<path class="l4osr_8qb"/>`,
 		"fallback": "solar:check-outline",
 	});
 }

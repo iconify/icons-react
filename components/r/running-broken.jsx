@@ -3,8 +3,8 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/l/lk387obkc.css';
 import '../../css/p/pek1alrpa.css';
-import '../../css/x/xl4afkbdk.css';
-import '../../css/o/obbks8bmv.css';
+import '../../css/i/i779b9bnc.css';
+import '../../css/p/p_58s6ywe.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="lk387obkc"/><path class="pek1alrpa"/><path class="xl4afkbdk"/><path class="obbks8bmv"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="lk387obkc"/><path class="pek1alrpa"/><path class="i779b9bnc"/><path class="p_58s6ywe"/></g>`,
 		"fallback": "solar:running-broken",
 	});
 }

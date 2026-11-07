@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xt2-4yxgg.css';
+import '../../css/q/q_d_ntx3z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xt2-4yxgg"/>`,
+		"content": `<path class="q_d_ntx3z"/>`,
 		"fallback": "solar:move-vertical-linear",
 	});
 }

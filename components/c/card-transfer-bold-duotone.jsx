@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/q/qiqc01edf.css';
-import '../../css/b/b3rdw3b6g.css';
-import '../../css/s/s-7j24bvm.css';
-import '../../css/w/wotaafb6p.css';
-import '../../css/o/o1cpgsbzo.css';
+import '../../css/g/g7ef8rbjx.css';
+import '../../css/w/w-uou4yhx.css';
+import '../../css/o/o-1wmqb9z.css';
+import '../../css/y/yb1t-pwor.css';
+import '../../css/s/s6qd-zbqk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="qiqc01edf"/><path class="b3rdw3b6g"/><path class="s-7j24bvm"/><path class="wotaafb6p"/><path class="o1cpgsbzo"/></g>`,
+		"content": `<path class="g7ef8rbjx"/><path class="w-uou4yhx"/><path class="o-1wmqb9z"/><path class="yb1t-pwor"/><path class="s6qd-zbqk"/>`,
 		"fallback": "solar:card-transfer-bold-duotone",
 	});
 }

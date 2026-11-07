@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/y/ywqkc-b_i.css';
+import '../../css/f/fg37-14pa.css';
 import '../../css/b/beu8enohc.css';
 import '../../css/o/oqpf2r_po.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="ywqkc-b_i"/><path class="beu8enohc"/><path class="oqpf2r_po"/></g>`,
+		"content": `<g class="hntgybcog"><path class="fg37-14pa"/><path class="beu8enohc"/><path class="oqpf2r_po"/></g>`,
 		"fallback": "solar:frame-line-duotone",
 	});
 }

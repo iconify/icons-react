@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/x/x9f9yfbbu.css';
-import '../../css/p/pm5sxhcqs.css';
+import '../../css/m/mbcrec3yn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="x9f9yfbbu"/><path class="pm5sxhcqs"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="x9f9yfbbu"/><path class="mbcrec3yn"/></g>`,
 		"fallback": "solar:volleyball-broken",
 	});
 }

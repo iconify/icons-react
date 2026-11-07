@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/x/xpzbxokqs.css';
-import '../../css/t/ti-8hxbru.css';
+import '../../css/o/o1ddb9b2p.css';
 import '../../css/g/gf8hoxv3z.css';
 import '../../css/s/spvgpubdr.css';
 import '../../css/g/gx380mbzb.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="xpzbxokqs"/><path class="ti-8hxbru"/><path class="gf8hoxv3z"/><path class="spvgpubdr"/><path class="gx380mbzb"/><path class="dwshg7bba"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="xpzbxokqs"/><path class="o1ddb9b2p"/><path class="gf8hoxv3z"/><path class="spvgpubdr"/><path class="gx380mbzb"/><path class="dwshg7bba"/></g>`,
 		"fallback": "solar:garage-line-duotone",
 	});
 }

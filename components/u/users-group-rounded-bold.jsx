@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/u/uo3e6gbze.css';
-import '../../css/i/i0b8n-y7j.css';
-import '../../css/h/hl78y5ebu.css';
-import '../../css/s/srjd9cjvi.css';
+import '../../css/a/a0yh6z_ij.css';
+import '../../css/l/le8h1nbcf.css';
+import '../../css/b/boyowm1xr.css';
+import '../../css/y/yxszw6bfg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="uo3e6gbze"/><path class="i0b8n-y7j"/><path class="hl78y5ebu"/><path class="srjd9cjvi"/></g>`,
+		"content": `<path class="a0yh6z_ij"/><path class="le8h1nbcf"/><path class="boyowm1xr"/><path class="yxszw6bfg"/>`,
 		"fallback": "solar:users-group-rounded-bold",
 	});
 }

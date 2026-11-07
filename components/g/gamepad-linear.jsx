@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/d/dailtsmvb.css';
-import '../../css/u/uw_f3e0nw.css';
+import '../../css/g/g9uxcsbqh.css';
+import '../../css/r/rcgoqzxit.css';
 import '../../css/j/jdkg2b8su.css';
 import '../../css/i/i2afqdhro.css';
 import '../../css/l/li08e_y6g.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="dailtsmvb"/><path class="uw_f3e0nw"/><path class="jdkg2b8su"/><path class="i2afqdhro"/><path class="li08e_y6g"/><path class="kdceb2bpp"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="g9uxcsbqh"/><path class="rcgoqzxit"/><path class="jdkg2b8su"/><path class="i2afqdhro"/><path class="li08e_y6g"/><path class="kdceb2bpp"/></g>`,
 		"fallback": "solar:gamepad-linear",
 	});
 }

@@ -7,8 +7,8 @@ import '../../css/w/w357jhe3h.css';
 import '../../css/z/z9zrhebnw.css';
 import '../../css/e/e3zt21b_v.css';
 import '../../css/r/rkninmigh.css';
-import '../../css/x/xsiuj2djm.css';
-import '../../css/b/bjkn8_l3w.css';
+import '../../css/e/e7nd9xo4l.css';
+import '../../css/u/uv3603bjt.css';
 import '../../css/m/mxjwe0bkt.css';
 import '../../css/r/rrznc8wdy.css';
 
@@ -21,7 +21,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="nnqe3zbef"/><path class="xb8ndmbir"/><path class="w357jhe3h"/><path class="z9zrhebnw"/><path class="e3zt21b_v"/><path class="rkninmigh"/><path class="xsiuj2djm"/><path class="bjkn8_l3w"/><path class="mxjwe0bkt"/><path class="rrznc8wdy"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="nnqe3zbef"/><path class="xb8ndmbir"/><path class="w357jhe3h"/><path class="z9zrhebnw"/><path class="e3zt21b_v"/><path class="rkninmigh"/><path class="e7nd9xo4l"/><path class="uv3603bjt"/><path class="mxjwe0bkt"/><path class="rrznc8wdy"/></g>`,
 		"fallback": "solar:video-frame-replace-broken",
 	});
 }

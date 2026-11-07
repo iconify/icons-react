@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/j/jjjn3kmcu.css';
-import '../../css/d/d465v9bll.css';
-import '../../css/v/vbc8ai-qb.css';
-import '../../css/t/tpnfn4b2j.css';
-import '../../css/a/ap2s0m7in.css';
+import '../../css/f/fa1hqydsf.css';
+import '../../css/u/uy-sggl9k.css';
+import '../../css/r/rers1paxa.css';
+import '../../css/a/aui-jmtcx.css';
+import '../../css/u/uv4oycn3f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="jjjn3kmcu"/><path class="d465v9bll"/><path class="vbc8ai-qb"/><path class="tpnfn4b2j"/><path class="ap2s0m7in"/></g>`,
+		"content": `<path clip-rule="evenodd" class="fa1hqydsf"/><path class="uy-sggl9k"/><path class="rers1paxa"/><path class="aui-jmtcx"/><path class="uv4oycn3f"/>`,
 		"fallback": "solar:gamepad-outline",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/w/wf89k6buf.css';
-import '../../css/j/jrhkmqbue.css';
-import '../../css/i/ie_r_ccsv.css';
-import '../../css/o/om98qib7x.css';
+import '../../css/d/dm03gzbnp.css';
+import '../../css/f/fvqbw8bkl.css';
+import '../../css/h/hcarscc_v.css';
+import '../../css/l/lo9yp3b5r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="wf89k6buf"/><path class="jrhkmqbue"/><path class="ie_r_ccsv"/><path class="om98qib7x"/></g>`,
+		"content": `<path class="dm03gzbnp"/><path class="fvqbw8bkl"/><path class="hcarscc_v"/><path class="lo9yp3b5r"/>`,
 		"fallback": "solar:send-twice-square-bold-duotone",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tmpk6d91t.css';
+import '../../css/g/g_7x2mgym.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="tmpk6d91t"/>`,
+		"content": `<path clip-rule="evenodd" class="g_7x2mgym"/>`,
 		"fallback": "solar:waterdrops-outline",
 	});
 }

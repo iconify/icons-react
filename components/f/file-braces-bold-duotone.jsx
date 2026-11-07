@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/d/dobl-nbbl.css';
-import '../../css/d/ddipbdbdu.css';
-import '../../css/w/w083gzbra.css';
-import '../../css/y/ya_55rppu.css';
+import '../../css/j/jav_zgbsf.css';
+import '../../css/l/l3981gogh.css';
+import '../../css/u/ubn_7xb7s.css';
+import '../../css/o/oj6gwrmjs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="dobl-nbbl"/><path class="ddipbdbdu"/><path class="w083gzbra"/><path clip-rule="evenodd" class="ya_55rppu"/></g>`,
+		"content": `<path class="jav_zgbsf"/><path class="l3981gogh"/><path class="ubn_7xb7s"/><path clip-rule="evenodd" class="oj6gwrmjs"/>`,
 		"fallback": "solar:file-braces-bold-duotone",
 	});
 }

@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/r/rxzy99kos.css';
-import '../../css/n/nphvxqb8a.css';
-import '../../css/k/k7c0ktjdy.css';
+import '../../css/m/m2t55rbji.css';
+import '../../css/n/nxq0bqbft.css';
+import '../../css/d/d99hl0bou.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="rxzy99kos"/><path class="nphvxqb8a"/><path class="k7c0ktjdy"/></g>`,
+		"content": `<path class="m2t55rbji"/><path class="nxq0bqbft"/><path class="d99hl0bou"/>`,
 		"fallback": "solar:phone-calling-bold",
 	});
 }

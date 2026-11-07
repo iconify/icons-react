@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/w/wzp5fdcdn.css';
+import '../../css/l/l6je6yl3m.css';
 import '../../css/z/z9foj0s3t.css';
 import '../../css/r/r1arkdbrf.css';
 import '../../css/d/dmlvqrbvi.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="wzp5fdcdn"/><path class="z9foj0s3t"/><path class="r1arkdbrf"/><path class="dmlvqrbvi"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="l6je6yl3m"/><path class="z9foj0s3t"/><path class="r1arkdbrf"/><path class="dmlvqrbvi"/></g>`,
 		"fallback": "solar:ticket-sale-line-duotone",
 	});
 }

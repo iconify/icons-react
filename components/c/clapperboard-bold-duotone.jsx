@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/z/z5z4rnbzy.css';
-import '../../css/h/h1ftphbzx.css';
-import '../../css/v/vai_yebix.css';
-import '../../css/u/up558kbnc.css';
+import '../../css/r/rykq8yo8d.css';
+import '../../css/u/u-vlijawj.css';
+import '../../css/a/at9l3acdr.css';
+import '../../css/s/s78ywflqo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="z5z4rnbzy"/><path class="h1ftphbzx"/><path class="vai_yebix"/><path class="up558kbnc"/></g>`,
+		"content": `<path class="rykq8yo8d"/><path class="u-vlijawj"/><path class="at9l3acdr"/><path class="s78ywflqo"/>`,
 		"fallback": "solar:clapperboard-bold-duotone",
 	});
 }

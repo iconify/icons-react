@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/y/yubjjdbth.css';
 import '../../css/c/c7zikwrvh.css';
-import '../../css/x/xzg6x68cp.css';
+import '../../css/r/r3ky14b5u.css';
 import '../../css/x/xc_fo9bdv.css';
 import '../../css/f/f26ggybga.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="yubjjdbth"/><path class="c7zikwrvh"/><path class="xzg6x68cp"/><path class="xc_fo9bdv"/><path class="f26ggybga"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="yubjjdbth"/><path class="c7zikwrvh"/><path class="r3ky14b5u"/><path class="xc_fo9bdv"/><path class="f26ggybga"/></g>`,
 		"fallback": "solar:fridge-broken",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/a/acg8t5b_l.css';
-import '../../css/a/ay1qmvbxn.css';
-import '../../css/a/a5du-9wed.css';
-import '../../css/q/q6hj83b4a.css';
+import '../../css/y/y7ilcxb3j.css';
+import '../../css/p/prq9nybvi.css';
+import '../../css/e/exlutqbvg.css';
+import '../../css/s/s64hpnbks.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="acg8t5b_l"/><path class="ay1qmvbxn"/><path class="a5du-9wed"/><path clip-rule="evenodd" class="q6hj83b4a"/></g>`,
+		"content": `<path class="y7ilcxb3j"/><path class="prq9nybvi"/><path class="exlutqbvg"/><path clip-rule="evenodd" class="s64hpnbks"/>`,
 		"fallback": "solar:lock-password-outline",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/c/c6c8p323p.css';
+import '../../css/o/owk7uzbux.css';
 import '../../css/q/qs19yjd_r.css';
 import '../../css/f/f-gpm8wwx.css';
 import '../../css/y/ygnnld57d.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="c6c8p323p"/><path class="qs19yjd_r"/><path class="f-gpm8wwx"/><path class="ygnnld57d"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="owk7uzbux"/><path class="qs19yjd_r"/><path class="f-gpm8wwx"/><path class="ygnnld57d"/></g>`,
 		"fallback": "solar:star-fall-minimalistic-2-broken",
 	});
 }

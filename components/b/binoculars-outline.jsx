@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/t/ts2yfi-uz.css';
-import '../../css/y/yfow2i79k.css';
-import '../../css/z/zi08dczyn.css';
-import '../../css/s/srroxvbkj.css';
-import '../../css/k/kypcbukjr.css';
+import '../../css/x/xk9skhkui.css';
+import '../../css/q/qqlpehxim.css';
+import '../../css/f/fe61ukfco.css';
+import '../../css/m/mdfdrlbhr.css';
+import '../../css/b/bsmairrif.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="ts2yfi-uz"/><path class="yfow2i79k"/><path class="zi08dczyn"/><path class="srroxvbkj"/><path class="kypcbukjr"/></g>`,
+		"content": `<path class="xk9skhkui"/><path class="qqlpehxim"/><path class="fe61ukfco"/><path class="mdfdrlbhr"/><path class="bsmairrif"/>`,
 		"fallback": "solar:binoculars-outline",
 	});
 }

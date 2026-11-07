@@ -5,7 +5,7 @@ import '../../css/q/qchw1hbjq.css';
 import '../../css/h/hl5jo5b4t.css';
 import '../../css/b/b-v3dtbhs.css';
 import '../../css/f/fc4f7w-7u.css';
-import '../../css/p/pwo3r4bdl.css';
+import '../../css/d/dlp9kybon.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="qchw1hbjq"/><path class="hl5jo5b4t"/><circle class="b-v3dtbhs"/><path class="fc4f7w-7u"/><path class="pwo3r4bdl"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="qchw1hbjq"/><path class="hl5jo5b4t"/><circle class="b-v3dtbhs"/><path class="fc4f7w-7u"/><path class="dlp9kybon"/></g>`,
 		"fallback": "solar:turntable-music-note-linear",
 	});
 }

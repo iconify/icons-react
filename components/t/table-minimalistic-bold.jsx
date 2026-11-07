@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/s/scfobobol.css';
-import '../../css/q/q2cxxmbaq.css';
-import '../../css/i/iz_17cc_j.css';
-import '../../css/h/h3rm8q4za.css';
+import '../../css/n/n3lzwvbgs.css';
+import '../../css/l/lcfo8_bek.css';
+import '../../css/t/tiy7a-vsh.css';
+import '../../css/n/n-k1pzbhc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="scfobobol"/><path class="q2cxxmbaq"/><path class="iz_17cc_j"/><path class="h3rm8q4za"/></g>`,
+		"content": `<path class="n3lzwvbgs"/><path class="lcfo8_bek"/><path class="tiy7a-vsh"/><path class="n-k1pzbhc"/>`,
 		"fallback": "solar:table-minimalistic-bold",
 	});
 }

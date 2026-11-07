@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/o/o84h6803r.css';
+import '../../css/u/ubpbu9mrb.css';
 import '../../css/t/t1in8db2h.css';
 import '../../css/s/s41he0bba.css';
 import '../../css/m/m-5zcvb8c.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="o84h6803r"/><path class="t1in8db2h"/><path class="s41he0bba"/><path class="m-5zcvb8c"/></g>`,
+		"content": `<g class="hntgybcog"><path class="ubpbu9mrb"/><path class="t1in8db2h"/><path class="s41he0bba"/><path class="m-5zcvb8c"/></g>`,
 		"fallback": "solar:hashtag-broken",
 	});
 }

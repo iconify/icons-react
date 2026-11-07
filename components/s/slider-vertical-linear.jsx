@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/v/v8oc18bcm.css';
+import '../../css/w/w42vh2b3z.css';
 import '../../css/u/u4slpgvma.css';
 import '../../css/h/h10et9qty.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="v8oc18bcm"/><path class="u4slpgvma"/><path class="h10et9qty"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="w42vh2b3z"/><path class="u4slpgvma"/><path class="h10et9qty"/></g>`,
 		"fallback": "solar:slider-vertical-linear",
 	});
 }

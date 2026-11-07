@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/p/pw8f5c0fp.css';
+import '../../css/x/xvjk-cbox.css';
 import '../../css/v/vlfpssodi.css';
 import '../../css/n/np1e_hbeg.css';
 import '../../css/r/rzs0jlbll.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="pw8f5c0fp"/><circle class="vlfpssodi"/><circle transform="matrix(1 0 0 -1 14 16)" class="np1e_hbeg"/><path class="rzs0jlbll"/><path class="mg0h9nblz"/><path class="h1zzhq-sp"/><path class="eb7txqbka"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="xvjk-cbox"/><circle class="vlfpssodi"/><circle transform="matrix(1 0 0 -1 14 16)" class="np1e_hbeg"/><path class="rzs0jlbll"/><path class="mg0h9nblz"/><path class="h1zzhq-sp"/><path class="eb7txqbka"/></g>`,
 		"fallback": "solar:tuning-square-linear",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dbnbyk57b.css';
+import '../../css/t/tubsznbml.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="dbnbyk57b"/>`,
+		"content": `<path clip-rule="evenodd" class="tubsznbml"/>`,
 		"fallback": "solar:compass-big-outline",
 	});
 }

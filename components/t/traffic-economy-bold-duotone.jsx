@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/lxnzn9nmw.css';
-import '../../css/m/mee3cb-6s.css';
-import '../../css/m/mi29unbna.css';
-import '../../css/q/qzg6_gw1h.css';
+import '../../css/p/pv_hji6de.css';
+import '../../css/r/rhb1k3bmi.css';
+import '../../css/i/il6nib2-h.css';
+import '../../css/h/hz9qwn3kr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="lxnzn9nmw"/><path class="mee3cb-6s"/><path class="mi29unbna"/><path class="qzg6_gw1h"/></g>`,
+		"content": `<path class="pv_hji6de"/><path class="rhb1k3bmi"/><path class="il6nib2-h"/><path class="hz9qwn3kr"/>`,
 		"fallback": "solar:traffic-economy-bold-duotone",
 	});
 }

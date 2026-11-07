@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/y/yp54sytzi.css';
-import '../../css/z/ze0it41ch.css';
-import '../../css/d/dlhjmks0h.css';
-import '../../css/m/mn5pwmbkh.css';
-import '../../css/f/f3i-0ybst.css';
+import '../../css/r/rnb90nbxf.css';
+import '../../css/z/z__w_6-jn.css';
+import '../../css/w/wji_d3v3x.css';
+import '../../css/k/k7cui-bhf.css';
+import '../../css/c/c2mpd8rak.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="yp54sytzi"/><path class="ze0it41ch"/><path class="dlhjmks0h"/><path class="mn5pwmbkh"/><path class="f3i-0ybst"/></g>`,
+		"content": `<path class="rnb90nbxf"/><path class="z__w_6-jn"/><path class="wji_d3v3x"/><path class="k7cui-bhf"/><path class="c2mpd8rak"/>`,
 		"fallback": "solar:full-screen-circle-bold-duotone",
 	});
 }

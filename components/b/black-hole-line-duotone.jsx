@@ -4,10 +4,10 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/h_tsn8bxt.css';
 import '../../css/t/tw30_ubet.css';
 import '../../css/y/yic1xvbbc.css';
-import '../../css/n/n2rgnzbdk.css';
-import '../../css/l/l7b8af3ua.css';
-import '../../css/p/pa83sp_rf.css';
-import '../../css/r/r1zj8kajd.css';
+import '../../css/x/x5ttklskq.css';
+import '../../css/k/kvbvjnede.css';
+import '../../css/z/zcj-q1b3f.css';
+import '../../css/n/n2es1nbuz.css';
 import '../../css/h/hhi9k4bqd.css';
 import '../../css/s/s8xjouf5y.css';
 
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="h_tsn8bxt"/><path class="tw30_ubet"/><path class="yic1xvbbc"/><path class="n2rgnzbdk"/><path class="l7b8af3ua"/><path class="pa83sp_rf"/><path class="r1zj8kajd"/><path class="hhi9k4bqd"/><path class="s8xjouf5y"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="h_tsn8bxt"/><path class="tw30_ubet"/><path class="yic1xvbbc"/><path class="x5ttklskq"/><path class="kvbvjnede"/><path class="zcj-q1b3f"/><path class="n2es1nbuz"/><path class="hhi9k4bqd"/><path class="s8xjouf5y"/></g>`,
 		"fallback": "solar:black-hole-line-duotone",
 	});
 }

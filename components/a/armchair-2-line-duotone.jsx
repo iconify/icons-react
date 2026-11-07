@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/z/zpurlkajd.css';
+import '../../css/d/d5qib_b7x.css';
 import '../../css/z/z-47jyb-q.css';
 import '../../css/p/ppy_pacey.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="zpurlkajd"/><path class="z-47jyb-q"/><path class="ppy_pacey"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="d5qib_b7x"/><path class="z-47jyb-q"/><path class="ppy_pacey"/></g>`,
 		"fallback": "solar:armchair-2-line-duotone",
 	});
 }

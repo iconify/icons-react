@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/n/nz1r1-7zw.css';
-import '../../css/k/kd9ir2bxz.css';
-import '../../css/v/vf2fkdbdj.css';
-import '../../css/y/ywug-xbfx.css';
-import '../../css/g/g4k3_gmmq.css';
-import '../../css/p/p0o6awb_m.css';
+import '../../css/q/q33ngubua.css';
+import '../../css/i/i2chtjarf.css';
+import '../../css/r/rdhphbcfw.css';
+import '../../css/u/upn7tpbmc.css';
+import '../../css/b/bjnn66bdm.css';
+import '../../css/r/r1d2zdbnd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="nz1r1-7zw"/><path clip-rule="evenodd" class="kd9ir2bxz"/><path class="vf2fkdbdj"/><path clip-rule="evenodd" class="ywug-xbfx"/><path class="g4k3_gmmq"/><path class="p0o6awb_m"/></g>`,
+		"content": `<path class="q33ngubua"/><path clip-rule="evenodd" class="i2chtjarf"/><path class="rdhphbcfw"/><path clip-rule="evenodd" class="upn7tpbmc"/><path class="bjnn66bdm"/><path class="r1d2zdbnd"/>`,
 		"fallback": "solar:wi-fi-router-round-outline",
 	});
 }

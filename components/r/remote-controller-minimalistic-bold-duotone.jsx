@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/c/c37wdnbmk.css';
-import '../../css/p/ptysxtpiv.css';
-import '../../css/t/tkjj65bgw.css';
-import '../../css/u/u75qqq5xn.css';
+import '../../css/b/be24kjn_m.css';
+import '../../css/e/erff_3del.css';
+import '../../css/y/yrcey2bdn.css';
+import '../../css/b/biqv3ubbx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="c37wdnbmk"/><path class="ptysxtpiv"/><path class="tkjj65bgw"/><path clip-rule="evenodd" class="u75qqq5xn"/></g>`,
+		"content": `<path class="be24kjn_m"/><path class="erff_3del"/><path class="yrcey2bdn"/><path clip-rule="evenodd" class="biqv3ubbx"/>`,
 		"fallback": "solar:remote-controller-minimalistic-bold-duotone",
 	});
 }

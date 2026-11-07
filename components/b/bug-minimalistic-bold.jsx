@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zcq5--p3z.css';
+import '../../css/d/dkonzhevj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="zcq5--p3z"/>`,
+		"content": `<path clip-rule="evenodd" class="dkonzhevj"/>`,
 		"fallback": "solar:bug-minimalistic-bold",
 	});
 }

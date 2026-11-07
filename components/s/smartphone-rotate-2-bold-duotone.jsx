@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/x/xhpq4nbqp.css';
-import '../../css/n/nhq5y_tpi.css';
-import '../../css/s/s_qu5fbwl.css';
-import '../../css/s/s9mcwnbry.css';
-import '../../css/g/gjq4tncsr.css';
+import '../../css/m/mytqe3brx.css';
+import '../../css/q/q4cd927lm.css';
+import '../../css/e/e3ailubbm.css';
+import '../../css/g/g_c-r1l6i.css';
+import '../../css/i/ijj9ljbbz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="xhpq4nbqp"/><path class="nhq5y_tpi"/><path class="s_qu5fbwl"/><path class="s9mcwnbry"/><path class="gjq4tncsr"/></g>`,
+		"content": `<path class="mytqe3brx"/><path class="q4cd927lm"/><path class="e3ailubbm"/><path class="g_c-r1l6i"/><path class="ijj9ljbbz"/>`,
 		"fallback": "solar:smartphone-rotate-2-bold-duotone",
 	});
 }

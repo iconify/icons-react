@@ -8,7 +8,7 @@ import '../../css/r/rsris_b3l.css';
 import '../../css/c/ctg14gobl.css';
 import '../../css/r/romdoeucp.css';
 import '../../css/e/egqyezb9p.css';
-import '../../css/c/ckxs0qo7z.css';
+import '../../css/u/upr0i9feh.css';
 import '../../css/n/nzvwhdb2q.css';
 
 const viewBox = {"width":24,"height":24};
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="amgqiybcj"/><path class="w3a7pgbtx"/><path class="m2q7v_gjq"/><path class="rsris_b3l"/><path class="ctg14gobl"/><path class="romdoeucp"/><path class="egqyezb9p"/><path class="ckxs0qo7z"/><path class="nzvwhdb2q"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="amgqiybcj"/><path class="w3a7pgbtx"/><path class="m2q7v_gjq"/><path class="rsris_b3l"/><path class="ctg14gobl"/><path class="romdoeucp"/><path class="egqyezb9p"/><path class="upr0i9feh"/><path class="nzvwhdb2q"/></g>`,
 		"fallback": "solar:speedometer-low-broken",
 	});
 }

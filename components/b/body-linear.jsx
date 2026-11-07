@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o-sxvv4kb.css';
+import '../../css/b/bcwkts_fc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o-sxvv4kb"/>`,
+		"content": `<path class="bcwkts_fc"/>`,
 		"fallback": "solar:body-linear",
 	});
 }

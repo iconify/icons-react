@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/j/j9xou-p3f.css';
-import '../../css/x/x3hcu31em.css';
-import '../../css/z/zcb8pub_i.css';
-import '../../css/p/paaftfbeg.css';
+import '../../css/b/b8cq6cc5u.css';
+import '../../css/m/mjdmcab3w.css';
+import '../../css/t/tq7go-bpr.css';
+import '../../css/d/dld29ukqd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="j9xou-p3f"/><path class="x3hcu31em"/><path class="zcb8pub_i"/><path class="paaftfbeg"/></g>`,
+		"content": `<path class="b8cq6cc5u"/><path class="mjdmcab3w"/><path class="tq7go-bpr"/><path class="dld29ukqd"/>`,
 		"fallback": "solar:point-on-map-perspective-bold",
 	});
 }

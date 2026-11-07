@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/v/vqwzm--dk.css';
-import '../../css/j/jhedrgtgd.css';
-import '../../css/a/add3vybaj.css';
-import '../../css/s/sg2ufph9x.css';
+import '../../css/j/jwm94h7db.css';
+import '../../css/p/pmxdqdbac.css';
+import '../../css/p/p78phac9m.css';
+import '../../css/q/q9c6evmhl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="vqwzm--dk"/><path class="jhedrgtgd"/><path class="add3vybaj"/><path class="sg2ufph9x"/></g>`,
+		"content": `<path class="jwm94h7db"/><path class="pmxdqdbac"/><path class="p78phac9m"/><path class="q9c6evmhl"/>`,
 		"fallback": "solar:trash-bin-minimalistic-bold-duotone",
 	});
 }

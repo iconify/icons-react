@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/e/ed_lewb2r.css';
-import '../../css/q/qbd-flbjx.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/f/f123j2cib.css';
+import '../../css/k/k5qmsq3ta.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/x/xfbm2hbzi.css';
 import '../../css/k/klsiukb5q.css';
 import '../../css/j/jm0-70jfx.css';
@@ -18,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="ed_lewb2r"/><path clip-rule="evenodd" class="qbd-flbjx"/><g class="mc2zb0bvp"><path class="xfbm2hbzi"/><path class="klsiukb5q"/><path class="jm0-70jfx"/><path class="y2wcldbxm"/></g></g>`,
+		"content": `<path clip-rule="evenodd" class="f123j2cib"/><path clip-rule="evenodd" class="k5qmsq3ta"/><g class="xtpeb-edw"><path class="xfbm2hbzi"/><path class="klsiukb5q"/><path class="jm0-70jfx"/><path class="y2wcldbxm"/></g>`,
 		"fallback": "solar:rocket-2-bold-duotone",
 	});
 }

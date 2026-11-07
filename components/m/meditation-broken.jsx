@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/v/v6pzvpfzc.css';
 import '../../css/b/bb09eobfs.css';
-import '../../css/z/z8-m9_8kc.css';
+import '../../css/g/grnd_qbjx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="v6pzvpfzc"/><path class="bb09eobfs"/><path class="z8-m9_8kc"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="v6pzvpfzc"/><path class="bb09eobfs"/><path class="grnd_qbjx"/></g>`,
 		"fallback": "solar:meditation-broken",
 	});
 }

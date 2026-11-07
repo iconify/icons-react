@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/l/loam-qbtt.css';
+import '../../css/m/m4dmr2b-x.css';
 import '../../css/t/tnfby2q5d.css';
 import '../../css/p/pu97ujszu.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="loam-qbtt"/><path class="tnfby2q5d"/><path class="pu97ujszu"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="m4dmr2b-x"/><path class="tnfby2q5d"/><path class="pu97ujszu"/></g>`,
 		"fallback": "solar:battery-charge-minimalistic-line-duotone",
 	});
 }

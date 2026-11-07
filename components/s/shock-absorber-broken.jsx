@@ -2,10 +2,10 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/u/uqdxll9yb.css';
-import '../../css/z/zwrcacc7r.css';
-import '../../css/u/uuw3albgv.css';
-import '../../css/t/t6qa3zbzk.css';
-import '../../css/q/q6bi98b2x.css';
+import '../../css/i/i4zzprb-l.css';
+import '../../css/u/uxgpkm7fp.css';
+import '../../css/u/unnk4bcsi.css';
+import '../../css/r/r5zc3xnto.css';
 import '../../css/q/q93n-7bsi.css';
 import '../../css/f/ff84znarb.css';
 
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="uqdxll9yb"/><path class="zwrcacc7r"/><path class="uuw3albgv"/><path class="t6qa3zbzk"/><path class="q6bi98b2x"/><path class="q93n-7bsi"/><path class="ff84znarb"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="uqdxll9yb"/><path class="i4zzprb-l"/><path class="uxgpkm7fp"/><path class="unnk4bcsi"/><path class="r5zc3xnto"/><path class="q93n-7bsi"/><path class="ff84znarb"/></g>`,
 		"fallback": "solar:shock-absorber-broken",
 	});
 }

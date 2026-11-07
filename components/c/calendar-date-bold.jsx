@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/s/s8zvn4tvb.css';
-import '../../css/w/wuk2klb_e.css';
+import '../../css/e/e_29zdb8m.css';
+import '../../css/o/o_-k6sb8v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="s8zvn4tvb"/><path clip-rule="evenodd" class="wuk2klb_e"/></g>`,
+		"content": `<path class="e_29zdb8m"/><path clip-rule="evenodd" class="o_-k6sb8v"/>`,
 		"fallback": "solar:calendar-date-bold",
 	});
 }

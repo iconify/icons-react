@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/t/tj3yekbmt.css';
-import '../../css/d/delqogbvb.css';
-import '../../css/l/l528qjbtl.css';
+import '../../css/a/a9udybb1v.css';
+import '../../css/g/gv79s0s8x.css';
+import '../../css/w/wjzx4sbsg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="tj3yekbmt"/><path class="delqogbvb"/><path class="l528qjbtl"/></g>`,
+		"content": `<path class="a9udybb1v"/><path class="gv79s0s8x"/><path class="wjzx4sbsg"/>`,
 		"fallback": "solar:chef-hat-heart-bold-duotone",
 	});
 }

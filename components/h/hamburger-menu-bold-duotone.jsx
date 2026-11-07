@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/l/lxnzn9nmw.css';
-import '../../css/f/fcqvb8bsm.css';
-import '../../css/d/d1fm_b5bb.css';
-import '../../css/l/lty7dabjq.css';
+import '../../css/p/pv_hji6de.css';
+import '../../css/e/eaqdpdd8a.css';
+import '../../css/w/w1dl0yq1m.css';
+import '../../css/p/pbvw0j5wl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="lxnzn9nmw"/><path class="fcqvb8bsm"/><path class="d1fm_b5bb"/><path class="lty7dabjq"/></g>`,
+		"content": `<path class="pv_hji6de"/><path class="eaqdpdd8a"/><path class="w1dl0yq1m"/><path class="pbvw0j5wl"/>`,
 		"fallback": "solar:hamburger-menu-bold-duotone",
 	});
 }

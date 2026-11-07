@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fyopwhbql.css';
+import '../../css/l/lf_73mb9h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fyopwhbql"/>`,
+		"content": `<path class="lf_73mb9h"/>`,
 		"fallback": "solar:star-angle-linear",
 	});
 }

@@ -4,7 +4,7 @@ import '../../css/i/ipq1z-bjh.css';
 import '../../css/p/p3-348ccq.css';
 import '../../css/g/gszbesbvo.css';
 import '../../css/j/jvpt20bzs.css';
-import '../../css/x/xtsqy_b-v.css';
+import '../../css/h/hlz_d0lwp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="p3-348ccq"/><path class="gszbesbvo"/><path class="jvpt20bzs"/><path class="xtsqy_b-v"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="p3-348ccq"/><path class="gszbesbvo"/><path class="jvpt20bzs"/><path class="hlz_d0lwp"/></g>`,
 		"fallback": "solar:share-circle-broken",
 	});
 }

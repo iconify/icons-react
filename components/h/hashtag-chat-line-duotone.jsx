@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/h/hwcfj9bbi.css';
-import '../../css/z/zge0robxs.css';
+import '../../css/k/kcsjbybcu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="hwcfj9bbi"/><path class="zge0robxs"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="hwcfj9bbi"/><path class="kcsjbybcu"/></g>`,
 		"fallback": "solar:hashtag-chat-line-duotone",
 	});
 }

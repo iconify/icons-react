@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/g/gwrrgdbrw.css';
-import '../../css/z/zr8q-slph.css';
-import '../../css/q/q52lk8fxx.css';
-import '../../css/j/j8wurj_cw.css';
+import '../../css/b/b79n94itr.css';
+import '../../css/o/oozdlvhnc.css';
+import '../../css/p/poha9717f.css';
+import '../../css/u/u0-f0qbaf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="gwrrgdbrw"/><path class="zr8q-slph"/><path class="q52lk8fxx"/><path class="j8wurj_cw"/></g>`,
+		"content": `<path class="b79n94itr"/><path class="oozdlvhnc"/><path class="poha9717f"/><path class="u0-f0qbaf"/>`,
 		"fallback": "solar:smart-home-outline",
 	});
 }

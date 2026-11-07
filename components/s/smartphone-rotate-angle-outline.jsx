@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/t/t0qbvbbpp.css';
-import '../../css/p/ptivnxbln.css';
-import '../../css/n/ni-v5m_ht.css';
-import '../../css/x/xbiwgcb4g.css';
+import '../../css/n/ny3ppybwj.css';
+import '../../css/q/qbpj05spk.css';
+import '../../css/u/u27z1kbcm.css';
+import '../../css/n/ndm5459jr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="t0qbvbbpp"/><path class="ptivnxbln"/><path class="ni-v5m_ht"/><path class="xbiwgcb4g"/></g>`,
+		"content": `<path class="ny3ppybwj"/><path class="qbpj05spk"/><path class="u27z1kbcm"/><path class="ndm5459jr"/>`,
 		"fallback": "solar:smartphone-rotate-angle-outline",
 	});
 }

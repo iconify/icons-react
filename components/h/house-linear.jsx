@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/x/xpzbxokqs.css';
-import '../../css/r/ri8dfobqd.css';
+import '../../css/j/jge_j1bmb.css';
 import '../../css/c/cugumcbbj.css';
 import '../../css/q/qmsms8bjm.css';
 import '../../css/z/z5zog32ca.css';
@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="xpzbxokqs"/><path class="ri8dfobqd"/><path class="cugumcbbj"/><path class="qmsms8bjm"/><path class="z5zog32ca"/><path class="i-2prw66f"/><path class="mzdmjcc3w"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="xpzbxokqs"/><path class="jge_j1bmb"/><path class="cugumcbbj"/><path class="qmsms8bjm"/><path class="z5zog32ca"/><path class="i-2prw66f"/><path class="mzdmjcc3w"/></g>`,
 		"fallback": "solar:house-linear",
 	});
 }

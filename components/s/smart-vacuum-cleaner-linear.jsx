@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/g/gshkn9qqt.css';
 import '../../css/s/srug0hb7t.css';
-import '../../css/x/xme672xeh.css';
+import '../../css/m/mcgaswbyw.css';
 import '../../css/v/vnda1s8vz.css';
 import '../../css/x/xv6kuw8hw.css';
 import '../../css/o/oxdhi_ktu.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="gshkn9qqt"/><path class="srug0hb7t"/><path class="xme672xeh"/><path class="vnda1s8vz"/><path class="xv6kuw8hw"/><path class="oxdhi_ktu"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="gshkn9qqt"/><path class="srug0hb7t"/><path class="mcgaswbyw"/><path class="vnda1s8vz"/><path class="xv6kuw8hw"/><path class="oxdhi_ktu"/></g>`,
 		"fallback": "solar:smart-vacuum-cleaner-linear",
 	});
 }

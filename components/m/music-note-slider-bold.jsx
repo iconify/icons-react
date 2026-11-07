@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/h/hu6to_bep.css';
-import '../../css/r/ruu0kd3pu.css';
-import '../../css/t/tlj01bb8r.css';
-import '../../css/e/eic0jabeh.css';
+import '../../css/s/s4x-dibbg.css';
+import '../../css/p/pjg7f5xap.css';
+import '../../css/q/qz1qozbrv.css';
+import '../../css/u/uomfvrbmu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="hu6to_bep"/><path clip-rule="evenodd" class="ruu0kd3pu"/><path class="tlj01bb8r"/><path class="eic0jabeh"/></g>`,
+		"content": `<path class="s4x-dibbg"/><path clip-rule="evenodd" class="pjg7f5xap"/><path class="qz1qozbrv"/><path class="uomfvrbmu"/>`,
 		"fallback": "solar:music-note-slider-bold",
 	});
 }

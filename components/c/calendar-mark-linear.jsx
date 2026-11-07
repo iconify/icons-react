@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/i/i9a7o5iov.css';
+import '../../css/q/qpizk3b2i.css';
 import '../../css/y/ytwl2ebtc.css';
 import '../../css/r/rmwzjebkv.css';
 import '../../css/w/w7vm2wbzu.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="i9a7o5iov"/><path class="ytwl2ebtc"/><path class="rmwzjebkv"/><circle class="w7vm2wbzu"/><path class="ou-u7bcws"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="qpizk3b2i"/><path class="ytwl2ebtc"/><path class="rmwzjebkv"/><circle class="w7vm2wbzu"/><path class="ou-u7bcws"/></g>`,
 		"fallback": "solar:calendar-mark-linear",
 	});
 }

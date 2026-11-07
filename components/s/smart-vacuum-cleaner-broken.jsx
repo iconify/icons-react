@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/u/u-d0by1uv.css';
+import '../../css/m/m7ukxtbvq.css';
 import '../../css/x/xv6kuw8hw.css';
 import '../../css/k/ko6o-6b9b.css';
 import '../../css/x/xme672xeh.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="u-d0by1uv"/><path class="xv6kuw8hw"/><path class="ko6o-6b9b"/><path class="xme672xeh"/><path class="vnda1s8vz"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="m7ukxtbvq"/><path class="xv6kuw8hw"/><path class="ko6o-6b9b"/><path class="xme672xeh"/><path class="vnda1s8vz"/></g>`,
 		"fallback": "solar:smart-vacuum-cleaner-broken",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/s/scxofjblt.css';
+import '../../css/n/nbf8hob_w.css';
 import '../../css/g/gp0egaclj.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="scxofjblt"/><circle class="gp0egaclj"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="nbf8hob_w"/><circle class="gp0egaclj"/></g>`,
 		"fallback": "solar:compass-big-line-duotone",
 	});
 }

@@ -5,7 +5,7 @@ import '../../css/y/yfy6f9w0h.css';
 import '../../css/n/n2n5mdbxv.css';
 import '../../css/j/jc6p41bkk.css';
 import '../../css/w/wu-2fgbxv.css';
-import '../../css/l/lgb5zeffk.css';
+import '../../css/m/mu61m4a9t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="yfy6f9w0h"/><path class="n2n5mdbxv"/><path class="jc6p41bkk"/><path class="wu-2fgbxv"/><path class="lgb5zeffk"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="yfy6f9w0h"/><path class="n2n5mdbxv"/><path class="jc6p41bkk"/><path class="wu-2fgbxv"/><path class="mu61m4a9t"/></g>`,
 		"fallback": "solar:gas-station-line-duotone",
 	});
 }

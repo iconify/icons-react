@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v3fbu37eb.css';
+import '../../css/p/pbilndayv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="v3fbu37eb"/>`,
+		"content": `<path clip-rule="evenodd" class="pbilndayv"/>`,
 		"fallback": "solar:table-cells-split-outline",
 	});
 }

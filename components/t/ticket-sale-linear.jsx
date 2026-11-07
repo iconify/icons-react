@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/c/c6_oytiam.css';
+import '../../css/k/kodjqtc_d.css';
 import '../../css/z/z9foj0s3t.css';
 import '../../css/r/r1arkdbrf.css';
 import '../../css/d/dmlvqrbvi.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="c6_oytiam"/><path class="z9foj0s3t"/><path class="r1arkdbrf"/><path class="dmlvqrbvi"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="kodjqtc_d"/><path class="z9foj0s3t"/><path class="r1arkdbrf"/><path class="dmlvqrbvi"/></g>`,
 		"fallback": "solar:ticket-sale-linear",
 	});
 }

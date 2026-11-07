@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tqwdy-btf.css';
+import '../../css/z/z80y61beu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tqwdy-btf"/>`,
+		"content": `<path class="z80y61beu"/>`,
 		"fallback": "solar:paperclip-broken",
 	});
 }

@@ -5,7 +5,7 @@ import '../../css/f/fh6a-dbrt.css';
 import '../../css/u/u8po8xbhj.css';
 import '../../css/p/p2-mbsbue.css';
 import '../../css/w/w8w5t9ikw.css';
-import '../../css/o/o628czf4s.css';
+import '../../css/y/y1yk9n5ra.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="fh6a-dbrt"/><path class="u8po8xbhj"/><path class="p2-mbsbue"/><path class="w8w5t9ikw"/><path class="o628czf4s"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="fh6a-dbrt"/><path class="u8po8xbhj"/><path class="p2-mbsbue"/><path class="w8w5t9ikw"/><path class="y1yk9n5ra"/></g>`,
 		"fallback": "solar:trash-bin-trash-linear",
 	});
 }

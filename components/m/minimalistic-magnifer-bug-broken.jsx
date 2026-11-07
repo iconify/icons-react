@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/i/ig7l8tpsj.css';
+import '../../css/s/swrlsub8n.css';
 import '../../css/m/mj_6ev9oe.css';
 import '../../css/x/x09loybdy.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="ig7l8tpsj"/><path class="mj_6ev9oe"/><path class="x09loybdy"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="swrlsub8n"/><path class="mj_6ev9oe"/><path class="x09loybdy"/></g>`,
 		"fallback": "solar:minimalistic-magnifer-bug-broken",
 	});
 }

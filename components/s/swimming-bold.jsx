@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/f/fxf_y46er.css';
-import '../../css/q/q-ysljqry.css';
-import '../../css/x/xyl_j6bra.css';
+import '../../css/s/s6-bybb5v.css';
+import '../../css/j/jfhqsv3mp.css';
+import '../../css/q/qddp9ybsf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path clip-rule="evenodd" class="fxf_y46er"/><path class="q-ysljqry"/><path class="xyl_j6bra"/></g>`,
+		"content": `<path clip-rule="evenodd" class="s6-bybb5v"/><path class="jfhqsv3mp"/><path class="qddp9ybsf"/>`,
 		"fallback": "solar:swimming-bold",
 	});
 }

@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/s/smtanqb6k.css';
-import '../../css/q/q536y2b8e.css';
-import '../../css/a/avshsaceu.css';
-import '../../css/y/yzavun0dg.css';
-import '../../css/p/p-py5wbde.css';
+import '../../css/n/nt9f2zz1g.css';
+import '../../css/r/ry4h5fb7w.css';
+import '../../css/i/iq4y8qctn.css';
+import '../../css/k/kquyjabxs.css';
+import '../../css/p/pczff7gss.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="smtanqb6k"/><path class="q536y2b8e"/><path class="avshsaceu"/><path class="yzavun0dg"/><path class="p-py5wbde"/></g>`,
+		"content": `<path class="nt9f2zz1g"/><path class="ry4h5fb7w"/><path class="iq4y8qctn"/><path class="kquyjabxs"/><path class="pczff7gss"/>`,
 		"fallback": "solar:leaf-bold-duotone",
 	});
 }

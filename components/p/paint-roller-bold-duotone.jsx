@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/r/r7bwjtgfs.css';
-import '../../css/h/hkt1xxbem.css';
-import '../../css/m/mc2zb0bvp.css';
+import '../../css/r/rwit5_4bm.css';
+import '../../css/z/z75ed3b-u.css';
+import '../../css/x/xtpeb-edw.css';
 import '../../css/j/jdz4f3gnm.css';
 import '../../css/z/zul9ixm_v.css';
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="r7bwjtgfs"/><path class="hkt1xxbem"/><g class="mc2zb0bvp"><path class="jdz4f3gnm"/><path class="zul9ixm_v"/></g></g>`,
+		"content": `<path class="rwit5_4bm"/><path class="z75ed3b-u"/><g class="xtpeb-edw"><path class="jdz4f3gnm"/><path class="zul9ixm_v"/></g>`,
 		"fallback": "solar:paint-roller-bold-duotone",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/emdtvd_xw.css';
+import '../../css/v/vp7j5gwce.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="emdtvd_xw"/>`,
+		"content": `<path class="vp7j5gwce"/>`,
 		"fallback": "solar:rolling-pin-broken",
 	});
 }

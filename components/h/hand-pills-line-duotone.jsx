@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/l/l4s1krj7f.css';
+import '../../css/j/jf2wr3mha.css';
 import '../../css/a/aw7yywbhe.css';
 import '../../css/m/mrd423bky.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="l4s1krj7f"/><path class="aw7yywbhe"/><path class="mrd423bky"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="jf2wr3mha"/><path class="aw7yywbhe"/><path class="mrd423bky"/></g>`,
 		"fallback": "solar:hand-pills-line-duotone",
 	});
 }

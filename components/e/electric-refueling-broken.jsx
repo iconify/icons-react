@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/u/urvjm_ymr.css';
+import '../../css/l/luoe06bir.css';
 import '../../css/o/o85hb142l.css';
 import '../../css/w/wu-2fgbxv.css';
 import '../../css/a/aqrzy7b8m.css';
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="urvjm_ymr"/><path class="o85hb142l"/><path class="wu-2fgbxv"/><path class="aqrzy7b8m"/><path class="see2fgboo"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="luoe06bir"/><path class="o85hb142l"/><path class="wu-2fgbxv"/><path class="aqrzy7b8m"/><path class="see2fgboo"/></g>`,
 		"fallback": "solar:electric-refueling-broken",
 	});
 }

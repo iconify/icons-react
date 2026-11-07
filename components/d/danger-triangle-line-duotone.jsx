@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/l/lem4lac-s.css';
+import '../../css/w/wu1m9tm0c.css';
 import '../../css/e/evd_udn_h.css';
 import '../../css/p/pr1jznbmm.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="lem4lac-s"/><path class="evd_udn_h"/><path class="pr1jznbmm"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="wu1m9tm0c"/><path class="evd_udn_h"/><path class="pr1jznbmm"/></g>`,
 		"fallback": "solar:danger-triangle-line-duotone",
 	});
 }

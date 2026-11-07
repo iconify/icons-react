@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/n/nol19vq4t.css';
 import '../../css/r/r5rugytbx.css';
-import '../../css/k/kfvnd7u4f.css';
+import '../../css/l/l6e-nzb0i.css';
 import '../../css/q/qbunz8cnn.css';
 import '../../css/v/vhte9_bca.css';
 import '../../css/l/lfowyvbbt.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="nol19vq4t"/><path class="r5rugytbx"/><path class="kfvnd7u4f"/><path class="qbunz8cnn"/><path class="vhte9_bca"/><path class="lfowyvbbt"/></g>`,
+		"content": `<g class="ipq1z-bjh"><circle class="nol19vq4t"/><path class="r5rugytbx"/><path class="l6e-nzb0i"/><path class="qbunz8cnn"/><path class="vhte9_bca"/><path class="lfowyvbbt"/></g>`,
 		"fallback": "solar:user-id-line-duotone",
 	});
 }

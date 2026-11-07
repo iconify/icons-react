@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cuyn6tgcc.css';
-import '../../css/o/oioeggbqi.css';
-import '../../css/n/nwt30bbwd.css';
-import '../../css/w/wq4mdib6y.css';
-import '../../css/m/m18bd8w-e.css';
-import '../../css/v/vshvrf3tz.css';
+import '../../css/l/lvyfd2cnm.css';
+import '../../css/v/vs5n4kb4o.css';
+import '../../css/p/ppziiibjw.css';
+import '../../css/t/txahl3bke.css';
+import '../../css/d/dspe7mbcd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="cuyn6tgcc"><path class="oioeggbqi"/><path class="nwt30bbwd"/><path class="wq4mdib6y"/><path class="m18bd8w-e"/><path class="vshvrf3tz"/></g>`,
+		"content": `<path class="lvyfd2cnm"/><path class="vs5n4kb4o"/><path class="ppziiibjw"/><path class="txahl3bke"/><path class="dspe7mbcd"/>`,
 		"fallback": "solar:cart-large-3-bold",
 	});
 }

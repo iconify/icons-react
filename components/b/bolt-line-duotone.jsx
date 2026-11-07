@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/g/glm_1bcrk.css';
-import '../../css/l/lf8b9c3sr.css';
+import '../../css/z/zul_37c3k.css';
+import '../../css/d/dwxx0cbvg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="glm_1bcrk"/><path class="lf8b9c3sr"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="zul_37c3k"/><path class="dwxx0cbvg"/></g>`,
 		"fallback": "solar:bolt-line-duotone",
 	});
 }

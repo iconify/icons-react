@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -830,6 +830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dbeaver.jsx"
     },
+    "./dbt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dbt.jsx"
+    },
     "./dbvisualizer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dbvisualizer.jsx"
@@ -1590,6 +1594,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/helm.jsx"
     },
+    "./hermes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hermes.jsx"
+    },
     "./heroku": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heroku.jsx"
@@ -1837,6 +1845,10 @@
     "./jhipster-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/jhipster-wordmark.jsx"
+    },
+    "./jinja": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jinja.jsx"
     },
     "./jira": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2297,6 +2309,14 @@
     "./minitab": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/minitab.jsx"
+    },
+    "./mise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mise.jsx"
+    },
+    "./mise-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mise-wordmark.jsx"
     },
     "./mithril": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4117,6 +4137,14 @@
     "./veevalidate": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/veevalidate.jsx"
+    },
+    "./velite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/velite.jsx"
+    },
+    "./velite-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/velite-wordmark.jsx"
     },
     "./vercel": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/pinhead",
   "type": "module",
-  "version": "1.0.39",
+  "version": "1.0.40",
   "homepage": "https://icon-sets.iconify.design/pinhead/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -1134,9 +1134,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bench-with-backrest.jsx"
     },
-    "./bench-with-backrest-in-rectangular-shelter": {
+    "./bench-with-backrest-in-eaved-rectangular-shelter": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/b/bench-with-backrest-in-rectangular-shelter.jsx"
+      "default": "./components/b/bench-with-backrest-in-eaved-rectangular-shelter.jsx"
     },
     "./bench-with-backrest-with-plaque": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1217,6 +1217,14 @@
     "./bicycle-in-box-gabled-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bicycle-in-box-gabled-shelter.jsx"
+    },
+    "./bicycle-in-eaved-leanto-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-in-eaved-leanto-building.jsx"
+    },
+    "./bicycle-in-eaved-leanto-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-in-eaved-leanto-shelter.jsx"
     },
     "./bicycle-in-gabled-building": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3266,6 +3274,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dog-wearing-collar.jsx"
     },
+    "./dog-wearing-collar-in-eaved-leanto-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dog-wearing-collar-in-eaved-leanto-building.jsx"
+    },
     "./dog-wearing-collar-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dog-wearing-collar-in-eaved-leanto-shelter.jsx"
@@ -3538,9 +3550,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eaved-gabled-shelter-with-fireplace-and-chimney.jsx"
     },
+    "./eaved-leanto-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-leanto-building.jsx"
+    },
+    "./eaved-leanto-building-with-fireplace-and-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-leanto-building-with-fireplace-and-chimney.jsx"
+    },
     "./eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eaved-leanto-shelter.jsx"
+    },
+    "./eaved-leanto-shelter-with-fireplace-and-chimney": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-leanto-shelter-with-fireplace-and-chimney.jsx"
+    },
+    "./eaved-leanto-shelter-with-floor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eaved-leanto-shelter-with-floor.jsx"
     },
     "./eaved-open-gabled-building": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4661,6 +4689,10 @@
     "./horse-high-stepping": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/horse-high-stepping.jsx"
+    },
+    "./horse-in-eaved-leanto-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/horse-in-eaved-leanto-building.jsx"
     },
     "./horse-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6486,6 +6518,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-gabled-shelter.jsx"
     },
+    "./people-sleeping-in-bunkbeds-in-eaved-leanto-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-leanto-building.jsx"
+    },
     "./people-sleeping-in-bunkbeds-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/people-sleeping-in-bunkbeds-in-eaved-leanto-shelter.jsx"
@@ -6977,6 +7013,10 @@
     "./person-sleeping-in-bed-between-floor-and-ceiling": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-sleeping-in-bed-between-floor-and-ceiling.jsx"
+    },
+    "./person-sleeping-in-eaved-leanto-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-sleeping-in-eaved-leanto-building.jsx"
     },
     "./person-sleeping-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7585,6 +7625,10 @@
     "./picnic-table-in-eaved-gabled-shelter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/picnic-table-in-eaved-gabled-shelter.jsx"
+    },
+    "./picnic-table-in-eaved-leanto-building": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/picnic-table-in-eaved-leanto-building.jsx"
     },
     "./picnic-table-in-eaved-leanto-shelter": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10378,9 +10422,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tornado.jsx"
     },
-    "./tornado-beside-eaved-leanto-shelter": {
+    "./tornado-beside-eaved-leanto-shelter-with-floor": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/t/tornado-beside-eaved-leanto-shelter.jsx"
+      "default": "./components/t/tornado-beside-eaved-leanto-shelter-with-floor.jsx"
     },
     "./tour-van": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11561,6 +11605,10 @@
     "./bell-in-tall-gable-roofed-building": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bell-in-tall-gable-roofed-building.jsx"
+    },
+    "./bench-with-backrest-in-rectangular-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bench-with-backrest-in-rectangular-shelter.jsx"
     },
     "./bicycle-and-key": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12873,6 +12921,10 @@
     "./three-plus-over-water": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/three-plus-over-water.jsx"
+    },
+    "./tornado-beside-eaved-leanto-shelter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tornado-beside-eaved-leanto-shelter.jsx"
     },
     "./tornado-beside-shelter": {
       "types": "./types/hqrkovbr.d.ts",

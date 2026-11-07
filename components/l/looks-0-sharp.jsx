@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.qemy8_bzt {
+		"content": `<style>.kyaxh5yvi {
   fill: currentColor;
-  d: path("M4 20V4h16v16zm1-1h14V5H5zm0 0V5h14v14zm4.5-2.5h5v-9h-5zm1-1v-7h3v7z");
+  d: path("M4 20V4h16v16zm5.5-3.5h5v-9h-5zm1-1v-7h3v7z");
 }
-</style><path class="qemy8_bzt"/>`,
+</style><path class="kyaxh5yvi"/>`,
 		"fallback": "material-symbols-light:looks-0-sharp",
 	});
 }

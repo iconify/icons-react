@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-symbols-light",
   "type": "module",
-  "version": "1.0.42",
+  "version": "1.0.43",
   "homepage": "https://icon-sets.iconify.design/material-symbols-light/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
@@ -16689,6 +16689,30 @@
     "./devices": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/devices.jsx"
+    },
+    "./devices-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-2.jsx"
+    },
+    "./devices-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-2-outline.jsx"
+    },
+    "./devices-2-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-2-outline-rounded.jsx"
+    },
+    "./devices-2-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-2-outline-sharp.jsx"
+    },
+    "./devices-2-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-2-rounded.jsx"
+    },
+    "./devices-2-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/devices-2-sharp.jsx"
     },
     "./devices-fold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -35686,6 +35710,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mintmark-sharp.jsx"
     },
+    "./mirror-stack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirror-stack.jsx"
+    },
+    "./mirror-stack-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirror-stack-outline.jsx"
+    },
+    "./mirror-stack-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirror-stack-outline-sharp.jsx"
+    },
+    "./mirror-stack-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirror-stack-sharp.jsx"
+    },
     "./missed-video-call": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/missed-video-call.jsx"
@@ -42170,6 +42210,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/payment-card-outline-sharp.jsx"
     },
+    "./payment-card-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/payment-card-rounded.jsx"
+    },
+    "./payment-card-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/payment-card-sharp.jsx"
+    },
     "./payments": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/payments.jsx"
@@ -45553,6 +45601,22 @@
     "./published-with-changes-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/published-with-changes-rounded.jsx"
+    },
+    "./pull-request": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request.jsx"
+    },
+    "./pull-request-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request-outline.jsx"
+    },
+    "./pull-request-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request-outline-rounded.jsx"
+    },
+    "./pull-request-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request-rounded.jsx"
     },
     "./pulmonology": {
       "types": "./types/hqrkovbr.d.ts",
@@ -81798,6 +81862,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mintmark-outline-sharp.jsx"
     },
+    "./mirror-stack-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirror-stack-outline-rounded.jsx"
+    },
+    "./mirror-stack-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mirror-stack-rounded.jsx"
+    },
     "./missing-controller-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/missing-controller-outline.jsx"
@@ -84886,14 +84958,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pause-sharp.jsx"
     },
-    "./payment-card-rounded": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/payment-card-rounded.jsx"
-    },
-    "./payment-card-sharp": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/p/payment-card-sharp.jsx"
-    },
     "./pediatrics-outline-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pediatrics-outline-rounded.jsx"
@@ -86369,6 +86433,14 @@
     "./published-with-changes-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/published-with-changes-sharp.jsx"
+    },
+    "./pull-request-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request-outline-sharp.jsx"
+    },
+    "./pull-request-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pull-request-sharp.jsx"
     },
     "./punch-clock-sharp": {
       "types": "./types/hqrkovbr.d.ts",

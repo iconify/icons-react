@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.vmukt-ypk {
+		"content": `<style>.yc88e0l9j {
   fill: currentColor;
-  d: path("M4 20V4h16v16zm1-1h14V5H5zm0 0V5h14v14zm6.462-2.5H12.5l2-7.936V7.5h-5v1h3.962z");
+  d: path("M4 20V4h16v16zm7.462-3.5H12.5l2-7.936V7.5h-5v1h3.962z");
 }
-</style><path class="vmukt-ypk"/>`,
+</style><path class="yc88e0l9j"/>`,
 		"fallback": "material-symbols-light:looks-7-sharp",
 	});
 }

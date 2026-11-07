@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/mingcute",
   "type": "module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://icon-sets.iconify.design/mingcute/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
@@ -10222,6 +10222,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/house-plus-line.jsx"
     },
+    "./i-mac-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-mac-fill.jsx"
+    },
+    "./i-mac-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-mac-line.jsx"
+    },
+    "./i-os-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-os-fill.jsx"
+    },
+    "./i-os-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/i-os-line.jsx"
+    },
     "./ice-cream-2-fill": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ice-cream-2-fill.jsx"
@@ -10253,14 +10269,6 @@
     "./idcard-line": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/idcard-line.jsx"
-    },
-    "./imac-fill": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/imac-fill.jsx"
-    },
-    "./imac-line": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/imac-line.jsx"
     },
     "./image-down-fill": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10461,14 +10469,6 @@
     "./invite-line": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/invite-line.jsx"
-    },
-    "./ios-fill": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/ios-fill.jsx"
-    },
-    "./ios-line": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/i/ios-line.jsx"
     },
     "./italic-fill": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18230,6 +18230,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-infor-line.jsx"
     },
+    "./imac-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imac-fill.jsx"
+    },
+    "./imac-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/imac-line.jsx"
+    },
     "./ins-fill": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ins-fill.jsx"
@@ -18237,6 +18245,14 @@
     "./ins-line": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ins-line.jsx"
+    },
+    "./ios-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ios-fill.jsx"
+    },
+    "./ios-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ios-line.jsx"
     },
     "./palace-2-fill": {
       "types": "./types/hqrkovbr.d.ts",

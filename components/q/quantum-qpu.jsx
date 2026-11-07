@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uuln7pb0p.css';
+import '../../css/z/ztyl-_j6v.css';
 
 const viewBox = {"width":32,"height":32};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uuln7pb0p"/>`,
+		"content": `<path class="ztyl-_j6v"/>`,
 		"fallback": "carbon:quantum-qpu",
 	});
 }

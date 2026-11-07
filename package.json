@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/carbon",
   "type": "module",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "homepage": "https://icon-sets.iconify.design/carbon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
@@ -854,6 +854,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bluetooth-off.jsx"
     },
+    "./bobcoin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bobcoin.jsx"
+    },
+    "./bobcoin-consumption": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bobcoin-consumption.jsx"
+    },
     "./book": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/book.jsx"
@@ -1137,6 +1145,10 @@
     "./cafe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cafe.jsx"
+    },
+    "./cafe-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cafe-alt.jsx"
     },
     "./calculation": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5002,6 +5014,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ibm-i.jsx"
     },
+    "./ibm-i-alt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ibm-i-alt.jsx"
+    },
     "./ibm-ibv": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ibm-ibv.jsx"
@@ -5349,6 +5365,10 @@
     "./ibm-z-processor-capacity-reference": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ibm-z-processor-capacity-reference.jsx"
+    },
+    "./ibm-z17": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ibm-z17.jsx"
     },
     "./ica-2d": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8761,6 +8781,10 @@
     "./shield-alert": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-alert.jsx"
+    },
+    "./shield-infinity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-infinity.jsx"
     },
     "./shipment-delivery": {
       "types": "./types/hqrkovbr.d.ts",

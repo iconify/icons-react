@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k74guob0x.css';
+import '../../css/u/uu8klpb7m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k74guob0x"/>`,
+		"content": `<path class="uu8klpb7m"/>`,
 		"fallback": "tabler:octagon-minus",
 	});
 }

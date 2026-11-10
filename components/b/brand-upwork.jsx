@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v49-fjbxs.css';
+import '../../css/m/m9fm8vngo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v49-fjbxs"/>`,
+		"content": `<path class="m9fm8vngo"/>`,
 		"fallback": "tabler:brand-upwork",
 	});
 }

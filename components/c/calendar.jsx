@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gcsn1zs9i.css';
+import '../../css/y/yfnou6bxa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gcsn1zs9i"/>`,
+		"content": `<path class="yfnou6bxa"/>`,
 		"fallback": "tabler:calendar",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tl9f0ocwu.css';
+import '../../css/n/noagkzbhd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tl9f0ocwu"/>`,
+		"content": `<path class="noagkzbhd"/>`,
 		"fallback": "tabler:octagon-minus-2",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qn9vxj7ii.css';
+import '../../css/w/w6jlcpp_g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qn9vxj7ii"/>`,
+		"content": `<path class="w6jlcpp_g"/>`,
 		"fallback": "tabler:octagon-plus",
 	});
 }

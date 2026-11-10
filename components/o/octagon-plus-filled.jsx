@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o-eljtb4z.css';
+import '../../css/u/us2blxh_e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o-eljtb4z"/>`,
+		"content": `<path class="us2blxh_e"/>`,
 		"fallback": "tabler:octagon-plus-filled",
 	});
 }

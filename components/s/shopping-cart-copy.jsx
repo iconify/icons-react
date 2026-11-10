@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
 import '../../css/n/nnzq1t7sf.css';
-import '../../css/d/dmhxv3bbn.css';
-import '../../css/t/tw4gvmdhh.css';
+import '../../css/m/mgzjqrb8f.css';
+import '../../css/m/m0imz__js.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="nnzq1t7sf"/><path class="dmhxv3bbn"/><path class="tw4gvmdhh"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="nnzq1t7sf"/><path class="mgzjqrb8f"/><path class="m0imz__js"/></g>`,
 		"fallback": "tabler:shopping-cart-copy",
 	});
 }

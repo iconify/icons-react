@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kav2cebon.css';
+import '../../css/g/gx761tbpd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kav2cebon"/>`,
+		"content": `<path class="gx761tbpd"/>`,
 		"fallback": "tabler:octagon-minus-filled",
 	});
 }

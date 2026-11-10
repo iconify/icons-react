@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eumaeej_k.css';
+import '../../css/n/nayx3sbpu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eumaeej_k"/>`,
+		"content": `<path class="nayx3sbpu"/>`,
 		"fallback": "tabler:help-octagon-filled",
 	});
 }

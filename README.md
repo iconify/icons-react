@@ -1,6 +1,5 @@
 # @iconify-react/tabler
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/tabler).
 **Tabler Icons**
 
 Author: [Paweł Kuna](https://github.com/tabler/tabler-icons)

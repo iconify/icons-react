@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gq1vsp_9e.css';
+import '../../css/o/of_zlmdfz.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gq1vsp_9e"/>`,
+		"content": `<path class="of_zlmdfz"/>`,
 		"fallback": "devicon-plain:haxe",
 	});
 }

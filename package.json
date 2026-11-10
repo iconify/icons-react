@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/pinhead",
   "type": "module",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "homepage": "https://icon-sets.iconify.design/pinhead/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -1018,6 +1018,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bear-and-question-mark.jsx"
     },
+    "./bear-on-zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bear-on-zoo-uppercase.jsx"
+    },
     "./bear-spray-can": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bear-spray-can.jsx"
@@ -1329,6 +1333,10 @@
     "./bison": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bison.jsx"
+    },
+    "./bison-on-zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bison-on-zoo-uppercase.jsx"
     },
     "./bladder": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4390,6 +4398,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gull-and-question-mark.jsx"
     },
+    "./gull-on-zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gull-on-zoo-uppercase.jsx"
+    },
     "./gumdrop-head-and-shoulders": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gumdrop-head-and-shoulders.jsx"
@@ -4765,6 +4777,18 @@
     "./ice-cream-on-cone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ice-cream-on-cone.jsx"
+    },
+    "./ice-pop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-pop.jsx"
+    },
+    "./ice-pop-beside-ice-cream-on-cone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-pop-beside-ice-cream-on-cone.jsx"
+    },
+    "./ice-pop-with-bite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/ice-pop-with-bite.jsx"
     },
     "./ice-skate": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5173,6 +5197,10 @@
     "./lion-and-whistle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lion-and-whistle.jsx"
+    },
+    "./lion-on-zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lion-on-zoo-uppercase.jsx"
     },
     "./lips": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6106,6 +6134,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nine-point-star-outline-on-square.jsx"
     },
+    "./noodle-bowl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noodle-bowl.jsx"
+    },
     "./noodle-bowl-and-chopsticks-with-noodles": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/noodle-bowl-and-chopsticks-with-noodles.jsx"
@@ -6405,6 +6437,10 @@
     "./parrot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/parrot.jsx"
+    },
+    "./parrot-on-zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parrot-on-zoo-uppercase.jsx"
     },
     "./party-popper": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10766,6 +10802,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/two-dots-up-down-in-tall-rounded-rectangle.jsx"
     },
+    "./two-giraffes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/two-giraffes.jsx"
+    },
+    "./two-giraffes-on-zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/two-giraffes-on-zoo-uppercase.jsx"
+    },
     "./two-people-above-car": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/two-people-above-car.jsx"
@@ -11226,6 +11270,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/waterfowl.jsx"
     },
+    "./waterfowl-on-zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waterfowl-on-zoo-uppercase.jsx"
+    },
     "./watering-can": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/watering-can.jsx"
@@ -11561,6 +11609,10 @@
     "./z": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/z.jsx"
+    },
+    "./zoo-uppercase": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoo-uppercase.jsx"
     },
     "./airport-terminal-with-plane-takeoff": {
       "types": "./types/hqrkovbr.d.ts",

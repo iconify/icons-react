@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ng5xczucu.css';
+import '../../css/i/iqc7qacoz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ng5xczucu"/>`,
+		"content": `<path class="iqc7qacoz"/>`,
 		"fallback": "proicons:text-underline",
 	});
 }

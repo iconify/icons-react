@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/ddvgu8bvv.css';
-import '../../css/c/ce1si_ibe.css';
+import '../../css/a/akff0fxzu.css';
 import '../../css/u/uvj8ehppa.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="ce1si_ibe"/><path class="uvj8ehppa"/></g>`,
+		"content": `<g class="ddvgu8bvv"><path class="akff0fxzu"/><path class="uvj8ehppa"/></g>`,
 		"fallback": "proicons:bug-play",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/xn5eo9bqs.css';
-import '../../css/y/ysni6wxva.css';
-import '../../css/k/ks12fepvi.css';
-import '../../css/d/d-agg5bah.css';
-import '../../css/y/yviokgvuz.css';
+import '../../css/c/c50zoybkb.css';
+import '../../css/m/mdnhgeb6a.css';
+import '../../css/x/xe8wi4bvf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="xn5eo9bqs"><path class="ysni6wxva"/><path class="ks12fepvi"/><path class="d-agg5bah"/><path class="yviokgvuz"/></g>`,
+		"content": `<g class="xn5eo9bqs"><path class="c50zoybkb"/><path class="mdnhgeb6a"/><path class="xe8wi4bvf"/></g>`,
 		"fallback": "matita:heart-pulse",
 	});
 }

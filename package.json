@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/matita",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://icon-sets.iconify.design/matita/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -26,9 +26,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-right.jsx"
     },
+    "./alpha": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alpha.jsx"
+    },
+    "./alpha-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/alpha-capital.jsx"
+    },
     "./ambulance": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ambulance.jsx"
+    },
+    "./anchor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/anchor.jsx"
     },
     "./angle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -106,6 +118,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bandage.jsx"
     },
+    "./banknote": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/banknote.jsx"
+    },
     "./battery": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/battery.jsx"
@@ -130,6 +146,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bell-ring.jsx"
     },
+    "./beta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beta.jsx"
+    },
+    "./beta-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/beta-capital.jsx"
+    },
     "./bezier": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bezier.jsx"
@@ -137,6 +161,10 @@
     "./bluetooth": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bluetooth.jsx"
+    },
+    "./board-menu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/board-menu.jsx"
     },
     "./bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -157,6 +185,10 @@
     "./bookmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bookmark.jsx"
+    },
+    "./bowl": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowl.jsx"
     },
     "./braces": {
       "types": "./types/hqrkovbr.d.ts",
@@ -181,6 +213,10 @@
     "./building": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/building.jsx"
+    },
+    "./burger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/burger.jsx"
     },
     "./calculator": {
       "types": "./types/hqrkovbr.d.ts",
@@ -226,6 +262,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check.jsx"
     },
+    "./chefs-pick": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chefs-pick.jsx"
+    },
     "./chevron-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-down.jsx"
@@ -257,6 +297,14 @@
     "./chevrons-up": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-up.jsx"
+    },
+    "./chi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chi.jsx"
+    },
+    "./chi-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chi-capital.jsx"
     },
     "./circle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -290,6 +338,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard.jsx"
     },
+    "./cloche": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloche.jsx"
+    },
     "./clock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock.jsx"
@@ -317,6 +369,10 @@
     "./coffee": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coffee.jsx"
+    },
+    "./coins": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/coins.jsx"
     },
     "./columns": {
       "types": "./types/hqrkovbr.d.ts",
@@ -358,6 +414,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/database.jsx"
     },
+    "./delta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delta.jsx"
+    },
+    "./delta-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/delta-capital.jsx"
+    },
     "./dimension": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dimension.jsx"
@@ -374,13 +438,37 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/drafting-compass.jsx"
     },
+    "./drink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drink.jsx"
+    },
     "./droplet": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/droplet.jsx"
     },
+    "./egg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/egg.jsx"
+    },
+    "./epsilon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/epsilon.jsx"
+    },
+    "./epsilon-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/epsilon-capital.jsx"
+    },
     "./eraser": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eraser.jsx"
+    },
+    "./eta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eta.jsx"
+    },
+    "./eta-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eta-capital.jsx"
     },
     "./external-link": {
       "types": "./types/hqrkovbr.d.ts",
@@ -450,6 +538,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flower.jsx"
     },
+    "./folded-menu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folded-menu.jsx"
+    },
     "./folder": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder.jsx"
@@ -462,6 +554,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-plus.jsx"
     },
+    "./food-app": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/food-app.jsx"
+    },
+    "./food-menu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/food-menu.jsx"
+    },
     "./frame": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/frame.jsx"
@@ -469,6 +569,14 @@
     "./frown": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/frown.jsx"
+    },
+    "./gamma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gamma.jsx"
+    },
+    "./gamma-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gamma-capital.jsx"
     },
     "./gauge": {
       "types": "./types/hqrkovbr.d.ts",
@@ -501,6 +609,10 @@
     "./globe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe.jsx"
+    },
+    "./gluten-free": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gluten-free.jsx"
     },
     "./graduation-cap": {
       "types": "./types/hqrkovbr.d.ts",
@@ -574,9 +686,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/info.jsx"
     },
+    "./iota": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iota.jsx"
+    },
+    "./iota-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/iota-capital.jsx"
+    },
     "./italic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/italic.jsx"
+    },
+    "./kappa": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kappa.jsx"
+    },
+    "./kappa-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kappa-capital.jsx"
     },
     "./key": {
       "types": "./types/hqrkovbr.d.ts",
@@ -585,6 +713,14 @@
     "./keyboard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keyboard.jsx"
+    },
+    "./lambda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lambda.jsx"
+    },
+    "./lambda-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lambda-capital.jsx"
     },
     "./laptop": {
       "types": "./types/hqrkovbr.d.ts",
@@ -621,6 +757,10 @@
     "./list": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list.jsx"
+    },
+    "./list-checks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-checks.jsx"
     },
     "./loader": {
       "types": "./types/hqrkovbr.d.ts",
@@ -662,6 +802,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mars.jsx"
     },
+    "./matita": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/matita.jsx"
+    },
     "./maximize": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/maximize.jsx"
@@ -697,6 +841,10 @@
     "./microscope": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microscope.jsx"
+    },
+    "./milk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/milk.jsx"
     },
     "./minimize": {
       "types": "./types/hqrkovbr.d.ts",
@@ -738,6 +886,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/move.jsx"
     },
+    "./mu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mu.jsx"
+    },
+    "./mu-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mu-capital.jsx"
+    },
     "./music": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/music.jsx"
@@ -746,9 +902,37 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/navigation.jsx"
     },
+    "./nu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nu.jsx"
+    },
+    "./nu-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nu-capital.jsx"
+    },
+    "./omega": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omega.jsx"
+    },
+    "./omega-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omega-capital.jsx"
+    },
+    "./omicron": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omicron.jsx"
+    },
+    "./omicron-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omicron-capital.jsx"
+    },
     "./orbit": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/orbit.jsx"
+    },
+    "./order-food": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/order-food.jsx"
     },
     "./package": {
       "types": "./types/hqrkovbr.d.ts",
@@ -762,9 +946,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paperclip.jsx"
     },
+    "./parking": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking.jsx"
+    },
     "./pause": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pause.jsx"
+    },
+    "./paw-print": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paw-print.jsx"
+    },
+    "./peanut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/peanut.jsx"
     },
     "./pen-nib": {
       "types": "./types/hqrkovbr.d.ts",
@@ -782,9 +978,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/petri-dish.jsx"
     },
+    "./phi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phi.jsx"
+    },
+    "./phi-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/phi-capital.jsx"
+    },
     "./phone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/phone.jsx"
+    },
+    "./pi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pi.jsx"
+    },
+    "./pi-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pi-capital.jsx"
     },
     "./pill": {
       "types": "./types/hqrkovbr.d.ts",
@@ -797,6 +1009,10 @@
     "./pipette": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pipette.jsx"
+    },
+    "./pizza-slice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pizza-slice.jsx"
     },
     "./plane": {
       "types": "./types/hqrkovbr.d.ts",
@@ -822,6 +1038,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus-minus.jsx"
     },
+    "./pork-free": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pork-free.jsx"
+    },
     "./power": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/power.jsx"
@@ -834,6 +1054,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/prescription-2.jsx"
     },
+    "./prices-menu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prices-menu.jsx"
+    },
     "./printer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/printer.jsx"
@@ -841,6 +1065,14 @@
     "./protractor": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/protractor.jsx"
+    },
+    "./psi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/psi.jsx"
+    },
+    "./psi-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/psi-capital.jsx"
     },
     "./qr-code": {
       "types": "./types/hqrkovbr.d.ts",
@@ -870,6 +1102,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/repeat.jsx"
     },
+    "./rho": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rho.jsx"
+    },
+    "./rho-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rho-capital.jsx"
+    },
     "./rocket": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rocket.jsx"
@@ -889,6 +1129,10 @@
     "./sailboat": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sailboat.jsx"
+    },
+    "./salad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/salad.jsx"
     },
     "./save": {
       "types": "./types/hqrkovbr.d.ts",
@@ -930,6 +1174,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/share.jsx"
     },
+    "./shield": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield.jsx"
+    },
     "./shield-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-check.jsx"
@@ -945,6 +1193,14 @@
     "./sidebar": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sidebar.jsx"
+    },
+    "./sigma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sigma.jsx"
+    },
+    "./sigma-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sigma-capital.jsx"
     },
     "./skip-back": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1030,9 +1286,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/target.jsx"
     },
+    "./tau": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tau.jsx"
+    },
+    "./tau-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tau-capital.jsx"
+    },
     "./telescope": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/telescope.jsx"
+    },
+    "./tent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tent.jsx"
     },
     "./terminal": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1046,6 +1314,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thermometer.jsx"
     },
+    "./theta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theta.jsx"
+    },
+    "./theta-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/theta-capital.jsx"
+    },
     "./thumbs-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thumbs-down.jsx"
@@ -1057,6 +1333,10 @@
     "./timer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/timer.jsx"
+    },
+    "./toast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toast.jsx"
     },
     "./toggle-right": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1073,6 +1353,10 @@
     "./trash-2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trash-2.jsx"
+    },
+    "./tree": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tree.jsx"
     },
     "./trending-down": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1118,6 +1402,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/upload.jsx"
     },
+    "./upsilon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upsilon.jsx"
+    },
+    "./upsilon-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/upsilon-capital.jsx"
+    },
     "./user": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user.jsx"
@@ -1145,6 +1437,14 @@
     "./users": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/users.jsx"
+    },
+    "./utensils": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/utensils.jsx"
+    },
+    "./vegan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vegan.jsx"
     },
     "./venus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1182,6 +1482,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/waves.jsx"
     },
+    "./wheat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheat.jsx"
+    },
+    "./wheelchair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wheelchair.jsx"
+    },
     "./wifi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wifi.jsx"
@@ -1202,9 +1510,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/x/x-ray.jsx"
     },
+    "./xi": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xi.jsx"
+    },
+    "./xi-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/xi-capital.jsx"
+    },
     "./zap": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zap.jsx"
+    },
+    "./zeta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zeta.jsx"
+    },
+    "./zeta-capital": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zeta-capital.jsx"
     },
     "./zoom-in": {
       "types": "./types/hqrkovbr.d.ts",

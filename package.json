@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/at-icons",
   "type": "module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://icon-sets.iconify.design/at-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -402,6 +402,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bell.jsx"
     },
+    "./bevel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bevel.jsx"
+    },
     "./bike": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bike.jsx"
@@ -457,6 +461,22 @@
     "./boolean": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/boolean.jsx"
+    },
+    "./boolean-exclude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boolean-exclude.jsx"
+    },
+    "./boolean-intersect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boolean-intersect.jsx"
+    },
+    "./boolean-subtract": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boolean-subtract.jsx"
+    },
+    "./boolean-union": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boolean-union.jsx"
     },
     "./boots": {
       "types": "./types/hqrkovbr.d.ts",
@@ -538,6 +558,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/buoy.jsx"
     },
+    "./butterfly": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/butterfly.jsx"
+    },
     "./cage": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cage.jsx"
@@ -569,6 +593,10 @@
     "./cauldron": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cauldron.jsx"
+    },
+    "./center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/center.jsx"
     },
     "./chair": {
       "types": "./types/hqrkovbr.d.ts",
@@ -734,6 +762,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cross.jsx"
     },
+    "./cross-in-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cross-in-circle.jsx"
+    },
     "./cross-in-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cross-in-square.jsx"
@@ -798,6 +830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/desktop.jsx"
     },
+    "./dialogue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dialogue.jsx"
+    },
     "./diamond": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/diamond.jsx"
@@ -814,6 +850,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/die.jsx"
     },
+    "./dinosaur": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dinosaur.jsx"
+    },
+    "./directions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/directions.jsx"
+    },
     "./distance": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/distance.jsx"
@@ -821,6 +865,10 @@
     "./division-sign-in-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/division-sign-in-square.jsx"
+    },
+    "./dna": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dna.jsx"
     },
     "./dog": {
       "types": "./types/hqrkovbr.d.ts",
@@ -861,6 +909,10 @@
     "./drawing-compass": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/drawing-compass.jsx"
+    },
+    "./drive-belt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/drive-belt.jsx"
     },
     "./dropdown": {
       "types": "./types/hqrkovbr.d.ts",
@@ -921,6 +973,10 @@
     "./exposure": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/exposure.jsx"
+    },
+    "./extrude": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/extrude.jsx"
     },
     "./eye": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1106,6 +1162,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flintlock.jsx"
     },
+    "./flock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flock.jsx"
+    },
     "./floor-plane": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/floor-plane.jsx"
@@ -1170,6 +1230,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/forest.jsx"
     },
+    "./frog": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frog.jsx"
+    },
     "./frowning-face": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/frowning-face.jsx"
@@ -1189,6 +1253,10 @@
     "./gauge": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gauge.jsx"
+    },
+    "./gears": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gears.jsx"
     },
     "./gem": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1302,6 +1370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gun.jsx"
     },
+    "./hair": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hair.jsx"
+    },
     "./hammer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hammer.jsx"
@@ -1394,6 +1466,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/ingots.jsx"
     },
+    "./inset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/inset.jsx"
+    },
     "./institutional-building": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/institutional-building.jsx"
@@ -1405,6 +1481,10 @@
     "./itinerary": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/itinerary.jsx"
+    },
+    "./jellyfish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jellyfish.jsx"
     },
     "./jigsaw-piece": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1437,6 +1517,10 @@
     "./knife": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/knife.jsx"
+    },
+    "./knife-cut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/knife-cut.jsx"
     },
     "./knot": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1482,6 +1566,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightbulb.jsx"
     },
+    "./lighthouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/lighthouse.jsx"
+    },
     "./lightning-bolt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lightning-bolt.jsx"
@@ -1514,6 +1602,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-unordered.jsx"
     },
+    "./locate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/locate.jsx"
+    },
     "./location": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/location.jsx"
@@ -1521,6 +1613,10 @@
     "./lock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock.jsx"
+    },
+    "./loop-cut": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loop-cut.jsx"
     },
     "./magic-staff": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1586,6 +1682,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/megaphone.jsx"
     },
+    "./mesh-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mesh-circle.jsx"
+    },
+    "./mesh-ngon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mesh-ngon.jsx"
+    },
     "./mesh-plane": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mesh-plane.jsx"
@@ -1609,6 +1713,14 @@
     "./microphone-mute": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-mute.jsx"
+    },
+    "./minus-in-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-in-circle.jsx"
+    },
+    "./minus-in-square": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minus-in-square.jsx"
     },
     "./mirror-horizontally": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1690,6 +1802,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/node-graph-target.jsx"
     },
+    "./noise-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noise-wave.jsx"
+    },
     "./note": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/note.jsx"
@@ -1746,6 +1862,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette.jsx"
     },
+    "./panda": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/panda.jsx"
+    },
     "./pants": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pants.jsx"
@@ -1786,9 +1906,53 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pendant.jsx"
     },
+    "./people": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people.jsx"
+    },
+    "./people-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-cross.jsx"
+    },
+    "./people-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/people-plus.jsx"
+    },
+    "./person": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person.jsx"
+    },
     "./person-body": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/person-body.jsx"
+    },
+    "./person-cross": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-cross.jsx"
+    },
+    "./person-fall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-fall.jsx"
+    },
+    "./person-jump": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-jump.jsx"
+    },
+    "./person-land": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-land.jsx"
+    },
+    "./person-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-plus.jsx"
+    },
+    "./person-run": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-run.jsx"
+    },
+    "./person-walk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/person-walk.jsx"
     },
     "./photo-camera": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1822,6 +1986,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pipette.jsx"
     },
+    "./pivot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pivot.jsx"
+    },
     "./planet": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/planet.jsx"
@@ -1846,6 +2014,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus.jsx"
     },
+    "./plus-in-circle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plus-in-circle.jsx"
+    },
     "./plus-sign-in-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus-sign-in-square.jsx"
@@ -1869,6 +2041,10 @@
     "./potion": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/potion.jsx"
+    },
+    "./pottery-loop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pottery-loop.jsx"
     },
     "./pouch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1913,6 +2089,10 @@
     "./quotation-marks": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quotation-marks.jsx"
+    },
+    "./rabbit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rabbit.jsx"
     },
     "./racing-circuit": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2010,6 +2190,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/ruler.jsx"
     },
+    "./rumble": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rumble.jsx"
+    },
+    "./rumble-joypad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rumble-joypad.jsx"
+    },
+    "./rumble-phone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rumble-phone.jsx"
+    },
     "./sailboat": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sailboat.jsx"
@@ -2022,6 +2214,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/satellite.jsx"
     },
+    "./sauropod": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sauropod.jsx"
+    },
+    "./saw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/saw.jsx"
+    },
+    "./sawtooth-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sawtooth-wave.jsx"
+    },
     "./scales": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scales.jsx"
@@ -2033,6 +2237,10 @@
     "./scoreboard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scoreboard.jsx"
+    },
+    "./screen-shake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screen-shake.jsx"
     },
     "./screw": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2122,6 +2330,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/signal-wave.jsx"
     },
+    "./sine-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sine-wave.jsx"
+    },
     "./siren": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/siren.jsx"
@@ -2150,6 +2362,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sledgehammer.jsx"
     },
+    "./slice": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slice.jsx"
+    },
     "./slide-switch": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/slide-switch.jsx"
@@ -2165,6 +2381,10 @@
     "./smiley-face": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/smiley-face.jsx"
+    },
+    "./snail": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/snail.jsx"
     },
     "./snow": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2222,6 +2442,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sponge.jsx"
     },
+    "./spool": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/spool.jsx"
+    },
     "./spray": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spray.jsx"
@@ -2246,6 +2470,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-root.jsx"
     },
+    "./square-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-wave.jsx"
+    },
     "./staircase": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/staircase.jsx"
@@ -2269,6 +2497,10 @@
     "./stars": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stars.jsx"
+    },
+    "./stats": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stats.jsx"
     },
     "./steering-wheel": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2426,9 +2658,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tileset.jsx"
     },
+    "./toilet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toilet.jsx"
+    },
     "./torch": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/torch.jsx"
+    },
+    "./tortoise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tortoise.jsx"
     },
     "./torus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2474,6 +2714,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/triangle.jsx"
     },
+    "./triangle-wave": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangle-wave.jsx"
+    },
     "./troll": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/troll.jsx"
@@ -2485,6 +2729,10 @@
     "./tungsten-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tungsten-light.jsx"
+    },
+    "./ufo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ufo.jsx"
     },
     "./umbrella": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2537,6 +2785,10 @@
     "./wave": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wave.jsx"
+    },
+    "./waveform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waveform.jsx"
     },
     "./weight": {
       "types": "./types/hqrkovbr.d.ts",

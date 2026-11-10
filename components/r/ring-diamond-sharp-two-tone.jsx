@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b1d_ndmqg {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M14 1C14.304 1 14.591 1.14 14.781 1.38L16.781 3.88C17.038 4.2 17.072 4.64 16.868 5L15.312 7.72C18.077 8.98 20 11.76 20 15C20 19.42 16.418 23 12 23C7.582 23 4 19.42 4 15C4 11.76 5.922 8.98 8.687 7.72L7.132 5C6.928 4.64 6.963 4.2 7.219 3.88L9.251 1.33C9.437 1.15 9.734 1 10 1H14Z");
+  stroke: none;
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.yzbifhbox {
+  d: path("M10.146 8.26L8 4.5L10 2H14L16 4.5L13.854 8.26M12 22C8.134 22 5 18.87 5 15C5 11.13 8.134 8 12 8C15.866 8 19 11.13 19 15C19 18.87 15.866 22 12 22Z");
+}
+</style><g class="gp_8x1bzb"><path class="b1d_ndmqg"/><path class="yzbifhbox"/></g>`,
+		"fallback": "keyline-icons:ring-diamond-sharp-two-tone",
+	});
+}
+
+export default Component;

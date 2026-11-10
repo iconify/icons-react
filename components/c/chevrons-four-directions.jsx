@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.v_5rvbbwd {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M5.2929 15.5L2.1464 12.35C1.9512 12.16 1.9512 11.84 2.1464 11.65L5.2929 8.5M8.5 18.71L11.6464 21.85C11.8417 22.05 12.1583 22.05 12.3536 21.85L15.5 18.71M15.5 5.29L12.3536 2.15C12.1583 1.95 11.8417 1.95 11.6464 2.15L8.5 5.29M18.7071 15.5L21.8536 12.35C22.0488 12.16 22.0488 11.84 21.8536 11.65L18.7071 8.5");
+}
+</style><path class="v_5rvbbwd"/>`,
+		"fallback": "keyline-icons:chevrons-four-directions",
+	});
+}
+
+export default Component;

@@ -10,22 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gp_8x1bzb {
+		"content": `<style>.hc1488bny {
   fill: none;
   stroke: currentColor;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M1.93 18.6273L7.002 6L12.074 18.6273M4.19 13H9.813M19.002 19V8M22.295 11.2929L19.002 8L15.709 11.2929");
 }
-
-.h0eqbkbhb {
-  stroke-opacity: 0.4;
-  d: path("M1.9417 19.6637L7.1788 5L12.4158 19.6637M3.9645 14L10.3931 14");
-}
-
-.r-utvqa8d {
-  d: path("M19 20L19 9M15.7071 12.2929L19 9L22.2929 12.2929");
-}
-</style><g class="gp_8x1bzb"><path class="h0eqbkbhb"/><path class="r-utvqa8d"/></g>`,
+</style><path class="hc1488bny"/>`,
 		"fallback": "keyline-icons:a-arrow-up-sharp-two-tone",
 	});
 }

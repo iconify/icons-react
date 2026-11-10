@@ -10,22 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gp_8x1bzb {
+		"content": `<style>.fsghuzb1g {
   fill: none;
   stroke: currentColor;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M1.93 18.6273L7.002 6L12.074 18.6273M4.19 13H9.813M19.002 7V18M22.295 14.7071L19.002 18L15.709 14.7071");
 }
-
-.h0eqbkbhb {
-  stroke-opacity: 0.4;
-  d: path("M1.9417 19.6637L7.1788 5L12.4158 19.6637M3.9645 14L10.3931 14");
-}
-
-.te6oycqze {
-  d: path("M19 8L19 19M15.7071 15.7071L19 19L22.2929 15.7071");
-}
-</style><g class="gp_8x1bzb"><path class="h0eqbkbhb"/><path class="te6oycqze"/></g>`,
+</style><path class="fsghuzb1g"/>`,
 		"fallback": "keyline-icons:a-arrow-down-sharp-two-tone",
 	});
 }

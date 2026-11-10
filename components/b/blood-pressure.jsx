@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.vqcb65bak {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M7.0014 4.5V13.333C7.0014 13.441 7.0353 13.548 7.1065 13.629C7.6738 14.279 9.1614 15.349 11.5015 15.486C11.7772 15.502 12.0014 15.276 12.0014 15V7.5C10.3347 7 7.0014 5.7 7.0014 4.5ZM7.0014 4.5C7.0014 3 10.5014 2 14.0014 2C17.5014 2 21.0014 3 21.0014 4.5M21.0014 4.5V13.333C21.0014 13.441 20.9675 13.548 20.8964 13.629C20.329 14.279 18.8414 15.349 16.5013 15.486C16.2256 15.502 16.0014 15.276 16.0014 15V7.5C17.6681 7 21.0014 5.7 21.0014 4.5ZM7.0014 13.5C5.3348 13.833 2.525 15.419 3.0687 17.71C3.6124 20 6.4251 20.531 8.8814 20.24M9.5014 19L8.8814 20.24L8.0014 22");
+}
+</style><path class="vqcb65bak"/>`,
+		"fallback": "keyline-icons:blood-pressure",
+	});
+}
+
+export default Component;

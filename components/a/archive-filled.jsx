@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/csm4l4bpr.css';
+import '../../css/d/d218cybqa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="csm4l4bpr"/>`,
+		"content": `<path clip-rule="evenodd" class="d218cybqa"/>`,
 		"fallback": "lucide-extended:archive-filled",
 	});
 }

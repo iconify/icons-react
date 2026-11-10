@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.br2ag9bid {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M42.62 34.75c-1.074 1.86-3.115 1.718-4.633 3.237c-1.519 1.518-1.377 3.559-3.237 4.633s-3.556-.07-5.63.486c-2.075.556-2.972 2.394-5.12 2.394s-3.045-1.838-5.12-2.394c-2.074-.556-3.77.587-5.63-.486s-1.718-3.115-3.237-4.633C8.495 36.468 6.454 36.61 5.38 34.75s.07-3.556-.486-5.63C4.338 27.044 2.5 26.147 2.5 24s1.838-3.045 2.394-5.12c.556-2.074-.587-3.77.486-5.63c1.074-1.86 3.115-1.718 4.633-3.237c1.519-1.518 1.377-3.559 3.237-4.633s3.556.07 5.63-.486C20.956 4.338 21.853 2.5 24 2.5s3.045 1.838 5.12 2.394c2.074.556 3.77-.587 5.63.486c1.86 1.074 1.718 3.115 3.237 4.633c1.518 1.519 3.559 1.377 4.633 3.237s-.07 3.556.486 5.63c.556 2.075 2.394 2.972 2.394 5.12s-1.838 3.045-2.394 5.12c-.556 2.074.587 3.77-.486 5.63");
+}
+
+.h4x8y8bzj {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M31.051 24.158a6.893 6.893 0 1 1-13.786 0a6.893 6.893 0 0 1 13.786 0");
+}
+</style><path class="h4x8y8bzj"/><path class="br2ag9bid"/>`,
+		"fallback": "arcticons:monet-line-icon-pack",
+	});
+}
+
+export default Component;

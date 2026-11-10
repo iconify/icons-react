@@ -1,0 +1,41 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bv7a1ibfm {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M17.327 32.216c0 .963.933 1.473 1.624 1.287l5.904-1.588c1.007-.27 1.047-1.523.233-2.145l-5.624-4.3c-.968-.74-2.137-.006-2.137.838z");
+}
+
+.nftb_rxnq {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M15.09 7.988a5.253 5.253 0 0 0-5.254 5.252v18.898c0 3.377 2.363 6.42 5.244 7.059l9.888 2.19c2.27.503 4.718-.526 6.174-1.793c1.455-1.268 2.493-3.029 2.493-4.565v-6.96c0-2.863-2.413-6.207-5.207-6.826l-8.105-1.796l.02-6.207c.009-2.9-2.352-5.253-5.253-5.253");
+}
+
+.z1tjuzqsh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M7.01 13.06c0-4.479 3.656-6.946 8.087-8.56c6.01-2.189 12.873-.054 12.873 5.59v4.36l4.867 1.346c4.671 1.294 8.154 5.307 8.154 10.3v3.84c0 6.183-2.48 7.365-5.14 9.958c-2.096 2.048-6.71 5.282-11.5 4.254l-9.852-2.117c-4.093-.877-7.49-5.36-7.49-9.355z");
+}
+</style><path class="nftb_rxnq"/><path class="bv7a1ibfm"/><path class="z1tjuzqsh"/>`,
+		"fallback": "arcticons:bodian-music",
+	});
+}
+
+export default Component;

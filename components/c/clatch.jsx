@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":48,"height":48};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.acmog1y8i {
+  cx: 39.948px;
+  cy: 39.948px;
+  r: 2.552px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.my3xf4bnf {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  d: path("M27.19 39.948a2.55 2.55 0 0 1-2.552 2.552h-8.931C10.07 42.5 5.5 37.93 5.5 32.293s4.57-10.207 10.207-10.207h6.38v-6.38c0-5.636 4.57-10.206 10.206-10.206S42.5 10.07 42.5 15.707v8.93a2.552 2.552 0 1 1-5.103 0v-8.93a5.103 5.103 0 0 0-10.207 0v8.93a2.55 2.55 0 0 1-2.552 2.553h-8.93a5.103 5.103 0 0 0 0 10.206h8.93a2.55 2.55 0 0 1 2.552 2.552");
+}
+</style><circle class="acmog1y8i"/><path class="my3xf4bnf"/>`,
+		"fallback": "arcticons:clatch",
+	});
+}
+
+export default Component;

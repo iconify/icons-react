@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/vscode-icons",
   "type": "module",
-  "version": "1.0.55",
+  "version": "1.0.56",
   "homepage": "https://icon-sets.iconify.design/vscode-icons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2013,6 +2013,10 @@
     "./file-type-light-agents": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-type-light-agents.jsx"
+    },
+    "./file-type-light-alchemy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-type-light-alchemy.jsx"
     },
     "./file-type-light-apl": {
       "types": "./types/hqrkovbr.d.ts",

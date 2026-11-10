@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -2186,6 +2186,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/ford.jsx"
     },
+    "./fordpass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fordpass.jsx"
+    },
     "./fortaleza": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fortaleza.jsx"
@@ -4321,6 +4325,10 @@
     "./panel-oven": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/panel-oven.jsx"
+    },
+    "./paperless-ngx": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paperless-ngx.jsx"
     },
     "./paramount": {
       "types": "./types/hqrkovbr.d.ts",

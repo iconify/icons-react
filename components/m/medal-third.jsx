@@ -2,9 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/d/dm8kvpb3m.css';
-import '../../css/h/hfw3n0cvn.css';
-import '../../css/p/pu_w2zbmy.css';
-import '../../css/s/sjjpu28zc.css';
+import '../../css/p/pp24m1qke.css';
+import '../../css/e/e0afkkbiw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="dm8kvpb3m"/><path class="hfw3n0cvn"/><path class="pu_w2zbmy"/><path class="sjjpu28zc"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="dm8kvpb3m"/><path class="pp24m1qke"/><path class="e0afkkbiw"/></g>`,
 		"fallback": "andrsrxn:medal-third",
 	});
 }

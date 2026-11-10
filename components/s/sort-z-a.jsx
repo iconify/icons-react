@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mmnj32bie.css';
+import '../../css/j/jjqi283je.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mmnj32bie"/>`,
+		"content": `<path class="jjqi283je"/>`,
 		"fallback": "andrsrxn:sort-z-a",
 	});
 }

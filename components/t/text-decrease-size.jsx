@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f5i5i1k_a.css';
+import '../../css/c/capqrabqb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f5i5i1k_a"/>`,
+		"content": `<path class="capqrabqb"/>`,
 		"fallback": "andrsrxn:text-decrease-size",
 	});
 }

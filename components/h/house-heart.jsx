@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/x/xauj5db7u.css';
-import '../../css/y/y5rx7925u.css';
-import '../../css/w/wd4bqobhz.css';
+import '../../css/g/gncm3mi4t.css';
+import '../../css/g/gsvrl7yuk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="xauj5db7u"/><path class="y5rx7925u"/><path class="wd4bqobhz"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="xauj5db7u"/><path class="gncm3mi4t"/><path class="gsvrl7yuk"/></g>`,
 		"fallback": "andrsrxn:house-heart",
 	});
 }

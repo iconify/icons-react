@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c6it9lmll.css';
+import '../../css/i/iv4316bsu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c6it9lmll"/>`,
+		"content": `<path class="iv4316bsu"/>`,
 		"fallback": "andrsrxn:cellular-network-4g",
 	});
 }

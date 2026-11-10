@@ -1,9 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/t/t3qr8vuik.css';
-import '../../css/n/n7l88_b1z.css';
+import '../../css/w/w69pz5srx.css';
+import '../../css/y/y9rua-zqa.css';
 import '../../css/q/qu9fsbcko.css';
+import '../../css/w/wjqc_6z_x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="t3qr8vuik"/><path class="n7l88_b1z"/><path class="qu9fsbcko"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="w69pz5srx"/><path class="y9rua-zqa"/><path class="qu9fsbcko"/><path class="wjqc_6z_x"/></g>`,
 		"fallback": "andrsrxn:film-warning",
 	});
 }

@@ -1,9 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/m/ma1cm1vdh.css';
-import '../../css/e/ezuqc7blc.css';
-import '../../css/k/kzmmr-3qy.css';
+import '../../css/f/ft5dv1b6b.css';
+import '../../css/r/rlr8j9iso.css';
+import '../../css/r/rb6407b-h.css';
+import '../../css/w/w7cox2bpa.css';
+import '../../css/a/akauz9zoh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="ma1cm1vdh"/><path class="ezuqc7blc"/><path class="kzmmr-3qy"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="rlr8j9iso"/><path class="rb6407b-h"/><path class="w7cox2bpa"/><ellipse class="akauz9zoh"/></g>`,
 		"fallback": "andrsrxn:currency-exchange",
 	});
 }

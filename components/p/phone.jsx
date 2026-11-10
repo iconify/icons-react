@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/d/d14cznbxg.css';
-import '../../css/m/myy4qhkrh.css';
+import '../../css/c/cb977fdem.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="d14cznbxg"/><path class="myy4qhkrh"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="d14cznbxg"/><path class="cb977fdem"/></g>`,
 		"fallback": "andrsrxn:phone",
 	});
 }

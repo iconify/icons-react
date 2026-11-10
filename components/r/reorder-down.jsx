@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/g/gaqimdg5z.css';
+import '../../css/h/hp2v8bbuz.css';
 import '../../css/h/hwidkmdhi.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="gaqimdg5z"/><path class="hwidkmdhi"/></g>`,
+		"content": `<g class="hntgybcog"><path class="hp2v8bbuz"/><path class="hwidkmdhi"/></g>`,
 		"fallback": "andrsrxn:reorder-down",
 	});
 }

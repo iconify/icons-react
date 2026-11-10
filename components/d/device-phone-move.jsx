@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/i/ia7jq9hag.css';
-import '../../css/g/gq3dk_bzb.css';
+import '../../css/w/w5vm23bae.css';
+import '../../css/i/irxgbnb4y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="ia7jq9hag"/><path class="gq3dk_bzb"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="w5vm23bae"/><path class="irxgbnb4y"/></g>`,
 		"fallback": "andrsrxn:device-phone-move",
 	});
 }

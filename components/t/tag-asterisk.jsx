@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/c/c7vj0622h.css';
-import '../../css/o/o6a_hsykw.css';
 import '../../css/h/hmvp54drn.css';
 import '../../css/t/t9r7g6nbq.css';
+import '../../css/p/p8kaolb4p.css';
+import '../../css/t/tbg6xx1_u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="c7vj0622h"/><path class="o6a_hsykw"/><path class="hmvp54drn"/><path class="t9r7g6nbq"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="hmvp54drn"/><path class="t9r7g6nbq"/><path class="p8kaolb4p"/><path class="tbg6xx1_u"/></g>`,
 		"fallback": "andrsrxn:tag-asterisk",
 	});
 }

@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/k/k-rsyob2p.css';
-import '../../css/l/ln__c5bfa.css';
+import '../../css/a/avvmlacod.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="k-rsyob2p"/><path class="ln__c5bfa"/></g>`,
+		"content": `<path class="avvmlacod"/>`,
 		"fallback": "andrsrxn:text-kerning",
 	});
 }

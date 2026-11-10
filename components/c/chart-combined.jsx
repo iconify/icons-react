@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/h/h5v7c-bnz.css';
+import '../../css/s/sh2-7cbtf.css';
 import '../../css/z/zcukp2pnt.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="h5v7c-bnz"/><path class="zcukp2pnt"/></g>`,
+		"content": `<g class="hntgybcog"><path class="sh2-7cbtf"/><path class="zcukp2pnt"/></g>`,
 		"fallback": "andrsrxn:chart-combined",
 	});
 }

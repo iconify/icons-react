@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h953ibrrf.css';
+import '../../css/r/r67p6-b1d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h953ibrrf"/>`,
+		"content": `<path class="r67p6-b1d"/>`,
 		"fallback": "andrsrxn:text-underline",
 	});
 }

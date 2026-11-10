@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/k/ky2yn_bnw.css';
-import '../../css/u/uoszq0bfz.css';
+import '../../css/y/yvxz9pb3h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="ky2yn_bnw"/><path class="uoszq0bfz"/></g>`,
+		"content": `<path class="yvxz9pb3h"/>`,
 		"fallback": "andrsrxn:cellular-network-3g",
 	});
 }

@@ -1,10 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/y/yxtsi0lcq.css';
-import '../../css/m/mwxne9ydb.css';
-import '../../css/n/nvelfbb4v.css';
-import '../../css/q/qylfpj-0m.css';
+import '../../css/c/ckolmjdhr.css';
+import '../../css/u/uyz5clfjb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect class="yxtsi0lcq"/><path class="mwxne9ydb"/><rect class="nvelfbb4v"/><path class="qylfpj-0m"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="ckolmjdhr"/><path class="uyz5clfjb"/></g>`,
 		"fallback": "andrsrxn:subtitles-off",
 	});
 }

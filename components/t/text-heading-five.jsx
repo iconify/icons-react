@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ui5tlxbrr.css';
+import '../../css/u/uga4pjbsg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ui5tlxbrr"/>`,
+		"content": `<path class="uga4pjbsg"/>`,
 		"fallback": "andrsrxn:text-heading-five",
 	});
 }

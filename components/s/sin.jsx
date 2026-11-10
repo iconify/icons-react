@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pba35zbof.css';
+import '../../css/a/asym3udmp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pba35zbof"/>`,
+		"content": `<path class="asym3udmp"/>`,
 		"fallback": "andrsrxn:sin",
 	});
 }

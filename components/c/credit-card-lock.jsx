@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/o/o2j6rdzub.css';
-import '../../css/u/u_o_p2ugk.css';
-import '../../css/i/ipo2-9b3w.css';
-import '../../css/b/bj6rtmbox.css';
-import '../../css/w/w51wt2bab.css';
+import '../../css/d/dh0fgvbep.css';
+import '../../css/r/r3-6mqbtg.css';
+import '../../css/y/yr2yss6oa.css';
+import '../../css/d/dtkzsnbie.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="o2j6rdzub"/><rect class="u_o_p2ugk"/><path class="ipo2-9b3w"/><rect class="bj6rtmbox"/><path class="w51wt2bab"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="dh0fgvbep"/><path class="r3-6mqbtg"/><path class="yr2yss6oa"/><path class="dtkzsnbie"/></g>`,
 		"fallback": "andrsrxn:credit-card-lock",
 	});
 }

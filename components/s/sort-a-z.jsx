@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nx2q_i-0i.css';
+import '../../css/v/v8r-wtbjw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nx2q_i-0i"/>`,
+		"content": `<path class="v8r-wtbjw"/>`,
 		"fallback": "andrsrxn:sort-a-z",
 	});
 }

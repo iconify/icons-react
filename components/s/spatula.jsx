@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/z/zlx8oybov.css';
+import '../../css/k/k3eh5_bya.css';
 import '../../css/x/xs25p1wij.css';
 import '../../css/w/wd_9ef92d.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="zlx8oybov"/><path class="xs25p1wij"/><path class="wd_9ef92d"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="k3eh5_bya"/><path class="xs25p1wij"/><path class="wd_9ef92d"/></g>`,
 		"fallback": "andrsrxn:spatula",
 	});
 }

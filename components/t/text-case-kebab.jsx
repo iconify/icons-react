@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/o/osu3clbek.css';
+import '../../css/o/oydg55bxo.css';
 import '../../css/q/q_niqwe6v.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="osu3clbek"/><path class="q_niqwe6v"/></g>`,
+		"content": `<g class="hntgybcog"><path class="oydg55bxo"/><path class="q_niqwe6v"/></g>`,
 		"fallback": "andrsrxn:text-case-kebab",
 	});
 }

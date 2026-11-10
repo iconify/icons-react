@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/z/znxfnp67b.css';
-import '../../css/i/ioma156-h.css';
+import '../../css/y/y-brm0byh.css';
+import '../../css/b/bj5taw8na.css';
 import '../../css/s/sfrze3jxm.css';
-import '../../css/w/w53s2ymyt.css';
+import '../../css/i/i1z64bwjv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="znxfnp67b"/><path class="ioma156-h"/><circle transform="rotate(-90 18.97 17.77)" class="sfrze3jxm"/><path class="w53s2ymyt"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="y-brm0byh"/><path class="bj5taw8na"/><circle class="sfrze3jxm"/><path class="i1z64bwjv"/></g>`,
 		"fallback": "andrsrxn:folder-settings",
 	});
 }

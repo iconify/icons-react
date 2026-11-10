@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/g/gy678_ybm.css';
-import '../../css/d/dwl0t3b_y.css';
+import '../../css/v/vin9m7baj.css';
+import '../../css/l/ljbbq6okp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="matrix(0 -1 -1 0 22.27 15.78)" class="gy678_ybm"/><path class="dwl0t3b_y"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="vin9m7baj"/><path class="ljbbq6okp"/></g>`,
 		"fallback": "andrsrxn:screen-contract-horizontally",
 	});
 }

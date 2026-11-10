@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n-z2x7xqu.css';
+import '../../css/p/pjdt1_b8i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n-z2x7xqu"/>`,
+		"content": `<path class="pjdt1_b8i"/>`,
 		"fallback": "andrsrxn:sort-desc",
 	});
 }

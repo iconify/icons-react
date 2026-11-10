@@ -1,9 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/e/ee2rqwbxd.css';
-import '../../css/p/pgabhk2zo.css';
-import '../../css/v/vdu6k2bug.css';
+import '../../css/c/cbvw9zb7o.css';
+import '../../css/o/o_uzc9wzr.css';
+import '../../css/z/zayp6_xeg.css';
+import '../../css/a/auq-e_b7y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="ee2rqwbxd"/><path class="pgabhk2zo"/><path class="vdu6k2bug"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="cbvw9zb7o"/><path clip-rule="evenodd" class="o_uzc9wzr"/><path class="zayp6_xeg"/><path class="auq-e_b7y"/></g>`,
 		"fallback": "andrsrxn:book-heart",
 	});
 }

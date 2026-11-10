@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/q/qx0qkv-zt.css';
-import '../../css/b/byis_db0j.css';
+import '../../css/t/tprt89bde.css';
+import '../../css/o/oa4sfjnlr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="rotate(90 0 21.29)scale(-1 1)" class="qx0qkv-zt"/><path class="byis_db0j"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="tprt89bde"/><path class="oa4sfjnlr"/></g>`,
 		"fallback": "andrsrxn:barcode-scan",
 	});
 }

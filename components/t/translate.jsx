@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p5ftisbgt.css';
+import '../../css/y/yi_b2-t-o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p5ftisbgt"/>`,
+		"content": `<path class="yi_b2-t-o"/>`,
 		"fallback": "andrsrxn:translate",
 	});
 }

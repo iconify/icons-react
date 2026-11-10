@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/h/h01dy9bsz.css';
-import '../../css/y/y-0e41x4q.css';
-import '../../css/w/w4p31295l.css';
-import '../../css/c/c4z0x4f8s.css';
+import '../../css/w/wgpy_ec8v.css';
+import '../../css/y/y44khobgz.css';
+import '../../css/j/jr6cypjkl.css';
+import '../../css/c/c0kc3m79n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="h01dy9bsz"/><path class="y-0e41x4q"/><path class="w4p31295l"/><path class="c4z0x4f8s"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="wgpy_ec8v"/><path clip-rule="evenodd" class="y44khobgz"/><path class="jr6cypjkl"/><path class="c0kc3m79n"/></g>`,
 		"fallback": "andrsrxn:app-window-cursor",
 	});
 }

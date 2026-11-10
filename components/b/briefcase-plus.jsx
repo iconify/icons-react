@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/s/she30qb6v.css';
-import '../../css/k/knyufdnft.css';
+import '../../css/d/d0exgv9tm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="she30qb6v"/><path class="knyufdnft"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="she30qb6v"/><path class="d0exgv9tm"/></g>`,
 		"fallback": "andrsrxn:briefcase-plus",
 	});
 }

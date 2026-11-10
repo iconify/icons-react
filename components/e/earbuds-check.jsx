@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/x/xw4clab2s.css';
-import '../../css/z/zdb6vcbxv.css';
-import '../../css/g/gzjs6uf3r.css';
+import '../../css/i/ih5_3ebyt.css';
+import '../../css/h/h7pul15lr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="xw4clab2s"/><path class="zdb6vcbxv"/><path class="gzjs6uf3r"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="xw4clab2s"/><path class="ih5_3ebyt"/><path class="h7pul15lr"/></g>`,
 		"fallback": "andrsrxn:earbuds-check",
 	});
 }

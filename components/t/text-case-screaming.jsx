@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ap7n5ps2n.css';
+import '../../css/s/s0ubloxdl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ap7n5ps2n"/>`,
+		"content": `<path class="s0ubloxdl"/>`,
 		"fallback": "andrsrxn:text-case-screaming",
 	});
 }

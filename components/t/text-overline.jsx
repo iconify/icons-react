@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qf5w28buh.css';
+import '../../css/j/jo0vohbzo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qf5w28buh"/>`,
+		"content": `<path class="jo0vohbzo"/>`,
 		"fallback": "andrsrxn:text-overline",
 	});
 }

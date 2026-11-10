@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/i/ifivxibrp.css';
-import '../../css/l/lt949dl7g.css';
-import '../../css/s/shwczoibt.css';
-import '../../css/t/tcw_5qbdb.css';
+import '../../css/s/sr28_0vuq.css';
+import '../../css/w/wo5nanh_o.css';
+import '../../css/s/stbp-zbzm.css';
+import '../../css/o/ohiy_9w1k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect class="ifivxibrp"/><path class="lt949dl7g"/><rect transform="rotate(-45 31.33 -16.1)scale(1 -1)" class="shwczoibt"/><path class="tcw_5qbdb"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="sr28_0vuq"/><path class="wo5nanh_o"/><path class="stbp-zbzm"/><path class="ohiy_9w1k"/></g>`,
 		"fallback": "andrsrxn:calendar-edit",
 	});
 }

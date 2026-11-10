@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/l/lx90d9eva.css';
-import '../../css/z/zbraxxbpk.css';
-import '../../css/f/f4zg2ubjr.css';
-import '../../css/j/jf6tf2zuk.css';
+import '../../css/k/kgmikpbhl.css';
+import '../../css/q/qui0xubvo.css';
+import '../../css/l/l-n86hwmb.css';
+import '../../css/v/vgpr6_skd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="lx90d9eva"/><path class="zbraxxbpk"/><path class="f4zg2ubjr"/><path class="jf6tf2zuk"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="kgmikpbhl"/><path class="qui0xubvo"/><path class="l-n86hwmb"/><path class="vgpr6_skd"/></g>`,
 		"fallback": "andrsrxn:file-medal",
 	});
 }

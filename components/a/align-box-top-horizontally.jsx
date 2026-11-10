@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/t/tdjejti9j.css';
-import '../../css/b/bb3payb7j.css';
+import '../../css/l/li6c56bwm.css';
+import '../../css/n/nhid2ipbs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="tdjejti9j"/><path class="bb3payb7j"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="li6c56bwm"/><path class="nhid2ipbs"/></g>`,
 		"fallback": "andrsrxn:align-box-top-horizontally",
 	});
 }

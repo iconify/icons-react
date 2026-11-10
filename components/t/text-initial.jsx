@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/toabibr5d.css';
+import '../../css/y/yxjxjk4sb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="toabibr5d"/>`,
+		"content": `<path class="yxjxjk4sb"/>`,
 		"fallback": "andrsrxn:text-initial",
 	});
 }

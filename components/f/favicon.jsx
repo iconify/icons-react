@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/p/p74aevbjk.css';
-import '../../css/i/iviarcrrc.css';
-import '../../css/q/q4-39-fft.css';
+import '../../css/y/yh8uttzef.css';
+import '../../css/m/m2_bo9b3j.css';
+import '../../css/z/ztpy4pbfs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="p74aevbjk"/><rect class="iviarcrrc"/><path class="q4-39-fft"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="yh8uttzef"/><path class="m2_bo9b3j"/><path class="ztpy4pbfs"/></g>`,
 		"fallback": "andrsrxn:favicon",
 	});
 }

@@ -1,9 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/u/u5bfowbny.css';
-import '../../css/v/v8ox6mbiy.css';
-import '../../css/g/gddmrjsss.css';
+import '../../css/k/krpzqqbft.css';
+import '../../css/f/fgfzqmx6k.css';
+import '../../css/v/va3gykbxr.css';
+import '../../css/i/izb2qcbhh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="u5bfowbny"/><path class="v8ox6mbiy"/><path class="gddmrjsss"/></g>`,
+		"content": `<g class="ft5dv1b6b"><ellipse class="krpzqqbft"/><path class="fgfzqmx6k"/><path class="va3gykbxr"/><path class="izb2qcbhh"/></g>`,
 		"fallback": "andrsrxn:seek-forward-fifteen-rtl",
 	});
 }

@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/r/r72actb8a.css';
-import '../../css/i/iub47d_vj.css';
-import '../../css/q/q8eb2xaoh.css';
+import '../../css/n/ngckdjbsp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="r72actb8a"/><path class="iub47d_vj"/><path class="q8eb2xaoh"/></g>`,
+		"content": `<path class="ngckdjbsp"/>`,
 		"fallback": "andrsrxn:text-decrease-font-weight",
 	});
 }

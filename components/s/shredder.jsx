@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/x/x3b_ypwxl.css';
 import '../../css/p/pj_n05aid.css';
-import '../../css/u/uc_7r3bbl.css';
+import '../../css/b/bmz0jd3pc.css';
 import '../../css/f/fqm0nwbmd.css';
 
 const viewBox = {"width":24,"height":24};
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="x3b_ypwxl"/><path class="pj_n05aid"/><path class="uc_7r3bbl"/><path class="fqm0nwbmd"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="x3b_ypwxl"/><path class="pj_n05aid"/><path class="bmz0jd3pc"/><path class="fqm0nwbmd"/></g>`,
 		"fallback": "andrsrxn:shredder",
 	});
 }

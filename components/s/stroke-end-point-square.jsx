@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/c/cl-oqybpa.css';
-import '../../css/m/mjf7cybbz.css';
+import '../../css/y/y0q6ubqma.css';
+import '../../css/r/rmjn-ercn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="cl-oqybpa"/><path class="mjf7cybbz"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="y0q6ubqma"/><path class="rmjn-ercn"/></g>`,
 		"fallback": "andrsrxn:stroke-end-point-square",
 	});
 }

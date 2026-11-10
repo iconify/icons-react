@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xtgvpco-g.css';
+import '../../css/l/lax5n35xm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xtgvpco-g"/>`,
+		"content": `<path class="lax5n35xm"/>`,
 		"fallback": "andrsrxn:cellular-network-lte",
 	});
 }

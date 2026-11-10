@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/v/v7dh059pd.css';
-import '../../css/z/ztstzibly.css';
-import '../../css/s/spbxfpjqf.css';
+import '../../css/s/sf3umw9pc.css';
+import '../../css/j/j5qj9accq.css';
+import '../../css/w/wrugu_ffb.css';
 import '../../css/l/lgalliejm.css';
 
 const viewBox = {"width":24,"height":24};
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="v7dh059pd"/><path class="ztstzibly"/><path class="spbxfpjqf"/><path class="lgalliejm"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="sf3umw9pc"/><path class="j5qj9accq"/><path class="wrugu_ffb"/><path class="lgalliejm"/></g>`,
 		"fallback": "andrsrxn:mail-letter",
 	});
 }

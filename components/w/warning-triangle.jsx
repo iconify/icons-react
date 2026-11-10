@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/x/xecyk8bbz.css';
-import '../../css/t/teea9nbsd.css';
+import '../../css/r/rm-lu2s3v.css';
 import '../../css/c/c3tkfxbxy.css';
 
 const viewBox = {"width":24,"height":24};
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="xecyk8bbz"/><path class="teea9nbsd"/><path class="c3tkfxbxy"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="xecyk8bbz"/><path class="rm-lu2s3v"/><path class="c3tkfxbxy"/></g>`,
 		"fallback": "andrsrxn:warning-triangle",
 	});
 }

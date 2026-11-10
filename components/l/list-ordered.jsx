@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/erpny4jfb.css';
+import '../../css/j/jatr1b-pp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="erpny4jfb"/>`,
+		"content": `<path class="jatr1b-pp"/>`,
 		"fallback": "andrsrxn:list-ordered",
 	});
 }

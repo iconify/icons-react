@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yamgd2b5k.css';
+import '../../css/h/hbsumb_hf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yamgd2b5k"/>`,
+		"content": `<path class="hbsumb_hf"/>`,
 		"fallback": "andrsrxn:text-heading-two",
 	});
 }

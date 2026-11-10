@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/c/c4oak0b9v.css';
-import '../../css/q/q_niqwe6v.css';
+import '../../css/q/qvctme32x.css';
+import '../../css/k/kssxw1plt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="c4oak0b9v"/><path class="q_niqwe6v"/></g>`,
+		"content": `<g class="hntgybcog"><path class="qvctme32x"/><path class="kssxw1plt"/></g>`,
 		"fallback": "andrsrxn:text-case-snake",
 	});
 }

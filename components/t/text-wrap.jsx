@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/u/upw8f7bde.css';
+import '../../css/o/olczbacvm.css';
 import '../../css/y/ycdjovcgc.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="upw8f7bde"/><path class="ycdjovcgc"/></g>`,
+		"content": `<g class="hntgybcog"><path class="olczbacvm"/><path class="ycdjovcgc"/></g>`,
 		"fallback": "andrsrxn:text-wrap",
 	});
 }

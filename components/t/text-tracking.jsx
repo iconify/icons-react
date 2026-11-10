@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vomyfrboa.css';
+import '../../css/w/wn9kxc61j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vomyfrboa"/>`,
+		"content": `<path class="wn9kxc61j"/>`,
 		"fallback": "andrsrxn:text-tracking",
 	});
 }

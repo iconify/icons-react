@@ -1,12 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/k/ktvkgs0ji.css';
-import '../../css/k/kiehcdbvr.css';
-import '../../css/r/r21737buk.css';
-import '../../css/y/y9en5bc0q.css';
-import '../../css/t/tdh2430ff.css';
-import '../../css/w/wstpe7b1j.css';
+import '../../css/h/h7fotrofa.css';
+import '../../css/c/cvoblb3gp.css';
+import '../../css/m/m3big068d.css';
+import '../../css/z/zvnjmmbse.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="ktvkgs0ji"/><path class="kiehcdbvr"/><path class="r21737buk"/><rect class="y9en5bc0q"/><path class="tdh2430ff"/><path class="wstpe7b1j"/></g>`,
+		"content": `<g class="ft5dv1b6b"><ellipse class="h7fotrofa"/><path class="cvoblb3gp"/><path class="m3big068d"/><path class="zvnjmmbse"/></g>`,
 		"fallback": "andrsrxn:seek-forward-thirty",
 	});
 }

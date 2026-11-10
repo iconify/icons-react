@@ -2,9 +2,9 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/s/sm_karjot.css';
-import '../../css/i/ifivxibrp.css';
+import '../../css/m/m1iho-bvd.css';
 import '../../css/r/rmz5vlbcs.css';
-import '../../css/s/s328x16br.css';
+import '../../css/x/xflnghb0o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><circle class="sm_karjot"/><rect class="ifivxibrp"/><circle class="rmz5vlbcs"/><path class="s328x16br"/></g>`,
+		"content": `<g class="ft5dv1b6b"><circle class="sm_karjot"/><path class="m1iho-bvd"/><circle class="rmz5vlbcs"/><path class="xflnghb0o"/></g>`,
 		"fallback": "andrsrxn:calendar-clock",
 	});
 }

@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/m/mvq38mb0h.css';
-import '../../css/n/nt4f7-b5n.css';
-import '../../css/s/snd_6_f8v.css';
-import '../../css/u/ugbsgbctj.css';
-import '../../css/d/d0xpdiott.css';
+import '../../css/x/x8hwotsgc.css';
+import '../../css/v/v6q00pbel.css';
+import '../../css/v/vhr7liyye.css';
+import '../../css/i/iln4g2p0d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="rotate(45 10.1 7)" class="mvq38mb0h"/><path class="nt4f7-b5n"/><path class="snd_6_f8v"/><rect transform="rotate(-45 9.26 6.16)" class="ugbsgbctj"/><path class="d0xpdiott"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="x8hwotsgc"/><path class="v6q00pbel"/><path class="vhr7liyye"/><path class="iln4g2p0d"/></g>`,
 		"fallback": "andrsrxn:baby-bottle",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tsscod3fw.css';
+import '../../css/v/v17wwybmn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tsscod3fw"/>`,
+		"content": `<path class="v17wwybmn"/>`,
 		"fallback": "andrsrxn:text-line-height",
 	});
 }

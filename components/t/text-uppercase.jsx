@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k65g0xv1a.css';
+import '../../css/m/mft06ikyj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k65g0xv1a"/>`,
+		"content": `<path class="mft06ikyj"/>`,
 		"fallback": "andrsrxn:text-uppercase",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pb5l8-b1r.css';
+import '../../css/h/h2cny68tj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pb5l8-b1r"/>`,
+		"content": `<path class="h2cny68tj"/>`,
 		"fallback": "andrsrxn:pipeline-plus",
 	});
 }

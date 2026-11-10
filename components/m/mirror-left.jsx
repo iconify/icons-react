@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/t/tv3oe1t5b.css';
-import '../../css/f/f4-h3h13g.css';
+import '../../css/x/xb8w0mq5z.css';
+import '../../css/y/y8dh_gytf.css';
 
-const viewBox = {"width":24,"height":24};
+const viewBox = {"width":25,"height":24};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="matrix(-1 0 0 1 22.2 3.36)" class="tv3oe1t5b"/><path class="f4-h3h13g"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="xb8w0mq5z"/><path class="y8dh_gytf"/></g>`,
 		"fallback": "andrsrxn:mirror-left",
 	});
 }

@@ -1,10 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/f/ffkfc4bxc.css';
-import '../../css/u/ugkloo4ck.css';
-import '../../css/b/btj6uo__h.css';
-import '../../css/y/y-9nj_lww.css';
+import '../../css/o/ob63bsb4b.css';
+import '../../css/g/gyh9vjbcd.css';
+import '../../css/z/zw156hdev.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="rotate(-90 7.23 5.29)" class="ffkfc4bxc"/><rect transform="rotate(-90 7.23 22.2)" class="ugkloo4ck"/><rect transform="rotate(-90 4.83 18.71)" class="btj6uo__h"/><path class="y-9nj_lww"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="ob63bsb4b"/><path class="gyh9vjbcd"/><path class="zw156hdev"/></g>`,
 		"fallback": "andrsrxn:device-smartwatch-move",
 	});
 }

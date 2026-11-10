@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/q/qx0qkv-zt.css';
-import '../../css/m/m389tgb7t.css';
+import '../../css/t/tprt89bde.css';
+import '../../css/l/lz_skab1i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="rotate(90 0 21.29)scale(-1 1)" class="qx0qkv-zt"/><path class="m389tgb7t"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="tprt89bde"/><path class="lz_skab1i"/></g>`,
 		"fallback": "andrsrxn:text-scan",
 	});
 }

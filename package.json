@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -557,6 +557,14 @@
     "./chartjs-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chartjs-wordmark.jsx"
+    },
+    "./checkmk": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkmk.jsx"
+    },
+    "./checkmk-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkmk-wordmark.jsx"
     },
     "./chrome": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1422,6 +1430,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glitch.jsx"
     },
+    "./gnome": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnome.jsx"
+    },
+    "./gnome-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gnome-wordmark.jsx"
+    },
     "./gnu": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gnu.jsx"
@@ -1513,6 +1529,14 @@
     "./groovy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/groovy.jsx"
+    },
+    "./groq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groq.jsx"
+    },
+    "./groq-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/groq-wordmark.jsx"
     },
     "./grpc": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2514,6 +2538,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nginx.jsx"
     },
+    "./nginx-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nginx-wordmark.jsx"
+    },
     "./ngrok": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/ngrok.jsx"
@@ -2749,6 +2777,10 @@
     "./oracle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/oracle.jsx"
+    },
+    "./oracle-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/oracle-wordmark.jsx"
     },
     "./ory": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3657,6 +3689,14 @@
     "./stackblitz-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stackblitz-wordmark.jsx"
+    },
+    "./stackit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackit.jsx"
+    },
+    "./stackit-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stackit-wordmark.jsx"
     },
     "./stackoverflow": {
       "types": "./types/hqrkovbr.d.ts",

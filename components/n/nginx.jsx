@@ -1,6 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dp_xfkb6y.css';
+import '../../css/x/xqutpcb2e.css';
+import '../../css/i/itzswk0_f.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dp_xfkb6y"/>`,
+		"content": `<path class="xqutpcb2e"/><path class="itzswk0_f"/>`,
 		"fallback": "devicon:nginx",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k4bejobbq.css';
+import '../../css/d/dpdqmbcth.css';
 
 const viewBox = {"width":20,"height":20};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="k4bejobbq"/>`,
+		"content": `<path clip-rule="evenodd" class="dpdqmbcth"/>`,
 		"fallback": "sidekickicons:folder-x-mark-20-solid",
 	});
 }

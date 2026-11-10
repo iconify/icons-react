@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/sidekickicons",
   "type": "module",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "homepage": "https://icon-sets.iconify.design/sidekickicons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -486,6 +486,150 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bluetooth-solid.jsx"
     },
+    "./bookmark-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-check.jsx"
+    },
+    "./bookmark-check-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-check-16-solid.jsx"
+    },
+    "./bookmark-check-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-check-20-solid.jsx"
+    },
+    "./bookmark-check-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-check-solid.jsx"
+    },
+    "./bookmark-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-plus.jsx"
+    },
+    "./bookmark-plus-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-plus-16-solid.jsx"
+    },
+    "./bookmark-plus-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-plus-20-solid.jsx"
+    },
+    "./bookmark-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-plus-solid.jsx"
+    },
+    "./bookmark-x-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-x-mark.jsx"
+    },
+    "./bookmark-x-mark-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-x-mark-16-solid.jsx"
+    },
+    "./bookmark-x-mark-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-x-mark-20-solid.jsx"
+    },
+    "./bookmark-x-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-x-mark-solid.jsx"
+    },
+    "./calendar-arrow-path": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-path.jsx"
+    },
+    "./calendar-arrow-path-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-path-16-solid.jsx"
+    },
+    "./calendar-arrow-path-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-path-20-solid.jsx"
+    },
+    "./calendar-arrow-path-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-path-solid.jsx"
+    },
+    "./calendar-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-check.jsx"
+    },
+    "./calendar-check-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-check-16-solid.jsx"
+    },
+    "./calendar-check-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-check-20-solid.jsx"
+    },
+    "./calendar-check-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-check-solid.jsx"
+    },
+    "./calendar-exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-exclamation.jsx"
+    },
+    "./calendar-exclamation-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-exclamation-16-solid.jsx"
+    },
+    "./calendar-exclamation-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-exclamation-20-solid.jsx"
+    },
+    "./calendar-exclamation-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-exclamation-solid.jsx"
+    },
+    "./calendar-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-minus.jsx"
+    },
+    "./calendar-minus-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-minus-16-solid.jsx"
+    },
+    "./calendar-minus-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-minus-20-solid.jsx"
+    },
+    "./calendar-minus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-minus-solid.jsx"
+    },
+    "./calendar-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-plus.jsx"
+    },
+    "./calendar-plus-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-plus-16-solid.jsx"
+    },
+    "./calendar-plus-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-plus-20-solid.jsx"
+    },
+    "./calendar-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-plus-solid.jsx"
+    },
+    "./calendar-x-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-x-mark.jsx"
+    },
+    "./calendar-x-mark-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-x-mark-16-solid.jsx"
+    },
+    "./calendar-x-mark-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-x-mark-20-solid.jsx"
+    },
+    "./calendar-x-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-x-mark-solid.jsx"
+    },
     "./camera-rotate": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera-rotate.jsx"
@@ -501,6 +645,22 @@
     "./camera-rotate-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera-rotate-solid.jsx"
+    },
+    "./camera-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-slash.jsx"
+    },
+    "./camera-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-slash-16-solid.jsx"
+    },
+    "./camera-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-slash-20-solid.jsx"
+    },
+    "./camera-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-slash-solid.jsx"
     },
     "./car": {
       "types": "./types/hqrkovbr.d.ts",
@@ -726,6 +886,102 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-solid.jsx"
     },
+    "./cloud-arrow-path": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-path.jsx"
+    },
+    "./cloud-arrow-path-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-path-16-solid.jsx"
+    },
+    "./cloud-arrow-path-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-path-20-solid.jsx"
+    },
+    "./cloud-arrow-path-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-arrow-path-solid.jsx"
+    },
+    "./cloud-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-check.jsx"
+    },
+    "./cloud-check-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-check-16-solid.jsx"
+    },
+    "./cloud-check-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-check-20-solid.jsx"
+    },
+    "./cloud-check-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-check-solid.jsx"
+    },
+    "./cloud-exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-exclamation.jsx"
+    },
+    "./cloud-exclamation-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-exclamation-16-solid.jsx"
+    },
+    "./cloud-exclamation-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-exclamation-20-solid.jsx"
+    },
+    "./cloud-exclamation-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-exclamation-solid.jsx"
+    },
+    "./cloud-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-plus.jsx"
+    },
+    "./cloud-plus-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-plus-16-solid.jsx"
+    },
+    "./cloud-plus-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-plus-20-solid.jsx"
+    },
+    "./cloud-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-plus-solid.jsx"
+    },
+    "./cloud-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-slash.jsx"
+    },
+    "./cloud-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-slash-16-solid.jsx"
+    },
+    "./cloud-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-slash-20-solid.jsx"
+    },
+    "./cloud-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-slash-solid.jsx"
+    },
+    "./cloud-x-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-x-mark.jsx"
+    },
+    "./cloud-x-mark-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-x-mark-16-solid.jsx"
+    },
+    "./cloud-x-mark-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-x-mark-20-solid.jsx"
+    },
+    "./cloud-x-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-x-mark-solid.jsx"
+    },
     "./coffee": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coffee.jsx"
@@ -757,6 +1013,22 @@
     "./compass-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/compass-solid.jsx"
+    },
+    "./computer-desktop-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-desktop-slash.jsx"
+    },
+    "./computer-desktop-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-desktop-slash-16-solid.jsx"
+    },
+    "./computer-desktop-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-desktop-slash-20-solid.jsx"
+    },
+    "./computer-desktop-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/computer-desktop-slash-solid.jsx"
     },
     "./computer-laptop": {
       "types": "./types/hqrkovbr.d.ts",
@@ -885,6 +1157,54 @@
     "./dice-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dice-solid.jsx"
+    },
+    "./document-arrow-path": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-arrow-path.jsx"
+    },
+    "./document-arrow-path-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-arrow-path-16-solid.jsx"
+    },
+    "./document-arrow-path-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-arrow-path-20-solid.jsx"
+    },
+    "./document-arrow-path-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-arrow-path-solid.jsx"
+    },
+    "./document-exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-exclamation.jsx"
+    },
+    "./document-exclamation-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-exclamation-16-solid.jsx"
+    },
+    "./document-exclamation-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-exclamation-20-solid.jsx"
+    },
+    "./document-exclamation-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-exclamation-solid.jsx"
+    },
+    "./document-x-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-x-mark.jsx"
+    },
+    "./document-x-mark-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-x-mark-16-solid.jsx"
+    },
+    "./document-x-mark-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-x-mark-20-solid.jsx"
+    },
+    "./document-x-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-x-mark-solid.jsx"
     },
     "./dots-2x2": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1045,6 +1365,70 @@
     "./floppy-disk-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/floppy-disk-solid.jsx"
+    },
+    "./folder-arrow-path": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-path.jsx"
+    },
+    "./folder-arrow-path-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-path-16-solid.jsx"
+    },
+    "./folder-arrow-path-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-path-20-solid.jsx"
+    },
+    "./folder-arrow-path-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-path-solid.jsx"
+    },
+    "./folder-arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up.jsx"
+    },
+    "./folder-arrow-up-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-16-solid.jsx"
+    },
+    "./folder-arrow-up-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-20-solid.jsx"
+    },
+    "./folder-arrow-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-solid.jsx"
+    },
+    "./folder-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check.jsx"
+    },
+    "./folder-check-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-16-solid.jsx"
+    },
+    "./folder-check-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-20-solid.jsx"
+    },
+    "./folder-check-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-solid.jsx"
+    },
+    "./folder-exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-exclamation.jsx"
+    },
+    "./folder-exclamation-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-exclamation-16-solid.jsx"
+    },
+    "./folder-exclamation-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-exclamation-20-solid.jsx"
+    },
+    "./folder-exclamation-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-exclamation-solid.jsx"
     },
     "./folder-x-mark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1334,6 +1718,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-solid.jsx"
     },
+    "./heart-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-slash.jsx"
+    },
+    "./heart-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-slash-16-solid.jsx"
+    },
+    "./heart-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-slash-20-solid.jsx"
+    },
+    "./heart-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-slash-solid.jsx"
+    },
     "./hourglass": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hourglass.jsx"
@@ -1478,6 +1878,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-semi-open-solid.jsx"
     },
+    "./map-pin-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash.jsx"
+    },
+    "./map-pin-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-16-solid.jsx"
+    },
+    "./map-pin-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-20-solid.jsx"
+    },
+    "./map-pin-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-solid.jsx"
+    },
     "./mask": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mask.jsx"
@@ -1605,6 +2021,22 @@
     "./photo-plus-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/photo-plus-solid.jsx"
+    },
+    "./photo-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photo-slash.jsx"
+    },
+    "./photo-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photo-slash-16-solid.jsx"
+    },
+    "./photo-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photo-slash-20-solid.jsx"
+    },
+    "./photo-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/photo-slash-solid.jsx"
     },
     "./pilcrow": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1762,9 +2194,41 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-20-solid.jsx"
     },
+    "./shield-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-plus.jsx"
+    },
+    "./shield-plus-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-plus-16-solid.jsx"
+    },
+    "./shield-plus-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-plus-20-solid.jsx"
+    },
+    "./shield-plus-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-plus-solid.jsx"
+    },
     "./shield-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-solid.jsx"
+    },
+    "./shield-x-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-mark.jsx"
+    },
+    "./shield-x-mark-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-mark-16-solid.jsx"
+    },
+    "./shield-x-mark-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-mark-20-solid.jsx"
+    },
+    "./shield-x-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-mark-solid.jsx"
     },
     "./sidebar-left": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1846,6 +2310,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-half-solid.jsx"
     },
+    "./star-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash.jsx"
+    },
+    "./star-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-16-solid.jsx"
+    },
+    "./star-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-20-solid.jsx"
+    },
+    "./star-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-solid.jsx"
+    },
     "./stethoscope": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stethoscope.jsx"
@@ -1910,6 +2390,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/target-solid.jsx"
     },
+    "./trash-arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-arrow-up.jsx"
+    },
+    "./trash-arrow-up-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-arrow-up-16-solid.jsx"
+    },
+    "./trash-arrow-up-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-arrow-up-20-solid.jsx"
+    },
+    "./trash-arrow-up-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-arrow-up-solid.jsx"
+    },
+    "./trash-x-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-x-mark.jsx"
+    },
+    "./trash-x-mark-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-x-mark-16-solid.jsx"
+    },
+    "./trash-x-mark-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-x-mark-20-solid.jsx"
+    },
+    "./trash-x-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-x-mark-solid.jsx"
+    },
     "./triangle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/triangle.jsx"
@@ -1941,6 +2453,54 @@
     "./usb-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/usb-solid.jsx"
+    },
+    "./user-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-check.jsx"
+    },
+    "./user-check-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-check-16-solid.jsx"
+    },
+    "./user-check-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-check-20-solid.jsx"
+    },
+    "./user-check-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-check-solid.jsx"
+    },
+    "./user-exclamation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-exclamation.jsx"
+    },
+    "./user-exclamation-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-exclamation-16-solid.jsx"
+    },
+    "./user-exclamation-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-exclamation-20-solid.jsx"
+    },
+    "./user-exclamation-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-exclamation-solid.jsx"
+    },
+    "./user-x-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-mark.jsx"
+    },
+    "./user-x-mark-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-mark-16-solid.jsx"
+    },
+    "./user-x-mark-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-mark-20-solid.jsx"
+    },
+    "./user-x-mark-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-mark-solid.jsx"
     },
     "./video-camera-arrow-down-left": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2005,6 +2565,22 @@
     "./view-split-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/view-split-solid.jsx"
+    },
+    "./wifi-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-slash.jsx"
+    },
+    "./wifi-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-slash-16-solid.jsx"
+    },
+    "./wifi-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-slash-20-solid.jsx"
+    },
+    "./wifi-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wifi-slash-solid.jsx"
     },
     "./*": "./*"
   },

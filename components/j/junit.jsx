@@ -1,7 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i242pgvho.css';
-import '../../css/i/ijptld2hs.css';
+import '../../css/i/icxtj8y_t.css';
+import '../../css/m/m8tseed-k.css';
+import '../../css/g/g5loyxbvi.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -12,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i242pgvho"/><path class="ijptld2hs"/>`,
+		"content": `<path class="icxtj8y_t"/><path class="m8tseed-k"/><path class="g5loyxbvi"/>`,
 		"fallback": "devicon:junit",
 	});
 }

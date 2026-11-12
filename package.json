@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -21,6 +21,10 @@
     "./adonisjs-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/adonisjs-wordmark.jsx"
+    },
+    "./aerospace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aerospace.jsx"
     },
     "./aerospike": {
       "types": "./types/hqrkovbr.d.ts",
@@ -321,6 +325,10 @@
     "./azuredevops": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/azuredevops.jsx"
+    },
+    "./azurelogicapps": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azurelogicapps.jsx"
     },
     "./azuresqldatabase": {
       "types": "./types/hqrkovbr.d.ts",
@@ -806,6 +814,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dart-wordmark.jsx"
     },
+    "./databricks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/databricks.jsx"
+    },
+    "./databricks-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/databricks-wordmark.jsx"
+    },
     "./datadog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/datadog.jsx"
@@ -854,6 +870,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/debian-wordmark.jsx"
     },
+    "./deepseek": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deepseek.jsx"
+    },
+    "./deepseek-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deepseek-wordmark.jsx"
+    },
     "./delphi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/delphi.jsx"
@@ -865,6 +889,14 @@
     "./denojs-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/denojs-wordmark.jsx"
+    },
+    "./dependabot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dependabot.jsx"
+    },
+    "./dependabot-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dependabot-wordmark.jsx"
     },
     "./detaspace": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1217,6 +1249,14 @@
     "./flutter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flutter.jsx"
+    },
+    "./fluxcd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fluxcd.jsx"
+    },
+    "./fluxcd-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fluxcd-wordmark.jsx"
     },
     "./flyway": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2758,6 +2798,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opentelemetry-wordmark.jsx"
     },
+    "./opentofu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentofu.jsx"
+    },
+    "./opentofu-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentofu-wordmark.jsx"
+    },
     "./opera": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opera.jsx"
@@ -3642,6 +3690,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spring-wordmark.jsx"
     },
+    "./springboot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/springboot.jsx"
+    },
     "./spss": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/spss.jsx"
@@ -3758,9 +3810,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/styledcomponents-wordmark.jsx"
     },
+    "./stylelint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylelint.jsx"
+    },
+    "./stylelint-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stylelint-wordmark.jsx"
+    },
     "./stylus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stylus.jsx"
+    },
+    "./sublimetext": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sublimetext.jsx"
     },
     "./subversion": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3838,6 +3902,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/symfony-wordmark.jsx"
     },
+    "./systemd": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/systemd.jsx"
+    },
+    "./systemd-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/systemd-wordmark.jsx"
+    },
     "./systemverilog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/systemverilog.jsx"
@@ -3853,6 +3925,14 @@
     "./talos": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/talos.jsx"
+    },
+    "./taskade": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskade.jsx"
+    },
+    "./taskade-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/taskade-wordmark.jsx"
     },
     "./tauri": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3877,6 +3957,14 @@
     "./teleport-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/teleport-wordmark.jsx"
+    },
+    "./temporal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/temporal.jsx"
+    },
+    "./temporal-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/temporal-wordmark.jsx"
     },
     "./tensorflow": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4046,6 +4134,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/turbo-wordmark.jsx"
     },
+    "./turborepo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turborepo.jsx"
+    },
+    "./turborepo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turborepo-wordmark.jsx"
+    },
     "./twilio": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/twilio.jsx"
@@ -4086,6 +4182,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/typo3-wordmark.jsx"
     },
+    "./typst": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typst.jsx"
+    },
     "./ubuntu": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/ubuntu.jsx"
@@ -4113,6 +4213,10 @@
     "./unix": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/unix.jsx"
+    },
+    "./unraid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/unraid.jsx"
     },
     "./unrealengine": {
       "types": "./types/hqrkovbr.d.ts",

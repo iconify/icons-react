@@ -1,6 +1,5 @@
 # @iconify-react/token
 
-⚠️ This is an alternative repository. Main repository has moved to [GitLab](https://gitlab.com/iconify-icons/react/-/tree/token).
 **Web3 Icons**
 
 Author: [0xa3k5](https://github.com/0xa3k5/web3icons)

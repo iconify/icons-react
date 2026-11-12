@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/material-symbols",
   "type": "module",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "homepage": "https://icon-sets.iconify.design/material-symbols/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "Apache-2.0",
@@ -15442,22 +15442,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crop-free-sharp.jsx"
     },
-    "./crop-landscape": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/crop-landscape.jsx"
-    },
-    "./crop-landscape-outline": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/crop-landscape-outline.jsx"
-    },
-    "./crop-landscape-outline-sharp": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/crop-landscape-outline-sharp.jsx"
-    },
-    "./crop-landscape-sharp": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/crop-landscape-sharp.jsx"
-    },
     "./crop-portrait": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crop-portrait.jsx"
@@ -18493,6 +18477,30 @@
     "./document-share": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/document-share.jsx"
+    },
+    "./document-share-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-off.jsx"
+    },
+    "./document-share-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-off-outline.jsx"
+    },
+    "./document-share-off-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-off-outline-rounded.jsx"
+    },
+    "./document-share-off-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-off-outline-sharp.jsx"
+    },
+    "./document-share-off-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-off-rounded.jsx"
+    },
+    "./document-share-off-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document-share-off-sharp.jsx"
     },
     "./document-share-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -21698,9 +21706,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eyeglasses-2.jsx"
     },
-    "./eyeglasses-2-rounded": {
+    "./eyeglasses-2-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/eyeglasses-2-rounded.jsx"
+      "default": "./components/e/eyeglasses-2-outline-sharp.jsx"
+    },
+    "./eyeglasses-2-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eyeglasses-2-sharp.jsx"
     },
     "./eyeglasses-2-sound": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25873,6 +25885,18 @@
     "./frame-person": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/frame-person.jsx"
+    },
+    "./frame-person-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-person-2.jsx"
+    },
+    "./frame-person-2-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-person-2-rounded.jsx"
+    },
+    "./frame-person-2-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-person-2-sharp.jsx"
     },
     "./frame-person-mic": {
       "types": "./types/hqrkovbr.d.ts",
@@ -38106,14 +38130,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mode-off-on.jsx"
     },
-    "./mode-standby": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/m/mode-standby.jsx"
-    },
-    "./mode-standby-outline": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/m/mode-standby-outline.jsx"
-    },
     "./model-training": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/model-training.jsx"
@@ -46326,6 +46342,50 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/print-error-sharp.jsx"
     },
+    "./print-landscape-long": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-long.jsx"
+    },
+    "./print-landscape-long-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-long-outline.jsx"
+    },
+    "./print-landscape-long-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-long-outline-rounded.jsx"
+    },
+    "./print-landscape-long-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-long-outline-sharp.jsx"
+    },
+    "./print-landscape-long-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-long-rounded.jsx"
+    },
+    "./print-landscape-long-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-long-sharp.jsx"
+    },
+    "./print-landscape-short": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-short.jsx"
+    },
+    "./print-landscape-short-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-short-outline.jsx"
+    },
+    "./print-landscape-short-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-short-outline-rounded.jsx"
+    },
+    "./print-landscape-short-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-short-outline-sharp.jsx"
+    },
+    "./print-landscape-short-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-short-sharp.jsx"
+    },
     "./print-lock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/print-lock.jsx"
@@ -46361,6 +46421,54 @@
     "./print-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/print-outline-sharp.jsx"
+    },
+    "./print-portrait-long": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-long.jsx"
+    },
+    "./print-portrait-long-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-long-outline.jsx"
+    },
+    "./print-portrait-long-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-long-outline-rounded.jsx"
+    },
+    "./print-portrait-long-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-long-outline-sharp.jsx"
+    },
+    "./print-portrait-long-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-long-rounded.jsx"
+    },
+    "./print-portrait-long-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-long-sharp.jsx"
+    },
+    "./print-portrait-short": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-short.jsx"
+    },
+    "./print-portrait-short-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-short-outline.jsx"
+    },
+    "./print-portrait-short-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-short-outline-rounded.jsx"
+    },
+    "./print-portrait-short-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-short-outline-sharp.jsx"
+    },
+    "./print-portrait-short-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-short-rounded.jsx"
+    },
+    "./print-portrait-short-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-portrait-short-sharp.jsx"
     },
     "./print-rounded": {
       "types": "./types/hqrkovbr.d.ts",
@@ -60250,6 +60358,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/touch-double-2.jsx"
     },
+    "./touch-double-2-hold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch-double-2-hold.jsx"
+    },
+    "./touch-double-2-hold-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch-double-2-hold-outline.jsx"
+    },
+    "./touch-double-2-hold-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch-double-2-hold-outline-rounded.jsx"
+    },
+    "./touch-double-2-hold-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch-double-2-hold-outline-sharp.jsx"
+    },
+    "./touch-double-2-hold-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch-double-2-hold-rounded.jsx"
+    },
+    "./touch-double-2-hold-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/touch-double-2-hold-sharp.jsx"
+    },
     "./touch-double-2-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/touch-double-2-outline.jsx"
@@ -73418,13 +73550,29 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crop-free-outline-sharp.jsx"
     },
+    "./crop-landscape": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop-landscape.jsx"
+    },
+    "./crop-landscape-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop-landscape-outline.jsx"
+    },
     "./crop-landscape-outline-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crop-landscape-outline-rounded.jsx"
     },
+    "./crop-landscape-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop-landscape-outline-sharp.jsx"
+    },
     "./crop-landscape-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/crop-landscape-rounded.jsx"
+    },
+    "./crop-landscape-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop-landscape-sharp.jsx"
     },
     "./crop-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -76198,13 +76346,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eyeglasses-2-outline-rounded.jsx"
     },
-    "./eyeglasses-2-outline-sharp": {
+    "./eyeglasses-2-rounded": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/eyeglasses-2-outline-sharp.jsx"
-    },
-    "./eyeglasses-2-sharp": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/e/eyeglasses-2-sharp.jsx"
+      "default": "./components/e/eyeglasses-2-rounded.jsx"
     },
     "./eyeglasses-2-sound-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -78369,6 +78513,18 @@
     "./frame-inspect-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/frame-inspect-outline-sharp.jsx"
+    },
+    "./frame-person-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-person-2-outline.jsx"
+    },
+    "./frame-person-2-outline-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-person-2-outline-rounded.jsx"
+    },
+    "./frame-person-2-outline-sharp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/frame-person-2-outline-sharp.jsx"
     },
     "./frame-reload-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -83994,6 +84150,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mode-off-on-sharp.jsx"
     },
+    "./mode-standby": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mode-standby.jsx"
+    },
+    "./mode-standby-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mode-standby-outline.jsx"
+    },
     "./mode-standby-outline-rounded": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mode-standby-outline-rounded.jsx"
@@ -88205,6 +88369,10 @@
     "./price-check-outline-sharp": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/price-check-outline-sharp.jsx"
+    },
+    "./print-landscape-short-rounded": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/print-landscape-short-rounded.jsx"
     },
     "./priority-high-outline": {
       "types": "./types/hqrkovbr.d.ts",

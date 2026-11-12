@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/token-branded",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "homepage": "https://icon-sets.iconify.design/token-branded/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2345,6 +2345,14 @@
     "./caw-background": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/caw-background.jsx"
+    },
+    "./cbbtc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cbbtc.jsx"
+    },
+    "./cbbtc-background": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cbbtc-background.jsx"
     },
     "./cbeth": {
       "types": "./types/hqrkovbr.d.ts",

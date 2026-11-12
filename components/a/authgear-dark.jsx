@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/ki-0lmrvc.css';
+import '../../css/z/zo_0kftwy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ki-0lmrvc"/>`,
+		"content": `<path class="zo_0kftwy"/>`,
 		"fallback": "selfhst:authgear-dark",
 	});
 }

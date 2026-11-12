@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wqja-mjmp.css';
+import '../../css/e/eggr4hkfo.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wqja-mjmp"/>`,
+		"content": `<path class="eggr4hkfo"/>`,
 		"fallback": "selfhst:budgetbee-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/khj3moalm.css';
+import '../../css/d/dtbaw3hnr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="khj3moalm"/>`,
+		"content": `<path class="dtbaw3hnr"/>`,
 		"fallback": "selfhst:budget-board-light",
 	});
 }

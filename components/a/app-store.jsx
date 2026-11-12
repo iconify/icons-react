@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGwIXbaeAs" x1="-473.572" x2="-473.572" y1="-11.482" y2="-10.482" gradientTransform="matrix(512 0 0 512 242725 5878)" gradientUnits="userSpaceOnUse"><stop offset="0" class="hf38611nk"/><stop offset="1" class="zzxpkyxfn"/></linearGradient><path fill="url(#SVGwIXbaeAs)" class="w6tuuh_hi"/><path class="hncib8b1o"/>`,
+		"content": `<linearGradient id="SVGiBoNWLOK" x1="256.1" x2="256.1" y1="-.8" y2="511.2" gradientUnits="userSpaceOnUse"><stop offset="0" class="hf38611nk"/><stop offset="1" class="zzxpkyxfn"/></linearGradient><path fill="url(#SVGiBoNWLOK)" class="w6tuuh_hi"/><path class="hncib8b1o"/>`,
 		"fallback": "selfhst:app-store",
 	});
 }

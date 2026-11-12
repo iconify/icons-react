@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fagntxw4g.css';
-import '../../css/t/tqmas5pkf.css';
+import '../../css/y/yj6b63bfc.css';
+import '../../css/j/jiywhnbij.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fagntxw4g"/><path class="tqmas5pkf"/>`,
+		"content": `<path class="yj6b63bfc"/><path class="jiywhnbij"/>`,
 		"fallback": "selfhst:chibisafe-light",
 	});
 }

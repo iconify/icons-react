@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uf-_vsrid.css';
+import '../../css/l/lzl8ltb4v.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uf-_vsrid"/>`,
+		"content": `<path class="lzl8ltb4v"/>`,
 		"fallback": "selfhst:xibo-dark",
 	});
 }

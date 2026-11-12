@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tmf9fexod.css';
+import '../../css/g/guq7mxbib.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tmf9fexod"/>`,
+		"content": `<path class="guq7mxbib"/>`,
 		"fallback": "selfhst:t3-code-dark",
 	});
 }

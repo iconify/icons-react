@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kcd13orep.css';
+import '../../css/k/k0nj5mbku.css';
 import '../../css/z/zs9x5hotx.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kcd13orep"/><path class="zs9x5hotx"/>`,
+		"content": `<path class="k0nj5mbku"/><path class="zs9x5hotx"/>`,
 		"fallback": "selfhst:mongodb-light",
 	});
 }

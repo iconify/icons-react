@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sb8s_pcfe.css';
+import '../../css/g/gvxobsbtf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sb8s_pcfe"/>`,
+		"content": `<path class="gvxobsbtf"/>`,
 		"fallback": "selfhst:hook0-light",
 	});
 }

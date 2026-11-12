@@ -4,7 +4,7 @@ import '../../css/z/z197esbqs.css';
 import '../../css/p/pswsfxbhy.css';
 import '../../css/r/ru9jsccjf.css';
 import '../../css/h/hxvjidc_u.css';
-import '../../css/u/ut_p-qbrc.css';
+import '../../css/i/ilg4kelxq.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z197esbqs"/><path class="pswsfxbhy"/><path class="ru9jsccjf"/><path class="hxvjidc_u"/><path class="ut_p-qbrc"/>`,
+		"content": `<path class="z197esbqs"/><path class="pswsfxbhy"/><path class="ru9jsccjf"/><path class="hxvjidc_u"/><path class="ilg4kelxq"/>`,
 		"fallback": "selfhst:labelito",
 	});
 }

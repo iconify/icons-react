@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ng52_txct.css';
+import '../../css/n/no3pe0d-x.css';
 import '../../css/c/c03hhtb_l.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ng52_txct"/><path class="c03hhtb_l"/>`,
+		"content": `<path class="no3pe0d-x"/><path class="c03hhtb_l"/>`,
 		"fallback": "selfhst:google-translate-dark",
 	});
 }

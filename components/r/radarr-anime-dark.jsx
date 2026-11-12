@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/phaccdd0f.css';
+import '../../css/n/n-ul83bfb.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="phaccdd0f"/>`,
+		"content": `<path class="n-ul83bfb"/>`,
 		"fallback": "selfhst:radarr-anime-dark",
 	});
 }

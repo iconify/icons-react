@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<radialGradient id="SVGFT9J9ZQz" cx="26.743" cy="396.632" r="362.392" gradientUnits="userSpaceOnUse"><stop offset="0" class="rk_28gdkl"/><stop offset="1" class="vc--wpv5i"/></radialGradient><path fill="url(#SVGFT9J9ZQz)" class="a5d0jbb9o"/><radialGradient id="SVGH0gzGcLS" cx="111.871" cy="536.815" r="1" gradientTransform="rotate(38.202 -333243.758 -218452.81)scale(570.097 -471.102)" gradientUnits="userSpaceOnUse"><stop offset="0" class="c98y_fk5b"/><stop offset="1" class="itrz8idgc"/></radialGradient><path fill="url(#SVGH0gzGcLS)" class="wz3n4tv8m"/>`,
+		"content": `<radialGradient id="SVGsKkVM8lW" cx="26.7" cy="396.6" r="362.4" gradientUnits="userSpaceOnUse"><stop offset="0" class="rk_28gdkl"/><stop offset="1" class="vc--wpv5i"/></radialGradient><path fill="url(#SVGsKkVM8lW)" class="a5d0jbb9o"/><radialGradient id="SVGzIWUFcPd" cx="111.871" cy="536.815" r="1" gradientTransform="rotate(218.202 -75650.983 115403.5)scale(-570.09702 471.10196)" gradientUnits="userSpaceOnUse"><stop offset="0" class="c98y_fk5b"/><stop offset="1" class="itrz8idgc"/></radialGradient><path fill="url(#SVGzIWUFcPd)" class="wz3n4tv8m"/>`,
 		"fallback": "selfhst:microsoft-designer-light",
 	});
 }

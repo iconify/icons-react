@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u60jawbmr.css';
+import '../../css/j/j29moabpi.css';
 import '../../css/e/etvlrmq6u.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="u60jawbmr"/><path class="etvlrmq6u"/>`,
+		"content": `<circle class="j29moabpi"/><path class="etvlrmq6u"/>`,
 		"fallback": "selfhst:dumbassets",
 	});
 }

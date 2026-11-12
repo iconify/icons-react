@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sndodubfo.css';
-import '../../css/a/a4nkfj3oj.css';
+import '../../css/i/iivk5q4jp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sndodubfo"/><path class="a4nkfj3oj"/>`,
+		"content": `<path class="iivk5q4jp"/>`,
 		"fallback": "selfhst:phpsysinfo-dark",
 	});
 }

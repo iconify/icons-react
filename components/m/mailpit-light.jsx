@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/n30rbnbif.css';
-import '../../css/g/g13wum06j.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n30rbnbif"/><path class="g13wum06j"/>`,
+		"content": `<path class="n30rbnbif"/>`,
 		"fallback": "selfhst:mailpit-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cgkrg8bvl.css';
+import '../../css/n/n-c0av85g.css';
 import '../../css/r/r1m3whbhg.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cgkrg8bvl"/><path class="r1m3whbhg"/>`,
+		"content": `<path class="n-c0av85g"/><path class="r1m3whbhg"/>`,
 		"fallback": "selfhst:domain-locker",
 	});
 }

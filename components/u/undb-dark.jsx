@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tv02buttj.css';
+import '../../css/t/tegoorb-y.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tv02buttj"/>`,
+		"content": `<path class="tegoorb-y"/>`,
 		"fallback": "selfhst:undb-dark",
 	});
 }

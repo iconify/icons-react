@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/g/gfrefdafx.css';
-import '../../css/c/cion4p3li.css';
+import '../../css/a/a4aiwucjc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gfrefdafx"/><path class="cion4p3li"/>`,
+		"content": `<path class="gfrefdafx"/><path class="a4aiwucjc"/>`,
 		"fallback": "selfhst:fmd-dark",
 	});
 }

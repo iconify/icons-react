@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ejmzit6-t.css';
+import '../../css/s/s_eb1s5-s.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ejmzit6-t"/>`,
+		"content": `<path class="s_eb1s5-s"/>`,
 		"fallback": "selfhst:kubernetes-light",
 	});
 }

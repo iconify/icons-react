@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lq_ifjq_u.css';
+import '../../css/i/isf22b0cc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lq_ifjq_u"/>`,
+		"content": `<path class="isf22b0cc"/>`,
 		"fallback": "selfhst:tpdb-dark",
 	});
 }

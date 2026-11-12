@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx6ko4buc.css';
+import '../../css/q/qumyb9bal.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jx6ko4buc"/>`,
+		"content": `<path class="qumyb9bal"/>`,
 		"fallback": "selfhst:twake-drive-light",
 	});
 }

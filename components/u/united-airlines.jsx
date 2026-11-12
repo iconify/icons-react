@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/e/erzf03bmv.css';
-import '../../css/i/iwbjh1dmw.css';
+import '../../css/b/br3ht8bop.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="erzf03bmv"/><path class="iwbjh1dmw"/>`,
+		"content": `<path class="erzf03bmv"/><path class="br3ht8bop"/>`,
 		"fallback": "selfhst:united-airlines",
 	});
 }

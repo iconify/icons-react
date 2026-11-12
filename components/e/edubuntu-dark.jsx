@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gmamszr8w.css';
+import '../../css/w/wja-47b6m.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gmamszr8w"/>`,
+		"content": `<path class="wja-47b6m"/>`,
 		"fallback": "selfhst:edubuntu-dark",
 	});
 }

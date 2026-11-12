@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/r_ij37bly.css';
-import '../../css/f/fuslhac8e.css';
+import '../../css/c/c3p_xw4dl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r_ij37bly"/><path class="fuslhac8e"/>`,
+		"content": `<path class="r_ij37bly"/><path class="c3p_xw4dl"/>`,
 		"fallback": "selfhst:acquiremock-dark",
 	});
 }

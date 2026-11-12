@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zs-gfac-x.css';
+import '../../css/a/aeuilmlma.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zs-gfac-x"/>`,
+		"content": `<path class="aeuilmlma"/>`,
 		"fallback": "selfhst:free-isp",
 	});
 }

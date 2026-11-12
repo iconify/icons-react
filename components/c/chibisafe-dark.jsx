@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/teznrsbms.css';
-import '../../css/y/ypvg3cc4u.css';
+import '../../css/f/fnm87zbsi.css';
+import '../../css/j/jpb4tzbtj.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="teznrsbms"/><path class="ypvg3cc4u"/>`,
+		"content": `<path class="fnm87zbsi"/><path class="jpb4tzbtj"/>`,
 		"fallback": "selfhst:chibisafe-dark",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/icah81bfn.css';
+import '../../css/c/cw94zvfeo.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="icah81bfn"/>`,
+		"content": `<path class="cw94zvfeo"/>`,
 		"fallback": "selfhst:videogametrackarr-light",
 	});
 }

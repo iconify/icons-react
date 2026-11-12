@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g7w7ozbih.css';
+import '../../css/r/rfems4frz.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g7w7ozbih"/>`,
+		"content": `<path class="rfems4frz"/>`,
 		"fallback": "selfhst:metadata-remote-light",
 	});
 }

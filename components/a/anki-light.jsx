@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o-2e2xgge.css';
+import '../../css/p/p7h-q9q4l.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o-2e2xgge"/>`,
+		"content": `<path class="p7h-q9q4l"/>`,
 		"fallback": "selfhst:anki-light",
 	});
 }

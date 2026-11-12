@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/l9t074brf.css';
-import '../../css/v/v-7b52b6r.css';
-import '../../css/x/xmmjaib5i.css';
+import '../../css/o/o_5jqwb6l.css';
+import '../../css/s/s8uw1xbpw.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l9t074brf"/><path class="v-7b52b6r"/><circle class="xmmjaib5i"/>`,
+		"content": `<path class="l9t074brf"/><path class="o_5jqwb6l"/><circle class="s8uw1xbpw"/>`,
 		"fallback": "selfhst:world-monitor-dark",
 	});
 }

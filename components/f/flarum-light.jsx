@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wsayo-blv.css';
+import '../../css/e/eht4b2bcf.css';
 import '../../css/c/c7ebenbdm.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wsayo-blv"/><path class="c7ebenbdm"/>`,
+		"content": `<path class="eht4b2bcf"/><path class="c7ebenbdm"/>`,
 		"fallback": "selfhst:flarum-light",
 	});
 }

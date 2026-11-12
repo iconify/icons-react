@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f5a44_ban.css';
+import '../../css/l/lljgh4k1v.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f5a44_ban"/>`,
+		"content": `<path class="lljgh4k1v"/>`,
 		"fallback": "selfhst:microsoft-outlook-2018-dark",
 	});
 }

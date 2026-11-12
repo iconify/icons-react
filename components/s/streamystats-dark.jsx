@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/ms5fjbcnx.css';
-import '../../css/c/c8oz1ac5e.css';
+import '../../css/k/kyop2kbkj.css';
+import '../../css/s/sna9uxb8p.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ms5fjbcnx"/><path class="c8oz1ac5e"/>`,
+		"content": `<path class="kyop2kbkj"/><path class="sna9uxb8p"/>`,
 		"fallback": "selfhst:streamystats-dark",
 	});
 }

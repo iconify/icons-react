@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qhkzq7beg"/><path class="q0gv0vbvf"/><path class="sjwqf_byw"/><path class="zxolt8bgo"/><linearGradient id="SVGofKLlcOH" x1="-3888.156" x2="-3886.613" y1="802.326" y2="802.326" gradientTransform="matrix(-319.927 0 0 320.199 -1243432.375 -256648)" gradientUnits="userSpaceOnUse"><stop offset="0" class="lh9ktpbxj"/><stop offset="1" class="vgzdlzjvf"/></linearGradient><path fill="url(#SVGofKLlcOH)" class="irop9kh7j"/><path class="to0kcbbqv"/>`,
+		"content": `<path class="qhkzq7beg"/><path class="q0gv0vbvf"/><path class="sjwqf_byw"/><path class="zxolt8bgo"/><linearGradient id="SVGl6JtIbRP" x1="-3888.156" x2="-3886.613" y1="802.326" y2="802.326" gradientTransform="matrix(-319.927 0 0 320.19901 -1243432.37 -256648)" gradientUnits="userSpaceOnUse"><stop offset="0" class="lh9ktpbxj"/><stop offset="1" class="vgzdlzjvf"/></linearGradient><path fill="url(#SVGl6JtIbRP)" class="irop9kh7j"/><path class="to0kcbbqv"/>`,
 		"fallback": "selfhst:archiesteamfarm",
 	});
 }

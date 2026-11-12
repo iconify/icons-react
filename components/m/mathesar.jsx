@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/koudpr9rc.css';
+import '../../css/a/ass__acoq.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="koudpr9rc"/>`,
+		"content": `<path class="ass__acoq"/>`,
 		"fallback": "selfhst:mathesar",
 	});
 }

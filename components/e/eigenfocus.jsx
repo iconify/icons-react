@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lx0y__vby.css';
-import '../../css/m/mpdhyabli.css';
+import '../../css/g/grpqfdcxp.css';
+import '../../css/i/if6wlcb2s.css';
 import '../../css/o/o5sq00_9y.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lx0y__vby"/><path class="mpdhyabli"/><path class="o5sq00_9y"/>`,
+		"content": `<path class="grpqfdcxp"/><path class="if6wlcb2s"/><path class="o5sq00_9y"/>`,
 		"fallback": "selfhst:eigenfocus",
 	});
 }

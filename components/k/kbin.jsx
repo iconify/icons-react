@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGXSWbddma" x1="42.78" x2="239.45" y1="133.107" y2="504.994" gradientUnits="userSpaceOnUse"><stop offset="0" class="o0zmozbrc"/><stop offset="1" class="vpuku1byn"/></linearGradient><path fill="url(#SVGXSWbddma)" class="t5qrcwbma"/><linearGradient id="SVGQXlyWcma" x1="328.907" x2="257.44" y1="269.478" y2="465.295" gradientTransform="translate(-454.375 -678.855)scale(2.6007)" gradientUnits="userSpaceOnUse"><stop offset="0" class="k9zx-td9x"/><stop offset="1" class="q4ehtuwde"/></linearGradient><path fill="url(#SVGQXlyWcma)" class="c3fwvdbzj"/>`,
+		"content": `<linearGradient id="SVG4HWR5bVF" x1="42.8" x2="239.5" y1="133.1" y2="505" gradientUnits="userSpaceOnUse"><stop offset="0" class="o0zmozbrc"/><stop offset="1" class="vpuku1byn"/></linearGradient><path fill="url(#SVG4HWR5bVF)" class="t5qrcwbma"/><linearGradient id="SVGRci2QbTY" x1="401" x2="215.1" y1="22" y2="531.2" gradientUnits="userSpaceOnUse"><stop offset="0" class="k9zx-td9x"/><stop offset="1" class="q4ehtuwde"/></linearGradient><path fill="url(#SVGRci2QbTY)" class="c3fwvdbzj"/>`,
 		"fallback": "selfhst:kbin",
 	});
 }

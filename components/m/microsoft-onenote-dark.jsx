@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xs1kckuxk.css';
-import '../../css/y/ytnuvpdkn.css';
-import '../../css/p/p4itqc0gf.css';
-import '../../css/y/yav708big.css';
+import '../../css/k/kc4rf65pq.css';
+import '../../css/d/diki2ffvo.css';
+import '../../css/j/ji-kiybzk.css';
+import '../../css/y/yaqxqdbps.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xs1kckuxk"/><path class="ytnuvpdkn"/><path class="p4itqc0gf"/><path class="yav708big"/>`,
+		"content": `<path class="kc4rf65pq"/><path class="diki2ffvo"/><path class="ji-kiybzk"/><path class="yaqxqdbps"/>`,
 		"fallback": "selfhst:microsoft-onenote-dark",
 	});
 }

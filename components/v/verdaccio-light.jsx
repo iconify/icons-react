@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ac-mt5boh.css';
+import '../../css/x/xy_g6_bbi.css';
 import '../../css/v/vxr1g-bus.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ac-mt5boh"/><path class="vxr1g-bus"/>`,
+		"content": `<path class="xy_g6_bbi"/><path class="vxr1g-bus"/>`,
 		"fallback": "selfhst:verdaccio-light",
 	});
 }

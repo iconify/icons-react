@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGcJptGk5B" x1="0" x2="512" y1="256" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" class="wionk-b8u"/><stop offset="1" class="n_arg_b-v"/></linearGradient><path fill="url(#SVGcJptGk5B)" class="r2rl9cbwe"/>`,
+		"content": `<linearGradient id="SVGImLciitM" x2="512" y1="256" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" class="wionk-b8u"/><stop offset="1" class="n_arg_b-v"/></linearGradient><path fill="url(#SVGImLciitM)" class="r2rl9cbwe"/>`,
 		"fallback": "selfhst:wastebin",
 	});
 }

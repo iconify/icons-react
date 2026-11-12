@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/atehkzbyn.css';
+import '../../css/p/p7z1-odpv.css';
 
-const viewBox = {"width":640,"height":640};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="atehkzbyn"/>`,
+		"content": `<path class="p7z1-odpv"/>`,
 		"fallback": "selfhst:dockge-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k4sofebmz.css';
+import '../../css/p/pybrbcb0k.css';
 import '../../css/k/ktwj2bcgu.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k4sofebmz"/><path class="ktwj2bcgu"/>`,
+		"content": `<path class="pybrbcb0k"/><path class="ktwj2bcgu"/>`,
 		"fallback": "selfhst:hyvor-relay-dark",
 	});
 }

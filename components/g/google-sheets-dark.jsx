@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xoore9bru.css';
+import '../../css/q/q-t-9-bbm.css';
 import '../../css/r/riiz-0est.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xoore9bru"/><path class="riiz-0est"/>`,
+		"content": `<path class="q-t-9-bbm"/><path class="riiz-0est"/>`,
 		"fallback": "selfhst:google-sheets-dark",
 	});
 }

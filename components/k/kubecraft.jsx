@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s4imvxbfg.css';
-import '../../css/p/pdqwe3x1i.css';
-import '../../css/a/a2shhjbqb.css';
+import '../../css/u/uky84zbnb.css';
+import '../../css/e/ezzt541et.css';
+import '../../css/p/ppsz4hbwg.css';
 import '../../css/e/eldq07ydi.css';
 
 const viewBox = {"width":512,"height":512};
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s4imvxbfg"/><path class="pdqwe3x1i"/><path class="a2shhjbqb"/><path class="eldq07ydi"/>`,
+		"content": `<path class="uky84zbnb"/><path class="ezzt541et"/><path class="ppsz4hbwg"/><path class="eldq07ydi"/>`,
 		"fallback": "selfhst:kubecraft",
 	});
 }

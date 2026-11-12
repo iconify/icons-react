@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j3e4etbxf.css';
-import '../../css/j/jgee_j83r.css';
+import '../../css/y/ywvh2o5os.css';
+import '../../css/h/h8b9m8b5f.css';
 
-const viewBox = {"width":24,"height":24};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j3e4etbxf"/><path class="jgee_j83r"/>`,
+		"content": `<path class="ywvh2o5os"/><path class="h8b9m8b5f"/>`,
 		"fallback": "selfhst:composetoolbox",
 	});
 }

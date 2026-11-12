@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGkCsT8dGV" x1="-695.575" x2="-519.089" y1="422.325" y2="327.556" gradientTransform="rotate(105.001 1263.195 108.381)scale(-2.8347 2.8347)" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="pnjr8_b7e"/></linearGradient><path fill="url(#SVGkCsT8dGV)" class="krzr9662y"/><path class="sbrlsg32p"/>`,
+		"content": `<linearGradient id="SVGqa3OAe1v" x1="-695.575" x2="-519.089" y1="422.325" y2="327.556" gradientTransform="rotate(105 1263.193 108.382)scale(-2.8347 2.8347)" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="pnjr8_b7e"/></linearGradient><path fill="url(#SVGqa3OAe1v)" class="krzr9662y"/><path class="sbrlsg32p"/>`,
 		"fallback": "selfhst:re-command-light",
 	});
 }

@@ -22,7 +22,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p2z1wutmp"/><radialGradient id="SVGQyHjQdvF" cx="463.589" cy="533.713" r="374.058" gradientTransform="translate(0 -279)" gradientUnits="userSpaceOnUse"><stop offset=".007" class="yyxoftbyx"/><stop offset=".03" class="mp-0ihg0i"/><stop offset=".057" class="f5s94db8c"/><stop offset=".084" class="heb5xybih"/><stop offset=".111" class="h82jjvveu"/><stop offset=".138" class="kghwadldn"/><stop offset=".165" class="us87lp72v"/><stop offset=".191" class="arq3vxbmk"/><stop offset=".216" class="xg1hmu18e"/><stop offset="1" class="f-urg-5hd"/></radialGradient><path fill="url(#SVGQyHjQdvF)" class="zag2_lbjm"/>`,
+		"content": `<path class="p2z1wutmp"/><radialGradient id="SVGpoeG6W7r" cx="463.6" cy="254.7" r="374.1" gradientUnits="userSpaceOnUse"><stop offset=".007" class="yyxoftbyx"/><stop offset=".03" class="mp-0ihg0i"/><stop offset=".057" class="f5s94db8c"/><stop offset=".084" class="heb5xybih"/><stop offset=".111" class="h82jjvveu"/><stop offset=".138" class="kghwadldn"/><stop offset=".165" class="us87lp72v"/><stop offset=".191" class="arq3vxbmk"/><stop offset=".216" class="xg1hmu18e"/><stop offset="1" class="f-urg-5hd"/></radialGradient><path fill="url(#SVGpoeG6W7r)" class="zag2_lbjm"/>`,
 		"fallback": "selfhst:disney-plus",
 	});
 }

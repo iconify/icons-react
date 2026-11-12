@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vkr2q8ban.css';
+import '../../css/s/s33ndsrce.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vkr2q8ban"/>`,
+		"content": `<path class="s33ndsrce"/>`,
 		"fallback": "selfhst:alarmpi-light",
 	});
 }

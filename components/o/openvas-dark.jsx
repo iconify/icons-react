@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f1mxp-b2u.css';
+import '../../css/j/jii9n7noq.css';
 import '../../css/j/jw8pkbh0s.css';
 import '../../css/w/wn29amz4h.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f1mxp-b2u"/><path class="jw8pkbh0s"/><path class="wn29amz4h"/>`,
+		"content": `<path class="jii9n7noq"/><path class="jw8pkbh0s"/><path class="wn29amz4h"/>`,
 		"fallback": "selfhst:openvas-dark",
 	});
 }

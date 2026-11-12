@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rxp8pmb2q.css';
+import '../../css/m/mhdef1ytm.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rxp8pmb2q"/>`,
+		"content": `<path class="mhdef1ytm"/>`,
 		"fallback": "selfhst:autobrr-light",
 	});
 }

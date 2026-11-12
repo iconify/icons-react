@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ez66c3eel.css';
+import '../../css/n/ng5reibrf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ez66c3eel"/>`,
+		"content": `<path class="ng5reibrf"/>`,
 		"fallback": "selfhst:surveyjs-dark",
 	});
 }

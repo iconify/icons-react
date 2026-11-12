@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/shx8lpdkg.css';
+import '../../css/k/kwv0xcc4b.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="shx8lpdkg"/>`,
+		"content": `<path class="kwv0xcc4b"/>`,
 		"fallback": "selfhst:bytestash-dark",
 	});
 }

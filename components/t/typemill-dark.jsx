@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gugv25bse.css';
+import '../../css/d/dj3b2hoai.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gugv25bse"/>`,
+		"content": `<path class="dj3b2hoai"/>`,
 		"fallback": "selfhst:typemill-dark",
 	});
 }

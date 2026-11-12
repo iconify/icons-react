@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n9rgqnb2s.css';
+import '../../css/h/hcwtw-lte.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n9rgqnb2s"/>`,
+		"content": `<path class="hcwtw-lte"/>`,
 		"fallback": "selfhst:ovpn",
 	});
 }

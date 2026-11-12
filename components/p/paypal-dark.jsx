@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qw_8glqog.css';
+import '../../css/l/l48yp7bmv.css';
 import '../../css/t/tmnz0vbmc.css';
-import '../../css/f/f_quf2bof.css';
+import '../../css/r/r4qkfrbth.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qw_8glqog"/><path class="tmnz0vbmc"/><path class="f_quf2bof"/>`,
+		"content": `<path class="l48yp7bmv"/><path class="tmnz0vbmc"/><path class="r4qkfrbth"/>`,
 		"fallback": "selfhst:paypal-dark",
 	});
 }

@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<radialGradient id="SVGj4RPiRFh" cx="-97.134" cy="-5.283" r="10.303" gradientTransform="rotate(143.73 -2516.434 817.08)scale(54.0006 54.0002)" gradientUnits="userSpaceOnUse"><stop offset="0" class="hvbaimvfu"/><stop offset=".387" class="kkv6f14jz"/><stop offset=".492" class="rwnwmmb7h"/><stop offset=".666" class="k3v3fhbxy"/><stop offset=".854" class="qxrt-1b4u"/><stop offset="1" class="z146uzt3r"/></radialGradient><path fill="url(#SVGj4RPiRFh)" class="w7wc6nbrs"/>`,
+		"content": `<radialGradient id="SVGfRLlUzcX" cx="-97.134" cy="-5.283" r="10.303" gradientTransform="rotate(143.73 -2516.43 817.078)scale(54.0006 54.0002)" gradientUnits="userSpaceOnUse"><stop offset="0" class="hvbaimvfu"/><stop offset=".387" class="kkv6f14jz"/><stop offset=".492" class="rwnwmmb7h"/><stop offset=".666" class="k3v3fhbxy"/><stop offset=".854" class="qxrt-1b4u"/><stop offset="1" class="z146uzt3r"/></radialGradient><path fill="url(#SVGfRLlUzcX)" class="w7wc6nbrs"/>`,
 		"fallback": "selfhst:nodebb",
 	});
 }

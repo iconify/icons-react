@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v6-j7ubto.css';
-import '../../css/n/njy7e9b_b.css';
+import '../../css/h/h568fcbae.css';
+import '../../css/x/x1ipfizhl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="v6-j7ubto"/><path class="njy7e9b_b"/>`,
+		"content": `<circle class="h568fcbae"/><path class="x1ipfizhl"/>`,
 		"fallback": "selfhst:openuem-light",
 	});
 }

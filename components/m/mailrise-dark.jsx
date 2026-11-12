@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v2ds99bls.css';
+import '../../css/m/mgbaqzbcl.css';
 import '../../css/y/yurlis35z.css';
-import '../../css/b/b93z67b5r.css';
+import '../../css/e/efp1h8bop.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v2ds99bls"/><path class="yurlis35z"/><path class="b93z67b5r"/>`,
+		"content": `<path class="mgbaqzbcl"/><path class="yurlis35z"/><path class="efp1h8bop"/>`,
 		"fallback": "selfhst:mailrise-dark",
 	});
 }

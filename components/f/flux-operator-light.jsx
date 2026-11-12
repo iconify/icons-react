@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/a/afc2go00o.css';
-import '../../css/e/edmiowbew.css';
+import '../../css/b/bbdv99rio.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="afc2go00o"/><path class="edmiowbew"/>`,
+		"content": `<path class="afc2go00o"/><path class="bbdv99rio"/>`,
 		"fallback": "selfhst:flux-operator-light",
 	});
 }

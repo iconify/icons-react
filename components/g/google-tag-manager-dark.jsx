@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l0uk8wbky.css';
+import '../../css/z/z-zw2h7ds.css';
 import '../../css/a/acmcm-bzs.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l0uk8wbky"/><path class="acmcm-bzs"/>`,
+		"content": `<path class="z-zw2h7ds"/><path class="acmcm-bzs"/>`,
 		"fallback": "selfhst:google-tag-manager-dark",
 	});
 }

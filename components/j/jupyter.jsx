@@ -4,7 +4,7 @@ import '../../css/w/w006lobzc.css';
 import '../../css/t/tx2rzib1i.css';
 import '../../css/d/d-m49pkha.css';
 import '../../css/x/xmfwdpb2z.css';
-import '../../css/f/f75-xob9o.css';
+import '../../css/r/rf_0x3gtv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w006lobzc"/><path class="tx2rzib1i"/><path class="d-m49pkha"/><path class="xmfwdpb2z"/><path class="f75-xob9o"/>`,
+		"content": `<path class="w006lobzc"/><path class="tx2rzib1i"/><path class="d-m49pkha"/><path class="xmfwdpb2z"/><path class="rf_0x3gtv"/>`,
 		"fallback": "selfhst:jupyter",
 	});
 }

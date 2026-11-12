@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rfzhqkbkt.css';
+import '../../css/b/b2kge_box.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rfzhqkbkt"/>`,
+		"content": `<path class="b2kge_box"/>`,
 		"fallback": "selfhst:airtrail-light",
 	});
 }

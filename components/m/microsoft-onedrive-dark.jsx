@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/g/gzxu6cbem.css';
-import '../../css/l/l5bgdtbpm.css';
-import '../../css/t/t9nocfb7t.css';
+import '../../css/y/y5x_dib_i.css';
+import '../../css/b/b6edkyxdc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gzxu6cbem"/><path class="l5bgdtbpm"/><path class="t9nocfb7t"/>`,
+		"content": `<path class="gzxu6cbem"/><path class="y5x_dib_i"/><path class="b6edkyxdc"/>`,
 		"fallback": "selfhst:microsoft-onedrive-dark",
 	});
 }

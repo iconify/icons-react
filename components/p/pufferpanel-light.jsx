@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dxgrrlv4r.css';
+import '../../css/x/xgc5t8g4b.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dxgrrlv4r"/>`,
+		"content": `<path class="xgc5t8g4b"/>`,
 		"fallback": "selfhst:pufferpanel-light",
 	});
 }

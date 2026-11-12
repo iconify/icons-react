@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bw2ojp_cc.css';
-import '../../css/e/e04op1bwe.css';
-import '../../css/g/gutycobgs.css';
+import '../../css/x/xxxptl7ss.css';
+import '../../css/x/xzdvdubue.css';
+import '../../css/c/cmmtxw9or.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bw2ojp_cc"/><path class="e04op1bwe"/><path class="gutycobgs"/>`,
+		"content": `<path class="xxxptl7ss"/><path class="xzdvdubue"/><path class="cmmtxw9or"/>`,
 		"fallback": "selfhst:mediamanager-dark",
 	});
 }

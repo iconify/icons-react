@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eps4tbc5w.css';
+import '../../css/e/emu_9rbiz.css';
 import '../../css/a/a18sp8bki.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eps4tbc5w"/><path class="a18sp8bki"/>`,
+		"content": `<path class="emu_9rbiz"/><path class="a18sp8bki"/>`,
 		"fallback": "selfhst:ultimate-certificate-manager-light",
 	});
 }

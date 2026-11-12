@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rc50gibdd.css';
-import '../../css/v/v691k0tbi.css';
+import '../../css/j/jhgko-bpc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="rc50gibdd"/><path clip-rule="evenodd" class="v691k0tbi"/>`,
+		"content": `<path class="jhgko-bpc"/>`,
 		"fallback": "selfhst:pinepods-dark",
 	});
 }

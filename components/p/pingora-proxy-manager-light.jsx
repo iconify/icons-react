@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rttpcbboh.css';
+import '../../css/n/nqo_rg33l.css';
 import '../../css/j/jl229qvbe.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rttpcbboh"/><path class="jl229qvbe"/>`,
+		"content": `<path class="nqo_rg33l"/><path class="jl229qvbe"/>`,
 		"fallback": "selfhst:pingora-proxy-manager-light",
 	});
 }

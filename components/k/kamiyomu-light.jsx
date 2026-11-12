@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p73-vbb6z.css';
+import '../../css/u/uvhecxojl.css';
 import '../../css/z/z6eui5bmf.css';
-import '../../css/k/k7xjikbow.css';
+import '../../css/w/wmrj8pbsd.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p73-vbb6z"/><path class="z6eui5bmf"/><path class="k7xjikbow"/>`,
+		"content": `<path class="uvhecxojl"/><path class="z6eui5bmf"/><path class="wmrj8pbsd"/>`,
 		"fallback": "selfhst:kamiyomu-light",
 	});
 }

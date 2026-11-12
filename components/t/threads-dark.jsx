@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r1-3kniib.css';
+import '../../css/g/gra6c-g-j.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r1-3kniib"/>`,
+		"content": `<path class="gra6c-g-j"/>`,
 		"fallback": "selfhst:threads-dark",
 	});
 }

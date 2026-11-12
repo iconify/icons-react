@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/q/qp1v2sdoj.css';
-import '../../css/k/kya2hp-hz.css';
+import '../../css/w/wyep4pb8g.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qp1v2sdoj"/><path class="kya2hp-hz"/>`,
+		"content": `<path class="qp1v2sdoj"/><path class="wyep4pb8g"/>`,
 		"fallback": "selfhst:memories",
 	});
 }

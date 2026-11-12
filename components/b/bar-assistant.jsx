@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVG6ZjSNcNX" x1="325.414" x2="-128.986" y1="639.61" y2="-45.191" gradientTransform="translate(0 -279)" gradientUnits="userSpaceOnUse"><stop offset=".083" class="wdleipbps"/><stop offset=".452" class="cihx9hbnv"/><stop offset="1" class="x9_rd_f2j"/></linearGradient><path fill="url(#SVG6ZjSNcNX)" class="ibitabibt"/><path class="pwcd7rbyd"/>`,
+		"content": `<linearGradient id="SVGF1RC5dEA" x1="325.4" x2="-129" y1="360.6" y2="-324.2" gradientUnits="userSpaceOnUse"><stop offset=".083" class="wdleipbps"/><stop offset=".452" class="cihx9hbnv"/><stop offset="1" class="x9_rd_f2j"/></linearGradient><path fill="url(#SVGF1RC5dEA)" class="ibitabibt"/><path class="pwcd7rbyd"/>`,
 		"fallback": "selfhst:bar-assistant",
 	});
 }

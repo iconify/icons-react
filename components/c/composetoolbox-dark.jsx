@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nzwc3f7as.css';
+import '../../css/y/yor-hx2rw.css';
 
-const viewBox = {"width":24,"height":24};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nzwc3f7as"/>`,
+		"content": `<path class="yor-hx2rw"/>`,
 		"fallback": "selfhst:composetoolbox-dark",
 	});
 }

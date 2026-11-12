@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/la7tnabna.css';
-import '../../css/w/w7blx8bjm.css';
+import '../../css/v/vfl8971ej.css';
+import '../../css/j/jh_hmbyeg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="la7tnabna"/><path class="w7blx8bjm"/>`,
+		"content": `<path class="vfl8971ej"/><path class="jh_hmbyeg"/>`,
 		"fallback": "selfhst:initiative-project-management-dark",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tg3cztqhx.css';
+import '../../css/w/w56ozbb3k.css';
 import '../../css/d/dedjm9gwi.css';
-import '../../css/d/d9jjm8sgu.css';
+import '../../css/p/p8l3crl_d.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tg3cztqhx"/><path class="dedjm9gwi"/><path class="d9jjm8sgu"/>`,
+		"content": `<path class="w56ozbb3k"/><path class="dedjm9gwi"/><path class="p8l3crl_d"/>`,
 		"fallback": "selfhst:chorizard",
 	});
 }

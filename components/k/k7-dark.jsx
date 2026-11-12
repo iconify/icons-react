@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oqpaqxb6c.css';
+import '../../css/i/iw16std-u.css';
 import '../../css/u/ud-8v13el.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oqpaqxb6c"/><path class="ud-8v13el"/>`,
+		"content": `<path class="iw16std-u"/><path class="ud-8v13el"/>`,
 		"fallback": "selfhst:k7-dark",
 	});
 }

@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="moh21tptg"/><path class="o72bh4q6z"/><path clip-rule="evenodd" class="c5142wicy"/><path class="x0isxmtro"/>`,
+		"content": `<path class="moh21tptg"/><path class="o72bh4q6z"/><path class="c5142wicy"/><path class="x0isxmtro"/>`,
 		"fallback": "selfhst:plikshare",
 	});
 }

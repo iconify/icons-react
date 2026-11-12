@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zvikf_xgb"/><linearGradient id="SVG5jQOmelE" x1="395.32" x2="263.097" y1="89.142" y2="479.761" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="bmqf4y-5r"/></linearGradient><path fill="url(#SVG5jQOmelE)" class="yw8ns2ibw"/>`,
+		"content": `<path class="zvikf_xgb"/><linearGradient id="SVG9ziUcdpr" x1="395.3" x2="263.1" y1="89.1" y2="479.8" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="bmqf4y-5r"/></linearGradient><path fill="url(#SVG9ziUcdpr)" class="yw8ns2ibw"/>`,
 		"fallback": "selfhst:microsoft-azure-light",
 	});
 }

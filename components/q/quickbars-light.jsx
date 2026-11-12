@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/df8texbdg.css';
-import '../../css/e/eg-j-vy9u.css';
+import '../../css/q/q0j4_mbjy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="df8texbdg"/><path class="eg-j-vy9u"/>`,
+		"content": `<path class="df8texbdg"/><path class="q0j4_mbjy"/>`,
 		"fallback": "selfhst:quickbars-light",
 	});
 }

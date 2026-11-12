@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q6g9odcyz.css';
+import '../../css/t/tqle04bwc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q6g9odcyz"/>`,
+		"content": `<path class="tqle04bwc"/>`,
 		"fallback": "selfhst:newegg-light",
 	});
 }

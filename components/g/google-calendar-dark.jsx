@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fdjg2gbpd.css';
+import '../../css/i/itgzwxb1c.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fdjg2gbpd"/>`,
+		"content": `<path class="itgzwxb1c"/>`,
 		"fallback": "selfhst:google-calendar-dark",
 	});
 }

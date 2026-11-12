@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g1_i3l3vn.css';
-import '../../css/m/m5lp6jbuo.css';
+import '../../css/e/em1uhysbp.css';
+import '../../css/w/wp14jkbxl.css';
 
-const viewBox = {"width":500,"height":500};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g1_i3l3vn"/><path class="m5lp6jbuo"/>`,
+		"content": `<path class="em1uhysbp"/><path class="wp14jkbxl"/>`,
 		"fallback": "selfhst:domain-watchdog-light",
 	});
 }

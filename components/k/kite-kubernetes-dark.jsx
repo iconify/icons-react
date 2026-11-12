@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/grhvjiisr.css';
+import '../../css/n/n0lwi_fjl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="grhvjiisr"/>`,
+		"content": `<path class="n0lwi_fjl"/>`,
 		"fallback": "selfhst:kite-kubernetes-dark",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/otum_acis.css';
+import '../../css/o/o-rcmwban.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="otum_acis"/>`,
+		"content": `<path class="o-rcmwban"/>`,
 		"fallback": "selfhst:free-isp-light",
 	});
 }

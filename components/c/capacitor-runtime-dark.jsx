@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wrw7cvbwr.css';
-import '../../css/k/kqpp9twbz.css';
+import '../../css/h/hbhczis_n.css';
+import '../../css/g/g6y54xlpm.css';
 import '../../css/u/up9gopgdj.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wrw7cvbwr"/><path class="kqpp9twbz"/><path class="up9gopgdj"/>`,
+		"content": `<path class="hbhczis_n"/><path class="g6y54xlpm"/><path class="up9gopgdj"/>`,
 		"fallback": "selfhst:capacitor-runtime-dark",
 	});
 }

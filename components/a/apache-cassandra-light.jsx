@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s9pl-r_4g.css';
+import '../../css/f/ftuv1nbrm.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s9pl-r_4g"/>`,
+		"content": `<path class="ftuv1nbrm"/>`,
 		"fallback": "selfhst:apache-cassandra-light",
 	});
 }

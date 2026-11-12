@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n0xjkpbjh.css';
+import '../../css/u/udb3_vxpl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n0xjkpbjh"/>`,
+		"content": `<path class="udb3_vxpl"/>`,
 		"fallback": "selfhst:linux-light",
 	});
 }

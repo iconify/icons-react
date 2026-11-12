@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qlj17obtl.css';
+import '../../css/h/hi-oj1bdw.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qlj17obtl"/>`,
+		"content": `<path class="hi-oj1bdw"/>`,
 		"fallback": "selfhst:glpi-dark",
 	});
 }

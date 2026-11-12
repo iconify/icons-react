@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/w/wx7mr1bdl.css';
-import '../../css/k/kdu6--gsl.css';
+import '../../css/z/zp52ksh9z.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="wx7mr1bdl"/><path class="kdu6--gsl"/>`,
+		"content": `<circle class="wx7mr1bdl"/><path class="zp52ksh9z"/>`,
 		"fallback": "selfhst:retroassembly",
 	});
 }

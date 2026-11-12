@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/isyu6z9ux.css';
+import '../../css/t/t3k1g3byx.css';
 import '../../css/z/zl5x12lyi.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="isyu6z9ux"/><path class="zl5x12lyi"/>`,
+		"content": `<path class="t3k1g3byx"/><path class="zl5x12lyi"/>`,
 		"fallback": "selfhst:dynamodb-dashboard-light",
 	});
 }

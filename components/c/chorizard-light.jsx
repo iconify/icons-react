@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eow2v3j8v.css';
+import '../../css/a/azu-vgb0r.css';
 import '../../css/l/lylvmeb0j.css';
-import '../../css/c/cgm5haclf.css';
+import '../../css/r/rp7_rdbgh.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eow2v3j8v"/><path class="lylvmeb0j"/><path class="cgm5haclf"/>`,
+		"content": `<path class="azu-vgb0r"/><path class="lylvmeb0j"/><path class="rp7_rdbgh"/>`,
 		"fallback": "selfhst:chorizard-light",
 	});
 }

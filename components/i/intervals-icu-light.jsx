@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uf43dzb5n.css';
+import '../../css/s/shcs-1hry.css';
 
-const viewBox = {"width":462.9,"height":462.9};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uf43dzb5n"/>`,
+		"content": `<path class="shcs-1hry"/>`,
 		"fallback": "selfhst:intervals-icu-light",
 	});
 }

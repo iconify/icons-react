@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s1artkaom.css';
+import '../../css/m/m56_hyqyp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s1artkaom"/>`,
+		"content": `<path class="m56_hyqyp"/>`,
 		"fallback": "selfhst:smartfox",
 	});
 }

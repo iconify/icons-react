@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r29bcibbc.css';
+import '../../css/s/s0s5asbdi.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r29bcibbc"/>`,
+		"content": `<path class="s0s5asbdi"/>`,
 		"fallback": "selfhst:united-airlines-light",
 	});
 }

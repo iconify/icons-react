@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/v/v6s54bcir.css';
-import '../../css/f/fzunxilou.css';
-import '../../css/v/v-hvuw-wl.css';
-import '../../css/n/n0680roia.css';
+import '../../css/m/m6_4qv90d.css';
+import '../../css/y/ydohd-r6b.css';
+import '../../css/u/ugods-bug.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v6s54bcir"/><circle class="fzunxilou"/><path class="v-hvuw-wl"/><path class="n0680roia"/>`,
+		"content": `<path class="v6s54bcir"/><circle class="m6_4qv90d"/><path class="ydohd-r6b"/><path class="ugods-bug"/>`,
 		"fallback": "selfhst:nodyx-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oiw7po6xf.css';
+import '../../css/s/swgihk1vm.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oiw7po6xf"/>`,
+		"content": `<path class="swgihk1vm"/>`,
 		"fallback": "selfhst:telebugs-dark",
 	});
 }

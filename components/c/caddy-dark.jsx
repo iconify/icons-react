@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/my_txmb3s.css';
+import '../../css/m/mpdkwn6lf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="my_txmb3s"/>`,
+		"content": `<path class="mpdkwn6lf"/>`,
 		"fallback": "selfhst:caddy-dark",
 	});
 }

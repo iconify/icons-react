@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/w/wap4fu7vn.css';
-import '../../css/m/m85zrbbfy.css';
-import '../../css/y/y1178jbwh.css';
-import '../../css/l/l_u0qmb7a.css';
+import '../../css/m/mex95lw7c.css';
+import '../../css/m/mcdgwguil.css';
+import '../../css/h/hh45kun6a.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wap4fu7vn"/><path class="m85zrbbfy"/><path class="y1178jbwh"/><path class="l_u0qmb7a"/>`,
+		"content": `<path class="wap4fu7vn"/><path class="mex95lw7c"/><path class="mcdgwguil"/><path class="hh45kun6a"/>`,
 		"fallback": "selfhst:linux-containers-lxc-light",
 	});
 }

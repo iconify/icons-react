@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/c9qoumbuq.css';
-import '../../css/q/qkol7euix.css';
+import '../../css/b/batz7rxuv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c9qoumbuq"/><path class="qkol7euix"/>`,
+		"content": `<path class="c9qoumbuq"/><path class="batz7rxuv"/>`,
 		"fallback": "selfhst:wiredoor-light",
 	});
 }

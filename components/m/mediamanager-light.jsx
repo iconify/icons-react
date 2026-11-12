@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rf5ax2rgf.css';
-import '../../css/r/r39nnteoa.css';
-import '../../css/e/eog225bus.css';
+import '../../css/w/wkff-3cxp.css';
+import '../../css/z/z6tzkqpon.css';
+import '../../css/v/vcnt0ibmw.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rf5ax2rgf"/><path class="r39nnteoa"/><path class="eog225bus"/>`,
+		"content": `<path class="wkff-3cxp"/><path class="z6tzkqpon"/><path class="vcnt0ibmw"/>`,
 		"fallback": "selfhst:mediamanager-light",
 	});
 }

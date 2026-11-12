@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/d/d-llkv2cb.css';
 import '../../css/m/mb56g9bey.css';
 import '../../css/v/vc--wpv5i.css';
-import '../../css/j/jycchebqi.css';
+import '../../css/f/fw8ogsv2u.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGlRHhQcRx" x1="0" x2="512" y1="255.95" y2="255.95" gradientUnits="userSpaceOnUse"><stop offset="0" class="d-llkv2cb"/><stop offset=".072" class="mb56g9bey"/><stop offset="1" class="vc--wpv5i"/></linearGradient><path fill="url(#SVGlRHhQcRx)" class="jycchebqi"/>`,
+		"content": `<linearGradient id="SVGHw9NpeBD" x2="512" y1="256" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" class="d-llkv2cb"/><stop offset=".072" class="mb56g9bey"/><stop offset="1" class="vc--wpv5i"/></linearGradient><path fill="url(#SVGHw9NpeBD)" class="fw8ogsv2u"/>`,
 		"fallback": "selfhst:webtrees-light",
 	});
 }

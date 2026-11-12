@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qvjr5w14b.css';
-import '../../css/l/l_b7ufbnd.css';
-import '../../css/c/cre601bev.css';
-import '../../css/i/io-ffjb-u.css';
-import '../../css/z/zeqvf597f.css';
+import '../../css/h/hvmnxt6ft.css';
+import '../../css/m/mkor83bnq.css';
+import '../../css/m/m8r9zubhb.css';
+import '../../css/y/y1mciqk_m.css';
+import '../../css/d/dbqjt5bjh.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qvjr5w14b"/><path class="l_b7ufbnd"/><path class="cre601bev"/><path class="io-ffjb-u"/><path class="zeqvf597f"/>`,
+		"content": `<path class="hvmnxt6ft"/><path class="mkor83bnq"/><path class="m8r9zubhb"/><path class="y1mciqk_m"/><path class="dbqjt5bjh"/>`,
 		"fallback": "selfhst:microsoft-excel-light",
 	});
 }

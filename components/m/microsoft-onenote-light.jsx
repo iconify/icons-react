@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e28y29b_p.css';
-import '../../css/k/k-kledcsx.css';
-import '../../css/f/fyku39bza.css';
-import '../../css/b/b0xttoqnt.css';
+import '../../css/s/spspyv84e.css';
+import '../../css/s/skbabg_mz.css';
+import '../../css/v/vb63gv-2l.css';
+import '../../css/v/vkax1lnah.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e28y29b_p"/><path class="k-kledcsx"/><path class="fyku39bza"/><path class="b0xttoqnt"/>`,
+		"content": `<path class="spspyv84e"/><path class="skbabg_mz"/><path class="vb63gv-2l"/><path class="vkax1lnah"/>`,
 		"fallback": "selfhst:microsoft-onenote-light",
 	});
 }

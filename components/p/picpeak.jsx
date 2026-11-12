@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/syw-ieqgo.css';
+import '../../css/e/ef8_ic69j.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="syw-ieqgo"/>`,
+		"content": `<path class="ef8_ic69j"/>`,
 		"fallback": "selfhst:picpeak",
 	});
 }

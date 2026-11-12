@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ujyspbc6x.css';
+import '../../css/j/jw__jkbtt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ujyspbc6x"/>`,
+		"content": `<path class="jw__jkbtt"/>`,
 		"fallback": "selfhst:msgvault-light",
 	});
 }

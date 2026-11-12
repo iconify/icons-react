@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bbrbmsbty.css';
+import '../../css/g/g3k-rut9k.css';
 import '../../css/v/val4s82hw.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="bbrbmsbty"/><path class="val4s82hw"/>`,
+		"content": `<circle class="g3k-rut9k"/><path class="val4s82hw"/>`,
 		"fallback": "selfhst:accent",
 	});
 }

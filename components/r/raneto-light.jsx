@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tr1vn-rwh.css';
+import '../../css/q/qkjorvxlk.css';
 import '../../css/v/v904cs9gt.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tr1vn-rwh"/><path class="v904cs9gt"/>`,
+		"content": `<path class="qkjorvxlk"/><path class="v904cs9gt"/>`,
 		"fallback": "selfhst:raneto-light",
 	});
 }

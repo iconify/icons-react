@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cq1fcebhx.css';
-import '../../css/d/dk1et5bqm.css';
-import '../../css/l/lj4qawbsq.css';
-import '../../css/c/culjwubau.css';
-import '../../css/y/y3dw_8b3s.css';
+import '../../css/y/yaunbmwzy.css';
+import '../../css/d/dsukp8ctc.css';
+import '../../css/u/ubdlf3wbm.css';
+import '../../css/l/l4hqxy0vi.css';
+import '../../css/e/ee0qnmblt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cq1fcebhx"/><path class="dk1et5bqm"/><path class="lj4qawbsq"/><path class="culjwubau"/><path class="y3dw_8b3s"/>`,
+		"content": `<path class="yaunbmwzy"/><path class="dsukp8ctc"/><path class="ubdlf3wbm"/><path class="l4hqxy0vi"/><path class="ee0qnmblt"/>`,
 		"fallback": "selfhst:bichon-dark",
 	});
 }

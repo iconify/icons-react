@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uid5ybegl.css';
-import '../../css/f/fokopnbqa.css';
+import '../../css/y/yzhi-ac4k.css';
+import '../../css/c/ck99yo6hz.css';
 import '../../css/g/gqyaulbpw.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uid5ybegl"/><path class="fokopnbqa"/><path class="gqyaulbpw"/>`,
+		"content": `<path class="yzhi-ac4k"/><path class="ck99yo6hz"/><path class="gqyaulbpw"/>`,
 		"fallback": "selfhst:microsoft-powerpoint-light",
 	});
 }

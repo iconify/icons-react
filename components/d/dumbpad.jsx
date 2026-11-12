@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h9_1ckzyh.css';
-import '../../css/z/zo4u7dbqx.css';
+import '../../css/l/lbtomab4q.css';
+import '../../css/t/tytji7n_q.css';
 import '../../css/e/egb1_lbof.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="h9_1ckzyh"/><path class="zo4u7dbqx"/><path class="egb1_lbof"/>`,
+		"content": `<circle class="lbtomab4q"/><path class="tytji7n_q"/><path class="egb1_lbof"/>`,
 		"fallback": "selfhst:dumbpad",
 	});
 }

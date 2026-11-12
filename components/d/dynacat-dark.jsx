@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cvzau1gld.css';
+import '../../css/n/nhr1z4b3l.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cvzau1gld"/>`,
+		"content": `<path class="nhr1z4b3l"/>`,
 		"fallback": "selfhst:dynacat-dark",
 	});
 }

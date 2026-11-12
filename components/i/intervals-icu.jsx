@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f02lo6bya.css';
-import '../../css/b/bdrh4zbik.css';
+import '../../css/k/kcdlw7auy.css';
+import '../../css/s/s_jmxibuk.css';
 
-const viewBox = {"width":462.9,"height":462.9};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="f02lo6bya"/><path class="bdrh4zbik"/>`,
+		"content": `<circle class="kcdlw7auy"/><path class="s_jmxibuk"/>`,
 		"fallback": "selfhst:intervals-icu",
 	});
 }

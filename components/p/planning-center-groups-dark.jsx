@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uvocr7pig.css';
+import '../../css/x/xqwu4sf5j.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uvocr7pig"/>`,
+		"content": `<path class="xqwu4sf5j"/>`,
 		"fallback": "selfhst:planning-center-groups-dark",
 	});
 }

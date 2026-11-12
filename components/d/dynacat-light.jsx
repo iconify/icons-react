@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m3mdskbpw.css';
+import '../../css/f/fbu9dvbnf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m3mdskbpw"/>`,
+		"content": `<path class="fbu9dvbnf"/>`,
 		"fallback": "selfhst:dynacat-light",
 	});
 }

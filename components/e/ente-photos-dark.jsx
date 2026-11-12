@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pbjzb3tkp.css';
-import '../../css/v/vj9ta8b3a.css';
-import '../../css/s/s_5frpfwj.css';
-import '../../css/u/u1dblbbwq.css';
+import '../../css/s/s2159gbjp.css';
+import '../../css/f/fro_cac9v.css';
+import '../../css/j/j-esetb3v.css';
+import '../../css/p/p098uujwe.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pbjzb3tkp"/><path class="vj9ta8b3a"/><path class="s_5frpfwj"/><path class="u1dblbbwq"/>`,
+		"content": `<path class="s2159gbjp"/><path class="fro_cac9v"/><path class="j-esetb3v"/><path class="p098uujwe"/>`,
 		"fallback": "selfhst:ente-photos-dark",
 	});
 }

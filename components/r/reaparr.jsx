@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/ww8idsbap.css';
+import '../../css/u/uepkd_b8y.css';
 import '../../css/e/ez22n4eor.css';
 import '../../css/l/lzt9bkbza.css';
 import '../../css/h/hhsvjg6qz.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ww8idsbap"/><path class="ez22n4eor"/><path class="lzt9bkbza"/><path class="hhsvjg6qz"/><path class="n7h3t2d2d"/>`,
+		"content": `<path class="uepkd_b8y"/><path class="ez22n4eor"/><path class="lzt9bkbza"/><path class="hhsvjg6qz"/><path class="n7h3t2d2d"/>`,
 		"fallback": "selfhst:reaparr",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l2766uktk.css';
+import '../../css/v/v-9jh2b_h.css';
 import '../../css/l/l2dczz-db.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l2766uktk"/><path class="l2dczz-db"/>`,
+		"content": `<path class="v-9jh2b_h"/><path class="l2dczz-db"/>`,
 		"fallback": "selfhst:gitbundle",
 	});
 }

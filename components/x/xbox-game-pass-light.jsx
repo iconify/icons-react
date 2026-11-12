@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yle_3hkkh.css';
+import '../../css/m/mbch7jb7n.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yle_3hkkh"/>`,
+		"content": `<path class="mbch7jb7n"/>`,
 		"fallback": "selfhst:xbox-game-pass-light",
 	});
 }

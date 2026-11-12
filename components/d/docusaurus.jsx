@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nqebtubth"/><path clip-rule="evenodd" class="n9k3er6dk"/><path class="ckanjobhz"/><path clip-rule="evenodd" class="annjjlb3a"/><path class="o99z3p58k"/><path class="lozb2--un"/>`,
+		"content": `<path class="nqebtubth"/><path class="n9k3er6dk"/><path class="ckanjobhz"/><path class="annjjlb3a"/><path class="o99z3p58k"/><path class="lozb2--un"/>`,
 		"fallback": "selfhst:docusaurus",
 	});
 }

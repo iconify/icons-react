@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/d4_kwrboz.css';
-import '../../css/a/az5k_yb4r.css';
+import '../../css/o/oa0cpabtz.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d4_kwrboz"/><path class="az5k_yb4r"/>`,
+		"content": `<path class="d4_kwrboz"/><path class="oa0cpabtz"/>`,
 		"fallback": "selfhst:frappe-cloud",
 	});
 }

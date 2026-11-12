@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/htrmvrbjf.css';
+import '../../css/w/w0d_hgaop.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="htrmvrbjf"/>`,
+		"content": `<path class="w0d_hgaop"/>`,
 		"fallback": "selfhst:clovalink-dark",
 	});
 }

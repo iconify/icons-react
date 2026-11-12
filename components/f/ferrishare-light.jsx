@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rxok5ents.css';
+import '../../css/q/q2fq2cblr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rxok5ents"/>`,
+		"content": `<path class="q2fq2cblr"/>`,
 		"fallback": "selfhst:ferrishare-light",
 	});
 }

@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGwzwvLcwS" x1="8151.554" x2="2841.913" y1="-5021.914" y2="-4948.677" gradientTransform="matrix(.09676 0 0 -.09676 -274.314 -225.56)" gradientUnits="userSpaceOnUse"><stop offset="0" class="d0h2dbtzj"/><stop offset="1" class="fm8iqpxxl"/></linearGradient><path fill="url(#SVGwzwvLcwS)" class="ald9c1bns"/>`,
+		"content": `<linearGradient id="SVGrWDYJeZg" x1="8151.554" x2="2841.913" y1="-5021.914" y2="-4948.677" gradientTransform="matrix(.09676 0 0 -.09676 -274.31 -225.56)" gradientUnits="userSpaceOnUse"><stop offset="0" class="d0h2dbtzj"/><stop offset="1" class="fm8iqpxxl"/></linearGradient><path fill="url(#SVGrWDYJeZg)" class="ald9c1bns"/>`,
 		"fallback": "selfhst:icloud",
 	});
 }

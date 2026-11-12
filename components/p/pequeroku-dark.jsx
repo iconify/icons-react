@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wlp_js4cf.css';
+import '../../css/c/ccmhyqbdl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wlp_js4cf"/>`,
+		"content": `<path class="ccmhyqbdl"/>`,
 		"fallback": "selfhst:pequeroku-dark",
 	});
 }

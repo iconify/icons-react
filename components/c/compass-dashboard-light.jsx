@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ehkfwkbvi.css';
+import '../../css/m/meovhspmf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ehkfwkbvi"/>`,
+		"content": `<path class="meovhspmf"/>`,
 		"fallback": "selfhst:compass-dashboard-light",
 	});
 }

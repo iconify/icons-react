@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gtuukp9fe.css';
+import '../../css/r/ru669i_fx.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gtuukp9fe"/>`,
+		"content": `<path class="ru669i_fx"/>`,
 		"fallback": "selfhst:meme-search-light",
 	});
 }

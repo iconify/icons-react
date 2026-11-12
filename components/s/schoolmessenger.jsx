@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/y/yov418k2z.css';
 import '../../css/w/wv43mybxd.css';
-import '../../css/v/v3jarib8i.css';
+import '../../css/b/b-u4hkhef.css';
 import '../../css/n/nvangkgwa.css';
 
 const viewBox = {"width":512,"height":512};
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yov418k2z"/><path class="wv43mybxd"/><path class="v3jarib8i"/><path class="nvangkgwa"/>`,
+		"content": `<path class="yov418k2z"/><path class="wv43mybxd"/><path class="b-u4hkhef"/><path class="nvangkgwa"/>`,
 		"fallback": "selfhst:schoolmessenger",
 	});
 }

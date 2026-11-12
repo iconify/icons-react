@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/igxlhbcep.css';
+import '../../css/r/rdqqpp0kc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="igxlhbcep"/>`,
+		"content": `<path class="rdqqpp0kc"/>`,
 		"fallback": "selfhst:picpeak-light",
 	});
 }

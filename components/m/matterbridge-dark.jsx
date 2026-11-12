@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c9_8tiwpe.css';
+import '../../css/t/tt1h_uz7v.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c9_8tiwpe"/>`,
+		"content": `<path class="tt1h_uz7v"/>`,
 		"fallback": "selfhst:matterbridge-dark",
 	});
 }

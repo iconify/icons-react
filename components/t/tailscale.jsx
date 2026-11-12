@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/dy7st-bkc.css';
-import '../../css/y/yf-f_bcue.css';
+import '../../css/e/e0tloob2u.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dy7st-bkc"/><path class="yf-f_bcue"/>`,
+		"content": `<path class="dy7st-bkc"/><path class="e0tloob2u"/>`,
 		"fallback": "selfhst:tailscale",
 	});
 }

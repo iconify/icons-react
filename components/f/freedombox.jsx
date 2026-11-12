@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<radialGradient id="SVGPdYnWdnb" cx="664.523" cy="1737.48" r="35.49" gradientTransform="rotate(135 7171.4 7566.021)scale(10.217 10.2033)" gradientUnits="userSpaceOnUse"><stop offset="0" class="qdzeqvbsh"/><stop offset="1" class="wey4svb0n"/></radialGradient><path fill="url(#SVGPdYnWdnb)" class="loj74m4-w"/>`,
+		"content": `<radialGradient id="SVG5BJCIbHd" cx="664.523" cy="1737.48" r="35.49" gradientTransform="rotate(135 7171.4 7566.02)scale(10.217 10.2033)" gradientUnits="userSpaceOnUse"><stop offset="0" class="qdzeqvbsh"/><stop offset="1" class="wey4svb0n"/></radialGradient><path fill="url(#SVG5BJCIbHd)" class="loj74m4-w"/>`,
 		"fallback": "selfhst:freedombox",
 	});
 }

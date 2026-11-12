@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mgow5u3ic.css';
+import '../../css/z/zu07umcxo.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mgow5u3ic"/>`,
+		"content": `<path class="zu07umcxo"/>`,
 		"fallback": "selfhst:thingsboard-light",
 	});
 }

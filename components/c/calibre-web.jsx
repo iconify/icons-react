@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x_uir6bda.css';
+import '../../css/h/hj5k-rjmc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x_uir6bda"/>`,
+		"content": `<path class="hj5k-rjmc"/>`,
 		"fallback": "selfhst:calibre-web",
 	});
 }

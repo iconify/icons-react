@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/v/vgvbcfb3d.css';
-import '../../css/x/x_in5db1u.css';
+import '../../css/i/i-jh_sbbv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vgvbcfb3d"/><path class="x_in5db1u"/>`,
+		"content": `<path class="vgvbcfb3d"/><path class="i-jh_sbbv"/>`,
 		"fallback": "selfhst:tinfoil-light",
 	});
 }

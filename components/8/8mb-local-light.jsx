@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tcpc8aclj.css';
+import '../../css/n/nvyun6ixs.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tcpc8aclj"/>`,
+		"content": `<path class="nvyun6ixs"/>`,
 		"fallback": "selfhst:8mb-local-light",
 	});
 }

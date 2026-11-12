@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b9abeccjb.css';
+import '../../css/b/bd4o_acha.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b9abeccjb"/>`,
+		"content": `<path class="bd4o_acha"/>`,
 		"fallback": "selfhst:emoncms-light",
 	});
 }

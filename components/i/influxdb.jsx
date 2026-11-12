@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n650ikbnq.css';
+import '../../css/d/dajvep74v.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n650ikbnq"/>`,
+		"content": `<path class="dajvep74v"/>`,
 		"fallback": "selfhst:influxdb",
 	});
 }

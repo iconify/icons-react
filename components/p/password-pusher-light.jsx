@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/e/e69it0bqa.css';
-import '../../css/a/ad76n-bro.css';
+import '../../css/t/t6m0j23fx.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e69it0bqa"/><path class="ad76n-bro"/>`,
+		"content": `<path class="e69it0bqa"/><path class="t6m0j23fx"/>`,
 		"fallback": "selfhst:password-pusher-light",
 	});
 }

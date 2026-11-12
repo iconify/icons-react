@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/axc2gplka.css';
+import '../../css/d/dad-_9bln.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="axc2gplka"/>`,
+		"content": `<path class="dad-_9bln"/>`,
 		"fallback": "selfhst:imdb-light",
 	});
 }

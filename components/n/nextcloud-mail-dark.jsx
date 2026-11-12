@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xm9_89bsm.css';
-import '../../css/z/z6-pcfb-f.css';
+import '../../css/n/nickjxuqg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xm9_89bsm"/><path class="z6-pcfb-f"/>`,
+		"content": `<path class="nickjxuqg"/>`,
 		"fallback": "selfhst:nextcloud-mail-dark",
 	});
 }

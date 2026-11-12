@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cpa-elmkg.css';
 import '../../css/t/tvrv_ebup.css';
-import '../../css/a/a0cnkibtv.css';
+import '../../css/b/bzcqqobzs.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cpa-elmkg"/><path class="tvrv_ebup"/><path class="a0cnkibtv"/>`,
+		"content": `<path class="cpa-elmkg"/><path class="tvrv_ebup"/><path class="bzcqqobzs"/>`,
 		"fallback": "selfhst:nyt-sudoku",
 	});
 }

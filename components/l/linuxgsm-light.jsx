@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zvpg-6bna.css';
+import '../../css/m/md81p0dal.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zvpg-6bna"/>`,
+		"content": `<path class="md81p0dal"/>`,
 		"fallback": "selfhst:linuxgsm-light",
 	});
 }

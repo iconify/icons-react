@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yfwzkkbni.css';
-import '../../css/e/e7rt-sbkm.css';
-import '../../css/u/ubnnzvb0h.css';
-import '../../css/m/mlnhivbvb.css';
+import '../../css/i/imvewngax.css';
+import '../../css/h/hexr8-bsz.css';
+import '../../css/n/nadauofsf.css';
+import '../../css/y/y--w-mb1w.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yfwzkkbni"/><path class="e7rt-sbkm"/><path class="ubnnzvb0h"/><path class="mlnhivbvb"/>`,
+		"content": `<path class="imvewngax"/><path class="hexr8-bsz"/><path class="nadauofsf"/><path class="y--w-mb1w"/>`,
 		"fallback": "selfhst:homescreen-hero-light",
 	});
 }

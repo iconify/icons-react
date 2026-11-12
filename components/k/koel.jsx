@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gfsc7hb7y.css';
+import '../../css/o/ogbh2qo3x.css';
 import '../../css/r/rr_pm1b7q.css';
 import '../../css/u/ucafw4brw.css';
 import '../../css/m/m11kaybbv.css';
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="gfsc7hb7y"/><path class="rr_pm1b7q"/><path class="ucafw4brw"/><path clip-rule="evenodd" class="m11kaybbv"/>`,
+		"content": `<path class="ogbh2qo3x"/><path class="rr_pm1b7q"/><path class="ucafw4brw"/><path class="m11kaybbv"/>`,
 		"fallback": "selfhst:koel",
 	});
 }

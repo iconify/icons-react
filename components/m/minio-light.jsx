@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wpb3pvb3s.css';
+import '../../css/s/sqfdm7snc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wpb3pvb3s"/>`,
+		"content": `<path class="sqfdm7snc"/>`,
 		"fallback": "selfhst:minio-light",
 	});
 }

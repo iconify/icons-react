@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qy4-wlswh.css';
+import '../../css/j/jt4l2gbmc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qy4-wlswh"/>`,
+		"content": `<path class="jt4l2gbmc"/>`,
 		"fallback": "selfhst:tasmocompiler-dark",
 	});
 }

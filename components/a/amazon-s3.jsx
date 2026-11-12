@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="nstvbxb0m"/><path clip-rule="evenodd" class="zukjp5bxm"/><path class="edbkswbvk"/><path clip-rule="evenodd" class="ei60xkbzq"/><path class="ts74kj5dn"/><path clip-rule="evenodd" class="ua6tm9bna"/><path clip-rule="evenodd" class="m9ad-ebcz"/>`,
+		"content": `<path class="nstvbxb0m"/><path class="zukjp5bxm"/><path class="edbkswbvk"/><path class="ei60xkbzq"/><path class="ts74kj5dn"/><path class="ua6tm9bna"/><path class="m9ad-ebcz"/>`,
 		"fallback": "selfhst:amazon-s3",
 	});
 }

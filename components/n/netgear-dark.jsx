@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nb87fub2m.css';
-import '../../css/i/igrgcsw-i.css';
-import '../../css/a/ak8i1tnjp.css';
+import '../../css/h/hnivy_bhh.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nb87fub2m"/><path class="igrgcsw-i"/><path class="ak8i1tnjp"/>`,
+		"content": `<path class="hnivy_bhh"/>`,
 		"fallback": "selfhst:netgear-dark",
 	});
 }

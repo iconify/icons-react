@@ -8,7 +8,7 @@ import '../../css/c/c8xmh_tkk.css';
 import '../../css/e/ei_wol7tk.css';
 import '../../css/a/a4456ihfo.css';
 import '../../css/v/vb2n5ubyo.css';
-import '../../css/g/ge8snfgdk.css';
+import '../../css/g/gf7es3bsv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -19,7 +19,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fwo29pbsp"/><path class="zzawuqb3r"/><path class="xc86q51_g"/><linearGradient id="SVGUt3zUbMl" x1="-20.434" x2="453.204" y1="80.221" y2="553.859" gradientUnits="userSpaceOnUse"><stop offset="0" class="c0bk36crt"/><stop offset=".186" class="c8xmh_tkk"/><stop offset=".455" class="ei_wol7tk"/><stop offset=".771" class="a4456ihfo"/><stop offset="1" class="vb2n5ubyo"/></linearGradient><path fill="url(#SVGUt3zUbMl)" class="ge8snfgdk"/>`,
+		"content": `<path class="fwo29pbsp"/><path class="zzawuqb3r"/><path class="xc86q51_g"/><linearGradient id="SVGtqeEHdbc" x1="-20.4" x2="453.2" y1="80.2" y2="553.9" gradientUnits="userSpaceOnUse"><stop offset="0" class="c0bk36crt"/><stop offset=".186" class="c8xmh_tkk"/><stop offset=".455" class="ei_wol7tk"/><stop offset=".771" class="a4456ihfo"/><stop offset="1" class="vb2n5ubyo"/></linearGradient><path fill="url(#SVGtqeEHdbc)" class="gf7es3bsv"/>`,
 		"fallback": "selfhst:ontime",
 	});
 }

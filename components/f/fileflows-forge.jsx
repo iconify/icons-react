@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/fiowh3tts.css';
-import '../../css/m/mujo0i2yi.css';
+import '../../css/f/flsxa_bns.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fiowh3tts"/><path class="mujo0i2yi"/>`,
+		"content": `<path class="fiowh3tts"/><path class="flsxa_bns"/>`,
 		"fallback": "selfhst:fileflows-forge",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gity0fb6n.css';
+import '../../css/l/lx8r0fbrr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gity0fb6n"/>`,
+		"content": `<path class="lx8r0fbrr"/>`,
 		"fallback": "selfhst:librarything-dark",
 	});
 }

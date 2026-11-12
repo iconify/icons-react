@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/aa3r_abyj.css';
+import '../../css/t/t1th6cc6h.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="aa3r_abyj"/>`,
+		"content": `<path class="t1th6cc6h"/>`,
 		"fallback": "selfhst:eigenfocus-light",
 	});
 }

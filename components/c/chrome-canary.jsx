@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/v/vd6mj9e-i.css';
-import '../../css/d/dn5b1_f-b.css';
+import '../../css/u/ublh2lbji.css';
 import '../../css/p/phprfuhss.css';
-import '../../css/p/p6_7y-bmy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vd6mj9e-i"/><circle class="dn5b1_f-b"/><path class="phprfuhss"/><path class="p6_7y-bmy"/>`,
+		"content": `<path class="vd6mj9e-i"/><path class="ublh2lbji"/><path class="phprfuhss"/>`,
 		"fallback": "selfhst:chrome-canary",
 	});
 }

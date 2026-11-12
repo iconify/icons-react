@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ees4jqgyz.css';
+import '../../css/z/z7o6x_2pm.css';
 
-const viewBox = {"width":500,"height":500};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ees4jqgyz"/>`,
+		"content": `<path class="z7o6x_2pm"/>`,
 		"fallback": "selfhst:gotify-dark",
 	});
 }

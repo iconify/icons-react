@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/ra4xehcyp.css';
-import '../../css/z/zj7rmmb0e.css';
+import '../../css/n/nsg338bcs.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ra4xehcyp"/><path class="zj7rmmb0e"/>`,
+		"content": `<path class="nsg338bcs"/>`,
 		"fallback": "selfhst:windmill-light",
 	});
 }

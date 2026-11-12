@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yfhjdabbo.css';
+import '../../css/f/futyw_qpm.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yfhjdabbo"/>`,
+		"content": `<path class="futyw_qpm"/>`,
 		"fallback": "selfhst:google-calendar-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rzdafi6np.css';
+import '../../css/o/ozy00iotv.css';
 import '../../css/x/xlao23b1c.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rzdafi6np"/><path class="xlao23b1c"/>`,
+		"content": `<path class="ozy00iotv"/><path class="xlao23b1c"/>`,
 		"fallback": "selfhst:nasa-dark",
 	});
 }

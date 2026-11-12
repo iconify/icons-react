@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r4viabbnn.css';
+import '../../css/e/evm6bqe-x.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r4viabbnn"/>`,
+		"content": `<path class="evm6bqe-x"/>`,
 		"fallback": "selfhst:newsblur-dark",
 	});
 }

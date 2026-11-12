@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v5t43yc4z.css';
-import '../../css/u/ucpf2webs.css';
+import '../../css/n/nkekv2bib.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="v5t43yc4z"/><path clip-rule="evenodd" class="ucpf2webs"/>`,
+		"content": `<path class="nkekv2bib"/>`,
 		"fallback": "selfhst:nextcloud-talk-light",
 	});
 }

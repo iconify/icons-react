@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/b/bd-nkug3f.css';
-import '../../css/c/cqcsowpco.css';
-import '../../css/e/e2doa554v.css';
+import '../../css/s/s2cll7bjb.css';
+import '../../css/g/ge8lssbqq.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bd-nkug3f"/><path class="cqcsowpco"/><path class="e2doa554v"/>`,
+		"content": `<path class="bd-nkug3f"/><path class="s2cll7bjb"/><path class="ge8lssbqq"/>`,
 		"fallback": "selfhst:registry-console-light",
 	});
 }

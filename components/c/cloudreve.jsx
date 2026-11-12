@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bw1_f1dns.css';
+import '../../css/w/w6szscc-u.css';
 import '../../css/w/w5t1ykp4g.css';
 import '../../css/s/slveivbkv.css';
-import '../../css/t/tlcbsubgk.css';
+import '../../css/l/l4067mbwa.css';
 import '../../css/q/qopzznmys.css';
 import '../../css/g/gep5gvj9y.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="bw1_f1dns"/><path class="w5t1ykp4g"/><path class="slveivbkv"/><circle class="tlcbsubgk"/><path class="qopzznmys"/><path class="gep5gvj9y"/>`,
+		"content": `<circle class="w6szscc-u"/><path class="w5t1ykp4g"/><path class="slveivbkv"/><circle class="l4067mbwa"/><path class="qopzznmys"/><path class="gep5gvj9y"/>`,
 		"fallback": "selfhst:cloudreve",
 	});
 }

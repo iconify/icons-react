@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hr-71ib7l.css';
+import '../../css/a/ak69pm-aa.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hr-71ib7l"/>`,
+		"content": `<path class="ak69pm-aa"/>`,
 		"fallback": "selfhst:astuto-light",
 	});
 }

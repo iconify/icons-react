@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nik-3sbnx.css';
+import '../../css/o/o0u0crbzh.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nik-3sbnx"/>`,
+		"content": `<path class="o0u0crbzh"/>`,
 		"fallback": "selfhst:grafana-tempo-dark",
 	});
 }

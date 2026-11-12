@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/b/bbrrtibxz.css';
-import '../../css/f/fu6o8ac5s.css';
+import '../../css/i/i5rwfcc2z.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bbrrtibxz"/><path class="fu6o8ac5s"/>`,
+		"content": `<path class="bbrrtibxz"/><path class="i5rwfcc2z"/>`,
 		"fallback": "selfhst:linux-update-dashboard-dark",
 	});
 }

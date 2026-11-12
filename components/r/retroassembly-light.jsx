@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pbrl8dbjj.css';
+import '../../css/r/r9rc3cc_u.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pbrl8dbjj"/>`,
+		"content": `<path class="r9rc3cc_u"/>`,
 		"fallback": "selfhst:retroassembly-light",
 	});
 }

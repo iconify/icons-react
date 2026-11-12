@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/foe_-tb4w.css';
+import '../../css/t/td42iq_wv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="foe_-tb4w"/>`,
+		"content": `<path class="td42iq_wv"/>`,
 		"fallback": "selfhst:sipeed-light",
 	});
 }

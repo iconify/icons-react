@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xl298fbpc.css';
+import '../../css/g/gb16ibc-h.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xl298fbpc"/>`,
+		"content": `<path class="gb16ibc-h"/>`,
 		"fallback": "selfhst:mozilla-vpn-light",
 	});
 }

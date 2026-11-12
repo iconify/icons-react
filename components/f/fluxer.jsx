@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/w/w5ryw4bkw.css';
-import '../../css/s/s8bjcqbop.css';
+import '../../css/s/st-osqbzv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="w5ryw4bkw"/><path class="s8bjcqbop"/>`,
+		"content": `<circle class="w5ryw4bkw"/><path class="st-osqbzv"/>`,
 		"fallback": "selfhst:fluxer",
 	});
 }

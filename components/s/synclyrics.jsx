@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pj1lvn23t.css';
+import '../../css/x/xtupm4bil.css';
 import '../../css/e/eionscb5u.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pj1lvn23t"/><path class="eionscb5u"/>`,
+		"content": `<path class="xtupm4bil"/><path class="eionscb5u"/>`,
 		"fallback": "selfhst:synclyrics",
 	});
 }

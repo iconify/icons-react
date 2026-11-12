@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pzqnpubgd.css';
+import '../../css/p/p086qub8q.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pzqnpubgd"/>`,
+		"content": `<path class="p086qub8q"/>`,
 		"fallback": "selfhst:openttd-light",
 	});
 }

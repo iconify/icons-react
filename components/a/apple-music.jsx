@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGx2hxfd8n" x1="256" x2="256" y1="789.022" y2="290.041" gradientTransform="translate(0 -279)" gradientUnits="userSpaceOnUse"><stop offset="0" class="rcjni6bfe"/><stop offset="1" class="l1q0m9wzl"/></linearGradient><path fill="url(#SVGx2hxfd8n)" class="f8mck9vds"/><path class="nh_zuobhi"/>`,
+		"content": `<linearGradient id="SVG9QwVbdSQ" x1="256" x2="256" y1="510" y2="11" gradientUnits="userSpaceOnUse"><stop offset="0" class="rcjni6bfe"/><stop offset="1" class="l1q0m9wzl"/></linearGradient><path fill="url(#SVG9QwVbdSQ)" class="f8mck9vds"/><path class="nh_zuobhi"/>`,
 		"fallback": "selfhst:apple-music",
 	});
 }

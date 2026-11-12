@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kz-xe4l0u.css';
+import '../../css/i/iqwgpobdq.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kz-xe4l0u"/>`,
+		"content": `<path class="iqwgpobdq"/>`,
 		"fallback": "selfhst:tolgee-light",
 	});
 }

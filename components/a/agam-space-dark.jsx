@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/ml2iv7saz.css';
+import '../../css/i/ivutaubif.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ml2iv7saz"/>`,
+		"content": `<path class="ivutaubif"/>`,
 		"fallback": "selfhst:agam-space-dark",
 	});
 }

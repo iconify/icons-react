@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGLfPwmdPV" x1="483.335" x2="741.555" y1="98.231" y2="98.231" gradientTransform="matrix(.75 0 0 -.75 -178.287 329.673)" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="c98y_fk5b"/></linearGradient><path fill="url(#SVGLfPwmdPV)" class="saub33b8b"/>`,
+		"content": `<linearGradient id="SVGrOwppf5F" x1="483.335" x2="741.555" y1="98.231" y2="98.231" gradientTransform="matrix(.75 0 0 -.75 -178.29 329.67)" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="c98y_fk5b"/></linearGradient><path fill="url(#SVGrOwppf5F)" class="saub33b8b"/>`,
 		"fallback": "selfhst:skylite-ux-light",
 	});
 }

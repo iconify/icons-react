@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hradzg3vi.css';
-import '../../css/n/norpj8pcf.css';
+import '../../css/i/iufm3lbgw.css';
+import '../../css/i/i8odlzb7a.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hradzg3vi"/><path class="norpj8pcf"/>`,
+		"content": `<path class="iufm3lbgw"/><path class="i8odlzb7a"/>`,
 		"fallback": "selfhst:raygun-monitoring-dark",
 	});
 }

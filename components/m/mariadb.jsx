@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="p1og6cbek"/><path class="bh-4vfbma"/><path clip-rule="evenodd" class="u5e77cb7g"/>`,
+		"content": `<path class="p1og6cbek"/><path class="bh-4vfbma"/><path class="u5e77cb7g"/>`,
 		"fallback": "selfhst:mariadb",
 	});
 }

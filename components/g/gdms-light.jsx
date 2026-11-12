@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/ral3ctvnu.css';
+import '../../css/r/rc_cn3gik.css';
 import '../../css/f/fd3h4yb_q.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ral3ctvnu"/><path class="fd3h4yb_q"/>`,
+		"content": `<path class="rc_cn3gik"/><path class="fd3h4yb_q"/>`,
 		"fallback": "selfhst:gdms-light",
 	});
 }

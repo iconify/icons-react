@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fox-zjbbr.css';
-import '../../css/t/tc50lygvv.css';
+import '../../css/k/kdt8x3_lk.css';
+import '../../css/y/yurfh5b_h.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fox-zjbbr"/><path class="tc50lygvv"/>`,
+		"content": `<path class="kdt8x3_lk"/><path class="yurfh5b_h"/>`,
 		"fallback": "selfhst:reitti-dark",
 	});
 }

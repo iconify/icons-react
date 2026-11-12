@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wds76yb_c.css';
+import '../../css/l/lob7ambba.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wds76yb_c"/>`,
+		"content": `<path class="lob7ambba"/>`,
 		"fallback": "selfhst:yugabytedb-light",
 	});
 }

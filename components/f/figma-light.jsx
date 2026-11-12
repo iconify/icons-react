@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d9r8s4rsw.css';
-import '../../css/h/h6klkqbsh.css';
-import '../../css/q/qf19skb9v.css';
+import '../../css/w/wbec9fl-o.css';
+import '../../css/q/qcxpfgbgl.css';
+import '../../css/i/i-k_57oki.css';
 import '../../css/e/eux5nikfz.css';
-import '../../css/i/ihq6w6b0e.css';
+import '../../css/y/y0zkh2w_l.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d9r8s4rsw"/><path class="h6klkqbsh"/><circle class="qf19skb9v"/><path class="eux5nikfz"/><path class="ihq6w6b0e"/>`,
+		"content": `<path class="wbec9fl-o"/><path class="qcxpfgbgl"/><circle class="i-k_57oki"/><path class="eux5nikfz"/><path class="y0zkh2w_l"/>`,
 		"fallback": "selfhst:figma-light",
 	});
 }

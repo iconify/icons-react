@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/d-q8_6bdy.css';
 import '../../css/j/jotj22eow.css';
-import '../../css/b/b8lf-lbgx.css';
-import '../../css/d/d4-atmb_k.css';
+import '../../css/v/vhkbj_bbs.css';
+import '../../css/n/n6olitbtd.css';
 import '../../css/f/f_ovi2aeo.css';
 import '../../css/i/iwe3kjpvu.css';
 import '../../css/z/z5pl81b9i.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d-q8_6bdy"/><path class="jotj22eow"/><path class="b8lf-lbgx"/><path class="d4-atmb_k"/><path class="f_ovi2aeo"/><path class="iwe3kjpvu"/><path class="z5pl81b9i"/>`,
+		"content": `<path class="d-q8_6bdy"/><path class="jotj22eow"/><path class="vhkbj_bbs"/><path class="n6olitbtd"/><path class="f_ovi2aeo"/><path class="iwe3kjpvu"/><path class="z5pl81b9i"/>`,
 		"fallback": "selfhst:clean-slate",
 	});
 }

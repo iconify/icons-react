@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pmi_zrsne.css';
+import '../../css/t/teihgzbdq.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pmi_zrsne"/>`,
+		"content": `<path class="teihgzbdq"/>`,
 		"fallback": "selfhst:plikshare-light",
 	});
 }

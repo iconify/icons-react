@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k0gx-2k1c.css';
-import '../../css/s/slvmq7bsy.css';
+import '../../css/d/dlam0wbif.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="k0gx-2k1c"/><path clip-rule="evenodd" class="slvmq7bsy"/>`,
+		"content": `<path class="dlam0wbif"/>`,
 		"fallback": "selfhst:pinepods-light",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/t/tzg19p0qh.css';
-import '../../css/f/f2eh-dbua.css';
-import '../../css/a/aca60mb-f.css';
+import '../../css/q/q8n-7fbhw.css';
+import '../../css/g/gy63hpboi.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tzg19p0qh"/><path class="f2eh-dbua"/><path class="aca60mb-f"/>`,
+		"content": `<path class="tzg19p0qh"/><path class="q8n-7fbhw"/><path class="gy63hpboi"/>`,
 		"fallback": "selfhst:grafana-alerts-dashboard-light",
 	});
 }

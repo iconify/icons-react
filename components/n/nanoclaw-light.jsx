@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hvhcjuz2f.css';
-import '../../css/k/ka_fpy-jt.css';
-import '../../css/b/bx0xhcozx.css';
+import '../../css/y/ydehlhbbh.css';
+import '../../css/c/ck0nwgb2f.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hvhcjuz2f"/><path class="ka_fpy-jt"/><path class="bx0xhcozx"/>`,
+		"content": `<path class="hvhcjuz2f"/><path class="ydehlhbbh"/><path class="ck0nwgb2f"/>`,
 		"fallback": "selfhst:nanoclaw-light",
 	});
 }

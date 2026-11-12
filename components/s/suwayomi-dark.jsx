@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/iiz4a2b8e.css';
-import '../../css/q/qat5inhjr.css';
+import '../../css/n/nklbxtbfr.css';
 import '../../css/s/shtujqapo.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iiz4a2b8e"/><circle class="qat5inhjr"/><path class="shtujqapo"/>`,
+		"content": `<path class="iiz4a2b8e"/><circle class="nklbxtbfr"/><path class="shtujqapo"/>`,
 		"fallback": "selfhst:suwayomi-dark",
 	});
 }

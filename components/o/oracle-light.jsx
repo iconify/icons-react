@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dhbusi2cy.css';
+import '../../css/r/r61cogx2x.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dhbusi2cy"/>`,
+		"content": `<path class="r61cogx2x"/>`,
 		"fallback": "selfhst:oracle-light",
 	});
 }

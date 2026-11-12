@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kao65-mts.css';
+import '../../css/i/i_eir9x1f.css';
 import '../../css/x/xah9mvbce.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kao65-mts"/><path class="xah9mvbce"/>`,
+		"content": `<path class="i_eir9x1f"/><path class="xah9mvbce"/>`,
 		"fallback": "selfhst:xrsh-dark",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vh6v7rbha.css';
+import '../../css/y/y-_2ifbmy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vh6v7rbha"/>`,
+		"content": `<path class="y-_2ifbmy"/>`,
 		"fallback": "selfhst:netlify-light",
 	});
 }

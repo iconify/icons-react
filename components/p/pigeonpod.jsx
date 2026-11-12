@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vffi49svf.css';
+import '../../css/z/zu293jbai.css';
 import '../../css/y/yevybxblx.css';
 import '../../css/p/pay1cacov.css';
-import '../../css/d/degzzy46g.css';
-import '../../css/s/s4n3kwjam.css';
+import '../../css/j/j7dqz0b5m.css';
+import '../../css/l/lwj5uex8y.css';
 import '../../css/m/myjb0abfw.css';
 import '../../css/y/ye3evqb_b.css';
 
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vffi49svf"/><path class="yevybxblx"/><path class="pay1cacov"/><path class="degzzy46g"/><path class="s4n3kwjam"/><path class="myjb0abfw"/><path class="ye3evqb_b"/>`,
+		"content": `<path class="zu293jbai"/><path class="yevybxblx"/><path class="pay1cacov"/><path class="j7dqz0b5m"/><path class="lwj5uex8y"/><path class="myjb0abfw"/><path class="ye3evqb_b"/>`,
 		"fallback": "selfhst:pigeonpod",
 	});
 }

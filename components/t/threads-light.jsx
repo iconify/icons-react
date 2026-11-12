@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fslcfj99a.css';
+import '../../css/p/p5ron5w_s.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fslcfj99a"/>`,
+		"content": `<path class="p5ron5w_s"/>`,
 		"fallback": "selfhst:threads-light",
 	});
 }

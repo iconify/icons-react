@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/esoknpbal.css';
+import '../../css/l/ljxozew-i.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="esoknpbal"/>`,
+		"content": `<path class="ljxozew-i"/>`,
 		"fallback": "selfhst:fluxer-dark",
 	});
 }

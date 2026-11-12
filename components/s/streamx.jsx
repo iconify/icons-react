@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/np-sskbor.css';
-import '../../css/j/jsr-a6v3g.css';
+import '../../css/v/vjsebccxt.css';
+import '../../css/z/z5clwdt3a.css';
 import '../../css/t/t-sci2y1e.css';
-import '../../css/y/y0c2lnwwu.css';
-import '../../css/m/mrqxd1bkj.css';
+import '../../css/k/ka2boc4gs.css';
+import '../../css/l/l2nmuwoec.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="np-sskbor"/><path class="jsr-a6v3g"/><path class="t-sci2y1e"/><path class="y0c2lnwwu"/><path class="mrqxd1bkj"/>`,
+		"content": `<path class="vjsebccxt"/><path class="z5clwdt3a"/><path class="t-sci2y1e"/><path class="ka2boc4gs"/><path class="l2nmuwoec"/>`,
 		"fallback": "selfhst:streamx",
 	});
 }

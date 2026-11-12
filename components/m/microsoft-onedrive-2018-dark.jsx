@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qt65rufct.css';
+import '../../css/a/a692lmbqw.css';
 import '../../css/l/l_uk_bbco.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qt65rufct"/><path class="l_uk_bbco"/>`,
+		"content": `<path class="a692lmbqw"/><path class="l_uk_bbco"/>`,
 		"fallback": "selfhst:microsoft-onedrive-2018-dark",
 	});
 }

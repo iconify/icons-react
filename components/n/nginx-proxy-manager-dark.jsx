@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m8ngi2bsq.css';
+import '../../css/c/cv-0_mbqf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m8ngi2bsq"/>`,
+		"content": `<path class="cv-0_mbqf"/>`,
 		"fallback": "selfhst:nginx-proxy-manager-dark",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gg5j9mb9c.css';
+import '../../css/n/n_pfp8b-r.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gg5j9mb9c"/>`,
+		"content": `<path class="n_pfp8b-r"/>`,
 		"fallback": "selfhst:pufferpanel-dark",
 	});
 }

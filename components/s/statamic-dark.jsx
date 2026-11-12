@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cw28vh9ds.css';
+import '../../css/k/kc_saacsa.css';
 import '../../css/k/kaqsw12py.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cw28vh9ds"/><path class="kaqsw12py"/>`,
+		"content": `<path class="kc_saacsa"/><path class="kaqsw12py"/>`,
 		"fallback": "selfhst:statamic-dark",
 	});
 }

@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/f/fjoxk1bjv.css';
 import '../../css/t/t4mbssbth.css';
 import '../../css/a/ashcbkuqe.css';
-import '../../css/o/o-lh9hk2w.css';
+import '../../css/x/x__usvmqd.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fjoxk1bjv"/><path class="t4mbssbth"/><path class="ashcbkuqe"/><path class="o-lh9hk2w"/>`,
+		"content": `<path class="fjoxk1bjv"/><path class="t4mbssbth"/><path class="ashcbkuqe"/><path class="x__usvmqd"/>`,
 		"fallback": "selfhst:cetusguard",
 	});
 }

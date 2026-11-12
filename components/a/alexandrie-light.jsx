@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kxbl3ccvm.css';
+import '../../css/t/tp8cedcrg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kxbl3ccvm"/>`,
+		"content": `<path class="tp8cedcrg"/>`,
 		"fallback": "selfhst:alexandrie-light",
 	});
 }

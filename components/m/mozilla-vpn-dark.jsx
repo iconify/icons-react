@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n-dusubmx.css';
+import '../../css/s/sho0vcbsn.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n-dusubmx"/>`,
+		"content": `<path class="sho0vcbsn"/>`,
 		"fallback": "selfhst:mozilla-vpn-dark",
 	});
 }

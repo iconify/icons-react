@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/d5htat2ww.css';
-import '../../css/t/tiikn06-w.css';
+import '../../css/s/sforiwebk.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<ellipse class="d5htat2ww"/><path class="tiikn06-w"/>`,
+		"content": `<ellipse class="d5htat2ww"/><path class="sforiwebk"/>`,
 		"fallback": "selfhst:wireguard",
 	});
 }

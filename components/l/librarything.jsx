@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/u/uq-vo4ugb.css';
-import '../../css/l/lhs-_ebhv.css';
+import '../../css/x/xtkshpbwk.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uq-vo4ugb"/><path class="lhs-_ebhv"/>`,
+		"content": `<path class="uq-vo4ugb"/><path class="xtkshpbwk"/>`,
 		"fallback": "selfhst:librarything",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s3bpygbod.css';
+import '../../css/g/gdh71-7os.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s3bpygbod"/>`,
+		"content": `<path class="gdh71-7os"/>`,
 		"fallback": "selfhst:openshift-dark",
 	});
 }

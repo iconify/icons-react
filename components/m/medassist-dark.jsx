@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/du59mfmab.css';
+import '../../css/u/unm-bsb4x.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="du59mfmab"/>`,
+		"content": `<path class="unm-bsb4x"/>`,
 		"fallback": "selfhst:medassist-dark",
 	});
 }

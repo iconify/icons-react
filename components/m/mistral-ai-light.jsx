@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ngudvtbhg.css';
-import '../../css/i/iqqla4wjy.css';
-import '../../css/c/c2e35emrs.css';
-import '../../css/k/ken8xlbvk.css';
+import '../../css/i/igse0ywyr.css';
+import '../../css/f/fryw_qe2v.css';
+import '../../css/o/oov8yuuut.css';
+import '../../css/x/x8rt_pe9r.css';
 import '../../css/v/v24tgxb9s.css';
 
 const viewBox = {"width":512,"height":512};
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ngudvtbhg"/><path class="iqqla4wjy"/><path class="c2e35emrs"/><path class="ken8xlbvk"/><path class="v24tgxb9s"/>`,
+		"content": `<path class="igse0ywyr"/><path class="fryw_qe2v"/><path class="oov8yuuut"/><path class="x8rt_pe9r"/><path class="v24tgxb9s"/>`,
 		"fallback": "selfhst:mistral-ai-light",
 	});
 }

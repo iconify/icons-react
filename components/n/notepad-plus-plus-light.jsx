@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s6a_bmqya.css';
-import '../../css/r/r5ot870ug.css';
+import '../../css/c/c_q0t1ebv.css';
+import '../../css/o/o5xttwudf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s6a_bmqya"/><path class="r5ot870ug"/>`,
+		"content": `<path class="c_q0t1ebv"/><path class="o5xttwudf"/>`,
 		"fallback": "selfhst:notepad-plus-plus-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dyzg-tbfy.css';
+import '../../css/m/mcdk4ubif.css';
 import '../../css/b/baziz2k_k.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dyzg-tbfy"/><path class="baziz2k_k"/>`,
+		"content": `<path class="mcdk4ubif"/><path class="baziz2k_k"/>`,
 		"fallback": "selfhst:tracearr-dark",
 	});
 }

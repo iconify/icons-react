@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -8389,6 +8389,18 @@
     "./ghostty-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/ghostty-light.jsx"
+    },
+    "./ghstats": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghstats.jsx"
+    },
+    "./ghstats-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghstats-dark.jsx"
+    },
+    "./ghstats-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/ghstats-light.jsx"
     },
     "./gimp": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19030,6 +19042,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paypal-dark.jsx"
     },
+    "./paypal-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paypal-light.jsx"
+    },
     "./payram": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/payram.jsx"
@@ -19757,6 +19773,18 @@
     "./pkvault": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pkvault.jsx"
+    },
+    "./plain-week": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plain-week.jsx"
+    },
+    "./plain-week-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plain-week-dark.jsx"
+    },
+    "./plain-week-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plain-week-light.jsx"
     },
     "./plakar": {
       "types": "./types/hqrkovbr.d.ts",

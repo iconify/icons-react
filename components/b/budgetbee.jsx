@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n98b-3b2e.css';
+import '../../css/p/pgwnx6eoh.css';
 import '../../css/a/adak2ebid.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n98b-3b2e"/><path class="adak2ebid"/>`,
+		"content": `<path class="pgwnx6eoh"/><path class="adak2ebid"/>`,
 		"fallback": "selfhst:budgetbee",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pv390hq8i.css';
+import '../../css/n/ngfmjsmvg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pv390hq8i"/>`,
+		"content": `<path class="ngfmjsmvg"/>`,
 		"fallback": "selfhst:rahoot",
 	});
 }

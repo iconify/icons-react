@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="vjo9zj5kz"/>`,
+		"content": `<path class="vjo9zj5kz"/>`,
 		"fallback": "selfhst:synaplan-dark",
 	});
 }

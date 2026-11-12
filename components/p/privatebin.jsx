@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<radialGradient id="SVGLfEBd1fV" cx="3800.412" cy="5424.836" r="4986.692" gradientTransform="matrix(.09217 .00007 -.00007 .09926 -93.892 -282.725)" gradientUnits="userSpaceOnUse"><stop offset="0" class="fbeq_z80i"/><stop offset="1" class="lm_iwebwk"/></radialGradient><path fill="url(#SVGLfEBd1fV)" class="nsb6w10iq"/><path class="ttvgmtbgf"/>`,
+		"content": `<radialGradient id="SVGEOiQfcou" cx="3800.412" cy="5424.836" r="4986.692" gradientTransform="matrix(.09217 .00007 -.00007 .09926 -93.89 -282.73)" gradientUnits="userSpaceOnUse"><stop offset="0" class="fbeq_z80i"/><stop offset="1" class="lm_iwebwk"/></radialGradient><path fill="url(#SVGEOiQfcou)" class="nsb6w10iq"/><path class="ttvgmtbgf"/>`,
 		"fallback": "selfhst:privatebin",
 	});
 }

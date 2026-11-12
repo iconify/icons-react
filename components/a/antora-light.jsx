@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x8gcewbpn.css';
+import '../../css/z/zlzd5tbnp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x8gcewbpn"/>`,
+		"content": `<path class="zlzd5tbnp"/>`,
 		"fallback": "selfhst:antora-light",
 	});
 }

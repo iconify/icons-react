@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/btfsrsh5w.css';
+import '../../css/j/j1okeccbo.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="btfsrsh5w"/>`,
+		"content": `<path class="j1okeccbo"/>`,
 		"fallback": "selfhst:alpine-linux",
 	});
 }

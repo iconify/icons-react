@@ -1,11 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pebrwvkwi.css';
-import '../../css/d/dcxpedjwt.css';
-import '../../css/q/q58dk-rrt.css';
-import '../../css/r/r8okteb3s.css';
-import '../../css/u/u39a2n-_n.css';
-import '../../css/v/vxcoiqgnj.css';
+import '../../css/l/lv5gx-44j.css';
+import '../../css/s/sobo_lk1b.css';
+import '../../css/h/h33hifd-b.css';
+import '../../css/i/i69id4bah.css';
+import '../../css/o/ooiwd4u1m.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pebrwvkwi"/><path class="dcxpedjwt"/><path class="q58dk-rrt"/><path class="r8okteb3s"/><path class="u39a2n-_n"/><path class="vxcoiqgnj"/>`,
+		"content": `<path class="lv5gx-44j"/><path class="sobo_lk1b"/><path class="h33hifd-b"/><path class="i69id4bah"/><path class="ooiwd4u1m"/>`,
 		"fallback": "selfhst:microsoft-outlook-light",
 	});
 }

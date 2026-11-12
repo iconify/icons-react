@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t5aof5b_u.css';
-import '../../css/j/joqqp9xyt.css';
+import '../../css/d/djbel3bjj.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t5aof5b_u"/><path class="joqqp9xyt"/>`,
+		"content": `<path class="djbel3bjj"/>`,
 		"fallback": "selfhst:planning-center-groups-light",
 	});
 }

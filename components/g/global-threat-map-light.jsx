@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/m/mmc55qbpv.css';
-import '../../css/p/p48_jkbmd.css';
-import '../../css/g/gom_ccb7u.css';
+import '../../css/g/g5l3qyt-f.css';
+import '../../css/w/wlqkezb7v.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mmc55qbpv"/><circle class="p48_jkbmd"/><circle class="gom_ccb7u"/>`,
+		"content": `<path class="mmc55qbpv"/><circle class="g5l3qyt-f"/><circle class="wlqkezb7v"/>`,
 		"fallback": "selfhst:global-threat-map-light",
 	});
 }

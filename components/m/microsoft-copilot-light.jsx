@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a53r7jbxn.css';
+import '../../css/m/mu0v_pbkt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a53r7jbxn"/>`,
+		"content": `<path class="mu0v_pbkt"/>`,
 		"fallback": "selfhst:microsoft-copilot-light",
 	});
 }

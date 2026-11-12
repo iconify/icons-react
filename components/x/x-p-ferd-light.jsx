@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jpy_g2b9f.css';
+import '../../css/t/tdhn607fe.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jpy_g2b9f"/>`,
+		"content": `<path class="tdhn607fe"/>`,
 		"fallback": "selfhst:x-p-ferd-light",
 	});
 }

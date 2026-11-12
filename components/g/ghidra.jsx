@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/ldpbk6e6e.css';
-import '../../css/f/fcu49sbmi.css';
+import '../../css/q/qkj6iqb-n.css';
 import '../../css/r/r40zw-uer.css';
-import '../../css/k/k1_tqxbhb.css';
+import '../../css/e/ejd-mmbii.css';
 import '../../css/k/ku75bab7r.css';
 import '../../css/q/qup8t0bkr.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ldpbk6e6e"/><path class="fcu49sbmi"/><path class="r40zw-uer"/><path class="k1_tqxbhb"/><path class="ku75bab7r"/><path class="qup8t0bkr"/>`,
+		"content": `<path class="ldpbk6e6e"/><path class="qkj6iqb-n"/><path class="r40zw-uer"/><path class="ejd-mmbii"/><path class="ku75bab7r"/><path class="qup8t0bkr"/>`,
 		"fallback": "selfhst:ghidra",
 	});
 }

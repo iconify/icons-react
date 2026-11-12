@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g64-eqzac.css';
+import '../../css/n/nn1s74bhw.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g64-eqzac"/>`,
+		"content": `<path class="nn1s74bhw"/>`,
 		"fallback": "selfhst:wireguard-transparent-light",
 	});
 }

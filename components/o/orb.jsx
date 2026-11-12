@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rxu3wsb_i.css';
+import '../../css/d/dcwrfsx8m.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rxu3wsb_i"/>`,
+		"content": `<path class="dcwrfsx8m"/>`,
 		"fallback": "selfhst:orb",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xcihm-0sl.css';
+import '../../css/s/soui-00bi.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xcihm-0sl"/>`,
+		"content": `<path class="soui-00bi"/>`,
 		"fallback": "selfhst:crt-sh-dark",
 	});
 }

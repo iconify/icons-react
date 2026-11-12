@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kjg59kbok.css';
+import '../../css/h/hscy5fdck.css';
 import '../../css/k/kdlzsghls.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kjg59kbok"/><path class="kdlzsghls"/>`,
+		"content": `<path class="hscy5fdck"/><path class="kdlzsghls"/>`,
 		"fallback": "selfhst:oauth2-proxy-light",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/v/vg35-r2sk.css';
-import '../../css/n/n_--nwb1g.css';
+import '../../css/i/ieqeobcsz.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vg35-r2sk"/><path class="n_--nwb1g"/>`,
+		"content": `<path class="vg35-r2sk"/><path class="ieqeobcsz"/>`,
 		"fallback": "selfhst:linux-update-dashboard-light",
 	});
 }

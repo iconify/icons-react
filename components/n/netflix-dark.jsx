@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/w/wq2kp497d.css';
-import '../../css/k/krjjutbfe.css';
+import '../../css/c/c-9jnrbjz.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wq2kp497d"/><path class="krjjutbfe"/>`,
+		"content": `<path class="wq2kp497d"/><path class="c-9jnrbjz"/>`,
 		"fallback": "selfhst:netflix-dark",
 	});
 }

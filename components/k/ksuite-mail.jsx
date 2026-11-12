@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vwdmfbbev.css';
-import '../../css/i/ibd_t9xaj.css';
+import '../../css/b/bfjxzhuch.css';
+import '../../css/g/gee3w9bni.css';
 import '../../css/b/b7vxt34gn.css';
 import '../../css/k/kdivkab0n.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vwdmfbbev"/><path class="ibd_t9xaj"/><path class="b7vxt34gn"/><path class="kdivkab0n"/>`,
+		"content": `<path class="bfjxzhuch"/><path class="gee3w9bni"/><path class="b7vxt34gn"/><path class="kdivkab0n"/>`,
 		"fallback": "selfhst:ksuite-mail",
 	});
 }

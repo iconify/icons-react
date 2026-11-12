@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGKawXkcgx" x1="256" x2="256" y1="14.357" y2="497.643" gradientUnits="userSpaceOnUse"><stop offset="0" class="k5fk6_dbl"/><stop offset="1" class="x1i1gufdc"/></linearGradient><path fill="url(#SVGKawXkcgx)" class="r-mx-gbyo"/><path class="az8fldb0o"/>`,
+		"content": `<linearGradient id="SVGeRGfWR0q" x1="256" x2="256" y1="14.4" y2="497.6" gradientUnits="userSpaceOnUse"><stop offset="0" class="k5fk6_dbl"/><stop offset="1" class="x1i1gufdc"/></linearGradient><path fill="url(#SVGeRGfWR0q)" class="r-mx-gbyo"/><path class="az8fldb0o"/>`,
 		"fallback": "selfhst:microsoft-onenote-2013",
 	});
 }

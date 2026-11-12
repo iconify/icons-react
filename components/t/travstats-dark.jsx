@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mrm_zs23m.css';
+import '../../css/v/vvnr3uzos.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mrm_zs23m"/>`,
+		"content": `<path class="vvnr3uzos"/>`,
 		"fallback": "selfhst:travstats-dark",
 	});
 }

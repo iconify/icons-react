@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uyucu1t5r.css';
+import '../../css/j/je0d-9t6x.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uyucu1t5r"/>`,
+		"content": `<path class="je0d-9t6x"/>`,
 		"fallback": "selfhst:simplelogin-light",
 	});
 }

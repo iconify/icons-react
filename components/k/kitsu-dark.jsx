@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/durrixbcc.css';
-import '../../css/r/re-9pnl2o.css';
-import '../../css/b/b8b9eabcj.css';
-import '../../css/j/j4jbqabqa.css';
-import '../../css/a/aki-accfz.css';
-import '../../css/x/xjyriybhf.css';
+import '../../css/h/hf869sb1k.css';
+import '../../css/h/hibcrvbqz.css';
+import '../../css/h/hina6zh8z.css';
+import '../../css/m/mq_a-6b-m.css';
+import '../../css/q/qz7uzdb5z.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="durrixbcc"/><path class="re-9pnl2o"/><path class="b8b9eabcj"/><path class="j4jbqabqa"/><path class="aki-accfz"/><path class="xjyriybhf"/>`,
+		"content": `<path class="durrixbcc"/><path class="hf869sb1k"/><path class="hibcrvbqz"/><path class="hina6zh8z"/><path class="mq_a-6b-m"/><path class="qz7uzdb5z"/>`,
 		"fallback": "selfhst:kitsu-dark",
 	});
 }

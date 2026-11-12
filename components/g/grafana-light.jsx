@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ntexgpvsv.css';
+import '../../css/v/vdsmi1bau.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ntexgpvsv"/>`,
+		"content": `<path class="vdsmi1bau"/>`,
 		"fallback": "selfhst:grafana-light",
 	});
 }

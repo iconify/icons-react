@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ed5yrxnpc.css';
-import '../../css/e/exf1bchvj.css';
-import '../../css/a/aodjrpjbk.css';
+import '../../css/i/i-ygkxljt.css';
+import '../../css/g/g0cp1sbzy.css';
+import '../../css/s/s8nvih0xs.css';
 import '../../css/d/da3ephbql.css';
 import '../../css/h/hoo6v5rta.css';
 import '../../css/o/odpmc0bty.css';
@@ -11,7 +11,7 @@ import '../../css/j/jpnn8nq3e.css';
 import '../../css/l/l_tr8bblb.css';
 import '../../css/s/shvzp_zpw.css';
 import '../../css/j/j6xgmccry.css';
-import '../../css/q/qii6ukbsk.css';
+import '../../css/v/vdxt31urt.css';
 import '../../css/b/bfe0wgbxg.css';
 
 const viewBox = {"width":512,"height":512};
@@ -23,7 +23,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ed5yrxnpc"/><path class="exf1bchvj"/><path class="aodjrpjbk"/><path class="da3ephbql"/><path class="hoo6v5rta"/><path class="odpmc0bty"/><path class="lwul2kvqy"/><path class="jpnn8nq3e"/><path class="l_tr8bblb"/><path class="shvzp_zpw"/><path class="j6xgmccry"/><path class="qii6ukbsk"/><path class="bfe0wgbxg"/>`,
+		"content": `<path class="i-ygkxljt"/><path class="g0cp1sbzy"/><path class="s8nvih0xs"/><path class="da3ephbql"/><path class="hoo6v5rta"/><path class="odpmc0bty"/><path class="lwul2kvqy"/><path class="jpnn8nq3e"/><path class="l_tr8bblb"/><path class="shvzp_zpw"/><path class="j6xgmccry"/><path class="vdxt31urt"/><path class="bfe0wgbxg"/>`,
 		"fallback": "selfhst:teddycloud",
 	});
 }

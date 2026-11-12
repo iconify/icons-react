@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f2y3hnb5x.css';
+import '../../css/z/zb1elkbgg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f2y3hnb5x"/>`,
+		"content": `<path class="zb1elkbgg"/>`,
 		"fallback": "selfhst:snapchat-light",
 	});
 }

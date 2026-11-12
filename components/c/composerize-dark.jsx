@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sgci78std.css';
+import '../../css/y/yu2v_2bgt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sgci78std"/>`,
+		"content": `<path class="yu2v_2bgt"/>`,
 		"fallback": "selfhst:composerize-dark",
 	});
 }

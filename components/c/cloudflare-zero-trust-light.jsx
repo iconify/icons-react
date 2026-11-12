@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jlfva0b0l.css';
+import '../../css/j/j0u-v_b0l.css';
 import '../../css/o/oouf8iqje.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jlfva0b0l"/><path class="oouf8iqje"/>`,
+		"content": `<path class="j0u-v_b0l"/><path class="oouf8iqje"/>`,
 		"fallback": "selfhst:cloudflare-zero-trust-light",
 	});
 }

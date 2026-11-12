@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mgv7ffjnx.css';
+import '../../css/r/rcv7pen5i.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mgv7ffjnx"/>`,
+		"content": `<path class="rcv7pen5i"/>`,
 		"fallback": "selfhst:openhands-dark",
 	});
 }

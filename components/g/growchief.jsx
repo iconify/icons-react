@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bov0584ws"/><radialGradient id="SVGc7JNU7Np" cx="-676.66" cy="812.876" r="5.565" gradientTransform="rotate(254.667 -7616.721 24093.82)scale(-19.9815 46.7329)" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="stui2mbih"/></radialGradient><path fill="url(#SVGc7JNU7Np)" class="plasycqgq"/><path class="hel7e2brh"/>`,
+		"content": `<path class="bov0584ws"/><radialGradient id="SVGSOOTpdCx" cx="-676.66" cy="812.876" r="5.565" gradientTransform="rotate(74.667 -31589.157 -9986.16)scale(19.9815 -46.7329)" gradientUnits="userSpaceOnUse"><stop offset="0" class="vc--wpv5i"/><stop offset="1" class="stui2mbih"/></radialGradient><path fill="url(#SVGSOOTpdCx)" class="plasycqgq"/><path class="hel7e2brh"/>`,
 		"fallback": "selfhst:growchief",
 	});
 }

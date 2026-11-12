@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/akmyxebxj.css';
-import '../../css/z/zf1qckbeu.css';
+import '../../css/y/ymi_3kb1k.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="akmyxebxj"/><path clip-rule="evenodd" class="zf1qckbeu"/>`,
+		"content": `<path class="ymi_3kb1k"/>`,
 		"fallback": "selfhst:nextcloudpi-light",
 	});
 }

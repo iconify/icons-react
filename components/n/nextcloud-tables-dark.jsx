@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n_aaqkbpl.css';
-import '../../css/u/uzefn3-hw.css';
-import '../../css/n/ndep3kwgj.css';
+import '../../css/o/owjnftmiy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="n_aaqkbpl"/><path clip-rule="evenodd" class="uzefn3-hw"/><path clip-rule="evenodd" class="ndep3kwgj"/>`,
+		"content": `<path class="owjnftmiy"/>`,
 		"fallback": "selfhst:nextcloud-tables-dark",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wza49-blk.css';
+import '../../css/n/nr-vtvbvu.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wza49-blk"/>`,
+		"content": `<path class="nr-vtvbvu"/>`,
 		"fallback": "selfhst:harbor-scale",
 	});
 }

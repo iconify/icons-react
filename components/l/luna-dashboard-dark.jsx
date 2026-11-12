@@ -1,7 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rbp06qb8h.css';
-import '../../css/h/hpzn55bhk.css';
+import '../../css/n/nokhm-h5c.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rbp06qb8h"/><path class="hpzn55bhk"/>`,
+		"content": `<path class="nokhm-h5c"/>`,
 		"fallback": "selfhst:luna-dashboard-dark",
 	});
 }

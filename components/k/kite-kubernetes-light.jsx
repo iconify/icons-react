@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/orm_nmwie.css';
+import '../../css/k/k582apbdr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="orm_nmwie"/>`,
+		"content": `<path class="k582apbdr"/>`,
 		"fallback": "selfhst:kite-kubernetes-light",
 	});
 }

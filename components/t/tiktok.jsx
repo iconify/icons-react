@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/dsq8sfrxg.css';
-import '../../css/f/fkt9bwryo.css';
+import '../../css/g/gsbqavjhi.css';
 import '../../css/b/b8ni7-bky.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dsq8sfrxg"/><path class="fkt9bwryo"/><path class="b8ni7-bky"/>`,
+		"content": `<path class="dsq8sfrxg"/><path class="gsbqavjhi"/><path class="b8ni7-bky"/>`,
 		"fallback": "selfhst:tiktok",
 	});
 }

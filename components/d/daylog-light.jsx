@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ippu6y8jn.css';
+import '../../css/g/guzj9glux.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ippu6y8jn"/>`,
+		"content": `<path class="guzj9glux"/>`,
 		"fallback": "selfhst:daylog-light",
 	});
 }

@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wyk8rpbfi.css';
-import '../../css/e/esm6lcbck.css';
-import '../../css/r/rl8odprdk.css';
-import '../../css/v/vx7vdrusn.css';
-import '../../css/m/m2qx7sbjr.css';
+import '../../css/p/ph--6ybee.css';
+import '../../css/o/oemvvsbfu.css';
+import '../../css/k/k8-noccie.css';
+import '../../css/u/urkmcdwfb.css';
+import '../../css/y/yz7raabqt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wyk8rpbfi"/><path class="esm6lcbck"/><path class="rl8odprdk"/><path class="vx7vdrusn"/><path class="m2qx7sbjr"/>`,
+		"content": `<path class="ph--6ybee"/><path class="oemvvsbfu"/><path class="k8-noccie"/><path class="urkmcdwfb"/><path class="yz7raabqt"/>`,
 		"fallback": "selfhst:microsoft-excel-dark",
 	});
 }

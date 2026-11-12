@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y245uab7e.css';
+import '../../css/z/zk4zuub3q.css';
 import '../../css/z/ziuppeksn.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y245uab7e"/><path class="ziuppeksn"/>`,
+		"content": `<path class="zk4zuub3q"/><path class="ziuppeksn"/>`,
 		"fallback": "selfhst:planka-light",
 	});
 }

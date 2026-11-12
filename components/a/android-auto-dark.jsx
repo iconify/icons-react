@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m5e_cby5o.css';
+import '../../css/i/icu7kjy8b.css';
 import '../../css/t/tncgtrlau.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m5e_cby5o"/><path class="tncgtrlau"/>`,
+		"content": `<path class="icu7kjy8b"/><path class="tncgtrlau"/>`,
 		"fallback": "selfhst:android-auto-dark",
 	});
 }

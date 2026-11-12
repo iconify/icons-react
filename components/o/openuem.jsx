@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/z/zqzar5xlv.css';
 import '../../css/e/eo4l80r5n.css';
-import '../../css/n/nd0_hkbiv.css';
+import '../../css/f/flhupvbdi.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="zqzar5xlv"/><path class="eo4l80r5n"/><path class="nd0_hkbiv"/>`,
+		"content": `<circle class="zqzar5xlv"/><path class="eo4l80r5n"/><path class="flhupvbdi"/>`,
 		"fallback": "selfhst:openuem",
 	});
 }

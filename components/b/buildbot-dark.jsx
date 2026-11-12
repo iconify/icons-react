@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w3vcaebym.css';
-import '../../css/n/nqbpfg7cv.css';
-import '../../css/l/lwvi9hbvi.css';
-import '../../css/h/hgiin5bmx.css';
-import '../../css/k/khk6bxm_r.css';
-import '../../css/y/y_z2w6clv.css';
+import '../../css/i/ibe4v6buj.css';
+import '../../css/o/onpn3_b3n.css';
+import '../../css/m/m-eeiib0i.css';
+import '../../css/w/wagv089wb.css';
+import '../../css/e/e64ypnbje.css';
+import '../../css/v/vmeo7bc7y.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w3vcaebym"/><path class="nqbpfg7cv"/><path class="lwvi9hbvi"/><path class="hgiin5bmx"/><path class="khk6bxm_r"/><path class="y_z2w6clv"/>`,
+		"content": `<path class="ibe4v6buj"/><path class="onpn3_b3n"/><path class="m-eeiib0i"/><path class="wagv089wb"/><path class="e64ypnbje"/><path class="vmeo7bc7y"/>`,
 		"fallback": "selfhst:buildbot-dark",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fhgf2cphm.css';
+import '../../css/m/mtbeadc0j.css';
 import '../../css/h/h_f86fbgy.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fhgf2cphm"/><path class="h_f86fbgy"/>`,
+		"content": `<path class="mtbeadc0j"/><path class="h_f86fbgy"/>`,
 		"fallback": "selfhst:chhoto-url-light",
 	});
 }

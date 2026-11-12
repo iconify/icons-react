@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s53e0bcnh.css';
+import '../../css/o/o9mwpfk9f.css';
 import '../../css/p/phkuhv_dq.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s53e0bcnh"/><path class="phkuhv_dq"/>`,
+		"content": `<path class="o9mwpfk9f"/><path class="phkuhv_dq"/>`,
 		"fallback": "selfhst:connectwise-brightgauge-light",
 	});
 }

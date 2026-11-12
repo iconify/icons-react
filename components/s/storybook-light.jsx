@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/r0uvq1byx.css';
-import '../../css/p/plbtdtgjr.css';
+import '../../css/h/hijad5bip.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r0uvq1byx"/><path class="plbtdtgjr"/>`,
+		"content": `<path class="r0uvq1byx"/><path class="hijad5bip"/>`,
 		"fallback": "selfhst:storybook-light",
 	});
 }

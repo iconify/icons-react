@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tiikn06-w.css';
+import '../../css/s/sforiwebk.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tiikn06-w"/>`,
+		"content": `<path class="sforiwebk"/>`,
 		"fallback": "selfhst:wireguard-transparent",
 	});
 }

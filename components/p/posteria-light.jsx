@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/smlohmbtr.css';
+import '../../css/g/gj112dvaa.css';
 import '../../css/u/u79s_5bes.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="smlohmbtr"/><path class="u79s_5bes"/>`,
+		"content": `<path class="gj112dvaa"/><path class="u79s_5bes"/>`,
 		"fallback": "selfhst:posteria-light",
 	});
 }

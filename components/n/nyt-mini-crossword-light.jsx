@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wj7_ltb7c.css';
+import '../../css/k/kffzjgb7f.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wj7_ltb7c"/>`,
+		"content": `<path class="kffzjgb7f"/>`,
 		"fallback": "selfhst:nyt-mini-crossword-light",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rjmzeoexf.css';
-import '../../css/q/qrbdx9gbx.css';
+import '../../css/a/a22otgusg.css';
+import '../../css/g/ghhjxtbsy.css';
 import '../../css/v/vc7mhgvcb.css';
 import '../../css/m/mkp_-2o3y.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rjmzeoexf"/><path class="qrbdx9gbx"/><path class="vc7mhgvcb"/><path class="mkp_-2o3y"/>`,
+		"content": `<path class="a22otgusg"/><path class="ghhjxtbsy"/><path class="vc7mhgvcb"/><path class="mkp_-2o3y"/>`,
 		"fallback": "selfhst:ksuite-kpaste",
 	});
 }

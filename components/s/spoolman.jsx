@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="jw8972b9d"/><path vector-effect="non-scaling-stroke" class="pxzoqyb-w"/><path class="skcmeg75t"/><path class="u_acmivgm"/>`,
+		"content": `<path class="jw8972b9d"/><path class="pxzoqyb-w"/><path class="skcmeg75t"/><path class="u_acmivgm"/>`,
 		"fallback": "selfhst:spoolman",
 	});
 }

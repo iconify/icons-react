@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jl0w_em6f.css';
+import '../../css/p/p208krbfh.css';
 import '../../css/q/qeuinobue.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="jl0w_em6f"/><path class="qeuinobue"/>`,
+		"content": `<circle class="p208krbfh"/><path class="qeuinobue"/>`,
 		"fallback": "selfhst:dumbdo",
 	});
 }

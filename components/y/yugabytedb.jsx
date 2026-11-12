@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/li7fbit0t.css';
+import '../../css/f/faafu0brb.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="li7fbit0t"/>`,
+		"content": `<path class="faafu0brb"/>`,
 		"fallback": "selfhst:yugabytedb",
 	});
 }

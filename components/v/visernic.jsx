@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pb44leb3z.css';
-import '../../css/s/s_dxuzqlj.css';
+import '../../css/y/yjv-9mblk.css';
 import '../../css/l/lct3agv3p.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pb44leb3z"/><path class="s_dxuzqlj"/><path class="lct3agv3p"/>`,
+		"content": `<path class="pb44leb3z"/><path class="yjv-9mblk"/><path class="lct3agv3p"/>`,
 		"fallback": "selfhst:visernic",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/q/qp1v2sdoj.css';
-import '../../css/s/seuh9dvbe.css';
+import '../../css/f/flltnf0xc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qp1v2sdoj"/><path class="seuh9dvbe"/>`,
+		"content": `<path class="qp1v2sdoj"/><path class="flltnf0xc"/>`,
 		"fallback": "selfhst:nextcloud-contacts",
 	});
 }

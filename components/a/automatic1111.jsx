@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gmt_-3gzv.css';
+import '../../css/m/mewn8jbsb.css';
 import '../../css/l/l-3emlabv.css';
-import '../../css/u/uv73q-b-l.css';
-import '../../css/y/ypernbbma.css';
-import '../../css/c/cg0iy4byq.css';
+import '../../css/q/qekb1nb-r.css';
+import '../../css/g/gxbioacqh.css';
+import '../../css/c/cpiokdbke.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gmt_-3gzv"/><path class="l-3emlabv"/><path class="uv73q-b-l"/><path class="ypernbbma"/><path class="cg0iy4byq"/>`,
+		"content": `<path class="mewn8jbsb"/><path class="l-3emlabv"/><path class="qekb1nb-r"/><path class="gxbioacqh"/><path class="cpiokdbke"/>`,
 		"fallback": "selfhst:automatic1111",
 	});
 }

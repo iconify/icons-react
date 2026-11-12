@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/spvsfy5mn.css';
+import '../../css/s/sf_0tfbid.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="spvsfy5mn"/>`,
+		"content": `<path class="sf_0tfbid"/>`,
 		"fallback": "selfhst:papermc-dark",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/e/egkkoob5g.css';
-import '../../css/o/ogb19tc_x.css';
+import '../../css/m/m9rpzdbpu.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="egkkoob5g"/><path class="ogb19tc_x"/>`,
+		"content": `<path class="egkkoob5g"/><path class="m9rpzdbpu"/>`,
 		"fallback": "selfhst:storybook-dark",
 	});
 }

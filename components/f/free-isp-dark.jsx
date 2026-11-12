@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f66yio8ll.css';
+import '../../css/d/dao-eypsb.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f66yio8ll"/>`,
+		"content": `<path class="dao-eypsb"/>`,
 		"fallback": "selfhst:free-isp-dark",
 	});
 }

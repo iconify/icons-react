@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/ljh46-15w.css';
-import '../../css/o/o50rx_7zv.css';
+import '../../css/p/p9i-ec0lv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ljh46-15w"/><path class="o50rx_7zv"/>`,
+		"content": `<path class="ljh46-15w"/><path class="p9i-ec0lv"/>`,
 		"fallback": "selfhst:flux-operator-dark",
 	});
 }

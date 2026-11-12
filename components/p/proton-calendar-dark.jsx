@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/c_mutobdf.css';
-import '../../css/x/x0zug3lhg.css';
+import '../../css/b/bdz5tbc3y.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c_mutobdf"/><path class="x0zug3lhg"/>`,
+		"content": `<path class="c_mutobdf"/><path class="bdz5tbc3y"/>`,
 		"fallback": "selfhst:proton-calendar-dark",
 	});
 }

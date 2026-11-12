@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/efxus0nfo.css';
+import '../../css/f/f5cbidche.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="efxus0nfo"/>`,
+		"content": `<path class="f5cbidche"/>`,
 		"fallback": "selfhst:mathesar-dark",
 	});
 }

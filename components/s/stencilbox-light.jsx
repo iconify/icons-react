@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mnjfysbdr.css';
+import '../../css/s/starytbpp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mnjfysbdr"/>`,
+		"content": `<path class="starytbpp"/>`,
 		"fallback": "selfhst:stencilbox-light",
 	});
 }

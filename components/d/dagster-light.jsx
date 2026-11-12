@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wpsysqbfj.css';
+import '../../css/f/f9-d-dbrp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wpsysqbfj"/>`,
+		"content": `<path class="f9-d-dbrp"/>`,
 		"fallback": "selfhst:dagster-light",
 	});
 }

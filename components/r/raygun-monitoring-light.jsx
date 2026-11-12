@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yqsidac3y.css';
-import '../../css/x/x9m8ihb_s.css';
+import '../../css/j/jvqnthbsg.css';
+import '../../css/b/bh48ipmmn.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yqsidac3y"/><path class="x9m8ihb_s"/>`,
+		"content": `<path class="jvqnthbsg"/><path class="bh48ipmmn"/>`,
 		"fallback": "selfhst:raygun-monitoring-light",
 	});
 }

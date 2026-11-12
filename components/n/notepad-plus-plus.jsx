@@ -1,10 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wqcdb5ygk.css';
+import '../../css/w/wl6q0tz2o.css';
 import '../../css/u/u8097yb2w.css';
 import '../../css/v/vsmye0bkg.css';
-import '../../css/w/wtw301-dp.css';
-import '../../css/p/pt3a7m1tg.css';
+import '../../css/q/qa8dmsb6t.css';
+import '../../css/x/xxu5bpbae.css';
 import '../../css/r/r2afppxeg.css';
 import '../../css/s/shvsjnzoc.css';
 import '../../css/z/z_cl2m9uy.css';
@@ -24,7 +24,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wqcdb5ygk"/><path class="u8097yb2w"/><path class="vsmye0bkg"/><path class="wtw301-dp"/><path class="pt3a7m1tg"/><path class="r2afppxeg"/><path class="shvsjnzoc"/><path class="z_cl2m9uy"/><path class="ggqjm4bhr"/><path class="r7b0nxepk"/><path class="ih3f7kb8c"/><path class="w7aelpb9w"/><path class="s0wsq7bne"/><path class="w-37p8wix"/>`,
+		"content": `<path class="wl6q0tz2o"/><path class="u8097yb2w"/><path class="vsmye0bkg"/><path class="qa8dmsb6t"/><path class="xxu5bpbae"/><path class="r2afppxeg"/><path class="shvsjnzoc"/><path class="z_cl2m9uy"/><path class="ggqjm4bhr"/><path class="r7b0nxepk"/><path class="ih3f7kb8c"/><path class="w7aelpb9w"/><path class="s0wsq7bne"/><path class="w-37p8wix"/>`,
 		"fallback": "selfhst:notepad-plus-plus",
 	});
 }

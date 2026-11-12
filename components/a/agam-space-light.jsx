@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/autdh0b_i.css';
+import '../../css/z/zaebx0bsv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="autdh0b_i"/>`,
+		"content": `<path class="zaebx0bsv"/>`,
 		"fallback": "selfhst:agam-space-light",
 	});
 }

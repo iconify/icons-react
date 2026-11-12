@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c9ypnhbge.css';
+import '../../css/z/zrt0s6edx.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c9ypnhbge"/>`,
+		"content": `<path class="zrt0s6edx"/>`,
 		"fallback": "selfhst:ticc-dash-light",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g-odxj2go.css';
+import '../../css/h/hjz-obqrr.css';
 
-const viewBox = {"width":640,"height":640};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g-odxj2go"/>`,
+		"content": `<path class="hjz-obqrr"/>`,
 		"fallback": "selfhst:dockge-dark",
 	});
 }

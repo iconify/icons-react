@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z0v1_wsnp.css';
+import '../../css/h/hk6dcbs_b.css';
 import '../../css/d/dq4s8_baf.css';
 import '../../css/z/zqx0zmbos.css';
 import '../../css/y/ychnm4ptg.css';
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z0v1_wsnp"/><path class="dq4s8_baf"/><path class="zqx0zmbos"/><path class="ychnm4ptg"/>`,
+		"content": `<path class="hk6dcbs_b"/><path class="dq4s8_baf"/><path class="zqx0zmbos"/><path class="ychnm4ptg"/>`,
 		"fallback": "selfhst:sharry-dark",
 	});
 }

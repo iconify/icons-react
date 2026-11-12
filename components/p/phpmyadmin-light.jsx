@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/ncc_k81kj.css';
+import '../../css/f/fwl8mey3g.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ncc_k81kj"/>`,
+		"content": `<path class="fwl8mey3g"/>`,
 		"fallback": "selfhst:phpmyadmin-light",
 	});
 }

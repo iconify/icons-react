@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/chbs9jbxe.css';
+import '../../css/u/umdmixbmo.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="chbs9jbxe"/>`,
+		"content": `<path class="umdmixbmo"/>`,
 		"fallback": "selfhst:rackula-dark",
 	});
 }

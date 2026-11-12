@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/clmjnb28i.css';
-import '../../css/s/sayrawf8c.css';
+import '../../css/w/waa-snbif.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="clmjnb28i"/><path class="sayrawf8c"/>`,
+		"content": `<path class="clmjnb28i"/><path class="waa-snbif"/>`,
 		"fallback": "selfhst:flow-like-light",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fthgilgrb.css';
+import '../../css/j/jgcf6i6wr.css';
 import '../../css/y/yhd0eaczw.css';
-import '../../css/z/z8wtxdbjb.css';
+import '../../css/w/wcc2lm_1k.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fthgilgrb"/><path class="yhd0eaczw"/><path class="z8wtxdbjb"/>`,
+		"content": `<path class="jgcf6i6wr"/><path class="yhd0eaczw"/><path class="wcc2lm_1k"/>`,
 		"fallback": "selfhst:kamiyomu-dark",
 	});
 }

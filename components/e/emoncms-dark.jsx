@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a60v1_jqj.css';
+import '../../css/z/zq7gawjkp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a60v1_jqj"/>`,
+		"content": `<path class="zq7gawjkp"/>`,
 		"fallback": "selfhst:emoncms-dark",
 	});
 }

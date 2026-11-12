@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/dbhmpbcfb.css';
-import '../../css/e/el-oljoyp.css';
+import '../../css/t/t_72od1sa.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dbhmpbcfb"/><path class="el-oljoyp"/>`,
+		"content": `<path class="dbhmpbcfb"/><path class="t_72od1sa"/>`,
 		"fallback": "selfhst:aliexpress-light",
 	});
 }

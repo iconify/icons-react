@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/q/q615-bq5v.css';
-import '../../css/e/eb1q3ccfq.css';
+import '../../css/k/k-og-_b4c.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q615-bq5v"/><circle class="eb1q3ccfq"/>`,
+		"content": `<path class="q615-bq5v"/><circle class="k-og-_b4c"/>`,
 		"fallback": "selfhst:rimgo-light",
 	});
 }

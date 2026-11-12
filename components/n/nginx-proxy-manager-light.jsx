@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gyduclbkz.css';
+import '../../css/u/uj9y_zb2j.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gyduclbkz"/>`,
+		"content": `<path class="uj9y_zb2j"/>`,
 		"fallback": "selfhst:nginx-proxy-manager-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z52dv641c.css';
+import '../../css/x/xblvs3bpj.css';
 import '../../css/x/xj4e8-rbm.css';
 import '../../css/z/z98gm69xh.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z52dv641c"/><path class="xj4e8-rbm"/><path class="z98gm69xh"/>`,
+		"content": `<path class="xblvs3bpj"/><path class="xj4e8-rbm"/><path class="z98gm69xh"/>`,
 		"fallback": "selfhst:leafwiki",
 	});
 }

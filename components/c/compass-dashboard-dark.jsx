@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hb6gjezva.css';
+import '../../css/i/ilot6bcet.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hb6gjezva"/>`,
+		"content": `<path class="ilot6bcet"/>`,
 		"fallback": "selfhst:compass-dashboard-dark",
 	});
 }

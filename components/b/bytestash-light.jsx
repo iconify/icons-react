@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/erpgdnbre.css';
+import '../../css/u/ub19e0-yg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="erpgdnbre"/>`,
+		"content": `<path class="ub19e0-yg"/>`,
 		"fallback": "selfhst:bytestash-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bht_f5brj.css';
+import '../../css/i/i1qklabft.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bht_f5brj"/>`,
+		"content": `<path class="i1qklabft"/>`,
 		"fallback": "selfhst:velero-light",
 	});
 }

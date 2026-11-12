@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/w/wff71wb4h.css';
-import '../../css/e/ek_fw-biv.css';
+import '../../css/t/t01rqxb1d.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wff71wb4h"/><path class="ek_fw-biv"/>`,
+		"content": `<path class="wff71wb4h"/><path class="t01rqxb1d"/>`,
 		"fallback": "selfhst:apache-superset-dark",
 	});
 }

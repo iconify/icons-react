@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sralybcnp.css';
+import '../../css/e/emhy26btl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sralybcnp"/>`,
+		"content": `<path class="emhy26btl"/>`,
 		"fallback": "selfhst:backrest-dark",
 	});
 }

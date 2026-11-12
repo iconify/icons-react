@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xz6-4v4mr.css';
+import '../../css/w/wtwl263qg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xz6-4v4mr"/>`,
+		"content": `<path class="wtwl263qg"/>`,
 		"fallback": "selfhst:shaarli-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lx0vdxm-f.css';
+import '../../css/w/wdtvu5bro.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lx0vdxm-f"/>`,
+		"content": `<path class="wdtvu5bro"/>`,
 		"fallback": "selfhst:apache-tika-binary-dark",
 	});
 }

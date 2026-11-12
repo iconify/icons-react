@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gip2fsogj.css';
+import '../../css/z/za9rxhb1i.css';
 import '../../css/h/hhrevwgtq.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gip2fsogj"/><path class="hhrevwgtq"/>`,
+		"content": `<path class="za9rxhb1i"/><path class="hhrevwgtq"/>`,
 		"fallback": "selfhst:tubetimeout-light",
 	});
 }

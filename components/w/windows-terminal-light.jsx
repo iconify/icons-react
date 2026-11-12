@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jj9b7k8db.css';
-import '../../css/y/ym98bkbma.css';
+import '../../css/c/cf6dewbbb.css';
+import '../../css/h/hwhw6hqjo.css';
 import '../../css/y/yy5qrkvzr.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jj9b7k8db"/><path class="ym98bkbma"/><path class="yy5qrkvzr"/>`,
+		"content": `<path class="cf6dewbbb"/><path class="hwhw6hqjo"/><path class="yy5qrkvzr"/>`,
 		"fallback": "selfhst:windows-terminal-light",
 	});
 }

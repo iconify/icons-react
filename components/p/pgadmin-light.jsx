@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mf6l_pbah.css';
+import '../../css/x/x1ksnct3v.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mf6l_pbah"/>`,
+		"content": `<path class="x1ksnct3v"/>`,
 		"fallback": "selfhst:pgadmin-light",
 	});
 }

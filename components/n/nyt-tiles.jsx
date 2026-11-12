@@ -1,8 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b37ujtb-g.css';
+import '../../css/o/o8hgju72p.css';
 import '../../css/u/u9y__jw4b.css';
-import '../../css/e/eej59_rhy.css';
 import '../../css/z/zujjfbcsh.css';
 import '../../css/x/xbfqloslf.css';
 import '../../css/v/v3vlycc2h.css';
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b37ujtb-g"/><path class="u9y__jw4b"/><path class="eej59_rhy"/><path class="zujjfbcsh"/><path class="xbfqloslf"/><path class="v3vlycc2h"/>`,
+		"content": `<path class="o8hgju72p"/><path class="u9y__jw4b"/><path class="zujjfbcsh"/><path class="xbfqloslf"/><path class="v3vlycc2h"/>`,
 		"fallback": "selfhst:nyt-tiles",
 	});
 }

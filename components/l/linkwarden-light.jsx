@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wsmnm9b9o.css';
+import '../../css/i/i--9t9r5m.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wsmnm9b9o"/>`,
+		"content": `<path class="i--9t9r5m"/>`,
 		"fallback": "selfhst:linkwarden-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gbdto3ogj.css';
+import '../../css/a/apeh7omfh.css';
 import '../../css/q/q8sv92b_b.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gbdto3ogj"/><path class="q8sv92b_b"/>`,
+		"content": `<path class="apeh7omfh"/><path class="q8sv92b_b"/>`,
 		"fallback": "selfhst:pingora-proxy-manager-dark",
 	});
 }

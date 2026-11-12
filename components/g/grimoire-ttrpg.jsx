@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/r_eg9t9sm.css';
-import '../../css/m/mw3jqjowb.css';
+import '../../css/b/bpcfxvb5p.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r_eg9t9sm"/><path class="mw3jqjowb"/>`,
+		"content": `<path class="r_eg9t9sm"/><path class="bpcfxvb5p"/>`,
 		"fallback": "selfhst:grimoire-ttrpg",
 	});
 }

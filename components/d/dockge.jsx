@@ -2,10 +2,10 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/m/mylrgib3j.css';
 import '../../css/t/tr0fwwk_h.css';
-import '../../css/m/mne0scb3a.css';
-import '../../css/n/nienw3x4z.css';
+import '../../css/o/oyulphfdn.css';
+import '../../css/b/b2gym-hlg.css';
 
-const viewBox = {"width":640,"height":640};
+const viewBox = {"width":512,"height":512};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGPBcOfeIO" x1="-68.923" x2="140.067" y1="744.781" y2="944.831" gradientTransform="translate(401.442 -308.253)scale(.9111)" gradientUnits="userSpaceOnUse"><stop offset="0" class="mylrgib3j"/><stop offset="1" class="tr0fwwk_h"/></linearGradient><path fill="url(#SVGPBcOfeIO)" class="mne0scb3a"/><path class="nienw3x4z"/>`,
+		"content": `<linearGradient id="SVG3lO35cJa" x1="270.9" x2="423.2" y1="296.3" y2="442.1" gradientUnits="userSpaceOnUse"><stop offset="0" class="mylrgib3j"/><stop offset="1" class="tr0fwwk_h"/></linearGradient><path fill="url(#SVG3lO35cJa)" class="oyulphfdn"/><path class="b2gym-hlg"/>`,
 		"fallback": "selfhst:dockge",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wd2jl2a8o.css';
+import '../../css/j/jar70jbhs.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wd2jl2a8o"/>`,
+		"content": `<path class="jar70jbhs"/>`,
 		"fallback": "selfhst:glances-light",
 	});
 }

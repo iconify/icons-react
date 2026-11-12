@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iyx7_x3zo.css';
+import '../../css/b/buwksiwwv.css';
 import '../../css/a/a6dsmibvs.css';
 import '../../css/u/u9-lmsbri.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iyx7_x3zo"/><path class="a6dsmibvs"/><path class="u9-lmsbri"/>`,
+		"content": `<path class="buwksiwwv"/><path class="a6dsmibvs"/><path class="u9-lmsbri"/>`,
 		"fallback": "selfhst:pyload",
 	});
 }

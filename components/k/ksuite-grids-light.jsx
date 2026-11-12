@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/og_f3_bmu.css';
-import '../../css/w/waab1-svo.css';
+import '../../css/x/xlsi6_kti.css';
+import '../../css/n/njlpr9bmf.css';
 import '../../css/q/qbc0ipycg.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="og_f3_bmu"/><path class="waab1-svo"/><path class="qbc0ipycg"/>`,
+		"content": `<path class="xlsi6_kti"/><path class="njlpr9bmf"/><path class="qbc0ipycg"/>`,
 		"fallback": "selfhst:ksuite-grids-light",
 	});
 }

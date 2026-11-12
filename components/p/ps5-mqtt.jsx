@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVG9EfuaeuR" x1="384.021" x2="127.979" y1="731.74" y2="288.26" gradientTransform="translate(0 -254)" gradientUnits="userSpaceOnUse"><stop offset="0" class="sjxoumaot"/><stop offset="1" class="j0dgimlyo"/></linearGradient><circle fill="url(#SVG9EfuaeuR)" class="iycln-b8i"/><path class="d207gzzih"/><path class="zwx4r_96p"/>`,
+		"content": `<linearGradient id="SVGWyKcCcBL" x1="384" x2="128" y1="477.7" y2="34.3" gradientUnits="userSpaceOnUse"><stop offset="0" class="sjxoumaot"/><stop offset="1" class="j0dgimlyo"/></linearGradient><circle fill="url(#SVGWyKcCcBL)" class="iycln-b8i"/><path class="d207gzzih"/><path class="zwx4r_96p"/>`,
 		"fallback": "selfhst:ps5-mqtt",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e9o002biw.css';
+import '../../css/x/xxz55uslf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e9o002biw"/>`,
+		"content": `<path class="xxz55uslf"/>`,
 		"fallback": "selfhst:qbittorrent-light",
 	});
 }

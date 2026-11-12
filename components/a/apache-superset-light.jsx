@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/e/e_q8l3bsv.css';
-import '../../css/a/agp2gjbkb.css';
+import '../../css/p/p3_7rrbke.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e_q8l3bsv"/><path class="agp2gjbkb"/>`,
+		"content": `<path class="e_q8l3bsv"/><path class="p3_7rrbke"/>`,
 		"fallback": "selfhst:apache-superset-light",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zejmubckr.css';
-import '../../css/d/dy9twxbqe.css';
+import '../../css/y/yqyxmsbpe.css';
+import '../../css/l/lxfy0olss.css';
 import '../../css/d/d2oowm1mw.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zejmubckr"/><path class="dy9twxbqe"/><path class="d2oowm1mw"/>`,
+		"content": `<path class="yqyxmsbpe"/><path class="lxfy0olss"/><path class="d2oowm1mw"/>`,
 		"fallback": "selfhst:domain-monitor-dark",
 	});
 }

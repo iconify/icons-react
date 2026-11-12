@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sf73475fd.css';
+import '../../css/v/vn4oblbjj.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sf73475fd"/>`,
+		"content": `<path class="vn4oblbjj"/>`,
 		"fallback": "selfhst:mathesar-light",
 	});
 }

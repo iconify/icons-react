@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/foawy0bhr.css';
-import '../../css/j/jb0d_iq9v.css';
+import '../../css/v/vg5uvza7z.css';
+import '../../css/u/ualo8ccab.css';
 import '../../css/w/w38m_pb8z.css';
-import '../../css/p/p-qfsebno.css';
+import '../../css/t/tibt6ac4n.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="foawy0bhr"/><path class="jb0d_iq9v"/><path class="w38m_pb8z"/><path class="p-qfsebno"/>`,
+		"content": `<path class="vg5uvza7z"/><path class="ualo8ccab"/><path class="w38m_pb8z"/><path class="tibt6ac4n"/>`,
 		"fallback": "selfhst:microsoft-defender-2020-light",
 	});
 }

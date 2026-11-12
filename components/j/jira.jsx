@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jmpvnv02r"/><linearGradient id="SVGTspfFjxT" x1="380.818" x2="279.067" y1="401.318" y2="509.353" gradientTransform="translate(0 -278)" gradientUnits="userSpaceOnUse"><stop offset=".176" class="sav6x4bmf"/><stop offset="1" class="g_gp7lgqe"/></linearGradient><path fill="url(#SVGTspfFjxT)" class="d20do-bxb"/><linearGradient id="SVGtWznKJvW" x1="265.897" x2="148.049" y1="521.271" y2="639.326" gradientTransform="translate(0 -278)" gradientUnits="userSpaceOnUse"><stop offset=".176" class="sav6x4bmf"/><stop offset="1" class="g_gp7lgqe"/></linearGradient><path fill="url(#SVGtWznKJvW)" class="ijshl6ulo"/>`,
+		"content": `<path class="jmpvnv02r"/><linearGradient id="SVGeaivDdNK" x1="380.8" x2="279.1" y1="123.3" y2="231.4" gradientUnits="userSpaceOnUse"><stop offset=".176" class="sav6x4bmf"/><stop offset="1" class="g_gp7lgqe"/></linearGradient><path fill="url(#SVGeaivDdNK)" class="d20do-bxb"/><linearGradient id="SVGqo8kRbur" x1="265.9" x2="148" y1="243.3" y2="361.3" gradientUnits="userSpaceOnUse"><stop offset=".176" class="sav6x4bmf"/><stop offset="1" class="g_gp7lgqe"/></linearGradient><path fill="url(#SVGqo8kRbur)" class="ijshl6ulo"/>`,
 		"fallback": "selfhst:jira",
 	});
 }

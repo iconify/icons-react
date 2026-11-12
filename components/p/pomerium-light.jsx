@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/inemvmb9i.css';
-import '../../css/u/u1l779tda.css';
+import '../../css/h/hrcqh2b6o.css';
+import '../../css/x/xw_9y5bzo.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="inemvmb9i"/><path class="u1l779tda"/>`,
+		"content": `<path class="hrcqh2b6o"/><path class="xw_9y5bzo"/>`,
 		"fallback": "selfhst:pomerium-light",
 	});
 }

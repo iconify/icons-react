@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r9xnnac5q.css';
+import '../../css/m/mox62k4cc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r9xnnac5q"/>`,
+		"content": `<path class="mox62k4cc"/>`,
 		"fallback": "selfhst:cooklang-chef-light",
 	});
 }

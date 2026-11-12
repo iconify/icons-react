@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/b/bk_y2-bpv.css';
 import '../../css/k/k7rs5ub2m.css';
-import '../../css/b/ba7212etj.css';
+import '../../css/l/lpelvxbhz.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bk_y2-bpv"/><path class="k7rs5ub2m"/><path class="ba7212etj"/>`,
+		"content": `<path class="bk_y2-bpv"/><path class="k7rs5ub2m"/><path class="lpelvxbhz"/>`,
 		"fallback": "selfhst:yabin",
 	});
 }

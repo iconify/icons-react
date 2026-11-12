@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ix-pf_jrx.css';
-import '../../css/r/r3q5yh9_s.css';
+import '../../css/s/s8ttcqbdx.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ix-pf_jrx"/><path class="r3q5yh9_s"/>`,
+		"content": `<path class="ix-pf_jrx"/><path class="s8ttcqbdx"/>`,
 		"fallback": "selfhst:kubernetes",
 	});
 }

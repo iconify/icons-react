@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d17vghbib.css';
+import '../../css/r/rrso21bdp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d17vghbib"/>`,
+		"content": `<path class="rrso21bdp"/>`,
 		"fallback": "selfhst:kanboard-dark",
 	});
 }

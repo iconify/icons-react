@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dh4zwjb9v.css';
+import '../../css/q/q66omwb3e.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dh4zwjb9v"/>`,
+		"content": `<path class="q66omwb3e"/>`,
 		"fallback": "selfhst:microsoft-sharepoint-2013-light",
 	});
 }

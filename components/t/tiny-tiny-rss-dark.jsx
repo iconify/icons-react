@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ad91pccmh.css';
-import '../../css/u/uq4weob1t.css';
-import '../../css/a/a2trefbuk.css';
-import '../../css/c/cf670p61w.css';
+import '../../css/o/oibvcjc0f.css';
+import '../../css/i/iu86r2nel.css';
+import '../../css/l/livslo2ye.css';
+import '../../css/k/kt6qteb_y.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle transform="rotate(-89.685 70.225 441.78)" class="ad91pccmh"/><path class="uq4weob1t"/><path class="a2trefbuk"/><path class="cf670p61w"/>`,
+		"content": `<path class="oibvcjc0f"/><path class="iu86r2nel"/><path class="livslo2ye"/><path class="kt6qteb_y"/>`,
 		"fallback": "selfhst:tiny-tiny-rss-dark",
 	});
 }

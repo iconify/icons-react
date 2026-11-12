@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="akqouxm0s"/><linearGradient id="SVGN64GfetH" x1="61.827" x2="447.193" y1="256" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" class="aedbiubbd"/><stop offset=".474" class="c2666qbyo"/><stop offset="1" class="qh6qg07ln"/></linearGradient><path fill="url(#SVGN64GfetH)" class="jajpddrxu"/>`,
+		"content": `<path class="akqouxm0s"/><linearGradient id="SVGPsnCTcQB" x1="61.8" x2="447.2" y1="256" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" class="aedbiubbd"/><stop offset=".474" class="c2666qbyo"/><stop offset="1" class="qh6qg07ln"/></linearGradient><path fill="url(#SVGPsnCTcQB)" class="jajpddrxu"/>`,
 		"fallback": "selfhst:plexamp",
 	});
 }

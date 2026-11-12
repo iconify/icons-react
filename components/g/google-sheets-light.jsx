@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qu6tghbwj.css';
+import '../../css/a/alabeshfc.css';
 import '../../css/l/lb66l3jkg.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qu6tghbwj"/><path class="lb66l3jkg"/>`,
+		"content": `<path class="alabeshfc"/><path class="lb66l3jkg"/>`,
 		"fallback": "selfhst:google-sheets-light",
 	});
 }

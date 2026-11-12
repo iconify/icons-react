@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ej5pdo-_n.css';
+import '../../css/e/ev6_nwamt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ej5pdo-_n"/>`,
+		"content": `<path class="ev6_nwamt"/>`,
 		"fallback": "selfhst:authgear-light",
 	});
 }

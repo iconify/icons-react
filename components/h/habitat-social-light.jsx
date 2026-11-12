@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x04di0hqe.css';
+import '../../css/k/kf5la-bxg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x04di0hqe"/>`,
+		"content": `<path class="kf5la-bxg"/>`,
 		"fallback": "selfhst:habitat-social-light",
 	});
 }

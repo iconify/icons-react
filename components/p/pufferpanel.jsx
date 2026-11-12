@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/m/m21fiubni.css';
-import '../../css/j/j3h0ykbux.css';
+import '../../css/l/lxxu1wx1m.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m21fiubni"/><path class="j3h0ykbux"/>`,
+		"content": `<path class="m21fiubni"/><path class="lxxu1wx1m"/>`,
 		"fallback": "selfhst:pufferpanel",
 	});
 }

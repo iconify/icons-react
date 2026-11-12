@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/j6-lcumwc.css';
-import '../../css/q/q6r9cfypp.css';
+import '../../css/l/lvu082s3g.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j6-lcumwc"/><path class="q6r9cfypp"/>`,
+		"content": `<path class="j6-lcumwc"/><path class="lvu082s3g"/>`,
 		"fallback": "selfhst:material-for-mkdocs-light",
 	});
 }

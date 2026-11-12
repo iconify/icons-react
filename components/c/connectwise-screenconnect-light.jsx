@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d5549tbpb.css';
+import '../../css/c/c35dru_2f.css';
 import '../../css/z/zr90yfbxo.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d5549tbpb"/><path class="zr90yfbxo"/>`,
+		"content": `<path class="c35dru_2f"/><path class="zr90yfbxo"/>`,
 		"fallback": "selfhst:connectwise-screenconnect-light",
 	});
 }

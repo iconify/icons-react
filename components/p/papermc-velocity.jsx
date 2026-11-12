@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/n73j_hptb.css';
-import '../../css/p/pkgwtlppi.css';
+import '../../css/i/i3zqipbxv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n73j_hptb"/><path class="pkgwtlppi"/>`,
+		"content": `<path class="n73j_hptb"/><path class="i3zqipbxv"/>`,
 		"fallback": "selfhst:papermc-velocity",
 	});
 }

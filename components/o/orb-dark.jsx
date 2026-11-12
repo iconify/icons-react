@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/iptrpbc6u.css';
+import '../../css/j/jt_u63bwe.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="iptrpbc6u"/>`,
+		"content": `<path class="jt_u63bwe"/>`,
 		"fallback": "selfhst:orb-dark",
 	});
 }

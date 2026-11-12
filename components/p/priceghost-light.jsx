@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/k/kckc1iwlf.css';
 import '../../css/v/vc--wpv5i.css';
-import '../../css/w/wefqhcm6u.css';
+import '../../css/i/im1e3vbzf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGMZJ75ddv" x1="211.539" x2="300.461" y1="3.847" y2="508.153" gradientUnits="userSpaceOnUse"><stop offset="0" class="kckc1iwlf"/><stop offset="1" class="vc--wpv5i"/></linearGradient><path fill="url(#SVGMZJ75ddv)" class="wefqhcm6u"/>`,
+		"content": `<linearGradient id="SVGaDbyRwJt" x1="211.5" x2="300.5" y1="3.8" y2="508.2" gradientUnits="userSpaceOnUse"><stop offset="0" class="kckc1iwlf"/><stop offset="1" class="vc--wpv5i"/></linearGradient><path fill="url(#SVGaDbyRwJt)" class="im1e3vbzf"/>`,
 		"fallback": "selfhst:priceghost-light",
 	});
 }

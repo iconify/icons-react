@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kj3p5qbww.css';
+import '../../css/f/fmv1yubuf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kj3p5qbww"/>`,
+		"content": `<path class="fmv1yubuf"/>`,
 		"fallback": "selfhst:citibank-dark",
 	});
 }

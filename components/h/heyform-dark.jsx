@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fhd73iz3o.css';
-import '../../css/f/fjk7q33ni.css';
+import '../../css/v/vj4pyrh1t.css';
+import '../../css/h/h0-fzyzmr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fhd73iz3o"/><path class="fjk7q33ni"/>`,
+		"content": `<path class="vj4pyrh1t"/><path class="h0-fzyzmr"/>`,
 		"fallback": "selfhst:heyform-dark",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/co2lme0xd.css';
+import '../../css/i/iopt-_0-m.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="co2lme0xd"/>`,
+		"content": `<path class="iopt-_0-m"/>`,
 		"fallback": "selfhst:hook0-dark",
 	});
 }

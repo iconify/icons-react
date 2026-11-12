@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o54po1hhg.css';
+import '../../css/d/da8y-n0pu.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o54po1hhg"/>`,
+		"content": `<path class="da8y-n0pu"/>`,
 		"fallback": "selfhst:hermes-agent-light",
 	});
 }

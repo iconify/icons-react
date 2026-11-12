@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lraiwvujr.css';
+import '../../css/w/w6515jepd.css';
 import '../../css/c/c97n50bhy.css';
-import '../../css/w/w21c98bra.css';
+import '../../css/z/z1zkdbgsi.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lraiwvujr"/><path class="c97n50bhy"/><path class="w21c98bra"/>`,
+		"content": `<path class="w6515jepd"/><path class="c97n50bhy"/><path class="z1zkdbgsi"/>`,
 		"fallback": "selfhst:proton-lumo-dark",
 	});
 }

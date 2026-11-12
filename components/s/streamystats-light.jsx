@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cl35mubuy.css';
-import '../../css/w/wfpw4achp.css';
+import '../../css/i/i86vmwb3r.css';
+import '../../css/c/cogmg3blm.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cl35mubuy"/><path class="wfpw4achp"/>`,
+		"content": `<path class="i86vmwb3r"/><path class="cogmg3blm"/>`,
 		"fallback": "selfhst:streamystats-light",
 	});
 }

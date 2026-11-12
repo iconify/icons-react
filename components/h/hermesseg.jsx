@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/lg1-4zbux.css';
-import '../../css/f/fdh0m_b1f.css';
+import '../../css/y/yg-vkub-j.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<ellipse class="lg1-4zbux"/><path class="fdh0m_b1f"/>`,
+		"content": `<ellipse class="lg1-4zbux"/><path class="yg-vkub-j"/>`,
 		"fallback": "selfhst:hermesseg",
 	});
 }

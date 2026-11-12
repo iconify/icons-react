@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rg676pb3g.css';
+import '../../css/r/rzxio8blc.css';
 import '../../css/t/tsv_okbow.css';
-import '../../css/s/sclwzib1q.css';
+import '../../css/i/ij824bc0n.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rg676pb3g"/><path class="tsv_okbow"/><circle class="sclwzib1q"/>`,
+		"content": `<path class="rzxio8blc"/><path class="tsv_okbow"/><circle class="ij824bc0n"/>`,
 		"fallback": "selfhst:rurdesk-dark",
 	});
 }

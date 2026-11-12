@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/idolizczw.css';
-import '../../css/d/dhkr_wblc.css';
+import '../../css/o/o4_vv21pe.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="idolizczw"/><path class="dhkr_wblc"/>`,
+		"content": `<path class="idolizczw"/><path class="o4_vv21pe"/>`,
 		"fallback": "selfhst:senlo-dark",
 	});
 }

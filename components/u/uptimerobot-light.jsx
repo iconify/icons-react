@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sniv8rcns.css';
+import '../../css/q/q4rsj3bvm.css';
 import '../../css/o/oss8yqu8p.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="sniv8rcns"/><circle class="oss8yqu8p"/>`,
+		"content": `<circle class="q4rsj3bvm"/><circle class="oss8yqu8p"/>`,
 		"fallback": "selfhst:uptimerobot-light",
 	});
 }

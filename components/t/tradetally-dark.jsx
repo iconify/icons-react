@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qgttro11x.css';
+import '../../css/s/scob2eb_t.css';
 import '../../css/d/dl8utqb_s.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qgttro11x"/><path class="dl8utqb_s"/>`,
+		"content": `<path class="scob2eb_t"/><path class="dl8utqb_s"/>`,
 		"fallback": "selfhst:tradetally-dark",
 	});
 }

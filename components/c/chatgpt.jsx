@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/m/mmy7jtbal.css';
-import '../../css/z/zaiufn24c.css';
+import '../../css/u/u01dg9zki.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mmy7jtbal"/><path class="zaiufn24c"/>`,
+		"content": `<path class="mmy7jtbal"/><path class="u01dg9zki"/>`,
 		"fallback": "selfhst:chatgpt",
 	});
 }

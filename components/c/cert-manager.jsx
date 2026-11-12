@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/z/za7xkl_6x.css';
-import '../../css/x/xd0ybnb5n.css';
+import '../../css/w/wv9we8sgr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="za7xkl_6x"/><path class="xd0ybnb5n"/>`,
+		"content": `<path class="za7xkl_6x"/><path class="wv9we8sgr"/>`,
 		"fallback": "selfhst:cert-manager",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t4dorbpdx.css';
+import '../../css/j/jvuee1bgj.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t4dorbpdx"/>`,
+		"content": `<path class="jvuee1bgj"/>`,
 		"fallback": "selfhst:omada-light",
 	});
 }

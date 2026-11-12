@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x4gyquu4g.css';
-import '../../css/k/kuyk5mn6b.css';
+import '../../css/a/a0l9w0esz.css';
+import '../../css/d/da7n23beg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x4gyquu4g"/><path class="kuyk5mn6b"/>`,
+		"content": `<path class="a0l9w0esz"/><path class="da7n23beg"/>`,
 		"fallback": "selfhst:markstack-light",
 	});
 }

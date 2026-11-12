@@ -9,7 +9,7 @@ import '../../css/k/ka-tubc6r.css';
 import '../../css/i/ioyha_qrh.css';
 import '../../css/z/zvyotnflq.css';
 import '../../css/c/cd90rebtk.css';
-import '../../css/m/m74i8gbcv.css';
+import '../../css/w/widu_ujlh.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -20,7 +20,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="se25dobhl"/><path class="ca86ajbig"/><path class="czfpzhavx"/><path class="tck5xc1vt"/><path class="a1t6h1b8l"/><path class="ka-tubc6r"/><path class="ioyha_qrh"/><path class="zvyotnflq"/><path class="cd90rebtk"/><path class="m74i8gbcv"/>`,
+		"content": `<path class="se25dobhl"/><path class="ca86ajbig"/><path class="czfpzhavx"/><path class="tck5xc1vt"/><path class="a1t6h1b8l"/><path class="ka-tubc6r"/><path class="ioyha_qrh"/><path class="zvyotnflq"/><path class="cd90rebtk"/><path class="widu_ujlh"/>`,
 		"fallback": "selfhst:proton-lumo",
 	});
 }

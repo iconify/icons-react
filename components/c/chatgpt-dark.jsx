@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gnuiw5usx.css';
+import '../../css/v/v8m_n_89x.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gnuiw5usx"/>`,
+		"content": `<path class="v8m_n_89x"/>`,
 		"fallback": "selfhst:chatgpt-dark",
 	});
 }

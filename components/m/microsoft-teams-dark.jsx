@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/ggt1geb1l.css';
-import '../../css/x/xr2facclf.css';
+import '../../css/m/mdvc9woqc.css';
+import '../../css/p/ptwpuid-h.css';
 import '../../css/a/atnwqg8za.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ggt1geb1l"/><path class="xr2facclf"/><path class="atnwqg8za"/>`,
+		"content": `<path class="mdvc9woqc"/><path class="ptwpuid-h"/><path class="atnwqg8za"/>`,
 		"fallback": "selfhst:microsoft-teams-dark",
 	});
 }

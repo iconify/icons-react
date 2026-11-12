@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kl3jjbtxm.css';
-import '../../css/e/ej_-dh--d.css';
+import '../../css/t/trl7bqbmp.css';
+import '../../css/d/d9m02bchl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kl3jjbtxm"/><path class="ej_-dh--d"/>`,
+		"content": `<path class="trl7bqbmp"/><path class="d9m02bchl"/>`,
 		"fallback": "selfhst:spirit-airlines",
 	});
 }

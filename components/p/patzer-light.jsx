@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nmoj0pv_m.css';
-import '../../css/i/iuvjulbnr.css';
+import '../../css/m/ml0m__bfx.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nmoj0pv_m"/><path class="iuvjulbnr"/>`,
+		"content": `<path class="nmoj0pv_m"/><path class="ml0m__bfx"/>`,
 		"fallback": "selfhst:patzer-light",
 	});
 }

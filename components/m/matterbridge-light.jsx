@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tp9-fhbrs.css';
+import '../../css/h/hfc6_nbhg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tp9-fhbrs"/>`,
+		"content": `<path class="hfc6_nbhg"/>`,
 		"fallback": "selfhst:matterbridge-light",
 	});
 }

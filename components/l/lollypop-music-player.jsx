@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hr08b61pk.css';
-import '../../css/t/tjfi85b2h.css';
-import '../../css/j/jyx3upbae.css';
+import '../../css/d/d_fvrmbcp.css';
+import '../../css/v/v2um02b8q.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="hr08b61pk"/><path class="tjfi85b2h"/><path class="jyx3upbae"/>`,
+		"content": `<circle class="hr08b61pk"/><path class="d_fvrmbcp"/><path class="v2um02b8q"/>`,
 		"fallback": "selfhst:lollypop-music-player",
 	});
 }

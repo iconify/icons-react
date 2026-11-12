@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/imkf5vvcy.css';
+import '../../css/b/bd8d_bcwh.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="imkf5vvcy"/>`,
+		"content": `<path class="bd8d_bcwh"/>`,
 		"fallback": "selfhst:teddycloud-light",
 	});
 }

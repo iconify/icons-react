@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/roypppdao.css';
+import '../../css/w/wvf2hdcms.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="roypppdao"/>`,
+		"content": `<path class="wvf2hdcms"/>`,
 		"fallback": "selfhst:omada-dark",
 	});
 }

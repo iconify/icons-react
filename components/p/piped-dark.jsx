@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f09tprafk.css';
-import '../../css/u/ug7q-clry.css';
+import '../../css/l/le3-1wb0z.css';
+import '../../css/k/kmpx0bclz.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f09tprafk"/><path class="ug7q-clry"/>`,
+		"content": `<path class="le3-1wb0z"/><path class="kmpx0bclz"/>`,
 		"fallback": "selfhst:piped-dark",
 	});
 }

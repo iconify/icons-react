@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h-0oyrb7l.css';
+import '../../css/s/sdhj22bof.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h-0oyrb7l"/>`,
+		"content": `<path class="sdhj22bof"/>`,
 		"fallback": "selfhst:firebase-light",
 	});
 }

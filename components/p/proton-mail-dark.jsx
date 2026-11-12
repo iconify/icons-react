@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p39_dg31u.css';
+import '../../css/z/zq4poxb2f.css';
 import '../../css/l/lj93ifb1w.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p39_dg31u"/><path class="lj93ifb1w"/>`,
+		"content": `<path class="zq4poxb2f"/><path class="lj93ifb1w"/>`,
 		"fallback": "selfhst:proton-mail-dark",
 	});
 }

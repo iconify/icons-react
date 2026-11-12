@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGYVBYcbxg" x1="256" x2="256" y1="1183.3" y2="671.3" gradientTransform="translate(0 -671.3)" gradientUnits="userSpaceOnUse"><stop offset="0" class="wf93-kb8r"/><stop offset="1" class="qunbzgvvb"/></linearGradient><circle fill="url(#SVGYVBYcbxg)" class="iycln-b8i"/><path class="y-50ago-f"/>`,
+		"content": `<linearGradient id="SVG8MfK9diJ" x1="256" x2="256" y1="512" gradientUnits="userSpaceOnUse"><stop offset="0" class="wf93-kb8r"/><stop offset="1" class="qunbzgvvb"/></linearGradient><circle fill="url(#SVG8MfK9diJ)" class="iycln-b8i"/><path class="y-50ago-f"/>`,
 		"fallback": "selfhst:syncthing",
 	});
 }

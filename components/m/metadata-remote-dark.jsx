@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vmu_k5bmf.css';
+import '../../css/s/sn0rtcc5t.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vmu_k5bmf"/>`,
+		"content": `<path class="sn0rtcc5t"/>`,
 		"fallback": "selfhst:metadata-remote-dark",
 	});
 }

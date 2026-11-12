@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a0ooadc2j.css';
+import '../../css/i/ilcrn3bzw.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a0ooadc2j"/>`,
+		"content": `<path class="ilcrn3bzw"/>`,
 		"fallback": "selfhst:rancher-fleet-dark",
 	});
 }

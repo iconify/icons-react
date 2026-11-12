@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bvs13wbop.css';
+import '../../css/i/i6rltuipt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bvs13wbop"/>`,
+		"content": `<path class="i6rltuipt"/>`,
 		"fallback": "selfhst:datadog-light",
 	});
 }

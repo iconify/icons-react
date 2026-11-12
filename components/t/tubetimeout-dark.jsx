@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/icbjugb1y.css';
+import '../../css/l/l4g3hccck.css';
 import '../../css/d/dv8e4qb1r.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="icbjugb1y"/><path class="dv8e4qb1r"/>`,
+		"content": `<path class="l4g3hccck"/><path class="dv8e4qb1r"/>`,
 		"fallback": "selfhst:tubetimeout-dark",
 	});
 }

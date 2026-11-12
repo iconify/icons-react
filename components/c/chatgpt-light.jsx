@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r41-qcb-p.css';
+import '../../css/c/c9q0aubhk.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r41-qcb-p"/>`,
+		"content": `<path class="c9q0aubhk"/>`,
 		"fallback": "selfhst:chatgpt-light",
 	});
 }

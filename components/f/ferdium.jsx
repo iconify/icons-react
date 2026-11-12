@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/lntkaob4s.css';
 import '../../css/p/pc_b7vbqs.css';
-import '../../css/b/b78_k0b_z.css';
+import '../../css/i/iycln-b8i.css';
 import '../../css/i/icywm0byl.css';
 
 const viewBox = {"width":512,"height":512};
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGaf9p9dBl" x1="1756.972" x2="5331.565" y1="7398.358" y2="3567.638" gradientTransform="translate(-89.428 -278.926)scale(.09752)" gradientUnits="userSpaceOnUse"><stop offset="0" class="lntkaob4s"/><stop offset="1" class="pc_b7vbqs"/></linearGradient><circle fill="url(#SVGaf9p9dBl)" class="b78_k0b_z"/><path class="icywm0byl"/>`,
+		"content": `<linearGradient id="SVGn2j6wbdb" x1="81.9" x2="430.5" y1="442.6" y2="69" gradientUnits="userSpaceOnUse"><stop offset="0" class="lntkaob4s"/><stop offset="1" class="pc_b7vbqs"/></linearGradient><circle fill="url(#SVGn2j6wbdb)" class="iycln-b8i"/><path class="icywm0byl"/>`,
 		"fallback": "selfhst:ferdium",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d_fc_bb1g.css';
-import '../../css/m/mo96-mi7j.css';
-import '../../css/a/as7o-d6nf.css';
+import '../../css/z/zwvjmvb6c.css';
+import '../../css/o/ogd77sb1i.css';
+import '../../css/g/g4-80-g_f.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d_fc_bb1g"/><path class="mo96-mi7j"/><path class="as7o-d6nf"/>`,
+		"content": `<path class="zwvjmvb6c"/><path class="ogd77sb1i"/><path class="g4-80-g_f"/>`,
 		"fallback": "selfhst:beaver-habit-tracker",
 	});
 }

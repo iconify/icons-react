@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGTMXrneqk" x1="63.421" x2="420.477" y1="462.954" y2="105.897" gradientUnits="userSpaceOnUse"><stop offset="0" class="d-llkv2cb"/><stop offset="1" class="kckc1iwlf"/></linearGradient><path fill="url(#SVGTMXrneqk)" class="yq54hro4p"/><path class="k6lhmhbkj"/>`,
+		"content": `<linearGradient id="SVG3CbOXHuZ" x1="63.4" x2="420.5" y1="463" y2="105.9" gradientUnits="userSpaceOnUse"><stop offset="0" class="d-llkv2cb"/><stop offset="1" class="kckc1iwlf"/></linearGradient><path fill="url(#SVG3CbOXHuZ)" class="yq54hro4p"/><path class="k6lhmhbkj"/>`,
 		"fallback": "selfhst:youtrack-light",
 	});
 }

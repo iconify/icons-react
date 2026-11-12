@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/ztw6jsdfu.css';
-import '../../css/p/po93bzbuh.css';
+import '../../css/m/mbiaeacws.css';
+import '../../css/h/hjy0wjyzq.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ztw6jsdfu"/><path class="po93bzbuh"/>`,
+		"content": `<path class="mbiaeacws"/><path class="hjy0wjyzq"/>`,
 		"fallback": "selfhst:fileflows-forge-dark",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/n4w_e6bjj.css';
-import '../../css/t/tzotlccxi.css';
+import '../../css/r/rrxhv3bvw.css';
 import '../../css/r/rdwt7mb_k.css';
 import '../../css/g/gw_35q5xw.css';
 import '../../css/q/qmkkh_00g.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n4w_e6bjj"/><path class="tzotlccxi"/><path class="rdwt7mb_k"/><path class="gw_35q5xw"/><path class="qmkkh_00g"/>`,
+		"content": `<path class="n4w_e6bjj"/><path class="rrxhv3bvw"/><path class="rdwt7mb_k"/><path class="gw_35q5xw"/><path class="qmkkh_00g"/>`,
 		"fallback": "selfhst:owlistic",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/c/cym2lacyw.css';
-import '../../css/g/gemcfhb7v.css';
-import '../../css/q/qjf38o8dr.css';
+import '../../css/z/z-ykbvj8h.css';
+import '../../css/u/u9t9_-bsv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cym2lacyw"/><path class="gemcfhb7v"/><path class="qjf38o8dr"/>`,
+		"content": `<path class="cym2lacyw"/><path class="z-ykbvj8h"/><path class="u9t9_-bsv"/>`,
 		"fallback": "selfhst:silo-media-server-light",
 	});
 }

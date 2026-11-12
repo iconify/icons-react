@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sx601lt2a.css';
+import '../../css/t/tby322bkd.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sx601lt2a"/>`,
+		"content": `<path class="tby322bkd"/>`,
 		"fallback": "selfhst:splunk-light",
 	});
 }

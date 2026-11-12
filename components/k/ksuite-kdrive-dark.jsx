@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p00s6tbuj.css';
-import '../../css/f/fv_cpccws.css';
+import '../../css/u/ukiwq4kfy.css';
+import '../../css/v/vqwxhebmc.css';
 import '../../css/n/n3b691blg.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p00s6tbuj"/><path class="fv_cpccws"/><path class="n3b691blg"/>`,
+		"content": `<path class="ukiwq4kfy"/><path class="vqwxhebmc"/><path class="n3b691blg"/>`,
 		"fallback": "selfhst:ksuite-kdrive-dark",
 	});
 }

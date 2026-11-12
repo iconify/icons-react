@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/d2e05bcja.css';
-import '../../css/j/juj0211vf.css';
-import '../../css/z/zpr4ze31r.css';
+import '../../css/v/vojou6b4q.css';
+import '../../css/f/f4pvf8bfr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d2e05bcja"/><path class="juj0211vf"/><path class="zpr4ze31r"/>`,
+		"content": `<path class="d2e05bcja"/><path class="vojou6b4q"/><path class="f4pvf8bfr"/>`,
 		"fallback": "selfhst:colota-light",
 	});
 }

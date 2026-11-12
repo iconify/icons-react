@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k5985htsd.css';
+import '../../css/s/si0pir4by.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k5985htsd"/>`,
+		"content": `<path class="si0pir4by"/>`,
 		"fallback": "selfhst:composerize-light",
 	});
 }

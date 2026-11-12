@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w077uwbbu.css';
+import '../../css/w/w1xbai7pj.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w077uwbbu"/>`,
+		"content": `<path class="w1xbai7pj"/>`,
 		"fallback": "selfhst:onetime-secret-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f00tbez2j.css';
+import '../../css/j/jl2f_dlbg.css';
 import '../../css/e/erolj7bif.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f00tbez2j"/><path class="erolj7bif"/>`,
+		"content": `<path class="jl2f_dlbg"/><path class="erolj7bif"/>`,
 		"fallback": "selfhst:ironcalc-light",
 	});
 }

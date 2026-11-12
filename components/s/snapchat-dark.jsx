@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rxveal41f.css';
+import '../../css/n/nb6_zubqa.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rxveal41f"/>`,
+		"content": `<path class="nb6_zubqa"/>`,
 		"fallback": "selfhst:snapchat-dark",
 	});
 }

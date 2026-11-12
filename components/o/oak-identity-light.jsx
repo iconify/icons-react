@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/ru6sgpi9r.css';
-import '../../css/a/aunmnqb4l.css';
+import '../../css/r/ry8edhbmf.css';
+import '../../css/p/ps1262b5v.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ru6sgpi9r"/><path class="aunmnqb4l"/>`,
+		"content": `<path class="ry8edhbmf"/><path class="ps1262b5v"/>`,
 		"fallback": "selfhst:oak-identity-light",
 	});
 }

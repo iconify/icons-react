@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y2crndbgo.css';
-import '../../css/c/c3jcscciy.css';
+import '../../css/p/poddgvb-j.css';
+import '../../css/u/uqp1_ibtg.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y2crndbgo"/><path class="c3jcscciy"/>`,
+		"content": `<path class="poddgvb-j"/><path class="uqp1_ibtg"/>`,
 		"fallback": "selfhst:cr-nmaster-light",
 	});
 }

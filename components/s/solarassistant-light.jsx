@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/rd2317bpb.css';
-import '../../css/j/j2_dkcu_s.css';
-import '../../css/r/ri_kzvb7p.css';
-import '../../css/b/bdr85wbvd.css';
-import '../../css/j/jzaw16b-k.css';
-import '../../css/v/vlblsvc5u.css';
+import '../../css/d/dd62ynr7u.css';
+import '../../css/q/qd-usjb9k.css';
+import '../../css/e/efa-oubof.css';
+import '../../css/c/cxjwkwbqh.css';
+import '../../css/b/bh4vtcb8h.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rd2317bpb"/><path class="j2_dkcu_s"/><path class="ri_kzvb7p"/><path class="bdr85wbvd"/><path class="jzaw16b-k"/><path class="vlblsvc5u"/>`,
+		"content": `<path class="rd2317bpb"/><path class="dd62ynr7u"/><path class="qd-usjb9k"/><path class="efa-oubof"/><path class="cxjwkwbqh"/><path class="bh4vtcb8h"/>`,
 		"fallback": "selfhst:solarassistant-light",
 	});
 }

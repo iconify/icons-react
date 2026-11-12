@@ -23,7 +23,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGtloBObIL" x1="49.4" x2="462.7" y1="510.8" y2="510.8" gradientTransform="translate(0 -255)" gradientUnits="userSpaceOnUse"><stop offset="0" class="snk898b8p"/><stop offset=".04" class="snk898b8p"/><stop offset=".11" class="fx1kpyb6k"/><stop offset=".33" class="xpuo3i-2a"/><stop offset=".55" class="heod1dyqn"/><stop offset=".68" class="vnnt4bb_i"/><stop offset=".81" class="udxjgzzlp"/><stop offset=".93" class="zaaogrbct"/><stop offset="1" class="gwnhj_d3u"/></linearGradient><path fill="url(#SVGtloBObIL)" class="gb14fhb1m"/><path class="xp4ml6b_z"/><path class="zo2z5-njj"/><path class="vlk6tibeu"/><path class="ichivlxpc"/>`,
+		"content": `<linearGradient id="SVGyvfJqdQc" x1="49.4" x2="462.7" y1="255.8" y2="255.8" gradientUnits="userSpaceOnUse"><stop offset="0" class="snk898b8p"/><stop offset=".04" class="snk898b8p"/><stop offset=".11" class="fx1kpyb6k"/><stop offset=".33" class="xpuo3i-2a"/><stop offset=".55" class="heod1dyqn"/><stop offset=".68" class="vnnt4bb_i"/><stop offset=".81" class="udxjgzzlp"/><stop offset=".93" class="zaaogrbct"/><stop offset="1" class="gwnhj_d3u"/></linearGradient><path fill="url(#SVGyvfJqdQc)" class="gb14fhb1m"/><path class="xp4ml6b_z"/><path class="zo2z5-njj"/><path class="vlk6tibeu"/><path class="ichivlxpc"/>`,
 		"fallback": "selfhst:redstone-federal-credit-union",
 	});
 }

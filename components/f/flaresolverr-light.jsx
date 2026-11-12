@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/db86bu4ok.css';
+import '../../css/a/ajqs_4b9f.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="db86bu4ok"/>`,
+		"content": `<path class="ajqs_4b9f"/>`,
 		"fallback": "selfhst:flaresolverr-light",
 	});
 }

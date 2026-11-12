@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rzz206blm.css';
+import '../../css/n/nme-lfb6e.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rzz206blm"/>`,
+		"content": `<path class="nme-lfb6e"/>`,
 		"fallback": "selfhst:jsreport-light",
 	});
 }

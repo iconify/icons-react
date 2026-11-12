@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/rk0phibge.css';
-import '../../css/e/e95vgl-bz.css';
+import '../../css/o/ozfgr-c4g.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rk0phibge"/><path class="e95vgl-bz"/>`,
+		"content": `<path class="rk0phibge"/><path class="ozfgr-c4g"/>`,
 		"fallback": "selfhst:synclyrics-dark",
 	});
 }

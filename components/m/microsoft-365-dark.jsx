@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hdm7rhbbj.css';
+import '../../css/r/rkkc8mbzy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hdm7rhbbj"/>`,
+		"content": `<path class="rkkc8mbzy"/>`,
 		"fallback": "selfhst:microsoft-365-dark",
 	});
 }

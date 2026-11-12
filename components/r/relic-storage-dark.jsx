@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hk_s0qb8u.css';
+import '../../css/j/jwah2sb9a.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hk_s0qb8u"/>`,
+		"content": `<path class="jwah2sb9a"/>`,
 		"fallback": "selfhst:relic-storage-dark",
 	});
 }

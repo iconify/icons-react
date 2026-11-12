@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/v/vug20nb6u.css';
-import '../../css/t/tvz5c1gug.css';
-import '../../css/t/tjfe3abxl.css';
+import '../../css/c/cfm66s3uf.css';
+import '../../css/b/bfjbb2-nr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vug20nb6u"/><path class="tvz5c1gug"/><path class="tjfe3abxl"/>`,
+		"content": `<path class="vug20nb6u"/><path class="cfm66s3uf"/><path class="bfjbb2-nr"/>`,
 		"fallback": "selfhst:rhel-dark",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/phg1s7mys.css';
-import '../../css/a/a35dc2b9v.css';
-import '../../css/b/b681yhxlk.css';
+import '../../css/g/gr0vkeb_g.css';
+import '../../css/p/pd-439hvt.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="phg1s7mys"/><path class="a35dc2b9v"/><path class="b681yhxlk"/>`,
+		"content": `<path class="phg1s7mys"/><path class="gr0vkeb_g"/><path class="pd-439hvt"/>`,
 		"fallback": "selfhst:ente-locker-dark",
 	});
 }

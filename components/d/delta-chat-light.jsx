@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lrgr0mbuo.css';
+import '../../css/u/uyr5q_bpy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lrgr0mbuo"/>`,
+		"content": `<path class="uyr5q_bpy"/>`,
 		"fallback": "selfhst:delta-chat-light",
 	});
 }

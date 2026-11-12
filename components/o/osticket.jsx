@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z3sp18bye.css';
+import '../../css/u/u4f5m8bpi.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z3sp18bye"/>`,
+		"content": `<path class="u4f5m8bpi"/>`,
 		"fallback": "selfhst:osticket",
 	});
 }

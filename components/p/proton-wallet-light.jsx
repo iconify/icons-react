@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fv5hqibas.css';
+import '../../css/d/dne8y0bds.css';
 import '../../css/b/b1ivybqei.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fv5hqibas"/><path class="b1ivybqei"/>`,
+		"content": `<path class="dne8y0bds"/><path class="b1ivybqei"/>`,
 		"fallback": "selfhst:proton-wallet-light",
 	});
 }

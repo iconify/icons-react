@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xa6q3wgpa.css';
+import '../../css/a/aen4qlbtl.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xa6q3wgpa"/>`,
+		"content": `<path class="aen4qlbtl"/>`,
 		"fallback": "selfhst:ace-stream-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sjf7a61ga.css';
+import '../../css/z/zhbb05v8s.css';
 import '../../css/n/n-mc4deaj.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sjf7a61ga"/><path class="n-mc4deaj"/>`,
+		"content": `<path class="zhbb05v8s"/><path class="n-mc4deaj"/>`,
 		"fallback": "selfhst:aviato-dark",
 	});
 }

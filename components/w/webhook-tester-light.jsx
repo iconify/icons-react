@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dmxx6rzfe.css';
-import '../../css/o/o53elobcl.css';
+import '../../css/r/r_k-1tony.css';
+import '../../css/j/jnok5972w.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dmxx6rzfe"/><path class="o53elobcl"/>`,
+		"content": `<path class="r_k-1tony"/><path class="jnok5972w"/>`,
 		"fallback": "selfhst:webhook-tester-light",
 	});
 }

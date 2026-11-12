@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/e/ego17gzid.css';
-import '../../css/v/vu_nye9-y.css';
+import '../../css/g/gx13bbcrp.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ego17gzid"/><path class="vu_nye9-y"/>`,
+		"content": `<path class="ego17gzid"/><path class="gx13bbcrp"/>`,
 		"fallback": "selfhst:etherpad-dark",
 	});
 }

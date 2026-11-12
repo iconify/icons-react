@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jerixg-mq.css';
-import '../../css/x/x-sfqoban.css';
-import '../../css/d/d46zpdbjv.css';
+import '../../css/p/p3gookywi.css';
+import '../../css/m/m80s_bbww.css';
+import '../../css/e/e84rycour.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jerixg-mq"/><path class="x-sfqoban"/><path class="d46zpdbjv"/>`,
+		"content": `<path class="p3gookywi"/><path class="m80s_bbww"/><path class="e84rycour"/>`,
 		"fallback": "selfhst:microsoft-defender-dark",
 	});
 }

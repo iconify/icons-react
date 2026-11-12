@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mvhe4dbhm.css';
-import '../../css/x/x0ej-4b7d.css';
+import '../../css/n/n-3vrkbik.css';
+import '../../css/b/b3xfc2b-l.css';
 import '../../css/j/j_dfhbbfa.css';
-import '../../css/f/f8jb57zbv.css';
+import '../../css/i/i43tj_8lo.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mvhe4dbhm"/><path class="x0ej-4b7d"/><path class="j_dfhbbfa"/><path class="f8jb57zbv"/>`,
+		"content": `<path class="n-3vrkbik"/><path class="b3xfc2b-l"/><path class="j_dfhbbfa"/><path class="i43tj_8lo"/>`,
 		"fallback": "selfhst:nodemailer-light",
 	});
 }

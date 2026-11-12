@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/lgkqhtgri.css';
-import '../../css/b/b7__w3xsq.css';
+import '../../css/e/enl7e7b7l.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lgkqhtgri"/><path class="b7__w3xsq"/>`,
+		"content": `<path class="lgkqhtgri"/><path class="enl7e7b7l"/>`,
 		"fallback": "selfhst:dockerizalo",
 	});
 }

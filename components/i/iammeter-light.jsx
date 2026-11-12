@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/b/bypt6tfji.css';
-import '../../css/t/tpo-q54ny.css';
-import '../../css/m/megpyvbvn.css';
-import '../../css/g/gyexd6ugj.css';
+import '../../css/x/x6lp5sbsv.css';
+import '../../css/y/yxbj3znwq.css';
+import '../../css/o/oj59phb1q.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bypt6tfji"/><path class="tpo-q54ny"/><path clip-rule="evenodd" class="megpyvbvn"/><path clip-rule="evenodd" class="gyexd6ugj"/>`,
+		"content": `<path class="bypt6tfji"/><path class="x6lp5sbsv"/><path class="yxbj3znwq"/><path class="oj59phb1q"/>`,
 		"fallback": "selfhst:iammeter-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zuz27cc_z.css';
+import '../../css/v/vgefhvhku.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zuz27cc_z"/>`,
+		"content": `<path class="vgefhvhku"/>`,
 		"fallback": "selfhst:weam-light",
 	});
 }

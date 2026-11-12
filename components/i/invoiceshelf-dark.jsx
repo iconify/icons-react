@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mrehdqb2u.css';
+import '../../css/n/nw8q64y9w.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mrehdqb2u"/>`,
+		"content": `<path class="nw8q64y9w"/>`,
 		"fallback": "selfhst:invoiceshelf-dark",
 	});
 }

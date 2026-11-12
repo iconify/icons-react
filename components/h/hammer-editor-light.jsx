@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e9yakmjwy.css';
+import '../../css/u/u99mxwb3a.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e9yakmjwy"/>`,
+		"content": `<path class="u99mxwb3a"/>`,
 		"fallback": "selfhst:hammer-editor-light",
 	});
 }

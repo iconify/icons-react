@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i-93l-57t.css';
+import '../../css/l/lscw_8blz.css';
 import '../../css/c/cgqm05v5i.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i-93l-57t"/><path class="cgqm05v5i"/>`,
+		"content": `<path class="lscw_8blz"/><path class="cgqm05v5i"/>`,
 		"fallback": "selfhst:reclaimerr-light",
 	});
 }

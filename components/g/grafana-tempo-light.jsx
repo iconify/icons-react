@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mlv1xyrrq.css';
+import '../../css/h/h4wzr7bqz.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mlv1xyrrq"/>`,
+		"content": `<path class="h4wzr7bqz"/>`,
 		"fallback": "selfhst:grafana-tempo-light",
 	});
 }

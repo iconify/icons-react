@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l9bllgb-i.css';
-import '../../css/s/sbfj-0zmi.css';
-import '../../css/j/jh6xwxbpv.css';
-import '../../css/w/wv69ft2op.css';
+import '../../css/y/yfdf4mgjs.css';
+import '../../css/d/dbhc3c9og.css';
+import '../../css/x/x8izqachk.css';
+import '../../css/v/vx4rklble.css';
 import '../../css/d/dp94l_bay.css';
 
 const viewBox = {"width":512,"height":512};
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l9bllgb-i"/><path class="sbfj-0zmi"/><path class="jh6xwxbpv"/><path class="wv69ft2op"/><path class="dp94l_bay"/>`,
+		"content": `<path class="yfdf4mgjs"/><path class="dbhc3c9og"/><path class="x8izqachk"/><path class="vx4rklble"/><path class="dp94l_bay"/>`,
 		"fallback": "selfhst:scatola-magica-dark",
 	});
 }

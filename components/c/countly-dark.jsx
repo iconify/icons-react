@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kiidpcdve.css';
+import '../../css/h/h2cwtf82h.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kiidpcdve"/>`,
+		"content": `<path class="h2cwtf82h"/>`,
 		"fallback": "selfhst:countly-dark",
 	});
 }

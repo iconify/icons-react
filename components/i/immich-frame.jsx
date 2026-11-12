@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/m/mlx-9kbbc.css';
 import '../../css/j/j9bg-6ovb.css';
 import '../../css/q/q8gh54b1j.css';
-import '../../css/z/z21xmv4ap.css';
+import '../../css/e/ectfl7b1s.css';
 import '../../css/p/p_z4wwf6p.css';
 import '../../css/b/bbniey5_f.css';
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mlx-9kbbc"/><path class="j9bg-6ovb"/><path class="q8gh54b1j"/><path class="z21xmv4ap"/><path class="p_z4wwf6p"/><path class="bbniey5_f"/>`,
+		"content": `<path class="mlx-9kbbc"/><path class="j9bg-6ovb"/><path class="q8gh54b1j"/><path class="ectfl7b1s"/><path class="p_z4wwf6p"/><path class="bbniey5_f"/>`,
 		"fallback": "selfhst:immich-frame",
 	});
 }

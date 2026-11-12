@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qzdyxlbsx.css';
-import '../../css/h/hsfvaaccc.css';
-import '../../css/r/r6l3sbc9i.css';
-import '../../css/m/mvxkxk3fh.css';
-import '../../css/y/yymt_bcef.css';
-import '../../css/q/qszz-hbxb.css';
+import '../../css/p/pn3xrcq-r.css';
+import '../../css/j/jrgnzrdwe.css';
+import '../../css/m/mirl1rbfe.css';
+import '../../css/d/dr1ez1b3a.css';
+import '../../css/q/qzoqor19g.css';
+import '../../css/q/qvr8shuol.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qzdyxlbsx"/><path class="hsfvaaccc"/><path class="r6l3sbc9i"/><path class="mvxkxk3fh"/><path class="yymt_bcef"/><path class="qszz-hbxb"/>`,
+		"content": `<path class="pn3xrcq-r"/><path class="jrgnzrdwe"/><path class="mirl1rbfe"/><path class="dr1ez1b3a"/><path class="qzoqor19g"/><path class="qvr8shuol"/>`,
 		"fallback": "selfhst:buildbot-light",
 	});
 }

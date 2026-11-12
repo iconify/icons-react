@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oceqrzbjx.css';
+import '../../css/k/k0wi0dc7i.css';
 import '../../css/p/p2_f0-rsw.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oceqrzbjx"/><path class="p2_f0-rsw"/>`,
+		"content": `<path class="k0wi0dc7i"/><path class="p2_f0-rsw"/>`,
 		"fallback": "selfhst:rotten-tomatoes",
 	});
 }

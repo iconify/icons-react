@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVGtg8kFcoB" x1="527.495" x2="527.495" y1="389.152" y2="-576.999" gradientTransform="matrix(.5287 0 0 -.5287 -22.864 206.964)" gradientUnits="userSpaceOnUse"><stop offset="0" class="otcw29bmb"/><stop offset=".5" class="ytbqrnbul"/><stop offset="1" class="p4w94cbds"/></linearGradient><path fill="url(#SVGtg8kFcoB)" class="cg21vfbml"/><path class="mj70ulbbk"/><path class="rr5dh3n1t"/>`,
+		"content": `<linearGradient id="SVGBj3epdTR" x1="527.495" x2="527.495" y1="389.152" y2="-576.999" gradientTransform="matrix(.5287 0 0 -.5287 -22.86 206.96)" gradientUnits="userSpaceOnUse"><stop offset="0" class="otcw29bmb"/><stop offset=".5" class="ytbqrnbul"/><stop offset="1" class="p4w94cbds"/></linearGradient><path fill="url(#SVGBj3epdTR)" class="cg21vfbml"/><path class="mj70ulbbk"/><path class="rr5dh3n1t"/>`,
 		"fallback": "selfhst:uptime-monitor",
 	});
 }

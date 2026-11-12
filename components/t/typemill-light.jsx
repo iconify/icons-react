@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sildfsqje.css';
+import '../../css/j/jj1rpu33a.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sildfsqje"/>`,
+		"content": `<path class="jj1rpu33a"/>`,
 		"fallback": "selfhst:typemill-light",
 	});
 }

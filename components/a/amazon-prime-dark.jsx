@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vfge-vb_e.css';
+import '../../css/b/b-u8tebtd.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vfge-vb_e"/>`,
+		"content": `<path class="b-u8tebtd"/>`,
 		"fallback": "selfhst:amazon-prime-dark",
 	});
 }

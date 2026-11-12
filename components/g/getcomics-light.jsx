@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o7hw7w48k.css';
+import '../../css/h/hexzpob7k.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o7hw7w48k"/>`,
+		"content": `<path class="hexzpob7k"/>`,
 		"fallback": "selfhst:getcomics-light",
 	});
 }

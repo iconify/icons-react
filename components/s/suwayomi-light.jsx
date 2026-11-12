@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/a/ahbo5262y.css';
-import '../../css/o/ocrhpjbbu.css';
+import '../../css/o/omfs9jqvj.css';
 import '../../css/u/uh7pe_bjq.css';
 
 const viewBox = {"width":512,"height":512};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ahbo5262y"/><circle class="ocrhpjbbu"/><path class="uh7pe_bjq"/>`,
+		"content": `<path class="ahbo5262y"/><circle class="omfs9jqvj"/><path class="uh7pe_bjq"/>`,
 		"fallback": "selfhst:suwayomi-light",
 	});
 }

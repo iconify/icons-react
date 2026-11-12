@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/k/kf4cxs7wl.css';
 import '../../css/p/p4ue24b-l.css';
-import '../../css/g/g_8ei9bfq.css';
+import '../../css/i/ir4rni1pd.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kf4cxs7wl"/><path class="p4ue24b-l"/><path class="g_8ei9bfq"/>`,
+		"content": `<path class="kf4cxs7wl"/><path class="p4ue24b-l"/><path class="ir4rni1pd"/>`,
 		"fallback": "selfhst:adguardhome-sync",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/shya_ld1v.css';
+import '../../css/c/cjqtnac9g.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="shya_ld1v"/>`,
+		"content": `<path class="cjqtnac9g"/>`,
 		"fallback": "selfhst:itsm-ng-light",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t0p_z2l_o.css';
-import '../../css/u/uc7c22fiu.css';
+import '../../css/y/yegc-sbkr.css';
+import '../../css/l/l390iecly.css';
 import '../../css/o/oxf-v8-ae.css';
 import '../../css/d/d1ccs6skz.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t0p_z2l_o"/><path class="uc7c22fiu"/><path class="oxf-v8-ae"/><path class="d1ccs6skz"/>`,
+		"content": `<path class="yegc-sbkr"/><path class="l390iecly"/><path class="oxf-v8-ae"/><path class="d1ccs6skz"/>`,
 		"fallback": "selfhst:ksuite-kchat",
 	});
 }

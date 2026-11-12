@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/m/mgvl_034t.css';
-import '../../css/s/s-n0h6e4e.css';
+import '../../css/y/yuy8pmq7c.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mgvl_034t"/><path class="s-n0h6e4e"/>`,
+		"content": `<path class="mgvl_034t"/><path class="yuy8pmq7c"/>`,
 		"fallback": "selfhst:proton-calendar-light",
 	});
 }

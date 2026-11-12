@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o42jkxb6y.css';
+import '../../css/c/co8fiztgb.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o42jkxb6y"/>`,
+		"content": `<path class="co8fiztgb"/>`,
 		"fallback": "selfhst:navy-federal-credit-union",
 	});
 }

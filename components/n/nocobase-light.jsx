@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vmgrvwqic.css';
+import '../../css/y/ymbiuzbvf.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vmgrvwqic"/>`,
+		"content": `<path class="ymbiuzbvf"/>`,
 		"fallback": "selfhst:nocobase-light",
 	});
 }

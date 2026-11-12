@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/meanytbpi.css';
+import '../../css/p/pjeg35jty.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="meanytbpi"/>`,
+		"content": `<path class="pjeg35jty"/>`,
 		"fallback": "selfhst:fluxer-light",
 	});
 }

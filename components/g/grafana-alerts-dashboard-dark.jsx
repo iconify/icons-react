@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/j89cktuio.css';
-import '../../css/t/tx20ehscf.css';
-import '../../css/h/h4zt9xb_v.css';
+import '../../css/r/rgvx_5b3k.css';
+import '../../css/i/io-5labnh.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j89cktuio"/><path class="tx20ehscf"/><path class="h4zt9xb_v"/>`,
+		"content": `<path class="j89cktuio"/><path class="rgvx_5b3k"/><path class="io-5labnh"/>`,
 		"fallback": "selfhst:grafana-alerts-dashboard-dark",
 	});
 }

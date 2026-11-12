@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/llfxtxbgs.css';
+import '../../css/j/j8zjdfbvx.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="llfxtxbgs"/>`,
+		"content": `<path class="j8zjdfbvx"/>`,
 		"fallback": "selfhst:freeresend-light",
 	});
 }

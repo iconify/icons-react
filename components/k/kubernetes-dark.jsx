@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/epwrcht_v.css';
+import '../../css/i/i2rkpnb4b.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="epwrcht_v"/>`,
+		"content": `<path class="i2rkpnb4b"/>`,
 		"fallback": "selfhst:kubernetes-dark",
 	});
 }

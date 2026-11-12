@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<linearGradient id="SVG47nHkwpy" x1="102.123" x2="456.589" y1="102.123" y2="456.589" gradientUnits="userSpaceOnUse"><stop offset="0" class="tb9i-5hiz"/><stop offset="1" class="vc--wpv5i"/></linearGradient><path fill="url(#SVG47nHkwpy)" class="fzo_evvda"/>`,
+		"content": `<linearGradient id="SVGUl60McUv" x1="102.1" x2="456.6" y1="102.1" y2="456.6" gradientUnits="userSpaceOnUse"><stop offset="0" class="tb9i-5hiz"/><stop offset="1" class="vc--wpv5i"/></linearGradient><path fill="url(#SVGUl60McUv)" class="fzo_evvda"/>`,
 		"fallback": "selfhst:mailstore-light",
 	});
 }

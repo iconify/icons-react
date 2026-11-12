@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oo_gcl4jc.css';
-import '../../css/d/dp0jygg6c.css';
+import '../../css/w/wlgv7ybbq.css';
+import '../../css/b/bpn70zs4k.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oo_gcl4jc"/><path class="dp0jygg6c"/>`,
+		"content": `<path class="wlgv7ybbq"/><path class="bpn70zs4k"/>`,
 		"fallback": "selfhst:rackula",
 	});
 }

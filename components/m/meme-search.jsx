@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pl1v7pbao.css';
+import '../../css/j/jrtps0hmy.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pl1v7pbao"/>`,
+		"content": `<path class="jrtps0hmy"/>`,
 		"fallback": "selfhst:meme-search",
 	});
 }

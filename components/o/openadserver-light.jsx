@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/r_9rqpxcs.css';
-import '../../css/z/zc6vvbcxg.css';
+import '../../css/b/bm9ngmkam.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r_9rqpxcs"/><path class="zc6vvbcxg"/>`,
+		"content": `<path class="r_9rqpxcs"/><path class="bm9ngmkam"/>`,
 		"fallback": "selfhst:openadserver-light",
 	});
 }

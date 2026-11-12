@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/dvje_n8dl.css';
-import '../../css/x/x662ljhor.css';
+import '../../css/j/jryvqzq_f.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dvje_n8dl"/><path class="x662ljhor"/>`,
+		"content": `<path class="dvje_n8dl"/><path class="jryvqzq_f"/>`,
 		"fallback": "selfhst:erugo-dark",
 	});
 }

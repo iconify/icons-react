@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t21s9b0zn.css';
+import '../../css/s/s3fgq2b2h.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t21s9b0zn"/>`,
+		"content": `<path class="s3fgq2b2h"/>`,
 		"fallback": "selfhst:apache-tika-binary-light",
 	});
 }

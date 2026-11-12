@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ym6wy1brw.css';
+import '../../css/p/pcnly3b_c.css';
 import '../../css/g/gtz84wbsv.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ym6wy1brw"/><path class="gtz84wbsv"/>`,
+		"content": `<path class="pcnly3b_c"/><path class="gtz84wbsv"/>`,
 		"fallback": "selfhst:dji-logbook",
 	});
 }

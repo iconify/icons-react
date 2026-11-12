@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/v/vggs3v5pz.css';
 import '../../css/r/rkl8mz6zh.css';
 import '../../css/q/q8l603bxd.css';
-import '../../css/r/runcquzpx.css';
+import '../../css/q/qnrkfub3f.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="vggs3v5pz"/><path class="rkl8mz6zh"/><path class="q8l603bxd"/><path class="runcquzpx"/>`,
+		"content": `<circle class="vggs3v5pz"/><path class="rkl8mz6zh"/><path class="q8l603bxd"/><path class="qnrkfub3f"/>`,
 		"fallback": "selfhst:readarr",
 	});
 }

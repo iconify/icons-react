@@ -18,7 +18,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n46wahbut"/><path class="a1arax6mg"/><radialGradient id="SVG3mUgJeHn" cx="302.322" cy="919.963" r="128.604" gradientTransform="matrix(1.8368 -.153 .2177 1.7315 -534.334 -1199.322)" gradientUnits="userSpaceOnUse"><stop offset="0" class="nvwcbdbpt"/><stop offset="1" class="pwdmy-bqg"/></radialGradient><path fill="url(#SVG3mUgJeHn)" class="xz7uatbdz"/><path class="fq7x--bas"/><path class="ckwdh1-qv"/><path class="wjanby71f"/>`,
+		"content": `<path class="n46wahbut"/><path class="a1arax6mg"/><radialGradient id="SVGSeQOCZXS" cx="302.322" cy="919.963" r="128.604" gradientTransform="matrix(1.8368 -.153 .2177 1.7315 -534.33 -1199.32)" gradientUnits="userSpaceOnUse"><stop offset="0" class="nvwcbdbpt"/><stop offset="1" class="pwdmy-bqg"/></radialGradient><path fill="url(#SVGSeQOCZXS)" class="xz7uatbdz"/><path class="fq7x--bas"/><path class="ckwdh1-qv"/><path class="wjanby71f"/>`,
 		"fallback": "selfhst:network-ups-tools",
 	});
 }

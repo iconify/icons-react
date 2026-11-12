@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rj9owmbzf.css';
+import '../../css/p/pwwaekbrn.css';
 import '../../css/a/a-4ue5bby.css';
-import '../../css/u/u0kmufbam.css';
+import '../../css/t/tm45hz_di.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rj9owmbzf"/><path class="a-4ue5bby"/><circle class="u0kmufbam"/>`,
+		"content": `<path class="pwwaekbrn"/><path class="a-4ue5bby"/><circle class="tm45hz_di"/>`,
 		"fallback": "selfhst:rurdesk-light",
 	});
 }

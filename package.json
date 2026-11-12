@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.60",
+  "version": "1.0.61",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -429,6 +429,10 @@
     "./asterisk": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/asterisk.jsx"
+    },
+    "./asterism": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterism.jsx"
     },
     "./astroid": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2777,6 +2781,10 @@
     "./ev-charger": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ev-charger.jsx"
+    },
+    "./exclamation-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclamation-mark.jsx"
     },
     "./expand": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5150,6 +5158,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/motorbike.jsx"
     },
+    "./mound-shovel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mound-shovel.jsx"
+    },
     "./mountain": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mountain.jsx"
@@ -5866,6 +5878,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qr-code.jsx"
     },
+    "./question-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/question-mark.jsx"
+    },
     "./quote": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quote.jsx"
@@ -6133,6 +6149,10 @@
     "./route": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/route.jsx"
+    },
+    "./route-arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route-arrow-right.jsx"
     },
     "./route-off": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7641,6 +7661,10 @@
     "./text-initial": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-initial.jsx"
+    },
+    "./text-pen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-pen.jsx"
     },
     "./text-quote": {
       "types": "./types/hqrkovbr.d.ts",

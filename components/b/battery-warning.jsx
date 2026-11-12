@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ab65ey4uu.css';
+import '../../css/c/crr0vzbga.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ab65ey4uu"/>`,
+		"content": `<path class="crr0vzbga"/>`,
 		"fallback": "lucide:battery-warning",
 	});
 }

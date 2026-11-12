@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/l/lluzddczp.css';
-import '../../css/v/v8ph01bah.css';
+import '../../css/l/lvahrq4nq.css';
+import '../../css/j/j-xqrrbss.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="lluzddczp"/><path class="v8ph01bah"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="lvahrq4nq"/><path class="j-xqrrbss"/></g>`,
 		"fallback": "lucide:mail-question",
 	});
 }

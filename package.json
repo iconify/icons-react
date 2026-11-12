@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/wordpress",
   "type": "module",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "homepage": "https://icon-sets.iconify.design/wordpress/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "GPL-2.0-or-later",
@@ -437,6 +437,10 @@
     "./flip-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flip-vertical.jsx"
+    },
+    "./folder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder.jsx"
     },
     "./footer": {
       "types": "./types/hqrkovbr.d.ts",

@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
 import '../../css/g/gi87txbdj.css';
 import '../../css/h/hdcm3gbmg.css';
-import '../../css/y/ymly3jbab.css';
+import '../../css/w/wkd52swho.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="gi87txbdj"/><path class="hdcm3gbmg"/><path class="ymly3jbab"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="gi87txbdj"/><path class="hdcm3gbmg"/><path class="wkd52swho"/></g>`,
 		"fallback": "wordpress:post-date",
 	});
 }

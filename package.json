@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -777,6 +777,10 @@
     "./amplitude": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/amplitude.jsx"
+    },
+    "./amplitude-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/amplitude-icon.jsx"
     },
     "./amul": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3690,6 +3694,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/confluence.jsx"
     },
+    "./confluence-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confluence-legacy.jsx"
+    },
     "./confluent": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/confluent.jsx"
@@ -5362,6 +5370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eps.jsx"
     },
+    "./eps-file": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eps-file.jsx"
+    },
     "./epson": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/epson.jsx"
@@ -6941,6 +6953,10 @@
     "./gong": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gong.jsx"
+    },
+    "./gong-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gong-icon.jsx"
     },
     "./goodreads": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11813,6 +11829,10 @@
     "./mubi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mubi.jsx"
+    },
+    "./mudblazor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mudblazor.jsx"
     },
     "./mui": {
       "types": "./types/hqrkovbr.d.ts",

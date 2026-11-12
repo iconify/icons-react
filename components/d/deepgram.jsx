@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z8he2wb6n.css';
+import '../../css/n/nisud3b2a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z8he2wb6n"/>`,
+		"content": `<path class="nisud3b2a"/>`,
 		"fallback": "thesvg-color:deepgram",
 	});
 }

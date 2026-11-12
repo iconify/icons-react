@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/logos",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://icon-sets.iconify.design/logos/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -2161,6 +2161,10 @@
     "./deepgram-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/deepgram-icon.jsx"
+    },
+    "./deepgram-icon-mono": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/deepgram-icon-mono.jsx"
     },
     "./deepinfra": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4853,6 +4857,10 @@
     "./macos": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/macos.jsx"
+    },
+    "./macos-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/macos-icon.jsx"
     },
     "./macosx": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.aec7lkj0a {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M3.196 21.981a1 1 0 0 1-1.177-1.177l.935-4.673A9.946 9.946 0 0 1 19.032 4.968A9.945 9.945 0 0 1 7.869 21.046Z");
+}
+
+.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.t32pgizpp {
+  d: path("M9 8h.01a1 1 0 0 1 0 2H9a1 1 0 0 1 0-2m6 0h.01a1 1 0 0 1 0 2H15a1 1 0 0 1 0-2m-7 4h8a1 1 0 0 1 1 1a5 5 0 0 1-1.464 3.536A4.98 4.98 0 0 1 12 18a4.98 4.98 0 0 1-3.536-1.464A5 5 0 0 1 7 13a1 1 0 0 1 1-1");
+}
+</style><g class="cuyn6tgcc"><path class="aec7lkj0a"/><path class="t32pgizpp"/></g>`,
+		"fallback": "coolicons:chat-circle-laugh-bulk",
+	});
+}
+
+export default Component;

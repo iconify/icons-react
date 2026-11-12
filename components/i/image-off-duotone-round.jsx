@@ -10,16 +10,16 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.awq7ycbnk {
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
+}
+
+.nrb-aq-1k {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("M19.828 19.828A4 4 0 0 1 17 21H7a4 4 0 0 1-4-4V7c0-1.105.448-2.105 1.172-2.828M9 3h8a4 4 0 0 1 4 4v8M3 17l7-7m5-2a1 1 0 1 0 2 0a1 1 0 0 0-2 0M2 2l20 20");
-}
-
-.ft5dv1b6b {
-  fill: none;
+  d: path("M19.828 19.828A4 4 0 0 1 17 21H7a4 4 0 0 1-4-4V7c0-1.105.448-2.105 1.172-2.828M9 3h8a4 4 0 0 1 4 4v8M3 17l7-7m6-3a1 1 0 1 0 2 0a1 1 0 0 0-2 0M2 2l20 20");
 }
 
 .ry7z8qb_h {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
   d: path("M9 3h8a4 4 0 0 1 4 4v8Zm10.828 16.828A3.97 3.97 0 0 1 17 21H7a4 4 0 0 1-4-4V7a3.97 3.97 0 0 1 1.172-2.828Z");
 }
-</style><g class="ft5dv1b6b"><path class="ry7z8qb_h"/><path class="awq7ycbnk"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ry7z8qb_h"/><path class="nrb-aq-1k"/></g>`,
 		"fallback": "coolicons:image-off-duotone-round",
 	});
 }

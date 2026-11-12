@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
+		"content": `<style>.c__mxzcyr {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M4 9h16v12H4Z");
+}
+
+.ft5dv1b6b {
   fill: none;
 }
 
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 5h16v16H4Zm4-2v2m8-2v2M4 9h16M9 18v-2l4-4l2 2l-4 4Z");
 }
-
-.x3sp62bgi {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3 9V5a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1");
-}
-</style><g class="ft5dv1b6b"><path class="x3sp62bgi"/><path class="m2gfxpj_b"/></g>`,
+</style><g class="ft5dv1b6b"><path class="c__mxzcyr"/><path class="m2gfxpj_b"/></g>`,
 		"fallback": "coolicons:calendar-edit-duotone-sharp",
 	});
 }

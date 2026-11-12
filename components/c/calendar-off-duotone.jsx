@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.v8t2dbb8e {
+.qo-6rjj_p {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M11 5h7a2.003 2.003 0 0 1 2 2v2h-5ZM9 9H4V7c0-.787.46-1.5 1.177-1.823Z");
+  d: path("M19.823 19.823A2 2 0 0 1 18 21H6a2.003 2.003 0 0 1-2-2V9h5ZM15 9h5v5Z");
 }
 
 .xsg5cr3sf {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M19.823 19.823A2 2 0 0 1 18 21H6a2 2 0 0 1-2-2V7a2 2 0 0 1 1.177-1.823M11 5h7a2 2 0 0 1 2 2v7M4 9h5m6 0h5m-4-6v2M2 2l20 20");
 }
-</style><g class="ft5dv1b6b"><path class="v8t2dbb8e"/><path class="xsg5cr3sf"/></g>`,
+</style><g class="ft5dv1b6b"><path class="qo-6rjj_p"/><path class="xsg5cr3sf"/></g>`,
 		"fallback": "coolicons:calendar-off-duotone",
 	});
 }

@@ -18,11 +18,11 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.vqmzpk28t {
+.riis51qtn {
   fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
-  d: path("M11 2.049V13h.586l6.743 6.744A10 10 0 0 1 2.26 9.735A10 10 0 0 1 11 2.049M13 11V2.049A10.01 10.01 0 0 1 21.951 11Zm8.951 2a10 10 0 0 1-2.207 5.329L14.414 13Z");
+  d: path("M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12");
 }
-</style><g class="cuyn6tgcc"><path class="vqmzpk28t"/><path class="aope2d4kb"/></g>`,
+</style><g class="cuyn6tgcc"><path class="riis51qtn"/><path class="aope2d4kb"/></g>`,
 		"fallback": "coolicons:chart-pie-bulk",
 	});
 }

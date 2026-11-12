@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.nguimjb5t {
+.gay5d-bcp {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M4 10a1 1 0 0 1-1-1a5 5 0 0 1 1.464-3.536A4.98 4.98 0 0 1 8 4h8c1.33 0 2.597.522 3.536 1.464A5 5 0 0 1 21 9a1 1 0 0 1-1 1Z");
+  d: path("M4 9h16v8a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4Z");
 }
 
 .vyzh9ruli {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 9a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4Zm4-6v2m8-2v2M4 9h16m-10 4l4 4m0-4l-4 4");
 }
-</style><g class="ft5dv1b6b"><path class="nguimjb5t"/><path class="vyzh9ruli"/></g>`,
+</style><g class="ft5dv1b6b"><path class="gay5d-bcp"/><path class="vyzh9ruli"/></g>`,
 		"fallback": "coolicons:calendar-close-duotone-round",
 	});
 }

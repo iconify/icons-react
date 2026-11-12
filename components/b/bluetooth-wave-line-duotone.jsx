@@ -1,11 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/k/k5-7oc10c.css';
-import '../../css/q/qvtciobpz.css';
-import '../../css/l/lzg1d1lbm.css';
-import '../../css/q/qge1xjbzq.css';
-import '../../css/j/js7gvq8hx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +10,36 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="k5-7oc10c"/><path class="qvtciobpz"/><path class="lzg1d1lbm"/><path class="qge1xjbzq"/><path class="js7gvq8hx"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.js7gvq8hx {
+  d: path("M17 8C17 8 18 9.9 18 12C18 14.1 17 16 17 16");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.k5-7oc10c {
+  d: path("M8 12L13.2633 8.26238C14.4211 7.44017 15 7.02907 15 6.45874C15 5.88842 14.4211 5.47731 13.2633 4.6551L11.5253 3.42093C9.98131 2.32448 9.2093 1.77625 8.60465 2.08561C8 2.39496 8 3.33816 8 5.22457V12Z");
+}
+
+.lzg1d1lbm {
+  d: path("M3 15.5L8 12L3 8.5");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.qge1xjbzq {
+  d: path("M19 5C19 5 21 7.1 21 12C21 16.9 19 19 19 19");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.qvtciobpz {
+  d: path("M11.5253 20.5791L13.2633 19.3449C14.4211 18.5227 15 18.1116 15 17.5413C15 16.9709 14.4211 16.5598 13.2633 15.7376L8 12V18.7754C8 20.6618 8 21.605 8.60465 21.9144C9.2093 22.2238 9.98131 21.6755 11.5253 20.5791Z");
+}
+</style><g class="ipq1z-bjh"><path class="k5-7oc10c"/><path class="qvtciobpz"/><path class="lzg1d1lbm"/><path class="qge1xjbzq"/><path class="js7gvq8hx"/></g>`,
 		"fallback": "solar:bluetooth-wave-line-duotone",
 	});
 }

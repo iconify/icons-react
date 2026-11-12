@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/v/vrq15k_3i.css';
-import '../../css/b/bhy-axcbm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="vrq15k_3i"/><path class="bhy-axcbm"/></g>`,
+		"content": `<style>.bhy-axcbm {
+  stroke-linejoin: round;
+  d: path("M3 21L11 13M11 19V13H5");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.vrq15k_3i {
+  d: path("M22 12C22 16.714 22 19.0711 20.5355 20.5355C19.1785 21.8926 17.055 21.9921 13 21.9994M2.00055 11C2.00785 6.94493 2.10741 4.8215 3.46444 3.46447C4.9289 2 7.28593 2 12 2C16.714 2 19.071 2 20.5355 3.46447C21.5092 4.43821 21.8355 5.80655 21.9449 8");
+}
+</style><g class="ipq1z-bjh"><path class="vrq15k_3i"/><path class="bhy-axcbm"/></g>`,
 		"fallback": "solar:square-bottom-up-broken",
 	});
 }

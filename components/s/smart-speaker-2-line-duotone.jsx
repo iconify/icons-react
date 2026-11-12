@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/b/bu0_3ub-f.css';
-import '../../css/r/rlv_bb0rv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="bu0_3ub-f"/><path class="rlv_bb0rv"/></g>`,
+		"content": `<style>.bu0_3ub-f {
+  d: path("M18.0849 3.68959L18.8825 14.4404C19.0377 17.1794 19.1153 18.5489 18.6162 19.5882C18.2472 20.3564 17.6678 20.9943 16.9506 21.4218C15.9804 22 14.6588 22 12.0156 22C9.34227 22 8.00563 22 7.02989 21.413C6.3088 20.9793 5.72853 20.3324 5.36308 19.5549C4.86856 18.5028 4.9638 17.1189 5.15426 14.351L5.86204 6.3551M18.0477 3.43536C18.4224 4.88725 16.0049 6.82114 12.648 7.75482C9.29106 8.6885 6.2659 8.26841 5.89111 6.81651C5.51633 5.36462 7.93384 3.43073 11.2908 2.49705C14.6477 1.56337 17.6729 1.98346 18.0477 3.43536Z");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.rlv_bb0rv {
+  d: path("M5.24609 13.3092C5.80507 13.8705 7.49022 15.0002 11.9996 15.0002C16.6277 15.0002 18.2809 13.8103 18.7949 13.2661");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><g class="ipq1z-bjh"><path class="bu0_3ub-f"/><path class="rlv_bb0rv"/></g>`,
 		"fallback": "solar:smart-speaker-2-line-duotone",
 	});
 }

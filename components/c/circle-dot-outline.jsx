@@ -1,7 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/er9_2_bjd.css';
-import '../../css/d/du6sep0xm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +10,17 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="er9_2_bjd"/><path clip-rule="evenodd" class="du6sep0xm"/>`,
+		"content": `<style>.du6sep0xm {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M12 1.25C17.9371 1.25 22.75 6.06294 22.75 12C22.75 17.9371 17.9371 22.75 12 22.75C6.06294 22.75 1.25 17.9371 1.25 12C1.25 6.06294 6.06294 1.25 12 1.25ZM12 2.75C6.89137 2.75 2.75 6.89137 2.75 12C2.75 17.1086 6.89137 21.25 12 21.25C17.1086 21.25 21.25 17.1086 21.25 12C21.25 6.89137 17.1086 2.75 12 2.75Z");
+}
+
+.er9_2_bjd {
+  fill: currentColor;
+  d: path("M12 11.25C12.4142 11.25 12.75 11.5858 12.75 12C12.75 12.4142 12.4142 12.75 12 12.75C11.5858 12.75 11.25 12.4142 11.25 12C11.25 11.5858 11.5858 11.25 12 11.25Z");
+}
+</style><path class="er9_2_bjd"/><path clip-rule="evenodd" class="du6sep0xm"/>`,
 		"fallback": "solar:circle-dot-outline",
 	});
 }

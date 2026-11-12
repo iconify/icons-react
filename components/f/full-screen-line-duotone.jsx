@@ -1,10 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/i/i8utatbio.css';
-import '../../css/x/x-1lf64uh.css';
-import '../../css/u/un-u7xpwr.css';
-import '../../css/r/ros5bvrws.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +10,31 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="i8utatbio"/><path class="x-1lf64uh"/><path class="un-u7xpwr"/><path class="ros5bvrws"/></g>`,
+		"content": `<style>.i8utatbio {
+  d: path("M22 14C22 17.7712 22 19.6569 20.8284 20.8284C19.6569 22 17.7712 22 14 22");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.ros5bvrws {
+  d: path("M14 2C17.7712 2 19.6569 2 20.8284 3.17157C22 4.34315 22 6.22876 22 10");
+}
+
+.un-u7xpwr {
+  d: path("M10 2C6.22876 2 4.34315 2 3.17157 3.17157C2 4.34315 2 6.22876 2 10");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.x-1lf64uh {
+  d: path("M10 22C6.22876 22 4.34315 22 3.17157 20.8284C2 19.6569 2 17.7712 2 14");
+}
+</style><g class="ipq1z-bjh"><path class="i8utatbio"/><path class="x-1lf64uh"/><path class="un-u7xpwr"/><path class="ros5bvrws"/></g>`,
 		"fallback": "solar:full-screen-line-duotone",
 	});
 }

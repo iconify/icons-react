@@ -1,12 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/r/rhe-p1bon.css';
-import '../../css/l/ljb84cuaz.css';
-import '../../css/o/out3f_12j.css';
-import '../../css/o/ov9m4obnk.css';
-import '../../css/r/r41_wgb9w.css';
-import '../../css/l/lqrlnfbtg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +10,49 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle transform="rotate(90 15.512 19)" class="rhe-p1bon"/><circle transform="rotate(90 15.512 12)" class="ljb84cuaz"/><circle transform="rotate(90 15.496 5)" class="out3f_12j"/><circle transform="rotate(90 8.504 19)" class="ov9m4obnk"/><circle transform="rotate(90 8.504 12)" class="r41_wgb9w"/><circle transform="rotate(90 8.488 5)" class="lqrlnfbtg"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.ljb84cuaz {
+  cx: 15.512px;
+  cy: 12px;
+  r: 0.75px;
+}
+
+.lqrlnfbtg {
+  cx: 8.488px;
+  cy: 5px;
+  r: 0.75px;
+}
+
+.out3f_12j {
+  cx: 15.496px;
+  cy: 5px;
+  r: 0.75px;
+}
+
+.ov9m4obnk {
+  cx: 8.504px;
+  cy: 19px;
+  r: 0.75px;
+}
+
+.r41_wgb9w {
+  cx: 8.504px;
+  cy: 12px;
+  r: 0.75px;
+}
+
+.rhe-p1bon {
+  cx: 15.512px;
+  cy: 19px;
+  r: 0.75px;
+}
+</style><g class="ipq1z-bjh"><circle class="rhe-p1bon"/><circle class="ljb84cuaz"/><circle class="out3f_12j"/><circle class="ov9m4obnk"/><circle class="r41_wgb9w"/><circle class="lqrlnfbtg"/></g>`,
 		"fallback": "solar:grip-vertical-linear",
 	});
 }

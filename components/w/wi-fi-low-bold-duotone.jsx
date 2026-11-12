@@ -1,7 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yc311kbzt.css';
-import '../../css/t/tfsq0xb1f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +10,17 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yc311kbzt"/><path class="tfsq0xb1f"/>`,
+		"content": `<style>.tfsq0xb1f {
+  fill: currentColor;
+  d: path("M12.0176 18.7144C12.4318 18.7144 12.7676 19.0501 12.7676 19.4644C12.7676 19.8786 12.4318 20.2144 12.0176 20.2144C11.6034 20.2144 11.2676 19.8786 11.2676 19.4644C11.2676 19.0501 11.6034 18.7144 12.0176 18.7144Z");
+}
+
+.yc311kbzt {
+  fill: currentColor;
+  d: path("M8.11691 15.3832C10.2547 13.0761 13.7458 13.076 15.8835 15.3832C16.1649 15.687 16.1469 16.1613 15.8435 16.4428C15.5396 16.7243 15.0644 16.7066 14.7829 16.4028C13.2388 14.7362 10.7606 14.7362 9.21652 16.4028C8.93499 16.7065 8.46074 16.7243 8.15695 16.4428C7.85332 16.1613 7.83547 15.687 8.11691 15.3832Z");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><path class="yc311kbzt"/><path class="tfsq0xb1f"/>`,
 		"fallback": "solar:wi-fi-low-bold-duotone",
 	});
 }

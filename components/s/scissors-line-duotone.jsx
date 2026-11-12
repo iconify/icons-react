@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/w/wfy-i1bye.css';
-import '../../css/i/ivapulbpz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="wfy-i1bye"/><path class="ivapulbpz"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.ivapulbpz {
+  d: path("M7.59865 20.5L18 2M2 19C2 20.6569 3.34315 22 5 22C6.65685 22 8 20.6569 8 19C8 17.3431 6.65685 16 5 16C3.34315 16 2 17.3431 2 19Z");
+}
+
+.wfy-i1bye {
+  d: path("M16.4013 20.5L6 2M22 19C22 20.6569 20.6569 22 19 22C17.3431 22 16 20.6569 16 19C16 17.3431 17.3431 16 19 16C20.6569 16 22 17.3431 22 19Z");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><g class="ipq1z-bjh"><path class="wfy-i1bye"/><path class="ivapulbpz"/></g>`,
 		"fallback": "solar:scissors-line-duotone",
 	});
 }

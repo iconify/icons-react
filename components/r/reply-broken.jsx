@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h0yokeu6x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h0yokeu6x"/>`,
+		"content": `<style>.h0yokeu6x {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M9.5 17L4.5 12L9.5 7M4.5 12L11 12M14.5 12C16.1667 12 19.5 13 19.5 17");
+}
+</style><path class="h0yokeu6x"/>`,
 		"fallback": "solar:reply-broken",
 	});
 }

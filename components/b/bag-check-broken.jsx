@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/r/r534utb4b.css';
-import '../../css/s/sr5bgubyr.css';
-import '../../css/v/v77ej-64o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,26 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="r534utb4b"/><path class="sr5bgubyr"/><path class="v77ej-64o"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.r534utb4b {
+  stroke-linejoin: round;
+  d: path("M10 14.3L11.3333 15.5L14 12.5");
+}
+
+.sr5bgubyr {
+  d: path("M9 6V5C9 3.34315 10.3431 2 12 2C13.6569 2 15 3.34315 15 5V6");
+}
+
+.v77ej-64o {
+  d: path("M20.2232 12.5257C19.638 9.40452 19.3454 7.84393 18.2345 6.92196C17.1236 6 15.5358 6 12.3602 6H11.6391C8.4635 6 6.87571 6 5.76481 6.92196C4.65392 7.84393 4.3613 9.40452 3.77608 12.5257C2.95316 16.9146 2.5417 19.1091 3.74132 20.5545C4.94094 22 7.17365 22 11.6391 22H12.3602C16.8257 22 19.0584 22 20.258 20.5545C20.954 19.7159 21.1077 18.6252 20.9533 17");
+}
+</style><g class="ipq1z-bjh"><path class="r534utb4b"/><path class="sr5bgubyr"/><path class="v77ej-64o"/></g>`,
 		"fallback": "solar:bag-check-broken",
 	});
 }

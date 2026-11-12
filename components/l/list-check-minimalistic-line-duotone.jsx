@@ -1,10 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/s/s19aowben.css';
-import '../../css/g/gq055--ga.css';
-import '../../css/m/mvkasiemb.css';
-import '../../css/l/l4vllvb7o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +10,33 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="s19aowben"/><path class="gq055--ga"/><path class="mvkasiemb"/><path class="l4vllvb7o"/></g>`,
+		"content": `<style>.gq055--ga {
+  d: path("M10 11L3 11");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.l4vllvb7o {
+  stroke-linejoin: round;
+  d: path("M14 13.5L16.1 16L20 11");
+}
+
+.mvkasiemb {
+  d: path("M10 16H3");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.s19aowben {
+  d: path("M20 6L3 6");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><g class="ipq1z-bjh"><path class="s19aowben"/><path class="gq055--ga"/><path class="mvkasiemb"/><path class="l4vllvb7o"/></g>`,
 		"fallback": "solar:list-check-minimalistic-line-duotone",
 	});
 }

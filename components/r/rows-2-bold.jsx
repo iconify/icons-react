@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lf86qebjp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lf86qebjp"/>`,
+		"content": `<style>.lf86qebjp {
+  fill: currentColor;
+  d: path("M3 11.25L3 10C3 6.22876 3.0003 4.34345 4.17187 3.17187C5.34345 2.0003 7.22876 2 11 2L13 2C16.7712 2 18.6566 2.0003 19.8281 3.17187C20.9997 4.34345 21 6.22876 21 10L21 11.25L3 11.25ZM21 14C21 17.7712 20.9997 19.6566 19.8281 20.8281C18.6566 21.9997 16.7712 22 13 22L11 22C7.22876 22 5.34345 21.9997 4.17187 20.8281C3.0003 19.6566 3 17.7712 3 14L3 12.75L21 12.75L21 14Z");
+}
+</style><path class="lf86qebjp"/>`,
 		"fallback": "solar:rows-2-bold",
 	});
 }

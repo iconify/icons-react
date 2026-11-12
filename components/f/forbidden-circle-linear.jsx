@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/o/o8j-s-bwz.css';
-import '../../css/s/shu3xdl9q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="o8j-s-bwz"/><circle class="shu3xdl9q"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.o8j-s-bwz {
+  d: path("M18.5 5.5L5.50002 18.4998");
+}
+
+.shu3xdl9q {
+  cx: 12px;
+  cy: 12px;
+  r: 10px;
+}
+</style><g class="ipq1z-bjh"><path class="o8j-s-bwz"/><circle class="shu3xdl9q"/></g>`,
 		"fallback": "solar:forbidden-circle-linear",
 	});
 }

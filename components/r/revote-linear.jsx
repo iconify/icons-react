@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/p/p-cpvr-rk.css';
-import '../../css/a/adei87vxs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="p-cpvr-rk"/><path class="adei87vxs"/></g>`,
+		"content": `<style>.adei87vxs {
+  d: path("M8.5 12.5L10.5 14.5L15.5 9.5");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.p-cpvr-rk {
+  d: path("M4.31802 4.06476C3 5.40277 3 7.55628 3 11.8633C3 16.1703 3 18.3238 4.31802 19.6618C5.63604 20.9998 7.75736 20.9998 12 20.9998C16.2426 20.9998 18.364 20.9998 19.682 19.6618C21 18.3238 21 16.1703 21 11.8633C21 7.55628 21 5.40277 19.682 4.06476C18.364 2.72674 16.2426 2.72674 12 2.72674H12C10.5783 2.72674 9.39487 2.72674 8.4 2.77708M10.1504 1L8.4 2.77708L10.1504 4.55405");
+}
+</style><g class="hntgybcog"><path class="p-cpvr-rk"/><path class="adei87vxs"/></g>`,
 		"fallback": "solar:revote-linear",
 	});
 }

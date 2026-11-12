@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i4hxffrur.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<circle class="i4hxffrur"/>`,
+		"content": `<style>.i4hxffrur {
+  cx: 12px;
+  cy: 12px;
+  r: 10px;
+  fill: currentColor;
+}
+</style><circle class="i4hxffrur"/>`,
 		"fallback": "solar:record-bold",
 	});
 }

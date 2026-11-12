@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.eaczmyb0t {
+  fill: currentColor;
+  d: path("M4 19.25C4.41421 19.25 4.75 19.5858 4.75 20C4.75 20.4142 4.41421 20.75 4 20.75C3.58579 20.75 3.25 20.4142 3.25 20C3.25 19.5858 3.58579 19.25 4 19.25Z");
+}
+
+.n1uce9bpi {
+  fill: currentColor;
+  d: path("M4 3.25C13.2508 3.25 20.75 10.7492 20.75 20C20.75 20.4142 20.4142 20.75 20 20.75C19.5858 20.75 19.25 20.4142 19.25 20C19.25 11.5776 12.4224 4.75 4 4.75C3.58579 4.75 3.25 4.41421 3.25 4C3.25 3.58579 3.58579 3.25 4 3.25Z");
+}
+
+.yy_38ab3n {
+  fill: currentColor;
+  d: path("M4 11.25C8.83251 11.25 12.75 15.1675 12.75 20C12.75 20.4142 12.4142 20.75 12 20.75C11.5858 20.75 11.25 20.4142 11.25 20C11.25 15.9959 8.00409 12.75 4 12.75C3.58579 12.75 3.25 12.4142 3.25 12C3.25 11.5858 3.58579 11.25 4 11.25Z");
+}
+</style><path class="eaczmyb0t"/><path class="yy_38ab3n"/><path class="n1uce9bpi"/>`,
+		"fallback": "solar:rss-bold",
+	});
+}
+
+export default Component;

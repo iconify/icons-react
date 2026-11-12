@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j7bc-4bra.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j7bc-4bra"/>`,
+		"content": `<style>.j7bc-4bra {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M7 12.9L10.1429 16.5L12.1071 14.25M14.0714 12L18 7.5");
+}
+</style><path class="j7bc-4bra"/>`,
 		"fallback": "solar:unread-broken",
 	});
 }

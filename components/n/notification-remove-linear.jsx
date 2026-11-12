@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/r/r31eezbqv.css';
-import '../../css/z/z5gr-2f0h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,21 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="r31eezbqv"/><path class="z5gr-2f0h"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.r31eezbqv {
+  d: path("M22 10.5V12C22 16.714 22 19.0711 20.5355 20.5355C19.0711 22 16.714 22 12 22C7.28595 22 4.92893 22 3.46447 20.5355C2 19.0711 2 16.714 2 12C2 7.28595 2 4.92893 3.46447 3.46447C4.92893 2 7.28595 2 12 2H13.5");
+}
+
+.z5gr-2f0h {
+  d: path("M22 2.00002L19.5 4.50001M19.5 4.50001L17 7M19.5 4.50001L17 2M19.5 4.50001L22 6.99998");
+}
+</style><g class="ipq1z-bjh"><path class="r31eezbqv"/><path class="z5gr-2f0h"/></g>`,
 		"fallback": "solar:notification-remove-linear",
 	});
 }

@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nayqy1c_r.css';
-import '../../css/i/ir6vxx7sl.css';
-import '../../css/l/lquqiwbln.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nayqy1c_r"/><path class="ir6vxx7sl"/><path class="lquqiwbln"/>`,
+		"content": `<style>.ir6vxx7sl {
+  fill: currentColor;
+  d: path("M20.9873 16.083L3.01367 16.083C3.0063 15.622 3.0005 15.1233 3 14.583L21 14.583C20.9995 15.1233 20.9947 15.622 20.9873 16.083Z");
+}
+
+.lquqiwbln {
+  fill: currentColor;
+  d: path("M3.00098 9.41601C3.00147 8.87568 3.00629 8.37707 3.01367 7.91601L20.9873 7.91602C20.9947 8.37706 20.9995 8.87569 21 9.41602L3.00098 9.41601Z");
+}
+
+.nayqy1c_r {
+  fill: currentColor;
+  d: path("M13 2C16.7712 2 18.6569 2 19.8284 3.17157C21 4.34315 21 6.22876 21 10L21 14C21 17.7712 21 19.6569 19.8284 20.8284C18.6569 22 16.7712 22 13 22L11 22C7.22876 22 5.34315 22 4.17157 20.8284C3 19.6569 3 17.7712 3 14L3 10C3 6.22876 3 4.34315 4.17157 3.17157C5.34315 2 7.22876 2 11 2L13 2Z");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><path class="nayqy1c_r"/><path class="ir6vxx7sl"/><path class="lquqiwbln"/>`,
 		"fallback": "solar:rows-3-bold-duotone",
 	});
 }

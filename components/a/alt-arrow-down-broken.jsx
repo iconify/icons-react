@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/ad4e4fb6o.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ad4e4fb6o"/>`,
+		"content": `<style>.ad4e4fb6o {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M19 9L12 15L10.25 13.5M5 9L7.33333 11");
+}
+</style><path class="ad4e4fb6o"/>`,
 		"fallback": "solar:alt-arrow-down-broken",
 	});
 }

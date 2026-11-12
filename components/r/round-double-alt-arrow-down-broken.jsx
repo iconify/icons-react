@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/a/a44mazz6d.css';
-import '../../css/w/wcvy2luch.css';
-import '../../css/k/ko6o-6b9b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,27 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="a44mazz6d"/><path class="wcvy2luch"/><path class="ko6o-6b9b"/></g>`,
+		"content": `<style>.a44mazz6d {
+  stroke-linejoin: round;
+  d: path("M9 8.5L12 11.5L15 8.5");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.ko6o-6b9b {
+  d: path("M7 3.33782C8.47087 2.48697 10.1786 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 10.1786 2.48697 8.47087 3.33782 7");
+}
+
+.wcvy2luch {
+  stroke-linejoin: round;
+  d: path("M9 12.5L12 15.5L15 12.5");
+}
+</style><g class="ipq1z-bjh"><path class="a44mazz6d"/><path class="wcvy2luch"/><path class="ko6o-6b9b"/></g>`,
 		"fallback": "solar:round-double-alt-arrow-down-broken",
 	});
 }

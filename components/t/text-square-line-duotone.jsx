@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/q/qpt5ohb6x.css';
-import '../../css/w/wf89k6buf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="qpt5ohb6x"/><path class="wf89k6buf"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.qpt5ohb6x {
+  stroke-linejoin: round;
+  d: path("M12 7H10C9.05719 7 8.58579 7 8.29289 7.32544C8 7.65087 8 8.17466 8 9.22222V9.75M12 7H14C14.9428 7 15.4142 7 15.7071 7.32544C16 7.65087 16 8.17466 16 9.22222V9.75M12 7V17M12 17H9.5M12 17H15");
+}
+
+.wf89k6buf {
+  d: path("M2 12C2 7.28595 2 4.92893 3.46447 3.46447C4.92893 2 7.28595 2 12 2C16.714 2 19.0711 2 20.5355 3.46447C22 4.92893 22 7.28595 22 12C22 16.714 22 19.0711 20.5355 20.5355C19.0711 22 16.714 22 12 22C7.28595 22 4.92893 22 3.46447 20.5355C2 19.0711 2 16.714 2 12Z");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><g class="ipq1z-bjh"><path class="qpt5ohb6x"/><path class="wf89k6buf"/></g>`,
 		"fallback": "solar:text-square-line-duotone",
 	});
 }

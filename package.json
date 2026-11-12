@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/solar",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://icon-sets.iconify.design/solar/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -1718,6 +1718,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-to-line-outline.jsx"
     },
+    "./asterisk-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-bold.jsx"
+    },
+    "./asterisk-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-bold-duotone.jsx"
+    },
+    "./asterisk-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-broken.jsx"
+    },
+    "./asterisk-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-line-duotone.jsx"
+    },
+    "./asterisk-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-linear.jsx"
+    },
+    "./asterisk-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/asterisk-outline.jsx"
+    },
     "./asteroid-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/asteroid-bold.jsx"
@@ -3026,6 +3050,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/black-hole-outline.jsx"
     },
+    "./blend-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blend-bold.jsx"
+    },
+    "./blend-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blend-bold-duotone.jsx"
+    },
+    "./blend-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blend-broken.jsx"
+    },
+    "./blend-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blend-line-duotone.jsx"
+    },
+    "./blend-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blend-linear.jsx"
+    },
+    "./blend-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blend-outline.jsx"
+    },
     "./blocks-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/blocks-bold.jsx"
@@ -4114,6 +4162,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/broom-outline.jsx"
     },
+    "./brush-cross-pen-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-cross-pen-bold.jsx"
+    },
+    "./brush-cross-pen-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-cross-pen-bold-duotone.jsx"
+    },
+    "./brush-cross-pen-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-cross-pen-broken.jsx"
+    },
+    "./brush-cross-pen-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-cross-pen-line-duotone.jsx"
+    },
+    "./brush-cross-pen-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-cross-pen-linear.jsx"
+    },
+    "./brush-cross-pen-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brush-cross-pen-outline.jsx"
+    },
     "./bug-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bug-bold.jsx"
@@ -4425,6 +4497,30 @@
     "./calendar-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/calendar-outline.jsx"
+    },
+    "./calendar-range-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-range-bold.jsx"
+    },
+    "./calendar-range-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-range-bold-duotone.jsx"
+    },
+    "./calendar-range-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-range-broken.jsx"
+    },
+    "./calendar-range-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-range-line-duotone.jsx"
+    },
+    "./calendar-range-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-range-linear.jsx"
+    },
+    "./calendar-range-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-range-outline.jsx"
     },
     "./calendar-search-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6590,6 +6686,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/check-square-outline.jsx"
     },
+    "./checkerboard-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkerboard-bold.jsx"
+    },
+    "./checkerboard-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkerboard-bold-duotone.jsx"
+    },
+    "./checkerboard-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkerboard-broken.jsx"
+    },
+    "./checkerboard-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkerboard-line-duotone.jsx"
+    },
+    "./checkerboard-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkerboard-linear.jsx"
+    },
+    "./checkerboard-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/checkerboard-outline.jsx"
+    },
     "./checklist-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/checklist-bold.jsx"
@@ -6878,6 +6998,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-up-down-outline.jsx"
     },
+    "./circle-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-bold.jsx"
+    },
+    "./circle-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-bold-duotone.jsx"
+    },
     "./circle-bottom-down-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-bottom-down-bold.jsx"
@@ -6925,6 +7053,10 @@
     "./circle-bottom-up-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-bottom-up-outline.jsx"
+    },
+    "./circle-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-broken.jsx"
     },
     "./circle-dashed-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6997,6 +7129,18 @@
     "./circle-dot-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-dot-outline.jsx"
+    },
+    "./circle-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-line-duotone.jsx"
+    },
+    "./circle-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-linear.jsx"
+    },
+    "./circle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-outline.jsx"
     },
     "./circle-top-down-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7833,6 +7977,30 @@
     "./cloud-minus-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloud-minus-outline.jsx"
+    },
+    "./cloud-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-off-bold.jsx"
+    },
+    "./cloud-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-off-bold-duotone.jsx"
+    },
+    "./cloud-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-off-broken.jsx"
+    },
+    "./cloud-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-off-line-duotone.jsx"
+    },
+    "./cloud-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-off-linear.jsx"
+    },
+    "./cloud-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cloud-off-outline.jsx"
     },
     "./cloud-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8677,6 +8845,54 @@
     "./container-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/container-outline.jsx"
+    },
+    "./contrast-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-bold.jsx"
+    },
+    "./contrast-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-bold-duotone.jsx"
+    },
+    "./contrast-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-broken.jsx"
+    },
+    "./contrast-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-line-duotone.jsx"
+    },
+    "./contrast-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-linear.jsx"
+    },
+    "./contrast-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/contrast-outline.jsx"
+    },
+    "./cookie-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie-bold.jsx"
+    },
+    "./cookie-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie-bold-duotone.jsx"
+    },
+    "./cookie-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie-broken.jsx"
+    },
+    "./cookie-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie-line-duotone.jsx"
+    },
+    "./cookie-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie-linear.jsx"
+    },
+    "./cookie-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie-outline.jsx"
     },
     "./copy-add-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9710,6 +9926,54 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/display-outline.jsx"
     },
+    "./distort-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distort-bold.jsx"
+    },
+    "./distort-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distort-bold-duotone.jsx"
+    },
+    "./distort-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distort-broken.jsx"
+    },
+    "./distort-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distort-line-duotone.jsx"
+    },
+    "./distort-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distort-linear.jsx"
+    },
+    "./distort-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/distort-outline.jsx"
+    },
+    "./divide-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-bold.jsx"
+    },
+    "./divide-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-bold-duotone.jsx"
+    },
+    "./divide-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-broken.jsx"
+    },
+    "./divide-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-line-duotone.jsx"
+    },
+    "./divide-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-linear.jsx"
+    },
+    "./divide-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/divide-outline.jsx"
+    },
     "./dna-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dna-bold.jsx"
@@ -10502,6 +10766,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/electric-refueling-outline.jsx"
     },
+    "./ellipse-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipse-bold.jsx"
+    },
+    "./ellipse-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipse-bold-duotone.jsx"
+    },
+    "./ellipse-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipse-broken.jsx"
+    },
+    "./ellipse-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipse-line-duotone.jsx"
+    },
+    "./ellipse-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipse-linear.jsx"
+    },
+    "./ellipse-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ellipse-outline.jsx"
+    },
     "./emoji-funny-circle-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/emoji-funny-circle-bold.jsx"
@@ -10597,6 +10885,30 @@
     "./end-call-rounded-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/end-call-rounded-outline.jsx"
+    },
+    "./equal-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-bold.jsx"
+    },
+    "./equal-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-bold-duotone.jsx"
+    },
+    "./equal-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-broken.jsx"
+    },
+    "./equal-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-line-duotone.jsx"
+    },
+    "./equal-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-linear.jsx"
+    },
+    "./equal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/equal-outline.jsx"
     },
     "./eraser-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10717,6 +11029,30 @@
     "./exclamation-mark-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/exclamation-mark-outline.jsx"
+    },
+    "./exclude-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclude-bold.jsx"
+    },
+    "./exclude-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclude-bold-duotone.jsx"
+    },
+    "./exclude-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclude-broken.jsx"
+    },
+    "./exclude-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclude-line-duotone.jsx"
+    },
+    "./exclude-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclude-linear.jsx"
+    },
+    "./exclude-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exclude-outline.jsx"
     },
     "./exit-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10881,6 +11217,30 @@
     "./eye-linear": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eye-linear.jsx"
+    },
+    "./eye-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-off-bold.jsx"
+    },
+    "./eye-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-off-bold-duotone.jsx"
+    },
+    "./eye-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-off-broken.jsx"
+    },
+    "./eye-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-off-line-duotone.jsx"
+    },
+    "./eye-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-off-linear.jsx"
+    },
+    "./eye-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/eye-off-outline.jsx"
     },
     "./eye-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12297,6 +12657,30 @@
     "./flashlight-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flashlight-outline.jsx"
+    },
+    "./flat-brush-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-brush-bold.jsx"
+    },
+    "./flat-brush-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-brush-bold-duotone.jsx"
+    },
+    "./flat-brush-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-brush-broken.jsx"
+    },
+    "./flat-brush-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-brush-line-duotone.jsx"
+    },
+    "./flat-brush-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-brush-linear.jsx"
+    },
+    "./flat-brush-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flat-brush-outline.jsx"
     },
     "./flip-horizontal-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -14282,6 +14666,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gps-outline.jsx"
     },
+    "./gradient-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradient-bold.jsx"
+    },
+    "./gradient-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradient-bold-duotone.jsx"
+    },
+    "./gradient-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradient-broken.jsx"
+    },
+    "./gradient-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradient-line-duotone.jsx"
+    },
+    "./gradient-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradient-linear.jsx"
+    },
+    "./gradient-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gradient-outline.jsx"
+    },
     "./graph-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-bold.jsx"
@@ -14666,6 +15074,42 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hamburger-menu-outline.jsx"
     },
+    "./hand-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-bold.jsx"
+    },
+    "./hand-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-bold-duotone.jsx"
+    },
+    "./hand-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-broken.jsx"
+    },
+    "./hand-grab-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-grab-bold.jsx"
+    },
+    "./hand-grab-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-grab-bold-duotone.jsx"
+    },
+    "./hand-grab-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-grab-broken.jsx"
+    },
+    "./hand-grab-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-grab-line-duotone.jsx"
+    },
+    "./hand-grab-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-grab-linear.jsx"
+    },
+    "./hand-grab-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-grab-outline.jsx"
+    },
     "./hand-heart-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hand-heart-bold.jsx"
@@ -14690,6 +15134,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hand-heart-outline.jsx"
     },
+    "./hand-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-line-duotone.jsx"
+    },
+    "./hand-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-linear.jsx"
+    },
     "./hand-money-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hand-money-bold.jsx"
@@ -14713,6 +15165,10 @@
     "./hand-money-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hand-money-outline.jsx"
+    },
+    "./hand-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-outline.jsx"
     },
     "./hand-pills-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15153,6 +15609,30 @@
     "./heart-lock-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart-lock-outline.jsx"
+    },
+    "./heart-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-off-bold.jsx"
+    },
+    "./heart-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-off-bold-duotone.jsx"
+    },
+    "./heart-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-off-broken.jsx"
+    },
+    "./heart-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-off-line-duotone.jsx"
+    },
+    "./heart-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-off-linear.jsx"
+    },
+    "./heart-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-off-outline.jsx"
     },
     "./heart-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16186,6 +16666,54 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/info-square-outline.jsx"
     },
+    "./intersect-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-bold.jsx"
+    },
+    "./intersect-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-bold-duotone.jsx"
+    },
+    "./intersect-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-broken.jsx"
+    },
+    "./intersect-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-line-duotone.jsx"
+    },
+    "./intersect-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-linear.jsx"
+    },
+    "./intersect-minimalistic-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-minimalistic-bold.jsx"
+    },
+    "./intersect-minimalistic-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-minimalistic-bold-duotone.jsx"
+    },
+    "./intersect-minimalistic-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-minimalistic-broken.jsx"
+    },
+    "./intersect-minimalistic-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-minimalistic-line-duotone.jsx"
+    },
+    "./intersect-minimalistic-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-minimalistic-linear.jsx"
+    },
+    "./intersect-minimalistic-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-minimalistic-outline.jsx"
+    },
+    "./intersect-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/intersect-outline.jsx"
+    },
     "./iphone-bold-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/iphone-bold-duotone.jsx"
@@ -16669,6 +17197,102 @@
     "./laptop-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/laptop-outline.jsx"
+    },
+    "./layer-arrow-down-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-down-bold.jsx"
+    },
+    "./layer-arrow-down-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-down-bold-duotone.jsx"
+    },
+    "./layer-arrow-down-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-down-broken.jsx"
+    },
+    "./layer-arrow-down-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-down-line-duotone.jsx"
+    },
+    "./layer-arrow-down-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-down-linear.jsx"
+    },
+    "./layer-arrow-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-down-outline.jsx"
+    },
+    "./layer-arrow-up-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-up-bold.jsx"
+    },
+    "./layer-arrow-up-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-up-bold-duotone.jsx"
+    },
+    "./layer-arrow-up-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-up-broken.jsx"
+    },
+    "./layer-arrow-up-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-up-line-duotone.jsx"
+    },
+    "./layer-arrow-up-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-up-linear.jsx"
+    },
+    "./layer-arrow-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layer-arrow-up-outline.jsx"
+    },
+    "./layers-arrow-down-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-down-bold.jsx"
+    },
+    "./layers-arrow-down-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-down-bold-duotone.jsx"
+    },
+    "./layers-arrow-down-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-down-broken.jsx"
+    },
+    "./layers-arrow-down-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-down-line-duotone.jsx"
+    },
+    "./layers-arrow-down-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-down-linear.jsx"
+    },
+    "./layers-arrow-down-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-down-outline.jsx"
+    },
+    "./layers-arrow-up-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-up-bold.jsx"
+    },
+    "./layers-arrow-up-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-up-bold-duotone.jsx"
+    },
+    "./layers-arrow-up-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-up-broken.jsx"
+    },
+    "./layers-arrow-up-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-up-line-duotone.jsx"
+    },
+    "./layers-arrow-up-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-up-linear.jsx"
+    },
+    "./layers-arrow-up-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers-arrow-up-outline.jsx"
     },
     "./layers-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17530,6 +18154,54 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-heart-outline.jsx"
     },
+    "./list-indent-decrease-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-decrease-bold.jsx"
+    },
+    "./list-indent-decrease-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-decrease-bold-duotone.jsx"
+    },
+    "./list-indent-decrease-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-decrease-broken.jsx"
+    },
+    "./list-indent-decrease-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-decrease-line-duotone.jsx"
+    },
+    "./list-indent-decrease-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-decrease-linear.jsx"
+    },
+    "./list-indent-decrease-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-decrease-outline.jsx"
+    },
+    "./list-indent-increase-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-increase-bold.jsx"
+    },
+    "./list-indent-increase-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-increase-bold-duotone.jsx"
+    },
+    "./list-indent-increase-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-increase-broken.jsx"
+    },
+    "./list-indent-increase-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-increase-line-duotone.jsx"
+    },
+    "./list-indent-increase-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-increase-linear.jsx"
+    },
+    "./list-indent-increase-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-indent-increase-outline.jsx"
+    },
     "./list-line-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-line-duotone.jsx"
@@ -17685,6 +18357,54 @@
     "./list-plus-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-plus-outline.jsx"
+    },
+    "./list-unordered-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-bold.jsx"
+    },
+    "./list-unordered-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-bold-duotone.jsx"
+    },
+    "./list-unordered-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-broken.jsx"
+    },
+    "./list-unordered-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-line-duotone.jsx"
+    },
+    "./list-unordered-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-linear.jsx"
+    },
+    "./list-unordered-minimalistic-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-minimalistic-bold.jsx"
+    },
+    "./list-unordered-minimalistic-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-minimalistic-bold-duotone.jsx"
+    },
+    "./list-unordered-minimalistic-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-minimalistic-broken.jsx"
+    },
+    "./list-unordered-minimalistic-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-minimalistic-line-duotone.jsx"
+    },
+    "./list-unordered-minimalistic-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-minimalistic-linear.jsx"
+    },
+    "./list-unordered-minimalistic-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-minimalistic-outline.jsx"
+    },
+    "./list-unordered-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-unordered-outline.jsx"
     },
     "./list-up-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18750,6 +19470,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/map-point-linear.jsx"
     },
+    "./map-point-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-point-off-bold.jsx"
+    },
+    "./map-point-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-point-off-bold-duotone.jsx"
+    },
+    "./map-point-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-point-off-broken.jsx"
+    },
+    "./map-point-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-point-off-line-duotone.jsx"
+    },
+    "./map-point-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-point-off-linear.jsx"
+    },
+    "./map-point-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-point-off-outline.jsx"
+    },
     "./map-point-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/map-point-outline.jsx"
@@ -19478,6 +20222,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-2-linear.jsx"
     },
+    "./microphone-2-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-2-off-bold.jsx"
+    },
+    "./microphone-2-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-2-off-bold-duotone.jsx"
+    },
+    "./microphone-2-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-2-off-broken.jsx"
+    },
+    "./microphone-2-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-2-off-line-duotone.jsx"
+    },
+    "./microphone-2-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-2-off-linear.jsx"
+    },
+    "./microphone-2-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-2-off-outline.jsx"
+    },
     "./microphone-2-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-2-outline.jsx"
@@ -19501,6 +20269,30 @@
     "./microphone-3-linear": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-3-linear.jsx"
+    },
+    "./microphone-3-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-3-off-bold.jsx"
+    },
+    "./microphone-3-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-3-off-bold-duotone.jsx"
+    },
+    "./microphone-3-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-3-off-broken.jsx"
+    },
+    "./microphone-3-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-3-off-line-duotone.jsx"
+    },
+    "./microphone-3-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-3-off-linear.jsx"
+    },
+    "./microphone-3-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-3-off-outline.jsx"
     },
     "./microphone-3-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19538,6 +20330,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-large-linear.jsx"
     },
+    "./microphone-large-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-large-off-bold.jsx"
+    },
+    "./microphone-large-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-large-off-bold-duotone.jsx"
+    },
+    "./microphone-large-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-large-off-broken.jsx"
+    },
+    "./microphone-large-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-large-off-line-duotone.jsx"
+    },
+    "./microphone-large-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-large-off-linear.jsx"
+    },
+    "./microphone-large-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-large-off-outline.jsx"
+    },
     "./microphone-large-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-large-outline.jsx"
@@ -19549,6 +20365,30 @@
     "./microphone-linear": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone-linear.jsx"
+    },
+    "./microphone-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-bold.jsx"
+    },
+    "./microphone-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-bold-duotone.jsx"
+    },
+    "./microphone-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-broken.jsx"
+    },
+    "./microphone-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-line-duotone.jsx"
+    },
+    "./microphone-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-linear.jsx"
+    },
+    "./microphone-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off-outline.jsx"
     },
     "./microphone-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20822,6 +21662,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/muted-outline.jsx"
     },
+    "./noise-square-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noise-square-bold.jsx"
+    },
+    "./noise-square-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noise-square-bold-duotone.jsx"
+    },
+    "./noise-square-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noise-square-broken.jsx"
+    },
+    "./noise-square-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noise-square-line-duotone.jsx"
+    },
+    "./noise-square-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noise-square-linear.jsx"
+    },
+    "./noise-square-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/noise-square-outline.jsx"
+    },
     "./notebook-2-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/notebook-2-bold.jsx"
@@ -21110,6 +21974,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/object-scan-outline.jsx"
     },
+    "./opacity-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opacity-bold.jsx"
+    },
+    "./opacity-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opacity-bold-duotone.jsx"
+    },
+    "./opacity-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opacity-broken.jsx"
+    },
+    "./opacity-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opacity-line-duotone.jsx"
+    },
+    "./opacity-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opacity-linear.jsx"
+    },
+    "./opacity-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opacity-outline.jsx"
+    },
     "./outgoing-call-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/outgoing-call-bold.jsx"
@@ -21229,6 +22117,30 @@
     "./paint-brush-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paint-brush-outline.jsx"
+    },
+    "./paint-bucket-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-bucket-bold.jsx"
+    },
+    "./paint-bucket-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-bucket-bold-duotone.jsx"
+    },
+    "./paint-bucket-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-bucket-broken.jsx"
+    },
+    "./paint-bucket-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-bucket-line-duotone.jsx"
+    },
+    "./paint-bucket-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-bucket-linear.jsx"
+    },
+    "./paint-bucket-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-bucket-outline.jsx"
     },
     "./paint-roller-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -22245,6 +23157,30 @@
     "./people-nearby-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/people-nearby-outline.jsx"
+    },
+    "./percent-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percent-bold.jsx"
+    },
+    "./percent-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percent-bold-duotone.jsx"
+    },
+    "./percent-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percent-broken.jsx"
+    },
+    "./percent-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percent-line-duotone.jsx"
+    },
+    "./percent-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percent-linear.jsx"
+    },
+    "./percent-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percent-outline.jsx"
     },
     "./perfume-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -24118,6 +25054,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/record-square-outline.jsx"
     },
+    "./rectangle-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-bold.jsx"
+    },
+    "./rectangle-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-bold-duotone.jsx"
+    },
+    "./rectangle-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-broken.jsx"
+    },
+    "./rectangle-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-line-duotone.jsx"
+    },
+    "./rectangle-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-linear.jsx"
+    },
+    "./rectangle-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-outline.jsx"
+    },
     "./reel-2-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/reel-2-bold.jsx"
@@ -24909,6 +25869,102 @@
     "./rolling-pin-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rolling-pin-outline.jsx"
+    },
+    "./rotate-anticlockwise-2-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-2-bold.jsx"
+    },
+    "./rotate-anticlockwise-2-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-2-bold-duotone.jsx"
+    },
+    "./rotate-anticlockwise-2-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-2-broken.jsx"
+    },
+    "./rotate-anticlockwise-2-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-2-line-duotone.jsx"
+    },
+    "./rotate-anticlockwise-2-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-2-linear.jsx"
+    },
+    "./rotate-anticlockwise-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-2-outline.jsx"
+    },
+    "./rotate-anticlockwise-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-bold.jsx"
+    },
+    "./rotate-anticlockwise-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-bold-duotone.jsx"
+    },
+    "./rotate-anticlockwise-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-broken.jsx"
+    },
+    "./rotate-anticlockwise-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-line-duotone.jsx"
+    },
+    "./rotate-anticlockwise-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-linear.jsx"
+    },
+    "./rotate-anticlockwise-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-anticlockwise-outline.jsx"
+    },
+    "./rotate-clockwise-2-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-2-bold.jsx"
+    },
+    "./rotate-clockwise-2-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-2-bold-duotone.jsx"
+    },
+    "./rotate-clockwise-2-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-2-broken.jsx"
+    },
+    "./rotate-clockwise-2-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-2-line-duotone.jsx"
+    },
+    "./rotate-clockwise-2-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-2-linear.jsx"
+    },
+    "./rotate-clockwise-2-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-2-outline.jsx"
+    },
+    "./rotate-clockwise-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-bold.jsx"
+    },
+    "./rotate-clockwise-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-bold-duotone.jsx"
+    },
+    "./rotate-clockwise-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-broken.jsx"
+    },
+    "./rotate-clockwise-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-line-duotone.jsx"
+    },
+    "./rotate-clockwise-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-linear.jsx"
+    },
+    "./rotate-clockwise-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rotate-clockwise-outline.jsx"
     },
     "./round-alt-arrow-down-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -25822,6 +26878,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rows-4-outline.jsx"
     },
+    "./rss-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-bold.jsx"
+    },
+    "./rss-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-bold-duotone.jsx"
+    },
+    "./rss-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-broken.jsx"
+    },
+    "./rss-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-line-duotone.jsx"
+    },
+    "./rss-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-linear.jsx"
+    },
+    "./rss-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rss-outline.jsx"
+    },
     "./ruble-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/ruble-bold.jsx"
@@ -26494,6 +27574,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sd-card-outline.jsx"
     },
+    "./selection-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection-bold.jsx"
+    },
+    "./selection-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection-bold-duotone.jsx"
+    },
+    "./selection-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection-broken.jsx"
+    },
+    "./selection-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection-line-duotone.jsx"
+    },
+    "./selection-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection-linear.jsx"
+    },
+    "./selection-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/selection-outline.jsx"
+    },
     "./send-square-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/send-square-bold.jsx"
@@ -26806,6 +27910,54 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/settings-outline.jsx"
     },
+    "./shadow-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shadow-bold.jsx"
+    },
+    "./shadow-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shadow-bold-duotone.jsx"
+    },
+    "./shadow-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shadow-broken.jsx"
+    },
+    "./shadow-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shadow-line-duotone.jsx"
+    },
+    "./shadow-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shadow-linear.jsx"
+    },
+    "./shadow-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shadow-outline.jsx"
+    },
+    "./shape-rotate-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shape-rotate-bold.jsx"
+    },
+    "./shape-rotate-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shape-rotate-bold-duotone.jsx"
+    },
+    "./shape-rotate-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shape-rotate-broken.jsx"
+    },
+    "./shape-rotate-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shape-rotate-line-duotone.jsx"
+    },
+    "./shape-rotate-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shape-rotate-linear.jsx"
+    },
+    "./shape-rotate-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shape-rotate-outline.jsx"
+    },
     "./share-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/share-bold.jsx"
@@ -27065,6 +28217,30 @@
     "./shield-network-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-network-outline.jsx"
+    },
+    "./shield-off-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-off-bold.jsx"
+    },
+    "./shield-off-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-off-bold-duotone.jsx"
+    },
+    "./shield-off-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-off-broken.jsx"
+    },
+    "./shield-off-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-off-line-duotone.jsx"
+    },
+    "./shield-off-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-off-linear.jsx"
+    },
+    "./shield-off-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-off-outline.jsx"
     },
     "./shield-outline": {
       "types": "./types/hqrkovbr.d.ts",
@@ -27345,6 +28521,126 @@
     "./siderbar-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/siderbar-outline.jsx"
+    },
+    "./signal-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-bold.jsx"
+    },
+    "./signal-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-bold-duotone.jsx"
+    },
+    "./signal-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-broken.jsx"
+    },
+    "./signal-high-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-high-bold.jsx"
+    },
+    "./signal-high-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-high-bold-duotone.jsx"
+    },
+    "./signal-high-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-high-broken.jsx"
+    },
+    "./signal-high-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-high-line-duotone.jsx"
+    },
+    "./signal-high-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-high-linear.jsx"
+    },
+    "./signal-high-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-high-outline.jsx"
+    },
+    "./signal-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-line-duotone.jsx"
+    },
+    "./signal-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-linear.jsx"
+    },
+    "./signal-low-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-low-bold.jsx"
+    },
+    "./signal-low-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-low-bold-duotone.jsx"
+    },
+    "./signal-low-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-low-broken.jsx"
+    },
+    "./signal-low-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-low-line-duotone.jsx"
+    },
+    "./signal-low-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-low-linear.jsx"
+    },
+    "./signal-low-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-low-outline.jsx"
+    },
+    "./signal-medium-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-medium-bold.jsx"
+    },
+    "./signal-medium-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-medium-bold-duotone.jsx"
+    },
+    "./signal-medium-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-medium-broken.jsx"
+    },
+    "./signal-medium-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-medium-line-duotone.jsx"
+    },
+    "./signal-medium-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-medium-linear.jsx"
+    },
+    "./signal-medium-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-medium-outline.jsx"
+    },
+    "./signal-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-outline.jsx"
+    },
+    "./signal-zero-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-zero-bold.jsx"
+    },
+    "./signal-zero-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-zero-bold-duotone.jsx"
+    },
+    "./signal-zero-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-zero-broken.jsx"
+    },
+    "./signal-zero-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-zero-line-duotone.jsx"
+    },
+    "./signal-zero-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-zero-linear.jsx"
+    },
+    "./signal-zero-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/signal-zero-outline.jsx"
     },
     "./signpost-2-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -28654,6 +29950,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/soundwave-square-outline.jsx"
     },
+    "./sparkles-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles-bold.jsx"
+    },
+    "./sparkles-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles-bold-duotone.jsx"
+    },
+    "./sparkles-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles-broken.jsx"
+    },
+    "./sparkles-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles-line-duotone.jsx"
+    },
+    "./sparkles-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles-linear.jsx"
+    },
+    "./sparkles-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles-outline.jsx"
+    },
     "./speaker-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/speaker-bold.jsx"
@@ -29782,6 +31102,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-fall-outline.jsx"
     },
+    "./star-half-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-half-bold.jsx"
+    },
+    "./star-half-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-half-bold-duotone.jsx"
+    },
+    "./star-half-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-half-broken.jsx"
+    },
+    "./star-half-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-half-line-duotone.jsx"
+    },
+    "./star-half-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-half-linear.jsx"
+    },
+    "./star-half-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-half-outline.jsx"
+    },
     "./star-line-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-line-duotone.jsx"
@@ -30513,6 +31857,54 @@
     "./subtitles-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/subtitles-outline.jsx"
+    },
+    "./subtract-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-bold.jsx"
+    },
+    "./subtract-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-bold-duotone.jsx"
+    },
+    "./subtract-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-broken.jsx"
+    },
+    "./subtract-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-line-duotone.jsx"
+    },
+    "./subtract-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-linear.jsx"
+    },
+    "./subtract-minimalistic-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-minimalistic-bold.jsx"
+    },
+    "./subtract-minimalistic-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-minimalistic-bold-duotone.jsx"
+    },
+    "./subtract-minimalistic-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-minimalistic-broken.jsx"
+    },
+    "./subtract-minimalistic-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-minimalistic-line-duotone.jsx"
+    },
+    "./subtract-minimalistic-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-minimalistic-linear.jsx"
+    },
+    "./subtract-minimalistic-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-minimalistic-outline.jsx"
+    },
+    "./subtract-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subtract-outline.jsx"
     },
     "./suitcase-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -31554,6 +32946,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-format-outline.jsx"
     },
+    "./text-heading-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-heading-bold.jsx"
+    },
+    "./text-heading-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-heading-bold-duotone.jsx"
+    },
+    "./text-heading-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-heading-broken.jsx"
+    },
+    "./text-heading-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-heading-line-duotone.jsx"
+    },
+    "./text-heading-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-heading-linear.jsx"
+    },
+    "./text-heading-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-heading-outline.jsx"
+    },
     "./text-italic-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-italic-bold.jsx"
@@ -31914,6 +33330,54 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/to-pip-outline.jsx"
     },
+    "./toggle-left-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-left-bold.jsx"
+    },
+    "./toggle-left-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-left-bold-duotone.jsx"
+    },
+    "./toggle-left-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-left-broken.jsx"
+    },
+    "./toggle-left-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-left-line-duotone.jsx"
+    },
+    "./toggle-left-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-left-linear.jsx"
+    },
+    "./toggle-left-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-left-outline.jsx"
+    },
+    "./toggle-right-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-right-bold.jsx"
+    },
+    "./toggle-right-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-right-bold-duotone.jsx"
+    },
+    "./toggle-right-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-right-broken.jsx"
+    },
+    "./toggle-right-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-right-line-duotone.jsx"
+    },
+    "./toggle-right-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-right-linear.jsx"
+    },
+    "./toggle-right-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/toggle-right-outline.jsx"
+    },
     "./toolbox-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/toolbox-bold.jsx"
@@ -32105,6 +33569,30 @@
     "./transfer-vertical-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/transfer-vertical-outline.jsx"
+    },
+    "./translate-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-bold.jsx"
+    },
+    "./translate-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-bold-duotone.jsx"
+    },
+    "./translate-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-broken.jsx"
+    },
+    "./translate-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-line-duotone.jsx"
+    },
+    "./translate-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-linear.jsx"
+    },
+    "./translate-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/translate-outline.jsx"
     },
     "./translation-2-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -32913,6 +34401,30 @@
     "./undo-right-square-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/undo-right-square-outline.jsx"
+    },
+    "./union-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/union-bold.jsx"
+    },
+    "./union-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/union-bold-duotone.jsx"
+    },
+    "./union-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/union-broken.jsx"
+    },
+    "./union-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/union-line-duotone.jsx"
+    },
+    "./union-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/union-linear.jsx"
+    },
+    "./union-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/union-outline.jsx"
     },
     "./unlink-bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -33754,6 +35266,54 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vanity-outline.jsx"
     },
+    "./variable-brackets-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-brackets-bold.jsx"
+    },
+    "./variable-brackets-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-brackets-bold-duotone.jsx"
+    },
+    "./variable-brackets-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-brackets-broken.jsx"
+    },
+    "./variable-brackets-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-brackets-line-duotone.jsx"
+    },
+    "./variable-brackets-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-brackets-linear.jsx"
+    },
+    "./variable-brackets-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-brackets-outline.jsx"
+    },
+    "./variable-square-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-square-bold.jsx"
+    },
+    "./variable-square-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-square-bold-duotone.jsx"
+    },
+    "./variable-square-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-square-broken.jsx"
+    },
+    "./variable-square-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-square-line-duotone.jsx"
+    },
+    "./variable-square-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-square-linear.jsx"
+    },
+    "./variable-square-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/variable-square-outline.jsx"
+    },
     "./verified-check-bold": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/verified-check-bold.jsx"
@@ -34453,6 +36013,30 @@
     "./wallpaper-outline": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wallpaper-outline.jsx"
+    },
+    "./warp-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp-bold.jsx"
+    },
+    "./warp-bold-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp-bold-duotone.jsx"
+    },
+    "./warp-broken": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp-broken.jsx"
+    },
+    "./warp-line-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp-line-duotone.jsx"
+    },
+    "./warp-linear": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp-linear.jsx"
+    },
+    "./warp-outline": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warp-outline.jsx"
     },
     "./washing-machine-bold": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dbjz5kw6b.css';
-import '../../css/m/mly957b2e.css';
-import '../../css/m/mjkz43bbw.css';
-import '../../css/b/b8h19izcu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,26 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dbjz5kw6b"/><path class="mly957b2e"/><path class="mjkz43bbw"/><path class="b8h19izcu"/>`,
+		"content": `<style>.b8h19izcu {
+  fill: currentColor;
+  d: path("M8 2C10.7614 2 13 4.23858 13 7C13 8.11014 12.6385 9.13616 12.0264 9.96582L5.03418 2.97363C5.86384 2.36152 6.88986 2 8 2Z");
+}
+
+.dbjz5kw6b {
+  fill: currentColor;
+  d: path("M21.9434 17.75C21.7895 18.7694 21.3201 19.7502 20.5352 20.5352C18.5825 22.4878 15.4175 22.4877 13.4648 20.5352C12.6799 19.7502 12.2105 18.7695 12.0566 17.75H21.9434Z");
+}
+
+.mjkz43bbw {
+  fill: currentColor;
+  d: path("M10.9658 11.0264C10.1362 11.6385 9.11014 12 8 12C5.23858 12 3 9.76142 3 7C3 5.88986 3.36152 4.86384 3.97363 4.03418L10.9658 11.0264Z");
+}
+
+.mly957b2e {
+  fill: currentColor;
+  d: path("M13.4648 13.4648C15.4175 11.5123 18.5825 11.5122 20.5352 13.4648C21.3201 14.2498 21.7895 15.2305 21.9434 16.25H12.0566C12.2105 15.2305 12.6799 14.2498 13.4648 13.4648Z");
+}
+</style><path class="dbjz5kw6b"/><path class="mly957b2e"/><path class="mjkz43bbw"/><path class="b8h19izcu"/>`,
 		"fallback": "solar:pills-2-bold",
 	});
 }

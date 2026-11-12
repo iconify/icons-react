@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/d/dt_kzxb6g.css';
-import '../../css/z/zj2p4py0y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="dt_kzxb6g"/><path class="zj2p4py0y"/></g>`,
+		"content": `<style>.dt_kzxb6g {
+  d: path("M8.66699 15.8931C10.5079 13.9061 13.4927 13.9061 15.3337 15.8931");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.zj2p4py0y {
+  stroke-linejoin: round;
+  d: path("M12.0176 19.4644H12.0177");
+}
+</style><g class="ipq1z-bjh"><path class="dt_kzxb6g"/><path class="zj2p4py0y"/></g>`,
 		"fallback": "solar:wi-fi-low-line-duotone",
 	});
 }

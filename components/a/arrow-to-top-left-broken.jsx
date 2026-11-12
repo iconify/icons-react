@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wbuj5abca.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wbuj5abca"/>`,
+		"content": `<style>.wbuj5abca {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M7 9.5L12 4.5L17 9.5M12 4.5L12 11M12 14.5C12 16.1667 11 19.5 7 19.5");
+}
+</style><path class="wbuj5abca"/>`,
 		"fallback": "solar:arrow-to-top-left-broken",
 	});
 }

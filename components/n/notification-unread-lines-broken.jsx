@@ -1,10 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/u/u00ey8bps.css';
-import '../../css/y/ynz9_ybsk.css';
-import '../../css/j/jpdqneb7h.css';
-import '../../css/b/be57zfbjy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +10,31 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle class="u00ey8bps"/><path class="ynz9_ybsk"/><path class="jpdqneb7h"/><path class="be57zfbjy"/></g>`,
+		"content": `<style>.be57zfbjy {
+  d: path("M2 12C2 16.714 2 19.0711 3.46447 20.5355C4.92893 22 7.28595 22 12 22C16.714 22 19.0711 22 20.5355 20.5355C22 19.0711 22 16.714 22 12V10.5M13.5 2H12C7.28595 2 4.92893 2 3.46447 3.46447C2.49073 4.43821 2.16444 5.80655 2.0551 8");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.jpdqneb7h {
+  d: path("M7 17.5H13");
+}
+
+.u00ey8bps {
+  cx: 19px;
+  cy: 5px;
+  r: 3px;
+}
+
+.ynz9_ybsk {
+  d: path("M7 14H16");
+}
+</style><g class="ipq1z-bjh"><circle class="u00ey8bps"/><path class="ynz9_ybsk"/><path class="jpdqneb7h"/><path class="be57zfbjy"/></g>`,
 		"fallback": "solar:notification-unread-lines-broken",
 	});
 }

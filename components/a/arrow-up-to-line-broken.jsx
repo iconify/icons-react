@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/u/urjv1kbgr.css';
-import '../../css/m/mzpfazf1m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="urjv1kbgr"/><path class="mzpfazf1m"/></g>`,
+		"content": `<style>.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.mzpfazf1m {
+  d: path("M20 3L16 3M12 3L4 3");
+}
+
+.urjv1kbgr {
+  d: path("M12 21L12 8M8 12.375L12 8L16 12.375");
+}
+</style><g class="hntgybcog"><path class="urjv1kbgr"/><path class="mzpfazf1m"/></g>`,
 		"fallback": "solar:arrow-up-to-line-broken",
 	});
 }

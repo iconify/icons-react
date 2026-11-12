@@ -1,7 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lsygtybgy.css';
-import '../../css/j/jwomz4bvm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +10,16 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lsygtybgy"/><path class="jwomz4bvm"/>`,
+		"content": `<style>.jwomz4bvm {
+  fill: currentColor;
+  d: path("M14.4698 5.46979C14.7627 5.1769 15.2374 5.1769 15.5303 5.46979L21.5303 11.4698C21.8232 11.7627 21.8232 12.2375 21.5303 12.5303L15.5303 18.5303C15.2375 18.8232 14.7627 18.8232 14.4698 18.5303C14.1769 18.2374 14.1769 17.7627 14.4698 17.4698L19.9395 12.0001L14.4698 6.53034C14.1769 6.23745 14.1769 5.76268 14.4698 5.46979Z");
+}
+
+.lsygtybgy {
+  fill: currentColor;
+  d: path("M8.46979 5.46979C8.76268 5.1769 9.23745 5.1769 9.53034 5.46979C9.82317 5.76269 9.82321 6.23747 9.53034 6.53034L4.06061 12.0001L9.53034 17.4698C9.82317 17.7627 9.82321 18.2375 9.53034 18.5303C9.23746 18.8232 8.76269 18.8232 8.46979 18.5303L2.46979 12.5303C2.1769 12.2374 2.1769 11.7627 2.46979 11.4698L8.46979 5.46979Z");
+}
+</style><path class="lsygtybgy"/><path class="jwomz4bvm"/>`,
 		"fallback": "solar:chevrons-left-right-outline",
 	});
 }

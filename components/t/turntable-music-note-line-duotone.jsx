@@ -1,11 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/q/qchw1hbjq.css';
-import '../../css/h/hl5jo5b4t.css';
-import '../../css/b/b-v3dtbhs.css';
-import '../../css/f/fc4f7w-7u.css';
-import '../../css/u/uuq9ojjrl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +10,36 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="qchw1hbjq"/><path class="hl5jo5b4t"/><circle class="b-v3dtbhs"/><path class="fc4f7w-7u"/><path class="uuq9ojjrl"/></g>`,
+		"content": `<style>.b-v3dtbhs {
+  cx: 17px;
+  cy: 20px;
+  r: 2px;
+}
+
+.fc4f7w-7u {
+  d: path("M22 15C20.3431 15 19 13.6569 19 12");
+}
+
+.hl5jo5b4t {
+  d: path("M19 20V16V12");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.qchw1hbjq {
+  d: path("M12 22C7.28595 22 4.92893 22 3.46447 20.5355C2 19.0711 2 16.714 2 12C2 7.28595 2 4.92893 3.46447 3.46447C4.92893 2 7.28595 2 12 2C16.714 2 19.0711 2 20.5355 3.46447C21.7764 4.70529 21.9658 6.58687 21.9948 10");
+}
+
+.uuq9ojjrl {
+  d: path("M12 15C10.3431 15 9 13.6569 9 12C9 10.3431 10.3431 9 12 9C13.6569 9 15 10.3431 15 12C15 13.6569 13.6569 15 12 15Z");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><g class="ipq1z-bjh"><path class="qchw1hbjq"/><path class="hl5jo5b4t"/><circle class="b-v3dtbhs"/><path class="fc4f7w-7u"/><path class="uuq9ojjrl"/></g>`,
 		"fallback": "solar:turntable-music-note-line-duotone",
 	});
 }

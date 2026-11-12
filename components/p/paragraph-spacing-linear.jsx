@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/p/poyc1firz.css';
-import '../../css/b/bq0ypf47a.css';
-import '../../css/i/iim04tfhn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,26 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="poyc1firz"/><path class="bq0ypf47a"/><path class="iim04tfhn"/></g>`,
+		"content": `<style>.bq0ypf47a {
+  d: path("M4 3H20");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.iim04tfhn {
+  d: path("M9 8.5L12 5.5L15 8.5M12 5.5V18.5M9 15.5L12 18.5L15 15.5");
+}
+
+.poyc1firz {
+  d: path("M4 21H20");
+}
+</style><g class="hntgybcog"><path class="poyc1firz"/><path class="bq0ypf47a"/><path class="iim04tfhn"/></g>`,
 		"fallback": "solar:paragraph-spacing-linear",
 	});
 }

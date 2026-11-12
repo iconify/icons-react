@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/j/jke_9w8am.css';
-import '../../css/f/f6ro20_jw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,23 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="jke_9w8am"/><path class="f6ro20_jw"/></g>`,
+		"content": `<style>.f6ro20_jw {
+  d: path("M21.9874 11.5001L21.2424 10.7427C19.2443 8.74464 16.7225 7.39056 13.9997 6.8141M5.73242 19.7929C8.9957 19.7929 12.2914 18.6284 14.9997 16.7105M7.49973 3.06738C6.30714 5.9296 6.00347 9.02111 6.58872 12.0001");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.jke_9w8am {
+  d: path("M12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2ZM12 2L11.3142 3.64586C10.1761 6.37726 10.4317 9.49075 12 12M12 12H12.0917C15.4705 12 18.6258 13.6887 20.5 16.5M12 12L11.5697 12.5532C9.63285 15.0435 6.65478 16.5 3.5 16.5");
+}
+</style><g class="hntgybcog"><path class="jke_9w8am"/><path class="f6ro20_jw"/></g>`,
 		"fallback": "solar:volleyball-2-line-duotone",
 	});
 }

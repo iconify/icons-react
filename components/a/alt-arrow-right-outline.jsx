@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ust9b7bnw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,12 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="ust9b7bnw"/>`,
+		"content": `<style>.ust9b7bnw {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M8.51192 4.43056C8.82641 4.16099 9.29989 4.19741 9.56946 4.5119L15.5695 11.5119C15.8102 11.7928 15.8102 12.2072 15.5695 12.4881L9.56946 19.4881C9.29989 19.8026 8.82641 19.839 8.51192 19.5694C8.19743 19.2999 8.161 18.8264 8.43057 18.5119L14.0122 12L8.43057 5.48809C8.161 5.1736 8.19743 4.70012 8.51192 4.43056Z");
+}
+</style><path clip-rule="evenodd" class="ust9b7bnw"/>`,
 		"fallback": "solar:alt-arrow-right-outline",
 	});
 }

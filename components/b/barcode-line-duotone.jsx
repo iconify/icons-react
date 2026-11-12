@@ -1,13 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/g/gndbq0bkl.css';
-import '../../css/d/dpokkjq8r.css';
-import '../../css/m/mazoy0feo.css';
-import '../../css/c/c9rugwb_d.css';
-import '../../css/n/niumi_b1d.css';
-import '../../css/a/ao3ljbcpb.css';
-import '../../css/z/zh6trjbyz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -18,7 +10,55 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="gndbq0bkl"/><path class="dpokkjq8r"/><path class="mazoy0feo"/><path class="c9rugwb_d"/><path class="niumi_b1d"/><path class="ao3ljbcpb"/><path class="zh6trjbyz"/></g>`,
+		"content": `<style>.c9rugwb_d {
+  stroke-linecap: round;
+  d: path("M22 18.978L22 4.97803");
+}
+
+.dpokkjq8r {
+  stroke-linecap: round;
+  d: path("M5.53906 18.9785L5.53906 4.97852");
+}
+
+.gndbq0bkl {
+  stroke-linecap: round;
+  d: path("M12.3164 18.9785L12.3164 4.97852");
+}
+
+.jx0p4fbya {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.mazoy0feo {
+  stroke-linecap: round;
+  d: path("M15.2217 18.9785L15.2217 4.97852");
+}
+
+.niumi_b1d {
+  stroke-linecap: round;
+  d: path("M2.63379 18.9785L2.63379 4.97852");
+}
+
+.pe-_glbxv {
+  width: 0.968px;
+  height: 14.043px;
+  x: 8.443px;
+  y: 4.957px;
+  opacity: var(--svg-opacity--0-5, 0.5);
+  rx: 0.484px;
+}
+
+.sudiajdap {
+  width: 0.968px;
+  height: 14.043px;
+  x: 18.127px;
+  y: 4.935px;
+  opacity: var(--svg-opacity--0-5, 0.5);
+  rx: 0.484px;
+}
+</style><g class="jx0p4fbya"><path class="gndbq0bkl"/><path class="dpokkjq8r"/><path class="mazoy0feo"/><path class="c9rugwb_d"/><path class="niumi_b1d"/><rect class="pe-_glbxv"/><rect class="sudiajdap"/></g>`,
 		"fallback": "solar:barcode-line-duotone",
 	});
 }

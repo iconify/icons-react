@@ -1,7 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xyjanl8xm.css';
-import '../../css/l/l-7l4bc0a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +10,18 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="xyjanl8xm"/><path class="l-7l4bc0a"/>`,
+		"content": `<style>.l-7l4bc0a {
+  fill: currentColor;
+  d: path("M5.99999 10.75C5.69664 10.75 5.42317 10.5673 5.30708 10.287C5.191 10.0068 5.25516 9.68417 5.46966 9.46967L11.4697 3.46967C11.6103 3.32902 11.8011 3.25 12 3.25C12.1989 3.25 12.3897 3.32902 12.5303 3.46967L18.5303 9.46967C18.7448 9.68417 18.809 10.0068 18.6929 10.287C18.5768 10.5673 18.3033 10.75 18 10.75L5.99999 10.75Z");
+}
+
+.xyjanl8xm {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M12 20.75C12.4142 20.75 12.75 20.4142 12.75 20L12.75 10.75L11.25 10.75L11.25 20C11.25 20.4142 11.5858 20.75 12 20.75Z");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><path clip-rule="evenodd" class="xyjanl8xm"/><path class="l-7l4bc0a"/>`,
 		"fallback": "solar:arrow-up-bold-duotone",
 	});
 }

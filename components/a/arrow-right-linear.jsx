@@ -1,6 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vlkjjmbct.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vlkjjmbct"/>`,
+		"content": `<style>.vlkjjmbct {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M4 12H20M14 18L20 12L14 6");
+}
+</style><path class="vlkjjmbct"/>`,
 		"fallback": "solar:arrow-right-linear",
 	});
 }

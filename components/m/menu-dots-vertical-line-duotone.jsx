@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/x/xe53owbmy.css';
-import '../../css/g/gm84d-bws.css';
-import '../../css/z/zopjch_2q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,32 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><circle transform="rotate(90 12 5)" class="xe53owbmy"/><circle transform="rotate(90 12 12)" class="gm84d-bws"/><circle transform="rotate(90 12 19)" class="zopjch_2q"/></g>`,
+		"content": `<style>.gm84d-bws {
+  cx: 12px;
+  cy: 12px;
+  r: 2px;
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.xe53owbmy {
+  cx: 12px;
+  cy: 5px;
+  r: 2px;
+}
+
+.zopjch_2q {
+  cx: 12px;
+  cy: 19px;
+  r: 2px;
+}
+</style><g class="ipq1z-bjh"><circle class="xe53owbmy"/><circle class="gm84d-bws"/><circle class="zopjch_2q"/></g>`,
 		"fallback": "solar:menu-dots-vertical-line-duotone",
 	});
 }

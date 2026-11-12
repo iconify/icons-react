@@ -1,7 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lloebebob.css';
-import '../../css/g/gwm-eyb4t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +10,17 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lloebebob"/><path class="gwm-eyb4t"/>`,
+		"content": `<style>.gwm-eyb4t {
+  fill: currentColor;
+  d: path("M8.46949 12.9693C8.17659 13.2622 8.17659 13.7371 8.46949 14.03C8.76238 14.3229 9.23725 14.3229 9.53015 14.03L11.9998 11.5603L14.4695 14.03C14.7624 14.3229 15.2373 14.3229 15.5301 14.03C15.823 13.7371 15.823 13.2622 15.5301 12.9693L12.5301 9.9693C12.2373 9.67641 11.7624 9.67641 11.4695 9.9693L8.46949 12.9693Z");
+}
+
+.lloebebob {
+  fill: currentColor;
+  d: path("M21.9998 11.9996C21.9998 6.47679 17.5226 1.99963 11.9998 1.99963C6.47691 1.99963 1.99976 6.47679 1.99976 11.9996C1.99976 17.5225 6.47691 21.9996 11.9998 21.9996C17.5226 21.9996 21.9998 17.5225 21.9998 11.9996Z");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><path class="lloebebob"/><path class="gwm-eyb4t"/>`,
 		"fallback": "solar:round-alt-arrow-up-bold-duotone",
 	});
 }

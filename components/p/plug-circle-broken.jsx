@@ -1,10 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/e/e2l1hx5yc.css';
-import '../../css/z/ztyo9vbpg.css';
-import '../../css/n/ndcdy4d6d.css';
-import '../../css/z/zvfketbhl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +10,30 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="e2l1hx5yc"/><path class="ztyo9vbpg"/><path class="ndcdy4d6d"/><path class="zvfketbhl"/></g>`,
+		"content": `<style>.e2l1hx5yc {
+  stroke-linejoin: round;
+  d: path("M12 15.1082V20.1498C12 21.2635 11.0955 22.1875 10.0128 21.9673C5.44193 21.0381 2 16.9659 2 12.0832C2 10.2294 2.49614 8.49247 3.36182 7M16.3641 21.1581C19.7003 19.5239 22 16.0743 22 12.0832C22 6.51441 17.5228 2 12 2C10.1786 2 8.47087 2.49102 7 3.34895");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.ndcdy4d6d {
+  d: path("M13.5 11V9");
+}
+
+.ztyo9vbpg {
+  d: path("M12 15C10.3431 15 9 13.6569 9 12V11.8C9 11.3582 9.35817 11 9.8 11H14.2C14.6418 11 15 11.3582 15 11.8V12C15 13.6569 13.6569 15 12 15Z");
+}
+
+.zvfketbhl {
+  d: path("M10.5 11V9");
+}
+</style><g class="ipq1z-bjh"><path class="e2l1hx5yc"/><path class="ztyo9vbpg"/><path class="ndcdy4d6d"/><path class="zvfketbhl"/></g>`,
 		"fallback": "solar:plug-circle-broken",
 	});
 }

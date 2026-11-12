@@ -1,8 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/i/i-rawkqvp.css';
-import '../../css/k/kjp9wbcrw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +10,22 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="i-rawkqvp"/><path class="kjp9wbcrw"/></g>`,
+		"content": `<style>.i-rawkqvp {
+  stroke-linejoin: round;
+  d: path("M11 13L3 21M3 15V21H9");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.kjp9wbcrw {
+  d: path("M21.9999 12C21.9999 16.714 21.9999 19.0711 20.5354 20.5355C19.1784 21.8926 17.055 21.9921 12.9999 21.9994M2.00049 11C2.00779 6.94493 2.10734 4.8215 3.46438 3.46447C4.92884 2 7.28587 2 11.9999 2C16.714 2 19.071 2 20.5354 3.46447C21.5092 4.43821 21.8355 5.80655 21.9448 8");
+}
+</style><g class="ipq1z-bjh"><path class="i-rawkqvp"/><path class="kjp9wbcrw"/></g>`,
 		"fallback": "solar:square-bottom-down-broken",
 	});
 }

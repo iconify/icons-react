@@ -1,10 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/e/e0c96qb6a.css';
-import '../../css/v/vddq6r-de.css';
-import '../../css/f/faouxb3ly.css';
-import '../../css/t/ts3tpkwrk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +10,29 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="e0c96qb6a"/><path class="vddq6r-de"/><path class="faouxb3ly"/><path class="ts3tpkwrk"/></g>`,
+		"content": `<style>.e0c96qb6a {
+  d: path("M8.69628 2.05966L8.69629 21.9721");
+}
+
+.faouxb3ly {
+  d: path("M21.9502 8.68704L2.03777 8.68704");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.ts3tpkwrk {
+  d: path("M21.9805 15.3135L2.03762 15.3131");
+}
+
+.vddq6r-de {
+  d: path("M15.3223 2.02857L15.3218 21.9714");
+}
+</style><g class="ipq1z-bjh"><path class="e0c96qb6a"/><path class="vddq6r-de"/><path class="faouxb3ly"/><path class="ts3tpkwrk"/></g>`,
 		"fallback": "solar:grid-3x3-linear",
 	});
 }

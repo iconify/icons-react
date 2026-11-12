@@ -1,11 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/m/mlaq8tbmp.css';
-import '../../css/v/v3bnzubkl.css';
-import '../../css/s/s5xpay_7j.css';
-import '../../css/p/pre11cbbs.css';
-import '../../css/q/qtz6yi5yq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +10,34 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="mlaq8tbmp"/><path class="v3bnzubkl"/><path class="s5xpay_7j"/><path class="pre11cbbs"/><path class="qtz6yi5yq"/></g>`,
+		"content": `<style>.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.mlaq8tbmp {
+  stroke-linejoin: round;
+  d: path("M14 16L16.1 18.5L20 13.5");
+}
+
+.pre11cbbs {
+  d: path("M3 6L13.5 6M17.75 6L20 6");
+}
+
+.qtz6yi5yq {
+  d: path("M20 10L9.5 10M5.25 10H3");
+}
+
+.s5xpay_7j {
+  d: path("M10 18H3");
+}
+
+.v3bnzubkl {
+  d: path("M10 14H3");
+}
+</style><g class="ipq1z-bjh"><path class="mlaq8tbmp"/><path class="v3bnzubkl"/><path class="s5xpay_7j"/><path class="pre11cbbs"/><path class="qtz6yi5yq"/></g>`,
 		"fallback": "solar:list-check-broken",
 	});
 }

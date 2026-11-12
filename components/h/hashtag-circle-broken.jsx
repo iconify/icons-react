@@ -1,11 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/s/spo4lsrxb.css';
-import '../../css/q/qzz1y5j1i.css';
-import '../../css/m/mv-pxdb7h.css';
-import '../../css/d/dh-0v0bfa.css';
-import '../../css/k/ko6o-6b9b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +10,37 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="spo4lsrxb"/><path class="qzz1y5j1i"/><path class="mv-pxdb7h"/><path class="dh-0v0bfa"/><path class="ko6o-6b9b"/></g>`,
+		"content": `<style>.dh-0v0bfa {
+  stroke-linejoin: round;
+  d: path("M17 14H6");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.ko6o-6b9b {
+  d: path("M7 3.33782C8.47087 2.48697 10.1786 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 10.1786 2.48697 8.47087 3.33782 7");
+}
+
+.mv-pxdb7h {
+  stroke-linejoin: round;
+  d: path("M18 10H7");
+}
+
+.qzz1y5j1i {
+  stroke-linejoin: round;
+  d: path("M16 7L13 17");
+}
+
+.spo4lsrxb {
+  stroke-linejoin: round;
+  d: path("M11 7L8 17");
+}
+</style><g class="ipq1z-bjh"><path class="spo4lsrxb"/><path class="qzz1y5j1i"/><path class="mv-pxdb7h"/><path class="dh-0v0bfa"/><path class="ko6o-6b9b"/></g>`,
 		"fallback": "solar:hashtag-circle-broken",
 	});
 }

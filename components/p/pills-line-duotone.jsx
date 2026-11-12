@@ -1,9 +1,5 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/f/fnayhz3pu.css';
-import '../../css/l/l5f9elzdh.css';
-import '../../css/j/j_5sfhbxu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +10,27 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="fnayhz3pu"/><path class="l5f9elzdh"/><path class="j_5sfhbxu"/></g>`,
+		"content": `<style>.fnayhz3pu {
+  d: path("M17.8445 6.15547C17.8445 6.15547 17.4119 8.39999 14.9057 10.9061C12.3996 13.4123 10.1555 13.8445 10.1555 13.8445M20.4075 16.4075C18.2843 18.5308 14.8418 18.5308 12.7185 16.4075L7.59246 11.2815C5.46918 9.15824 5.46918 5.71573 7.59246 3.59246C9.71573 1.46918 13.1582 1.46918 15.2815 3.59246L20.4075 8.71849C22.5308 10.8418 22.5308 14.2843 20.4075 16.4075Z");
+}
+
+.ipq1z-bjh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.j_5sfhbxu {
+  d: path("M13.8624 17.2834C13.2748 19.9805 10.8732 22.0001 8 22.0001C4.68629 22.0001 2 19.3138 2 16.0001C2 13.1269 4.01959 10.7254 6.71664 10.1377");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+
+.l5f9elzdh {
+  d: path("M14.5 6.5L13 5");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><g class="ipq1z-bjh"><path class="fnayhz3pu"/><path class="l5f9elzdh"/><path class="j_5sfhbxu"/></g>`,
 		"fallback": "solar:pills-line-duotone",
 	});
 }

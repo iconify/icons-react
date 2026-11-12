@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2722,9 +2722,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/conekta.jsx"
     },
-    "./confluence": {
+    "./confluence-legacy": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/confluence.jsx"
+      "default": "./components/c/confluence-legacy.jsx"
     },
     "./construct-3": {
       "types": "./types/hqrkovbr.d.ts",
@@ -15225,6 +15225,10 @@
     "./zyte": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zyte.jsx"
+    },
+    "./confluence": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/confluence.jsx"
     },
     "./*": "./*"
   },

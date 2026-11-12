@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wsd3660jw.css';
+import '../../css/x/x3hc92b7y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wsd3660jw"/>`,
+		"content": `<path class="x3hc92b7y"/>`,
 		"fallback": "cbi:nanoleaf-holiday-string",
 	});
 }

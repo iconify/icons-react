@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/avjgopbgk.css';
+import '../../css/v/v7pp64bgr.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="avjgopbgk"/>`,
+		"content": `<path class="v7pp64bgr"/>`,
 		"fallback": "devicon-plain:junit-wordmark",
 	});
 }

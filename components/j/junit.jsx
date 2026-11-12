@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/drn_i5bsp.css';
+import '../../css/j/jpubkbcvb.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="drn_i5bsp"/>`,
+		"content": `<path class="jpubkbcvb"/>`,
 		"fallback": "devicon-plain:junit",
 	});
 }

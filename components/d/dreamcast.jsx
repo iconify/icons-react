@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uk63cfbmt.css';
+import '../../css/w/wylvmhbcc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uk63cfbmt"/>`,
+		"content": `<path class="wylvmhbcc"/>`,
 		"fallback": "cbi:dreamcast",
 	});
 }

@@ -1,0 +1,351 @@
+{
+  "name": "@iconify-react/evicons",
+  "type": "module",
+  "version": "1.0.0",
+  "homepage": "https://icon-sets.iconify.design/evicons/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./accessible-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/accessible-charging.jsx"
+    },
+    "./app-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-charging.jsx"
+    },
+    "./battery-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/battery-charging.jsx"
+    },
+    "./bidirectional-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bidirectional-charging.jsx"
+    },
+    "./bike-electric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bike-electric.jsx"
+    },
+    "./bus-electric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bus-electric.jsx"
+    },
+    "./calibrated-meter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calibrated-meter.jsx"
+    },
+    "./car-electric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-electric.jsx"
+    },
+    "./car-plugged": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/car-plugged.jsx"
+    },
+    "./card-terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/card-terminal.jsx"
+    },
+    "./charging-availability": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-availability.jsx"
+    },
+    "./charging-bolt": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-bolt.jsx"
+    },
+    "./charging-cable": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-cable.jsx"
+    },
+    "./charging-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-card.jsx"
+    },
+    "./charging-hub": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-hub.jsx"
+    },
+    "./charging-log": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-log.jsx"
+    },
+    "./charging-operator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-operator.jsx"
+    },
+    "./charging-plug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-plug.jsx"
+    },
+    "./charging-power-level": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-power-level.jsx"
+    },
+    "./charging-session": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-session.jsx"
+    },
+    "./charging-socket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-socket.jsx"
+    },
+    "./charging-station": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-station.jsx"
+    },
+    "./charging-tariff": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-tariff.jsx"
+    },
+    "./charging-time": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/charging-time.jsx"
+    },
+    "./community-verified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/community-verified.jsx"
+    },
+    "./current-ac": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/current-ac.jsx"
+    },
+    "./current-dc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/current-dc.jsx"
+    },
+    "./dealer-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dealer-charging.jsx"
+    },
+    "./destination-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/destination-charging.jsx"
+    },
+    "./driving-range": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/driving-range.jsx"
+    },
+    "./fast-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fast-charging.jsx"
+    },
+    "./free-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/free-charging.jsx"
+    },
+    "./fuel-station-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fuel-station-charging.jsx"
+    },
+    "./green-power": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/green-power.jsx"
+    },
+    "./highway-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/highway-charging.jsx"
+    },
+    "./home-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/home-charging.jsx"
+    },
+    "./idle-fee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/idle-fee.jsx"
+    },
+    "./marker-ac": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-ac.jsx"
+    },
+    "./marker-available": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-available.jsx"
+    },
+    "./marker-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-charging.jsx"
+    },
+    "./marker-cluster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-cluster.jsx"
+    },
+    "./marker-dc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-dc.jsx"
+    },
+    "./marker-faulted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-faulted.jsx"
+    },
+    "./marker-occupied": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-occupied.jsx"
+    },
+    "./marker-out-of-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-out-of-service.jsx"
+    },
+    "./marker-queue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-queue.jsx"
+    },
+    "./marker-reserved": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-reserved.jsx"
+    },
+    "./marker-unknown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-unknown.jsx"
+    },
+    "./motorcycle-electric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/motorcycle-electric.jsx"
+    },
+    "./parking-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/parking-charging.jsx"
+    },
+    "./plug-and-charge": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-and-charge.jsx"
+    },
+    "./plug-ccs1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-ccs1.jsx"
+    },
+    "./plug-ccs2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-ccs2.jsx"
+    },
+    "./plug-cee-blue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-cee-blue.jsx"
+    },
+    "./plug-cee-red": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-cee-red.jsx"
+    },
+    "./plug-chademo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-chademo.jsx"
+    },
+    "./plug-gbt-dc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-gbt-dc.jsx"
+    },
+    "./plug-in-hybrid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-in-hybrid.jsx"
+    },
+    "./plug-mcs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-mcs.jsx"
+    },
+    "./plug-nacs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-nacs.jsx"
+    },
+    "./plug-schuko": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-schuko.jsx"
+    },
+    "./plug-type-1": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-type-1.jsx"
+    },
+    "./plug-type-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-type-2.jsx"
+    },
+    "./power-kw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-kw.jsx"
+    },
+    "./power-outage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power-outage.jsx"
+    },
+    "./qr-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qr-charging.jsx"
+    },
+    "./register-verified": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/register-verified.jsx"
+    },
+    "./report-fault": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/report-fault.jsx"
+    },
+    "./restricted-access": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restricted-access.jsx"
+    },
+    "./roaming": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/roaming.jsx"
+    },
+    "./route-to-charger": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route-to-charger.jsx"
+    },
+    "./shop-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shop-charging.jsx"
+    },
+    "./solar-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/solar-charging.jsx"
+    },
+    "./station-uptime": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/station-uptime.jsx"
+    },
+    "./status-available": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-available.jsx"
+    },
+    "./status-faulted": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-faulted.jsx"
+    },
+    "./status-occupied": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-occupied.jsx"
+    },
+    "./status-out-of-service": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-out-of-service.jsx"
+    },
+    "./status-queue": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-queue.jsx"
+    },
+    "./status-reserved": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-reserved.jsx"
+    },
+    "./status-unknown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/status-unknown.jsx"
+    },
+    "./streetlight-charging": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/streetlight-charging.jsx"
+    },
+    "./truck-electric": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/truck-electric.jsx"
+    },
+    "./wallbox": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallbox.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#evicons"
+}

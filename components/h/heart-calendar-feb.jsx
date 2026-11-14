@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.i9rfbtexj {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M8.75 2.5v1.25h6.5V2.5q0-.074.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043q.072-.014.146-.014t.146.014q.073.015.141.043t.13.069q.061.041.113.094q.053.052.094.113t.069.13t.043.141t.014.146v1.251q2.042.043 3.499 1.5q1.501 1.501 1.501 3.624v8.25q0 2.123-1.501 3.624t-3.624 1.501h-9.25q-2.123 0-3.624-1.501T2.25 17.125v-8.25q0-2.123 1.501-3.624q1.457-1.457 3.499-1.5V2.5q0-.074.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043Q7.926 1.75 8 1.75t.146.014t.141.043t.13.069t.113.094q.053.052.094.113t.069.13t.043.141t.014.146m2.834 15.124q.092.062.199.094q.106.032.217.032t.217-.032t.199-.094q3.834-2.556 3.834-5.374q0-1.749-1.74-2.224q-1.339-.365-2.51.487q-1.171-.852-2.51-.487q-1.74.475-1.74 2.224q0 2.818 3.834 5.374");
+}
+</style><path class="i9rfbtexj"/>`,
+		"fallback": "uix-solid:heart-calendar-feb",
+	});
+}
+
+export default Component;

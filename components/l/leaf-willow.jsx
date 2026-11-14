@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.h8avubcji {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M3.316 19.623Q6.637 5.097 19.87 2.761q.072-.012.146-.011t.146.018t.14.045q.068.03.128.073q.061.042.112.095q.051.054.09.116q.04.062.067.131t.04.142q.034.195-.033.382Q16.598 15.255 4.431 20.63L3.28 21.78q-.105.106-.243.163T2.75 22t-.287-.057t-.243-.163q-.053-.052-.094-.113t-.069-.13t-.043-.141T2 21.25t.014-.146q.015-.073.043-.141t.069-.13q.041-.061.094-.113zM16.47 5.97q-6.009 6.009-13.018 13.518q-.102.109-.154.249t-.048.289q.006.149.067.285t.171.237q.054.051.117.09q.063.038.132.064t.142.038t.147.01q.074-.003.146-.02q.071-.017.139-.047q.067-.031.127-.074t.11-.097Q11.539 13.021 17.53 7.03q.106-.105.163-.243t.057-.287t-.057-.287t-.163-.243q-.052-.053-.113-.094t-.13-.069t-.141-.043T17 5.75q-.074 0-.146.014q-.073.015-.141.043t-.13.069q-.061.041-.113.094");
+}
+</style><path class="h8avubcji"/>`,
+		"fallback": "uix-solid:leaf-willow",
+	});
+}
+
+export default Component;

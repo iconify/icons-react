@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ho7-_701r {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("m13.583 7.925l-1.192-.446q-2.106-.791-1.316-2.896l.446-1.192q.791-2.106 2.896-1.316l1.192.446q2.106.791 1.316 2.896l-.446 1.192q-.791 2.106-2.896 1.316M5.75 2.25H4.5q-.932 0-1.591.659T2.25 4.5v1.25Q2.25 8 4.5 8h1.25Q8 8 8 5.75V4.5q0-2.25-2.25-2.25m13.167 12.675l1.192-.446q2.106-.791 1.316-2.896l-.446-1.192q-.791-2.106-2.896-1.316l-1.192.446q-2.106.791-1.316 2.896l.446 1.192q.791 2.106 2.896 1.316M4.5 9.25h1.25Q8 9.25 8 11.5v1.25Q8 15 5.75 15H4.5q-2.25 0-2.25-2.25V11.5q0-.932.659-1.591T4.5 9.25m10.591 6.531l.878.878q.66.659.66 1.591t-.66 1.592l-.878.877q-.659.66-1.591.66t-1.591-.66l-.878-.878q-.66-.659-.66-1.591t.66-1.592l.878-.877q.659-.66 1.591-.66t1.591.66m-9.341.469H4.5q-.932 0-1.591.659T2.25 18.5v1.25Q2.25 22 4.5 22h1.25Q8 22 8 19.75V18.5q0-2.25-2.25-2.25");
+}
+</style><path class="ho7-_701r"/>`,
+		"fallback": "uix-solid:entropy",
+	});
+}
+
+export default Component;

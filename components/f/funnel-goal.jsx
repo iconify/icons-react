@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.mbw4cnkiw {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M8.2 1.75h7.6q1.545 0 2.029 1.467t-.758 2.386l-2.667 1.975q-.404.3-.404.804V8.5q0 1.75-1.75 1.75h-.5Q10 10.25 10 8.5v-.118q0-.504-.405-.804L6.929 5.603q-1.242-.919-.758-2.386T8.2 1.75M2.25 16.999v.002q-.001 2.235 3.065 3.683Q8.103 22.001 12 22.001t6.685-1.317q3.067-1.448 3.065-3.685q.002-2.235-3.065-3.683q-2.788-1.317-6.685-1.317t-6.685 1.317q-3.066 1.448-3.065 3.683m9.76-.749q.074 0 .146.014q.073.015.141.043t.13.069t.113.094q.053.052.094.113t.069.13t.043.141t.014.146t-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043t-.146.014H12q-.074 0-.146-.014q-.073-.015-.141-.043t-.13-.069t-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141T11.25 17t.014-.146q.015-.073.043-.141t.069-.13q.041-.061.094-.113q.052-.053.113-.094t.13-.069t.141-.043t.146-.014z");
+}
+</style><path class="mbw4cnkiw"/>`,
+		"fallback": "uix-solid:funnel-goal",
+	});
+}
+
+export default Component;

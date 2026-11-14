@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jxj94q5do {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("m9.444 5.954l5.005 3.203q1.556.996 1.556 2.843q0 1.391-.882 2.299q-1.159.225-1.691 1.195l-3.988 2.552q-1.685 1.078-3.439.118T4.25 15.203V8.797q0-2 1.755-2.961t3.439.118m9.492 8.755l.166.335q.175.355.565.412l.368.053q.816.118 1.071.901q.254.783-.335 1.357l-.27.261q-.281.274-.214.663l.063.368q.138.811-.526 1.294q-.665.484-1.393.102l-.332-.174q-.349-.184-.698 0l-.331.174q-.729.382-1.394-.102q-.664-.483-.526-1.293l.063-.369q.067-.389-.216-.664l-.266-.259q-.591-.575-.337-1.358q.255-.783 1.069-.901l.372-.053q.388-.057.562-.411l.167-.336q.366-.736 1.186-.736t1.186.735zm-1.193 1q-.523 1.061-1.696 1.231l-.013.002l.011.011q.847.826.646 1.992l-.003.016l.015-.008q1.047-.55 2.094 0l.015.008l-.003-.016q-.201-1.166.648-1.993l.009-.01l-.015-.002q-1.171-.17-1.693-1.23l-.008-.016z");
+}
+</style><path class="jxj94q5do"/>`,
+		"fallback": "uix-solid:match-highlights",
+	});
+}
+
+export default Component;

@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.n_9ukdyea {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M8 2.25h8q.074 0 .146.014q.073.015.141.043t.13.069q.061.041.113.094q.053.052.094.113t.069.13t.043.141t.014.146t-.014.146q-.015.073-.043.141t-.069.13t-.094.113q-.052.053-.113.094t-.13.069t-.141.043T16 3.75h-.75v4.573l2.671 5.342l2.25 4.5q.014.027.025.056q.514 1.283-.147 2.384Q19.362 21.75 18 21.75H6q-1.362 0-2.049-1.145q-.661-1.101-.147-2.384q.011-.029.025-.056l2.25-4.5L8.75 8.323V3.75H8q-.074 0-.146-.014q-.073-.015-.141-.043t-.13-.069q-.061-.041-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141T7.25 3t.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043Q7.926 2.25 8 2.25m-.786 12.5l-2.028 4.055q-.22.576.051 1.028q.25.417.763.417h12q.513 0 .763-.417q.271-.452.051-1.028l-2.028-4.055zm8.822-1.5l-2.207-4.415q-.079-.158-.079-.335V3.75h-3.5V8.5q0 .177-.079.335L7.964 13.25z");
+}
+</style><path class="n_9ukdyea"/>`,
+		"fallback": "uix-solid:pin-lab",
+	});
+}
+
+export default Component;

@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.iccx1_bkv {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M17 20.25H2.5q-.074 0-.146-.014q-.073-.015-.141-.043t-.13-.069t-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141t-.014-.146q0-.126.041-.244q.041-.119.118-.218Q1.75 18.599 1.75 18v-2.5q0-2.25 2.25-2.25h1.5q2.25 0 2.25 2.25V18q0 .4-.121.75H9V9.5q0-.074.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043t.146-.014h4.5q.074 0 .146.014q.073.015.141.043t.13.069t.113.094q.053.052.094.113t.069.13t.043.141T15 9.5v9.25h1.25V4.5q0-.074.014-.146q.015-.073.043-.141t.069-.13q.041-.061.094-.113q.052-.053.113-.094t.13-.069t.141-.043T17 3.75h4.5q.074 0 .146.014q.073.015.141.043t.13.069q.061.041.113.094q.053.052.094.113t.069.13t.043.141t.014.146v15q0 .074-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043t-.146.014zm.75-1.5h3V5.25h-3zm-7.25 0h3v-8.5h-3z");
+}
+</style><path class="iccx1_bkv"/>`,
+		"fallback": "uix-solid:project-phase",
+	});
+}
+
+export default Component;

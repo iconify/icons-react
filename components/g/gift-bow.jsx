@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.iyyjs9v_o {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M7.127 14.24q1.701.283 3.617-.12l-2.44 6.101q-.028.069-.041.142t-.013.146q.001.074.016.146q.016.073.045.14t.071.129t.094.113t.115.092q.062.04.13.067q.069.028.142.041t.146.013q.074-.001.146-.016q.073-.016.14-.045t.129-.071t.113-.094t.092-.115q.04-.062.067-.13L12 15.019l2.304 5.76q.027.068.067.13t.092.115t.113.094q.061.042.129.071q.067.029.14.045q.072.015.146.016t.146-.013t.142-.041q.068-.027.13-.067t.115-.092t.094-.113t.071-.129q.029-.067.045-.14q.015-.072.016-.146t-.013-.146q-.013-.073-.041-.142l-2.44-6.101q1.916.403 3.617.12q3.005-.501 3.839-3.003q.51-1.531-.427-2.543q-.87-.94-2.468-.817q-3.118.24-5.817 3.825q-2.699-3.585-5.817-3.825q-1.598-.123-2.468.817q-.937 1.012-.427 2.543q.834 2.502 3.839 3.003");
+}
+</style><path class="iyyjs9v_o"/>`,
+		"fallback": "uix-solid:gift-bow",
+	});
+}
+
+export default Component;

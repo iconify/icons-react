@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hyod44hyv {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M4 3.75h16q2.25 0 2.25 2.25q0 1.837-1.5 2.174V19q0 .074-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043t-.146.014H4q-.074 0-.146-.014q-.073-.015-.141-.043t-.13-.069t-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141T3.25 19V8.174Q1.75 7.837 1.75 6q0-2.25 2.25-2.25m3.75 14.5H9.5v-7H7.75zm3.25-7v7h2v-7zm3.5 0v7h1.75v-7zm3.25 7h1.5v-10H4.75v10h1.5V10.5q0-.074.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043T7 9.75h10q.074 0 .146.014q.073.015.141.043t.13.069q.061.041.113.094q.053.052.094.113t.069.13t.043.141t.014.146z");
+}
+</style><path class="hyod44hyv"/>`,
+		"fallback": "uix-solid:convention-center",
+	});
+}
+
+export default Component;

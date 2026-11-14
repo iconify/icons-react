@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.l-xpps_tz {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M1.75 12q0-4.246 3.002-7.248T12 1.75t7.248 3.002T22.25 12t-3.002 7.248T12 22.25t-7.248-3.002T1.75 12m6.78-4.53q-.105-.106-.243-.163T8 7.25t-.287.057t-.243.163t-.163.243T7.25 8t.057.287t.163.243L10.939 12L7.47 15.47q-.053.052-.094.113t-.069.13t-.043.141T7.25 16t.014.146q.015.073.043.141t.069.13q.041.061.094.113q.105.106.243.163T8 16.75t.287-.057t.243-.163l4-4q.106-.105.163-.243T12.75 12t-.057-.287t-.163-.243zm8.5 4l-4-4q-.105-.106-.243-.163T12.5 7.25t-.287.057t-.243.163q-.053.052-.094.113t-.069.13t-.043.141T11.75 8t.014.146q.015.073.043.141t.069.13t.094.113L15.439 12l-3.469 3.47q-.053.052-.094.113t-.069.13t-.043.141t-.014.146t.014.146q.015.073.043.141t.069.13q.041.061.094.113q.105.106.243.163t.287.057t.287-.057t.243-.163l4-4q.053-.052.094-.113t.069-.13t.043-.141t.014-.146t-.014-.146q-.015-.073-.043-.141t-.069-.13t-.094-.113");
+}
+</style><path class="l-xpps_tz"/>`,
+		"fallback": "uix-solid:double-tap-seek",
+	});
+}
+
+export default Component;

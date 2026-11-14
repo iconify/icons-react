@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.yefnj2btv {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("m10.642 3.934l-.708.708h-.001q-1.765 1.767.001 3.534l1.414 1.415L3.97 16.97q-.053.052-.094.113t-.069.13t-.043.141t-.014.146q0 .074.014.146q.015.073.043.141t.069.13q.041.061.094.113q.105.106.243.163t.287.057t.287-.057t.243-.163l7.379-7.378l1.415 1.415q1.767 1.765 3.534-.001l.709-.708q1.765-1.767-.001-3.534l-3.89-3.891q-1.767-1.765-3.534.001M15.28 17.47l1.47 1.469l3.72-3.719q.052-.053.113-.094t.13-.069t.141-.043T21 15t.146.014q.073.015.141.043t.13.069q.061.041.113.094q.106.105.163.243t.057.287t-.057.287t-.163.243l-4.25 4.25q-.052.053-.113.094t-.13.069t-.141.043t-.146.014q-.074 0-.146-.014q-.073-.015-.141-.043t-.13-.069q-.061-.041-.113-.094l-2-2q-.053-.052-.094-.113t-.069-.13t-.043-.141T14 18t.014-.146q.015-.073.043-.141t.069-.13q.041-.061.094-.113q.105-.106.243-.163t.287-.057t.287.057t.243.163");
+}
+</style><path class="yefnj2btv"/>`,
+		"fallback": "uix-solid:acquittal",
+	});
+}
+
+export default Component;

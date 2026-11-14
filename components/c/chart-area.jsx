@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.dobrdrblj {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M4.25 19.75V3.5q0-.074-.014-.146q-.015-.073-.043-.141t-.069-.13t-.094-.113q-.052-.053-.113-.094t-.13-.069t-.141-.043Q3.574 2.75 3.5 2.75t-.146.014t-.141.043t-.13.069t-.113.094q-.053.052-.094.113t-.069.13t-.043.141q-.014.072-.014.146v17q0 .074.014.146q.015.073.043.141t.069.13q.041.061.094.113q.052.053.113.094t.13.069t.141.043t.146.014h17q.074 0 .146-.014q.073-.015.141-.043t.13-.069q.061-.041.113-.094q.053-.052.094-.113t.069-.13t.043-.141t.014-.146q0-.074-.014-.146q-.015-.073-.043-.141t-.069-.13q-.041-.061-.094-.113q-.052-.053-.113-.094t-.13-.069t-.141-.043t-.146-.014zm2-4.75v-2.319q0-1.021.768-1.693l2.51-2.197q1.467-1.284 2.946-.015l1.336 1.145q.241.206.558.177q.317-.03.515-.279l1.031-1.288q.83-1.037 2.083-.597t1.253 1.768V15q0 2.25-2.25 2.25H8.5q-2.25 0-2.25-2.25");
+}
+</style><path class="dobrdrblj"/>`,
+		"fallback": "uix-solid:chart-area",
+	});
+}
+
+export default Component;

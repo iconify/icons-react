@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jewokdbsu {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("m6.765 7.353l1-5q.014-.073.042-.141t.07-.129t.093-.114q.053-.052.114-.093t.13-.069q.068-.028.14-.043t.147-.014t.146.015q.073.014.141.042t.129.07q.062.041.114.093q.052.053.093.114t.069.13t.043.14q.014.073.014.147t-.015.146l-.899 4.495q3.664 2.191 7.328 0l-.899-4.495q-.015-.072-.015-.146t.014-.147q.015-.072.043-.14t.069-.13t.093-.114t.114-.093t.129-.07q.068-.028.141-.042t.146-.015t.147.014q.072.015.14.043t.13.069t.114.093t.093.114t.07.129q.028.068.042.141l1 4.999v.001q.007.031.01.062v.002l.49 4.404l2.465 6.41q.054.139.05.288t-.065.286q-.06.136-.168.239t-.248.156q-.059.023-.122.035l-15 3q-.072.015-.146.015t-.147-.014q-.072-.015-.14-.043t-.13-.069q-.061-.041-.114-.093q-.052-.052-.093-.114q-.041-.061-.07-.129q-.028-.068-.042-.141q-.034-.17.01-.338l2.486-9.447l.494-4.445q.003-.032.01-.064");
+}
+</style><path class="jewokdbsu"/>`,
+		"fallback": "uix-solid:slip-dress",
+	});
+}
+
+export default Component;

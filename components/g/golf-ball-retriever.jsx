@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.pu9vk6bkv {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M14.251 7.5q0-2.796-1.978-4.773q-.105-.106-.243-.163t-.287-.057t-.287.057t-.243.163q-.053.052-.094.113t-.069.13t-.043.141t-.014.146t.014.146q.015.073.043.141t.069.13t.094.113q1.538 1.538 1.538 3.713t-1.538 3.713T7.5 12.751t-3.713-1.538q-.052-.053-.113-.094t-.13-.069t-.141-.043t-.146-.014t-.146.014q-.073.015-.141.043t-.13.069t-.113.094q-.106.105-.163.243t-.057.287t.057.287t.163.243q1.977 1.978 4.773 1.978q2.413 0 4.217-1.474l8.753 8.753q.052.053.113.094t.13.069t.141.043t.146.014q.074 0 .146-.014q.073-.015.141-.043t.13-.069q.061-.041.113-.094q.053-.052.094-.113t.069-.13t.043-.141t.014-.146t-.014-.146q-.015-.073-.043-.141t-.069-.13q-.041-.061-.094-.113l-8.753-8.753q1.474-1.804 1.474-4.217M3.75 7.5q0-1.553 1.098-2.652Q5.947 3.75 7.5 3.75t2.652 1.098Q11.25 5.947 11.25 7.5q0 3.75-3.75 3.75T3.75 7.5");
+}
+</style><path class="pu9vk6bkv"/>`,
+		"fallback": "uix-solid:golf-ball-retriever",
+	});
+}
+
+export default Component;

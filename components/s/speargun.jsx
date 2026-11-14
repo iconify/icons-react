@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.bzwxafbgd {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("m22.03 9.47l-2-2q-.052-.053-.113-.094t-.13-.069t-.141-.043t-.146-.014q-.074 0-.146.014q-.073.015-.141.043t-.13.069q-.061.041-.113.094q-.106.105-.163.243T18.75 8t.057.287t.163.243l.719.72h-1.015q-.337-1.5-2.174-1.5h-10q-1.837 0-2.174 1.5H2.5q-.074 0-.146.014q-.073.015-.141.043t-.13.069t-.113.094q-.053.052-.094.113t-.069.13t-.043.141q-.014.072-.014.146t.014.146q.015.073.043.141t.069.13t.094.113q.052.053.113.094t.13.069t.141.043t.146.014h1.826q.301 1.34 1.799 1.483q-.052.172-.087.365L5.53 15.39q-.168.922.433 1.641q.6.719 1.537.719h.248q1.878 0 2.214-1.848l.508-2.792q.083-.455-.022-.86H16.5q1.837 0 2.174-1.5h1.015l-.719.72q-.106.105-.163.243T18.75 12t.057.287t.163.243q.052.053.113.094t.13.069t.141.043t.146.014t.146-.014q.073-.015.141-.043t.13-.069q.061-.041.113-.094l2-2q.106-.105.163-.243T22.25 10t-.057-.287t-.163-.243");
+}
+</style><path class="bzwxafbgd"/>`,
+		"fallback": "uix-solid:speargun",
+	});
+}
+
+export default Component;

@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.zbraculgb {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M8.375 1.75h7.25q2.123 0 3.624 1.501t1.501 3.624v6.25q0 2.123-1.501 3.624q-1.457 1.457-3.499 1.5V21.5q0 .074-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043t-.146.014t-.146-.014q-.073-.015-.141-.043t-.13-.069t-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141t-.014-.146v-3.25h-4.5v3.25q0 .074-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043T9 22.25t-.146-.014q-.073-.015-.141-.043t-.13-.069t-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141t-.014-.146v-3.251q-2.042-.043-3.499-1.5q-1.501-1.501-1.501-3.624v-6.25q0-2.123 1.501-3.624T8.375 1.75m-.087 4.538Q6.75 7.825 6.75 10t1.538 3.712Q9.825 15.25 12 15.25t3.712-1.538Q17.25 12.175 17.25 10t-1.538-3.712Q14.175 4.75 12 4.75T8.288 6.288");
+}
+</style><path class="zbraculgb"/>`,
+		"fallback": "uix-solid:energy-meter",
+	});
+}
+
+export default Component;

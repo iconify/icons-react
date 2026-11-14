@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.y2_ntftlm {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M3.216 8.883q-.966.75-.966 1.973v8.394q0 1.036.732 1.768t1.768.732h14.5q1.036 0 1.768-.732t.732-1.768v-8.394q0-1.223-.966-1.973l-7.25-5.639q-1.534-1.193-3.068 0zM11.25 17.5h1q.074 0 .146.014q.073.015.141.043t.13.069t.113.094q.053.052.094.113t.069.13t.043.141t.014.146t-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043t-.146.014h-3.5q-.074 0-.146-.014q-.073-.015-.141-.043t-.13-.069t-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141T8 18.25t.014-.146q.015-.073.043-.141t.069-.13q.041-.061.094-.113q.052-.053.113-.094t.13-.069t.141-.043t.146-.014h1v-3.75q0-.074.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043T10.5 13t.146.014q.073.015.141.043t.13.069t.113.094q.053.052.094.113t.069.13t.043.141t.014.146z");
+}
+</style><path class="y2_ntftlm"/>`,
+		"fallback": "uix-solid:shed-door-open",
+	});
+}
+
+export default Component;

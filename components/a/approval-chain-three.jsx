@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a_03-i67y {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M11.674 12.75h1.13q.219 1.491 1.337 2.609q1.391 1.391 3.359 1.391t3.359-1.391T22.25 12t-1.391-3.359T17.5 7.25t-3.359 1.391q-1.118 1.118-1.337 2.609h-1.13q-.337-1.5-2.174-1.5t-2.174 1.5H6.174Q5.837 9.75 4 9.75q-2.25 0-2.25 2.25T4 14.25q1.837 0 2.174-1.5h1.152q.337 1.5 2.174 1.5t2.174-1.5M17 12.439l1.72-1.719q.052-.053.113-.094t.13-.069t.141-.043t.146-.014t.146.014q.073.015.141.043t.13.069q.061.041.113.094q.106.105.163.243t.057.287t-.057.287t-.163.243l-2.25 2.25q-.052.053-.113.094t-.13.069t-.141.043t-.146.014t-.146-.014q-.073-.015-.141-.043t-.13-.069q-.061-.041-.113-.094l-1.25-1.25q-.053-.052-.094-.113t-.069-.13t-.043-.141T15 12.25t.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043t.146-.014t.146.014q.073.015.141.043t.13.069q.061.041.113.094z");
+}
+</style><path class="a_03-i67y"/>`,
+		"fallback": "uix-solid:approval-chain-three",
+	});
+}
+
+export default Component;

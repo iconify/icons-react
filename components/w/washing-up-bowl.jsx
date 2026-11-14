@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.qxt4a-ypg {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M18.215 10.25H21q.074 0 .146.014q.073.015.141.043t.13.069q.061.041.113.094q.053.052.094.113t.069.13t.043.141t.014.146q-.001 4.038-2.857 6.892q-2.855 2.855-6.893 2.855t-6.893-2.855Q2.251 15.038 2.25 11q0-.074.014-.146q.015-.073.043-.141t.069-.129t.093-.114t.114-.093q.062-.042.13-.07t.14-.043T3 10.25h2.969q-.203-1.316.799-2.485q1.164-1.359 2.776-1.138q.862-1.752 2.973-1.944q2.294-.208 3.469 1.662q1.513.43 2.091 1.97q.381 1.016.138 1.935m-10.703 0H16.6q.355-.655.072-1.408q-.345-.922-1.312-1.105q-.082-.016-.159-.049q-.077-.034-.145-.083q-.067-.05-.122-.113q-.055-.064-.095-.138q-.704-1.312-2.187-1.177t-1.938 1.552q-.023.071-.058.135t-.084.121t-.106.102t-.123.08t-.137.054t-.145.026t-.147-.002t-.143-.031q-1.108-.356-1.865.527q-.603.705-.394 1.509");
+}
+</style><path class="qxt4a-ypg"/>`,
+		"fallback": "uix-solid:washing-up-bowl",
+	});
+}
+
+export default Component;

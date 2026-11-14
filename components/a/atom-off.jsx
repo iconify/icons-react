@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ojpfxwbro {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M18.993 15.349q-.292.116-.596.219L8.432 5.603q.103-.304.219-.596Q9.936 1.75 12 1.75t3.349 3.257q.516 1.305.8 2.844q1.539.284 2.844.8Q22.25 9.936 22.25 12t-3.257 3.349M4.03 2.97l17 17q.053.052.094.113t.069.13t.043.141t.014.146q0 .074-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043t-.146.014q-.074 0-.146-.014q-.073-.015-.141-.043t-.13-.069q-.061-.041-.113-.094l-17-17q-.053-.052-.094-.113t-.069-.13t-.043-.141T2.75 3.5t.014-.146q.015-.073.043-.141t.069-.13t.094-.113q.052-.053.113-.094t.13-.069t.141-.043q.072-.014.146-.014t.146.014q.073.015.141.043t.13.069t.113.094m11.538 15.427L5.603 8.432q-.304.103-.596.219Q1.75 9.936 1.75 12t3.257 3.349q1.305.516 2.844.8q.284 1.539.8 2.844Q9.936 22.25 12 22.25t3.349-3.257q.116-.292.219-.596");
+}
+</style><path class="ojpfxwbro"/>`,
+		"fallback": "uix-solid:atom-off",
+	});
+}
+
+export default Component;

@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ta8k_o1nt {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M3.75 5v14q0 1.346.952 2.298T7 22.25h7.346q-.465-.298-.882-.714Q12 20.071 12 18q0-.386.051-.75H7q-.725 0-1.237.513q-.513.512-.513 1.237q0 .074-.014.146q-.015.073-.043.141t-.069.13q-.041.061-.094.113q-.052.053-.113.094t-.13.069t-.141.043t-.146.014t-.146-.014q-.073-.015-.141-.043t-.13-.069q-.061-.041-.113-.094q-.053-.052-.094-.113t-.069-.13t-.043-.141T3.75 19q0-1.346.952-2.298T7 15.75h5.519q.352-.693.945-1.286Q14.929 13 17 13h2q.655 0 1.25.147V2.5q0-.074-.014-.146q-.015-.073-.043-.141t-.069-.13t-.094-.113q-.052-.053-.113-.094t-.13-.069t-.141-.043t-.146-.014H7q-1.346 0-2.298.952T3.75 5M17 14.25q-3.75 0-3.75 3.75T17 21.75h2q3.75 0 3.75-3.75T19 14.25zM14.75 18q0-2.25 2.25-2.25T19.25 18T17 20.25T14.75 18m6.5 0q0 1.371-.835 1.906q.335-.785.335-1.906t-.335-1.906q.835.535.835 1.906M17 17q1 0 1 1t-1 1t-1-1t1-1");
+}
+</style><path class="ta8k_o1nt"/>`,
+		"fallback": "uix-solid:pension-ledger",
+	});
+}
+
+export default Component;

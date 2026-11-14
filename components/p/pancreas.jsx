@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.up2od96yc {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M4.448 8.46Q2.75 10.1 2.75 13q0 6.75 4.75 6.75q2.23 0 5.112-2.735q1.454-1.38 2.266-1.867q.842-.491 2.438-1.328q3.711-1.946 4.355-3.235q.617-1.233-.234-2.084q-.753-.753-2.1-.483l-4.454.99q-1.311.113-3.466-.805q-1.705-.725-2.783-.941q-2.478-.451-4.186 1.198m12.815 1.828q.141-.047.29-.036q.149.01.282.077q.134.067.232.18q.097.112.145.254q.023.07.032.143t.004.147t-.025.145q-.019.071-.052.137t-.079.125t-.101.107t-.12.085q-.064.036-.134.06q-7.056 2.351-11.114 3.028q-.147.024-.292-.009q-.146-.034-.267-.121q-.121-.086-.2-.213t-.104-.274q-.012-.073-.01-.146q.003-.074.019-.146q.017-.072.047-.139q.031-.068.074-.128t.096-.111q.054-.05.117-.089t.132-.066q.069-.026.142-.038q3.942-.657 10.886-2.972");
+}
+</style><path class="up2od96yc"/>`,
+		"fallback": "uix-solid:pancreas",
+	});
+}
+
+export default Component;

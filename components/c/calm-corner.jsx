@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b6pdlqbxs {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M1.686 17.96Q2.208 19.75 4 19.75h15q3.25 0 3.25-3.75q0-7.06-3.781-10.086q-.026-.02-.053-.038q-1.262-.842-3.144-.004q-.85.378-1.272.378q-.448 0-1.206-.618q-1.288-1.051-2.401-.874q-6.774.855-8.625 10.078q-.457 1.839-.082 3.124m15.294-4.536q.057.047.103.105q.047.057.081.122q.034.066.055.137t.028.144t-.001.147t-.03.144t-.057.136q-.036.064-.083.121t-.105.103q-.057.047-.122.081q-.066.034-.137.055t-.144.028q-.074.007-.147-.001q-.074-.008-.144-.03q-.071-.022-.136-.057q-.064-.036-.121-.083q-4.42-3.683-9.142-.928q-.064.037-.134.061t-.143.034t-.147.006q-.073-.005-.145-.024q-.071-.018-.138-.051q-.066-.032-.125-.077t-.108-.1t-.086-.119q-.075-.129-.095-.277t.018-.292t.128-.263t.219-.194q5.631-3.284 10.858 1.072");
+}
+</style><path class="b6pdlqbxs"/>`,
+		"fallback": "uix-solid:calm-corner",
+	});
+}
+
+export default Component;

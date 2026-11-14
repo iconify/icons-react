@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jnn-vdbvw {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M7.75 8.75V2.5q0-.074-.014-.146q-.015-.073-.043-.141t-.069-.13t-.094-.113q-.052-.053-.113-.094t-.13-.069t-.141-.043Q7.074 1.75 7 1.75t-.146.014t-.141.043t-.13.069t-.113.094q-.053.052-.094.113t-.069.13t-.043.141t-.014.146v6.256q-1.6.083-2.755 1.239Q2.25 11.24 2.25 13v4.5q0 1.76 1.245 3.005T6.5 21.75h11q1.76 0 3.005-1.245T21.75 17.5V13q0-1.76-1.245-3.005q-1.155-1.156-2.755-1.239V2.5q0-.074-.014-.146q-.015-.073-.043-.141t-.069-.13t-.094-.113q-.052-.053-.113-.094t-.13-.069t-.141-.043T17 1.75t-.146.014q-.073.015-.141.043t-.13.069q-.061.041-.113.094q-.053.052-.094.113t-.069.13t-.043.141t-.014.146v6.25zM15 11.5q.074 0 .146.014q.073.015.141.043t.13.069t.113.094q.053.052.094.113t.069.13t.043.141t.014.146Q15.75 19 9 19q-.147 0-.283-.055t-.24-.158h-.001l-.006-.006v-.001q-.106-.105-.163-.243t-.057-.287q0-6.75 6.75-6.75");
+}
+</style><path class="jnn-vdbvw"/>`,
+		"fallback": "uix-solid:dept-produce-sign",
+	});
+}
+
+export default Component;

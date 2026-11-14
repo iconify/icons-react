@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.j1ty98s-w {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M5.5 20.75q2.85 0 3.201-2.5H14q.063 0 .126-.011q.062-.01.122-.031t.115-.052t.105-.07q.049-.039.092-.087t.075-.1q.034-.054.058-.113q.024-.058.038-.12L17.099 7.25H19q.074 0 .146-.014q.073-.015.141-.043t.13-.069q.061-.041.113-.094q.053-.052.094-.113t.069-.13t.043-.141t.014-.146t-.014-.146q-.015-.073-.043-.141t-.069-.13q-.041-.061-.094-.113q-.052-.053-.113-.094t-.13-.069t-.141-.043T19 5.75h-6q-.074 0-.146.014q-.073.015-.141.043t-.13.069t-.113.094q-.053.052-.094.113t-.069.13t-.043.141t-.014.146t.014.146q.015.073.043.141t.069.13q.041.061.094.113q.052.053.113.094t.13.069t.141.043t.146.014h2.56l-2.159 9.5h-4.7q-.351-2.5-3.201-2.5q-3.25 0-3.25 3.25t3.25 3.25m9.75-3.25q0-3.25 3.25-3.25q1.346 0 2.298.952t.952 2.298t-.952 2.298t-2.298.952q-3.25 0-3.25-3.25");
+}
+</style><path class="j1ty98s-w"/>`,
+		"fallback": "uix-solid:scooter-rental",
+	});
+}
+
+export default Component;

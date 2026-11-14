@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uvh2dc16q.css';
+import '../../css/j/jrc-bsn6i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uvh2dc16q"/>`,
+		"content": `<path class="jrc-bsn6i"/>`,
 		"fallback": "tabler:barcode",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/flen3tbdj.css';
-import '../../css/r/rr-qpvb5s.css';
-import '../../css/x/xeenv-azh.css';
+import '../../css/a/ajlilwgdm.css';
+import '../../css/p/pxlu8njnh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="flen3tbdj"><circle class="rr-qpvb5s"/><path class="xeenv-azh"/></g>`,
+		"content": `<g class="flen3tbdj"><circle class="ajlilwgdm"/><path class="pxlu8njnh"/></g>`,
 		"fallback": "codex:search",
 	});
 }

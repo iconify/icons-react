@@ -1,11 +1,15 @@
 {
   "name": "@iconify-react/codex",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://icon-sets.iconify.design/codex/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
   "exports": {
+    "./activity": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/activity.jsx"
+    },
     "./add-background": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/add-background.jsx"
@@ -54,9 +58,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up.jsx"
     },
+    "./at-sign": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/at-sign.jsx"
+    },
+    "./audio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio.jsx"
+    },
+    "./bar-chart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bar-chart.jsx"
+    },
     "./bell": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bell.jsx"
+    },
+    "./bell-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-off.jsx"
     },
     "./bold": {
       "types": "./types/hqrkovbr.d.ts",
@@ -78,6 +98,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/border.jsx"
     },
+    "./bot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot.jsx"
+    },
     "./box": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/box.jsx"
@@ -97,6 +121,14 @@
     "./briefcase": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/briefcase.jsx"
+    },
+    "./broadcast": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/broadcast.jsx"
+    },
+    "./bug": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bug.jsx"
     },
     "./calendar": {
       "types": "./types/hqrkovbr.d.ts",
@@ -134,6 +166,26 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevron-up.jsx"
     },
+    "./circle-alert": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-alert.jsx"
+    },
+    "./circle-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-check.jsx"
+    },
+    "./circle-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-minus.jsx"
+    },
+    "./circle-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-plus.jsx"
+    },
+    "./circle-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-x.jsx"
+    },
     "./clipboard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard.jsx"
@@ -162,6 +214,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/color.jsx"
     },
+    "./command": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command.jsx"
+    },
+    "./compass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/compass.jsx"
+    },
     "./copy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy.jsx"
@@ -174,9 +234,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/credit-card.jsx"
     },
+    "./crop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crop.jsx"
+    },
     "./cross": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cross.jsx"
+    },
+    "./crown": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/crown.jsx"
     },
     "./curly-brackets": {
       "types": "./types/hqrkovbr.d.ts",
@@ -213,10 +281,6 @@
     "./direction-up-right": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/direction-up-right.jsx"
-    },
-    "./document": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/d/document.jsx"
     },
     "./dot-circle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -261,6 +325,14 @@
     "./filter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/filter.jsx"
+    },
+    "./fingerprint": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fingerprint.jsx"
+    },
+    "./flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flag.jsx"
     },
     "./folder": {
       "types": "./types/hqrkovbr.d.ts",
@@ -318,6 +390,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heading.jsx"
     },
+    "./headphones": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones.jsx"
+    },
     "./heart": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heart.jsx"
@@ -329,6 +405,10 @@
     "./home": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/home.jsx"
+    },
+    "./hourglass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hourglass.jsx"
     },
     "./html": {
       "types": "./types/hqrkovbr.d.ts",
@@ -357,6 +437,10 @@
     "./laptop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/laptop.jsx"
+    },
+    "./layers": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layers.jsx"
     },
     "./lightbulb": {
       "types": "./types/hqrkovbr.d.ts",
@@ -422,6 +506,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/microphone.jsx"
     },
+    "./microphone-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/microphone-off.jsx"
+    },
     "./minimize": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/minimize.jsx"
@@ -438,13 +526,29 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/moon.jsx"
     },
+    "./mouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mouse.jsx"
+    },
+    "./music": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music.jsx"
+    },
     "./mute": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mute.jsx"
     },
+    "./paperclip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paperclip.jsx"
+    },
     "./pause": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pause.jsx"
+    },
+    "./percent": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/percent.jsx"
     },
     "./phone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -453,6 +557,10 @@
     "./picture": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/picture.jsx"
+    },
+    "./pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin.jsx"
     },
     "./play": {
       "types": "./types/hqrkovbr.d.ts",
@@ -465,6 +573,14 @@
     "./plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus.jsx"
+    },
+    "./power": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/power.jsx"
+    },
+    "./printer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/printer.jsx"
     },
     "./question": {
       "types": "./types/hqrkovbr.d.ts",
@@ -486,6 +602,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/remove-background.jsx"
     },
+    "./repeat": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/repeat.jsx"
+    },
     "./replace": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/replace.jsx"
@@ -498,6 +618,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/save.jsx"
     },
+    "./scissors": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scissors.jsx"
+    },
     "./search": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/search.jsx"
@@ -505,6 +629,10 @@
     "./send": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/send.jsx"
+    },
+    "./server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/server.jsx"
     },
     "./settings": {
       "types": "./types/hqrkovbr.d.ts",
@@ -518,9 +646,33 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield.jsx"
     },
+    "./shuffle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shuffle.jsx"
+    },
     "./sidebar": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sidebar.jsx"
+    },
+    "./skip-back": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-back.jsx"
+    },
+    "./skip-forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-forward.jsx"
+    },
+    "./sliders": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sliders.jsx"
+    },
+    "./smartphone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smartphone.jsx"
+    },
+    "./smile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smile.jsx"
     },
     "./sort": {
       "types": "./types/hqrkovbr.d.ts",
@@ -578,6 +730,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text.jsx"
     },
+    "./thumbs-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-down.jsx"
+    },
+    "./thumbs-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-up.jsx"
+    },
     "./translate": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/translate.jsx"
@@ -585,6 +745,18 @@
     "./trash": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trash.jsx"
+    },
+    "./trending-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-down.jsx"
+    },
+    "./trending-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trending-up.jsx"
+    },
+    "./trophy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trophy.jsx"
     },
     "./twitter": {
       "types": "./types/hqrkovbr.d.ts",
@@ -626,9 +798,29 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/volume.jsx"
     },
+    "./wallet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wallet.jsx"
+    },
     "./warning": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/warning.jsx"
+    },
+    "./x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x.jsx"
+    },
+    "./zoom-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-in.jsx"
+    },
+    "./zoom-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zoom-out.jsx"
+    },
+    "./document": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/document.jsx"
     },
     "./*": "./*"
   },

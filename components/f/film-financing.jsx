@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.nr2kwkbiv {
+  d: path("M17 15h2a3 3 0 0 1 0 6h-2");
+}
+
+.o4i91uf9k {
+  d: path("M11.757 20.5H4.5q-.098 0-.196-.01q-.098-.009-.194-.028q-.097-.02-.191-.048q-.094-.029-.184-.066q-.091-.038-.178-.084q-.086-.046-.168-.101t-.158-.117t-.145-.132t-.132-.145t-.117-.158t-.101-.168q-.046-.087-.084-.178q-.037-.09-.066-.184q-.028-.094-.048-.191q-.019-.096-.028-.194T2.5 18.5v-9h15q.098 0 .196.01q.098.009.194.028q.097.02.191.048q.094.029.184.066q.091.038.178.084q.086.046.168.101t.158.117t.145.132t.132.145t.117.158t.101.168q.046.087.084.178q.037.09.066.184q.028.094.048.191q.019.096.028.194t.01.196v.672M2.5 9.5V6L18 3l.75 3.5z");
+}
+
+.pbrf5747u {
+  d: path("M14 18a3 3 0 1 0 6 0a3 3 0 1 0-6 0");
+}
+</style><g class="hntgybcog"><path class="o4i91uf9k"/><path class="pbrf5747u"/><path class="nr2kwkbiv"/></g>`,
+		"fallback": "uix:film-financing",
+	});
+}
+
+export default Component;

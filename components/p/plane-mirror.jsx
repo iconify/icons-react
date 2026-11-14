@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.r9dun0a4w {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M9 2.5h6A3.5 3.5 0 0 1 18.5 6v9a3.5 3.5 0 0 1-3.5 3.5H9A3.5 3.5 0 0 1 5.5 15V6A3.5 3.5 0 0 1 9 2.5m0 7L12.5 6M9 13.5L15.5 7M12 18.5v3m-3.5 0h7");
+}
+</style><path class="r9dun0a4w"/>`,
+		"fallback": "uix:plane-mirror",
+	});
+}
+
+export default Component;

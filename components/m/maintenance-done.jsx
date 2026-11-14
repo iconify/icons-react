@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.tnu8tdb8x {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M13.25 12.25L7 18.5A1.75 1.75 0 0 1 4.5 16l6.25-6.25a4.75 4.75 0 0 1 6.5-6L14 7l2 2l3.25-3.25a4.75 4.75 0 0 1-6 6.5m1.5 5.75l2 2L21 15.75");
+}
+</style><path class="tnu8tdb8x"/>`,
+		"fallback": "uix:maintenance-done",
+	});
+}
+
+export default Component;

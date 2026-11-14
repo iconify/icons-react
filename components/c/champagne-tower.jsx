@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.vgb3ci6xz {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M8.5 4h7a3.5 3 0 0 1-7 0M12 7v3.5m-2 0h4m-10.5 3h7a3.5 3 0 0 1-7 0m3.5 3v4m-2 0h4m4.5-7h7a3.5 3 0 0 1-7 0m3.5 3v4m-2 0h4");
+}
+</style><path class="vgb3ci6xz"/>`,
+		"fallback": "uix:champagne-tower",
+	});
+}
+
+export default Component;

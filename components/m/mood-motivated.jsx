@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.jh3mo2bil {
+  d: path("M15.069 20.23q-.708.379-1.487.575T12 21q-.16 0-.319-.008t-.318-.023t-.317-.039t-.314-.055q-.157-.031-.311-.07q-.155-.039-.308-.085t-.303-.1t-.297-.115t-.292-.129t-.285-.144t-.278-.157t-.269-.17q-.133-.089-.261-.184t-.252-.196q-.123-.102-.241-.209t-.231-.22t-.22-.231t-.209-.241q-.101-.124-.196-.252t-.184-.261q-.088-.132-.17-.269t-.157-.278t-.144-.285q-.068-.144-.129-.292q-.061-.147-.115-.297t-.1-.303t-.085-.308t-.07-.311t-.055-.314q-.023-.158-.039-.317q-.015-.159-.023-.318T5.5 14.5c0-2.5.75-4.25 2-5.75c.5 2 1.5 3 2.5 3.5c0-3.75.75-6.75 2-9.75c3.626 3.223 5.629 6.447 6.27 9.67M18 21v-6");
+}
+
+.mee2o7qts {
+  d: path("M15.5 17.5L18 15l2.5 2.5");
+}
+</style><g class="hntgybcog"><path class="jh3mo2bil"/><path class="mee2o7qts"/></g>`,
+		"fallback": "uix:mood-motivated",
+	});
+}
+
+export default Component;

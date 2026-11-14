@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.by-_qhekg {
+  d: path("M4 5.5C4 7 7.6 8.25 12 8.25S20 7 20 5.5M4 12c0 1.2 2.3 2.2 5.5 2.5m8.5 0c1.5 2 2.75 3.25 2.75 4.75a2.75 2.75 0 0 1-5.5 0c0-1.5 1.25-2.75 2.75-4.75");
+}
+
+.fjy9zxbhs {
+  d: path("M12.82 21.235q-.405.015-.82.015c-4.4 0-8-1.25-8-2.75v-13C4 4 7.6 2.75 12 2.75S20 4 20 5.5v7.055");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.vsuglgbtl {
+  d: path("M4 5.5C4 7 7.6 8.25 12 8.25S20 7 20 5.5M4 12c0 1.5 3.6 2.75 8 2.75c.82 0 1.612-.043 2.358-.124m5.556-2.227A1 1 0 0 0 20 12");
+}
+</style><g class="hntgybcog"><path class="fjy9zxbhs"/><path class="vsuglgbtl"/><path class="by-_qhekg"/></g>`,
+		"fallback": "uix:data-leak",
+	});
+}
+
+export default Component;

@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.he403gbvd {
+  d: path("M6.5 7.5h11A3.5 3.5 0 0 1 21 11v7a3.5 3.5 0 0 1-3.5 3.5h-11A3.5 3.5 0 0 1 3 18v-7a3.5 3.5 0 0 1 3.5-3.5m1 0L12 3l4.5 4.5M12 3h.01");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.kk5vh3qit {
+  d: path("M7.75 14.5a4.25 4.25 0 1 0 8.5 0a4.25 4.25 0 1 0-8.5 0");
+}
+
+.nqj-5nbcg {
+  d: path("M12 12v2.5l2 1");
+}
+</style><g class="hntgybcog"><path class="he403gbvd"/><path class="kk5vh3qit"/><path class="nqj-5nbcg"/></g>`,
+		"fallback": "uix:bank-hours",
+	});
+}
+
+export default Component;

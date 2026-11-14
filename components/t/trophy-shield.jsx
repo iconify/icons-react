@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.g0atuvv5h {
+  d: path("M9.5 8h5v2a2.5 2.5 0 0 1-5 0Zm2.5 4.5v3m-2 0h4");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.xkc8ejbjp {
+  d: path("M12 2.5L19.5 5v6c0 5-3.5 8.5-7.5 10.5c-4-2-7.5-5.5-7.5-10.5V5Z");
+}
+</style><g class="hntgybcog"><path class="xkc8ejbjp"/><path class="g0atuvv5h"/></g>`,
+		"fallback": "uix:trophy-shield",
+	});
+}
+
+export default Component;

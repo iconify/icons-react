@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.uz-m_1s9l {
+  d: path("M6 21v-1.5a6 6 0 0 1 12 0V21");
+}
+
+.w6k4libms {
+  d: path("M9 7.25a3 3 0 1 0 6 0a3 3 0 1 0-6 0m-6.5 3.5a2.25 2.25 0 1 0 4.5 0a2.25 2.25 0 1 0-4.5 0M2.5 21v-2q0-.181.02-.361q.02-.179.06-.356q.04-.176.099-.347t.137-.334t.173-.317t.208-.296t.238-.271q.127-.128.268-.242m5.217 1.808Q9 18.638 9 19m8-8.25a2.25 2.25 0 1 0 4.5 0a2.25 2.25 0 1 0-4.5 0M21.5 21v-2q0-.181-.02-.361q-.02-.179-.06-.356q-.04-.176-.099-.347t-.137-.334t-.173-.317t-.208-.296t-.238-.271q-.127-.128-.268-.242m-5.217 1.808Q15 18.638 15 19");
+}
+</style><g class="hntgybcog"><path class="w6k4libms"/><path class="uz-m_1s9l"/></g>`,
+		"fallback": "uix:group-therapy",
+	});
+}
+
+export default Component;

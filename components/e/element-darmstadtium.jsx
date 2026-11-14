@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.b1giyo3pl {
+  d: path("M6.875 2.5h10.25A4.375 4.375 0 0 1 21.5 6.875v10.25a4.375 4.375 0 0 1-4.375 4.375H6.875A4.375 4.375 0 0 1 2.5 17.125V6.875A4.375 4.375 0 0 1 6.875 2.5");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.j94-3p-mz {
+  d: path("M5.5 11h2a3.5 3.5 0 0 1 0 7h-2ZM18 14.25c-.5-.75-3.5-1-3.5.5c0 1.25 3.5 1 3.5 2.25c0 1.5-3 1.5-3.75.5M5.5 5.25V8m2.25-2.75V8m2.75-2.75a1 1.375 0 0 1 0 2.75a1 1.375 0 0 1 0-2.75");
+}
+</style><g class="hntgybcog"><path class="b1giyo3pl"/><path class="j94-3p-mz"/></g>`,
+		"fallback": "uix:element-darmstadtium",
+	});
+}
+
+export default Component;

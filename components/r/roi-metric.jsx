@@ -1,0 +1,37 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.f_1arkbit {
+  d: path("M2.5 14.5a6 6 0 1 0 12 0a6 6 0 1 0-12 0");
+}
+
+.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.jfbs43d9j {
+  d: path("M10 12.25q-.375-.75-1.5-.75c-1 0-1.5.5-1.5 1.25c0 1.5 3.25 1 3.25 2.75c0 .75-.75 1.25-1.75 1.25c-.75 0-1.5-.25-1.75-.75m1.75-5.75v1.25m0 5.25V18m3.75-9c1.75-4.5 8.25-6 9-1.25c.5 3.25-2.25 5.5-5 6");
+}
+
+.vzypl5bay {
+  d: path("m18 11.75l-1.75 2l2.25 1.5");
+}
+</style><g class="hntgybcog"><path class="f_1arkbit"/><path class="jfbs43d9j"/><path class="vzypl5bay"/></g>`,
+		"fallback": "uix:roi-metric",
+	});
+}
+
+export default Component;

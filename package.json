@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/struq",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://icon-sets.iconify.design/struq/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -106,9 +106,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/audience-draw.jsx"
     },
+    "./bell": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell.jsx"
+    },
+    "./bell-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-draw.jsx"
+    },
     "./blocked": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/blocked.jsx"
+    },
+    "./bookmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark.jsx"
+    },
+    "./bookmark-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-draw.jsx"
     },
     "./branch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -130,6 +146,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bug-draw.jsx"
     },
+    "./calculator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator.jsx"
+    },
+    "./calculator-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calculator-draw.jsx"
+    },
+    "./calendar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar.jsx"
+    },
+    "./calendar-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-draw.jsx"
+    },
     "./call": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/call.jsx"
@@ -138,6 +170,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/call-draw.jsx"
     },
+    "./camera": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera.jsx"
+    },
+    "./camera-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/camera-draw.jsx"
+    },
     "./campaign": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/campaign.jsx"
@@ -145,6 +185,14 @@
     "./campaign-draw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/campaign-draw.jsx"
+    },
+    "./cart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart.jsx"
+    },
+    "./cart-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cart-draw.jsx"
     },
     "./case": {
       "types": "./types/hqrkovbr.d.ts",
@@ -206,6 +254,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard-draw.jsx"
     },
+    "./clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock.jsx"
+    },
+    "./clock-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-draw.jsx"
+    },
     "./close": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/close.jsx"
@@ -249,6 +305,14 @@
     "./copy-draw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy-draw.jsx"
+    },
+    "./credit-card": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card.jsx"
+    },
+    "./credit-card-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/credit-card-draw.jsx"
     },
     "./customer": {
       "types": "./types/hqrkovbr.d.ts",
@@ -325,6 +389,10 @@
     "./error": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/error.jsx"
+    },
+    "./euro": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/euro.jsx"
     },
     "./expand": {
       "types": "./types/hqrkovbr.d.ts",
@@ -474,6 +542,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-word-draw.jsx"
     },
+    "./filter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter.jsx"
+    },
+    "./filter-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/filter-draw.jsx"
+    },
     "./folder": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder.jsx"
@@ -538,6 +614,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gauge-draw.jsx"
     },
+    "./globe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe.jsx"
+    },
+    "./globe-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-draw.jsx"
+    },
     "./goal": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/goal.jsx"
@@ -565,6 +649,14 @@
     "./headset-draw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/headset-draw.jsx"
+    },
+    "./heart": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart.jsx"
+    },
+    "./heart-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/heart-draw.jsx"
     },
     "./help": {
       "types": "./types/hqrkovbr.d.ts",
@@ -678,6 +770,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-ordered.jsx"
     },
+    "./loader": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loader.jsx"
+    },
+    "./loader-spin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/loader-spin.jsx"
+    },
     "./lock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock.jsx"
@@ -686,6 +786,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lock-draw.jsx"
     },
+    "./log-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log-in.jsx"
+    },
+    "./log-in-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/log-in-draw.jsx"
+    },
     "./mail": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail.jsx"
@@ -693,6 +801,26 @@
     "./mail-draw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail-draw.jsx"
+    },
+    "./map-pin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin.jsx"
+    },
+    "./map-pin-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-draw.jsx"
+    },
+    "./menu": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/menu.jsx"
+    },
+    "./mic": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic.jsx"
+    },
+    "./mic-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mic-draw.jsx"
     },
     "./minus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -734,6 +862,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/offline.jsx"
     },
+    "./package": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package.jsx"
+    },
+    "./package-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-draw.jsx"
+    },
     "./palette": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette.jsx"
@@ -753,6 +889,10 @@
     "./paste-draw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paste-draw.jsx"
+    },
+    "./pause": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pause.jsx"
     },
     "./pin": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1018,6 +1158,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sound-draw.jsx"
     },
+    "./sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles.jsx"
+    },
+    "./sparkles-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sparkles-draw.jsx"
+    },
+    "./star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star.jsx"
+    },
+    "./star-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-draw.jsx"
+    },
     "./step-current": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/step-current.jsx"
@@ -1098,6 +1254,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/theme-light-draw.jsx"
     },
+    "./thumbs-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-up.jsx"
+    },
+    "./thumbs-up-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thumbs-up-draw.jsx"
+    },
     "./timer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/timer.jsx"
@@ -1125,6 +1289,14 @@
     "./translate-draw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/translate-draw.jsx"
+    },
+    "./trend": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend.jsx"
+    },
+    "./trend-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trend-draw.jsx"
     },
     "./type": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1157,6 +1329,14 @@
     "./user": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user.jsx"
+    },
+    "./user-add": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-add.jsx"
+    },
+    "./user-add-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-add-draw.jsx"
     },
     "./user-draw": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1205,6 +1385,14 @@
     "./window-draw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/window-draw.jsx"
+    },
+    "./zap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap.jsx"
+    },
+    "./zap-draw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zap-draw.jsx"
     },
     "./*": "./*"
   },

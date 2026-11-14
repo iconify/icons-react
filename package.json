@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2066,6 +2066,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keras-wordmark.jsx"
     },
+    "./keycloak": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keycloak.jsx"
+    },
+    "./keycloak-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keycloak-wordmark.jsx"
+    },
     "./kibana": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kibana.jsx"
@@ -3206,6 +3214,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qodana.jsx"
     },
+    "./qodo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodo.jsx"
+    },
+    "./qodo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodo-wordmark.jsx"
+    },
     "./qt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qt.jsx"
@@ -3926,6 +3942,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/talos.jsx"
     },
+    "./tanstack": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tanstack.jsx"
+    },
+    "./tanstack-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tanstack-wordmark.jsx"
+    },
     "./taskade": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/taskade.jsx"
@@ -3997,6 +4021,10 @@
     "./terramate-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terramate-wordmark.jsx"
+    },
+    "./testinglibrary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/testinglibrary.jsx"
     },
     "./testrail": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vuw2p1vit.css';
+import '../../css/r/rtaxddpol.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vuw2p1vit"/>`,
+		"content": `<path class="rtaxddpol"/>`,
 		"fallback": "hugeicons:briefcase-07",
 	});
 }

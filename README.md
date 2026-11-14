@@ -11,6 +11,11 @@ Browse all icons: [preview Huge Icons on Iconify](https://icon-sets.iconify.desi
 ## Installation
 
 ```bash
+npm install gitlab:iconify-icons/react#hugeicons
+```
+
+or
+```bash
 npm install github:iconify/icons-react#hugeicons
 ```
 

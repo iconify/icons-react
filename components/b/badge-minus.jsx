@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pgtlrs60x.css';
+import '../../css/f/f7w31l30f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pgtlrs60x"/>`,
+		"content": `<path class="f7w31l30f"/>`,
 		"fallback": "hugeicons:badge-minus",
 	});
 }

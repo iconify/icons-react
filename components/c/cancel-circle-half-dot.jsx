@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hhax6sbqg.css';
+import '../../css/a/asp2-2t9j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hhax6sbqg"/>`,
+		"content": `<path class="asp2-2t9j"/>`,
 		"fallback": "hugeicons:cancel-circle-half-dot",
 	});
 }

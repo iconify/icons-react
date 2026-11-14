@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/f/fk99d_1fu.css';
-import '../../css/b/bij_adcel.css';
+import '../../css/x/x7-vg_jld.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="fk99d_1fu"/><path class="bij_adcel"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="fk99d_1fu"/><path class="x7-vg_jld"/></g>`,
 		"fallback": "hugeicons:calling-02",
 	});
 }

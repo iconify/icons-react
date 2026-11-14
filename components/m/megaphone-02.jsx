@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/o/ofqdnjbeo.css';
+import '../../css/f/fgjvgnb6s.css';
 import '../../css/a/apq205dwz.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="ofqdnjbeo"/><path class="apq205dwz"/></g>`,
+		"content": `<g class="hntgybcog"><path class="fgjvgnb6s"/><path class="apq205dwz"/></g>`,
 		"fallback": "hugeicons:megaphone-02",
 	});
 }

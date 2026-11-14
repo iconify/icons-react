@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/q/qkgp8-b-v.css';
-import '../../css/g/gc33i0baa.css';
+import '../../css/v/vw8ljybdn.css';
+import '../../css/e/eliwlw23c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="qkgp8-b-v"/><path class="gc33i0baa"/></g>`,
+		"content": `<g class="hntgybcog"><path class="vw8ljybdn"/><path class="eliwlw23c"/></g>`,
 		"fallback": "hugeicons:badge-pound-sterling",
 	});
 }

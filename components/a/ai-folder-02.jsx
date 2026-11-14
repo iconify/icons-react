@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rlw2aibwo.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/m/mi03g9veq.css';
+import '../../css/f/f93n38pwl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rlw2aibwo"/>`,
+		"content": `<g class="hntgybcog"><path class="mi03g9veq"/><path class="f93n38pwl"/></g>`,
 		"fallback": "hugeicons:ai-folder-02",
 	});
 }

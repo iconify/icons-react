@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/s/spidptl5w.css';
+import '../../css/o/omy4due_w.css';
 import '../../css/a/ay-kp8bpl.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="spidptl5w"/><path class="ay-kp8bpl"/></g>`,
+		"content": `<g class="hntgybcog"><path class="omy4due_w"/><path class="ay-kp8bpl"/></g>`,
 		"fallback": "hugeicons:piggy-bank",
 	});
 }

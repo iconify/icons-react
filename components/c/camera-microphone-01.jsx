@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/y/y9tr6bcfx.css';
-import '../../css/g/g0pf61plc.css';
+import '../../css/z/z0ihehbja.css';
 import '../../css/f/fwl6ucbbe.css';
 import '../../css/b/bjxwieloe.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="y9tr6bcfx"><path class="g0pf61plc"/><path class="fwl6ucbbe"/><path class="bjxwieloe"/></g>`,
+		"content": `<g class="y9tr6bcfx"><path class="z0ihehbja"/><path class="fwl6ucbbe"/><path class="bjxwieloe"/></g>`,
 		"fallback": "hugeicons:camera-microphone-01",
 	});
 }

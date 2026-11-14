@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/ddvgu8bvv.css';
-import '../../css/h/h8w7ikqqs.css';
-import '../../css/s/s8bhpdt9z.css';
-import '../../css/h/hhz-y4guz.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/m/muj0hvwdt.css';
+import '../../css/g/gi6sh4bxw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="h8w7ikqqs"/><path class="s8bhpdt9z"/><path class="hhz-y4guz"/></g>`,
+		"content": `<g class="hntgybcog"><path class="muj0hvwdt"/><path class="gi6sh4bxw"/></g>`,
 		"fallback": "hugeicons:search-dollar",
 	});
 }

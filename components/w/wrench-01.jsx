@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h01tyzbfu.css';
-import '../../css/v/v8t7a0big.css';
-import '../../css/q/qxv7eobba.css';
-import '../../css/t/tmt8sqbls.css';
+import '../../css/n/n3c8y6bel.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="h01tyzbfu"><path class="v8t7a0big"/><path class="qxv7eobba"/><path class="tmt8sqbls"/></g>`,
+		"content": `<path class="n3c8y6bel"/>`,
 		"fallback": "hugeicons:wrench-01",
 	});
 }

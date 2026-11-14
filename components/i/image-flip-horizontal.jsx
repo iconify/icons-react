@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uljo4f1yo.css';
+import '../../css/q/qy1acevxk.css';
 
-const viewBox = {"width":24,"height":25};
+const viewBox = {"width":24,"height":24};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uljo4f1yo"/>`,
+		"content": `<path class="qy1acevxk"/>`,
 		"fallback": "hugeicons:image-flip-horizontal",
 	});
 }

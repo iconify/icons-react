@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/j/j91cc0-oi.css';
-import '../../css/w/wz923xb7m.css';
+import '../../css/d/dvba2ybat.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="j91cc0-oi"/><path class="wz923xb7m"/></g>`,
+		"content": `<path class="dvba2ybat"/>`,
 		"fallback": "hugeicons:scan-line",
 	});
 }

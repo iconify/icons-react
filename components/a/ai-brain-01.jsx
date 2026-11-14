@@ -1,6 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wc4n74b5n.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/h/htj3e9bhs.css';
+import '../../css/t/txfxjqb6g.css';
+import '../../css/i/ixt95bbei.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wc4n74b5n"/>`,
+		"content": `<g class="hntgybcog"><path class="htj3e9bhs"/><path class="txfxjqb6g"/><path class="ixt95bbei"/></g>`,
 		"fallback": "hugeicons:ai-brain-01",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sobe6ub7g.css';
+import '../../css/w/wpik002ck.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sobe6ub7g"/>`,
+		"content": `<path class="wpik002ck"/>`,
 		"fallback": "hugeicons:gift-card-02",
 	});
 }

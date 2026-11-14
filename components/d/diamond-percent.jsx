@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/h/hjucsbbuf.css';
+import '../../css/s/sug7t4bis.css';
 import '../../css/p/pgq_abozv.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="hjucsbbuf"/><path class="pgq_abozv"/></g>`,
+		"content": `<g class="hntgybcog"><path class="sug7t4bis"/><path class="pgq_abozv"/></g>`,
 		"fallback": "hugeicons:diamond-percent",
 	});
 }

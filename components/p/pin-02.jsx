@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oj36n2brk.css';
+import '../../css/j/jtl2x5b8i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oj36n2brk"/>`,
+		"content": `<path class="jtl2x5b8i"/>`,
 		"fallback": "hugeicons:pin-02",
 	});
 }

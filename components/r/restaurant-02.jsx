@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kb-jlh--l.css';
+import '../../css/t/teq_nobwb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kb-jlh--l"/>`,
+		"content": `<path class="teq_nobwb"/>`,
 		"fallback": "hugeicons:restaurant-02",
 	});
 }

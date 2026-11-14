@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pr0v5zbta.css';
+import '../../css/r/re8k9pb6i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pr0v5zbta"/>`,
+		"content": `<path class="re8k9pb6i"/>`,
 		"fallback": "hugeicons:restaurant",
 	});
 }

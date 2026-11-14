@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/q0g9_xl5p.css';
+import '../../css/l/le9v28bsd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q0g9_xl5p"/>`,
+		"content": `<path class="le9v28bsd"/>`,
 		"fallback": "hugeicons:briefcase-conveyor-belt",
 	});
 }

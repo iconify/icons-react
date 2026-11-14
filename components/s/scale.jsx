@@ -2,8 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/f/facftvb6k.css';
-import '../../css/b/b0lbrwbnb.css';
-import '../../css/a/av59wqutr.css';
+import '../../css/u/u6ujmwbza.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><circle class="facftvb6k"/><path class="b0lbrwbnb"/><path clip-rule="evenodd" class="av59wqutr"/></g>`,
+		"content": `<g class="hntgybcog"><circle class="facftvb6k"/><path class="u6ujmwbza"/></g>`,
 		"fallback": "hugeicons:scale",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/o/ou7daylfg.css';
+import '../../css/y/y29n1wndq.css';
 import '../../css/s/so95n4gpp.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="ou7daylfg"/><path class="so95n4gpp"/></g>`,
+		"content": `<g class="hntgybcog"><path class="y29n1wndq"/><path class="so95n4gpp"/></g>`,
 		"fallback": "hugeicons:rupee-shield",
 	});
 }

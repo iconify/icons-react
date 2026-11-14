@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/ciq5eq_zu.css';
+import '../../css/f/faibrnbnl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ciq5eq_zu"/>`,
+		"content": `<path class="faibrnbnl"/>`,
 		"fallback": "hugeicons:circle-fading-plus",
 	});
 }

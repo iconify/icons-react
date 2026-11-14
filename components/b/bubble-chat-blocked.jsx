@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ezlqj9b5k.css';
+import '../../css/k/kjaxybc9d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ezlqj9b5k"/>`,
+		"content": `<path class="kjaxybc9d"/>`,
 		"fallback": "hugeicons:bubble-chat-blocked",
 	});
 }

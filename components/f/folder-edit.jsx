@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/l/lc-kr-ega.css';
-import '../../css/l/lsv8_vxxt.css';
+import '../../css/g/gu09wfb0p.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="lc-kr-ega"/><path class="lsv8_vxxt"/></g>`,
+		"content": `<path class="gu09wfb0p"/>`,
 		"fallback": "hugeicons:folder-edit",
 	});
 }

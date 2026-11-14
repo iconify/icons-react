@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/q/q2urjdbqv.css';
-import '../../css/s/s5bwrobcj.css';
+import '../../css/u/u9xtr9bvt.css';
+import '../../css/j/j9xgcu6bi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><circle class="q2urjdbqv"/><path class="s5bwrobcj"/></g>`,
+		"content": `<g class="hntgybcog"><path class="u9xtr9bvt"/><path class="j9xgcu6bi"/></g>`,
 		"fallback": "hugeicons:folder-clock",
 	});
 }

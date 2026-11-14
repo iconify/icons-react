@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
-import '../../css/t/tm5mzib6s.css';
-import '../../css/g/ge30fj9tu.css';
+import '../../css/v/vy5_7wcbp.css';
+import '../../css/t/txblek7-f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="tm5mzib6s"/><path class="ge30fj9tu"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="vy5_7wcbp"/><path class="txblek7-f"/></g>`,
 		"fallback": "hugeicons:chart-radar",
 	});
 }

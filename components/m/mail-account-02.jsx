@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/t/tc7hgrb-z.css';
-import '../../css/m/m90xkws6k.css';
-import '../../css/a/an1oj5iwf.css';
+import '../../css/i/ipq1z-bjh.css';
+import '../../css/w/wkem_ebde.css';
+import '../../css/p/pk8hibb5s.css';
+import '../../css/a/avc6w_f8t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="tc7hgrb-z"/><path class="m90xkws6k"/><path class="an1oj5iwf"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="wkem_ebde"/><path class="pk8hibb5s"/><path class="avc6w_f8t"/></g>`,
 		"fallback": "hugeicons:mail-account-02",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ljocc-b3w.css';
+import '../../css/k/kmq8itb1q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ljocc-b3w"/>`,
+		"content": `<path class="kmq8itb1q"/>`,
 		"fallback": "hugeicons:briefcase-08",
 	});
 }

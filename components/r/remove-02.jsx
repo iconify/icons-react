@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/ki60rr_rh.css';
+import '../../css/i/ie3p8absr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ki60rr_rh"/>`,
+		"content": `<path class="ie3p8absr"/>`,
 		"fallback": "hugeicons:remove-02",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/j2q6mpbnw.css';
+import '../../css/y/y3gb_ebil.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="j2q6mpbnw"/>`,
+		"content": `<path class="y3gb_ebil"/>`,
 		"fallback": "hugeicons:georgian-lari",
 	});
 }

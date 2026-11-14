@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/ssqmken7t.css';
+import '../../css/d/dbdl0_bzx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ssqmken7t"/>`,
+		"content": `<path class="dbdl0_bzx"/>`,
 		"fallback": "hugeicons:delete-03",
 	});
 }

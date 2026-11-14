@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/ddvgu8bvv.css';
-import '../../css/j/jvtjbnueh.css';
-import '../../css/j/jlop1lj9l.css';
+import '../../css/p/pq98g2brm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="jvtjbnueh"/><path class="jlop1lj9l"/></g>`,
+		"content": `<path class="pq98g2brm"/>`,
 		"fallback": "hugeicons:tiktok",
 	});
 }

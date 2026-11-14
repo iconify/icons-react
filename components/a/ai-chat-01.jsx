@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/d/ds497pb7g.css';
-import '../../css/g/gk9m-f-uu.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/b/bbugvpboz.css';
+import '../../css/w/wr4hlrpkz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="ds497pb7g"/><path class="gk9m-f-uu"/></g>`,
+		"content": `<g class="hntgybcog"><path class="bbugvpboz"/><path class="wr4hlrpkz"/></g>`,
 		"fallback": "hugeicons:ai-chat-01",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/l/l8pen_c_d.css';
-import '../../css/x/xfnkbmbfp.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/m/mqi99kbug.css';
+import '../../css/i/ib1iq7b9n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="l8pen_c_d"/><path class="xfnkbmbfp"/></g>`,
+		"content": `<g class="hntgybcog"><path class="mqi99kbug"/><path class="ib1iq7b9n"/></g>`,
 		"fallback": "hugeicons:ai-dna",
 	});
 }

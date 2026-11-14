@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h6rutybsh.css';
+import '../../css/h/htn04kbtx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h6rutybsh"/>`,
+		"content": `<path class="htn04kbtx"/>`,
 		"fallback": "hugeicons:labor",
 	});
 }

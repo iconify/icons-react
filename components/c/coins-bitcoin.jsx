@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/e/enxljlbeo.css';
+import '../../css/r/rhslctwfy.css';
 import '../../css/h/h785cebdi.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="enxljlbeo"/><path class="h785cebdi"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="rhslctwfy"/><path class="h785cebdi"/></g>`,
 		"fallback": "hugeicons:coins-bitcoin",
 	});
 }

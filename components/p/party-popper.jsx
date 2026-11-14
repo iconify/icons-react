@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/j/j5ryysb0v.css';
 import '../../css/w/wccisyhhx.css';
-import '../../css/g/gupjygfja.css';
+import '../../css/b/bx3sn2b1v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="j5ryysb0v"/><path class="wccisyhhx"/><path class="gupjygfja"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="j5ryysb0v"/><path class="wccisyhhx"/><path class="bx3sn2b1v"/></g>`,
 		"fallback": "hugeicons:party-popper",
 	});
 }

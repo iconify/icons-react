@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/s/shu3xdl9q.css';
-import '../../css/j/jmo57ab0a.css';
+import '../../css/n/nl-_zabes.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><circle class="shu3xdl9q"/><path class="jmo57ab0a"/></g>`,
+		"content": `<g class="hntgybcog"><circle class="shu3xdl9q"/><path class="nl-_zabes"/></g>`,
 		"fallback": "hugeicons:circle-x",
 	});
 }

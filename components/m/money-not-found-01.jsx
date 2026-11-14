@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/h/h2qzx2p8y.css';
+import '../../css/k/ko1opurpz.css';
 import '../../css/w/wber-hsua.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="h2qzx2p8y"/><path class="wber-hsua"/></g>`,
+		"content": `<g class="hntgybcog"><path class="ko1opurpz"/><path class="wber-hsua"/></g>`,
 		"fallback": "hugeicons:money-not-found-01",
 	});
 }

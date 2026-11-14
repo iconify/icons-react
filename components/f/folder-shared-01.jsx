@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/m/ml3vkx56u.css';
-import '../../css/d/dc2c0qyzp.css';
-import '../../css/w/w83s4xb3u.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/s/sp3ymr0mh.css';
+import '../../css/a/al7hqgb2r.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="ml3vkx56u"/><path class="dc2c0qyzp"/><path class="w83s4xb3u"/></g>`,
+		"content": `<g class="hntgybcog"><path class="sp3ymr0mh"/><path class="al7hqgb2r"/></g>`,
 		"fallback": "hugeicons:folder-shared-01",
 	});
 }

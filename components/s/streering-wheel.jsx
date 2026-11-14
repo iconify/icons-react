@@ -1,8 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/g/g4zs08s-q.css';
-import '../../css/b/b4hqccc4j.css';
+import '../../css/j/jx0p4fbya.css';
+import '../../css/t/toimykbjv.css';
+import '../../css/s/shu3xdl9q.css';
+import '../../css/e/eez3o3xfa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="g4zs08s-q"/><path class="b4hqccc4j"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="toimykbjv"/><circle class="shu3xdl9q"/><path class="eez3o3xfa"/></g>`,
 		"fallback": "hugeicons:streering-wheel",
 	});
 }

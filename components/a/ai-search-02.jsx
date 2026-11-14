@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/m/monncbbwg.css';
-import '../../css/r/r10bd4dnt.css';
+import '../../css/m/muj0hvwdt.css';
+import '../../css/p/pc_acccew.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="monncbbwg"/><path class="r10bd4dnt"/></g>`,
+		"content": `<g class="hntgybcog"><path class="muj0hvwdt"/><path class="pc_acccew"/></g>`,
 		"fallback": "hugeicons:ai-search-02",
 	});
 }

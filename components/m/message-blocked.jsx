@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/q/qpt6zbbqs.css';
-import '../../css/u/un-z_fbmw.css';
+import '../../css/n/n_i39v4gj.css';
+import '../../css/l/lwpkskbct.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="qpt6zbbqs"/><path class="un-z_fbmw"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="n_i39v4gj"/><path class="lwpkskbct"/></g>`,
 		"fallback": "hugeicons:message-blocked",
 	});
 }

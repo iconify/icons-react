@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/drmj1obvs.css';
+import '../../css/b/brefd2wyk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="drmj1obvs"/>`,
+		"content": `<path class="brefd2wyk"/>`,
 		"fallback": "hugeicons:remove-square",
 	});
 }

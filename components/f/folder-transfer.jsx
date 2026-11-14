@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ieuaz4n3q.css';
+import '../../css/s/s30cxiwcn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ieuaz4n3q"/>`,
+		"content": `<path class="s30cxiwcn"/>`,
 		"fallback": "hugeicons:folder-transfer",
 	});
 }

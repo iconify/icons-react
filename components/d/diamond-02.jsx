@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/i/i39swlb4j.css';
-import '../../css/w/w76zkvm7e.css';
+import '../../css/n/nowda5nca.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="i39swlb4j"/><path class="w76zkvm7e"/></g>`,
+		"content": `<path class="nowda5nca"/>`,
 		"fallback": "hugeicons:diamond-02",
 	});
 }

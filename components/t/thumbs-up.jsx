@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wvllrb36k.css';
+import '../../css/e/ecpwv1b6f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wvllrb36k"/>`,
+		"content": `<path class="ecpwv1b6f"/>`,
 		"fallback": "hugeicons:thumbs-up",
 	});
 }

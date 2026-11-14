@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/v/vr_l94bnf.css';
-import '../../css/y/y8um-mbmg.css';
+import '../../css/s/svik4_j5o.css';
+import '../../css/c/clg1nab_j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="vr_l94bnf"/><path class="y8um-mbmg"/></g>`,
+		"content": `<g class="hntgybcog"><path class="svik4_j5o"/><path class="clg1nab_j"/></g>`,
 		"fallback": "hugeicons:receipt-pound-sterling",
 	});
 }

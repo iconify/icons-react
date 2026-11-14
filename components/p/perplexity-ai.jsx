@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/j/j3en9kcin.css';
-import '../../css/e/etuznobyf.css';
+import '../../css/u/uwulr1vsm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="j3en9kcin"/><path class="etuznobyf"/></g>`,
+		"content": `<g class="hntgybcog"><path class="j3en9kcin"/><path class="uwulr1vsm"/></g>`,
 		"fallback": "hugeicons:perplexity-ai",
 	});
 }

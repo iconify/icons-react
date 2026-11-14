@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/g_2xg0b1u.css';
+import '../../css/w/wr2y-vbdw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="g_2xg0b1u"/>`,
+		"content": `<path class="wr2y-vbdw"/>`,
 		"fallback": "hugeicons:pie-chart-09",
 	});
 }

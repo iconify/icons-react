@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/w_k01bbpb.css';
+import '../../css/t/tc0vp3bcq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w_k01bbpb"/>`,
+		"content": `<path class="tc0vp3bcq"/>`,
 		"fallback": "hugeicons:sliders-horizontal",
 	});
 }

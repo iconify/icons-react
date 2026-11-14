@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bbmlbccky.css';
+import '../../css/x/x7ih7z60z.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bbmlbccky"/>`,
+		"content": `<path class="x7ih7z60z"/>`,
 		"fallback": "hugeicons:logout-02",
 	});
 }

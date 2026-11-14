@@ -1,8 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/q/q-xakqboy.css';
-import '../../css/v/vq_hmhzfq.css';
+import '../../css/b/b48nsibwb.css';
+import '../../css/j/jqgwa20rl.css';
+import '../../css/s/s8h64qb8d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="q-xakqboy"/><path class="vq_hmhzfq"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="b48nsibwb"/><path class="jqgwa20rl"/><path class="s8h64qb8d"/></g>`,
 		"fallback": "hugeicons:setting-error-04",
 	});
 }

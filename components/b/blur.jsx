@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
-import '../../css/c/c7xa9sbtx.css';
+import '../../css/l/l26tovybb.css';
 import '../../css/v/voorfjv1s.css';
 import '../../css/l/l8hkuabxm.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="c7xa9sbtx"/><path class="voorfjv1s"/><path class="l8hkuabxm"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="l26tovybb"/><path class="voorfjv1s"/><path class="l8hkuabxm"/></g>`,
 		"fallback": "hugeicons:blur",
 	});
 }

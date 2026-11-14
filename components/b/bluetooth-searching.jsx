@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o-8_t8frx.css';
+import '../../css/i/iefp4vbnt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o-8_t8frx"/>`,
+		"content": `<path class="iefp4vbnt"/>`,
 		"fallback": "hugeicons:bluetooth-searching",
 	});
 }

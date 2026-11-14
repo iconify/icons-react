@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/k/kuy1kvb6r.css';
-import '../../css/b/b883-jluz.css';
+import '../../css/w/wht68ernk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="kuy1kvb6r"/><path class="b883-jluz"/></g>`,
+		"content": `<path class="wht68ernk"/>`,
 		"fallback": "hugeicons:folder-add",
 	});
 }

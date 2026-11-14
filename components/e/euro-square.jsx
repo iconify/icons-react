@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
-import '../../css/x/xvj31lbcb.css';
-import '../../css/z/zcbzj27xp.css';
+import '../../css/s/s2tjblm1s.css';
+import '../../css/v/vrxkl4bye.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="xvj31lbcb"/><path class="zcbzj27xp"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="s2tjblm1s"/><path class="vrxkl4bye"/></g>`,
 		"fallback": "hugeicons:euro-square",
 	});
 }

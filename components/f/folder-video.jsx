@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/d/dzrxlf1os.css';
-import '../../css/f/fxugh4b3u.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/j/j-oxkogyv.css';
+import '../../css/h/hsv7e4b8d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="dzrxlf1os"/><path class="fxugh4b3u"/></g>`,
+		"content": `<g class="hntgybcog"><path class="j-oxkogyv"/><path class="hsv7e4b8d"/></g>`,
 		"fallback": "hugeicons:folder-video",
 	});
 }

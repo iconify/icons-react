@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/n/nfxwups2m.css';
+import '../../css/g/gff8i19vw.css';
 import '../../css/f/fhmjgx_zw.css';
 import '../../css/g/g6wm6g5mh.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="nfxwups2m"/><path class="fhmjgx_zw"/><path class="g6wm6g5mh"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="gff8i19vw"/><path class="fhmjgx_zw"/><path class="g6wm6g5mh"/></g>`,
 		"fallback": "hugeicons:card-exchange-01",
 	});
 }

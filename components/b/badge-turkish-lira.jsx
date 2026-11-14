@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/q/qkgp8-b-v.css';
-import '../../css/z/zy-03mb2l.css';
+import '../../css/v/vw8ljybdn.css';
+import '../../css/p/pffk4hbru.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="qkgp8-b-v"/><path class="zy-03mb2l"/></g>`,
+		"content": `<g class="hntgybcog"><path class="vw8ljybdn"/><path class="pffk4hbru"/></g>`,
 		"fallback": "hugeicons:badge-turkish-lira",
 	});
 }

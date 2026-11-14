@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rxhvmirsz.css';
+import '../../css/m/mr-9cvk0g.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rxhvmirsz"/>`,
+		"content": `<path class="mr-9cvk0g"/>`,
 		"fallback": "hugeicons:table-lamp-01",
 	});
 }

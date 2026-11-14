@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/q/q3wi6uwqm.css';
-import '../../css/f/fvd7ocb9d.css';
+import '../../css/z/z0-2mfieg.css';
+import '../../css/y/yz_jegb5q.css';
 import '../../css/s/sn7cxmbyk.css';
 import '../../css/v/v0trjrv3o.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="q3wi6uwqm"/><path class="fvd7ocb9d"/><path class="sn7cxmbyk"/><path class="v0trjrv3o"/></g>`,
+		"content": `<g class="hntgybcog"><path class="z0-2mfieg"/><path class="yz_jegb5q"/><path class="sn7cxmbyk"/><path class="v0trjrv3o"/></g>`,
 		"fallback": "hugeicons:album-02",
 	});
 }

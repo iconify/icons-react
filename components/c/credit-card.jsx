@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/ddvgu8bvv.css';
-import '../../css/m/mxnayikft.css';
-import '../../css/l/l688-_boc.css';
-import '../../css/r/rw6ho_bav.css';
+import '../../css/v/v8dx7ab2d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="mxnayikft"/><path class="l688-_boc"/><path class="rw6ho_bav"/></g>`,
+		"content": `<path class="v8dx7ab2d"/>`,
 		"fallback": "hugeicons:credit-card",
 	});
 }

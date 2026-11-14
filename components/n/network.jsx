@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/d/ddvgu8bvv.css';
-import '../../css/n/n1frsfbsd.css';
+import '../../css/a/a9rfl214j.css';
 import '../../css/a/asf-l12yr.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="n1frsfbsd"/><path class="asf-l12yr"/></g>`,
+		"content": `<g class="ddvgu8bvv"><path class="a9rfl214j"/><path class="asf-l12yr"/></g>`,
 		"fallback": "hugeicons:network",
 	});
 }

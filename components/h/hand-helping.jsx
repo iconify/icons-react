@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/y/yuydnlagw.css';
+import '../../css/p/plf9uybrx.css';
 import '../../css/g/gxfcybl7l.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="yuydnlagw"/><path class="gxfcybl7l"/></g>`,
+		"content": `<g class="hntgybcog"><path class="plf9uybrx"/><path class="gxfcybl7l"/></g>`,
 		"fallback": "hugeicons:hand-helping",
 	});
 }

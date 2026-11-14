@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/e/e2b4x00yh.css';
-import '../../css/q/qysem7bon.css';
+import '../../css/s/s7a7p8b1y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="e2b4x00yh"/><path class="qysem7bon"/></g>`,
+		"content": `<g class="hntgybcog"><path class="e2b4x00yh"/><path class="s7a7p8b1y"/></g>`,
 		"fallback": "hugeicons:waiters",
 	});
 }

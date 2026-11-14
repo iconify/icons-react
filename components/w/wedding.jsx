@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/d/ddvgu8bvv.css';
 import '../../css/l/l8c-d__iy.css';
 import '../../css/r/r35d-sbgn.css';
-import '../../css/k/k173jie9k.css';
+import '../../css/h/hffrr9bsm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><circle class="l8c-d__iy"/><circle class="r35d-sbgn"/><path class="k173jie9k"/></g>`,
+		"content": `<g class="ddvgu8bvv"><circle class="l8c-d__iy"/><circle class="r35d-sbgn"/><path class="hffrr9bsm"/></g>`,
 		"fallback": "hugeicons:wedding",
 	});
 }

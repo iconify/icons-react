@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s78duf93g.css';
+import '../../css/u/u-crgbb2x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s78duf93g"/>`,
+		"content": `<path class="u-crgbb2x"/>`,
 		"fallback": "hugeicons:briefcase-09",
 	});
 }

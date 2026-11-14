@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/s/ssh2mccsr.css';
-import '../../css/s/szcqc6hpb.css';
-import '../../css/b/bpuqtn53z.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/i/i1ztvptby.css';
+import '../../css/i/ib1bldbbn.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="ssh2mccsr"/><path class="szcqc6hpb"/><path class="bpuqtn53z"/></g>`,
+		"content": `<g class="hntgybcog"><path class="i1ztvptby"/><path class="ib1bldbbn"/></g>`,
 		"fallback": "hugeicons:address-book",
 	});
 }

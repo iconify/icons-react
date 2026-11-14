@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zfqfntvxo.css';
+import '../../css/b/b02yss95b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zfqfntvxo"/>`,
+		"content": `<path class="b02yss95b"/>`,
 		"fallback": "hugeicons:russian-ruble",
 	});
 }

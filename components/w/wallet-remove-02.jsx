@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/z/ztr1hloqh.css';
-import '../../css/z/zz6iqrbuv.css';
+import '../../css/l/lxrwqtbut.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="ztr1hloqh"/><path class="zz6iqrbuv"/></g>`,
+		"content": `<g class="hntgybcog"><path class="ztr1hloqh"/><path class="lxrwqtbut"/></g>`,
 		"fallback": "hugeicons:wallet-remove-02",
 	});
 }

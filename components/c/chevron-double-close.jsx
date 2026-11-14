@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x6bk2e-by.css';
+import '../../css/v/veyi8bc9h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x6bk2e-by"/>`,
+		"content": `<path class="veyi8bc9h"/>`,
 		"fallback": "hugeicons:chevron-double-close",
 	});
 }

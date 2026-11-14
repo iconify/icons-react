@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/l/lhszwxb7f.css';
+import '../../css/w/wnlc9-o5o.css';
 import '../../css/u/uklsy3_6m.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="lhszwxb7f"/><path class="uklsy3_6m"/></g>`,
+		"content": `<g class="hntgybcog"><path class="wnlc9-o5o"/><path class="uklsy3_6m"/></g>`,
 		"fallback": "hugeicons:square-square",
 	});
 }

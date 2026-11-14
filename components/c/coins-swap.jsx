@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/ztdm3ybgh.css';
+import '../../css/p/pv7ahwbcz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ztdm3ybgh"/>`,
+		"content": `<path class="pv7ahwbcz"/>`,
 		"fallback": "hugeicons:coins-swap",
 	});
 }

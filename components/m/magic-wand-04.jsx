@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jv_ezp8gy.css';
+import '../../css/a/ag2u3nb2m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jv_ezp8gy"/>`,
+		"content": `<path class="ag2u3nb2m"/>`,
 		"fallback": "hugeicons:magic-wand-04",
 	});
 }

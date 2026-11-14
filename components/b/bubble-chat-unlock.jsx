@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/n/njvarwbry.css';
-import '../../css/n/n4n24xbkn.css';
+import '../../css/d/ddvgu8bvv.css';
+import '../../css/a/ao6h7dxtx.css';
+import '../../css/o/o_csmu0xf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="njvarwbry"/><path class="n4n24xbkn"/></g>`,
+		"content": `<g class="ddvgu8bvv"><path class="ao6h7dxtx"/><path class="o_csmu0xf"/></g>`,
 		"fallback": "hugeicons:bubble-chat-unlock",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/e/e8zylybpx.css';
+import '../../css/m/mq97gmbbt.css';
 import '../../css/w/wyt8hgbsx.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="e8zylybpx"/><path class="wyt8hgbsx"/></g>`,
+		"content": `<g class="hntgybcog"><path class="mq97gmbbt"/><path class="wyt8hgbsx"/></g>`,
 		"fallback": "hugeicons:chart-candlestick",
 	});
 }

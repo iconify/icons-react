@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
-import '../../css/q/qjjjy4boz.css';
+import '../../css/h/hqsur_bpt.css';
 import '../../css/m/mw0po8bwv.css';
 import '../../css/i/i7y0tbbcq.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="qjjjy4boz"/><path class="mw0po8bwv"/><path class="i7y0tbbcq"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="hqsur_bpt"/><path class="mw0po8bwv"/><path class="i7y0tbbcq"/></g>`,
 		"fallback": "hugeicons:new-office",
 	});
 }

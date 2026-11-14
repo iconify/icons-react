@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/d/dn7tk1h8a.css';
-import '../../css/r/r59y2ubhf.css';
+import '../../css/d/da-iglb7v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="dn7tk1h8a"/><path class="r59y2ubhf"/></g>`,
+		"content": `<path class="da-iglb7v"/>`,
 		"fallback": "hugeicons:bookmark-check-02",
 	});
 }

@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/k/kkk-qh3mo.css';
-import '../../css/g/g9-v_lbfl.css';
+import '../../css/z/zo96n54an.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="kkk-qh3mo"/><path class="g9-v_lbfl"/></g>`,
+		"content": `<path class="zo96n54an"/>`,
 		"fallback": "hugeicons:dollar-01",
 	});
 }

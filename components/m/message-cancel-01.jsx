@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gxsr6dk8j.css';
+import '../../css/w/wk3w14b0t.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gxsr6dk8j"/>`,
+		"content": `<path class="wk3w14b0t"/>`,
 		"fallback": "hugeicons:message-cancel-01",
 	});
 }

@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/t/tz70rrb9c.css';
-import '../../css/s/sbf0mdb_x.css';
-import '../../css/k/ksody8b7h.css';
+import '../../css/f/fu6vqt9py.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="tz70rrb9c"/><path class="sbf0mdb_x"/><path class="ksody8b7h"/></g>`,
+		"content": `<path class="fu6vqt9py"/>`,
 		"fallback": "hugeicons:bookmark-remove-01",
 	});
 }

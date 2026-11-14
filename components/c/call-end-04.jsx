@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/ddvgu8bvv.css';
-import '../../css/d/dbedrlbtx.css';
-import '../../css/w/wtb09z7cz.css';
+import '../../css/t/t-jf2nb1b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="dbedrlbtx"/><path class="wtb09z7cz"/></g>`,
+		"content": `<path class="t-jf2nb1b"/>`,
 		"fallback": "hugeicons:call-end-04",
 	});
 }

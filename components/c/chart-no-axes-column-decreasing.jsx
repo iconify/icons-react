@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fppphsa7r.css';
+import '../../css/z/zrypu5btz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fppphsa7r"/>`,
+		"content": `<path class="zrypu5btz"/>`,
 		"fallback": "hugeicons:chart-no-axes-column-decreasing",
 	});
 }

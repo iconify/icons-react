@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
 import '../../css/g/giasez0sn.css';
-import '../../css/n/n9jcxlbrp.css';
+import '../../css/v/vk9-vrx6u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="giasez0sn"/><path class="n9jcxlbrp"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="giasez0sn"/><path class="vk9-vrx6u"/></g>`,
 		"fallback": "hugeicons:pie-chart-01",
 	});
 }

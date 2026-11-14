@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/elcyv1bxf.css';
+import '../../css/i/ipq1z-bjh.css';
+import '../../css/p/pzeogml0q.css';
+import '../../css/l/l-u631b5i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="elcyv1bxf"/>`,
+		"content": `<g class="ipq1z-bjh"><path class="pzeogml0q"/><path class="l-u631b5i"/></g>`,
 		"fallback": "hugeicons:comment-block-02",
 	});
 }

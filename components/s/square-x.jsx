@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/eef02kbca.css';
+import '../../css/p/pv17p37qt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="eef02kbca"/>`,
+		"content": `<path class="pv17p37qt"/>`,
 		"fallback": "hugeicons:square-x",
 	});
 }

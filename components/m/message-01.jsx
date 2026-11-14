@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/ddvgu8bvv.css';
-import '../../css/r/ryt1_kg8m.css';
-import '../../css/f/fdvahlowc.css';
+import '../../css/r/r_pimdbbi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="ryt1_kg8m"/><path class="fdvahlowc"/></g>`,
+		"content": `<path class="r_pimdbbi"/>`,
 		"fallback": "hugeicons:message-01",
 	});
 }

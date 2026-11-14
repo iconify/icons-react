@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d2kgcopuq.css';
+import '../../css/q/qhtg36b7u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d2kgcopuq"/>`,
+		"content": `<path class="qhtg36b7u"/>`,
 		"fallback": "hugeicons:pie-chart-02",
 	});
 }

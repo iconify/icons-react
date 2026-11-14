@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zz-epqbtc.css';
+import '../../css/g/g_ihokb3j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zz-epqbtc"/>`,
+		"content": `<path class="g_ihokb3j"/>`,
 		"fallback": "hugeicons:folder-kanban",
 	});
 }

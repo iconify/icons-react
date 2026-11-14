@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/ztx86cb2k.css';
+import '../../css/j/jx0p4fbya.css';
+import '../../css/v/vl95o3b3u.css';
+import '../../css/h/hy1izb-rv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ztx86cb2k"/>`,
+		"content": `<g class="jx0p4fbya"><path class="vl95o3b3u"/><path class="hy1izb-rv"/></g>`,
 		"fallback": "hugeicons:call-ringing-01",
 	});
 }

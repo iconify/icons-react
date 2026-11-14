@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/d/dgugneb_n.css';
+import '../../css/j/j3-denbmb.css';
 import '../../css/c/cwo6nccmi.css';
 import '../../css/q/q0lmkjq4i.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="dgugneb_n"/><path class="cwo6nccmi"/><path class="q0lmkjq4i"/></g>`,
+		"content": `<g class="hntgybcog"><path class="j3-denbmb"/><path class="cwo6nccmi"/><path class="q0lmkjq4i"/></g>`,
 		"fallback": "hugeicons:money-remove-01",
 	});
 }

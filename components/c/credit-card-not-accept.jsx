@@ -1,9 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/l/li-zi3elj.css';
-import '../../css/b/bw511z_pe.css';
-import '../../css/d/dfnr2jbpz.css';
+import '../../css/l/liwx7id7y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="li-zi3elj"/><path class="bw511z_pe"/><path class="dfnr2jbpz"/></g>`,
+		"content": `<path class="liwx7id7y"/>`,
 		"fallback": "hugeicons:credit-card-not-accept",
 	});
 }

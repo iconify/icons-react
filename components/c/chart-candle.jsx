@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dmiz98b7m.css';
+import '../../css/s/sh86o1w7q.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dmiz98b7m"/>`,
+		"content": `<path class="sh86o1w7q"/>`,
 		"fallback": "hugeicons:chart-candle",
 	});
 }

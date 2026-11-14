@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/i/illcy4sad.css';
+import '../../css/e/e7au9bb5q.css';
 import '../../css/t/t1ec3k4sy.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="illcy4sad"/><path class="t1ec3k4sy"/></g>`,
+		"content": `<g class="hntgybcog"><path class="e7au9bb5q"/><path class="t1ec3k4sy"/></g>`,
 		"fallback": "hugeicons:unfold-more-down",
 	});
 }

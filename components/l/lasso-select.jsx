@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/s/s_tr8_b_s.css';
+import '../../css/q/q39gv_bkl.css';
 import '../../css/r/r3yzx8bla.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="s_tr8_b_s"/><path class="r3yzx8bla"/></g>`,
+		"content": `<g class="hntgybcog"><path class="q39gv_bkl"/><path class="r3yzx8bla"/></g>`,
 		"fallback": "hugeicons:lasso-select",
 	});
 }

@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
 import '../../css/n/nh-ps30pw.css';
-import '../../css/s/sm6bksbrd.css';
+import '../../css/v/vdriiwb9m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="nh-ps30pw"/><path class="sm6bksbrd"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="nh-ps30pw"/><path class="vdriiwb9m"/></g>`,
 		"fallback": "hugeicons:chart-evaluation",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p4vogwb8h.css';
+import '../../css/f/fj_h01bsj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p4vogwb8h"/>`,
+		"content": `<path class="fj_h01bsj"/>`,
 		"fallback": "hugeicons:add-square",
 	});
 }

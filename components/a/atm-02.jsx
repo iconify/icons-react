@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/q/qbbfvybck.css';
-import '../../css/b/bgc9xcc4x.css';
+import '../../css/a/apceaccaw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="qbbfvybck"/><path class="bgc9xcc4x"/></g>`,
+		"content": `<g class="hntgybcog"><path class="qbbfvybck"/><path class="apceaccaw"/></g>`,
 		"fallback": "hugeicons:atm-02",
 	});
 }

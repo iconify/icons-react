@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l5aw5cciq.css';
+import '../../css/b/bv_4w2mzc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l5aw5cciq"/>`,
+		"content": `<path class="bv_4w2mzc"/>`,
 		"fallback": "hugeicons:ban",
 	});
 }

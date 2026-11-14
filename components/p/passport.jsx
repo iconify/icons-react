@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/t/tcke7pbqg.css';
-import '../../css/y/y-qjg-szy.css';
-import '../../css/c/cnngty1vp.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/e/etzv95ivj.css';
+import '../../css/d/dhaor6i2u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="tcke7pbqg"/><path class="y-qjg-szy"/><path class="cnngty1vp"/></g>`,
+		"content": `<g class="hntgybcog"><path class="etzv95ivj"/><path class="dhaor6i2u"/></g>`,
 		"fallback": "hugeicons:passport",
 	});
 }

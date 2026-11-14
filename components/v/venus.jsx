@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v7gofpb_x.css';
+import '../../css/y/yo_vfi-1j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v7gofpb_x"/>`,
+		"content": `<path class="yo_vfi-1j"/>`,
 		"fallback": "hugeicons:venus",
 	});
 }

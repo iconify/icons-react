@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/b/b4q8hn6zn.css';
+import '../../css/t/tgqrqzq7p.css';
 import '../../css/z/z78z6ac7w.css';
 import '../../css/r/r5aur-b7n.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="b4q8hn6zn"/><path class="z78z6ac7w"/><path class="r5aur-b7n"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="tgqrqzq7p"/><path class="z78z6ac7w"/><path class="r5aur-b7n"/></g>`,
 		"fallback": "hugeicons:circle-dollar-sign",
 	});
 }

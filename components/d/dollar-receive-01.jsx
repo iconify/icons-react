@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ipq1z-bjh.css';
-import '../../css/o/o_x1zk9ws.css';
-import '../../css/o/ox74_8b7r.css';
+import '../../css/w/wam2n5bje.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="o_x1zk9ws"/><path class="ox74_8b7r"/></g>`,
+		"content": `<path class="wam2n5bje"/>`,
 		"fallback": "hugeicons:dollar-receive-01",
 	});
 }

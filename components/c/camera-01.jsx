@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/z/zk6m5lngz.css';
+import '../../css/d/dhw2-5_mu.css';
 import '../../css/n/ncss8tx5f.css';
 import '../../css/c/cb8u71hty.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="zk6m5lngz"/><path class="ncss8tx5f"/><path class="cb8u71hty"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="dhw2-5_mu"/><path class="ncss8tx5f"/><path class="cb8u71hty"/></g>`,
 		"fallback": "hugeicons:camera-01",
 	});
 }

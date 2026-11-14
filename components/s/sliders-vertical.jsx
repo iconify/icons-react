@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l40035c0i.css';
+import '../../css/y/y6ttxdkqm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l40035c0i"/>`,
+		"content": `<path class="y6ttxdkqm"/>`,
 		"fallback": "hugeicons:sliders-vertical",
 	});
 }

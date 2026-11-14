@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fstfmcwnr.css';
+import '../../css/t/t7-upabru.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fstfmcwnr"/>`,
+		"content": `<path class="t7-upabru"/>`,
 		"fallback": "hugeicons:cloud-server",
 	});
 }

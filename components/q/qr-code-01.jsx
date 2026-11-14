@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bxbl4ccqw.css';
+import '../../css/f/fmz_-_bep.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bxbl4ccqw"/>`,
+		"content": `<path class="fmz_-_bep"/>`,
 		"fallback": "hugeicons:qr-code-01",
 	});
 }

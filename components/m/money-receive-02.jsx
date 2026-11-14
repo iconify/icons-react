@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
 import '../../css/p/pgjt86b_x.css';
 import '../../css/j/j-xixqece.css';
-import '../../css/c/cbn7vebrq.css';
+import '../../css/n/nggqn1b0d.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="pgjt86b_x"/><path class="j-xixqece"/><path class="cbn7vebrq"/></g>`,
+		"content": `<g class="hntgybcog"><path class="pgjt86b_x"/><path class="j-xixqece"/><path class="nggqn1b0d"/></g>`,
 		"fallback": "hugeicons:money-receive-02",
 	});
 }

@@ -1,9 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jx0p4fbya.css';
-import '../../css/e/eh311nzoy.css';
-import '../../css/f/fjk1_yb_p.css';
-import '../../css/i/iqlx6k-bs.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/p/pbrurftxq.css';
+import '../../css/t/tn4hw5lgp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="eh311nzoy"/><path class="fjk1_yb_p"/><path class="iqlx6k-bs"/></g>`,
+		"content": `<g class="hntgybcog"><path class="pbrurftxq"/><path class="tn4hw5lgp"/></g>`,
 		"fallback": "hugeicons:job-search",
 	});
 }

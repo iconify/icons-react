@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/x_dzm0xfk.css';
+import '../../css/g/godkknb2n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x_dzm0xfk"/>`,
+		"content": `<path class="godkknb2n"/>`,
 		"fallback": "hugeicons:cancel-circle",
 	});
 }

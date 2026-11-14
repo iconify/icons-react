@@ -1,8 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hntgybcog.css';
-import '../../css/o/o00t5vblz.css';
-import '../../css/x/x6epjg-xb.css';
+import '../../css/i/ipq1z-bjh.css';
+import '../../css/p/pvkc1k-jx.css';
+import '../../css/g/gg604n2bm.css';
+import '../../css/z/za12y0ykl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="o00t5vblz"/><path class="x6epjg-xb"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="pvkc1k-jx"/><path class="gg604n2bm"/><path class="za12y0ykl"/></g>`,
 		"fallback": "hugeicons:message-delay-02",
 	});
 }

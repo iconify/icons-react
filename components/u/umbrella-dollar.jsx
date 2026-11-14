@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/i/ipq1z-bjh.css';
-import '../../css/q/qwntkab6t.css';
+import '../../css/t/trq020aoc.css';
 import '../../css/i/in9uiwghv.css';
 import '../../css/t/tfmz6fzjb.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ipq1z-bjh"><path class="qwntkab6t"/><path class="in9uiwghv"/><path class="tfmz6fzjb"/></g>`,
+		"content": `<g class="ipq1z-bjh"><path class="trq020aoc"/><path class="in9uiwghv"/><path class="tfmz6fzjb"/></g>`,
 		"fallback": "hugeicons:umbrella-dollar",
 	});
 }

@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/ddvgu8bvv.css';
-import '../../css/n/nme9ebbkd.css';
-import '../../css/q/qjk36ew4n.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/u/uqkfw-bek.css';
+import '../../css/o/oq9456kmp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ddvgu8bvv"><path class="nme9ebbkd"/><path class="qjk36ew4n"/></g>`,
+		"content": `<g class="hntgybcog"><path class="uqkfw-bek"/><path class="oq9456kmp"/></g>`,
 		"fallback": "hugeicons:artificial-intelligence-04",
 	});
 }

@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jx0p4fbya.css';
 import '../../css/w/websu8mzr.css';
-import '../../css/r/r-f9yjp0n.css';
+import '../../css/m/mi4g9kzvv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="jx0p4fbya"><path class="websu8mzr"/><path class="r-f9yjp0n"/></g>`,
+		"content": `<g class="jx0p4fbya"><path class="websu8mzr"/><path class="mi4g9kzvv"/></g>`,
 		"fallback": "hugeicons:yen-circle",
 	});
 }

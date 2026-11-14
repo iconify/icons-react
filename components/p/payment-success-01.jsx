@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/d/dgugneb_n.css';
+import '../../css/j/j3-denbmb.css';
 import '../../css/x/x141tmu0b.css';
 import '../../css/t/tvgnlnb2f.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><path class="dgugneb_n"/><path class="x141tmu0b"/><path class="tvgnlnb2f"/></g>`,
+		"content": `<g class="hntgybcog"><path class="j3-denbmb"/><path class="x141tmu0b"/><path class="tvgnlnb2f"/></g>`,
 		"fallback": "hugeicons:payment-success-01",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jp7kilijg.css';
+import '../../css/s/sjnijabwv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jp7kilijg"/>`,
+		"content": `<path class="sjnijabwv"/>`,
 		"fallback": "hugeicons:ai-voice-generator",
 	});
 }

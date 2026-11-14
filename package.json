@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon-plain",
   "type": "module",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "homepage": "https://icon-sets.iconify.design/devicon-plain/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1566,6 +1566,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/keras-wordmark.jsx"
     },
+    "./keycloak": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keycloak.jsx"
+    },
+    "./keycloak-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/keycloak-wordmark.jsx"
+    },
     "./kibana": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kibana.jsx"
@@ -2486,6 +2494,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qodana-wordmark.jsx"
     },
+    "./qodo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodo.jsx"
+    },
+    "./qodo-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodo-wordmark.jsx"
+    },
     "./quarkus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quarkus.jsx"
@@ -2993,6 +3009,10 @@
     "./terraform-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terraform-wordmark.jsx"
+    },
+    "./testinglibrary": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/testinglibrary.jsx"
     },
     "./testrail-wordmark": {
       "types": "./types/hqrkovbr.d.ts",

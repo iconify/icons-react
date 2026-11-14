@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -8142,6 +8142,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hyperdx.jsx"
     },
+    "./hyperframes": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hyperframes.jsx"
+    },
     "./hyperskill": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hyperskill.jsx"
@@ -10253,6 +10257,10 @@
     "./localxpose": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/localxpose.jsx"
+    },
+    "./locatorjs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/locatorjs.jsx"
     },
     "./lockheed-martin": {
       "types": "./types/hqrkovbr.d.ts",
@@ -12746,6 +12754,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/octoprint.jsx"
     },
+    "./octopus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octopus.jsx"
+    },
     "./octopus-deploy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/octopus-deploy.jsx"
@@ -12834,6 +12846,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/omarchy.jsx"
     },
+    "./omniroute": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/omniroute.jsx"
+    },
     "./onedev": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/onedev.jsx"
@@ -12901,6 +12917,10 @@
     "./open-containers-initiative": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/open-containers-initiative.jsx"
+    },
+    "./open-design": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/open-design.jsx"
     },
     "./open-notebook": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19305,6 +19325,10 @@
     "./vegas": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vegas.jsx"
+    },
+    "./vellum": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vellum.jsx"
     },
     "./velocity": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.fy9ndx26i {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M7 20.5V12a5 5 0 0 1 10 0v8.5m-12.5 0h5m5 0h5");
+}
+</style><path class="fy9ndx26i"/>`,
+		"fallback": "uix-sharp:pet-horse-cover",
+	});
+}
+
+export default Component;

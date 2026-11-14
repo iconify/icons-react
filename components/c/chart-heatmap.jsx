@@ -1,0 +1,34 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.e9_wheb8f {
+  fill: currentColor;
+  d: path("M17 2.5h4.5V7H17ZM9.75 9.75h4.5v4.5h-4.5Zm0 7.25h4.5v4.5h-4.5Z");
+}
+
+.m7ekf0b1t {
+  d: path("M2.5 2.5H7V7H2.5Zm7.25 0h4.5V7h-4.5ZM2.5 9.75H7v4.5H2.5Zm14.5 0h4.5v4.5H17ZM2.5 17H7v4.5H2.5ZM17 17h4.5v4.5H17Z");
+}
+
+.ulnmmdpxh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+</style><g class="ulnmmdpxh"><path class="m7ekf0b1t"/><path class="e9_wheb8f"/></g>`,
+		"fallback": "uix-sharp:chart-heatmap",
+	});
+}
+
+export default Component;

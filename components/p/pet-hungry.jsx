@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.qreraqjsg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M15.423 13.25H5.5q-.133.002-.265-.02q-.131-.021-.257-.066q-.125-.044-.241-.11t-.218-.152t-.188-.187t-.152-.217t-.112-.241T4 12L2.5 5.5h16L17 12q-.021.124-.062.242t-.101.228t-.138.209t-.171.182q-.092.085-.198.152q-.105.068-.221.117q-.115.049-.237.078q-.122.03-.247.039M16.5 17h3.25a1 1 0 1 1 1 1a1 1 0 1 1-1 1H16.5a1 1 0 1 1-1-1a1 1 0 1 1 1-1Z");
+}
+</style><path class="qreraqjsg"/>`,
+		"fallback": "uix-sharp:pet-hungry",
+	});
+}
+
+export default Component;

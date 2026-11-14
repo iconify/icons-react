@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.d03fh2vga {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("m12 21l-5-4l-3.75-2.5l2.25-3l-.75-8l4.75 4h5l4.75-4l-.75 8l2.25 3L17 17Zm-2.5-9h.01m4.99 0h.01M12 17h.01");
+}
+</style><path class="d03fh2vga"/>`,
+		"fallback": "uix-sharp:arctic-fox",
+	});
+}
+
+export default Component;

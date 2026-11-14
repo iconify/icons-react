@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.goiz_9b_e {
+  d: path("M6.551 19.782a9.5 9.5 0 1 1 10.898 0M12 2.5v2.75");
+}
+
+.ulnmmdpxh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.uufo7ossd {
+  d: path("M8.5 15.5c0-5 2.5-7.25 7.25-7.25c0 4.75-2.25 7.25-7.25 7.25Zm0 0l-1 1");
+}
+</style><g class="ulnmmdpxh"><path class="goiz_9b_e"/><path class="uufo7ossd"/></g>`,
+		"fallback": "uix-sharp:thermostat-eco",
+	});
+}
+
+export default Component;

@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.otktvbccj {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M2.25 13.75a8.5 8.5 0 1 1 16.5 0M10.5 11.5L15.75 9m-5.25 2.5h.01m3.99 8H19m-2-2l2 2l-2 2m4.5-5V22");
+}
+</style><path class="otktvbccj"/>`,
+		"fallback": "uix-sharp:data-speed-cap",
+	});
+}
+
+export default Component;

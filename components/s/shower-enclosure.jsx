@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.h_22c47dk {
+  d: path("M12 3v2.5M8.5 9a3.5 3.5 0 0 1 7 0Zm0 3.5V15m3.5-1.5v4m3.5-5V15");
+}
+
+.j_psw1y4g {
+  d: path("M3 3h18v18H3Z");
+}
+
+.ulnmmdpxh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+</style><g class="ulnmmdpxh"><path class="j_psw1y4g"/><path class="h_22c47dk"/></g>`,
+		"fallback": "uix-sharp:shower-enclosure",
+	});
+}
+
+export default Component;

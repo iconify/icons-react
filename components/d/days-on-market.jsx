@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jb74eqbnn {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M3.5 4.5h17v17h-17Zm4.5-2v4m8-4v4M3.5 9h17M7 12v6m3-6v6m3-6v6m3-6v6m-10.5-.5l12-5");
+}
+</style><path class="jb74eqbnn"/>`,
+		"fallback": "uix-sharp:days-on-market",
+	});
+}
+
+export default Component;

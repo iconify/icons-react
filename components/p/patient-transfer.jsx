@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.e_p_2qq0u {
+  d: path("M3 11v10m0-5.5h16.5c1.1 0 2 .9 2 2V21M3 18.75h18.5M5.5 9c2-5.5 11-5.5 13 0");
+}
+
+.hety6lbul {
+  d: path("M16.25 8.25L18.5 9l.75-2.25");
+}
+
+.ulnmmdpxh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+</style><g class="ulnmmdpxh"><path class="e_p_2qq0u"/><path class="hety6lbul"/></g>`,
+		"fallback": "uix-sharp:patient-transfer",
+	});
+}
+
+export default Component;

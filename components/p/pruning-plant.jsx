@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.eindkcblu {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M5.5 20.25V5.75m0 7.75Q2 13.5 2 10q3.5 0 3.5 3.5Zm0-5Q5.5 5 9 5q0 3.5-3.5 3.5Zm5.5 9.25a2 2 0 1 0 4 0a2 2 0 1 0-4 0Zm6.5 0a2 2 0 1 0 4 0a2 2 0 1 0-4 0ZM14 16l6.75-11.5M18.5 16L11.75 4.5");
+}
+</style><path class="eindkcblu"/>`,
+		"fallback": "uix-sharp:pruning-plant",
+	});
+}
+
+export default Component;

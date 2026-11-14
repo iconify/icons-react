@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.jyzunwllk {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M16 3.5V11m0 8v1.5m3-7.5v4h-6v-4ZM8 3.5V5m0 8v7.5M11 7v4H5V7Z");
+}
+</style><path class="jyzunwllk"/>`,
+		"fallback": "uix-sharp:adjust-vertical",
+	});
+}
+
+export default Component;

@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.ljwxsxqdp {
+  d: path("M4.5 13.5a2 2 0 1 0 4 0a2 2 0 1 0-4 0Zm7 0a2 2 0 1 0 4 0a2 2 0 1 0-4 0Zm4.25 8l2.75-5.75l2.75 5.75M17 19.25h3");
+}
+
+.ulnmmdpxh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.wrbolrb5a {
+  d: path("M16.48 13.5H2.5v-3q0-.098.019-.195t.057-.188t.093-.173q.054-.081.124-.151t.151-.124q.082-.055.173-.093t.188-.057T3.5 9.5l3-.5L9 4.5h6L18.5 9l2 .5q.098 0 .195.019t.188.057t.173.093q.081.054.151.124t.124.151q.055.082.093.173t.057.188t.019.195v3h-1.02");
+}
+</style><g class="ulnmmdpxh"><path class="wrbolrb5a"/><path class="ljwxsxqdp"/></g>`,
+		"fallback": "uix-sharp:car-automatic",
+	});
+}
+
+export default Component;

@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.t2ularbsg {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+  d: path("M11.882 17.794A10 10 0 0 1 9 17.5c-3.5-1-4.25-4-3.75-7.25L3.5 9l1.75-1.25C6 5.5 9.5 5 10.5 8q.75 3 4.5 3l5.5-2l-1.071 3.214M10 17.75V21M7.75 9h.01M18 21v-6m-2.5 2.5L18 15l2.5 2.5");
+}
+</style><path class="t2ularbsg"/>`,
+		"fallback": "uix-sharp:canary-release",
+	});
+}
+
+export default Component;

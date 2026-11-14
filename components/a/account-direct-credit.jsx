@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.mtmi1abmz {
+  d: path("M12.7 21.5H4.5v-19h15v10.1M8.5 2.5v19m3-14.5h4m5.5 8l-5.25 5.25");
+}
+
+.ulnmmdpxh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.w1jhd3b_q {
+  d: path("M15.5 16.25v4.25h4.25");
+}
+</style><g class="ulnmmdpxh"><path class="mtmi1abmz"/><path class="w1jhd3b_q"/></g>`,
+		"fallback": "uix-sharp:account-direct-credit",
+	});
+}
+
+export default Component;

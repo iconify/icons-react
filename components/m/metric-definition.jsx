@@ -1,0 +1,33 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.peoy72buf {
+  d: path("M11.7 21H2.5V3h19v9.2M6 6.75h5");
+}
+
+.q7bonc3ya {
+  d: path("M7.5 15.5v-6l-3 4h4m.75-2.25q0-.086.008-.172t.026-.169q.016-.085.041-.167t.058-.162q.033-.079.074-.155t.088-.147q.048-.072.102-.138q.055-.067.116-.127q.06-.061.127-.116q.066-.054.138-.102q.071-.048.147-.088q.076-.041.155-.074q.08-.033.162-.058t.167-.041t.169-.026T11 9.5q.086 0 .172.008t.169.026q.085.016.167.041t.162.058q.079.033.155.074t.147.088q.072.048.138.102q.067.055.127.116q.061.06.116.127q.054.066.102.138q.048.071.088.147q.041.076.074.155q.033.08.058.162t.041.167t.026.169t.008.172c0 1.75-3.5 2.5-3.5 4.25h2.403M18 16c-1.25-1-2.5-1.25-3.5-1v5.75c1-.25 2.25 0 3.5.75c1.25-.75 2.5-1 3.5-.75V15c-1-.25-2.25 0-3.5 1Zm0 0v5.5");
+}
+
+.ulnmmdpxh {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-miterlimit: 3.5;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+</style><g class="ulnmmdpxh"><path class="peoy72buf"/><path class="q7bonc3ya"/></g>`,
+		"fallback": "uix-sharp:metric-definition",
+	});
+}
+
+export default Component;

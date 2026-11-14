@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/arcticons",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://icon-sets.iconify.design/arcticons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-SA-4.0",
@@ -36498,9 +36498,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mull.jsx"
     },
-    "./mullvadvpn": {
+    "./mullvad-vpn": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/m/mullvadvpn.jsx"
+      "default": "./components/m/mullvad-vpn.jsx"
     },
     "./mullwegde": {
       "types": "./types/hqrkovbr.d.ts",
@@ -46442,9 +46442,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/recon.jsx"
     },
-    "./record-club": {
+    "./record-club-alt": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/r/record-club.jsx"
+      "default": "./components/r/record-club-alt.jsx"
     },
     "./record-you": {
       "types": "./types/hqrkovbr.d.ts",
@@ -55590,13 +55590,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/toqla.jsx"
     },
+    "./tor-browser-alpha": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tor-browser-alpha.jsx"
+    },
     "./torbrowser": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/torbrowser.jsx"
-    },
-    "./torbrowser-alpha": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/t/torbrowser-alpha.jsx"
     },
     "./torch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -63182,6 +63182,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mtofrance.jsx"
     },
+    "./mullvadvpn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mullvadvpn.jsx"
+    },
     "./nekogotchi-alt2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nekogotchi-alt2.jsx"
@@ -63294,6 +63298,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/reactiontraining.jsx"
     },
+    "./record-club": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/record-club.jsx"
+    },
     "./redditsync": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/redditsync.jsx"
@@ -63381,6 +63389,10 @@
     "./todolist": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/todolist.jsx"
+    },
+    "./torbrowser-alpha": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/torbrowser-alpha.jsx"
     },
     "./tui-poland": {
       "types": "./types/hqrkovbr.d.ts",

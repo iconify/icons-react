@@ -1,0 +1,34 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.hntgybcog {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
+}
+
+.uppnxmbwx {
+  d: path("M6 9.3C6 8.3 6.8 7.5 7.8 7.5H16.2C17.2 7.5 18 8.3 18 9.3V9.5C18 12.8137 15.3137 15.5 12 15.5C8.6863 15.5 6 12.8137 6 9.5V9.3Z");
+}
+
+.yx35psemd {
+  d: path("M14.25 15.0621V17C14.25 17.8 13.7 18.25 12.9 18.25L12 18.25L11.1 18.25C10.3 18.25 9.75 17.8 9.75 17V15.0621M12 18.25V22M9.25 2V7.5M14.75 2V7.5");
+  opacity: var(--svg-opacity--0-5, 0.5);
+}
+</style><g class="hntgybcog"><path class="yx35psemd"/><path class="uppnxmbwx"/></g>`,
+		"fallback": "solar:plug-line-duotone",
+	});
+}
+
+export default Component;

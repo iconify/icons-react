@@ -1,0 +1,32 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.idvrsgb5k {
+  fill: currentColor;
+  d: path("M12.5859 21.4215C12.3099 22.0723 12.1715 22.3981 12 22.3981C11.8285 22.3981 11.6901 22.0723 11.4141 21.4215L9.49414 16.8951L15.3398 14.9264L12.5859 21.4215Z");
+}
+
+.imh7yi4mv {
+  fill: currentColor;
+  d: path("M16.123 13.0797L8.90723 15.5104L7.25 11.6022H16.75L16.123 13.0797Z");
+}
+
+.qvefezbby {
+  fill: currentColor;
+  d: path("M12 1.60217C15.7279 1.60217 18.75 4.62427 18.75 8.35217C18.75 9.80217 18.1 10.6022 17 10.6022H7C5.9 10.6022 5.25 9.80217 5.25 8.35217C5.25 4.62427 8.2721 1.60217 12 1.60217Z");
+}
+</style><path class="idvrsgb5k"/><path class="imh7yi4mv"/><path class="qvefezbby"/>`,
+		"fallback": "solar:ice-cream-cone-bold",
+	});
+}
+
+export default Component;

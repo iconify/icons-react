@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.61",
+  "version": "1.0.62",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -1301,6 +1301,10 @@
     "./cannabis-off": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cannabis-off.jsx"
+    },
+    "./cap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cap.jsx"
     },
     "./captions": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3678,6 +3682,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-hub.jsx"
     },
+    "./graph-ring": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-ring.jsx"
+    },
     "./graph-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-star.jsx"
@@ -4261,6 +4269,10 @@
     "./layout-grid-circles": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/layout-grid-circles.jsx"
+    },
+    "./layout-grid-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-grid-plus.jsx"
     },
     "./layout-list": {
       "types": "./types/hqrkovbr.d.ts",

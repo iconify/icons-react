@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/l5q0cbblq.css';
+import '../../css/n/n7f57udbr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="l5q0cbblq"/>`,
+		"content": `<path class="n7f57udbr"/>`,
 		"fallback": "selfhst:audiodeck-light",
 	});
 }

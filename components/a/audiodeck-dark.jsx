@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yasmpbimd.css';
+import '../../css/w/wi7--db1i.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yasmpbimd"/>`,
+		"content": `<path class="wi7--db1i"/>`,
 		"fallback": "selfhst:audiodeck-dark",
 	});
 }

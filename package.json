@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -5533,6 +5533,14 @@
     "./dokuwiki": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dokuwiki.jsx"
+    },
+    "./dokuwiki-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dokuwiki-dark.jsx"
+    },
+    "./dokuwiki-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dokuwiki-light.jsx"
     },
     "./dolibarr": {
       "types": "./types/hqrkovbr.d.ts",
@@ -11978,6 +11986,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/kometa-light.jsx"
     },
+    "./komga": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/komga.jsx"
+    },
     "./komga-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/komga-dark.jsx"
@@ -13762,6 +13774,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/malcolm-networking.jsx"
     },
+    "./malcolm-networking-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/malcolm-networking-dark.jsx"
+    },
+    "./malcolm-networking-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/malcolm-networking-light.jsx"
+    },
     "./maloja": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/maloja.jsx"
@@ -15257,6 +15277,14 @@
     "./minuspod": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/minuspod.jsx"
+    },
+    "./minuspod-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minuspod-dark.jsx"
+    },
+    "./minuspod-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/minuspod-light.jsx"
     },
     "./mirotalk": {
       "types": "./types/hqrkovbr.d.ts",

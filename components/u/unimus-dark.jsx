@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gei358h8v.css';
+import '../../css/b/botwy-b2l.css';
+import '../../css/i/icimvxwqo.css';
+import '../../css/j/j9bcembrm.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gei358h8v"/>`,
+		"content": `<path class="botwy-b2l"/><path class="icimvxwqo"/><path class="j9bcembrm"/>`,
 		"fallback": "selfhst:unimus-dark",
 	});
 }

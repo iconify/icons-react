@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o-s51kssr.css';
-import '../../css/j/j74io277e.css';
-import '../../css/s/sdjrrqbwl.css';
+import '../../css/p/p3y5qibll.css';
+import '../../css/b/bxrcbrb3m.css';
+import '../../css/r/r-qi2rbge.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o-s51kssr"/><path class="j74io277e"/><path class="sdjrrqbwl"/>`,
+		"content": `<path class="p3y5qibll"/><path class="bxrcbrb3m"/><path class="r-qi2rbge"/>`,
 		"fallback": "selfhst:minecraft-creeper-light",
 	});
 }

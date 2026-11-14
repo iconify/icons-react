@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/c1-96opxo.css';
+import '../../css/s/sbt5dq_hr.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="c1-96opxo"/>`,
+		"content": `<path class="sbt5dq_hr"/>`,
 		"fallback": "selfhst:swarmpit-light",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p-4y4dmgm.css';
+import '../../css/k/kmwomuqoc.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p-4y4dmgm"/>`,
+		"content": `<path class="kmwomuqoc"/>`,
 		"fallback": "selfhst:haproxy-light",
 	});
 }

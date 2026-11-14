@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n11xp5baq.css';
+import '../../css/x/xtf2h3l6b.css';
 import '../../css/a/a61ltbq0f.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path vector-effect="non-scaling-stroke" class="n11xp5baq"/><path class="a61ltbq0f"/>`,
+		"content": `<path class="xtf2h3l6b"/><path class="a61ltbq0f"/>`,
 		"fallback": "selfhst:papermark",
 	});
 }

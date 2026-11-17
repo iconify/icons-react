@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/matita",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://icon-sets.iconify.design/matita/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -50,13 +50,25 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/angry.jsx"
     },
+    "./app-window": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window.jsx"
+    },
     "./archive": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/archive.jsx"
     },
+    "./archive-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/archive-x.jsx"
+    },
     "./arrow-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-down.jsx"
+    },
+    "./arrow-down-from-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-down-from-line.jsx"
     },
     "./arrow-down-left": {
       "types": "./types/hqrkovbr.d.ts",
@@ -86,6 +98,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-down.jsx"
     },
+    "./arrow-up-from-line": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrow-up-from-line.jsx"
+    },
     "./arrow-up-left": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-left.jsx"
@@ -102,6 +118,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/atom.jsx"
     },
+    "./audio-lines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-lines.jsx"
+    },
+    "./audio-waveform": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/audio-waveform.jsx"
+    },
     "./award": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/award.jsx"
@@ -109,6 +133,10 @@
     "./bacteria": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bacteria.jsx"
+    },
+    "./badge-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/badge-check.jsx"
     },
     "./ban": {
       "types": "./types/hqrkovbr.d.ts",
@@ -158,6 +186,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bezier.jsx"
     },
+    "./blocks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/blocks.jsx"
+    },
     "./bluetooth": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bluetooth.jsx"
@@ -186,6 +218,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bookmark.jsx"
     },
+    "./bot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot.jsx"
+    },
     "./bowl": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bowl.jsx"
@@ -197,6 +233,10 @@
     "./brain": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/brain.jsx"
+    },
+    "./brain-circuit": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/brain-circuit.jsx"
     },
     "./briefcase": {
       "types": "./types/hqrkovbr.d.ts",
@@ -213,6 +253,10 @@
     "./building": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/building.jsx"
+    },
+    "./building-complex": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/building-complex.jsx"
     },
     "./burger": {
       "types": "./types/hqrkovbr.d.ts",
@@ -238,6 +282,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/camera.jsx"
     },
+    "./captions": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/captions.jsx"
+    },
     "./car": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/car.jsx"
@@ -257,6 +305,10 @@
     "./chart-pie": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-pie.jsx"
+    },
+    "./chart-pie-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-pie-2.jsx"
     },
     "./check": {
       "types": "./types/hqrkovbr.d.ts",
@@ -298,6 +350,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-up.jsx"
     },
+    "./chevrons-up-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-up-down.jsx"
+    },
     "./chi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chi.jsx"
@@ -314,9 +370,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-alert.jsx"
     },
+    "./circle-arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-arrow-left.jsx"
+    },
     "./circle-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-check.jsx"
+    },
+    "./circle-dashed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-dashed.jsx"
+    },
+    "./circle-fading-arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-fading-arrow-up.jsx"
     },
     "./circle-help": {
       "types": "./types/hqrkovbr.d.ts",
@@ -330,6 +398,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-plus.jsx"
     },
+    "./circle-stop": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-stop.jsx"
+    },
     "./circle-x": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-x.jsx"
@@ -338,6 +410,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clipboard.jsx"
     },
+    "./clipboard-paste": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-paste.jsx"
+    },
+    "./clipboard-paste-down": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-paste-down.jsx"
+    },
+    "./clipboard-paste-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-paste-right.jsx"
+    },
     "./cloche": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cloche.jsx"
@@ -345,6 +429,10 @@
     "./clock": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clock.jsx"
+    },
+    "./clock-2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-2.jsx"
     },
     "./cloud": {
       "types": "./types/hqrkovbr.d.ts",
@@ -378,6 +466,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/columns.jsx"
     },
+    "./columns-3": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/columns-3.jsx"
+    },
+    "./command": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/command.jsx"
+    },
     "./compass": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/compass.jsx"
@@ -386,9 +482,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/copy.jsx"
     },
+    "./copy-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-plus.jsx"
+    },
     "./corner-down-left": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/corner-down-left.jsx"
+    },
+    "./corner-up-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-up-left.jsx"
+    },
+    "./corner-up-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/corner-up-right.jsx"
     },
     "./cpu": {
       "types": "./types/hqrkovbr.d.ts",
@@ -490,6 +598,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file.jsx"
     },
+    "./file-archive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-archive.jsx"
+    },
+    "./file-archive-zip": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-archive-zip.jsx"
+    },
+    "./file-chart-column": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-chart-column.jsx"
+    },
     "./file-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-check.jsx"
@@ -498,9 +618,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-code.jsx"
     },
+    "./file-exclamation-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-exclamation-point.jsx"
+    },
     "./file-plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-plus.jsx"
+    },
+    "./file-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-search.jsx"
     },
     "./file-text": {
       "types": "./types/hqrkovbr.d.ts",
@@ -554,6 +682,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-plus.jsx"
     },
+    "./folder-search": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-search.jsx"
+    },
     "./food-app": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/food-app.jsx"
@@ -562,6 +694,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/food-menu.jsx"
     },
+    "./footprints": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/footprints.jsx"
+    },
+    "./forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward.jsx"
+    },
     "./frame": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/frame.jsx"
@@ -569,6 +709,10 @@
     "./frown": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/frown.jsx"
+    },
+    "./gallery-vertical-end": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gallery-vertical-end.jsx"
     },
     "./gamma": {
       "types": "./types/hqrkovbr.d.ts",
@@ -597,6 +741,10 @@
     "./git-commit": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/git-commit.jsx"
+    },
+    "./git-commit-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/git-commit-vertical.jsx"
     },
     "./git-merge": {
       "types": "./types/hqrkovbr.d.ts",
@@ -722,6 +870,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/lambda-capital.jsx"
     },
+    "./languages": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/languages.jsx"
+    },
     "./laptop": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/laptop.jsx"
@@ -733,6 +885,10 @@
     "./layers": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/layers.jsx"
+    },
+    "./layout-dashboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-dashboard.jsx"
     },
     "./layout-grid": {
       "types": "./types/hqrkovbr.d.ts",
@@ -762,6 +918,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-checks.jsx"
     },
+    "./list-filter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-filter.jsx"
+    },
     "./loader": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/loader.jsx"
@@ -785,6 +945,10 @@
     "./mail": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail.jsx"
+    },
+    "./mail-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-check.jsx"
     },
     "./mail-open": {
       "types": "./types/hqrkovbr.d.ts",
@@ -829,6 +993,10 @@
     "./message-circle": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/message-circle.jsx"
+    },
+    "./message-circle-question-mark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/message-circle-question-mark.jsx"
     },
     "./message-square": {
       "types": "./types/hqrkovbr.d.ts",
@@ -910,6 +1078,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nu-capital.jsx"
     },
+    "./octagon-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/octagon-x.jsx"
+    },
     "./omega": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/omega.jsx"
@@ -938,9 +1110,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/package.jsx"
     },
+    "./paintbrush": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paintbrush.jsx"
+    },
     "./palette": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/palette.jsx"
+    },
+    "./panels-top-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/panels-top-left.jsx"
     },
     "./paperclip": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1038,6 +1218,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plus-minus.jsx"
     },
+    "./popcorn": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/popcorn.jsx"
+    },
     "./pork-free": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pork-free.jsx"
@@ -1053,6 +1237,10 @@
     "./prescription-2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/prescription-2.jsx"
+    },
+    "./presentation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/presentation.jsx"
     },
     "./prices-menu": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1086,6 +1274,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/radiation.jsx"
     },
+    "./radio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radio.jsx"
+    },
     "./receipt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/receipt.jsx"
@@ -1093,6 +1285,10 @@
     "./redo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/redo.jsx"
+    },
+    "./refresh-ccw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/refresh-ccw.jsx"
     },
     "./refresh-cw": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1182,6 +1378,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shield-check.jsx"
     },
+    "./shield-exclamation-point": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-exclamation-point.jsx"
+    },
+    "./shopping-bag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-bag.jsx"
+    },
     "./shopping-cart": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/shopping-cart.jsx"
@@ -1210,6 +1414,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/skip-forward.jsx"
     },
+    "./slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/slash.jsx"
+    },
     "./sliders": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sliders.jsx"
@@ -1234,6 +1442,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square.jsx"
     },
+    "./square-centerline-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-centerline-dashed-horizontal.jsx"
+    },
+    "./square-centerline-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-centerline-dashed-vertical.jsx"
+    },
     "./square-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-check.jsx"
@@ -1246,9 +1462,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-root.jsx"
     },
+    "./square-terminal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-terminal.jsx"
+    },
     "./star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star.jsx"
+    },
+    "./star-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-off.jsx"
     },
     "./stethoscope": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1309,6 +1533,10 @@
     "./test-tube": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/test-tube.jsx"
+    },
+    "./text-wrap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap.jsx"
     },
     "./thermometer": {
       "types": "./types/hqrkovbr.d.ts",

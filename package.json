@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2053,6 +2053,10 @@
     "./karma": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/k/karma.jsx"
+    },
+    "./kate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/k/kate.jsx"
     },
     "./kdeneon": {
       "types": "./types/hqrkovbr.d.ts",

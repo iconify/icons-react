@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.27",
+  "version": "1.0.28",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1109,6 +1109,10 @@
     "./apifox": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apifox.jsx"
+    },
+    "./apiko": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apiko.jsx"
     },
     "./apl": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6782,13 +6786,21 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/glif.jsx"
     },
-    "./glincker-dark": {
+    "./glincker-legacy-dark": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/g/glincker-dark.jsx"
+      "default": "./components/g/glincker-legacy-dark.jsx"
     },
-    "./glincker-light": {
+    "./glincker-legacy-light": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/g/glincker-light.jsx"
+      "default": "./components/g/glincker-legacy-light.jsx"
+    },
+    "./glinr-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glinr-dark.jsx"
+    },
+    "./glinr-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glinr-light.jsx"
     },
     "./glitch": {
       "types": "./types/hqrkovbr.d.ts",
@@ -20881,6 +20893,14 @@
     "./fans": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/fans.jsx"
+    },
+    "./glincker-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glincker-dark.jsx"
+    },
+    "./glincker-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/glincker-light.jsx"
     },
     "./mastra": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/enqd_6bdd.css';
+import '../../css/k/kt2iis1fl.css';
 
 const viewBox = {"width":1084,"height":1074};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="enqd_6bdd"/>`,
+		"content": `<path class="kt2iis1fl"/>`,
 		"fallback": "thesvg-color:accountantos-light",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.50",
+  "version": "1.0.51",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -3257,6 +3257,10 @@
     "./letsencrypt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/letsencrypt.jsx"
+    },
+    "./levoit-air-purifier": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/levoit-air-purifier.jsx"
     },
     "./lexus": {
       "types": "./types/hqrkovbr.d.ts",

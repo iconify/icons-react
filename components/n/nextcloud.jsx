@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hn9do5b7w.css';
+import '../../css/l/l-fbe-bbd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hn9do5b7w"/>`,
+		"content": `<path class="l-fbe-bbd"/>`,
 		"fallback": "cbi:nextcloud",
 	});
 }

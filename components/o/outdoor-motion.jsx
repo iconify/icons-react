@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dsdz9kqpk.css';
+import '../../css/t/twyyp55es.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dsdz9kqpk"/>`,
+		"content": `<path class="twyyp55es"/>`,
 		"fallback": "cbi:outdoor-motion",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.62",
+  "version": "1.0.63",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -421,6 +421,38 @@
     "./arrow-up-z-a": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/arrow-up-z-a.jsx"
+    },
+    "./arrows-from-axis-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-from-axis-dashed-horizontal.jsx"
+    },
+    "./arrows-from-axis-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-from-axis-dashed-vertical.jsx"
+    },
+    "./arrows-from-axis-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-from-axis-horizontal.jsx"
+    },
+    "./arrows-from-axis-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-from-axis-vertical.jsx"
+    },
+    "./arrows-to-axis-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-to-axis-dashed-horizontal.jsx"
+    },
+    "./arrows-to-axis-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-to-axis-dashed-vertical.jsx"
+    },
+    "./arrows-to-axis-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-to-axis-horizontal.jsx"
+    },
+    "./arrows-to-axis-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/arrows-to-axis-vertical.jsx"
     },
     "./arrows-up-from-line": {
       "types": "./types/hqrkovbr.d.ts",
@@ -990,13 +1022,29 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot.jsx"
     },
+    "./bot-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-check.jsx"
+    },
     "./bot-message-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot-message-square.jsx"
     },
+    "./bot-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-minus.jsx"
+    },
     "./bot-off": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bot-off.jsx"
+    },
+    "./bot-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-plus.jsx"
+    },
+    "./bot-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bot-x.jsx"
     },
     "./bottle-wine": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1338,6 +1386,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/card-sim.jsx"
     },
+    "./carets-from-axis-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-from-axis-dashed-horizontal.jsx"
+    },
+    "./carets-from-axis-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-from-axis-dashed-vertical.jsx"
+    },
+    "./carets-from-axis-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-from-axis-horizontal.jsx"
+    },
+    "./carets-from-axis-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-from-axis-vertical.jsx"
+    },
+    "./carets-to-axis-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-to-axis-dashed-horizontal.jsx"
+    },
+    "./carets-to-axis-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-to-axis-dashed-vertical.jsx"
+    },
+    "./carets-to-axis-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-to-axis-horizontal.jsx"
+    },
+    "./carets-to-axis-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/carets-to-axis-vertical.jsx"
+    },
     "./carrot": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/carrot.jsx"
@@ -1574,6 +1654,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-down-up.jsx"
     },
+    "./chevrons-from-axis-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-from-axis-dashed-horizontal.jsx"
+    },
+    "./chevrons-from-axis-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-from-axis-dashed-vertical.jsx"
+    },
+    "./chevrons-from-axis-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-from-axis-horizontal.jsx"
+    },
+    "./chevrons-from-axis-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-from-axis-vertical.jsx"
+    },
     "./chevrons-left": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-left.jsx"
@@ -1593,6 +1689,22 @@
     "./chevrons-right-left": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-right-left.jsx"
+    },
+    "./chevrons-to-axis-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-to-axis-dashed-horizontal.jsx"
+    },
+    "./chevrons-to-axis-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-to-axis-dashed-vertical.jsx"
+    },
+    "./chevrons-to-axis-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-to-axis-horizontal.jsx"
+    },
+    "./chevrons-to-axis-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-to-axis-vertical.jsx"
     },
     "./chevrons-up": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1621,6 +1733,10 @@
     "./cigarette-off": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cigarette-off.jsx"
+    },
+    "./cinema": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cinema.jsx"
     },
     "./circle": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1657,6 +1773,10 @@
     "./circle-arrow-up-right-exit": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-arrow-up-right-exit.jsx"
+    },
+    "./circle-bounce": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-bounce.jsx"
     },
     "./circle-check": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1885,6 +2005,10 @@
     "./circle-percent": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-percent.jsx"
+    },
+    "./circle-person-arms-spread": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-person-arms-spread.jsx"
     },
     "./circle-pile": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2593,6 +2717,10 @@
     "./dog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dog.jsx"
+    },
+    "./doghouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/doghouse.jsx"
     },
     "./dollar-sign": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3794,6 +3922,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hand-platter.jsx"
     },
+    "./hand-truck": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hand-truck.jsx"
+    },
     "./handbag": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/handbag.jsx"
@@ -3969,6 +4101,14 @@
     "./house": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/house.jsx"
+    },
+    "./house-arrow-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house-arrow-left.jsx"
+    },
+    "./house-arrow-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/house-arrow-right.jsx"
     },
     "./house-cog": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5325,6 +5465,10 @@
     "./nfc": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nfc.jsx"
+    },
+    "./nigerian-naira": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nigerian-naira.jsx"
     },
     "./non-binary": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6898,6 +7042,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-asterisk.jsx"
     },
+    "./square-axis-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-axis-dashed-horizontal.jsx"
+    },
+    "./square-axis-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-axis-dashed-vertical.jsx"
+    },
+    "./square-axis-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-axis-horizontal.jsx"
+    },
+    "./square-axis-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-axis-vertical.jsx"
+    },
     "./square-bookmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-bookmark.jsx"
@@ -7450,6 +7610,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stroke-line-join-round.jsx"
     },
+    "./stroke-width": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroke-width.jsx"
+    },
     "./subscript": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/subscript.jsx"
@@ -7918,14 +8082,6 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/triangle-right.jsx"
     },
-    "./triangles-centerline-dashed-horizontal": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/t/triangles-centerline-dashed-horizontal.jsx"
-    },
-    "./triangles-centerline-dashed-vertical": {
-      "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/t/triangles-centerline-dashed-vertical.jsx"
-    },
     "./trophy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trophy.jsx"
@@ -8313,6 +8469,10 @@
     "./warehouse": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/warehouse.jsx"
+    },
+    "./warehouse-waves": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/warehouse-waves.jsx"
     },
     "./washing-machine": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9441,6 +9601,14 @@
     "./triangle-alert": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/triangle-alert.jsx"
+    },
+    "./triangles-centerline-dashed-horizontal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangles-centerline-dashed-horizontal.jsx"
+    },
+    "./triangles-centerline-dashed-vertical": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/triangles-centerline-dashed-vertical.jsx"
     },
     "./tv-2": {
       "types": "./types/hqrkovbr.d.ts",

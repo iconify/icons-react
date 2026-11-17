@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/codex",
   "type": "module",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://icon-sets.iconify.design/codex/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -33,6 +33,10 @@
     "./align-right": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/align-right.jsx"
+    },
+    "./angry": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/angry.jsx"
     },
     "./application": {
       "types": "./types/hqrkovbr.d.ts",
@@ -294,6 +298,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/drag.jsx"
     },
+    "./earth": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/earth.jsx"
+    },
     "./error": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/error.jsx"
@@ -334,6 +342,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/flag.jsx"
     },
+    "./flask": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/flask.jsx"
+    },
     "./folder": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder.jsx"
@@ -353,6 +365,10 @@
     "./globe": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe.jsx"
+    },
+    "./grab": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/grab.jsx"
     },
     "./grid-view": {
       "types": "./types/hqrkovbr.d.ts",
@@ -381,6 +397,10 @@
     "./h6": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/h6.jsx"
+    },
+    "./happy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/happy.jsx"
     },
     "./hash": {
       "types": "./types/hqrkovbr.d.ts",
@@ -538,6 +558,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mute.jsx"
     },
+    "./neutral": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/neutral.jsx"
+    },
     "./paperclip": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paperclip.jsx"
@@ -582,6 +606,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/printer.jsx"
     },
+    "./qr-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qr-code.jsx"
+    },
     "./question": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/question.jsx"
@@ -602,6 +630,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/remove-background.jsx"
     },
+    "./rename": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rename.jsx"
+    },
     "./repeat": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/repeat.jsx"
@@ -613,6 +645,10 @@
     "./rocket": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rocket.jsx"
+    },
+    "./sad": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sad.jsx"
     },
     "./save": {
       "types": "./types/hqrkovbr.d.ts",

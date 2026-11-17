@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide-extended",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://icon-sets.iconify.design/lucide-extended/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -1778,6 +1778,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/cannabis-off-filled.jsx"
     },
+    "./cap-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cap-duotone.jsx"
+    },
+    "./cap-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cap-filled.jsx"
+    },
     "./captions-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/captions-duotone.jsx"
@@ -1969,6 +1977,14 @@
     "./chart-radar-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chart-radar-duotone.jsx"
+    },
+    "./cheese-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cheese-duotone.jsx"
+    },
+    "./cheese-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cheese-filled.jsx"
     },
     "./chef-hat-duotone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5150,6 +5166,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-hub-filled.jsx"
     },
+    "./graph-ring-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-ring-duotone.jsx"
+    },
+    "./graph-ring-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-ring-filled.jsx"
+    },
     "./graph-star-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-star-duotone.jsx"
@@ -5985,6 +6009,14 @@
     "./layout-grid-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/layout-grid-filled.jsx"
+    },
+    "./layout-grid-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-grid-plus-duotone.jsx"
+    },
+    "./layout-grid-plus-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-grid-plus-filled.jsx"
     },
     "./layout-list-duotone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7073,6 +7105,14 @@
     "./motorbike-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/motorbike-filled.jsx"
+    },
+    "./mound-shovel-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mound-shovel-duotone.jsx"
+    },
+    "./mound-shovel-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mound-shovel-filled.jsx"
     },
     "./mountain-duotone": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8406,6 +8446,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rose-duotone.jsx"
     },
+    "./route-arrow-right-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route-arrow-right-duotone.jsx"
+    },
+    "./route-arrow-right-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/route-arrow-right-filled.jsx"
+    },
     "./route-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/route-duotone.jsx"
@@ -9294,6 +9342,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-down-duotone.jsx"
     },
+    "./square-arrow-down-enter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-down-enter-filled.jsx"
+    },
+    "./square-arrow-down-exit-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-down-exit-filled.jsx"
+    },
     "./square-arrow-down-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-down-filled.jsx"
@@ -9301,6 +9357,10 @@
     "./square-arrow-down-left-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-down-left-duotone.jsx"
+    },
+    "./square-arrow-down-left-enter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-down-left-enter-filled.jsx"
     },
     "./square-arrow-down-left-filled": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9310,6 +9370,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-down-right-duotone.jsx"
     },
+    "./square-arrow-down-right-enter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-down-right-enter-filled.jsx"
+    },
     "./square-arrow-down-right-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-down-right-filled.jsx"
@@ -9317,6 +9381,14 @@
     "./square-arrow-left-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-left-duotone.jsx"
+    },
+    "./square-arrow-left-enter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-left-enter-filled.jsx"
+    },
+    "./square-arrow-left-exit-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-left-exit-filled.jsx"
     },
     "./square-arrow-left-filled": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9338,6 +9410,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-up-duotone.jsx"
     },
+    "./square-arrow-up-enter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-up-enter-filled.jsx"
+    },
+    "./square-arrow-up-exit-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-up-exit-filled.jsx"
+    },
     "./square-arrow-up-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-up-filled.jsx"
@@ -9346,6 +9426,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-up-left-duotone.jsx"
     },
+    "./square-arrow-up-left-enter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-up-left-enter-filled.jsx"
+    },
     "./square-arrow-up-left-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-up-left-filled.jsx"
@@ -9353,6 +9437,10 @@
     "./square-arrow-up-right-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-arrow-up-right-duotone.jsx"
+    },
+    "./square-arrow-up-right-enter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-arrow-up-right-enter-filled.jsx"
     },
     "./square-arrow-up-right-filled": {
       "types": "./types/hqrkovbr.d.ts",
@@ -10226,6 +10314,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stretch-vertical-filled.jsx"
     },
+    "./stroke-line-cap-butt-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroke-line-cap-butt-filled.jsx"
+    },
+    "./stroke-line-cap-round-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroke-line-cap-round-filled.jsx"
+    },
+    "./stroke-line-cap-square-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroke-line-cap-square-filled.jsx"
+    },
+    "./stroke-line-join-bevel-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroke-line-join-bevel-filled.jsx"
+    },
+    "./stroke-line-join-miter-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroke-line-join-miter-filled.jsx"
+    },
+    "./stroke-line-join-round-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stroke-line-join-round-filled.jsx"
+    },
     "./sun-dim-duotone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sun-dim-duotone.jsx"
@@ -10477,6 +10589,14 @@
     "./text-cursor-input-filled": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/text-cursor-input-filled.jsx"
+    },
+    "./text-pen-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-pen-duotone.jsx"
+    },
+    "./text-pen-filled": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-pen-filled.jsx"
     },
     "./text-search-filled": {
       "types": "./types/hqrkovbr.d.ts",

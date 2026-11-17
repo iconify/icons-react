@@ -1,0 +1,30 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.fx2-nmbdp {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M17.714 9H10a.997.997 0 0 0-1 1v11a1 1 0 0 1-1 1H6a3 3 0 0 1-3-3v-8.092c0-.866.373-1.689 1.024-2.258l6-5.25a3 3 0 0 1 3.952 0l4.397 3.847A1.001 1.001 0 0 1 17.714 9");
+}
+
+.pdmz-r1yt {
+  d: path("M14.581 13.002A7.4 7.4 0 0 1 17 12.597a7.38 7.38 0 0 1 4.625 1.622a1 1 0 0 1-1.25 1.562a5.4 5.4 0 0 0-1.609-.888A5.4 5.4 0 0 0 17 14.597a5.4 5.4 0 0 0-1.766.296a5.4 5.4 0 0 0-1.609.888a1 1 0 0 1-1.25-1.562a7.4 7.4 0 0 1 2.206-1.217m.979 3.45a3.8 3.8 0 0 1 1.44-.28a3.82 3.82 0 0 1 2.707 1.121a.999.999 0 1 1-1.414 1.414A1.82 1.82 0 0 0 17 18.172a1.82 1.82 0 0 0-1.293.535a1.002 1.002 0 0 1-1.414-1.414a3.8 3.8 0 0 1 1.267-.841M17.01 20a1 1 0 0 1 0 2H17a1 1 0 0 1 0-2Z");
+}
+</style><g class="cuyn6tgcc"><path class="fx2-nmbdp"/><path class="pdmz-r1yt"/></g>`,
+		"fallback": "coolicons:house-wifi-corner-bulk",
+	});
+}
+
+export default Component;

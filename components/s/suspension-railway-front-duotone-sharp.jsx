@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.hhj8nsb6i {
+.whp8qrb2x {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M4 20V9a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1");
+  d: path("M5 9h14v11H5Z");
 }
 
 .ymprvq96p {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M5 9h14v11H5zm0 5h14M3 4h18M9 4v5m6-5v5m-6 8h.01M15 17h.01");
 }
-</style><g class="ft5dv1b6b"><path class="hhj8nsb6i"/><path class="ymprvq96p"/></g>`,
+</style><g class="ft5dv1b6b"><path class="whp8qrb2x"/><path class="ymprvq96p"/></g>`,
 		"fallback": "coolicons:suspension-railway-front-duotone-sharp",
 	});
 }

@@ -10,9 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.b896dj8wk {
+		"content": `<style>.fo6fxlbuf {
+  d: path("M3 20h18M5 20v-5.078A4 4 0 0 1 6.501 11.8l1-.8a4 4 0 0 1 4.998 0l1 .8A4 4 0 0 1 15 14.923V20");
+}
+
+.i5qu0pbfb {
   stroke-opacity: 0.4;
-  d: path("M7 12V8a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v12");
+  d: path("M7 11.4V4h8a4 4 0 0 1 4 4v12");
 }
 
 .nrj6p8qat {
@@ -22,11 +26,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-
-.o78nfacdg {
-  d: path("M3 20h18M5 20v-4c0-1.28.36-2.36 1-3l2-2a2.83 2.83 0 0 1 4 0l2 2c.64.64 1 1.72 1 3v4");
-}
-</style><g class="nrj6p8qat"><path class="b896dj8wk"/><path class="o78nfacdg"/></g>`,
+</style><g class="nrj6p8qat"><path class="i5qu0pbfb"/><path class="fo6fxlbuf"/></g>`,
 		"fallback": "coolicons:building-3-duocolor-round",
 	});
 }

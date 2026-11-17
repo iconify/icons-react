@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
-  fill: none;
-}
-
-.h8jj8fbdo {
+		"content": `<style>.esus3r06j {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M10 10v11a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h8c.265 0 .52.105.707.293l6 6A1 1 0 0 1 19 10Zm3-2h4l-4-4Z");
+  d: path("M5 3h8l.034.034q-.01-.01-.022-.004a.02.02 0 0 0-.012.018V8.98q.002.018.02.02H9v12H5Z");
+}
+
+.ft5dv1b6b {
+  fill: none;
 }
 
 .x6r6xpqcv {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M13 3H5v18h4m4-18l6 6m-6-6v6h6m-5 9l3 3l3-3m-3 3v-8");
 }
-</style><g class="ft5dv1b6b"><path class="h8jj8fbdo"/><path class="x6r6xpqcv"/></g>`,
+</style><g class="ft5dv1b6b"><path class="esus3r06j"/><path class="x6r6xpqcv"/></g>`,
 		"fallback": "coolicons:file-download-corner-duotone-sharp",
 	});
 }

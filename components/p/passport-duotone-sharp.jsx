@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
+		"content": `<style>.ckjqj_b3x {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M5 3h14v18H5Z");
+}
+
+.ft5dv1b6b {
   fill: none;
 }
 
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M5 3h14v18H5Zm4 14h6m-6-7a3 3 0 1 0 6 0a3 3 0 0 0-6 0");
 }
-
-.oj70tvpuz {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M4 21V3a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1");
-}
-</style><g class="ft5dv1b6b"><path class="oj70tvpuz"/><path class="j-fv9gbfc"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ckjqj_b3x"/><path class="j-fv9gbfc"/></g>`,
 		"fallback": "coolicons:passport-duotone-sharp",
 	});
 }

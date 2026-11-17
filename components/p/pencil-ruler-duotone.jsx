@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   d: path("M4 16L15 5a1.414 1.414 0 0 1 2 0l2 2a1.414 1.414 0 0 1 0 2L8 20m0 0H4v-4m7-11L9 7m10 6l-2 2m-4-8l-3-3a1.414 1.414 0 0 0-2 0L4 8a1.414 1.414 0 0 0 0 2l3 3m10-2l3 3a1.414 1.414 0 0 1 0 2l-4 4a1.414 1.414 0 0 1-2 0l-3-3");
 }
 
-.sjowg_bno {
+.j04wud_og {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3 16c0-.265.105-.52.293-.707l11-11a2.414 2.414 0 0 1 3.414 0l2 2a2.414 2.414 0 0 1 0 3.414l-11 11A1 1 0 0 1 8 21H4a1 1 0 0 1-1-1Z");
+  d: path("M4 20v-4L15 5a1.415 1.415 0 0 1 2 0l2 2a1.415 1.415 0 0 1 0 2L8 20Z");
 }
-</style><g class="ft5dv1b6b"><path class="sjowg_bno"/><path class="hjk1rtx3u"/></g>`,
+</style><g class="ft5dv1b6b"><path class="j04wud_og"/><path class="hjk1rtx3u"/></g>`,
 		"fallback": "coolicons:pencil-ruler-duotone",
 	});
 }

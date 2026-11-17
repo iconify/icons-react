@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
+		"content": `<style>.bmts-ib6h {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M21 7v2H9v10H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2");
+}
+
+.ft5dv1b6b {
   fill: none;
 }
 
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M21 9V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h4M3 9h18m-7 5l6 6m0-6l-6 6");
 }
-
-.zk76qe68y {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M22 7v2H10v10a1 1 0 0 1-1 1H5a3 3 0 0 1-3-3V7a3 3 0 0 1 3-3h14a3 3 0 0 1 3 3");
-}
-</style><g class="ft5dv1b6b"><path class="zk76qe68y"/><path class="y3pv_3bdu"/></g>`,
+</style><g class="ft5dv1b6b"><path class="bmts-ib6h"/><path class="y3pv_3bdu"/></g>`,
 		"fallback": "coolicons:credit-card-close-corner-duotone",
 	});
 }

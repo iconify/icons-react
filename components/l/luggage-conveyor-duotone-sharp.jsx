@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.jfdw8_8ti {
+.l7c_sobux {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M5 13V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1");
+  d: path("M6 7h12v6H6Z");
 }
 
 .om3vtmbzn {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M6 7h12v6H6ZM3 17h18v4H3ZM9 7V3h6v4m-5 0v6m4-6v6");
 }
-</style><g class="ft5dv1b6b"><path class="jfdw8_8ti"/><path class="om3vtmbzn"/></g>`,
+</style><g class="ft5dv1b6b"><path class="l7c_sobux"/><path class="om3vtmbzn"/></g>`,
 		"fallback": "coolicons:luggage-conveyor-duotone-sharp",
 	});
 }

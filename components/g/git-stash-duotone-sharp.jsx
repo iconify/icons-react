@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.k9g4tsbqu {
+.me-w9sbjb {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M9.236 4.832a3 3 0 1 1 5.527 2.338a3 3 0 0 1-5.527-2.338");
+  d: path("M12 8a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 8");
 }
-</style><g class="ft5dv1b6b"><path class="k9g4tsbqu"/><path class="a3zjpevcy"/></g>`,
+</style><g class="ft5dv1b6b"><path class="me-w9sbjb"/><path class="a3zjpevcy"/></g>`,
 		"fallback": "coolicons:git-stash-duotone-sharp",
 	});
 }

@@ -10,13 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.bwnfvccbk {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M4.106 5.553C4.848 4.069 6.307 3 8 3h8c1.693 0 3.152 1.069 3.894 2.553l1 2A1 1 0 0 1 20 9H4a1 1 0 0 1-.894-1.447Z");
-}
-
-.fq5595b2o {
+		"content": `<style>.fq5595b2o {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-</style><g class="ft5dv1b6b"><path class="bwnfvccbk"/><path class="fq5595b2o"/></g>`,
+
+.ftbyj6eil {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M5 6c.569-1.137 1.695-1.999 3-2h8c1.305.001 2.431.863 3 2l1 2H4Z");
+}
+</style><g class="ft5dv1b6b"><path class="ftbyj6eil"/><path class="fq5595b2o"/></g>`,
 		"fallback": "coolicons:package-download-corner-duotone-round",
 	});
 }

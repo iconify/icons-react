@@ -10,13 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.a10uvtbxk {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M20 17a5 5 0 0 1-1.464 3.536A5 5 0 0 1 15 22H9a5 5 0 0 1-5-5V8c0-1.039.578-1.992 1.293-2.707l2-2C8.008 2.578 8.961 2 10 2h5a5 5 0 0 1 5 5Z");
-}
-
-.f5fedobno {
+		"content": `<style>.f5fedobno {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-</style><g class="ft5dv1b6b"><path class="a10uvtbxk"/><path class="f5fedobno"/></g>`,
+
+.l-iwu3xdq {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M19 17a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4V8c0-.763.48-1.479 1-2l2-2c.521-.52 1.237-1 2-1h5a4 4 0 0 1 4 4Z");
+}
+</style><g class="ft5dv1b6b"><path class="l-iwu3xdq"/><path class="f5fedobno"/></g>`,
 		"fallback": "coolicons:sd-card-duotone-round",
 	});
 }

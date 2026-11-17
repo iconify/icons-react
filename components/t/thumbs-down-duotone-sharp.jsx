@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.hhx0etuwh {
+.j7_desbdl {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3 15a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16c.446 0 .839.296.962.725l2 7Q22 9.86 22 10v4a1 1 0 0 1-1 1h-5v4a3 3 0 1 1-6 0v-1a3 3 0 0 0-3-3Z");
+  d: path("M7 14H3V3h16l2 7v4h-6v5a2 2 0 1 1-4 0v-1a4 4 0 0 0-4-4");
 }
 
 .rkmkktb6a {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M7 14a4 4 0 0 1 4 4v1a2 2 0 1 0 4 0v-5h6v-4l-2-7H7m0 11H3V3h4z");
 }
-</style><g class="ft5dv1b6b"><path class="hhx0etuwh"/><path class="rkmkktb6a"/></g>`,
+</style><g class="ft5dv1b6b"><path class="j7_desbdl"/><path class="rkmkktb6a"/></g>`,
 		"fallback": "coolicons:thumbs-down-duotone-sharp",
 	});
 }

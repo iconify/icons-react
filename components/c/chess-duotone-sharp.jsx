@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.a703x8s7m {
+		"content": `<style>.a10sg6bpd {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("m8 17l2-6H7L6 9l4-3l-1-3l3 1c3.041 1.017 3.999 4.075 4 7v6h2v4H6v-4Z");
+}
+
+.a703x8s7m {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-
-.sc-v0gb0a {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M17 16h1a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1h1.279l1.334-4H7a1 1 0 0 1-.894-.553l-1-2A1 1 0 0 1 5.4 8.2l3.423-2.568l-.772-2.316a1.001 1.001 0 0 1 1.265-1.265l3 1c1.666.556 2.921 1.688 3.703 3.252C16.744 7.753 17 9.391 17 11Z");
-}
-</style><g class="ft5dv1b6b"><path class="sc-v0gb0a"/><path class="a703x8s7m"/></g>`,
+</style><g class="ft5dv1b6b"><path class="a10sg6bpd"/><path class="a703x8s7m"/></g>`,
 		"fallback": "coolicons:chess-duotone-sharp",
 	});
 }

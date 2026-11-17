@@ -18,16 +18,16 @@ function Component({width, height, ...props}) {
   d: path("M21 13v6H3V5h8M3 5l6 6h4m3-6a2 2 0 1 1 2 2m0 3h.01");
 }
 
+.cbyozrp6o {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M21 13v6H3V5h8a7.07 7.07 0 0 0 2 6c2.003 2.001 5.283 3.162 8 2");
+}
+
 .ft5dv1b6b {
   fill: none;
 }
-
-.vqz-w8bqr {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M22 19a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h8a.998.998 0 0 1 .99 1.141a6 6 0 0 0 .25 2.779c.52 1.556 1.603 2.735 3.003 3.551c1.093.638 2.364 1.031 3.638.985a4.8 4.8 0 0 0 1.725-.375A.997.997 0 0 1 22 13Z");
-}
-</style><g class="ft5dv1b6b"><path class="vqz-w8bqr"/><path class="bb4uulciw"/></g>`,
+</style><g class="ft5dv1b6b"><path class="cbyozrp6o"/><path class="bb4uulciw"/></g>`,
 		"fallback": "coolicons:mail-help-duotone-sharp",
 	});
 }

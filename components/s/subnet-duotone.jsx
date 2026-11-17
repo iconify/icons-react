@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
+		"content": `<style>.c3pw29l6e {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M10 5a2 2 0 1 1 3.999-.001A2 2 0 0 1 10 5m-7 8a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z");
+}
+
+.ft5dv1b6b {
   fill: none;
 }
 
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M3 13a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Zm7-8a2 2 0 1 0 4 0a2 2 0 0 0-4 0M7 16h.01M12 16h.01M17 16h.01M12 7v4");
 }
-
-.z_nay2cuc {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M9.236 3.832a3 3 0 1 1 5.527 2.338a3 3 0 0 1-5.527-2.338M5 10h14a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3v-6a3 3 0 0 1 3-3");
-}
-</style><g class="ft5dv1b6b"><path class="z_nay2cuc"/><path class="op9ragiay"/></g>`,
+</style><g class="ft5dv1b6b"><path class="c3pw29l6e"/><path class="op9ragiay"/></g>`,
 		"fallback": "coolicons:subnet-duotone",
 	});
 }

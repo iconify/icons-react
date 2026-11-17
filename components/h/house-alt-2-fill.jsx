@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.hflhkvb9l {
+		"content": `<style>.z9g6kb5af {
   fill: currentColor;
-  d: path("M4 12c0-1.039.578-1.992 1.293-2.707l5-5a2.414 2.414 0 0 1 3.414 0l5 5C19.422 10.008 20 10.961 20 12v7h1a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2h1Zm6 7h4v-3a2 2 0 1 0-4 0Z");
+  d: path("M3 22a1 1 0 0 1 0-2v-9.092c0-.866.373-1.689 1.024-2.258l6-5.25a3 3 0 0 1 3.952 0l6 5.25A3 3 0 0 1 21 10.908V20a1 1 0 0 1 0 2Zm11-5a2 2 0 1 0-4 0v3h4Z");
 }
-</style><path class="hflhkvb9l"/>`,
+</style><path class="z9g6kb5af"/>`,
 		"fallback": "coolicons:house-alt-2-fill",
 	});
 }

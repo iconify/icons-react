@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.mntdggbts {
+.rsj02cb4x {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M21 13h-8v8a1 1 0 0 1-1 1a10 10 0 1 1 10-10a1 1 0 0 1-1 1");
+  d: path("M21 12h-9v9a9 9 0 0 1-9-9a9 9 0 0 1 9-9a9 9 0 0 1 9 9");
 }
-</style><g class="ft5dv1b6b"><path class="mntdggbts"/><path class="dkkg_gbvz"/></g>`,
+</style><g class="ft5dv1b6b"><path class="rsj02cb4x"/><path class="dkkg_gbvz"/></g>`,
 		"fallback": "coolicons:chart-pie-circle-duotone-sharp",
 	});
 }

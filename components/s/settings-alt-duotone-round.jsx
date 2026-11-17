@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.e6gondbcg {
+		"content": `<style>.bznr5pd5i {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M20 9v6c-.001 1.305-.863 2.431-2 3l-4 2a4.47 4.47 0 0 1-4 0l-4-2c-1.137-.569-1.999-1.695-2-3V9c.001-1.305.863-2.431 2-3l4-2a4.47 4.47 0 0 1 4 0l4 2c1.137.569 1.999 1.695 2 3M9 12a3 3 0 1 0 6 0a3 3 0 0 0-6 0");
+}
+
+.e6gondbcg {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-
-.hi6phtbfi {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M21 9v6c0 1.693-1.069 3.152-2.553 3.894l-4 2a5.47 5.47 0 0 1-4.894 0l-4-2C4.069 18.152 3 16.693 3 15V9c0-1.693 1.069-3.152 2.553-3.894l4-2a5.47 5.47 0 0 1 4.894 0l4 2C19.931 5.848 21 7.307 21 9M9 12a3 3 0 1 0 6 0a3 3 0 0 0-6 0");
-}
-</style><g class="ft5dv1b6b"><path class="hi6phtbfi"/><path class="e6gondbcg"/></g>`,
+</style><g class="ft5dv1b6b"><path class="bznr5pd5i"/><path class="e6gondbcg"/></g>`,
 		"fallback": "coolicons:settings-alt-duotone-round",
 	});
 }

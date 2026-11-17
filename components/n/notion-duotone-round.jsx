@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   d: path("M11 17v-7l5 7v-7M3 3h15l3 3v15H6l-3-3Zm18 3H6v15M3 3l3 3");
 }
 
-.yk1-n-esz {
+.oxtgpb4zl {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3 2h15c.265 0 .52.105.707.293l3 3A1 1 0 0 1 22 6v15a1 1 0 0 1-1 1H6a1 1 0 0 1-.707-.293l-3-3A1 1 0 0 1 2 18V3a1 1 0 0 1 1-1");
+  d: path("m18 3l3 3v15H6l-3-3V3Z");
 }
-</style><g class="ft5dv1b6b"><path class="yk1-n-esz"/><path class="kj7y5ub8v"/></g>`,
+</style><g class="ft5dv1b6b"><path class="oxtgpb4zl"/><path class="kj7y5ub8v"/></g>`,
 		"fallback": "coolicons:notion-duotone-round",
 	});
 }

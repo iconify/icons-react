@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.t8l79clup {
+.jd4-llbsy {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M5 18V6a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1");
+  d: path("M6 6h12v12H6Z");
 }
-</style><g class="ft5dv1b6b"><path class="t8l79clup"/><path class="a4h3s8qno"/></g>`,
+</style><g class="ft5dv1b6b"><path class="jd4-llbsy"/><path class="a4h3s8qno"/></g>`,
 		"fallback": "coolicons:smartwatch-duotone-sharp",
 	});
 }

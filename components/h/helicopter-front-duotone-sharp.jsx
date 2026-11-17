@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.xko8c_b8v {
+.sbtie3byp {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M19 13v4a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-4a7 7 0 1 1 14 0");
+  d: path("M18 13v4H6v-4a6 6 0 1 1 12 0");
 }
-</style><g class="ft5dv1b6b"><path class="xko8c_b8v"/><path class="elca2yzwo"/></g>`,
+</style><g class="ft5dv1b6b"><path class="sbtie3byp"/><path class="elca2yzwo"/></g>`,
 		"fallback": "coolicons:helicopter-front-duotone-sharp",
 	});
 }

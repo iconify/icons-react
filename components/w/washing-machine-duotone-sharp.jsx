@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.qf39accvc {
+.t6mud7fht {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3 21V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1");
+  d: path("M4 3h16v18H4Z");
 }
 
 .w989ndpzr {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 3h16v18H4Zm0 6h16M8 6h.01M11 6h.01M9 15a3 3 0 0 1 6 0m0 0a3 3 0 0 1-6 0");
 }
-</style><g class="ft5dv1b6b"><path class="qf39accvc"/><path class="w989ndpzr"/></g>`,
+</style><g class="ft5dv1b6b"><path class="t6mud7fht"/><path class="w989ndpzr"/></g>`,
 		"fallback": "coolicons:washing-machine-duotone-sharp",
 	});
 }

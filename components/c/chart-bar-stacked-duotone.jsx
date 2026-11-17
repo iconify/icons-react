@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
+		"content": `<style>.ee11mdbab {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M13 4a2 2 0 0 1 2 2v14H9V6a2 2 0 0 1 2-2Zm3 6c0-.741.268-1.449.764-2H19a2 2 0 0 1 2 2v10h-5Zm-8 3v7H3v-7a2 2 0 0 1 2-2h2.236c.494.552.766 1.259.764 2");
+}
+
+.ft5dv1b6b {
   fill: none;
 }
 
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M3 20v-7a2 2 0 0 1 2-2h4V6a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2h4a2 2 0 0 1 2 2v10zm6 0v-9m6 9V8M3 15h6m0-3h6m0 2h6");
 }
-
-.xcv31pbge {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M9 6a3 3 0 1 1 6 0v14a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1Zm13 4v10a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1V10a3 3 0 0 1 6 0M2 13a3 3 0 0 1 6 0v7a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1Z");
-}
-</style><g class="ft5dv1b6b"><path class="xcv31pbge"/><path class="ji8daebci"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ee11mdbab"/><path class="ji8daebci"/></g>`,
 		"fallback": "coolicons:chart-bar-stacked-duotone",
 	});
 }

@@ -14,12 +14,6 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.iqrud2b7g {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M17 2a1 1 0 0 1 1 1v2c0 1.317-.335 2.748-1.293 3.707L13.414 12l3.293 3.293C17.665 16.252 18 17.683 18 19v2a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1v-2c0-1.317.335-2.748 1.293-3.707L10.586 12L7.293 8.707C6.335 7.748 6 6.317 6 5V3a1 1 0 0 1 1-1Z");
-}
-
 .mqzyzub0t {
   stroke: currentColor;
   stroke-linecap: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M7 3v2c0 1.28.36 2.36 1 3l4 4l-4 4c-.64.64-1 1.72-1 3v2M17 3v2c0 1.28-.36 2.36-1 3l-4 4l4 4c.64.64 1 1.72 1 3v2M5 3h14M5 21h14");
 }
-</style><g class="ft5dv1b6b"><path class="iqrud2b7g"/><path class="mqzyzub0t"/></g>`,
+
+.mstaubcsv {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M7 3h10v2c0 1.041-.237 2.236-1 3l-4 4l-4-4c-.763-.764-1-1.959-1-3Zm1 13l4-4l4 4c.763.764 1 1.959 1 3v2H7v-2c0-1.041.237-2.236 1-3");
+}
+</style><g class="ft5dv1b6b"><path class="mstaubcsv"/><path class="mqzyzub0t"/></g>`,
 		"fallback": "coolicons:hourglass-duotone-round",
 	});
 }

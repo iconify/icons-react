@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.in9i2xbzf {
+.ou9moobra {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M16 6a5 5 0 0 1 5 5v8a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-8a5 5 0 0 1 5-5Z");
+  d: path("M16 7a4 4 0 0 1 4 4v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8a4 4 0 0 1 4-4Z");
 }
 
 .u68zyeb_k {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M12 7h4a4 4 0 0 1 4 4v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8a4 4 0 0 1 4-4zm-4 4h8m-6-4V4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3M8 21v-4a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v4");
 }
-</style><g class="ft5dv1b6b"><path class="in9i2xbzf"/><path class="u68zyeb_k"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ou9moobra"/><path class="u68zyeb_k"/></g>`,
 		"fallback": "coolicons:backpack-duotone",
 	});
 }

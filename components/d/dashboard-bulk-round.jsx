@@ -14,15 +14,15 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.p0d8_acbc {
+.qehwg8owf {
   fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
-  d: path("M3 6a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3Zm10 8a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3h-2a3 3 0 0 1-3-3Zm-7 1h2a3 3 0 1 1 0 6H6a3 3 0 1 1 0-6");
+  d: path("M3 6a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3Zm13-3h2a3 3 0 1 1 0 6h-2a3 3 0 1 1 0-6m-3 11a3 3 0 0 1 3-3h2a3 3 0 0 1 3 3v4a3 3 0 0 1-3 3h-2a3 3 0 0 1-3-3Zm-7 1h2a3 3 0 1 1 0 6H6a3 3 0 1 1 0-6");
 }
 
 .xrvuenbxx {
   d: path("M16 3h2a3 3 0 1 1 0 6h-2a3 3 0 1 1 0-6m0 4h2a1 1 0 0 0 0-2h-2a1 1 0 0 0 0 2");
 }
-</style><g class="cuyn6tgcc"><path class="p0d8_acbc"/><path class="xrvuenbxx"/></g>`,
+</style><g class="cuyn6tgcc"><path class="qehwg8owf"/><path class="xrvuenbxx"/></g>`,
 		"fallback": "coolicons:dashboard-bulk-round",
 	});
 }

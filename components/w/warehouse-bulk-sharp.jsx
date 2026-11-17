@@ -14,15 +14,15 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
-.syq-kg8rw {
-  d: path("M21 22H3a1 1 0 0 1 0-2h5v-7a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v7h5a1 1 0 0 1 0 2m-7-6v-2h-4v2Zm-4 4h4v-2h-4Z");
+.eb7gxi5dk {
+  d: path("M7 16v-4a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v9a1 1 0 0 1-2 0v-4H9v4a1 1 0 0 1-2 0Zm2-1h6v-2H9Z");
 }
 
-.udru6813h {
+.mk_cyjbts {
   fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
-  d: path("M4 21V10c0-.379.214-.725.553-.894l6-3A1 1 0 0 1 11 6h2c.155 0 .308.036.447.106l6 3A1 1 0 0 1 20 10v11a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1");
+  d: path("M3 8c0-.379.214-.725.553-.894l6-3A1 1 0 0 1 10 4h4c.155 0 .308.036.447.106l6 3A1 1 0 0 1 21 8v13a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1Z");
 }
-</style><g class="cuyn6tgcc"><path class="udru6813h"/><path class="syq-kg8rw"/></g>`,
+</style><g class="cuyn6tgcc"><path class="mk_cyjbts"/><path class="eb7gxi5dk"/></g>`,
 		"fallback": "coolicons:warehouse-bulk-sharp",
 	});
 }

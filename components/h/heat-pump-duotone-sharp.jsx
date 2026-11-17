@@ -10,10 +10,10 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.fh-5z_bry {
+		"content": `<style>.db99k3rxo {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M2 19V3a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1");
+  d: path("M3 3h18v16H3Z");
 }
 
 .ft5d8ok9b {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-</style><g class="ft5dv1b6b"><path class="fh-5z_bry"/><path class="ft5d8ok9b"/></g>`,
+</style><g class="ft5dv1b6b"><path class="db99k3rxo"/><path class="ft5d8ok9b"/></g>`,
 		"fallback": "coolicons:heat-pump-duotone-sharp",
 	});
 }

@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.bj0wacw7t {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M5 7h14a3 3 0 0 1 3 3v8a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3v-8a3 3 0 0 1 3-3");
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
 }
 
-.ft5dv1b6b {
-  fill: none;
+.g8eyugo1n {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M5 8h14a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2");
 }
 
 .ghuv8cwmr {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M3 10a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Zm0 4h18M8 12v4m8-4v4M9 8V5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3");
 }
-</style><g class="ft5dv1b6b"><path class="bj0wacw7t"/><path class="ghuv8cwmr"/></g>`,
+</style><g class="ft5dv1b6b"><path class="g8eyugo1n"/><path class="ghuv8cwmr"/></g>`,
 		"fallback": "coolicons:toolbox-duotone",
 	});
 }

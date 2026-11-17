@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.hdfdrhban {
+.i83_glbni {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M15 6a5 5 0 0 1 5 5v6c0 1.32-.866 2.487-2.128 2.872a3 3 0 0 1-5.701.128h-.342a3 3 0 0 1-5.7-.128A3.005 3.005 0 0 1 4 17v-6a5 5 0 0 1 5-5ZM9.705 19.709l.002-.002l.002-.002a1 1 0 0 0-.002-1.412l-.002-.002a1 1 0 1 0 0 1.418m4.588-.002l.002.002a1 1 0 1 0 0-1.418l-.002.002l-.002.002a1 1 0 0 0 .002 1.412");
+  d: path("M9 7h6a4 4 0 0 1 4 4v6a2 2 0 0 1-2 2a1.999 1.999 0 0 0-3-1.732c-.619.357-1 1.017-1 1.732h-2a1.999 1.999 0 0 0-3-1.732c-.619.357-1 1.017-1 1.732a2 2 0 0 1-2-2v-6a4 4 0 0 1 4-4");
 }
 
 .ualionbsq {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M7 19a2 2 0 0 1-2-2v-6a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v6a2 2 0 0 1-2 2m-6 0h2m-6 0a2 2 0 1 0 4 0a2 2 0 0 0-4 0m6 0a2 2 0 1 0 4 0a2 2 0 0 0-4 0M9 7V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3");
 }
-</style><g class="ft5dv1b6b"><path class="hdfdrhban"/><path class="ualionbsq"/></g>`,
+</style><g class="ft5dv1b6b"><path class="i83_glbni"/><path class="ualionbsq"/></g>`,
 		"fallback": "coolicons:luggage-duotone-round",
 	});
 }

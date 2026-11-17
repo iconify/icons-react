@@ -14,12 +14,6 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.gtldxvb2y {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M22 9H10v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1Z");
-}
-
 .pey5dqb7n {
   stroke: currentColor;
   stroke-linecap: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M21 9V5H3v14h6M3 9h18m-8 8h8m-4-4v8");
 }
-</style><g class="ft5dv1b6b"><path class="gtldxvb2y"/><path class="pey5dqb7n"/></g>`,
+
+.ygbf3ub5p {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M21 5v4H9v10H3V5Z");
+}
+</style><g class="ft5dv1b6b"><path class="ygbf3ub5p"/><path class="pey5dqb7n"/></g>`,
 		"fallback": "coolicons:credit-card-plus-corner-duotone-sharp",
 	});
 }

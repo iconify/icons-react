@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   d: path("m14 11l-3 3m-4-1l2 6l3-4m-1-1l6 6l4-16l-18 7l4 2");
 }
 
-.p0zf_k2da {
+.ydwqkmd5a {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M20.638 3.068a1 1 0 0 1 1.332 1.175l-4 16a1 1 0 0 1-1.677.464l-4.185-4.185L9.8 19.6a1 1 0 0 1-1.749-.284l-1.869-5.607l-3.629-1.815a.999.999 0 0 1 .085-1.826Z");
+  d: path("m3 11l18-7l-4 16l-5-5l-3 4l-2-6Z");
 }
-</style><g class="ft5dv1b6b"><path class="p0zf_k2da"/><path class="mldb561ka"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ydwqkmd5a"/><path class="mldb561ka"/></g>`,
 		"fallback": "coolicons:telegram-duotone-round",
 	});
 }

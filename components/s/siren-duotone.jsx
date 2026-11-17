@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.cltzgtbqk {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M17 16h1a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h1v-3a5 5 0 0 1 10 0Z");
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
 }
 
-.ft5dv1b6b {
-  fill: none;
+.up6_o2s9g {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M8 17v-4a4 4 0 0 1 8 0v4h2a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-2a1 1 0 0 1 1-1Z");
 }
 
 .x2unc2h2m {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M8 17v-4a4 4 0 1 1 8 0v4M5 18a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1Zm7-5v4m0-14v2M4 5l2 2m14-2l-2 2");
 }
-</style><g class="ft5dv1b6b"><path class="cltzgtbqk"/><path class="x2unc2h2m"/></g>`,
+</style><g class="ft5dv1b6b"><path class="up6_o2s9g"/><path class="x2unc2h2m"/></g>`,
 		"fallback": "coolicons:siren-duotone",
 	});
 }

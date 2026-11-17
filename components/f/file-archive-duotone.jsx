@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   d: path("M13 3H7a2 2 0 0 0-2 2v16M19 9v10a2 2 0 0 1-2 2h-2M13 3l6 6m-6-6v4a2 2 0 0 0 2 2h4m-9-3h.01M8 8h.01M10 10h.01M8 12h.01M10 16a2 2 0 0 1 2 2v2a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-2a2 2 0 0 1 2-2");
 }
 
-.x9vmpf0uk {
+.xhpy6nagz {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M4 5a3 3 0 0 1 3-3h6c.265 0 .52.105.707.293l6 6A1 1 0 0 1 20 9v10a3 3 0 0 1-3 3h-2a1 1 0 0 1-1-1v-3a4 4 0 0 0-8-.003V18a1 1 0 0 1-2 0Zm9 2a2 2 0 0 0 2 2h3l-5-5Z");
+  d: path("M5 18V5a2 2 0 0 1 2-2h6l.034.034q-.01-.01-.022-.004a.02.02 0 0 0-.012.018V7a2 2 0 0 0 2 2h3.952a.02.02 0 0 0 .018-.012q.006-.012-.004-.022L19 9v10a2 2 0 0 1-2 2h-2v-3a5 5 0 0 0-10 0");
 }
-</style><g class="ft5dv1b6b"><path class="x9vmpf0uk"/><path class="lm1m17bnv"/></g>`,
+</style><g class="ft5dv1b6b"><path class="xhpy6nagz"/><path class="lm1m17bnv"/></g>`,
 		"fallback": "coolicons:file-archive-duotone",
 	});
 }

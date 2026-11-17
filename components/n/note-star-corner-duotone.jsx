@@ -10,13 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.b_8a2qb8l {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M20 9H10a.997.997 0 0 0-1 1v10a1 1 0 0 1-1 1H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v2a1 1 0 0 1-1 1m-3 4.4l1.2 2.4l2.8.4l-2 2l.4 2.4l-2.4-1.2l-2.4 1.2l.4-2.4l-2-2l2.8-.4Z");
-}
-
-.d2mmrqbls {
+		"content": `<style>.d2mmrqbls {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-</style><g class="ft5dv1b6b"><path class="b_8a2qb8l"/><path class="d2mmrqbls"/></g>`,
+
+.ifur0kimn {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M10 8a2 2 0 0 0-2 2v10H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v2Zm7 5.4l1.2 2.4l2.8.4l-2 2l.4 2.4l-2.4-1.2l-2.4 1.2l.4-2.4l-2-2l2.8-.4Z");
+}
+</style><g class="ft5dv1b6b"><path class="ifur0kimn"/><path class="d2mmrqbls"/></g>`,
 		"fallback": "coolicons:note-star-corner-duotone",
 	});
 }

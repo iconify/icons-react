@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.d-9wrobuo {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M2 18V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1");
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
 }
 
-.ft5dv1b6b {
-  fill: none;
+.n0ait_btq {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M3 4h18v14H3Z");
 }
 
 .pt76yobaa {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M3 4h18v14H3Zm4 14v2m10-2v2m0-12v6M7 8h6v6H7Z");
 }
-</style><g class="ft5dv1b6b"><path class="d-9wrobuo"/><path class="pt76yobaa"/></g>`,
+</style><g class="ft5dv1b6b"><path class="n0ait_btq"/><path class="pt76yobaa"/></g>`,
 		"fallback": "coolicons:microwave-duotone-sharp",
 	});
 }

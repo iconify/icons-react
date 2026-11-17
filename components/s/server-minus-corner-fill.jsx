@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.azcpo-b5y {
+		"content": `<style>.vyb_i5bzj {
   fill: currentColor;
-  d: path("M5 3h14a3 3 0 0 1 3 3v2a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3m2.01 3H7a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2M9 21H5a3 3 0 0 1-3-3v-2a3 3 0 0 1 3-3h4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1m12-6a1 1 0 0 1 0 2h-8a1 1 0 0 1 0-2ZM7.01 16H7a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2");
+  d: path("M5 3h14a3 3 0 0 1 3 3v2a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3m2.01 3H7a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2M9 21H5a3 3 0 0 1-3-3v-2a3 3 0 0 1 3-3h4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1m-1.99-5H7a1 1 0 0 0 0 2h.01a1 1 0 0 0 0-2M21 16a1 1 0 0 1 0 2h-8a1 1 0 0 1 0-2Z");
 }
-</style><path class="azcpo-b5y"/>`,
+</style><path class="vyb_i5bzj"/>`,
 		"fallback": "coolicons:server-minus-corner-fill",
 	});
 }

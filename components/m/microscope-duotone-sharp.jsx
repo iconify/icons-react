@@ -10,10 +10,10 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.czbef8bul {
+		"content": `<style>.f83d538gf {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M12 2a1 1 0 0 1 1 1v2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1V3a1 1 0 0 1 1-1Z");
+  d: path("M8 3h4v3h1v7H7V6h1Z");
 }
 
 .ft5dv1b6b {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M7 6h6v7H7zm1 0V3h4v3M3 21h18M6 17h8m0 4a6 6 0 0 0 6-6a5 5 0 0 0-5-5h-2");
 }
-</style><g class="ft5dv1b6b"><path class="czbef8bul"/><path class="ydajjgzjr"/></g>`,
+</style><g class="ft5dv1b6b"><path class="f83d538gf"/><path class="ydajjgzjr"/></g>`,
 		"fallback": "coolicons:microscope-duotone-sharp",
 	});
 }

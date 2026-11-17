@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
-  fill: none;
-}
-
-.pi29rp78s {
+		"content": `<style>.b9m2racsx {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M7.099 12a5.003 5.003 0 0 1 9.802 0H20a1 1 0 0 1 1 1v6a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3v-6a1 1 0 0 1 1-1Z");
+  d: path("M8 13a4 4 0 0 1 8 0h4v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-6Z");
+}
+
+.ft5dv1b6b {
+  fill: none;
 }
 
 .r69yiomum {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 13h16v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zm4 0a4 4 0 1 1 8 0M4 13V9m16 4V9M4 6c1 1.5 1 2 1 3H3c0-1 0-1.5 1-3m16 0c1 1.5 1 2 1 3h-2c0-1 0-1.5 1-3M10 21v-2a2 2 0 1 1 4 0v2M10.586 2.586a2 2 0 1 0 2.828 2.828M12 6v3");
 }
-</style><g class="ft5dv1b6b"><path class="pi29rp78s"/><path class="r69yiomum"/></g>`,
+</style><g class="ft5dv1b6b"><path class="b9m2racsx"/><path class="r69yiomum"/></g>`,
 		"fallback": "coolicons:mosque-duotone",
 	});
 }

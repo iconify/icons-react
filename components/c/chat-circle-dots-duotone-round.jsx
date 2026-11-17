@@ -10,7 +10,13 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
+		"content": `<style>.b_5suczoi {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M4 16A8.944 8.944 0 0 1 18.325 5.675A8.944 8.944 0 0 1 8 20l-5 1Z");
+}
+
+.ft5dv1b6b {
   fill: none;
 }
 
@@ -21,13 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 16a8.944 8.944 0 1 1 4 4l-5 1Zm4-4h.01M12 12h.01M16 12h.01");
 }
-
-.mx9hxde4b {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M2.954 16.131A9.946 9.946 0 0 1 19.032 4.968A9.945 9.945 0 0 1 7.869 21.046l-4.673.935a1 1 0 0 1-1.177-1.177Z");
-}
-</style><g class="ft5dv1b6b"><path class="mx9hxde4b"/><path class="ha07w4bcf"/></g>`,
+</style><g class="ft5dv1b6b"><path class="b_5suczoi"/><path class="ha07w4bcf"/></g>`,
 		"fallback": "coolicons:chat-circle-dots-duotone-round",
 	});
 }

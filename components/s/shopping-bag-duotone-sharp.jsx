@@ -14,12 +14,6 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.i6a67xb2r {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M4 21V6a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v15a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1");
-}
-
 .isnbcu8yk {
   stroke: currentColor;
   stroke-linecap: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M5 6h14v15H5Zm4 0a3 3 0 0 1 6 0");
 }
-</style><g class="ft5dv1b6b"><path class="i6a67xb2r"/><path class="isnbcu8yk"/></g>`,
+
+.m_n6lmbtj {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M5 6h14v15H5Z");
+}
+</style><g class="ft5dv1b6b"><path class="m_n6lmbtj"/><path class="isnbcu8yk"/></g>`,
 		"fallback": "coolicons:shopping-bag-duotone-sharp",
 	});
 }

@@ -10,13 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.aku4ale_f {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M9.236 16.832a3 3 0 1 1 5.527 2.338a3 3 0 0 1-5.527-2.338");
-}
-
-.f2v3r3q4z {
+		"content": `<style>.f2v3r3q4z {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-</style><g class="ft5dv1b6b"><path class="aku4ale_f"/><path class="f2v3r3q4z"/></g>`,
+
+.sltxuoywr {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M12 20a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 20");
+}
+</style><g class="ft5dv1b6b"><path class="sltxuoywr"/><path class="f2v3r3q4z"/></g>`,
 		"fallback": "coolicons:git-push-duotone-sharp",
 	});
 }

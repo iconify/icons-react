@@ -10,10 +10,10 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.airo5ybgg {
+		"content": `<style>.e_2xz9bxs {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M10 7v10a3 3 0 1 1-6 0v-.171A3 3 0 0 1 2 14v-4c0-1.27.803-2.405 2-2.829V7a3 3 0 1 1 6 0m10 0v.171A3 3 0 0 1 22 10v4c0 1.27-.803 2.405-2 2.829V17a3 3 0 1 1-6 0V7a3 3 0 1 1 6 0");
+  d: path("M5 7a2 2 0 1 1 4 0v10a2 2 0 1 1-4 0v-1a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2Zm10 0a2 2 0 1 1 4 0v1a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2v1a2 2 0 1 1-4 0Z");
 }
 
 .ft5dv1b6b {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M5 7a2 2 0 1 1 4 0v10a2 2 0 1 1-4 0Zm10 0a2 2 0 1 1 4 0v10a2 2 0 1 1-4 0ZM5 8a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2m14-8a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2M9 12h6");
 }
-</style><g class="ft5dv1b6b"><path class="airo5ybgg"/><path class="n8itx3u-v"/></g>`,
+</style><g class="ft5dv1b6b"><path class="e_2xz9bxs"/><path class="n8itx3u-v"/></g>`,
 		"fallback": "coolicons:dumbbell-duotone-round",
 	});
 }

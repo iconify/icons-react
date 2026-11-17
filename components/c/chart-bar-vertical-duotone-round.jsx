@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
-  fill: none;
-}
-
-.xcv31pbge {
+		"content": `<style>.ee11mdbab {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M9 6a3 3 0 1 1 6 0v14a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1Zm13 4v10a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1V10a3 3 0 0 1 6 0M2 13a3 3 0 0 1 6 0v7a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1Z");
+  d: path("M13 4a2 2 0 0 1 2 2v14H9V6a2 2 0 0 1 2-2Zm3 6c0-.741.268-1.449.764-2H19a2 2 0 0 1 2 2v10h-5Zm-8 3v7H3v-7a2 2 0 0 1 2-2h2.236c.494.552.766 1.259.764 2");
+}
+
+.ft5dv1b6b {
+  fill: none;
 }
 
 .xglusac3x {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M3 20v-5a4 4 0 0 1 4-4h2V7a3 3 0 0 1 6 0v1h2a4 4 0 0 1 4 4v8zm6 0v-9m6 9V8");
 }
-</style><g class="ft5dv1b6b"><path class="xcv31pbge"/><path class="xglusac3x"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ee11mdbab"/><path class="xglusac3x"/></g>`,
 		"fallback": "coolicons:chart-bar-vertical-duotone-round",
 	});
 }

@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.kziqlwbeq {
+.n_sj1zbhu {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M6.472 5.664a6.001 6.001 0 1 1 11.055 4.674A6.001 6.001 0 0 1 6.472 5.664");
+  d: path("M12 13a5 5 0 1 1 .001-10.001A5 5 0 0 1 12 13");
 }
 
 .xafi2hben {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M7 8a5 5 0 1 0 10 0A5 5 0 0 0 7 8m5 5v8m-3-4h6");
 }
-</style><g class="ft5dv1b6b"><path class="kziqlwbeq"/><path class="xafi2hben"/></g>`,
+</style><g class="ft5dv1b6b"><path class="n_sj1zbhu"/><path class="xafi2hben"/></g>`,
 		"fallback": "coolicons:venus-duotone-round",
 	});
 }

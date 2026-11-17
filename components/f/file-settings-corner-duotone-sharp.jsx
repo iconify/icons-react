@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
-  fill: none;
-}
-
-.rd8d7acmw {
+		"content": `<style>.esus3r06j {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M13 2c.265 0 .52.105.707.293l6 6A1 1 0 0 1 19 10h-9v11a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1Zm0 6h4l-4-4Z");
+  d: path("M5 3h8l.034.034q-.01-.01-.022-.004a.02.02 0 0 0-.012.018V8.98q.002.018.02.02H9v12H5Z");
+}
+
+.ft5dv1b6b {
+  fill: none;
 }
 
 .wgvhlwbil {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M13 3H5v18h4m4-18l6 6m-6-6v6h6m-5 8a3 3 0 1 0 6 0a3 3 0 0 0-6 0m3-3v-1m2.598 2.5l.866-.5m-.866 3.5l.866.5M17 20v1m-2.598-2.5l-.866.5m.866-3.5l-.866-.5");
 }
-</style><g class="ft5dv1b6b"><path class="rd8d7acmw"/><path class="wgvhlwbil"/></g>`,
+</style><g class="ft5dv1b6b"><path class="esus3r06j"/><path class="wgvhlwbil"/></g>`,
 		"fallback": "coolicons:file-settings-corner-duotone-sharp",
 	});
 }

@@ -10,11 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.a3a8_261r {
+		"content": `<style>.c7a38mbqt {
   fill: currentColor;
-  d: path("M21 22h-5v-9a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v9H3a1 1 0 0 1 0-2h1V10c0-.379.214-.725.553-.894l6-3A1 1 0 0 1 11 6h2c.155 0 .308.036.447.106l6 3A1 1 0 0 1 20 10v10h1a1 1 0 0 1 0 2m-8-6h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2m0 4h-2a1 1 0 0 1 0-2h2a1 1 0 0 1 0 2");
+  d: path("M17 22V12a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v10H4a1 1 0 0 1-1-1V8c0-.379.214-.725.553-.894l6-3A1 1 0 0 1 10 4h4c.155 0 .308.036.447.106l6 3A1 1 0 0 1 21 8v13a1 1 0 0 1-1 1Zm-8-6v-3h6v3Zm0 6v-4h6v4Z");
 }
-</style><path class="a3a8_261r"/>`,
+</style><path class="c7a38mbqt"/>`,
 		"fallback": "coolicons:warehouse-fill-sharp",
 	});
 }

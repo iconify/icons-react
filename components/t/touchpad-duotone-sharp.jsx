@@ -14,12 +14,6 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.haf-ibb5e {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M2 19V5a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1");
-}
-
 .hpou2sbbp {
   stroke: currentColor;
   stroke-linecap: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M3 5h18v14H3Zm0 9h18m-9 0v5");
 }
-</style><g class="ft5dv1b6b"><path class="haf-ibb5e"/><path class="hpou2sbbp"/></g>`,
+
+.q-vq7u6zb {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M3 5h18v14H3Z");
+}
+</style><g class="ft5dv1b6b"><path class="q-vq7u6zb"/><path class="hpou2sbbp"/></g>`,
 		"fallback": "coolicons:touchpad-duotone-sharp",
 	});
 }

@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.khuiqacrc {
+.uf2_fabkd {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M13.707 10.293A1 1 0 0 1 14 11v6a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5v-7a5 5 0 0 1 5-5h1c.265 0 .52.105.707.293ZM8 10a1 1 0 0 0 1 1h3L8 7Z");
+  d: path("m8 6l.034.034q-.01-.01-.022-.004A.02.02 0 0 0 8 6.048V10a1 1 0 0 0 1 1h3.952a.02.02 0 0 0 .018-.012q.005-.013-.004-.022L13 11v6a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4v-7a4 4 0 0 1 4-4Z");
 }
-</style><g class="ft5dv1b6b"><path class="khuiqacrc"/><path class="a76rvbb1i"/></g>`,
+</style><g class="ft5dv1b6b"><path class="uf2_fabkd"/><path class="a76rvbb1i"/></g>`,
 		"fallback": "coolicons:files-duotone-round",
 	});
 }

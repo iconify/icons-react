@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ft5dv1b6b {
-  fill: none;
-}
-
-.qmx8ahsjp {
+		"content": `<style>.ammgaxpqi {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3.472 6.664a6.001 6.001 0 1 1 11.055 4.674A6.001 6.001 0 0 1 3.472 6.664");
+  d: path("M9 14a5 5 0 1 1 .001-10.001A5 5 0 0 1 9 14");
+}
+
+.ft5dv1b6b {
+  fill: none;
 }
 
 .rjggz6acn {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 9a5 5 0 1 0 10 0A5 5 0 0 0 4 9m14 2a5 5 0 1 1-7 7");
 }
-</style><g class="ft5dv1b6b"><path class="qmx8ahsjp"/><path class="rjggz6acn"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ammgaxpqi"/><path class="rjggz6acn"/></g>`,
 		"fallback": "coolicons:coins-duotone",
 	});
 }

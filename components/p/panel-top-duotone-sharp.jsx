@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.vpior5qrk {
+.urnnvt0sn {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M3 9V4a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1");
+  d: path("M4 4h16v5H4Z");
 }
 
 .zki7pzb1r {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 4h16v16H4Zm0 5h16");
 }
-</style><g class="ft5dv1b6b"><path class="vpior5qrk"/><path class="zki7pzb1r"/></g>`,
+</style><g class="ft5dv1b6b"><path class="urnnvt0sn"/><path class="zki7pzb1r"/></g>`,
 		"fallback": "coolicons:panel-top-duotone-sharp",
 	});
 }

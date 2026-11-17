@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.iedi74b1o {
+.jh-41ccap {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M21 9H10v11a1 1 0 0 1-1 1H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3Z");
+  d: path("M20 9H9v11H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2Z");
 }
 
 .ow3qx6b0p {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M12 4h6a2 2 0 0 1 2 2v3M9 20H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h6M4 9h16M4 15h5m3-11v5m1 7h8");
 }
-</style><g class="ft5dv1b6b"><path class="iedi74b1o"/><path class="ow3qx6b0p"/></g>`,
+</style><g class="ft5dv1b6b"><path class="jh-41ccap"/><path class="ow3qx6b0p"/></g>`,
 		"fallback": "coolicons:table-minus-corner-duotone",
 	});
 }

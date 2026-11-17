@@ -10,13 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.cewbmcbks {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M5 10V5a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v5h2a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V11a1 1 0 0 1 1-1Z");
-}
-
-.ft5dv1b6b {
+		"content": `<style>.ft5dv1b6b {
   fill: none;
 }
 
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M3 11h18v10H3zm3 0V3m12 8V3M6 5h12m-8-2v2m4-2v2M9 21v-3a3 3 0 0 1 6 0v3");
 }
-</style><g class="ft5dv1b6b"><path class="cewbmcbks"/><path class="rjmlhed3b"/></g>`,
+
+.yb8zugb1f {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M3 11h3V5h12v6h3v10H3Z");
+}
+</style><g class="ft5dv1b6b"><path class="yb8zugb1f"/><path class="rjmlhed3b"/></g>`,
 		"fallback": "coolicons:castle-duotone-sharp",
 	});
 }

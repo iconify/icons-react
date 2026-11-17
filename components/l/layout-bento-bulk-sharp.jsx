@@ -14,15 +14,15 @@ function Component({width, height, ...props}) {
   d: path("M13 4a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-6a1 1 0 0 1-1-1Zm2 5h4V5h-4Z");
 }
 
+.bovq1ww-s {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M4 3h6a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1m10 0h6a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1m0 10h6a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-6a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1");
+}
+
 .cuyn6tgcc {
   fill: currentColor;
 }
-
-.p0f3t6b7r {
-  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
-  d: path("M4 3h6a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1m10 10h6a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-6a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1");
-}
-</style><g class="cuyn6tgcc"><path class="p0f3t6b7r"/><path class="bcmlmcbbi"/></g>`,
+</style><g class="cuyn6tgcc"><path class="bovq1ww-s"/><path class="bcmlmcbbi"/></g>`,
 		"fallback": "coolicons:layout-bento-bulk-sharp",
 	});
 }

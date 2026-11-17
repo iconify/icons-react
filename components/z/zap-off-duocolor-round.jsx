@@ -10,11 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ehqeh5b9h {
-  d: path("m7 10l-2 2c-.369.369.262 1 1 1h2a2 2 0 0 1 2 2v4c0 .738.631 1.369 1 1l3-3m3-3l2-2c.369-.369-.262-1-1-1h-2a2 2 0 0 1-2-2V5c0-.738-.631-1.369-1-1l-3 3");
-}
-
-.nrj6p8qat {
+		"content": `<style>.nrj6p8qat {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -26,7 +22,11 @@ function Component({width, height, ...props}) {
   stroke-opacity: 0.4;
   d: path("m2 5l17 17");
 }
-</style><g class="nrj6p8qat"><path class="sr6trvpei"/><path class="ehqeh5b9h"/></g>`,
+
+.tcda3bczp {
+  d: path("m7.658 10.658l-1.413 1.777A.965.965 0 0 0 7 14h1.25a2 2 0 0 1 2 2v3c0 .661.833.952 1.245.435l2.189-2.751m2.658-3.342l1.413-1.777A.965.965 0 0 0 17 10h-1.25a2 2 0 0 1-2-2V5c0-.661-.833-.952-1.245-.435l-2.189 2.751");
+}
+</style><g class="nrj6p8qat"><path class="sr6trvpei"/><path class="tcda3bczp"/></g>`,
 		"fallback": "coolicons:zap-off-duocolor-round",
 	});
 }

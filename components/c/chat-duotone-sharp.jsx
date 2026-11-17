@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.wpkkbtb6t {
+.t2r6mix0j {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("m7.414 18l-3.707 3.707A1 1 0 0 1 2 21V3a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1Z");
+  d: path("M21 17H7l-4 4V3h18Z");
 }
 
 .xwixmdb3g {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M12 17H7l-4 4V3h18v14z");
 }
-</style><g class="ft5dv1b6b"><path class="wpkkbtb6t"/><path class="xwixmdb3g"/></g>`,
+</style><g class="ft5dv1b6b"><path class="t2r6mix0j"/><path class="xwixmdb3g"/></g>`,
 		"fallback": "coolicons:chat-duotone-sharp",
 	});
 }

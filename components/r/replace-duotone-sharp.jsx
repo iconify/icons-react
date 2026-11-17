@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.s1ylnab2z {
+.kp578ccuu {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M2 21v-6a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1");
+  d: path("M3 15h6v6H3Z");
 }
-</style><g class="ft5dv1b6b"><path class="s1ylnab2z"/><path class="f-ts_ybys"/></g>`,
+</style><g class="ft5dv1b6b"><path class="kp578ccuu"/><path class="f-ts_ybys"/></g>`,
 		"fallback": "coolicons:replace-duotone-sharp",
 	});
 }

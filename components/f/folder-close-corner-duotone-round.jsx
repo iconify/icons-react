@@ -10,13 +10,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.afl3bub4y {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M12.414 5H19a3 3 0 0 1 3 3a1 1 0 0 1-1 1h-9a3 3 0 0 0-3 3v8a1 1 0 0 1-1 1H7a5 5 0 0 1-5-5V6a3 3 0 0 1 3-3h5c.265 0 .52.105.707.293Z");
-}
-
-.e67bmrboj {
+		"content": `<style>.e67bmrboj {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -27,7 +21,13 @@ function Component({width, height, ...props}) {
 .ft5dv1b6b {
   fill: none;
 }
-</style><g class="ft5dv1b6b"><path class="afl3bub4y"/><path class="e67bmrboj"/></g>`,
+
+.ny257zbtk {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("m10 4l2 2h7a2 2 0 0 1 2 2h-9a4 4 0 0 0-4 4v8H7a4 4 0 0 1-4-4V6a2 2 0 0 1 2-2Z");
+}
+</style><g class="ft5dv1b6b"><path class="ny257zbtk"/><path class="e67bmrboj"/></g>`,
 		"fallback": "coolicons:folder-close-corner-duotone-round",
 	});
 }

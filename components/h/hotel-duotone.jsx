@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.woq1mtbox {
+.zunbd81nu {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M5 22a1 1 0 0 1-1-1V5a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v16a1 1 0 0 1-1 1Z");
+  d: path("M5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16Z");
 }
-</style><g class="ft5dv1b6b"><path class="woq1mtbox"/><path class="e9fmujx8d"/></g>`,
+</style><g class="ft5dv1b6b"><path class="zunbd81nu"/><path class="e9fmujx8d"/></g>`,
 		"fallback": "coolicons:hotel-duotone",
 	});
 }

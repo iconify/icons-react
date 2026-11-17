@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.a1f65sbkk {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M7.099 12a5.003 5.003 0 0 1 9.802 0H20a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-8a1 1 0 0 1 1-1Z");
+		"content": `<style>.ft5dv1b6b {
+  fill: none;
 }
 
-.ft5dv1b6b {
-  fill: none;
+.p6yts4byg {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M8 13a4 4 0 0 1 8 0h4v8H4v-8Z");
 }
 
 .ze1x55b6q {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 13h16v8H4zm4 0a4 4 0 1 1 8 0M4 13V9m16 4V9M4 6c1 1.5 1 2 1 3H3c0-1 0-1.5 1-3m16 0c1 1.5 1 2 1 3h-2c0-1 0-1.5 1-3M10 21v-2a2 2 0 1 1 4 0v2M10.586 2.586a2 2 0 1 0 2.828 2.828M12 6v3");
 }
-</style><g class="ft5dv1b6b"><path class="a1f65sbkk"/><path class="ze1x55b6q"/></g>`,
+</style><g class="ft5dv1b6b"><path class="p6yts4byg"/><path class="ze1x55b6q"/></g>`,
 		"fallback": "coolicons:mosque-duotone-sharp",
 	});
 }

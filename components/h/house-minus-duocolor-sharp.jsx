@@ -10,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.jdf5k2bjp {
+		"content": `<style>.is_4m5cif {
+  d: path("m12 3l8 7v11H4V10z");
+}
+
+.jdf5k2bjp {
   stroke-opacity: 0.4;
   d: path("M9 14h6");
 }
@@ -22,11 +26,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-
-.z_356sbxy {
-  d: path("m16 7l4 4v10H4V11l8-8z");
-}
-</style><g class="nrj6p8qat"><path class="jdf5k2bjp"/><path class="z_356sbxy"/></g>`,
+</style><g class="nrj6p8qat"><path class="jdf5k2bjp"/><path class="is_4m5cif"/></g>`,
 		"fallback": "coolicons:house-minus-duocolor-sharp",
 	});
 }

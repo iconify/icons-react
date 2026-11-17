@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.padhgubod {
+.igmg-eblr {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M20 14a1 1 0 0 1 1 1v1a5 5 0 0 1-1.464 3.536A5 5 0 0 1 16 21H8a5 5 0 0 1-5-5v-1a1 1 0 0 1 1-1Z");
+  d: path("M20 15v1a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-1Z");
 }
 
 .tjh72-f0i {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M4 8a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4Zm0 7h16");
 }
-</style><g class="ft5dv1b6b"><path class="padhgubod"/><path class="tjh72-f0i"/></g>`,
+</style><g class="ft5dv1b6b"><path class="igmg-eblr"/><path class="tjh72-f0i"/></g>`,
 		"fallback": "coolicons:panel-bottom-duotone-round",
 	});
 }

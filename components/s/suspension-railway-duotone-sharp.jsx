@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.xd737zm8x {
+.ue8xubbqq {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M2 20V9a1 1 0 0 1 1-1h14c.265 0 .52.105.707.293l4 4A1 1 0 0 1 22 13v7a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1");
+  d: path("M3 9h14l4 4v7H3Z");
 }
-</style><g class="ft5dv1b6b"><path class="xd737zm8x"/><path class="ewylibb5k"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ue8xubbqq"/><path class="ewylibb5k"/></g>`,
 		"fallback": "coolicons:suspension-railway-duotone-sharp",
 	});
 }

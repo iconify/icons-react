@@ -10,15 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.p_divgc8n {
+		"content": `<style>.cu6_2obnj {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("M3 20h18M5 20v-9l7-7l7 7v9m-9 0v-4a2 2 0 1 1 4 0v4");
+  d: path("M3 21h18M4 21V10l8-7l8 7v11m-10 0v-4a2 2 0 1 1 4 0v4");
 }
-</style><path class="p_divgc8n"/>`,
+</style><path class="cu6_2obnj"/>`,
 		"fallback": "coolicons:house-alt-2-sharp",
 	});
 }

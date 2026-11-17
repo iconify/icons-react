@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.mbn-n19qn {
+.jl4rwabie {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M13 11.51V21a1.62 1.62 0 0 1-2.339 1.454l-7.547-3.727A2 2 0 0 1 2 16.934V7.066a2 2 0 0 1 1.114-1.793l8-3.951a2 2 0 0 1 1.772 0l7.66 3.783a1.494 1.494 0 0 1 0 2.679Z");
+  d: path("M12 10.889V21a.623.623 0 0 1-.897.557l-7.546-3.726A1 1 0 0 1 3 16.934V7.066a1 1 0 0 1 .557-.897l8-3.95a1 1 0 0 1 .886 0l7.66 3.783a.493.493 0 0 1 0 .885Z");
 }
-</style><g class="ft5dv1b6b"><path class="mbn-n19qn"/><path class="ddgzt92rv"/></g>`,
+</style><g class="ft5dv1b6b"><path class="jl4rwabie"/><path class="ddgzt92rv"/></g>`,
 		"fallback": "coolicons:box-export-duotone",
 	});
 }

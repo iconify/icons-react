@@ -14,10 +14,10 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.pmxfg0buc {
+.oj5k2ijtj {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M18 3a1 1 0 0 1 1 1v16a1 1 0 0 1-1.555.832L12 17.202l-5.445 3.63A1 1 0 0 1 5 20V4a1 1 0 0 1 1-1Z");
+  d: path("M6 4h12v16l-6-4l-6 4Z");
 }
 
 .xwkif6bnj {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
   d: path("M12 4h6v16l-6-4l-6 4V4zm-3 6h6m-3-3v6");
 }
-</style><g class="ft5dv1b6b"><path class="pmxfg0buc"/><path class="xwkif6bnj"/></g>`,
+</style><g class="ft5dv1b6b"><path class="oj5k2ijtj"/><path class="xwkif6bnj"/></g>`,
 		"fallback": "coolicons:bookmark-plus-duotone-sharp",
 	});
 }

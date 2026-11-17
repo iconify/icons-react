@@ -10,7 +10,11 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.nrj6p8qat {
+		"content": `<style>.hx04j0k6h {
+  d: path("M3 7a3 3 0 0 1 3-3h12a3 3 0 0 1 0 6H6a3 3 0 0 1-3-3m6 13H6a3 3 0 0 1 0-6h3M7 7h.01M7 17h.01");
+}
+
+.nrj6p8qat {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
@@ -22,11 +26,7 @@ function Component({width, height, ...props}) {
   stroke-opacity: 0.4;
   d: path("m13 17l3 3l5-6");
 }
-
-.z7y7a6b7p {
-  d: path("M3 7a3 3 0 0 1 3-3h12a3 3 0 0 1 0 6H6a3 3 0 0 1-3-3m0 7h6m0 6H6a3 3 0 0 1-3-3v-3m4-7h.01M7 17h.01");
-}
-</style><g class="nrj6p8qat"><path class="ok8l_-wct"/><path class="z7y7a6b7p"/></g>`,
+</style><g class="nrj6p8qat"><path class="ok8l_-wct"/><path class="hx04j0k6h"/></g>`,
 		"fallback": "coolicons:server-check-corner-duocolor-round",
 	});
 }

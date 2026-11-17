@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   d: path("M6 10a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v4a4 4 0 0 1-4 4h-4a4 4 0 0 1-4-4Zm3-4V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1M9 18v1a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1");
 }
 
-.ucqmhwbva {
+.l5vv-kb4g {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M10 5h4a5 5 0 0 1 5 5v4a5 5 0 0 1-1.464 3.536A5 5 0 0 1 14 19h-4a5 5 0 0 1-5-5v-4a5 5 0 0 1 5-5");
+  d: path("M10 6h4a4 4 0 0 1 4 4v4a4 4 0 0 1-4 4h-4a4 4 0 0 1-4-4v-4a4 4 0 0 1 4-4");
 }
-</style><g class="ft5dv1b6b"><path class="ucqmhwbva"/><path class="kazrtko-r"/></g>`,
+</style><g class="ft5dv1b6b"><path class="l5vv-kb4g"/><path class="kazrtko-r"/></g>`,
 		"fallback": "coolicons:smartwatch-duotone-round",
 	});
 }

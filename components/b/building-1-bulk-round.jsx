@@ -15,14 +15,14 @@ function Component({width, height, ...props}) {
   d: path("M12 21H5a1 1 0 0 1-1-1V7a4 4 0 0 1 4-4h1a4 4 0 0 1 4 4v13a1 1 0 0 1-1 1");
 }
 
+.cs38jmh7x {
+  d: path("M8 19v-4.078a5 5 0 0 1 1.876-3.904l1-.8a5 5 0 0 1 6.248 0l1 .8A4.98 4.98 0 0 1 20 14.922V19h1a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2Zm2 0h8v-4.078a2.99 2.99 0 0 0-1.126-2.342l-1-.8a3 3 0 0 0-3.748 0l-1 .8A3 3 0 0 0 10 14.922Z");
+}
+
 .cuyn6tgcc {
   fill: currentColor;
 }
-
-.eo5h4kbui {
-  d: path("M8 19v-3c0-1.317.335-2.749 1.293-3.707l2-2a3.83 3.83 0 0 1 5.414 0l2 2C19.665 13.251 20 14.687 20 16v3h1a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2Zm2 0h8v-3c0-.742-.15-1.736-.707-2.293l-2-2a1.83 1.83 0 0 0-2.586 0l-2 2C10.152 14.262 10 15.249 10 16Z");
-}
-</style><g class="cuyn6tgcc"><path class="bc0ft1biw"/><path class="eo5h4kbui"/></g>`,
+</style><g class="cuyn6tgcc"><path class="bc0ft1biw"/><path class="cs38jmh7x"/></g>`,
 		"fallback": "coolicons:building-1-bulk-round",
 	});
 }

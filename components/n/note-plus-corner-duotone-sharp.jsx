@@ -18,16 +18,16 @@ function Component({width, height, ...props}) {
   d: path("M8 20H4V4h16v4m-7 9h8m-4-4v8");
 }
 
+.chfyw2b4v {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
+  d: path("M4 4h16v4H8v12H4Z");
+}
+
 .ft5dv1b6b {
   fill: none;
 }
-
-.q4wo9b_-l {
-  fill: currentColor;
-  fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M20 3a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H9v11a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z");
-}
-</style><g class="ft5dv1b6b"><path class="q4wo9b_-l"/><path class="c9g2esbit"/></g>`,
+</style><g class="ft5dv1b6b"><path class="chfyw2b4v"/><path class="c9g2esbit"/></g>`,
 		"fallback": "coolicons:note-plus-corner-duotone-sharp",
 	});
 }

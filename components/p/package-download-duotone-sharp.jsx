@@ -22,12 +22,12 @@ function Component({width, height, ...props}) {
   d: path("m5 6l1-2h12l2 4v12H4V8zM4 8h16M9 14l3 3l3-3m-3 3v-6");
 }
 
-.pe-0h2bzk {
+.ypziembin {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
-  d: path("M5.106 3.553A1 1 0 0 1 6 3h12c.379 0 .725.214.894.553l2 4A1 1 0 0 1 20 9H4a1 1 0 0 1-.894-1.447Z");
+  d: path("M6 4h12l2 4H4Z");
 }
-</style><g class="ft5dv1b6b"><path class="pe-0h2bzk"/><path class="hy-ryqbbi"/></g>`,
+</style><g class="ft5dv1b6b"><path class="ypziembin"/><path class="hy-ryqbbi"/></g>`,
 		"fallback": "coolicons:package-download-duotone-sharp",
 	});
 }

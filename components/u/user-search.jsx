@@ -3,8 +3,8 @@ import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/b/b_-gkxb7l.css';
 import '../../css/t/tbbzplh7l.css';
-import '../../css/v/vppvk20zr.css';
-import '../../css/d/dtho9pedw.css';
+import '../../css/v/vzkhs6b9b.css';
+import '../../css/p/pyvef_bnq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="b_-gkxb7l"/><path class="tbbzplh7l"/><path class="vppvk20zr"/><path class="dtho9pedw"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="b_-gkxb7l"/><path class="tbbzplh7l"/><path class="vzkhs6b9b"/><path class="pyvef_bnq"/></g>`,
 		"fallback": "andrsrxn:user-search",
 	});
 }

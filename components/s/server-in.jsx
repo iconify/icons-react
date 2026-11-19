@@ -1,12 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/f/f8lud0bbk.css';
-import '../../css/l/lweu_37li.css';
-import '../../css/j/j_e93hhyk.css';
-import '../../css/n/n3pj-_q4a.css';
+import '../../css/s/sdlti5yes.css';
+import '../../css/o/oq5dh1_ib.css';
+import '../../css/o/o01iqbc4j.css';
 import '../../css/i/izb20nb-l.css';
-import '../../css/k/ki0w30bai.css';
+import '../../css/n/n7ru0qb3e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -17,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><rect transform="rotate(-90 1.78 9)" class="f8lud0bbk"/><path class="lweu_37li"/><rect transform="rotate(-90 1.78 9)" class="j_e93hhyk"/><path class="n3pj-_q4a"/><path class="izb20nb-l"/><path class="ki0w30bai"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="sdlti5yes"/><path class="oq5dh1_ib"/><path class="o01iqbc4j"/><path class="izb20nb-l"/><path class="n7ru0qb3e"/></g>`,
 		"fallback": "andrsrxn:server-in",
 	});
 }

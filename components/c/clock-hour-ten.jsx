@@ -3,7 +3,7 @@ import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/l/lx_j5lb4z.css';
 import '../../css/m/mpf1g8bav.css';
-import '../../css/l/l6vzwt_mz.css';
+import '../../css/e/e-wrciemj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><circle class="lx_j5lb4z"/><circle class="mpf1g8bav"/><path class="l6vzwt_mz"/></g>`,
+		"content": `<g class="ft5dv1b6b"><circle class="lx_j5lb4z"/><circle class="mpf1g8bav"/><path class="e-wrciemj"/></g>`,
 		"fallback": "andrsrxn:clock-hour-ten",
 	});
 }

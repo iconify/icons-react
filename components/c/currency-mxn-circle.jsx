@@ -2,8 +2,8 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/i/ii79gpbho.css';
-import '../../css/p/ptfvxob6t.css';
-import '../../css/k/khdkximwp.css';
+import '../../css/h/hb5l3lbox.css';
+import '../../css/p/p4pn9mm9j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="ii79gpbho"/><path class="ptfvxob6t"/><path class="khdkximwp"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="ii79gpbho"/><path class="hb5l3lbox"/><path class="p4pn9mm9j"/></g>`,
 		"fallback": "andrsrxn:currency-mxn-circle",
 	});
 }

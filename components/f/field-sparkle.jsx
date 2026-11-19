@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/h/h-i8f4bhs.css';
-import '../../css/v/vecdb67xh.css';
+import '../../css/d/d85oh1bwi.css';
+import '../../css/v/vvc3_7g6w.css';
 import '../../css/f/fetz4rglw.css';
 import '../../css/i/ihhlg4bgm.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="h-i8f4bhs"/><path class="vecdb67xh"/><path class="fetz4rglw"/><path class="ihhlg4bgm"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="d85oh1bwi"/><path class="vvc3_7g6w"/><path class="fetz4rglw"/><path class="ihhlg4bgm"/></g>`,
 		"fallback": "andrsrxn:field-sparkle",
 	});
 }

@@ -1,11 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/j/jfi3u8b2c.css';
+import '../../css/i/iebub3--k.css';
 import '../../css/z/zkxf1fpeo.css';
 import '../../css/s/s-_2zybqn.css';
-import '../../css/w/wr271gibo.css';
-import '../../css/h/h3j5vt4od.css';
+import '../../css/a/a63o8drur.css';
+import '../../css/l/lmf64gbqv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="jfi3u8b2c"/><path class="zkxf1fpeo"/><path class="s-_2zybqn"/><path class="wr271gibo"/><path class="h3j5vt4od"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="iebub3--k"/><path class="zkxf1fpeo"/><path class="s-_2zybqn"/><path class="a63o8drur"/><path class="lmf64gbqv"/></g>`,
 		"fallback": "andrsrxn:users",
 	});
 }

@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/w/w69pz5srx.css';
-import '../../css/d/dekwgibhb.css';
+import '../../css/a/af5e8pblg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="w69pz5srx"/><path class="dekwgibhb"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="w69pz5srx"/><path class="af5e8pblg"/></g>`,
 		"fallback": "andrsrxn:film-move",
 	});
 }

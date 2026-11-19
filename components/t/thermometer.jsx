@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/h/hm1wxvbgx.css';
+import '../../css/d/ded73pbag.css';
 import '../../css/b/bgkbn9bcb.css';
 import '../../css/s/svgyy3wly.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="hm1wxvbgx"/><path class="bgkbn9bcb"/><path class="svgyy3wly"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="ded73pbag"/><path class="bgkbn9bcb"/><path class="svgyy3wly"/></g>`,
 		"fallback": "andrsrxn:thermometer",
 	});
 }

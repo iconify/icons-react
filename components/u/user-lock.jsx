@@ -3,9 +3,8 @@ import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/b/b_-gkxb7l.css';
 import '../../css/k/kwb-aacbo.css';
-import '../../css/q/qydloy-xb.css';
-import '../../css/x/xepxifk7q.css';
-import '../../css/g/gaa-qsbww.css';
+import '../../css/t/teftoab5c.css';
+import '../../css/z/zeebxcbch.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="b_-gkxb7l"/><path class="kwb-aacbo"/><rect class="qydloy-xb"/><path class="xepxifk7q"/><path class="gaa-qsbww"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="b_-gkxb7l"/><path class="kwb-aacbo"/><path class="teftoab5c"/><path class="zeebxcbch"/></g>`,
 		"fallback": "andrsrxn:user-lock",
 	});
 }

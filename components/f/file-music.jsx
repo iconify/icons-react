@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/x/xm7rr7a9x.css';
-import '../../css/r/risfjtb6e.css';
-import '../../css/z/zdvwoab3j.css';
+import '../../css/l/lwfqisbuc.css';
+import '../../css/f/f2w4bztzq.css';
+import '../../css/b/buc07obpx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="xm7rr7a9x"/><path class="risfjtb6e"/><path class="zdvwoab3j"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="lwfqisbuc"/><path class="f2w4bztzq"/><path class="buc07obpx"/></g>`,
 		"fallback": "andrsrxn:file-music",
 	});
 }

@@ -4,7 +4,7 @@ import '../../css/f/ft5dv1b6b.css';
 import '../../css/v/v6-40m8xj.css';
 import '../../css/r/r3su53b9v.css';
 import '../../css/m/mur8xvbmw.css';
-import '../../css/t/thoaugb0f.css';
+import '../../css/t/tvbu36ban.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="v6-40m8xj"/><path class="r3su53b9v"/><circle class="mur8xvbmw"/><path class="thoaugb0f"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="v6-40m8xj"/><path class="r3su53b9v"/><circle class="mur8xvbmw"/><path class="tvbu36ban"/></g>`,
 		"fallback": "andrsrxn:money-out",
 	});
 }

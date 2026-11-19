@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/b/bjw_jjxvg.css';
+import '../../css/s/swmg4893e.css';
 import '../../css/k/k8dvft66x.css';
 import '../../css/j/jidej3--s.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="bjw_jjxvg"/><path class="k8dvft66x"/><path class="jidej3--s"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="swmg4893e"/><path class="k8dvft66x"/><path class="jidej3--s"/></g>`,
 		"fallback": "andrsrxn:beer",
 	});
 }

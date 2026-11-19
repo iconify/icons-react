@@ -2,9 +2,9 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/j/j139cfbaq.css';
-import '../../css/y/yavbssblw.css';
-import '../../css/f/fkx8f7oxo.css';
-import '../../css/k/kh-8qg60k.css';
+import '../../css/c/cdl-x_lmo.css';
+import '../../css/z/zbeat-bpl.css';
+import '../../css/c/cjzvwubng.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="j139cfbaq"/><path class="yavbssblw"/><path clip-rule="evenodd" class="fkx8f7oxo"/><path class="kh-8qg60k"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="j139cfbaq"/><path class="cdl-x_lmo"/><path clip-rule="evenodd" class="zbeat-bpl"/><path class="cjzvwubng"/></g>`,
 		"fallback": "andrsrxn:field-edit",
 	});
 }

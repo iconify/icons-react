@@ -1,10 +1,11 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/k/kue253bke.css';
-import '../../css/e/exq3z-biz.css';
-import '../../css/f/fmws5xbuc.css';
-import '../../css/x/x0bcp-bgs.css';
+import '../../css/f/fjf0rgq0f.css';
+import '../../css/x/xrryuoepz.css';
+import '../../css/o/og3naoa1l.css';
+import '../../css/t/tsmv2xneh.css';
+import '../../css/t/tm66hibfp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="kue253bke"/><path class="exq3z-biz"/><path class="fmws5xbuc"/><path class="x0bcp-bgs"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="fjf0rgq0f"/><path class="xrryuoepz"/><path class="og3naoa1l"/><path class="tsmv2xneh"/><path class="tm66hibfp"/></g>`,
 		"fallback": "andrsrxn:mountains",
 	});
 }

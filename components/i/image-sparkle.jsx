@@ -1,9 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/d/d7kjkhb6x.css';
-import '../../css/q/qk4flbb6u.css';
-import '../../css/f/f2ju90u-t.css';
+import '../../css/i/ietv5vbyw.css';
+import '../../css/e/ev-hx2bkf.css';
+import '../../css/e/e4buufbsz.css';
+import '../../css/s/s7ydxeb6q.css';
 import '../../css/z/zapwtgb_o.css';
 
 const viewBox = {"width":24,"height":24};
@@ -15,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="d7kjkhb6x"/><path class="qk4flbb6u"/><path class="f2ju90u-t"/><path class="zapwtgb_o"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="ietv5vbyw"/><path class="ev-hx2bkf"/><path class="e4buufbsz"/><path class="s7ydxeb6q"/><path class="zapwtgb_o"/></g>`,
 		"fallback": "andrsrxn:image-sparkle",
 	});
 }

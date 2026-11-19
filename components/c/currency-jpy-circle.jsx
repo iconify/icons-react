@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/i/ii79gpbho.css';
-import '../../css/e/ebrrv5b4e.css';
+import '../../css/c/cr10e8byt.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="ii79gpbho"/><path class="ebrrv5b4e"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="ii79gpbho"/><path class="cr10e8byt"/></g>`,
 		"fallback": "andrsrxn:currency-jpy-circle",
 	});
 }

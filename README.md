@@ -11,6 +11,11 @@ Browse all icons: [preview Myna UI Icons on Iconify](https://icon-sets.iconify.d
 ## Installation
 
 ```bash
+npm install gitlab:iconify-icons/react#mynaui
+```
+
+or
+```bash
 npm install github:iconify/icons-react#mynaui
 ```
 

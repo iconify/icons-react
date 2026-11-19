@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -18973,6 +18973,14 @@
     "./ukca": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/ukca.jsx"
+    },
+    "./ultanimus-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ultanimus-dark.jsx"
+    },
+    "./ultanimus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ultanimus-light.jsx"
     },
     "./ultralytics": {
       "types": "./types/hqrkovbr.d.ts",

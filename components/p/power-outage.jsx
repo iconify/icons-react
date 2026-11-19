@@ -1,6 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/yg3eodb-t.css';
+import '../../css/h/hntgybcog.css';
+import '../../css/m/ms-0oib8e.css';
+import '../../css/e/evpbj2bjr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yg3eodb-t"/>`,
+		"content": `<g class="hntgybcog"><path class="ms-0oib8e"/><path class="evpbj2bjr"/></g>`,
 		"fallback": "evicons:power-outage",
 	});
 }

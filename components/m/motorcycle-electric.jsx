@@ -1,10 +1,12 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hntgybcog.css';
-import '../../css/l/lzm7kvups.css';
-import '../../css/a/a-z24ibwd.css';
-import '../../css/z/zp01jbboj.css';
-import '../../css/p/pfgsr9b3x.css';
+import '../../css/t/twnizym5a.css';
+import '../../css/m/myf-6ebsp.css';
+import '../../css/e/evobmbbsy.css';
+import '../../css/i/i7gj7vbxl.css';
+import '../../css/g/gd_e071ev.css';
+import '../../css/q/qn9w10f3c.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -15,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="hntgybcog"><circle class="lzm7kvups"/><circle class="a-z24ibwd"/><path class="zp01jbboj"/><path class="pfgsr9b3x"/></g>`,
+		"content": `<g class="hntgybcog"><circle class="twnizym5a"/><circle class="myf-6ebsp"/><rect class="evobmbbsy"/><path class="i7gj7vbxl"/><path class="gd_e071ev"/><path class="qn9w10f3c"/></g>`,
 		"fallback": "evicons:motorcycle-electric",
 	});
 }

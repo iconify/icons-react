@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -1521,6 +1521,18 @@
     "./ars-technica-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ars-technica-light.jsx"
+    },
+    "./artcraft": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artcraft.jsx"
+    },
+    "./artcraft-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artcraft-dark.jsx"
+    },
+    "./artcraft-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/artcraft-light.jsx"
     },
     "./asciinema": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6681,6 +6693,18 @@
     "./excalidraw-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/excalidraw-light.jsx"
+    },
+    "./excaliself": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/excaliself.jsx"
+    },
+    "./excaliself-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/excaliself-dark.jsx"
+    },
+    "./excaliself-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/excaliself-light.jsx"
     },
     "./exclaimer": {
       "types": "./types/hqrkovbr.d.ts",
@@ -16946,6 +16970,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nodyx-light.jsx"
     },
+    "./nogon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nogon.jsx"
+    },
+    "./nogon-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nogon-dark.jsx"
+    },
+    "./nogon-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nogon-light.jsx"
+    },
     "./nomad-travel": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nomad-travel.jsx"
@@ -17389,6 +17425,18 @@
     "./nyt-wordle-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nyt-wordle-light.jsx"
+    },
+    "./nyxiontech-pdf-tools": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nyxiontech-pdf-tools.jsx"
+    },
+    "./nyxiontech-pdf-tools-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nyxiontech-pdf-tools-dark.jsx"
+    },
+    "./nyxiontech-pdf-tools-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nyxiontech-pdf-tools-light.jsx"
     },
     "./nzb-dav": {
       "types": "./types/hqrkovbr.d.ts",
@@ -18358,6 +18406,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opentelemetry-light.jsx"
     },
+    "./opentodo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentodo.jsx"
+    },
+    "./opentodo-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentodo-dark.jsx"
+    },
+    "./opentodo-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opentodo-light.jsx"
+    },
     "./opentofu": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/opentofu.jsx"
@@ -18613,6 +18673,18 @@
     "./orca-slicer-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/orca-slicer-light.jsx"
+    },
+    "./orcah-studio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orcah-studio.jsx"
+    },
+    "./orcah-studio-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orcah-studio-dark.jsx"
+    },
+    "./orcah-studio-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/orcah-studio-light.jsx"
     },
     "./origamivault": {
       "types": "./types/hqrkovbr.d.ts",
@@ -19481,6 +19553,18 @@
     "./pgsty-silo-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pgsty-silo-light.jsx"
+    },
+    "./ph-intercept": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ph-intercept.jsx"
+    },
+    "./ph-intercept-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ph-intercept-dark.jsx"
+    },
+    "./ph-intercept-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/ph-intercept-light.jsx"
     },
     "./phanpy": {
       "types": "./types/hqrkovbr.d.ts",
@@ -23306,6 +23390,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scrutiny-light.jsx"
     },
+    "./scryer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scryer.jsx"
+    },
+    "./scryer-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scryer-dark.jsx"
+    },
+    "./scryer-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/scryer-light.jsx"
+    },
     "./scrypted": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/scrypted.jsx"
@@ -25758,6 +25854,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/teleport-light.jsx"
     },
+    "./telltaledns": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telltaledns.jsx"
+    },
+    "./telltaledns-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telltaledns-dark.jsx"
+    },
+    "./telltaledns-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telltaledns-light.jsx"
+    },
     "./temps": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/temps.jsx"
@@ -27322,6 +27430,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/upvote-rss-light.jsx"
     },
+    "./uruky": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uruky.jsx"
+    },
+    "./uruky-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uruky-dark.jsx"
+    },
+    "./uruky-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uruky-light.jsx"
+    },
     "./us-mobile": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/us-mobile.jsx"
@@ -27385,6 +27505,18 @@
     "./utorrent-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/utorrent-light.jsx"
+    },
+    "./uxwizz": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uxwizz.jsx"
+    },
+    "./uxwizz-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uxwizz-dark.jsx"
+    },
+    "./uxwizz-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uxwizz-light.jsx"
     },
     "./v2raya": {
       "types": "./types/hqrkovbr.d.ts",
@@ -27673,6 +27805,18 @@
     "./vidzy-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/v/vidzy-light.jsx"
+    },
+    "./vigilant-monitor": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vigilant-monitor.jsx"
+    },
+    "./vigilant-monitor-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vigilant-monitor-dark.jsx"
+    },
+    "./vigilant-monitor-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/v/vigilant-monitor-light.jsx"
     },
     "./vikunja": {
       "types": "./types/hqrkovbr.d.ts",
@@ -28222,6 +28366,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/wavelog-light.jsx"
     },
+    "./waydroid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waydroid.jsx"
+    },
+    "./waydroid-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waydroid-dark.jsx"
+    },
+    "./waydroid-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/waydroid-light.jsx"
+    },
     "./waze": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/waze.jsx"
@@ -28605,6 +28761,18 @@
     "./windshift": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/w/windshift.jsx"
+    },
+    "./wintertrace": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wintertrace.jsx"
+    },
+    "./wintertrace-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wintertrace-dark.jsx"
+    },
+    "./wintertrace-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wintertrace-light.jsx"
     },
     "./wiredoor": {
       "types": "./types/hqrkovbr.d.ts",

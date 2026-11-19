@@ -1,9 +1,10 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/azrh3xblv.css';
-import '../../css/y/y6a5k_bnq.css';
-import '../../css/y/y52yl1_4n.css';
-import '../../css/f/fmd5ecb5v.css';
+import '../../css/l/l_brs7b8y.css';
+import '../../css/k/kp9boybhz.css';
+import '../../css/k/kkq-gbbrk.css';
+import '../../css/n/n4g147c-z.css';
+import '../../css/x/x58ehmgkv.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -14,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="azrh3xblv"/><path class="y6a5k_bnq"/><path class="y52yl1_4n"/><path class="fmd5ecb5v"/>`,
+		"content": `<path class="l_brs7b8y"/><path class="kp9boybhz"/><path class="kkq-gbbrk"/><path class="n4g147c-z"/><path class="x58ehmgkv"/>`,
 		"fallback": "selfhst:kasm-workspaces",
 	});
 }

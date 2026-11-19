@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.63",
+  "version": "1.0.64",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -2630,6 +2630,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/diagram-flow-vertical.jsx"
     },
+    "./diagram-sankey": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/diagram-sankey.jsx"
+    },
     "./diameter": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/diameter.jsx"
@@ -4238,6 +4242,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/iv-bag.jsx"
     },
+    "./jacket": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/j/jacket.jsx"
+    },
     "./japanese-yen": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/j/japanese-yen.jsx"
@@ -5597,6 +5605,10 @@
     "./paint-bucket": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/paint-bucket.jsx"
+    },
+    "./paint-gun": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/paint-gun.jsx"
     },
     "./paint-roller": {
       "types": "./types/hqrkovbr.d.ts",

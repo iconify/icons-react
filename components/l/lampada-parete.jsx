@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u084blo9e.css';
+import '../../css/q/qzrj2wbfj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u084blo9e"/>`,
+		"content": `<path class="qzrj2wbfj"/>`,
 		"fallback": "cbi:lampada-parete",
 	});
 }

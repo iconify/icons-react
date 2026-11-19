@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/lkji_-btu.css';
+import '../../css/w/wo7q6vbsc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lkji_-btu"/>`,
+		"content": `<path class="wo7q6vbsc"/>`,
 		"fallback": "cbi:chromecast",
 	});
 }

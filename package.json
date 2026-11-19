@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/cbi",
   "type": "module",
-  "version": "1.0.51",
+  "version": "1.0.52",
   "homepage": "https://icon-sets.iconify.design/cbi/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-NC-SA-4.0",
@@ -817,6 +817,10 @@
     "./bollard": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bollard.jsx"
+    },
+    "./bosch-compress-heat-pump": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bosch-compress-heat-pump.jsx"
     },
     "./bosch-thermostat": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2762,6 +2766,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/humidity.jsx"
     },
+    "./hwam-4560": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hwam-4560.jsx"
+    },
     "./hydro-qubec": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hydro-qubec.jsx"
@@ -3498,6 +3506,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/marquee-shutter.jsx"
     },
+    "./marstek-venus-e-gen2": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marstek-venus-e-gen2.jsx"
+    },
     "./marvel": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/marvel.jsx"
@@ -4193,6 +4205,10 @@
     "./openai": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/o/openai.jsx"
+    },
+    "./opencloud": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/opencloud.jsx"
     },
     "./openhasp": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5162,6 +5178,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rooms-mancave.jsx"
     },
+    "./rooms-nail-salon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rooms-nail-salon.jsx"
+    },
     "./rooms-nursery": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rooms-nursery.jsx"
@@ -5482,6 +5502,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/side-glassdoor-open.jsx"
     },
+    "./siemens-eq9": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/siemens-eq9.jsx"
+    },
     "./signal": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/signal.jsx"
@@ -5525,6 +5549,14 @@
     "./skoda-2026-long": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/skoda-2026-long.jsx"
+    },
+    "./skoda-kodiaq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skoda-kodiaq.jsx"
+    },
+    "./skoda-peaq": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skoda-peaq.jsx"
     },
     "./sky": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7201,6 +7233,10 @@
     "./zen": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zen.jsx"
+    },
+    "./zendure-solarflow-2400-ac-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zendure-solarflow-2400-ac-plus.jsx"
     },
     "./zero-motorcycles": {
       "types": "./types/hqrkovbr.d.ts",

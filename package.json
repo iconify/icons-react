@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -181,6 +181,14 @@
     "./apacheairflow-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/apacheairflow-wordmark.jsx"
+    },
+    "./apacheflink": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apacheflink.jsx"
+    },
+    "./apacheflink-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/apacheflink-wordmark.jsx"
     },
     "./apacheignite": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1142,6 +1150,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eslint-wordmark.jsx"
     },
+    "./excalidraw": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/excalidraw.jsx"
+    },
     "./expo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/expo.jsx"
@@ -1321,6 +1333,10 @@
     "./gardener": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/gardener.jsx"
+    },
+    "./gate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/gate.jsx"
     },
     "./gatling": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3253,6 +3269,14 @@
     "./quasar-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/quasar-wordmark.jsx"
+    },
+    "./qwen": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwen.jsx"
+    },
+    "./qwen-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwen-wordmark.jsx"
     },
     "./qwik": {
       "types": "./types/hqrkovbr.d.ts",

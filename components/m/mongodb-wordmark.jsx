@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d7e5xobtr.css';
+import '../../css/h/h84t-lb5c.css';
 
 const viewBox = {"width":128,"height":128};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="d7e5xobtr"/>`,
+		"content": `<path class="h84t-lb5c"/>`,
 		"fallback": "devicon-plain:mongodb-wordmark",
 	});
 }

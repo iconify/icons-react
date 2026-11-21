@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2337,6 +2337,10 @@
     "./claude-code": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/claude-code.jsx"
+    },
+    "./claude-of-tanks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/claude-of-tanks.jsx"
     },
     "./clerk": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4853,6 +4857,10 @@
     "./general-motors": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/general-motors.jsx"
+    },
+    "./general-translation": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/general-translation.jsx"
     },
     "./genius": {
       "types": "./types/hqrkovbr.d.ts",

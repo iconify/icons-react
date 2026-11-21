@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/arcticons",
   "type": "module",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "homepage": "https://icon-sets.iconify.design/arcticons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-SA-4.0",
@@ -39370,9 +39370,9 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nothing-material-icon-pack.jsx"
     },
-    "./nothing-recorder": {
+    "./nothing-recorder-alt": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/n/nothing-recorder.jsx"
+      "default": "./components/n/nothing-recorder-alt.jsx"
     },
     "./nothing-system-service": {
       "types": "./types/hqrkovbr.d.ts",
@@ -63201,6 +63201,10 @@
     "./normal-app": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/normal-app.jsx"
+    },
+    "./nothing-recorder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nothing-recorder.jsx"
     },
     "./novaposhtaa": {
       "types": "./types/hqrkovbr.d.ts",

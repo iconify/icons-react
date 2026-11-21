@@ -10,34 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.cpk0fnbgt {
-  cx: 24px;
-  cy: 24px;
-  r: 21.5px;
+		"content": `<style>.hfjub6bdx {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
+  d: path("M25.22 46a22 22.02 0 1 0-2.44 0V27.65a3.67 3.67 0 1 1 2.44 0z");
 }
-
-.smh8hwt4g {
-  cx: 24px;
-  cy: 24px;
-  r: 5px;
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-}
-
-.wxovb9bvm {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  d: path("M24 29v16.5");
-}
-</style><circle class="cpk0fnbgt"/><circle class="smh8hwt4g"/><path class="wxovb9bvm"/>`,
+</style><path class="hfjub6bdx"/>`,
 		"fallback": "arcticons:yono-sbi",
 	});
 }

@@ -16,7 +16,8 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--1-5px, 1.5px);
 }
 
-.tegtdzrqd {
+.ylrarpb6t {
+  stroke-linecap: round;
   d: path("M15 15H16C18.8284 15 20.2426 15 21.1213 14.1213C22 13.2426 22 11.8284 22 9V8C22 5.1716 22 3.7574 21.1213 2.8787C20.2426 2 18.8284 2 16 2H15C12.1716 2 10.7574 2 9.8787 2.8787C9 3.7574 9 5.1716 9 8V9");
   opacity: var(--svg-opacity--0-5, 0.5);
 }
@@ -25,7 +26,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   d: path("M15 15C12.1716 15 10.7574 15 9.8787 14.1213C9 13.2426 9 11.8284 9 9H8C5.1716 9 3.7574 9 2.8787 9.8787C2 10.7574 2 12.1716 2 15V16C2 18.8284 2 20.2426 2.8787 21.1213C3.7574 22 5.1716 22 8 22H9C11.8284 22 13.2426 22 14.1213 21.1213C15 20.2426 15 18.8284 15 16V15Z");
 }
-</style><g class="jx0p4fbya"><path class="tegtdzrqd"/><path class="yv1skefmm"/></g>`,
+</style><g class="jx0p4fbya"><path class="ylrarpb6t"/><path class="yv1skefmm"/></g>`,
 		"fallback": "solar:subtract-minimalistic-line-duotone",
 	});
 }

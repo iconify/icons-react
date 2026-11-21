@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/js2nh1ber.css';
+import '../../css/o/o0mcxk10l.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="js2nh1ber"/>`,
+		"content": `<path class="o0mcxk10l"/>`,
 		"fallback": "selfhst:docker",
 	});
 }

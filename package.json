@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -170,6 +170,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/actual-budget-light.jsx"
     },
+    "./actual-mcp-server": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/actual-mcp-server.jsx"
+    },
+    "./actual-mcp-server-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/actual-mcp-server-dark.jsx"
+    },
+    "./actual-mcp-server-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/actual-mcp-server-light.jsx"
+    },
     "./adguard-home": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/adguard-home.jsx"
@@ -258,9 +270,33 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/adobe-acrobat-light.jsx"
     },
+    "./adobe-after-effects": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-after-effects.jsx"
+    },
+    "./adobe-after-effects-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-after-effects-dark.jsx"
+    },
+    "./adobe-after-effects-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-after-effects-light.jsx"
+    },
     "./adobe-dark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/adobe-dark.jsx"
+    },
+    "./adobe-dreamweaver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-dreamweaver.jsx"
+    },
+    "./adobe-dreamweaver-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-dreamweaver-dark.jsx"
+    },
+    "./adobe-dreamweaver-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/adobe-dreamweaver-light.jsx"
     },
     "./adobe-firefly": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3862,6 +3898,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coder-light.jsx"
     },
+    "./codetta": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codetta.jsx"
+    },
+    "./codetta-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codetta-dark.jsx"
+    },
+    "./codetta-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codetta-light.jsx"
+    },
     "./coffer": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/coffer.jsx"
@@ -5365,6 +5413,18 @@
     "./docker": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/docker.jsx"
+    },
+    "./docker-2017": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-2017.jsx"
+    },
+    "./docker-2017-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-2017-dark.jsx"
+    },
+    "./docker-2017-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/docker-2017-light.jsx"
     },
     "./docker-dark": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17006,6 +17066,30 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/noodle-gallery-light.jsx"
     },
+    "./nordlocker": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nordlocker.jsx"
+    },
+    "./nordlocker-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nordlocker-dark.jsx"
+    },
+    "./nordlocker-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nordlocker-light.jsx"
+    },
+    "./nordpass": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nordpass.jsx"
+    },
+    "./nordpass-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nordpass-dark.jsx"
+    },
+    "./nordpass-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/n/nordpass-light.jsx"
+    },
     "./nordvpn": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/n/nordvpn.jsx"
@@ -21974,6 +22058,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/raneto-light.jsx"
     },
+    "./rarbg": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rarbg.jsx"
+    },
+    "./rarbg-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rarbg-dark.jsx"
+    },
+    "./rarbg-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rarbg-light.jsx"
+    },
     "./raspberry-pi": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/raspberry-pi.jsx"
@@ -25977,6 +26073,18 @@
     "./the-new-york-times-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/the-new-york-times-light.jsx"
+    },
+    "./the-pirate-bay": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-pirate-bay.jsx"
+    },
+    "./the-pirate-bay-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-pirate-bay-dark.jsx"
+    },
+    "./the-pirate-bay-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/the-pirate-bay-light.jsx"
     },
     "./the-verge": {
       "types": "./types/hqrkovbr.d.ts",

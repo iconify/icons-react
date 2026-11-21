@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/octicon",
   "type": "module",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "homepage": "https://icon-sets.iconify.design/octicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -2565,6 +2565,14 @@
     "./pin-24": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/pin-24.jsx"
+    },
+    "./pin-fill-16": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-fill-16.jsx"
+    },
+    "./pin-fill-24": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/pin-fill-24.jsx"
     },
     "./pin-slash-16": {
       "types": "./types/hqrkovbr.d.ts",

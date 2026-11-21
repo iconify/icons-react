@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.64",
+  "version": "1.0.65",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -1058,6 +1058,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/box.jsx"
     },
+    "./box-dashed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/box-dashed.jsx"
+    },
     "./boxes": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/boxes.jsx"
@@ -1713,6 +1717,10 @@
     "./chevrons-up-down": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-up-down.jsx"
+    },
+    "./chocolate-bar": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chocolate-bar.jsx"
     },
     "./chrome": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3490,6 +3498,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-minus.jsx"
     },
+    "./folder-network": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-network.jsx"
+    },
     "./folder-open": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-open.jsx"
@@ -3509,6 +3521,10 @@
     "./folder-plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/folder-plus.jsx"
+    },
+    "./folder-plus-corner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-plus-corner.jsx"
     },
     "./folder-root": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6162,6 +6178,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rectangle-horizontal.jsx"
     },
+    "./rectangle-landscape-play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-landscape-play.jsx"
+    },
     "./rectangle-vertical": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rectangle-vertical.jsx"
@@ -8265,6 +8285,10 @@
     "./user-round-check": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/user-round-check.jsx"
+    },
+    "./user-round-clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-round-clock.jsx"
     },
     "./user-round-cog": {
       "types": "./types/hqrkovbr.d.ts",

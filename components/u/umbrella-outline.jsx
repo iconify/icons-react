@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rmzpx5bne.css';
+import '../../css/f/fjccxgo2x.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rmzpx5bne"/>`,
+		"content": `<path class="fjccxgo2x"/>`,
 		"fallback": "ion:umbrella-outline",
 	});
 }

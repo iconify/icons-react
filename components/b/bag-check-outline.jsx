@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/z/zydcpabso.css';
-import '../../css/x/xdj82wxwd.css';
+import '../../css/t/tbqohkbac.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zydcpabso"/><path class="xdj82wxwd"/>`,
+		"content": `<path class="zydcpabso"/><path class="tbqohkbac"/>`,
 		"fallback": "ion:bag-check-outline",
 	});
 }

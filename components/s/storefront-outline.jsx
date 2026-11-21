@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hkljmxq8b.css';
+import '../../css/e/e5genbbnd.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hkljmxq8b"/>`,
+		"content": `<path class="e5genbbnd"/>`,
 		"fallback": "ion:storefront-outline",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kuds1jrnr.css';
+import '../../css/i/i0szqpn1j.css';
 import '../../css/a/a_u_vcn1o.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kuds1jrnr"/><path class="a_u_vcn1o"/>`,
+		"content": `<path class="i0szqpn1j"/><path class="a_u_vcn1o"/>`,
 		"fallback": "ion:text-outline",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k6lm62c3l.css';
+import '../../css/k/kvg43muth.css';
 import '../../css/h/hkazuhb3h.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k6lm62c3l"/><circle class="hkazuhb3h"/>`,
+		"content": `<path class="kvg43muth"/><circle class="hkazuhb3h"/>`,
 		"fallback": "ion:thermometer-outline",
 	});
 }

@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/o/o7kg3hbvs.css';
 import '../../css/i/irdc55aqf.css';
-import '../../css/d/di4jzbbfu.css';
+import '../../css/c/cdm4l-bqa.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o7kg3hbvs"/><path class="irdc55aqf"/><path class="di4jzbbfu"/>`,
+		"content": `<path class="o7kg3hbvs"/><path class="irdc55aqf"/><path class="cdm4l-bqa"/>`,
 		"fallback": "ion:construct-outline",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s4tx97b7q.css';
+import '../../css/d/d_6t34bzh.css';
 import '../../css/x/x-ff3h11f.css';
 
 const viewBox = {"width":512,"height":512};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s4tx97b7q"/><circle class="x-ff3h11f"/>`,
+		"content": `<path class="d_6t34bzh"/><circle class="x-ff3h11f"/>`,
 		"fallback": "ion:alert",
 	});
 }

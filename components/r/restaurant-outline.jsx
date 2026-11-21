@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/w/w2do7bc4s.css';
-import '../../css/k/kue68edpr.css';
+import '../../css/o/o9o6s77ky.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="w2do7bc4s"/><path class="kue68edpr"/>`,
+		"content": `<path class="w2do7bc4s"/><path class="o9o6s77ky"/>`,
 		"fallback": "ion:restaurant-outline",
 	});
 }

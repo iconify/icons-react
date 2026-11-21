@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zjry3wxkj.css';
+import '../../css/y/y04k47f9d.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zjry3wxkj"/>`,
+		"content": `<path class="y04k47f9d"/>`,
 		"fallback": "ion:musical-note-outline",
 	});
 }

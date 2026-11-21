@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/ylbawndjo.css';
+import '../../css/q/qnc5a8hke.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ylbawndjo"/>`,
+		"content": `<path class="qnc5a8hke"/>`,
 		"fallback": "ion:bag-remove-outline",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/kk0xwtbsy.css';
+import '../../css/v/vw_3i8bof.css';
 
 const viewBox = {"width":512,"height":512};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kk0xwtbsy"/>`,
+		"content": `<path class="vw_3i8bof"/>`,
 		"fallback": "ion:thunderstorm-outline",
 	});
 }

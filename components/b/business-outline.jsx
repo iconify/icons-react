@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/optge0b5p.css';
+import '../../css/x/xrnrz9brt.css';
 import '../../css/b/bu36qkbnj.css';
 import '../../css/x/x72nze-0i.css';
 import '../../css/a/ad-cz_b4j.css';
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="optge0b5p"/><path class="bu36qkbnj"/><ellipse transform="rotate(-45 255.99 175.996)" class="x72nze-0i"/><path class="ad-cz_b4j"/>`,
+		"content": `<path class="xrnrz9brt"/><path class="bu36qkbnj"/><ellipse transform="rotate(-45 255.99 175.996)" class="x72nze-0i"/><path class="ad-cz_b4j"/>`,
 		"fallback": "ion:business-outline",
 	});
 }

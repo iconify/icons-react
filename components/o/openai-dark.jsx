@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y0iidabjq.css';
+import '../../css/a/abt74tbzt.css';
 
-const viewBox = {"width":256,"height":260};
+const viewBox = {"width":354.674,"height":354.674,"left":180.5,"top":180.5};
 
 /** @param {{width?: string; height?: string;}} */
 function Component({width, height, ...props}) {
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y0iidabjq"/>`,
+		"content": `<path class="abt74tbzt"/>`,
 		"fallback": "thesvg-color:openai-dark",
 	});
 }

@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.a3kozublg {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M9.4471 15.8334L2.4008 18.9156C2.2744 18.9709 2.1379 18.9994 2 18.9994C1.4477 18.9994 1 18.5517 1 17.9994L1 12L1 6.0006C1 5.4483 1.4477 5.0006 2 5.0006C2.1379 5.0006 2.2744 5.0291 2.4008 5.0844L9.4471 8.1666C9.6055 8.0613 9.7956 8 10 8L14 8C14.2044 8 14.3945 8.0613 14.5529 8.1666L21.5992 5.0844C21.7256 5.0291 21.8621 5.0006 22 5.0006C22.5523 5.0006 23 5.4483 23 6.0006L23 12L23 17.9994C23 18.5517 22.5523 18.9994 22 18.9994C21.8621 18.9994 21.7256 18.9709 21.5992 18.9156L14.5529 15.8334C14.3945 15.9387 14.2044 16 14 16L10 16C9.7956 16 9.6055 15.9387 9.4471 15.8334Z");
+  stroke: none;
+}
+
+.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.xex-h3bzd {
+  d: path("M2 6.0006L10 9.5L10 14.5L2 17.9994ZM22 6.0006L14 9.5L14 14.5L22 17.9994ZM10 9L14 9L14 15L10 15Z");
+}
+</style><g class="gp_8x1bzb"><path class="a3kozublg"/><path class="xex-h3bzd"/></g>`,
+		"fallback": "keyline-icons:bow-tie-sharp-two-tone",
+	});
+}
+
+export default Component;

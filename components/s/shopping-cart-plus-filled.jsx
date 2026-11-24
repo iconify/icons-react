@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/k/kfcc4qbni.css';
-import '../../css/y/ym-zwb07i.css';
+import '../../css/m/mpy22xgmv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kfcc4qbni"/><path class="ym-zwb07i"/>`,
+		"content": `<path class="kfcc4qbni"/><path class="mpy22xgmv"/>`,
 		"fallback": "lucide-extended:shopping-cart-plus-filled",
 	});
 }

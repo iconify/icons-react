@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/u0sb-0bfq.css';
+import '../../css/e/eyzld6b1n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="u0sb-0bfq"/>`,
+		"content": `<path class="eyzld6b1n"/>`,
 		"fallback": "lucide-extended:mic-signal-filled",
 	});
 }

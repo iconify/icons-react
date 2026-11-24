@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/tykflebtg.css';
-import '../../css/c/cfkeagz0f.css';
+import '../../css/o/o0mkieb9c.css';
+import '../../css/f/fccyhtt-j.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tykflebtg"/><path class="cfkeagz0f"/>`,
+		"content": `<path class="o0mkieb9c"/><path class="fccyhtt-j"/>`,
 		"fallback": "lucide-extended:bell-off-filled",
 	});
 }

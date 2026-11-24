@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/o3zrck5ip.css';
+import '../../css/q/q60-wi-ng.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="o3zrck5ip"/>`,
+		"content": `<path class="q60-wi-ng"/>`,
 		"fallback": "lucide-extended:mouse-pointer-click-filled",
 	});
 }

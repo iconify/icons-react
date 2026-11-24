@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/y/yismpnbbv.css';
-import '../../css/i/i2hk_6_pb.css';
+import '../../css/i/iyen4nvbu.css';
 import '../../css/i/iex7obabp.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="yismpnbbv"/><path class="i2hk_6_pb"/><path class="iex7obabp"/>`,
+		"content": `<path class="yismpnbbv"/><path class="iyen4nvbu"/><path class="iex7obabp"/>`,
 		"fallback": "lucide-extended:save-plus-filled",
 	});
 }

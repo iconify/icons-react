@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/l/lg86vcuii.css';
-import '../../css/c/c-xbtmutf.css';
+import '../../css/v/vypii6bhm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="lg86vcuii"/><path clip-rule="evenodd" class="c-xbtmutf"/>`,
+		"content": `<path class="lg86vcuii"/><path clip-rule="evenodd" class="vypii6bhm"/>`,
 		"fallback": "lucide-extended:germ-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y4f-aabko.css';
+import '../../css/m/mapjoxb2i.css';
 import '../../css/n/nbzxfbcpy.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y4f-aabko"/><path class="nbzxfbcpy"/>`,
+		"content": `<path class="mapjoxb2i"/><path class="nbzxfbcpy"/>`,
 		"fallback": "lucide-extended:save-filled",
 	});
 }

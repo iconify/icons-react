@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/caaa3hleg.css';
+import '../../css/l/lba1z4b7s.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="caaa3hleg"/>`,
+		"content": `<path class="lba1z4b7s"/>`,
 		"fallback": "lucide-extended:video-off-filled",
 	});
 }

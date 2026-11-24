@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ieszopq_p.css';
-import '../../css/u/ua2r80buv.css';
+import '../../css/x/xhblkjbdv.css';
+import '../../css/s/stisajbpq.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ieszopq_p"/><path class="ua2r80buv"/>`,
+		"content": `<path class="xhblkjbdv"/><path class="stisajbpq"/>`,
 		"fallback": "lucide-extended:cloud-rain-wind-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qj2x0ebtf.css';
+import '../../css/f/f_slqp4cj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qj2x0ebtf"/>`,
+		"content": `<path class="f_slqp4cj"/>`,
 		"fallback": "lucide-extended:funnel-filled",
 	});
 }

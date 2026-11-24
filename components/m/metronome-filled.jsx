@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p3yjsomuv.css';
-import '../../css/m/msszb5b2u.css';
+import '../../css/c/cq_yc_azc.css';
+import '../../css/r/rq0x_wbbr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p3yjsomuv"/><path class="msszb5b2u"/>`,
+		"content": `<path class="cq_yc_azc"/><path class="rq0x_wbbr"/>`,
 		"fallback": "lucide-extended:metronome-filled",
 	});
 }

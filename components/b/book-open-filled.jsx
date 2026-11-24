@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/quwpglp1l.css';
+import '../../css/f/f3-c3wbwa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="quwpglp1l"/>`,
+		"content": `<path class="f3-c3wbwa"/>`,
 		"fallback": "lucide-extended:book-open-filled",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/p/pqeizzbud.css';
-import '../../css/r/r4fkn_b7c.css';
+import '../../css/u/umfrdlbme.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pqeizzbud"/><path class="r4fkn_b7c"/>`,
+		"content": `<path class="pqeizzbud"/><path class="umfrdlbme"/>`,
 		"fallback": "lucide-extended:shield-house-filled",
 	});
 }

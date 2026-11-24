@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/u/ufxbcneuu.css';
-import '../../css/s/s1ghx-bwv.css';
+import '../../css/h/h2vtajpsj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ufxbcneuu"/><path class="s1ghx-bwv"/>`,
+		"content": `<path class="ufxbcneuu"/><path class="h2vtajpsj"/>`,
 		"fallback": "lucide-extended:layer-arrow-up-filled",
 	});
 }

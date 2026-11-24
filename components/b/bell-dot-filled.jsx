@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/np7jut26l.css';
+import '../../css/u/u_ap7cndx.css';
 import '../../css/p/p_hkdzbze.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="np7jut26l"/><path class="p_hkdzbze"/>`,
+		"content": `<path class="u_ap7cndx"/><path class="p_hkdzbze"/>`,
 		"fallback": "lucide-extended:bell-dot-filled",
 	});
 }

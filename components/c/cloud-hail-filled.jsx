@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/r_0y3m6li.css';
-import '../../css/b/b6hy8accx.css';
+import '../../css/l/lm3e9jb_v.css';
 import '../../css/i/igxotebur.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r_0y3m6li"/><path class="b6hy8accx"/><path class="igxotebur"/>`,
+		"content": `<path class="r_0y3m6li"/><path class="lm3e9jb_v"/><path class="igxotebur"/>`,
 		"fallback": "lucide-extended:cloud-hail-filled",
 	});
 }

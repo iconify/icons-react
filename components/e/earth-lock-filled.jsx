@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/txs0h11aa.css';
+import '../../css/j/jux83ek4n.css';
 import '../../css/f/fgo78vant.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="txs0h11aa"/><path clip-rule="evenodd" class="fgo78vant"/>`,
+		"content": `<path class="jux83ek4n"/><path clip-rule="evenodd" class="fgo78vant"/>`,
 		"fallback": "lucide-extended:earth-lock-filled",
 	});
 }

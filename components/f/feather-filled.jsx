@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/sgjuh8b2j.css';
-import '../../css/z/zqpq1rb6d.css';
+import '../../css/c/cve7h0b7y.css';
+import '../../css/r/rb36fjzyj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="sgjuh8b2j"/><path class="zqpq1rb6d"/>`,
+		"content": `<path class="cve7h0b7y"/><path class="rb36fjzyj"/>`,
 		"fallback": "lucide-extended:feather-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fqm22z9lz.css';
+import '../../css/u/u7gt-zouo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fqm22z9lz"/>`,
+		"content": `<path class="u7gt-zouo"/>`,
 		"fallback": "lucide-extended:triangle-right-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/k6625acdp.css';
+import '../../css/n/nho7-9bto.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="k6625acdp"/>`,
+		"content": `<path class="nho7-9bto"/>`,
 		"fallback": "lucide-extended:flag-triangle-left-filled",
 	});
 }

@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/d/dx4obtbwi.css';
-import '../../css/f/fnwqvcbpt.css';
+import '../../css/m/mq51hrbxc.css';
 import '../../css/s/ssh18kvpm.css';
 import '../../css/u/u74__c32u.css';
 
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="dx4obtbwi"/><path class="fnwqvcbpt"/><path class="ssh18kvpm"/><path class="u74__c32u"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="dx4obtbwi"/><path class="mq51hrbxc"/><path class="ssh18kvpm"/><path class="u74__c32u"/></g>`,
 		"fallback": "lucide-extended:book-user-duotone",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vr52ofb1z.css';
+import '../../css/b/b-qbgtbza.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vr52ofb1z"/>`,
+		"content": `<path class="b-qbgtbza"/>`,
 		"fallback": "lucide-extended:vibrate-filled",
 	});
 }

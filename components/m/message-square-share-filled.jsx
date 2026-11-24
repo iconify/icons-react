@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/q/qqu28rbuo.css';
-import '../../css/k/kbmh56tfp.css';
+import '../../css/j/jsfqiobhi.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qqu28rbuo"/><path class="kbmh56tfp"/>`,
+		"content": `<path class="qqu28rbuo"/><path class="jsfqiobhi"/>`,
 		"fallback": "lucide-extended:message-square-share-filled",
 	});
 }

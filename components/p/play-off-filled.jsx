@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h4oyxi0fr.css';
+import '../../css/a/ao_dv4bpw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h4oyxi0fr"/>`,
+		"content": `<path class="ao_dv4bpw"/>`,
 		"fallback": "lucide-extended:play-off-filled",
 	});
 }

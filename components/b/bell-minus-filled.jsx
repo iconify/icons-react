@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/berhd0bqr.css';
+import '../../css/m/mbowzx8sg.css';
 import '../../css/u/ue40k2bdx.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="berhd0bqr"/><path class="ue40k2bdx"/>`,
+		"content": `<path class="mbowzx8sg"/><path class="ue40k2bdx"/>`,
 		"fallback": "lucide-extended:bell-minus-filled",
 	});
 }

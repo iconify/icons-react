@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/puig1pbjo.css';
+import '../../css/k/kodyzsbdd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="puig1pbjo"/>`,
+		"content": `<path class="kodyzsbdd"/>`,
 		"fallback": "lucide-extended:lightbulb-filled",
 	});
 }

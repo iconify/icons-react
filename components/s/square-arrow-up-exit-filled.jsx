@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/j/jgf5td-lq.css';
-import '../../css/z/zgpt8x30u.css';
+import '../../css/m/mpdgb_2fp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jgf5td-lq"/><path class="zgpt8x30u"/>`,
+		"content": `<path class="jgf5td-lq"/><path class="mpdgb_2fp"/>`,
 		"fallback": "lucide-extended:square-arrow-up-exit-filled",
 	});
 }

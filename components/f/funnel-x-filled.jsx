@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xi6y65ble.css';
-import '../../css/j/j2lg5bcnh.css';
+import '../../css/v/vy_akccwx.css';
+import '../../css/k/kohszfbex.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xi6y65ble"/><path class="j2lg5bcnh"/>`,
+		"content": `<path class="vy_akccwx"/><path class="kohszfbex"/>`,
 		"fallback": "lucide-extended:funnel-x-filled",
 	});
 }

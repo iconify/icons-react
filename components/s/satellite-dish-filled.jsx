@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/e8zpdgb-u.css';
-import '../../css/f/fuln-e3lv.css';
+import '../../css/i/iv62zlbwh.css';
+import '../../css/r/rpzzz8b2e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="e8zpdgb-u"/><path class="fuln-e3lv"/>`,
+		"content": `<path class="iv62zlbwh"/><path class="rpzzz8b2e"/>`,
 		"fallback": "lucide-extended:satellite-dish-filled",
 	});
 }

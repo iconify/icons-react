@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/zrv606btm.css';
+import '../../css/l/l-c_p0b-e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="zrv606btm"/>`,
+		"content": `<path class="l-c_p0b-e"/>`,
 		"fallback": "lucide-extended:plane-takeoff-filled",
 	});
 }

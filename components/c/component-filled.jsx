@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uic_s0kyw.css';
+import '../../css/q/quw2mcr3e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uic_s0kyw"/>`,
+		"content": `<path class="quw2mcr3e"/>`,
 		"fallback": "lucide-extended:component-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/y/y_hx_ibsf.css';
+import '../../css/a/aha5mabrl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="y_hx_ibsf"/>`,
+		"content": `<path class="aha5mabrl"/>`,
 		"fallback": "lucide-extended:arrow-big-down-dash-filled",
 	});
 }

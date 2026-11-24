@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/k/koso66sca.css';
-import '../../css/d/du-r1xbos.css';
+import '../../css/i/ip_db8b5g.css';
+import '../../css/t/tl712yvzu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="koso66sca"/><path class="du-r1xbos"/>`,
+		"content": `<path clip-rule="evenodd" class="ip_db8b5g"/><path class="tl712yvzu"/>`,
 		"fallback": "lucide-extended:alarm-clock-plus-filled",
 	});
 }

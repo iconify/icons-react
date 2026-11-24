@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d4xxgybar.css';
-import '../../css/h/hujkt7abw.css';
+import '../../css/y/yn2pokbmn.css';
+import '../../css/x/x83nf7g0i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d4xxgybar"/><path class="hujkt7abw"/>`,
+		"content": `<path class="yn2pokbmn"/><path class="x83nf7g0i"/>`,
 		"fallback": "lucide-extended:cloud-upload-filled",
 	});
 }

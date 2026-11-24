@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/esg4p2r4f.css';
-import '../../css/d/dmxnto4mf.css';
+import '../../css/h/higjms7is.css';
+import '../../css/f/frhkzlbqd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="esg4p2r4f"/><path class="dmxnto4mf"/>`,
+		"content": `<path class="higjms7is"/><path class="frhkzlbqd"/>`,
 		"fallback": "lucide-extended:vibrate-off-filled",
 	});
 }

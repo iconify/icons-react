@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/vapumvfpg.css';
+import '../../css/o/ohm245beh.css';
 import '../../css/e/edfoyo7yi.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="vapumvfpg"/><path clip-rule="evenodd" class="edfoyo7yi"/>`,
+		"content": `<path class="ohm245beh"/><path clip-rule="evenodd" class="edfoyo7yi"/>`,
 		"fallback": "lucide-extended:database-search-filled",
 	});
 }

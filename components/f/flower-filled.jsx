@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/efj21qvzi.css';
+import '../../css/y/yjs88jsib.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="efj21qvzi"/>`,
+		"content": `<path clip-rule="evenodd" class="yjs88jsib"/>`,
 		"fallback": "lucide-extended:flower-filled",
 	});
 }

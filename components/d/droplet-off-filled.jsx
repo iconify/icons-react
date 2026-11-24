@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/b-82q3kkg.css';
+import '../../css/q/qp-jt7b6y.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b-82q3kkg"/>`,
+		"content": `<path class="qp-jt7b6y"/>`,
 		"fallback": "lucide-extended:droplet-off-filled",
 	});
 }

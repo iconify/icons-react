@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/m/mu4kwc0bq.css';
-import '../../css/s/sma_z600n.css';
+import '../../css/h/hc1hzibuo.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mu4kwc0bq"/><path clip-rule="evenodd" class="sma_z600n"/>`,
+		"content": `<path class="mu4kwc0bq"/><path clip-rule="evenodd" class="hc1hzibuo"/>`,
 		"fallback": "lucide-extended:brick-wall-fire-filled",
 	});
 }

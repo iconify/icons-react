@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f22uknsdn.css';
-import '../../css/j/jpnuobtcv.css';
+import '../../css/q/qegn1_8ui.css';
+import '../../css/w/w0dhn7mec.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f22uknsdn"/><path class="jpnuobtcv"/>`,
+		"content": `<path class="qegn1_8ui"/><path class="w0dhn7mec"/>`,
 		"fallback": "lucide-extended:megaphone-off-filled",
 	});
 }

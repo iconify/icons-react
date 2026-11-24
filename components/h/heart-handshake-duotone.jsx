@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/l/l9-earbsa.css';
-import '../../css/q/qsb76ttdk.css';
+import '../../css/s/s57weabhk.css';
+import '../../css/m/m3wzrybax.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="l9-earbsa"/><path class="qsb76ttdk"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="s57weabhk"/><path class="m3wzrybax"/></g>`,
 		"fallback": "lucide-extended:heart-handshake-duotone",
 	});
 }

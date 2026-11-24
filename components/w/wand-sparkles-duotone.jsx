@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/p/p9bat-zkt.css';
+import '../../css/z/z4mu0ubdn.css';
 import '../../css/t/taqn7abzr.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="p9bat-zkt"/><path class="taqn7abzr"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="z4mu0ubdn"/><path class="taqn7abzr"/></g>`,
 		"fallback": "lucide-extended:wand-sparkles-duotone",
 	});
 }

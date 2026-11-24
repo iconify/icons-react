@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/q/q4xr16b6e.css';
-import '../../css/r/rsmwqzs4a.css';
+import '../../css/t/tq6omth6w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="q4xr16b6e"/><path class="rsmwqzs4a"/>`,
+		"content": `<path class="q4xr16b6e"/><path class="tq6omth6w"/>`,
 		"fallback": "lucide-extended:ferris-wheel-filled",
 	});
 }

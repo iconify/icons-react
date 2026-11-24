@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pl8_zgbvz.css';
+import '../../css/g/gb94g1vcp.css';
 import '../../css/o/o5nyr_biv.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="pl8_zgbvz"/><path class="o5nyr_biv"/>`,
+		"content": `<path clip-rule="evenodd" class="gb94g1vcp"/><path class="o5nyr_biv"/>`,
 		"fallback": "lucide-extended:hand-platter-filled",
 	});
 }

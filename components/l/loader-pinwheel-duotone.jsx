@@ -5,7 +5,7 @@ import '../../css/r/r-z4_hb7l.css';
 import '../../css/o/oxwyg8bmt.css';
 import '../../css/r/r0sby3b4c.css';
 import '../../css/g/g4vvtk_cw.css';
-import '../../css/o/osanvnb5q.css';
+import '../../css/h/hs6ig_e4u.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="r-z4_hb7l"/><path class="oxwyg8bmt"/><path class="r0sby3b4c"/><path class="g4vvtk_cw"/><path class="osanvnb5q"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="r-z4_hb7l"/><path class="oxwyg8bmt"/><path class="r0sby3b4c"/><path class="g4vvtk_cw"/><path class="hs6ig_e4u"/></g>`,
 		"fallback": "lucide-extended:loader-pinwheel-duotone",
 	});
 }

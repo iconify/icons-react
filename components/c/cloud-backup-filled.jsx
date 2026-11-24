@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xxh80gbuf.css';
-import '../../css/f/fj4fd9bjf.css';
+import '../../css/c/cltq9j6ti.css';
+import '../../css/q/qfntjihwd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xxh80gbuf"/><path class="fj4fd9bjf"/>`,
+		"content": `<path class="cltq9j6ti"/><path class="qfntjihwd"/>`,
 		"fallback": "lucide-extended:cloud-backup-filled",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/y/ym02nvber.css';
-import '../../css/u/unrc__8ri.css';
+import '../../css/w/wb_c6o2qb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ym02nvber"/><path clip-rule="evenodd" class="unrc__8ri"/>`,
+		"content": `<path class="ym02nvber"/><path clip-rule="evenodd" class="wb_c6o2qb"/>`,
 		"fallback": "lucide-extended:playing-card-filled",
 	});
 }

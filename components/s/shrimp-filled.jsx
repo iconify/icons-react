@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/m/mjna77bsx.css';
-import '../../css/z/z02gnab-f.css';
+import '../../css/p/p48132bjd.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mjna77bsx"/><path clip-rule="evenodd" class="z02gnab-f"/>`,
+		"content": `<path class="mjna77bsx"/><path clip-rule="evenodd" class="p48132bjd"/>`,
 		"fallback": "lucide-extended:shrimp-filled",
 	});
 }

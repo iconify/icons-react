@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/co2y78wts.css';
+import '../../css/l/l2ykmhbks.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="co2y78wts"/>`,
+		"content": `<path clip-rule="evenodd" class="l2ykmhbks"/>`,
 		"fallback": "lucide-extended:parking-meter-filled",
 	});
 }

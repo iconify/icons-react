@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/znqcvhbmw.css';
+import '../../css/h/hzgj71bkw.css';
 import '../../css/x/xmo5rcozs.css';
 import '../../css/w/w_5epib3e.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="znqcvhbmw"/><path class="xmo5rcozs"/><path clip-rule="evenodd" class="w_5epib3e"/>`,
+		"content": `<path class="hzgj71bkw"/><path class="xmo5rcozs"/><path clip-rule="evenodd" class="w_5epib3e"/>`,
 		"fallback": "lucide-extended:coins-filled",
 	});
 }

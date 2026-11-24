@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/t/tvdvp0-cq.css';
-import '../../css/l/lfv2vjbkf.css';
+import '../../css/r/rii3008cf.css';
 import '../../css/y/yxwk1vbdi.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="tvdvp0-cq"/><path class="lfv2vjbkf"/><path class="yxwk1vbdi"/>`,
+		"content": `<path class="tvdvp0-cq"/><path class="rii3008cf"/><path class="yxwk1vbdi"/>`,
 		"fallback": "lucide-extended:cloud-drizzle-filled",
 	});
 }

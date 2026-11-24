@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bykugi_jb.css';
+import '../../css/z/zni3kgb0x.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bykugi_jb"/>`,
+		"content": `<path class="zni3kgb0x"/>`,
 		"fallback": "lucide-extended:plane-landing-filled",
 	});
 }

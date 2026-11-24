@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/k/kax5-cj7n.css';
-import '../../css/h/hyllzobun.css';
+import '../../css/m/mk5ucybgj.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="kax5-cj7n"/><path clip-rule="evenodd" class="hyllzobun"/>`,
+		"content": `<path class="kax5-cj7n"/><path clip-rule="evenodd" class="mk5ucybgj"/>`,
 		"fallback": "lucide-extended:drama-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fhm33acgv.css';
+import '../../css/a/ap69csexs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fhm33acgv"/>`,
+		"content": `<path class="ap69csexs"/>`,
 		"fallback": "lucide-extended:umbrella-filled",
 	});
 }

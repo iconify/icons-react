@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bjocleb1j.css';
+import '../../css/i/ipdrezi2t.css';
 import '../../css/b/b54fotqqt.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bjocleb1j"/><path class="b54fotqqt"/>`,
+		"content": `<path class="ipdrezi2t"/><path class="b54fotqqt"/>`,
 		"fallback": "lucide-extended:wifi-pen-filled",
 	});
 }

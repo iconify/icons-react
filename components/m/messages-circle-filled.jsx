@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wey8zoa3m.css';
-import '../../css/v/vcmk6cc8q.css';
+import '../../css/y/y-p5e-beu.css';
+import '../../css/o/oe8kfdbvr.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wey8zoa3m"/><path class="vcmk6cc8q"/>`,
+		"content": `<path class="y-p5e-beu"/><path class="oe8kfdbvr"/>`,
 		"fallback": "lucide-extended:messages-circle-filled",
 	});
 }

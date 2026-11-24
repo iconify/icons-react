@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v6riji-tw.css';
-import '../../css/t/t05fz5bqy.css';
+import '../../css/n/ng1qcuzik.css';
+import '../../css/k/kt2s0db6m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v6riji-tw"/><path class="t05fz5bqy"/>`,
+		"content": `<path class="ng1qcuzik"/><path class="kt2s0db6m"/>`,
 		"fallback": "lucide-extended:park-filled",
 	});
 }

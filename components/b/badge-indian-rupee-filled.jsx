@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dh-c-ubmz.css';
+import '../../css/h/h8ats2-zg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="dh-c-ubmz"/>`,
+		"content": `<path clip-rule="evenodd" class="h8ats2-zg"/>`,
 		"fallback": "lucide-extended:badge-indian-rupee-filled",
 	});
 }

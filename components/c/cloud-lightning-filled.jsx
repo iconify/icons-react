@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d2k9crezi.css';
-import '../../css/k/koc75zbyp.css';
+import '../../css/f/f_mguhhan.css';
+import '../../css/z/z5f1labnz.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d2k9crezi"/><path class="koc75zbyp"/>`,
+		"content": `<path class="f_mguhhan"/><path class="z5f1labnz"/>`,
 		"fallback": "lucide-extended:cloud-lightning-filled",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/ravrb1b2k.css';
-import '../../css/s/s9p5b8y_x.css';
+import '../../css/n/nz7xlfb-v.css';
+import '../../css/b/bbq8uabvg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ravrb1b2k"/><path class="s9p5b8y_x"/>`,
+		"content": `<path class="nz7xlfb-v"/><path class="bbq8uabvg"/>`,
 		"fallback": "lucide-extended:database-zap-filled",
 	});
 }

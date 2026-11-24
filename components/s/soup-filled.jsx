@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hwosufbcj.css';
-import '../../css/r/re3b6ubpp.css';
+import '../../css/w/w09nt7o0v.css';
+import '../../css/h/hkt82pb4f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hwosufbcj"/><path class="re3b6ubpp"/>`,
+		"content": `<path class="w09nt7o0v"/><path class="hkt82pb4f"/>`,
 		"fallback": "lucide-extended:soup-filled",
 	});
 }

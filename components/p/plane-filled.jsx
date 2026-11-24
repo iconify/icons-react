@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/ca_8f2b4m.css';
+import '../../css/w/w2qmclqnb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ca_8f2b4m"/>`,
+		"content": `<path class="w2qmclqnb"/>`,
 		"fallback": "lucide-extended:plane-filled",
 	});
 }

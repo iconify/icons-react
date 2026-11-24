@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nl153uk6t.css';
-import '../../css/r/rv21otbpy.css';
+import '../../css/s/sqpt0ub4e.css';
+import '../../css/h/hpyrhjbtm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nl153uk6t"/><path class="rv21otbpy"/>`,
+		"content": `<path class="sqpt0ub4e"/><path class="hpyrhjbtm"/>`,
 		"fallback": "lucide-extended:layer-arrow-down-filled",
 	});
 }

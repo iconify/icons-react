@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/r/rqaun74ep.css';
 import '../../css/l/lqmbin3sl.css';
-import '../../css/m/mp47fxbkb.css';
+import '../../css/t/toyb1f25w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="rqaun74ep"/><path clip-rule="evenodd" class="lqmbin3sl"/><path class="mp47fxbkb"/>`,
+		"content": `<path class="rqaun74ep"/><path clip-rule="evenodd" class="lqmbin3sl"/><path class="toyb1f25w"/>`,
 		"fallback": "lucide-extended:map-pin-pen-filled",
 	});
 }

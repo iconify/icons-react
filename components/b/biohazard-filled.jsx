@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/z/z2l34ybtf.css';
-import '../../css/j/j8cdfd2tz.css';
+import '../../css/p/pfl-fcnvq.css';
+import '../../css/v/vbvjxkbkg.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="z2l34ybtf"/><path class="j8cdfd2tz"/>`,
+		"content": `<path class="pfl-fcnvq"/><path class="vbvjxkbkg"/>`,
 		"fallback": "lucide-extended:biohazard-filled",
 	});
 }

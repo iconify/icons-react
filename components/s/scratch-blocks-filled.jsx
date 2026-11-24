@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gfe17mbsd.css';
+import '../../css/s/ssvqhfy1l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gfe17mbsd"/>`,
+		"content": `<path class="ssvqhfy1l"/>`,
 		"fallback": "lucide-extended:scratch-blocks-filled",
 	});
 }

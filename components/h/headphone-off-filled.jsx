@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/blx7dw47b.css';
+import '../../css/l/l3i6ohgyx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="blx7dw47b"/>`,
+		"content": `<path class="l3i6ohgyx"/>`,
 		"fallback": "lucide-extended:headphone-off-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m0s9k2brk.css';
+import '../../css/l/l8b33yeif.css';
 import '../../css/v/v7fiiyb4p.css';
 import '../../css/y/yyu6w0k1c.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m0s9k2brk"/><path clip-rule="evenodd" class="v7fiiyb4p"/><path class="yyu6w0k1c"/>`,
+		"content": `<path class="l8b33yeif"/><path clip-rule="evenodd" class="v7fiiyb4p"/><path class="yyu6w0k1c"/>`,
 		"fallback": "lucide-extended:file-badge-filled",
 	});
 }

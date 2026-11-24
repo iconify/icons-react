@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hfabtaczt.css';
+import '../../css/a/as5f_obem.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hfabtaczt"/>`,
+		"content": `<path class="as5f_obem"/>`,
 		"fallback": "lucide-extended:hand-filled",
 	});
 }

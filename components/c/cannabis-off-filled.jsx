@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dcygz2abe.css';
+import '../../css/z/zve1wfbgc.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dcygz2abe"/>`,
+		"content": `<path class="zve1wfbgc"/>`,
 		"fallback": "lucide-extended:cannabis-off-filled",
 	});
 }

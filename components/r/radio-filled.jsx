@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/e/ebt6dfb6z.css';
-import '../../css/m/mpz6u0b-o.css';
+import '../../css/v/vrlnyzn3k.css';
+import '../../css/z/z3hyr2b6a.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ebt6dfb6z"/><path class="mpz6u0b-o"/>`,
+		"content": `<path class="vrlnyzn3k"/><path class="z3hyr2b6a"/>`,
 		"fallback": "lucide-extended:radio-filled",
 	});
 }

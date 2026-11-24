@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/h5qjmq-od.css';
+import '../../css/u/ufep9qyxh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h5qjmq-od"/>`,
+		"content": `<path class="ufep9qyxh"/>`,
 		"fallback": "lucide-extended:cloud-moon-filled",
 	});
 }

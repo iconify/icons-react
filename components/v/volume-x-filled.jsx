@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s55lw4xho.css';
+import '../../css/k/krsa40z7v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s55lw4xho"/>`,
+		"content": `<path class="krsa40z7v"/>`,
 		"fallback": "lucide-extended:volume-x-filled",
 	});
 }

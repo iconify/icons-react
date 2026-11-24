@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rccdzuh8z.css';
-import '../../css/d/du-r1xbos.css';
+import '../../css/t/tkrexjm2i.css';
+import '../../css/t/tl712yvzu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="rccdzuh8z"/><path class="du-r1xbos"/>`,
+		"content": `<path clip-rule="evenodd" class="tkrexjm2i"/><path class="tl712yvzu"/>`,
 		"fallback": "lucide-extended:alarm-clock-minus-filled",
 	});
 }

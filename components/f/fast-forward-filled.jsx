@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ld-ldz2zs.css';
+import '../../css/g/g6u_-l_8m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ld-ldz2zs"/>`,
+		"content": `<path class="g6u_-l_8m"/>`,
 		"fallback": "lucide-extended:fast-forward-filled",
 	});
 }

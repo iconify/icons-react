@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/uuaejacgr.css';
+import '../../css/x/xlxa70wnv.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="uuaejacgr"/>`,
+		"content": `<path class="xlxa70wnv"/>`,
 		"fallback": "lucide-extended:drafting-compass-filled",
 	});
 }

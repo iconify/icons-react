@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i2scobdvr.css';
+import '../../css/q/q8i1lzb8m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i2scobdvr"/>`,
+		"content": `<path class="q8i1lzb8m"/>`,
 		"fallback": "lucide-extended:skip-back-filled",
 	});
 }

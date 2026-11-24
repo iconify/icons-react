@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/q/qm58-9bfw.css';
+import '../../css/j/jfl7-xb6l.css';
 import '../../css/i/ir-353l_x.css';
 import '../../css/t/tqxa8acsn.css';
 import '../../css/x/xoa4qi0vs.css';
@@ -17,7 +17,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="qm58-9bfw"/><path class="ir-353l_x"/><path class="tqxa8acsn"/><path class="xoa4qi0vs"/><path class="lni93acqd"/><path class="keerg4bbx"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="jfl7-xb6l"/><path class="ir-353l_x"/><path class="tqxa8acsn"/><path class="xoa4qi0vs"/><path class="lni93acqd"/><path class="keerg4bbx"/></g>`,
 		"fallback": "lucide-extended:brain-cog-duotone",
 	});
 }

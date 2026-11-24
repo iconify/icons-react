@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ujzfkkbuh.css';
+import '../../css/q/qdu-cnb7v.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ujzfkkbuh"/>`,
+		"content": `<path class="qdu-cnb7v"/>`,
 		"fallback": "lucide-extended:shopping-basket-filled",
 	});
 }

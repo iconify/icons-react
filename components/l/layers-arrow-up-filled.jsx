@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/x/x8i9flbaf.css';
 import '../../css/n/njfu2s7nv.css';
-import '../../css/o/ow0ge3umc.css';
+import '../../css/y/yhgcxzo7f.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="x8i9flbaf"/><path class="njfu2s7nv"/><path class="ow0ge3umc"/>`,
+		"content": `<path class="x8i9flbaf"/><path class="njfu2s7nv"/><path class="yhgcxzo7f"/>`,
 		"fallback": "lucide-extended:layers-arrow-up-filled",
 	});
 }

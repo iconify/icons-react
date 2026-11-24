@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/dste_4pjv.css';
+import '../../css/r/rudnz8bwy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="dste_4pjv"/>`,
+		"content": `<path class="rudnz8bwy"/>`,
 		"fallback": "lucide-extended:sun-moon-filled",
 	});
 }

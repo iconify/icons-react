@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/h-hof9sdl.css';
-import '../../css/r/rp-2d-muk.css';
+import '../../css/z/zz5fjmirl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="h-hof9sdl"/><path class="rp-2d-muk"/>`,
+		"content": `<path class="h-hof9sdl"/><path class="zz5fjmirl"/>`,
 		"fallback": "lucide-extended:square-arrow-up-right-enter-filled",
 	});
 }

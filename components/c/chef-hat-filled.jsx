@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/h/hdj2bxbzd.css';
+import '../../css/d/deynqom5b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hdj2bxbzd"/>`,
+		"content": `<path class="deynqom5b"/>`,
 		"fallback": "lucide-extended:chef-hat-filled",
 	});
 }

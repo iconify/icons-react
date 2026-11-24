@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gr-36obqz.css';
+import '../../css/e/e5_uzpblh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gr-36obqz"/>`,
+		"content": `<path class="e5_uzpblh"/>`,
 		"fallback": "lucide-extended:scale-filled",
 	});
 }

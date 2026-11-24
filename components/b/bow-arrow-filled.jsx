@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i6ppvcf2u.css';
+import '../../css/k/k8l8tibar.css';
 import '../../css/s/s_xabeb6d.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i6ppvcf2u"/><path class="s_xabeb6d"/>`,
+		"content": `<path class="k8l8tibar"/><path class="s_xabeb6d"/>`,
 		"fallback": "lucide-extended:bow-arrow-filled",
 	});
 }

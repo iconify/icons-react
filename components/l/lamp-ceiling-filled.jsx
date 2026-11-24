@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qv8m1fbtm.css';
+import '../../css/t/txccpm--h.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="qv8m1fbtm"/>`,
+		"content": `<path clip-rule="evenodd" class="txccpm--h"/>`,
 		"fallback": "lucide-extended:lamp-ceiling-filled",
 	});
 }

@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/h/hpyifib8k.css';
-import '../../css/j/j-btr2exy.css';
+import '../../css/a/ay19o3lge.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="hpyifib8k"/><path class="j-btr2exy"/>`,
+		"content": `<path class="hpyifib8k"/><path class="ay19o3lge"/>`,
 		"fallback": "lucide-extended:phone-outgoing-filled",
 	});
 }

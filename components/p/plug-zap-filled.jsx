@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/d/d1muvdzug.css';
+import '../../css/k/kuwi-34aa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="d1muvdzug"/>`,
+		"content": `<path class="kuwi-34aa"/>`,
 		"fallback": "lucide-extended:plug-zap-filled",
 	});
 }

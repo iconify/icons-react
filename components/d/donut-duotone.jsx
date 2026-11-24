@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/w/wnj3n4b3q.css';
+import '../../css/w/wl6knhbua.css';
 import '../../css/j/jufq728bv.css';
 import '../../css/f/f29fwjbso.css';
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="wnj3n4b3q"/><path class="jufq728bv"/><path class="f29fwjbso"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path clip-rule="evenodd" class="wl6knhbua"/><path class="jufq728bv"/><path class="f29fwjbso"/></g>`,
 		"fallback": "lucide-extended:donut-duotone",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/r4p1-ebgb.css';
+import '../../css/p/pm8jd1bnm.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="r4p1-ebgb"/>`,
+		"content": `<path class="pm8jd1bnm"/>`,
 		"fallback": "lucide-extended:stone-filled",
 	});
 }

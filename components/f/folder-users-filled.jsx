@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qzzmcmn5v.css';
+import '../../css/w/wpcwsfbtq.css';
 import '../../css/x/xv4mh2pto.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qzzmcmn5v"/><path class="xv4mh2pto"/>`,
+		"content": `<path class="wpcwsfbtq"/><path class="xv4mh2pto"/>`,
 		"fallback": "lucide-extended:folder-users-filled",
 	});
 }

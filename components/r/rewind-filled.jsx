@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/v/v5hd03b6k.css';
+import '../../css/a/aeyq-vbow.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="v5hd03b6k"/>`,
+		"content": `<path class="aeyq-vbow"/>`,
 		"fallback": "lucide-extended:rewind-filled",
 	});
 }

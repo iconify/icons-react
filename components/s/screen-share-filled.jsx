@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nod_500mb.css';
-import '../../css/q/qgnvfcgyj.css';
+import '../../css/q/qb37dcqql.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="nod_500mb"/><path class="qgnvfcgyj"/>`,
+		"content": `<path class="nod_500mb"/><path class="qb37dcqql"/>`,
 		"fallback": "lucide-extended:screen-share-filled",
 	});
 }

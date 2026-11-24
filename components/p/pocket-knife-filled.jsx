@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/py0upebda.css';
+import '../../css/e/ezscchbvl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="py0upebda"/>`,
+		"content": `<path clip-rule="evenodd" class="ezscchbvl"/>`,
 		"fallback": "lucide-extended:pocket-knife-filled",
 	});
 }

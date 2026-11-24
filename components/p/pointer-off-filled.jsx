@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i__nhrbhy.css';
+import '../../css/l/lx-hgebni.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i__nhrbhy"/>`,
+		"content": `<path class="lx-hgebni"/>`,
 		"fallback": "lucide-extended:pointer-off-filled",
 	});
 }

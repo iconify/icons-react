@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/t/tni3ehbvj.css';
+import '../../css/m/mnhwfy01e.css';
 import '../../css/g/gs6pthb9k.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="tni3ehbvj"/><path class="gs6pthb9k"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="mnhwfy01e"/><path class="gs6pthb9k"/></g>`,
 		"fallback": "lucide-extended:touchpad-duotone",
 	});
 }

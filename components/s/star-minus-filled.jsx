@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fjms-oqvl.css';
+import '../../css/a/a2z4rcioh.css';
 import '../../css/v/v2tmeobir.css';
 
 const viewBox = {"width":24,"height":24};
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fjms-oqvl"/><path class="v2tmeobir"/>`,
+		"content": `<path class="a2z4rcioh"/><path class="v2tmeobir"/>`,
 		"fallback": "lucide-extended:star-minus-filled",
 	});
 }

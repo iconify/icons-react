@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/p7ymvtb1y.css';
+import '../../css/x/xw2--ccna.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="p7ymvtb1y"/>`,
+		"content": `<path class="xw2--ccna"/>`,
 		"fallback": "lucide-extended:earbuds-off-filled",
 	});
 }

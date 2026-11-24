@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/t/t_9t_z5eb.css';
-import '../../css/k/k6i9o7bvr.css';
+import '../../css/i/ikzgpudrt.css';
+import '../../css/d/dxc9wabla.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="t_9t_z5eb"/><path class="k6i9o7bvr"/>`,
+		"content": `<path class="ikzgpudrt"/><path class="dxc9wabla"/>`,
 		"fallback": "lucide-extended:bell-check-filled",
 	});
 }

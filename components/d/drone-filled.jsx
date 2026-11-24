@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gcw_ncbqz.css';
+import '../../css/d/dd506xbwi.css';
 import '../../css/z/zjahz3ydt.css';
 import '../../css/u/upgqaocvh.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gcw_ncbqz"/><path class="zjahz3ydt"/><path class="upgqaocvh"/>`,
+		"content": `<path class="dd506xbwi"/><path class="zjahz3ydt"/><path class="upgqaocvh"/>`,
 		"fallback": "lucide-extended:drone-filled",
 	});
 }

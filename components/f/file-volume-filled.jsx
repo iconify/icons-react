@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pj896_brl.css';
+import '../../css/e/e5jau6bgw.css';
 import '../../css/j/j22w93are.css';
-import '../../css/q/qcswzebnf.css';
+import '../../css/p/pndt6mbqy.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="pj896_brl"/><path class="j22w93are"/><path class="qcswzebnf"/>`,
+		"content": `<path class="e5jau6bgw"/><path class="j22w93are"/><path class="pndt6mbqy"/>`,
 		"fallback": "lucide-extended:file-volume-filled",
 	});
 }

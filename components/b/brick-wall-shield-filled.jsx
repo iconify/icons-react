@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/b/b4a0pfb5b.css';
-import '../../css/y/y_elplb8u.css';
+import '../../css/j/jthuavl6i.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="b4a0pfb5b"/><path clip-rule="evenodd" class="y_elplb8u"/>`,
+		"content": `<path class="b4a0pfb5b"/><path clip-rule="evenodd" class="jthuavl6i"/>`,
 		"fallback": "lucide-extended:brick-wall-shield-filled",
 	});
 }

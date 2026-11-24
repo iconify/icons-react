@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fqdwyabql.css';
+import '../../css/f/f_gikvbdl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="fqdwyabql"/>`,
+		"content": `<path clip-rule="evenodd" class="f_gikvbdl"/>`,
 		"fallback": "lucide-extended:kayak-filled",
 	});
 }

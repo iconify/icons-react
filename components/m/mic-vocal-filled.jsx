@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/ibo-1vb4k.css';
+import '../../css/t/tl8fmdb5l.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ibo-1vb4k"/>`,
+		"content": `<path class="tl8fmdb5l"/>`,
 		"fallback": "lucide-extended:mic-vocal-filled",
 	});
 }

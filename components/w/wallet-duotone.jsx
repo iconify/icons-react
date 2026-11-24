@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
 import '../../css/f/fo5gddyxp.css';
-import '../../css/n/nyv5_pnax.css';
+import '../../css/q/qnnbh0bra.css';
 import '../../css/i/il-hj08zf.css';
 
 const viewBox = {"width":24,"height":24};
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="fo5gddyxp"/><path class="nyv5_pnax"/><path class="il-hj08zf"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="fo5gddyxp"/><path class="qnnbh0bra"/><path class="il-hj08zf"/></g>`,
 		"fallback": "lucide-extended:wallet-duotone",
 	});
 }

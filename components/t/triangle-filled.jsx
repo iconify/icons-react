@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/l/ld7b2-b0o.css';
+import '../../css/a/awg-atwyh.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ld7b2-b0o"/>`,
+		"content": `<path class="awg-atwyh"/>`,
 		"fallback": "lucide-extended:triangle-filled",
 	});
 }

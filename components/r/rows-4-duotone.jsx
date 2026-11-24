@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/l/l2iw09box.css';
+import '../../css/b/b3k4ilbdz.css';
 import '../../css/d/d7luv5b1z.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="l2iw09box"/><path class="d7luv5b1z"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="b3k4ilbdz"/><path class="d7luv5b1z"/></g>`,
 		"fallback": "lucide-extended:rows-4-duotone",
 	});
 }

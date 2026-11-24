@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/moc096_4x.css';
-import '../../css/h/ha-x6codx.css';
+import '../../css/n/n_8ytmbdv.css';
+import '../../css/n/nicoetbmf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="moc096_4x"/><path class="ha-x6codx"/>`,
+		"content": `<path class="n_8ytmbdv"/><path class="nicoetbmf"/>`,
 		"fallback": "lucide-extended:chart-pie-filled",
 	});
 }

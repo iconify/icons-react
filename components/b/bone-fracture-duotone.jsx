@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/l/la34zmbqe.css';
-import '../../css/h/h1fus37ga.css';
+import '../../css/a/a6rtlmbtl.css';
+import '../../css/n/n_5p_wbcu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="la34zmbqe"/><path class="h1fus37ga"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="a6rtlmbtl"/><path class="n_5p_wbcu"/></g>`,
 		"fallback": "lucide-extended:bone-fracture-duotone",
 	});
 }

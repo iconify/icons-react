@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/i/i9ha_eclp.css';
+import '../../css/x/xppppxbwk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="i9ha_eclp"/>`,
+		"content": `<path class="xppppxbwk"/>`,
 		"fallback": "lucide-extended:lamp-filled",
 	});
 }

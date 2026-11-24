@@ -2,7 +2,7 @@ import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/n1lsf0bnc.css';
 import '../../css/t/th5e03i1o.css';
-import '../../css/h/h0up9_b7q.css';
+import '../../css/b/bwaiztbhs.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="th5e03i1o"/><path class="h0up9_b7q"/></g>`,
+		"content": `<g clip-rule="evenodd" class="n1lsf0bnc"><path class="th5e03i1o"/><path class="bwaiztbhs"/></g>`,
 		"fallback": "lucide-extended:beef-filled",
 	});
 }

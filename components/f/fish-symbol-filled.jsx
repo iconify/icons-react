@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/f_hu_z_gx.css';
+import '../../css/d/d088tmoig.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="f_hu_z_gx"/>`,
+		"content": `<path class="d088tmoig"/>`,
 		"fallback": "lucide-extended:fish-symbol-filled",
 	});
 }

@@ -5,7 +5,7 @@ import '../../css/u/uogjtkbzd.css';
 import '../../css/w/wx40tbxfq.css';
 import '../../css/m/mk4imu_bm.css';
 import '../../css/n/n0nm-ukwf.css';
-import '../../css/n/neu_sytpc.css';
+import '../../css/q/q-spghbco.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -16,7 +16,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="uogjtkbzd"/><path class="wx40tbxfq"/><path class="mk4imu_bm"/><path class="n0nm-ukwf"/><path class="neu_sytpc"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="uogjtkbzd"/><path class="wx40tbxfq"/><path class="mk4imu_bm"/><path class="n0nm-ukwf"/><path class="q-spghbco"/></g>`,
 		"fallback": "lucide-extended:shrimp-duotone",
 	});
 }

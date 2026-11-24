@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qdmj-0wpx.css';
+import '../../css/y/y-i5iccrf.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="qdmj-0wpx"/>`,
+		"content": `<path clip-rule="evenodd" class="y-i5iccrf"/>`,
 		"fallback": "lucide-extended:ice-cream-bowl-filled",
 	});
 }

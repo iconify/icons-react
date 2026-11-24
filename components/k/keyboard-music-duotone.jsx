@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/g/gay7rsgic.css';
+import '../../css/r/rgv_xqb6g.css';
 import '../../css/f/f0oesw_wr.css';
 
 const viewBox = {"width":24,"height":24};
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="gay7rsgic"/><path class="f0oesw_wr"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="rgv_xqb6g"/><path class="f0oesw_wr"/></g>`,
 		"fallback": "lucide-extended:keyboard-music-duotone",
 	});
 }

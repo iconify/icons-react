@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/f/ft5dv1b6b.css';
-import '../../css/f/fnwqvcbpt.css';
+import '../../css/m/mq51hrbxc.css';
 import '../../css/s/ssh18kvpm.css';
 import '../../css/g/g1_ffnpua.css';
 import '../../css/x/xxbbvx_gg.css';
@@ -15,7 +15,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="ft5dv1b6b"><path class="fnwqvcbpt"/><path class="ssh18kvpm"/><path class="g1_ffnpua"/><path class="xxbbvx_gg"/></g>`,
+		"content": `<g class="ft5dv1b6b"><path class="mq51hrbxc"/><path class="ssh18kvpm"/><path class="g1_ffnpua"/><path class="xxbbvx_gg"/></g>`,
 		"fallback": "lucide-extended:book-headphones-duotone",
 	});
 }

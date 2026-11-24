@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/g/gscxrkdyg.css';
-import '../../css/d/du48p_lje.css';
+import '../../css/t/tw-2n_btc.css';
+import '../../css/g/gawagji8w.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="gscxrkdyg"/><path clip-rule="evenodd" class="du48p_lje"/>`,
+		"content": `<path class="tw-2n_btc"/><path clip-rule="evenodd" class="gawagji8w"/>`,
 		"fallback": "lucide-extended:navigation-2-off-filled",
 	});
 }

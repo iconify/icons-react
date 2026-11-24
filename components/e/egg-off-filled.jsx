@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/b/bp4zsc_7j.css';
+import '../../css/j/jdpzqcwvx.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="bp4zsc_7j"/>`,
+		"content": `<path class="jdpzqcwvx"/>`,
 		"fallback": "lucide-extended:egg-off-filled",
 	});
 }

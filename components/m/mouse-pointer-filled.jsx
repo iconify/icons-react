@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/ox69vdbve.css';
+import '../../css/j/j8eaadcrb.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ox69vdbve"/>`,
+		"content": `<path class="j8eaadcrb"/>`,
 		"fallback": "lucide-extended:mouse-pointer-filled",
 	});
 }

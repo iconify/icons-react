@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/r/rfl8apr-t.css';
+import '../../css/t/tctg72b3n.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="rfl8apr-t"/>`,
+		"content": `<path clip-rule="evenodd" class="tctg72b3n"/>`,
 		"fallback": "lucide-extended:paper-bag-filled",
 	});
 }

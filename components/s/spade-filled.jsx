@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/a/a0yql5bvv.css';
+import '../../css/m/mcjn2w3es.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="a0yql5bvv"/>`,
+		"content": `<path class="mcjn2w3es"/>`,
 		"fallback": "lucide-extended:spade-filled",
 	});
 }

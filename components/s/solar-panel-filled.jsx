@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/x/xy00zfmuk.css';
+import '../../css/k/kwxc2ll_e.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="xy00zfmuk"/>`,
+		"content": `<path class="kwxc2ll_e"/>`,
 		"fallback": "lucide-extended:solar-panel-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/p/pmke0045g.css';
+import '../../css/x/x5_hjiief.css';
 import '../../css/f/fdkgd3bwq.css';
 import '../../css/p/pfkyy-b4c.css';
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="pmke0045g"/><path class="fdkgd3bwq"/><path class="pfkyy-b4c"/>`,
+		"content": `<path clip-rule="evenodd" class="x5_hjiief"/><path class="fdkgd3bwq"/><path class="pfkyy-b4c"/>`,
 		"fallback": "lucide-extended:germ-off-filled",
 	});
 }

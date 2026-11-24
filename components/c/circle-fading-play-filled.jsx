@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/j/jkjmfib4i.css';
-import '../../css/s/s2r542g-g.css';
+import '../../css/a/arhhw8bcu.css';
+import '../../css/a/aiztnfbpp.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -12,7 +12,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="jkjmfib4i"/><path class="s2r542g-g"/>`,
+		"content": `<path class="arhhw8bcu"/><path class="aiztnfbpp"/>`,
 		"fallback": "lucide-extended:circle-fading-play-filled",
 	});
 }

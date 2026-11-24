@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/s/s3kg0ka3o.css';
+import '../../css/w/wmb5cnbye.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="s3kg0ka3o"/>`,
+		"content": `<path class="wmb5cnbye"/>`,
 		"fallback": "lucide-extended:gavel-filled",
 	});
 }

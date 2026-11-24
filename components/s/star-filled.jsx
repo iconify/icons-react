@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/c/cwfj1li-o.css';
+import '../../css/n/ng1gb-b6b.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="cwfj1li-o"/>`,
+		"content": `<path class="ng1gb-b6b"/>`,
 		"fallback": "lucide-extended:star-filled",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/w/wcnrz_gkv.css';
+import '../../css/e/ejfhehbcl.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="wcnrz_gkv"/>`,
+		"content": `<path class="ejfhehbcl"/>`,
 		"fallback": "lucide-extended:shield-off-filled",
 	});
 }

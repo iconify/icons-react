@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.65",
+  "version": "1.0.66",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -221,6 +221,10 @@
     "./app-window-mac": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/app-window-mac.jsx"
+    },
+    "./app-window-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-plus.jsx"
     },
     "./apple": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2054,6 +2058,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-small.jsx"
     },
+    "./circle-speed-lines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/circle-speed-lines.jsx"
+    },
     "./circle-star": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circle-star.jsx"
@@ -3830,6 +3838,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-hub.jsx"
     },
+    "./graph-path": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/graph-path.jsx"
+    },
     "./graph-ring": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/graph-ring.jsx"
@@ -4089,6 +4101,10 @@
     "./hockey-stick": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hockey-stick.jsx"
+    },
+    "./hole": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/hole.jsx"
     },
     "./hop": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5585,6 +5601,10 @@
     "./package-2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/package-2.jsx"
+    },
+    "./package-arrow-bend-up-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/package-arrow-bend-up-left.jsx"
     },
     "./package-check": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7421,6 +7441,10 @@
     "./square-plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-plus.jsx"
+    },
+    "./square-plus-corner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-plus-corner.jsx"
     },
     "./square-power": {
       "types": "./types/hqrkovbr.d.ts",

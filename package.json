@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/sidekickicons",
   "type": "module",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "homepage": "https://icon-sets.iconify.design/sidekickicons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -453,6 +453,22 @@
     "./battery-charging-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/battery-charging-solid.jsx"
+    },
+    "./bicycle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle.jsx"
+    },
+    "./bicycle-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-16-solid.jsx"
+    },
+    "./bicycle-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-20-solid.jsx"
+    },
+    "./bicycle-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bicycle-solid.jsx"
     },
     "./blockquote": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1654,6 +1670,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/hammer-solid.jsx"
     },
+    "./handshake": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handshake.jsx"
+    },
+    "./handshake-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handshake-16-solid.jsx"
+    },
+    "./handshake-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handshake-20-solid.jsx"
+    },
+    "./handshake-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/handshake-solid.jsx"
+    },
     "./heading": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/heading.jsx"
@@ -2114,6 +2146,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plug-20-solid.jsx"
     },
+    "./plug-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-slash.jsx"
+    },
+    "./plug-slash-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-slash-16-solid.jsx"
+    },
+    "./plug-slash-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-slash-20-solid.jsx"
+    },
+    "./plug-slash-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plug-slash-solid.jsx"
+    },
     "./plug-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plug-solid.jsx"
@@ -2262,6 +2310,38 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/sidebar-right-solid.jsx"
     },
+    "./skip-backward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-backward.jsx"
+    },
+    "./skip-backward-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-backward-16-solid.jsx"
+    },
+    "./skip-backward-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-backward-20-solid.jsx"
+    },
+    "./skip-backward-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-backward-solid.jsx"
+    },
+    "./skip-forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-forward.jsx"
+    },
+    "./skip-forward-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-forward-16-solid.jsx"
+    },
+    "./skip-forward-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-forward-20-solid.jsx"
+    },
+    "./skip-forward-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/skip-forward-solid.jsx"
+    },
     "./snowflake": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/snowflake.jsx"
@@ -2325,6 +2405,38 @@
     "./star-slash-solid": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-slash-solid.jsx"
+    },
+    "./step-backward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-backward.jsx"
+    },
+    "./step-backward-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-backward-16-solid.jsx"
+    },
+    "./step-backward-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-backward-20-solid.jsx"
+    },
+    "./step-backward-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-backward-solid.jsx"
+    },
+    "./step-forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-forward.jsx"
+    },
+    "./step-forward-16-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-forward-16-solid.jsx"
+    },
+    "./step-forward-20-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-forward-20-solid.jsx"
+    },
+    "./step-forward-solid": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/step-forward-solid.jsx"
     },
     "./stethoscope": {
       "types": "./types/hqrkovbr.d.ts",

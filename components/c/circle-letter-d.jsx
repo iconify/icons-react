@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nxqpjhp1l.css';
+import '../../css/s/sxepwmxxq.css';
 
 const viewBox = {"width":16,"height":16};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path clip-rule="evenodd" class="nxqpjhp1l"/>`,
+		"content": `<path clip-rule="evenodd" class="sxepwmxxq"/>`,
 		"fallback": "gravity-ui:circle-letter-d",
 	});
 }

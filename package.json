@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/gravity-ui",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "homepage": "https://icon-sets.iconify.design/gravity-ui/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -654,6 +654,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-collapse-vertical.jsx"
     },
+    "./chevrons-collapse-vertical-from-lines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-collapse-vertical-from-lines.jsx"
+    },
     "./chevrons-collapse-vertical-to-line": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-collapse-vertical-to-line.jsx"
@@ -689,6 +693,10 @@
     "./chevrons-expand-vertical-from-line": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-expand-vertical-from-line.jsx"
+    },
+    "./chevrons-expand-vertical-to-lines": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-expand-vertical-to-lines.jsx"
     },
     "./chevrons-left": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1229,6 +1237,10 @@
     "./compass": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/compass.jsx"
+    },
+    "./cookie": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/cookie.jsx"
     },
     "./copy": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1950,6 +1962,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/house-fill.jsx"
     },
+    "./incognito": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/incognito.jsx"
+    },
     "./italic": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/italic.jsx"
@@ -2274,9 +2290,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/logo-yandex.jsx"
     },
+    "./logo-yandex-ai-studio": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-yandex-ai-studio.jsx"
+    },
     "./logo-yandex-cloud": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/logo-yandex-cloud.jsx"
+    },
+    "./logo-yandex-id": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/logo-yandex-id.jsx"
     },
     "./logo-yandex-messenger": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2941,6 +2965,10 @@
     "./strikethrough": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/strikethrough.jsx"
+    },
+    "./subscript": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/subscript.jsx"
     },
     "./suitcase": {
       "types": "./types/hqrkovbr.d.ts",

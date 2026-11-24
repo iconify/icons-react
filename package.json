@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/logos",
   "type": "module",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "homepage": "https://icon-sets.iconify.design/logos/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC0-1.0",
@@ -121,6 +121,10 @@
     "./ai": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/ai.jsx"
+    },
+    "./aider": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aider.jsx"
     },
     "./airbnb": {
       "types": "./types/hqrkovbr.d.ts",
@@ -673,6 +677,14 @@
     "./aws-batch": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/aws-batch.jsx"
+    },
+    "./aws-bedrock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aws-bedrock.jsx"
+    },
+    "./aws-bedrock-mono": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/aws-bedrock-mono.jsx"
     },
     "./aws-certificate-manager": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1497,6 +1509,14 @@
     "./clickdeploy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/clickdeploy.jsx"
+    },
+    "./clickhouse": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clickhouse.jsx"
+    },
+    "./clickhouse-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clickhouse-icon.jsx"
     },
     "./clickup": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2486,6 +2506,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/dspy.jsx"
     },
+    "./duckdb": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duckdb.jsx"
+    },
+    "./duckdb-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/duckdb-icon.jsx"
+    },
     "./duckduckgo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/duckduckgo.jsx"
@@ -2597,6 +2625,14 @@
     "./eleventy": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eleventy.jsx"
+    },
+    "./elixir": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir.jsx"
+    },
+    "./elixir-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elixir-icon.jsx"
     },
     "./ello": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2770,6 +2806,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/exa-icon.jsx"
     },
+    "./exe": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exe.jsx"
+    },
+    "./exe-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/exe-icon.jsx"
+    },
     "./expo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/expo.jsx"
@@ -2801,6 +2845,14 @@
     "./faker": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/faker.jsx"
+    },
+    "./fal": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fal.jsx"
+    },
+    "./fal-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/fal-icon.jsx"
     },
     "./falcor": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3833,6 +3885,10 @@
     "./helpscout-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/h/helpscout-icon.jsx"
+    },
+    "./herdr": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/herdr.jsx"
     },
     "./hermes": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6630,6 +6686,22 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qlik.jsx"
     },
+    "./qoder": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qoder.jsx"
+    },
+    "./qoder-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qoder-icon.jsx"
+    },
+    "./qodo": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodo.jsx"
+    },
+    "./qodo-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qodo-icon.jsx"
+    },
     "./qordoba": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qordoba.jsx"
@@ -6666,6 +6738,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qwen.jsx"
     },
+    "./qwen-code": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/q/qwen-code.jsx"
+    },
     "./qwen-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/q/qwen-icon.jsx"
@@ -6697,6 +6773,14 @@
     "./rackspace-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rackspace-icon.jsx"
+    },
+    "./radix": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radix.jsx"
+    },
+    "./radix-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/radix-icon.jsx"
     },
     "./ragflow": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8290,6 +8374,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/turbopack-icon.jsx"
     },
+    "./turbopuffer": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turbopuffer.jsx"
+    },
     "./turborepo": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/turborepo.jsx"
@@ -8337,6 +8425,14 @@
     "./typeorm": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/typeorm.jsx"
+    },
+    "./typesafe-ai": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typesafe-ai.jsx"
+    },
+    "./typesafe-ai-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/typesafe-ai-dark.jsx"
     },
     "./typescript": {
       "types": "./types/hqrkovbr.d.ts",
@@ -8473,6 +8569,10 @@
     "./uservoice-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/u/uservoice-icon.jsx"
+    },
+    "./uv": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/uv.jsx"
     },
     "./uwsgi": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9133,6 +9233,14 @@
     "./zapier-icon": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/z/zapier-icon.jsx"
+    },
+    "./zed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zed.jsx"
+    },
+    "./zed-icon": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/z/zed-icon.jsx"
     },
     "./zeit": {
       "types": "./types/hqrkovbr.d.ts",

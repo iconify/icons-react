@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gf125qsrt {
-  d: path("M4 12a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z");
+		"content": `<style>.n3ytvnb7z {
+  d: path("M4 11a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Zm7 4a1 1 0 1 0 2 0a1 1 0 0 0-2 0");
 }
 
 .nrj6p8qat {
@@ -22,11 +22,11 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.zlelvokby {
+.smd2290dp {
   stroke-opacity: 0.4;
-  d: path("M9 10V6a3 3 0 0 1 6 0");
+  d: path("M8 9V7a4 4 0 0 1 7.464-2");
 }
-</style><g class="nrj6p8qat"><path class="zlelvokby"/><path class="gf125qsrt"/></g>`,
+</style><g class="nrj6p8qat"><path class="smd2290dp"/><path class="n3ytvnb7z"/></g>`,
 		"fallback": "coolicons:lock-open-duocolor",
 	});
 }

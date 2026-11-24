@@ -10,9 +10,9 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.dytifdcql {
+		"content": `<style>.nfnuaabzh {
   stroke-opacity: 0.4;
-  d: path("M9 6a3 3 0 0 1 6 0v4M2 5l17 17");
+  d: path("M9.172 4.172A4 4 0 0 1 16 7v2M2 3l19 19");
 }
 
 .nrj6p8qat {
@@ -23,10 +23,10 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.t4mkg0b6k {
-  d: path("M18 21H4V10h3m6 0h7v7");
+.o-carab-v {
+  d: path("M20 21H4V9h4m6 0h6v6");
 }
-</style><g class="nrj6p8qat"><path class="dytifdcql"/><path class="t4mkg0b6k"/></g>`,
+</style><g class="nrj6p8qat"><path class="nfnuaabzh"/><path class="o-carab-v"/></g>`,
 		"fallback": "coolicons:lock-off-duocolor-sharp",
 	});
 }

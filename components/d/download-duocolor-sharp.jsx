@@ -18,15 +18,15 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.riisj1nkm {
+.tnryyv3mu {
   stroke-opacity: 0.4;
-  d: path("M6 20h12");
+  d: path("M4 16v4h16v-4");
 }
 
 .tp9nqccpz {
   d: path("m8 12l4 4l4-4m-4 4V4");
 }
-</style><g class="nrj6p8qat"><path class="riisj1nkm"/><path class="tp9nqccpz"/></g>`,
+</style><g class="nrj6p8qat"><path class="tnryyv3mu"/><path class="tp9nqccpz"/></g>`,
 		"fallback": "coolicons:download-duocolor-sharp",
 	});
 }

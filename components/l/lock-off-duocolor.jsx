@@ -10,9 +10,9 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.dytifdcql {
+		"content": `<style>.nfnuaabzh {
   stroke-opacity: 0.4;
-  d: path("M9 6a3 3 0 0 1 6 0v4M2 5l17 17");
+  d: path("M9.172 4.172A4 4 0 0 1 16 7v2M2 3l19 19");
 }
 
 .nrj6p8qat {
@@ -23,10 +23,10 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.o5-ljobqr {
-  d: path("M18 21H6a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h1m6 0h5a2 2 0 0 1 2 2v5");
+.v3ybj5b7y {
+  d: path("M19.414 20.414A2 2 0 0 1 18 21H6a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2m6 0h4a2 2 0 0 1 2 2v4");
 }
-</style><g class="nrj6p8qat"><path class="dytifdcql"/><path class="o5-ljobqr"/></g>`,
+</style><g class="nrj6p8qat"><path class="nfnuaabzh"/><path class="v3ybj5b7y"/></g>`,
 		"fallback": "coolicons:lock-off-duocolor",
 	});
 }

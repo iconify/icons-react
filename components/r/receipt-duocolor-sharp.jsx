@@ -23,10 +23,10 @@ function Component({width, height, ...props}) {
   d: path("M8 7h8m-8 4h8m-8 4h4");
 }
 
-.u9ppe9baq {
-  d: path("M12 3h8v18l-2-2l-2 2l-2-2l-2 2l-2-2l-2 2l-2-2l-2 2V3z");
+.qq7f_hbum {
+  d: path("M12 3h8v18l-4-2l-4 2l-4-2l-4 2V3z");
 }
-</style><g class="nrj6p8qat"><path class="pv-hghb8k"/><path class="u9ppe9baq"/></g>`,
+</style><g class="nrj6p8qat"><path class="pv-hghb8k"/><path class="qq7f_hbum"/></g>`,
 		"fallback": "coolicons:receipt-duocolor-sharp",
 	});
 }

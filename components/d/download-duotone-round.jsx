@@ -10,15 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ll1oe2bza {
+		"content": `<style>.tqypeh3ht {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("m8 12l4 4l4-4m-4 4V4M6 20h12");
+  d: path("m8 12l4 4l4-4m-4 4V4M4 16a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4");
 }
-</style><path class="ll1oe2bza"/>`,
+</style><path class="tqypeh3ht"/>`,
 		"fallback": "coolicons:download-duotone-round",
 	});
 }

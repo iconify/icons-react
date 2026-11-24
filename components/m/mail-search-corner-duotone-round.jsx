@@ -14,12 +14,12 @@ function Component({width, height, ...props}) {
   fill: none;
 }
 
-.vtpxl2bxe {
+.g5m_fhz_z {
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("M11 19H7a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v2M4 7l3 3c.64.64 1.72 1 3 1h4c1.28 0 2.36-.36 3-1l3-3m-5 10a2 2 0 1 0 4 0a2 2 0 0 0-4 0m4 2l2 2");
+  d: path("M11 19H7a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v2M4 7l3 3c.64.64 1.72 1 3 1h4c1.28 0 2.36-.36 3-1l3-3m0 13a2.828 2.828 0 1 1-4-4a2.828 2.828 0 0 1 4 4m0 0l2 2");
 }
 
 .y76h31bxg {
@@ -27,7 +27,7 @@ function Component({width, height, ...props}) {
   fill-opacity: var(--svg-fill-opacity--0-2, 0.2);
   d: path("M21 11h-6a4 4 0 0 0-4 4v4H7a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4Z");
 }
-</style><g class="ft5dv1b6b"><path class="y76h31bxg"/><path class="vtpxl2bxe"/></g>`,
+</style><g class="ft5dv1b6b"><path class="y76h31bxg"/><path class="g5m_fhz_z"/></g>`,
 		"fallback": "coolicons:mail-search-corner-duotone-round",
 	});
 }

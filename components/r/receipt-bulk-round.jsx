@@ -14,15 +14,15 @@ function Component({width, height, ...props}) {
   fill: currentColor;
 }
 
+.ioj1_uble {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M8 2h8a5 5 0 0 1 5 5v14a1 1 0 0 1-1.447.894L16 20.118l-3.553 1.776a1 1 0 0 1-.894 0L8 20.118l-3.553 1.776A1 1 0 0 1 3 21V7a5 5 0 0 1 5-5");
+}
+
 .l172ypweo {
   d: path("M16 6a1 1 0 0 1 0 2H8a1 1 0 0 1 0-2Zm0 4a1 1 0 0 1 0 2H8a1 1 0 0 1 0-2Zm-8 4h4a1 1 0 0 1 0 2H8a1 1 0 0 1 0-2");
 }
-
-.o83a3zbfm {
-  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
-  d: path("M8 2h8a5 5 0 0 1 5 5v13c.003.406-.193.788-.525 1.023c-.674.478-1.631.235-2.182-.316a.413.413 0 0 0-.586 0a2.4 2.4 0 0 1-1.707.707a2.4 2.4 0 0 1-1.707-.707a.413.413 0 0 0-.586 0a2.4 2.4 0 0 1-1.707.707a2.4 2.4 0 0 1-1.707-.707a.413.413 0 0 0-.586 0A2.4 2.4 0 0 1 8 21.414a2.4 2.4 0 0 1-1.707-.707a.413.413 0 0 0-.586 0a1.95 1.95 0 0 1-1.345.57C3.622 21.277 3 20.761 3 20V7a5 5 0 0 1 5-5");
-}
-</style><g class="cuyn6tgcc"><path class="o83a3zbfm"/><path class="l172ypweo"/></g>`,
+</style><g class="cuyn6tgcc"><path class="ioj1_uble"/><path class="l172ypweo"/></g>`,
 		"fallback": "coolicons:receipt-bulk-round",
 	});
 }

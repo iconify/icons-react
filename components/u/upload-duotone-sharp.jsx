@@ -10,15 +10,15 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.ymcycuvvg {
+		"content": `<style>.rlqtcqbhq {
   fill: none;
   stroke: currentColor;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("m16 8l-4-4l-4 4m4-4v12m-6 4h12");
+  d: path("m16 8l-4-4l-4 4m4-4v12m-8 0v4h16v-4");
 }
-</style><path class="ymcycuvvg"/>`,
+</style><path class="rlqtcqbhq"/>`,
 		"fallback": "coolicons:upload-duotone-sharp",
 	});
 }

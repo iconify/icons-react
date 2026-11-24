@@ -10,9 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.fnxjytb-q {
-  stroke-opacity: 0.4;
-  d: path("M10 14v-3l5-5l3 3l-5 5Z");
+		"content": `<style>.gqa7vck7h {
+  d: path("M3 7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4Zm0 10l1-1a4.243 4.243 0 0 1 6 0l5 5");
 }
 
 .nrj6p8qat {
@@ -23,10 +22,11 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.ul8e655ve {
-  d: path("M3 7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4Zm0 10l1-1a1.414 1.414 0 0 1 2 0l5 5");
+.po-bh6s6h {
+  stroke-opacity: 0.4;
+  d: path("M11 12v-2l4-4l2 2l-4 4Z");
 }
-</style><g class="nrj6p8qat"><path class="fnxjytb-q"/><path class="ul8e655ve"/></g>`,
+</style><g class="nrj6p8qat"><path class="po-bh6s6h"/><path class="gqa7vck7h"/></g>`,
 		"fallback": "coolicons:image-edit-duocolor-round",
 	});
 }

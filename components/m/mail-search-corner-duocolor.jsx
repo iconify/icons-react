@@ -22,11 +22,11 @@ function Component({width, height, ...props}) {
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
 
-.o5md91utj {
+.ozn_t7bmd {
   stroke-opacity: 0.4;
-  d: path("M15 17a2 2 0 1 0 4 0a2 2 0 0 0-4 0m4 2l2 2");
+  d: path("M20 20a2.828 2.828 0 1 1-4-4a2.828 2.828 0 0 1 4 4m0 0l2 2");
 }
-</style><g class="nrj6p8qat"><path class="o5md91utj"/><path class="cc9-_0c2g"/></g>`,
+</style><g class="nrj6p8qat"><path class="ozn_t7bmd"/><path class="cc9-_0c2g"/></g>`,
 		"fallback": "coolicons:mail-search-corner-duocolor",
 	});
 }

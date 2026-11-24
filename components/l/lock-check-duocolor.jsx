@@ -10,13 +10,9 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.cgwbwtp3a {
+		"content": `<style>.bf86c_bvy {
   stroke-opacity: 0.4;
-  d: path("m8 15l3 3l5-5");
-}
-
-.mxl7xx3pn {
-  d: path("M4 12a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Zm5-2V6a3 3 0 0 1 6 0v4");
+  d: path("m9 15l2 2l4-4");
 }
 
 .nrj6p8qat {
@@ -26,7 +22,11 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path class="cgwbwtp3a"/><path class="mxl7xx3pn"/></g>`,
+
+.v_hhlyzfc {
+  d: path("M4 11a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Zm4-2V7a4 4 0 1 1 8 0v2");
+}
+</style><g class="nrj6p8qat"><path class="bf86c_bvy"/><path class="v_hhlyzfc"/></g>`,
 		"fallback": "coolicons:lock-check-duocolor",
 	});
 }

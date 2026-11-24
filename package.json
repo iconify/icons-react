@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/openmoji",
   "type": "module",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "homepage": "https://icon-sets.iconify.design/openmoji/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-SA-4.0",
@@ -5349,6 +5349,10 @@
     "./guide-dog": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/guide-dog.jsx"
+    },
+    "./guinea-pig": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/guinea-pig.jsx"
     },
     "./guitar": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.r8gxgmkxg {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M4.2218 4.2218C5.216 3.2276 6.5924 2.6109 8.1109 2.6109C9.1373 1.5844 10.5345 1 12 1C13.4655 1 14.8627 1.5844 15.8891 2.6109C18.9267 2.6109 21.3891 5.0733 21.3891 8.1109C22.4156 9.1373 23 10.5345 23 12C23 13.4655 22.4156 14.8627 21.3891 15.8891C21.3891 18.9267 18.9267 21.3891 15.8891 21.3891C14.8627 22.4156 13.4655 23 12 23C10.5345 23 9.1373 22.4156 8.1109 21.3891C5.0733 21.3891 2.6109 18.9267 2.6109 15.8891C1.5844 14.8627 1 13.4655 1 12C1 10.5345 1.5844 9.1373 2.6109 8.1109C2.6109 6.5924 3.2276 5.216 4.2218 4.2218Z");
+  stroke: none;
+}
+
+.v1xzwkb1h {
+  d: path("M10.2929 9.2071L10 9.5L7.5 12L10 14.5L10.2929 14.7929M13.7071 9.2071L14 9.5L16.5 12L14 14.5L13.7071 14.7929");
+}
+</style><g class="gp_8x1bzb"><path class="r8gxgmkxg"/><path class="v1xzwkb1h"/></g>`,
+		"fallback": "keyline-icons:badge-code-sharp-duotone",
+	});
+}
+
+export default Component;

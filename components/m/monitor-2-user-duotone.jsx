@@ -1,0 +1,31 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.cuyn6tgcc {
+  fill: currentColor;
+}
+
+.lr0ddjbkd {
+  fill-rule: evenodd;
+  d: path("M14.1213 11.1213C13.5795 11.6631 12.8282 12 12 12C10.3431 12 9 10.6569 9 9C9 7.3431 10.3431 6 12 6C13.6569 6 15 7.3431 15 9C15 9.8282 14.6631 10.5795 14.1213 11.1213ZM7.1707 16C7.5825 14.8348 8.6937 14 10 14L14 14C15.3063 14 16.4175 14.8348 16.8293 16Z");
+}
+
+.osubevnfm {
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M11 18L5 18C2.7908 18 1 16.2092 1 14L1 6C1 3.7908 2.7908 2 5 2L19 2C21.2092 2 23 3.7908 23 6L23 14C23 16.2092 21.2092 18 19 18L13 18L13 20L16 20C16.5523 20 17 20.4477 17 21C17 21.5523 16.5523 22 16 22L8 22C7.4477 22 7 21.5523 7 21C7 20.4477 7.4477 20 8 20L11 20Z");
+}
+</style><g class="cuyn6tgcc"><path class="osubevnfm"/><path clip-rule="evenodd" class="lr0ddjbkd"/></g>`,
+		"fallback": "keyline-icons:monitor-2-user-duotone",
+	});
+}
+
+export default Component;

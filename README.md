@@ -38,7 +38,7 @@ function Test() {
 To resize icon, set `width` and/or `height` parameters:
 
 ```jsx
-import SampleIcon from '@iconify-react/flag/de-1x1';
+import SampleIcon from '@iconify-react/flag/bg-1x1';
 
 function Test() {
   return (

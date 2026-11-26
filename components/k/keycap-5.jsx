@@ -1,0 +1,29 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/r/ru36gnb2i.css';
+import '../../css/g/gdp-lpbgi.css';
+import '../../css/u/uee0bnb9m.css';
+import '../../css/k/k2qweuboq.css';
+import '../../css/q/qjfv279ji.css';
+import '../../css/t/ti19ytbje.css';
+import '../../css/j/j2ibbyx1m.css';
+import '../../css/j/jal14nk_d.css';
+import '../../css/o/owq968v8x.css';
+import '../../css/u/uur1q_e1s.css';
+import '../../css/f/fsxt40bww.css';
+
+const viewBox = {"width":512,"height":512};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<defs><radialGradient id="SVG2ywEkcDq" cx="66.2" cy="55.2" r="147.2" gradientUnits="userSpaceOnUse"><stop offset="0" class="ru36gnb2i"/><stop offset=".85" class="gdp-lpbgi"/><stop offset="1" class="gdp-lpbgi"/></radialGradient></defs><path class="uee0bnb9m"/><path fill="url(#SVG2ywEkcDq)" transform="matrix(2.8 0 0 2.8 -28.016 -28.016)" class="k2qweuboq"/><path class="qjfv279ji"/><path class="ti19ytbje"/><path class="j2ibbyx1m"/><path class="jal14nk_d"/><path class="owq968v8x"/><path class="uur1q_e1s"/><path class="fsxt40bww"/>`,
+		"fallback": "xero-emoji:keycap-5",
+	});
+}
+
+export default Component;

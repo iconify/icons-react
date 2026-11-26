@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/evicons",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://icon-sets.iconify.design/evicons/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -170,6 +170,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/marker-available.jsx"
     },
+    "./marker-blocked": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-blocked.jsx"
+    },
     "./marker-charging": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/marker-charging.jsx"
@@ -193,6 +197,10 @@
     "./marker-out-of-service": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/marker-out-of-service.jsx"
+    },
+    "./marker-planned": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/marker-planned.jsx"
     },
     "./marker-queue": {
       "types": "./types/hqrkovbr.d.ts",

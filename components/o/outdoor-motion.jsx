@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/f/fzbdlwbdf.css';
+import '../../css/g/g1iv__bup.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="fzbdlwbdf"/>`,
+		"content": `<path class="g1iv__bup"/>`,
 		"fallback": "cbi:outdoor-motion",
 	});
 }

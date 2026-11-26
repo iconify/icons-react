@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/devicon",
   "type": "module",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "homepage": "https://icon-sets.iconify.design/devicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -410,6 +410,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bevyengine-wordmark.jsx"
     },
+    "./binijs": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binijs.jsx"
+    },
+    "./binijs-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/binijs-wordmark.jsx"
+    },
     "./biome": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/biome.jsx"
@@ -678,6 +686,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/codepen-wordmark.jsx"
     },
+    "./codewars": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codewars.jsx"
+    },
+    "./codewars-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/codewars-wordmark.jsx"
+    },
     "./codex": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/codex.jsx"
@@ -933,6 +949,10 @@
     "./digitalocean-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/d/digitalocean-wordmark.jsx"
+    },
+    "./directx-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/directx-wordmark.jsx"
     },
     "./discloud": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3502,6 +3522,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/ros-wordmark.jsx"
     },
+    "./rqlite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rqlite.jsx"
+    },
     "./rspec": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rspec.jsx"
@@ -3509,6 +3533,10 @@
     "./rspec-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rspec-wordmark.jsx"
+    },
+    "./rstan": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rstan.jsx"
     },
     "./rstudio": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3817,6 +3845,14 @@
     "./stata-wordmark": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/stata-wordmark.jsx"
+    },
+    "./statuspage": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statuspage.jsx"
+    },
+    "./statuspage-wordmark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/statuspage-wordmark.jsx"
     },
     "./stenciljs": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ua6jnvbvv.css';
+import '../../css/y/y8vxyhb2m.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<rect class="ua6jnvbvv"/>`,
+		"content": `<rect class="y8vxyhb2m"/>`,
 		"fallback": "lucide:rectangle-horizontal",
 	});
 }

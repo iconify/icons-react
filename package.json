@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.66",
+  "version": "1.0.67",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -221,6 +221,18 @@
     "./app-window-mac": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/app-window-mac.jsx"
+    },
+    "./app-window-mac-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-mac-minus.jsx"
+    },
+    "./app-window-mac-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-mac-plus.jsx"
+    },
+    "./app-window-minus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/app-window-minus.jsx"
     },
     "./app-window-plus": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1057,6 +1069,10 @@
     "./bow-arrow": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bow-arrow.jsx"
+    },
+    "./bowl-chopsticks": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bowl-chopsticks.jsx"
     },
     "./box": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2366,6 +2382,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/columns-2.jsx"
     },
+    "./columns-2-plus-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/columns-2-plus-left.jsx"
+    },
+    "./columns-2-plus-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/columns-2-plus-right.jsx"
+    },
     "./columns-3": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/columns-3.jsx"
@@ -2882,6 +2906,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/eject.jsx"
     },
+    "./elevator": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/elevator.jsx"
+    },
     "./ellipse": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/e/ellipse.jsx"
@@ -3269,6 +3297,10 @@
     "./file-text": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/f/file-text.jsx"
+    },
+    "./file-text-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-text-sparkles.jsx"
     },
     "./file-type": {
       "types": "./types/hqrkovbr.d.ts",
@@ -3798,6 +3830,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-check.jsx"
     },
+    "./globe-clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/globe-clock.jsx"
+    },
     "./globe-code": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/g/globe-code.jsx"
@@ -4209,6 +4245,10 @@
     "./image-plus": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/i/image-plus.jsx"
+    },
+    "./image-sparkles": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-sparkles.jsx"
     },
     "./image-up": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4781,6 +4821,10 @@
     "./list-x": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/l/list-x.jsx"
+    },
+    "./list-x-corner": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/list-x-corner.jsx"
     },
     "./loader": {
       "types": "./types/hqrkovbr.d.ts",
@@ -5954,6 +5998,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plane-landing.jsx"
     },
+    "./plane-off": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/plane-off.jsx"
+    },
     "./plane-takeoff": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/plane-takeoff.jsx"
@@ -6198,9 +6246,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rectangle-horizontal.jsx"
     },
-    "./rectangle-landscape-play": {
+    "./rectangle-horizontal-play": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/r/rectangle-landscape-play.jsx"
+      "default": "./components/r/rectangle-horizontal-play.jsx"
+    },
+    "./rectangle-horizontal-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-horizontal-plus.jsx"
     },
     "./rectangle-vertical": {
       "types": "./types/hqrkovbr.d.ts",
@@ -6374,6 +6426,14 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rows-2.jsx"
     },
+    "./rows-2-plus-bottom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rows-2-plus-bottom.jsx"
+    },
+    "./rows-2-plus-top": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rows-2-plus-top.jsx"
+    },
     "./rows-3": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/rows-3.jsx"
@@ -6541,6 +6601,10 @@
     "./screw": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/screw.jsx"
+    },
+    "./screwdriver": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/screwdriver.jsx"
     },
     "./scroll": {
       "types": "./types/hqrkovbr.d.ts",
@@ -7578,6 +7642,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/star-x.jsx"
     },
+    "./steering-wheel": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steering-wheel.jsx"
+    },
     "./step-back": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/step-back.jsx"
@@ -8070,6 +8138,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/train-front-tunnel.jsx"
     },
+    "./train-high-speed": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/train-high-speed.jsx"
+    },
     "./train-track": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/train-track.jsx"
@@ -8085,6 +8157,10 @@
     "./trash": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/trash.jsx"
+    },
+    "./trash-leaf": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/trash-leaf.jsx"
     },
     "./trash-off": {
       "types": "./types/hqrkovbr.d.ts",
@@ -9501,6 +9577,10 @@
     "./power-square": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/power-square.jsx"
+    },
+    "./rectangle-landscape-play": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rectangle-landscape-play.jsx"
     },
     "./rotate-3-d": {
       "types": "./types/hqrkovbr.d.ts",

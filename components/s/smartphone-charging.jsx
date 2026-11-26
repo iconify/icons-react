@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/j/j54a0sjre.css';
 import '../../css/m/m_wvr_kvl.css';
+import '../../css/i/iyrx4jkbw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><rect class="j54a0sjre"/><path class="m_wvr_kvl"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="m_wvr_kvl"/><rect class="iyrx4jkbw"/></g>`,
 		"fallback": "lucide:smartphone-charging",
 	});
 }

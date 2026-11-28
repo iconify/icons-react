@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg-color",
   "type": "module",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "homepage": "https://icon-sets.iconify.design/thesvg-color/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -1897,6 +1897,10 @@
     "./bata": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/bata.jsx"
+    },
+    "./batchfile": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/batchfile.jsx"
     },
     "./battledotnet": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4122,9 +4126,13 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/custom-ink.jsx"
     },
-    "./customtkinter": {
+    "./customtkinter-dark": {
       "types": "./types/hqrkovbr.d.ts",
-      "default": "./components/c/customtkinter.jsx"
+      "default": "./components/c/customtkinter-dark.jsx"
+    },
+    "./customtkinter-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customtkinter-light.jsx"
     },
     "./cvs": {
       "types": "./types/hqrkovbr.d.ts",
@@ -17922,6 +17930,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tata-consultancy-services.jsx"
     },
+    "./tata-consultancy-services-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tata-consultancy-services-dark.jsx"
+    },
+    "./tata-consultancy-services-legacy": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tata-consultancy-services-legacy.jsx"
+    },
+    "./tata-consultancy-services-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tata-consultancy-services-light.jsx"
+    },
     "./tauri": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tauri.jsx"
@@ -20977,6 +20997,10 @@
     "./circleci": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/circleci.jsx"
+    },
+    "./customtkinter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customtkinter.jsx"
     },
     "./fans": {
       "types": "./types/hqrkovbr.d.ts",

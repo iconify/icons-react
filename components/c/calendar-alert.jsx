@@ -1,0 +1,23 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/dt0cm9dhy.css';
+import '../../css/k/k4-c7ob6h.css';
+import '../../css/w/w7_mhrwuu.css';
+import '../../css/d/d3ql74b0n.css';
+import '../../css/j/jblk61bvr.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="dt0cm9dhy"><path class="k4-c7ob6h"/><path class="w7_mhrwuu"/><path class="d3ql74b0n"/><path class="jblk61bvr"/></g>`,
+		"fallback": "iconaut:calendar-alert",
+	});
+}
+
+export default Component;

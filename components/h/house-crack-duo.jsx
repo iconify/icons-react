@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/dnd5ksvsr.css';
+import '../../css/d/dt0cm9dhy.css';
+import '../../css/d/dca2urprn.css';
+import '../../css/x/x0cxdwb9d.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="dnd5ksvsr secondary"/><g class="dt0cm9dhy primary"><path class="dca2urprn"/><path class="x0cxdwb9d"/></g>`,
+		"fallback": "iconaut:house-crack-duo",
+	});
+}
+
+export default Component;

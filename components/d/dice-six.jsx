@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/dt0cm9dhy.css';
+import '../../css/m/mie31z6an.css';
+import '../../css/j/jhfb2_bvi.css';
+import '../../css/z/z0-_q1okv.css';
+import '../../css/r/rbd21cfiq.css';
+import '../../css/b/bs010objb.css';
+import '../../css/e/es0rqrzjz.css';
+import '../../css/s/s27xvyblj.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="dt0cm9dhy"><path class="mie31z6an"/><path class="jhfb2_bvi"/><path class="z0-_q1okv"/><path class="rbd21cfiq"/><path class="bs010objb"/><path class="es0rqrzjz"/><path class="s27xvyblj"/></g>`,
+		"fallback": "iconaut:dice-six",
+	});
+}
+
+export default Component;

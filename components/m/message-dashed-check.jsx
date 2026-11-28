@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/dt0cm9dhy.css';
+import '../../css/n/n_m1ugbqz.css';
+import '../../css/a/ay-uj6bxa.css';
+import '../../css/y/y-vn53bau.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="dt0cm9dhy"><path class="n_m1ugbqz"/><path class="ay-uj6bxa"/><path class="y-vn53bau"/></g>`,
+		"fallback": "iconaut:message-dashed-check",
+	});
+}
+
+export default Component;

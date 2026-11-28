@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/d/dt0cm9dhy.css';
+import '../../css/g/ge9-hzgbc.css';
+import '../../css/z/z2miv2tdx.css';
+import '../../css/y/ygv_xwzqt.css';
+import '../../css/r/ri1424bhc.css';
+import '../../css/r/rpb665r-p.css';
+import '../../css/a/a7j_831qc.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<g class="dt0cm9dhy"><path class="ge9-hzgbc"/><path class="z2miv2tdx"/><path class="ygv_xwzqt"/><path class="ri1424bhc"/><path class="rpb665r-p"/><path class="a7j_831qc"/></g>`,
+		"fallback": "iconaut:syringe",
+	});
+}
+
+export default Component;

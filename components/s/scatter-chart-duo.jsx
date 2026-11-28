@@ -1,0 +1,25 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/v/vsvcb4bhn.css';
+import '../../css/d/dt0cm9dhy.css';
+import '../../css/i/if_fr7tub.css';
+import '../../css/k/kcc_36bdy.css';
+import '../../css/k/ke6fezb3o.css';
+import '../../css/r/rzbp2-b8z.css';
+import '../../css/f/f46f54b3m.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="secondary vsvcb4bhn"/><g class="dt0cm9dhy primary"><path class="if_fr7tub"/><path class="kcc_36bdy"/><path class="ke6fezb3o"/><path class="rzbp2-b8z"/><path class="f46f54b3m"/></g>`,
+		"fallback": "iconaut:scatter-chart-duo",
+	});
+}
+
+export default Component;

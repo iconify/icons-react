@@ -1,0 +1,22 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+import '../../css/i/iuedvwbvv.css';
+import '../../css/d/dt0cm9dhy.css';
+import '../../css/r/ro0x_q1fo.css';
+import '../../css/x/x9pvfacul.css';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<path class="iuedvwbvv secondary"/><g class="dt0cm9dhy primary"><path class="ro0x_q1fo"/><path class="x9pvfacul"/></g>`,
+		"fallback": "iconaut:earbuds-duo",
+	});
+}
+
+export default Component;

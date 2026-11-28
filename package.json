@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/codicon",
   "type": "module",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "homepage": "https://icon-sets.iconify.design/codicon/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -1546,6 +1546,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mcp.jsx"
     },
+    "./mcp-compact": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mcp-compact.jsx"
+    },
     "./megaphone": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/megaphone.jsx"
@@ -2386,6 +2390,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terminal-secure.jsx"
     },
+    "./terminal-secure-compact": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/terminal-secure-compact.jsx"
+    },
     "./terminal-tmux": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/terminal-tmux.jsx"
@@ -2401,6 +2409,10 @@
     "./thinking": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/thinking.jsx"
+    },
+    "./thinking-compact": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/thinking-compact.jsx"
     },
     "./three-bars": {
       "types": "./types/hqrkovbr.d.ts",
@@ -2425,6 +2437,10 @@
     "./tools": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/t/tools.jsx"
+    },
+    "./tools-compact": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tools-compact.jsx"
     },
     "./trash": {
       "types": "./types/hqrkovbr.d.ts",

@@ -1,0 +1,2271 @@
+{
+  "name": "@iconify-react/pullo",
+  "type": "module",
+  "version": "1.0.0",
+  "homepage": "https://icon-sets.iconify.design/pullo/",
+  "bugs": "https://github.com/iconify/icons-react/issues",
+  "license": "MIT",
+  "exports": {
+    "./bee": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bee.jsx"
+    },
+    "./bee-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bee-bold.jsx"
+    },
+    "./bee-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bee-duotone.jsx"
+    },
+    "./bee-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bee-fill.jsx"
+    },
+    "./bee-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bee-light.jsx"
+    },
+    "./bee-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bee-thin.jsx"
+    },
+    "./bell-dot": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-dot.jsx"
+    },
+    "./bell-dot-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-dot-bold.jsx"
+    },
+    "./bell-dot-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-dot-duotone.jsx"
+    },
+    "./bell-dot-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-dot-fill.jsx"
+    },
+    "./bell-dot-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-dot-light.jsx"
+    },
+    "./bell-dot-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bell-dot-thin.jsx"
+    },
+    "./bookmark-simple-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-check.jsx"
+    },
+    "./bookmark-simple-check-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-check-bold.jsx"
+    },
+    "./bookmark-simple-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-check-duotone.jsx"
+    },
+    "./bookmark-simple-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-check-fill.jsx"
+    },
+    "./bookmark-simple-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-check-light.jsx"
+    },
+    "./bookmark-simple-check-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-check-thin.jsx"
+    },
+    "./bookmark-simple-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-plus.jsx"
+    },
+    "./bookmark-simple-plus-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-plus-bold.jsx"
+    },
+    "./bookmark-simple-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-plus-duotone.jsx"
+    },
+    "./bookmark-simple-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-plus-fill.jsx"
+    },
+    "./bookmark-simple-plus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-plus-light.jsx"
+    },
+    "./bookmark-simple-plus-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-plus-thin.jsx"
+    },
+    "./bookmark-simple-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-slash.jsx"
+    },
+    "./bookmark-simple-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-slash-bold.jsx"
+    },
+    "./bookmark-simple-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-slash-duotone.jsx"
+    },
+    "./bookmark-simple-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-slash-fill.jsx"
+    },
+    "./bookmark-simple-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-slash-light.jsx"
+    },
+    "./bookmark-simple-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bookmark-simple-slash-thin.jsx"
+    },
+    "./border-bottom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom.jsx"
+    },
+    "./border-bottom-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom-bold.jsx"
+    },
+    "./border-bottom-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom-duotone.jsx"
+    },
+    "./border-bottom-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom-fill.jsx"
+    },
+    "./border-bottom-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom-light.jsx"
+    },
+    "./border-bottom-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-bottom-thin.jsx"
+    },
+    "./border-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left.jsx"
+    },
+    "./border-left-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left-bold.jsx"
+    },
+    "./border-left-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left-duotone.jsx"
+    },
+    "./border-left-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left-fill.jsx"
+    },
+    "./border-left-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left-light.jsx"
+    },
+    "./border-left-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-left-thin.jsx"
+    },
+    "./border-none": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none.jsx"
+    },
+    "./border-none-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none-bold.jsx"
+    },
+    "./border-none-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none-duotone.jsx"
+    },
+    "./border-none-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none-fill.jsx"
+    },
+    "./border-none-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none-light.jsx"
+    },
+    "./border-none-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-none-thin.jsx"
+    },
+    "./border-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right.jsx"
+    },
+    "./border-right-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right-bold.jsx"
+    },
+    "./border-right-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right-duotone.jsx"
+    },
+    "./border-right-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right-fill.jsx"
+    },
+    "./border-right-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right-light.jsx"
+    },
+    "./border-right-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-right-thin.jsx"
+    },
+    "./border-top": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top.jsx"
+    },
+    "./border-top-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top-bold.jsx"
+    },
+    "./border-top-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top-duotone.jsx"
+    },
+    "./border-top-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top-fill.jsx"
+    },
+    "./border-top-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top-light.jsx"
+    },
+    "./border-top-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/border-top-thin.jsx"
+    },
+    "./bow-and-arrow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bow-and-arrow.jsx"
+    },
+    "./bow-and-arrow-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bow-and-arrow-bold.jsx"
+    },
+    "./bow-and-arrow-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bow-and-arrow-duotone.jsx"
+    },
+    "./bow-and-arrow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bow-and-arrow-fill.jsx"
+    },
+    "./bow-and-arrow-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bow-and-arrow-light.jsx"
+    },
+    "./bow-and-arrow-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bow-and-arrow-thin.jsx"
+    },
+    "./bring-forward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-forward.jsx"
+    },
+    "./bring-forward-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-forward-bold.jsx"
+    },
+    "./bring-forward-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-forward-duotone.jsx"
+    },
+    "./bring-forward-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-forward-fill.jsx"
+    },
+    "./bring-forward-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-forward-light.jsx"
+    },
+    "./bring-forward-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-forward-thin.jsx"
+    },
+    "./bring-to-front": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-to-front.jsx"
+    },
+    "./bring-to-front-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-to-front-bold.jsx"
+    },
+    "./bring-to-front-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-to-front-duotone.jsx"
+    },
+    "./bring-to-front-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-to-front-fill.jsx"
+    },
+    "./bring-to-front-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-to-front-light.jsx"
+    },
+    "./bring-to-front-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/bring-to-front-thin.jsx"
+    },
+    "./calendar-arrow-clockwise": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-clockwise.jsx"
+    },
+    "./calendar-arrow-clockwise-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-clockwise-bold.jsx"
+    },
+    "./calendar-arrow-clockwise-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-clockwise-duotone.jsx"
+    },
+    "./calendar-arrow-clockwise-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-clockwise-fill.jsx"
+    },
+    "./calendar-arrow-clockwise-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-clockwise-light.jsx"
+    },
+    "./calendar-arrow-clockwise-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-clockwise-thin.jsx"
+    },
+    "./calendar-arrow-in": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-in.jsx"
+    },
+    "./calendar-arrow-in-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-in-bold.jsx"
+    },
+    "./calendar-arrow-in-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-in-duotone.jsx"
+    },
+    "./calendar-arrow-in-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-in-fill.jsx"
+    },
+    "./calendar-arrow-in-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-in-light.jsx"
+    },
+    "./calendar-arrow-in-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-in-thin.jsx"
+    },
+    "./calendar-arrow-out": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-out.jsx"
+    },
+    "./calendar-arrow-out-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-out-bold.jsx"
+    },
+    "./calendar-arrow-out-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-out-duotone.jsx"
+    },
+    "./calendar-arrow-out-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-out-fill.jsx"
+    },
+    "./calendar-arrow-out-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-out-light.jsx"
+    },
+    "./calendar-arrow-out-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-arrow-out-thin.jsx"
+    },
+    "./calendar-clock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-clock.jsx"
+    },
+    "./calendar-clock-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-clock-bold.jsx"
+    },
+    "./calendar-clock-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-clock-duotone.jsx"
+    },
+    "./calendar-clock-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-clock-fill.jsx"
+    },
+    "./calendar-clock-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-clock-light.jsx"
+    },
+    "./calendar-clock-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-clock-thin.jsx"
+    },
+    "./calendar-pencil": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-pencil.jsx"
+    },
+    "./calendar-pencil-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-pencil-bold.jsx"
+    },
+    "./calendar-pencil-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-pencil-duotone.jsx"
+    },
+    "./calendar-pencil-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-pencil-fill.jsx"
+    },
+    "./calendar-pencil-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-pencil-light.jsx"
+    },
+    "./calendar-pencil-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/calendar-pencil-thin.jsx"
+    },
+    "./caret-down-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down-up.jsx"
+    },
+    "./caret-down-up-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down-up-bold.jsx"
+    },
+    "./caret-down-up-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down-up-duotone.jsx"
+    },
+    "./caret-down-up-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down-up-fill.jsx"
+    },
+    "./caret-down-up-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down-up-light.jsx"
+    },
+    "./caret-down-up-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/caret-down-up-thin.jsx"
+    },
+    "./chart-area": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area.jsx"
+    },
+    "./chart-area-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-bold.jsx"
+    },
+    "./chart-area-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-duotone.jsx"
+    },
+    "./chart-area-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-fill.jsx"
+    },
+    "./chart-area-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-light.jsx"
+    },
+    "./chart-area-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chart-area-thin.jsx"
+    },
+    "./chat-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-plus.jsx"
+    },
+    "./chat-plus-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-plus-bold.jsx"
+    },
+    "./chat-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-plus-duotone.jsx"
+    },
+    "./chat-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-plus-fill.jsx"
+    },
+    "./chat-plus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-plus-light.jsx"
+    },
+    "./chat-plus-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-plus-thin.jsx"
+    },
+    "./chat-question": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-question.jsx"
+    },
+    "./chat-question-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-question-bold.jsx"
+    },
+    "./chat-question-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-question-duotone.jsx"
+    },
+    "./chat-question-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-question-fill.jsx"
+    },
+    "./chat-question-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-question-light.jsx"
+    },
+    "./chat-question-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-question-thin.jsx"
+    },
+    "./chat-warning": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-warning.jsx"
+    },
+    "./chat-warning-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-warning-bold.jsx"
+    },
+    "./chat-warning-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-warning-duotone.jsx"
+    },
+    "./chat-warning-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-warning-fill.jsx"
+    },
+    "./chat-warning-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-warning-light.jsx"
+    },
+    "./chat-warning-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chat-warning-thin.jsx"
+    },
+    "./check-circle-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-multiple.jsx"
+    },
+    "./check-circle-multiple-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-multiple-bold.jsx"
+    },
+    "./check-circle-multiple-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-multiple-duotone.jsx"
+    },
+    "./check-circle-multiple-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-multiple-fill.jsx"
+    },
+    "./check-circle-multiple-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-multiple-light.jsx"
+    },
+    "./check-circle-multiple-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/check-circle-multiple-thin.jsx"
+    },
+    "./clipboard-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-check.jsx"
+    },
+    "./clipboard-check-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-check-bold.jsx"
+    },
+    "./clipboard-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-check-duotone.jsx"
+    },
+    "./clipboard-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-check-fill.jsx"
+    },
+    "./clipboard-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-check-light.jsx"
+    },
+    "./clipboard-check-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clipboard-check-thin.jsx"
+    },
+    "./clock-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-plus.jsx"
+    },
+    "./clock-plus-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-plus-bold.jsx"
+    },
+    "./clock-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-plus-duotone.jsx"
+    },
+    "./clock-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-plus-fill.jsx"
+    },
+    "./clock-plus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-plus-light.jsx"
+    },
+    "./clock-plus-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/clock-plus-thin.jsx"
+    },
+    "./copy-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check.jsx"
+    },
+    "./copy-check-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-bold.jsx"
+    },
+    "./copy-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-duotone.jsx"
+    },
+    "./copy-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-fill.jsx"
+    },
+    "./copy-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-light.jsx"
+    },
+    "./copy-check-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/copy-check-thin.jsx"
+    },
+    "./dumpster": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumpster.jsx"
+    },
+    "./dumpster-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumpster-bold.jsx"
+    },
+    "./dumpster-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumpster-duotone.jsx"
+    },
+    "./dumpster-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumpster-fill.jsx"
+    },
+    "./dumpster-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumpster-light.jsx"
+    },
+    "./dumpster-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/d/dumpster-thin.jsx"
+    },
+    "./envelope-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-check.jsx"
+    },
+    "./envelope-check-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-check-bold.jsx"
+    },
+    "./envelope-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-check-duotone.jsx"
+    },
+    "./envelope-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-check-fill.jsx"
+    },
+    "./envelope-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-check-light.jsx"
+    },
+    "./envelope-check-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-check-thin.jsx"
+    },
+    "./envelope-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-x.jsx"
+    },
+    "./envelope-x-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-x-bold.jsx"
+    },
+    "./envelope-x-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-x-duotone.jsx"
+    },
+    "./envelope-x-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-x-fill.jsx"
+    },
+    "./envelope-x-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-x-light.jsx"
+    },
+    "./envelope-x-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/envelope-x-thin.jsx"
+    },
+    "./ethernet": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethernet.jsx"
+    },
+    "./ethernet-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethernet-bold.jsx"
+    },
+    "./ethernet-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethernet-duotone.jsx"
+    },
+    "./ethernet-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethernet-fill.jsx"
+    },
+    "./ethernet-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethernet-light.jsx"
+    },
+    "./ethernet-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/e/ethernet-thin.jsx"
+    },
+    "./file-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-check.jsx"
+    },
+    "./file-check-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-check-bold.jsx"
+    },
+    "./file-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-check-duotone.jsx"
+    },
+    "./file-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-check-fill.jsx"
+    },
+    "./file-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-check-light.jsx"
+    },
+    "./file-check-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-check-thin.jsx"
+    },
+    "./file-json": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-json.jsx"
+    },
+    "./file-json-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-json-bold.jsx"
+    },
+    "./file-json-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-json-duotone.jsx"
+    },
+    "./file-json-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-json-fill.jsx"
+    },
+    "./file-json-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-json-light.jsx"
+    },
+    "./file-json-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-json-thin.jsx"
+    },
+    "./file-log": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-log.jsx"
+    },
+    "./file-log-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-log-bold.jsx"
+    },
+    "./file-log-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-log-duotone.jsx"
+    },
+    "./file-log-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-log-fill.jsx"
+    },
+    "./file-log-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-log-light.jsx"
+    },
+    "./file-log-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-log-thin.jsx"
+    },
+    "./file-php": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-php.jsx"
+    },
+    "./file-php-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-php-bold.jsx"
+    },
+    "./file-php-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-php-duotone.jsx"
+    },
+    "./file-php-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-php-fill.jsx"
+    },
+    "./file-php-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-php-light.jsx"
+    },
+    "./file-php-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-php-thin.jsx"
+    },
+    "./file-question": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-question.jsx"
+    },
+    "./file-question-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-question-bold.jsx"
+    },
+    "./file-question-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-question-duotone.jsx"
+    },
+    "./file-question-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-question-fill.jsx"
+    },
+    "./file-question-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-question-light.jsx"
+    },
+    "./file-question-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-question-thin.jsx"
+    },
+    "./file-xml": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-xml.jsx"
+    },
+    "./file-xml-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-xml-bold.jsx"
+    },
+    "./file-xml-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-xml-duotone.jsx"
+    },
+    "./file-xml-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-xml-fill.jsx"
+    },
+    "./file-xml-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-xml-light.jsx"
+    },
+    "./file-xml-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/file-xml-thin.jsx"
+    },
+    "./folder-arrow-up": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up.jsx"
+    },
+    "./folder-arrow-up-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-bold.jsx"
+    },
+    "./folder-arrow-up-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-duotone.jsx"
+    },
+    "./folder-arrow-up-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-fill.jsx"
+    },
+    "./folder-arrow-up-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-light.jsx"
+    },
+    "./folder-arrow-up-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-arrow-up-thin.jsx"
+    },
+    "./folder-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check.jsx"
+    },
+    "./folder-check-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-bold.jsx"
+    },
+    "./folder-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-duotone.jsx"
+    },
+    "./folder-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-fill.jsx"
+    },
+    "./folder-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-light.jsx"
+    },
+    "./folder-check-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/folder-check-thin.jsx"
+    },
+    "./forward-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-10.jsx"
+    },
+    "./forward-10-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-10-bold.jsx"
+    },
+    "./forward-10-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-10-duotone.jsx"
+    },
+    "./forward-10-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-10-fill.jsx"
+    },
+    "./forward-10-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-10-light.jsx"
+    },
+    "./forward-10-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/f/forward-10-thin.jsx"
+    },
+    "./group": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group.jsx"
+    },
+    "./group-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-bold.jsx"
+    },
+    "./group-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-duotone.jsx"
+    },
+    "./group-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-fill.jsx"
+    },
+    "./group-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-light.jsx"
+    },
+    "./group-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/g/group-thin.jsx"
+    },
+    "./headphones-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-slash.jsx"
+    },
+    "./headphones-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-slash-bold.jsx"
+    },
+    "./headphones-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-slash-duotone.jsx"
+    },
+    "./headphones-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-slash-fill.jsx"
+    },
+    "./headphones-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-slash-light.jsx"
+    },
+    "./headphones-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/headphones-slash-thin.jsx"
+    },
+    "./helicopter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helicopter.jsx"
+    },
+    "./helicopter-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helicopter-bold.jsx"
+    },
+    "./helicopter-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helicopter-duotone.jsx"
+    },
+    "./helicopter-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helicopter-fill.jsx"
+    },
+    "./helicopter-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helicopter-light.jsx"
+    },
+    "./helicopter-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/h/helicopter-thin.jsx"
+    },
+    "./image-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-plus.jsx"
+    },
+    "./image-plus-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-plus-bold.jsx"
+    },
+    "./image-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-plus-duotone.jsx"
+    },
+    "./image-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-plus-fill.jsx"
+    },
+    "./image-plus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-plus-light.jsx"
+    },
+    "./image-plus-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-plus-thin.jsx"
+    },
+    "./image-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-slash.jsx"
+    },
+    "./image-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-slash-bold.jsx"
+    },
+    "./image-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-slash-duotone.jsx"
+    },
+    "./image-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-slash-fill.jsx"
+    },
+    "./image-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-slash-light.jsx"
+    },
+    "./image-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/i/image-slash-thin.jsx"
+    },
+    "./layout-dashboard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-dashboard.jsx"
+    },
+    "./layout-dashboard-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-dashboard-bold.jsx"
+    },
+    "./layout-dashboard-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-dashboard-duotone.jsx"
+    },
+    "./layout-dashboard-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-dashboard-fill.jsx"
+    },
+    "./layout-dashboard-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-dashboard-light.jsx"
+    },
+    "./layout-dashboard-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/layout-dashboard-thin.jsx"
+    },
+    "./letter-spacing": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing.jsx"
+    },
+    "./letter-spacing-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-bold.jsx"
+    },
+    "./letter-spacing-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-duotone.jsx"
+    },
+    "./letter-spacing-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-fill.jsx"
+    },
+    "./letter-spacing-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-light.jsx"
+    },
+    "./letter-spacing-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/letter-spacing-thin.jsx"
+    },
+    "./license-plate": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license-plate.jsx"
+    },
+    "./license-plate-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license-plate-bold.jsx"
+    },
+    "./license-plate-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license-plate-duotone.jsx"
+    },
+    "./license-plate-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license-plate-fill.jsx"
+    },
+    "./license-plate-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license-plate-light.jsx"
+    },
+    "./license-plate-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/license-plate-thin.jsx"
+    },
+    "./line-height": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height.jsx"
+    },
+    "./line-height-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-bold.jsx"
+    },
+    "./line-height-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-duotone.jsx"
+    },
+    "./line-height-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-fill.jsx"
+    },
+    "./line-height-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-light.jsx"
+    },
+    "./line-height-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/l/line-height-thin.jsx"
+    },
+    "./magnifying-glass-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnifying-glass-x.jsx"
+    },
+    "./magnifying-glass-x-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnifying-glass-x-bold.jsx"
+    },
+    "./magnifying-glass-x-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnifying-glass-x-duotone.jsx"
+    },
+    "./magnifying-glass-x-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnifying-glass-x-fill.jsx"
+    },
+    "./magnifying-glass-x-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnifying-glass-x-light.jsx"
+    },
+    "./magnifying-glass-x-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/magnifying-glass-x-thin.jsx"
+    },
+    "./map-pin-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash.jsx"
+    },
+    "./map-pin-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-bold.jsx"
+    },
+    "./map-pin-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-duotone.jsx"
+    },
+    "./map-pin-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-fill.jsx"
+    },
+    "./map-pin-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-light.jsx"
+    },
+    "./map-pin-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/map-pin-slash-thin.jsx"
+    },
+    "./monitor-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-slash.jsx"
+    },
+    "./monitor-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-slash-bold.jsx"
+    },
+    "./monitor-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-slash-duotone.jsx"
+    },
+    "./monitor-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-slash-fill.jsx"
+    },
+    "./monitor-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-slash-light.jsx"
+    },
+    "./monitor-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/monitor-slash-thin.jsx"
+    },
+    "./music-notes-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-notes-slash.jsx"
+    },
+    "./music-notes-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-notes-slash-bold.jsx"
+    },
+    "./music-notes-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-notes-slash-duotone.jsx"
+    },
+    "./music-notes-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-notes-slash-fill.jsx"
+    },
+    "./music-notes-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-notes-slash-light.jsx"
+    },
+    "./music-notes-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/music-notes-slash-thin.jsx"
+    },
+    "./olive": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive.jsx"
+    },
+    "./olive-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive-bold.jsx"
+    },
+    "./olive-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive-duotone.jsx"
+    },
+    "./olive-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive-fill.jsx"
+    },
+    "./olive-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive-light.jsx"
+    },
+    "./olive-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/o/olive-thin.jsx"
+    },
+    "./page-break": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break.jsx"
+    },
+    "./page-break-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break-bold.jsx"
+    },
+    "./page-break-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break-duotone.jsx"
+    },
+    "./page-break-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break-fill.jsx"
+    },
+    "./page-break-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break-light.jsx"
+    },
+    "./page-break-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/page-break-thin.jsx"
+    },
+    "./passport": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport.jsx"
+    },
+    "./passport-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport-bold.jsx"
+    },
+    "./passport-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport-duotone.jsx"
+    },
+    "./passport-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport-fill.jsx"
+    },
+    "./passport-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport-light.jsx"
+    },
+    "./passport-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/passport-thin.jsx"
+    },
+    "./postage-stamp": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postage-stamp.jsx"
+    },
+    "./postage-stamp-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postage-stamp-bold.jsx"
+    },
+    "./postage-stamp-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postage-stamp-duotone.jsx"
+    },
+    "./postage-stamp-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postage-stamp-fill.jsx"
+    },
+    "./postage-stamp-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postage-stamp-light.jsx"
+    },
+    "./postage-stamp-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postage-stamp-thin.jsx"
+    },
+    "./postcard": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcard.jsx"
+    },
+    "./postcard-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcard-bold.jsx"
+    },
+    "./postcard-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcard-duotone.jsx"
+    },
+    "./postcard-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcard-fill.jsx"
+    },
+    "./postcard-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcard-light.jsx"
+    },
+    "./postcard-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/postcard-thin.jsx"
+    },
+    "./replay-10": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replay-10.jsx"
+    },
+    "./replay-10-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replay-10-bold.jsx"
+    },
+    "./replay-10-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replay-10-duotone.jsx"
+    },
+    "./replay-10-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replay-10-fill.jsx"
+    },
+    "./replay-10-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replay-10-light.jsx"
+    },
+    "./replay-10-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/replay-10-thin.jsx"
+    },
+    "./restroom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restroom.jsx"
+    },
+    "./restroom-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restroom-bold.jsx"
+    },
+    "./restroom-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restroom-duotone.jsx"
+    },
+    "./restroom-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restroom-fill.jsx"
+    },
+    "./restroom-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restroom-light.jsx"
+    },
+    "./restroom-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/restroom-thin.jsx"
+    },
+    "./rock": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock.jsx"
+    },
+    "./rock-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-bold.jsx"
+    },
+    "./rock-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-duotone.jsx"
+    },
+    "./rock-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-fill.jsx"
+    },
+    "./rock-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-light.jsx"
+    },
+    "./rock-tall": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-tall.jsx"
+    },
+    "./rock-tall-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-tall-bold.jsx"
+    },
+    "./rock-tall-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-tall-duotone.jsx"
+    },
+    "./rock-tall-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-tall-fill.jsx"
+    },
+    "./rock-tall-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-tall-light.jsx"
+    },
+    "./rock-tall-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-tall-thin.jsx"
+    },
+    "./rock-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/rock-thin.jsx"
+    },
+    "./satellite": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite.jsx"
+    },
+    "./satellite-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-bold.jsx"
+    },
+    "./satellite-dish": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-dish.jsx"
+    },
+    "./satellite-dish-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-dish-bold.jsx"
+    },
+    "./satellite-dish-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-dish-duotone.jsx"
+    },
+    "./satellite-dish-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-dish-fill.jsx"
+    },
+    "./satellite-dish-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-dish-light.jsx"
+    },
+    "./satellite-dish-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-dish-thin.jsx"
+    },
+    "./satellite-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-duotone.jsx"
+    },
+    "./satellite-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-fill.jsx"
+    },
+    "./satellite-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-light.jsx"
+    },
+    "./satellite-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/satellite-thin.jsx"
+    },
+    "./send-backward": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-backward.jsx"
+    },
+    "./send-backward-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-backward-bold.jsx"
+    },
+    "./send-backward-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-backward-duotone.jsx"
+    },
+    "./send-backward-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-backward-fill.jsx"
+    },
+    "./send-backward-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-backward-light.jsx"
+    },
+    "./send-backward-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-backward-thin.jsx"
+    },
+    "./send-to-back": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-to-back.jsx"
+    },
+    "./send-to-back-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-to-back-bold.jsx"
+    },
+    "./send-to-back-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-to-back-duotone.jsx"
+    },
+    "./send-to-back-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-to-back-fill.jsx"
+    },
+    "./send-to-back-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-to-back-light.jsx"
+    },
+    "./send-to-back-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/send-to-back-thin.jsx"
+    },
+    "./shield-user": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user.jsx"
+    },
+    "./shield-user-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-bold.jsx"
+    },
+    "./shield-user-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-duotone.jsx"
+    },
+    "./shield-user-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-fill.jsx"
+    },
+    "./shield-user-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-light.jsx"
+    },
+    "./shield-user-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-user-thin.jsx"
+    },
+    "./shield-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x.jsx"
+    },
+    "./shield-x-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-bold.jsx"
+    },
+    "./shield-x-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-duotone.jsx"
+    },
+    "./shield-x-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-fill.jsx"
+    },
+    "./shield-x-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-light.jsx"
+    },
+    "./shield-x-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shield-x-thin.jsx"
+    },
+    "./shopping-cart-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-plus.jsx"
+    },
+    "./shopping-cart-plus-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-plus-bold.jsx"
+    },
+    "./shopping-cart-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-plus-duotone.jsx"
+    },
+    "./shopping-cart-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-plus-fill.jsx"
+    },
+    "./shopping-cart-plus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-plus-light.jsx"
+    },
+    "./shopping-cart-plus-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/shopping-cart-plus-thin.jsx"
+    },
+    "./sidebar-simple-bottom": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-bottom.jsx"
+    },
+    "./sidebar-simple-bottom-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-bottom-bold.jsx"
+    },
+    "./sidebar-simple-bottom-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-bottom-duotone.jsx"
+    },
+    "./sidebar-simple-bottom-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-bottom-fill.jsx"
+    },
+    "./sidebar-simple-bottom-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-bottom-light.jsx"
+    },
+    "./sidebar-simple-bottom-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-bottom-thin.jsx"
+    },
+    "./sidebar-simple-close": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-close.jsx"
+    },
+    "./sidebar-simple-close-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-close-bold.jsx"
+    },
+    "./sidebar-simple-close-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-close-duotone.jsx"
+    },
+    "./sidebar-simple-close-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-close-fill.jsx"
+    },
+    "./sidebar-simple-close-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-close-light.jsx"
+    },
+    "./sidebar-simple-close-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-close-thin.jsx"
+    },
+    "./sidebar-simple-open": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-open.jsx"
+    },
+    "./sidebar-simple-open-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-open-bold.jsx"
+    },
+    "./sidebar-simple-open-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-open-duotone.jsx"
+    },
+    "./sidebar-simple-open-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-open-fill.jsx"
+    },
+    "./sidebar-simple-open-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-open-light.jsx"
+    },
+    "./sidebar-simple-open-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-open-thin.jsx"
+    },
+    "./sidebar-simple-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-right.jsx"
+    },
+    "./sidebar-simple-right-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-right-bold.jsx"
+    },
+    "./sidebar-simple-right-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-right-duotone.jsx"
+    },
+    "./sidebar-simple-right-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-right-fill.jsx"
+    },
+    "./sidebar-simple-right-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-right-light.jsx"
+    },
+    "./sidebar-simple-right-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sidebar-simple-right-thin.jsx"
+    },
+    "./smiley-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley-plus.jsx"
+    },
+    "./smiley-plus-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley-plus-bold.jsx"
+    },
+    "./smiley-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley-plus-duotone.jsx"
+    },
+    "./smiley-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley-plus-fill.jsx"
+    },
+    "./smiley-plus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley-plus-light.jsx"
+    },
+    "./smiley-plus-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/smiley-plus-thin.jsx"
+    },
+    "./sort-alphabetical-ascending": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-ascending.jsx"
+    },
+    "./sort-alphabetical-ascending-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-ascending-bold.jsx"
+    },
+    "./sort-alphabetical-ascending-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-ascending-duotone.jsx"
+    },
+    "./sort-alphabetical-ascending-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-ascending-fill.jsx"
+    },
+    "./sort-alphabetical-ascending-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-ascending-light.jsx"
+    },
+    "./sort-alphabetical-ascending-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-ascending-thin.jsx"
+    },
+    "./sort-alphabetical-descending": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-descending.jsx"
+    },
+    "./sort-alphabetical-descending-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-descending-bold.jsx"
+    },
+    "./sort-alphabetical-descending-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-descending-duotone.jsx"
+    },
+    "./sort-alphabetical-descending-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-descending-fill.jsx"
+    },
+    "./sort-alphabetical-descending-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-descending-light.jsx"
+    },
+    "./sort-alphabetical-descending-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/sort-alphabetical-descending-thin.jsx"
+    },
+    "./stack-simple-check": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-check.jsx"
+    },
+    "./stack-simple-check-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-check-bold.jsx"
+    },
+    "./stack-simple-check-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-check-duotone.jsx"
+    },
+    "./stack-simple-check-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-check-fill.jsx"
+    },
+    "./stack-simple-check-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-check-light.jsx"
+    },
+    "./stack-simple-check-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-check-thin.jsx"
+    },
+    "./stack-simple-plus": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-plus.jsx"
+    },
+    "./stack-simple-plus-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-plus-bold.jsx"
+    },
+    "./stack-simple-plus-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-plus-duotone.jsx"
+    },
+    "./stack-simple-plus-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-plus-fill.jsx"
+    },
+    "./stack-simple-plus-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-plus-light.jsx"
+    },
+    "./stack-simple-plus-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stack-simple-plus-thin.jsx"
+    },
+    "./star-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash.jsx"
+    },
+    "./star-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-bold.jsx"
+    },
+    "./star-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-duotone.jsx"
+    },
+    "./star-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-fill.jsx"
+    },
+    "./star-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-light.jsx"
+    },
+    "./star-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/star-slash-thin.jsx"
+    },
+    "./steak": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steak.jsx"
+    },
+    "./steak-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steak-bold.jsx"
+    },
+    "./steak-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steak-duotone.jsx"
+    },
+    "./steak-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steak-fill.jsx"
+    },
+    "./steak-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steak-light.jsx"
+    },
+    "./steak-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/steak-thin.jsx"
+    },
+    "./table-of-contents": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-of-contents.jsx"
+    },
+    "./table-of-contents-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-of-contents-bold.jsx"
+    },
+    "./table-of-contents-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-of-contents-duotone.jsx"
+    },
+    "./table-of-contents-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-of-contents-fill.jsx"
+    },
+    "./table-of-contents-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-of-contents-light.jsx"
+    },
+    "./table-of-contents-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/table-of-contents-thin.jsx"
+    },
+    "./tags": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags.jsx"
+    },
+    "./tags-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags-bold.jsx"
+    },
+    "./tags-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags-duotone.jsx"
+    },
+    "./tags-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags-fill.jsx"
+    },
+    "./tags-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags-light.jsx"
+    },
+    "./tags-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/tags-thin.jsx"
+    },
+    "./telescope": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope.jsx"
+    },
+    "./telescope-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-bold.jsx"
+    },
+    "./telescope-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-duotone.jsx"
+    },
+    "./telescope-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-fill.jsx"
+    },
+    "./telescope-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-light.jsx"
+    },
+    "./telescope-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/telescope-thin.jsx"
+    },
+    "./text-overflow": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-overflow.jsx"
+    },
+    "./text-overflow-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-overflow-bold.jsx"
+    },
+    "./text-overflow-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-overflow-duotone.jsx"
+    },
+    "./text-overflow-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-overflow-fill.jsx"
+    },
+    "./text-overflow-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-overflow-light.jsx"
+    },
+    "./text-overflow-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-overflow-thin.jsx"
+    },
+    "./text-wrap": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap.jsx"
+    },
+    "./text-wrap-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-bold.jsx"
+    },
+    "./text-wrap-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-duotone.jsx"
+    },
+    "./text-wrap-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-fill.jsx"
+    },
+    "./text-wrap-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-light.jsx"
+    },
+    "./text-wrap-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-slash.jsx"
+    },
+    "./text-wrap-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-slash-bold.jsx"
+    },
+    "./text-wrap-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-slash-duotone.jsx"
+    },
+    "./text-wrap-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-slash-fill.jsx"
+    },
+    "./text-wrap-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-slash-light.jsx"
+    },
+    "./text-wrap-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-slash-thin.jsx"
+    },
+    "./text-wrap-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/text-wrap-thin.jsx"
+    },
+    "./turtle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turtle.jsx"
+    },
+    "./turtle-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turtle-bold.jsx"
+    },
+    "./turtle-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turtle-duotone.jsx"
+    },
+    "./turtle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turtle-fill.jsx"
+    },
+    "./turtle-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turtle-light.jsx"
+    },
+    "./turtle-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/t/turtle-thin.jsx"
+    },
+    "./ungroup": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ungroup.jsx"
+    },
+    "./ungroup-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ungroup-bold.jsx"
+    },
+    "./ungroup-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ungroup-duotone.jsx"
+    },
+    "./ungroup-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ungroup-fill.jsx"
+    },
+    "./ungroup-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ungroup-light.jsx"
+    },
+    "./ungroup-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/ungroup-thin.jsx"
+    },
+    "./user-circle-star": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-star.jsx"
+    },
+    "./user-circle-star-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-star-bold.jsx"
+    },
+    "./user-circle-star-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-star-duotone.jsx"
+    },
+    "./user-circle-star-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-star-fill.jsx"
+    },
+    "./user-circle-star-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-star-light.jsx"
+    },
+    "./user-circle-star-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-circle-star-thin.jsx"
+    },
+    "./user-slash": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-slash.jsx"
+    },
+    "./user-slash-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-slash-bold.jsx"
+    },
+    "./user-slash-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-slash-duotone.jsx"
+    },
+    "./user-slash-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-slash-fill.jsx"
+    },
+    "./user-slash-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-slash-light.jsx"
+    },
+    "./user-slash-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-slash-thin.jsx"
+    },
+    "./user-x": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x.jsx"
+    },
+    "./user-x-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-bold.jsx"
+    },
+    "./user-x-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-duotone.jsx"
+    },
+    "./user-x-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-fill.jsx"
+    },
+    "./user-x-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-light.jsx"
+    },
+    "./user-x-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/u/user-x-thin.jsx"
+    },
+    "./wc": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc.jsx"
+    },
+    "./wc-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc-bold.jsx"
+    },
+    "./wc-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc-duotone.jsx"
+    },
+    "./wc-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc-fill.jsx"
+    },
+    "./wc-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc-light.jsx"
+    },
+    "./wc-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/wc-thin.jsx"
+    },
+    "./whistle": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whistle.jsx"
+    },
+    "./whistle-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whistle-bold.jsx"
+    },
+    "./whistle-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whistle-duotone.jsx"
+    },
+    "./whistle-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whistle-fill.jsx"
+    },
+    "./whistle-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whistle-light.jsx"
+    },
+    "./whistle-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/w/whistle-thin.jsx"
+    },
+    "./x-circle-multiple": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-multiple.jsx"
+    },
+    "./x-circle-multiple-bold": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-multiple-bold.jsx"
+    },
+    "./x-circle-multiple-duotone": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-multiple-duotone.jsx"
+    },
+    "./x-circle-multiple-fill": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-multiple-fill.jsx"
+    },
+    "./x-circle-multiple-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-multiple-light.jsx"
+    },
+    "./x-circle-multiple-thin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/x/x-circle-multiple-thin.jsx"
+    },
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@iconify/css-react": "^1.0.1"
+  },
+  "repository": "github:iconify/icons-react#pullo"
+}

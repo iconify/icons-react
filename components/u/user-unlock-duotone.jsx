@@ -10,10 +10,10 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gq9g81bdv {
+		"content": `<style>.cd1267bxe {
   fill: currentColor;
   fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
-  d: path("M10 13C10.5523 13 11 13.4477 11 14L11 21C11 21.5523 10.5523 22 10 22L3 22C1.8954 22 1 21.1046 1 20C1 16.134 4.134 13 8 13ZM9 3C11.2092 3 13 4.7908 13 7C13 9.2092 11.2092 11 9 11C6.7909 11 5 9.2092 5 7C5 4.7908 6.7909 3 9 3Z");
+  d: path("M11 12C11.5523 12 12 12.4477 12 13V21C12 21.5523 11.5523 22 11 22H3C1.89542 22 1 21.1046 1 20V19C1 15.134 4.13402 12 8 12H11ZM9 2C11.2092 2 13 3.7908 13 6C13 8.2092 11.2092 10 9 10C6.7909 10 5 8.2092 5 6C5 3.7908 6.7909 2 9 2Z");
   stroke: none;
 }
 
@@ -28,7 +28,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path class="gq9g81bdv"/><path class="mye-lkb7s"/></g>`,
+</style><g class="nrj6p8qat"><path class="cd1267bxe"/><path class="mye-lkb7s"/></g>`,
 		"fallback": "keyline-icons:user-unlock-duotone",
 	});
 }

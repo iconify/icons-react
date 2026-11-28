@@ -1,0 +1,42 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.ip-9n7b1j {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M12 2L21 2C21.5523 2 22 2.4477 22 3L22 17C22 17.5523 21.5523 18 21 18L7.4142 18L3.7071 21.7071C3.5196 21.8946 3.2652 22 3 22C2.4477 22 2 21.5523 2 21L2 3C2 2.4477 2.4477 2 3 2Z");
+  stroke: none;
+}
+
+.jo8p4vs9e {
+  d: path("M12 14L12 13L12 11L12 10");
+}
+
+.of010968h {
+  fill: currentColor;
+  fill-rule: evenodd;
+  d: path("M13 7C13 7.5523 12.5523 8 12 8C11.4477 8 11 7.5523 11 7C11 6.4477 11.4477 6 12 6C12.5523 6 13 6.4477 13 7Z");
+  stroke: none;
+}
+</style><g class="gp_8x1bzb"><path class="ip-9n7b1j"/><path class="jo8p4vs9e"/><path clip-rule="evenodd" class="of010968h"/></g>`,
+		"fallback": "keyline-icons:message-square-info-sharp-duotone",
+	});
+}
+
+export default Component;

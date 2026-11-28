@@ -10,14 +10,14 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.h50ua3b6y {
+		"content": `<style>.msqa_6g4y {
   fill: none;
   stroke: currentColor;
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
-  d: path("M2 19L2 18C2 11.6487 7.1487 6.5 13.5 6.5C16.55 6.5 19.4751 7.7116 21.6317 9.8683L22 10.2365M22 5L22 10.2365L16.7635 10.2365");
+  d: path("M3 18.9998L3 17.9998C3 13.9534 5.3726 10.283 9.0622 8.6216C12.7518 6.9602 17.0727 7.6166 20.1025 10.2987L20.6054 10.7439M21 5.0002L21 11L15 11");
 }
-</style><path class="h50ua3b6y"/>`,
+</style><path class="msqa_6g4y"/>`,
 		"fallback": "keyline-icons:redo-sharp-duotone",
 	});
 }

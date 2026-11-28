@@ -1,0 +1,35 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.gp_8x1bzb {
+  fill: none;
+  stroke: currentColor;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+}
+
+.pi2qqqb_t {
+  fill: currentColor;
+  fill-opacity: var(--svg-fill-opacity--0-4, 0.4);
+  d: path("M2 3L22 3C22.5523 3 23 3.4477 23 4L23 10C23 10.5523 22.5523 11 22 11L13 11L13 20C13 20.5523 12.5523 21 12 21L2 21C1.4477 21 1 20.5523 1 20L1 4C1 3.4477 1.4477 3 2 3Z");
+  stroke: none;
+}
+
+.tfqh9cb9u {
+  d: path("M1.3954 6.7397L2 7L11.2929 11C11.7154 11.2817 12.2846 11.2817 12.7071 11L22 7L22.6046 6.7397M23 17L16 17M19.2929 13.7071L16 17L19.2929 20.2929");
+}
+</style><g class="gp_8x1bzb"><path class="pi2qqqb_t"/><path class="tfqh9cb9u"/></g>`,
+		"fallback": "keyline-icons:mail-arrow-left-sharp-duotone",
+	});
+}
+
+export default Component;

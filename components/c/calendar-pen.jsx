@@ -1,0 +1,26 @@
+import { Icon } from '@iconify/css-react';
+import { createElement } from 'react';
+
+const viewBox = {"width":24,"height":24};
+
+/** @param {{width?: string; height?: string;}} */
+function Component({width, height, ...props}) {
+	return createElement(Icon, {
+		...props,
+		width,
+		height,
+		viewBox,
+		"content": `<style>.uulzrpbzc {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: var(--svg-stroke-width--2px, 2px);
+  d: path("M8.2464 21H6C4.34315 21 3 19.6569 3 18V8C3 6.34315 4.34315 5 6 5H18C19.6569 5 21 6.34315 21 8V8.5614M7 11H13M8 3V7M16 3V7M20.4142 15.6329L16.255 19.792C16.2001 19.8469 16.1332 19.8883 16.0596 19.9128L12.8776 20.9735C12.4867 21.1038 12.1149 20.7319 12.2452 20.341L13.3058 17.159C13.3304 17.0854 13.3717 17.0185 13.4266 16.9636L17.5858 12.8044C17.9609 12.4294 18.4696 12.2186 19 12.2186C20.1046 12.2186 21 13.1141 21 14.2186C21 14.7491 20.7893 15.2578 20.4142 15.6329Z");
+}
+</style><path class="uulzrpbzc"/>`,
+		"fallback": "keyline-icons:calendar-pen",
+	});
+}
+
+export default Component;

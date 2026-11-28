@@ -10,8 +10,8 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<style>.gebltrbha {
-  d: path("M2 12.625L11.5618 17.2864C11.7001 17.3538 11.85 17.3875 12 17.3875M2 17.2375L11.5618 21.8989C11.7001 21.9663 11.85 22 12 22M17 17L22 22M22 17L17 22");
+		"content": `<style>.acwg6ob0g {
+  d: path("M2 12.625L11.5618 17.2864C11.7001 17.3538 11.85 17.3875 12 17.3875M2 17.2375L11.5618 21.8989C11.7001 21.9663 11.85 22 12 22M16 16L22 22M22 16L16 22");
 }
 
 .iw7zvwbvy {
@@ -28,7 +28,7 @@ function Component({width, height, ...props}) {
   stroke-linejoin: round;
   stroke-width: var(--svg-stroke-width--2px, 2px);
 }
-</style><g class="nrj6p8qat"><path clip-rule="evenodd" class="iw7zvwbvy"/><path class="gebltrbha"/></g>`,
+</style><g class="nrj6p8qat"><path clip-rule="evenodd" class="iw7zvwbvy"/><path class="acwg6ob0g"/></g>`,
 		"fallback": "keyline-icons:layers-x-fill",
 	});
 }

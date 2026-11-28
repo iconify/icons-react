@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/mqae2abwm.css';
+import '../../css/m/m2g443bxa.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="mqae2abwm"/>`,
+		"content": `<path class="m2g443bxa"/>`,
 		"fallback": "cbi:homey",
 	});
 }

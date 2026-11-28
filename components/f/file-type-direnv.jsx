@@ -36,7 +36,7 @@ function Component({width, height, ...props}) {
 .vc--wpv5i {
   stop-color: var(--svg-color--fff, #fff);
 }
-</style><defs><linearGradient id="SVGGgKOWdDe" x1="433.5" x2="337.15" y1="231.36" y2="93.87" gradientTransform="rotate(47.41 127.68 243.31)" gradientUnits="userSpaceOnUse"><stop offset="0" class="h3jeyzb7e"/><stop offset="1" class="vc--wpv5i"/></linearGradient><linearGradient id="SVGRGjgpOMv" x1="380" x2="312.12" y1="592.36" y2="298.62" gradientUnits="userSpaceOnUse"><stop offset="0" class="qnqtogd6c"/><stop offset="1" class="vc--wpv5i"/></linearGradient></defs><g class="jxqi2jbpi"><path fill="url(#SVGGgKOWdDe)" transform="translate(-21.86 -30.12)scale(.09964)" class="hq-gmqyli"/><path fill="url(#SVGRGjgpOMv)" transform="translate(-21.86 -30.12)scale(.09964)" class="jffiycjvq"/></g>`,
+</style><g transform="translate(.54 .54)scale(.96642)"><defs><linearGradient id="SVGGgKOWdDe" x1="433.5" x2="337.15" y1="231.36" y2="93.87" gradientTransform="rotate(47.41 127.68 243.31)" gradientUnits="userSpaceOnUse"><stop offset="0" class="h3jeyzb7e"/><stop offset="1" class="vc--wpv5i"/></linearGradient><linearGradient id="SVGRGjgpOMv" x1="380" x2="312.12" y1="592.36" y2="298.62" gradientUnits="userSpaceOnUse"><stop offset="0" class="qnqtogd6c"/><stop offset="1" class="vc--wpv5i"/></linearGradient></defs><g class="jxqi2jbpi"><path fill="url(#SVGGgKOWdDe)" transform="translate(-21.86 -30.12)scale(.09964)" class="hq-gmqyli"/><path fill="url(#SVGRGjgpOMv)" transform="translate(-21.86 -30.12)scale(.09964)" class="jffiycjvq"/></g></g>`,
 		"fallback": "vscode-icons:file-type-direnv",
 	});
 }

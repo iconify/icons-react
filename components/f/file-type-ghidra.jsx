@@ -57,7 +57,7 @@ function Component({width, height, ...props}) {
   stroke: var(--svg-color--231f20, #231f20);
   stroke-width: var(--svg-stroke-width--0-8px, 0.8px);
 }
-</style><path class="o0ptc_z3q"/><path class="h7whymbix"/><path class="vv5y1y95d"/><path class="mlri1xbzd"/><defs><ellipse id="SVGS3D2INlN" class="acfeyhcsc"/></defs><g class="p-y-ynvdy"><use x="10.22" y="18.36" href="#SVGS3D2INlN"/><use x="6.75" y="19.82" href="#SVGS3D2INlN"/><use x="7.93" y="19.8" href="#SVGS3D2INlN"/><use x="5.55" y="21.06" href="#SVGS3D2INlN"/><use x="6.77" y="21.04" href="#SVGS3D2INlN"/><use x="7.94" y="21.02" href="#SVGS3D2INlN"/><use x="6.78" y="22.27" href="#SVGS3D2INlN"/><use x="5.58" y="23.45" href="#SVGS3D2INlN"/></g><path class="px4kmi4hu"/><circle class="zic25znyv"/>`,
+</style><g transform="translate(.14 .14)scale(.99142)"><path class="o0ptc_z3q"/><path class="h7whymbix"/><path class="vv5y1y95d"/><path class="mlri1xbzd"/><defs><ellipse id="SVGS3D2INlN" class="acfeyhcsc"/></defs><g class="p-y-ynvdy"><use x="10.22" y="18.36" href="#SVGS3D2INlN"/><use x="6.75" y="19.82" href="#SVGS3D2INlN"/><use x="7.93" y="19.8" href="#SVGS3D2INlN"/><use x="5.55" y="21.06" href="#SVGS3D2INlN"/><use x="6.77" y="21.04" href="#SVGS3D2INlN"/><use x="7.94" y="21.02" href="#SVGS3D2INlN"/><use x="6.78" y="22.27" href="#SVGS3D2INlN"/><use x="5.58" y="23.45" href="#SVGS3D2INlN"/></g><path class="px4kmi4hu"/><circle class="zic25znyv"/></g>`,
 		"fallback": "vscode-icons:file-type-ghidra",
 	});
 }

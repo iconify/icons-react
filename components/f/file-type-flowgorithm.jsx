@@ -31,7 +31,7 @@ function Component({width, height, ...props}) {
 .y3d6msbhs {
   stroke-width: var(--svg-stroke-width--8px, 8px);
 }
-</style><g class="y3d6msbhs"><path transform="matrix(.11086 0 0 .12298 -28.7 0)" class="urqsmc34t"/><path transform="matrix(.11086 0 0 .12298 -28.7 0)" class="f2d5sxv3l"/><path transform="matrix(.11086 0 0 .12298 -28.7 0)" class="oiijmrb4y"/></g>`,
+</style><g class="y3d6msbhs"><path transform="matrix(.11045 0 0 .12253 -28.54 .09)" class="urqsmc34t"/><path transform="matrix(.11045 0 0 .12253 -28.54 .09)" class="f2d5sxv3l"/><path transform="matrix(.11045 0 0 .12253 -28.54 .09)" class="oiijmrb4y"/></g>`,
 		"fallback": "vscode-icons:file-type-flowgorithm",
 	});
 }

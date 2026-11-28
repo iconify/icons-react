@@ -50,7 +50,11 @@ function Component({width, height, ...props}) {
   fill: var(--svg-color--d59dff, #d59dff);
   d: path("M29.87 7.84v16.23a1.2 1.2 0 0 1-.52.97l-6.95 4.64a1.2 1.2 0 0 0 .5-.97V3.21a1.2 1.2 0 0 0-.52-.97l6.97 4.64a1.2 1.2 0 0 1 .52.96");
 }
-</style><path class="jfd-47bzo"/><path class="cnlqre7gc"/><path class="f8dnqwb0r"/><path class="vfptp1bvw"/><g transform="matrix(.6 0 0 .6 15.9 13.6)"><path class="aenkokq5o"/><path class="db3l-o_gi"/><ellipse class="v-a3flbov"/></g>`,
+
+.yheihnbxw {
+  d: path("M0 0h32v32H0z");
+}
+</style><g transform="translate(.16 .16)scale(.932)"><defs><clipPath id="SVGseksXbjI"><path class="yheihnbxw"/></clipPath></defs><g clip-path="url(#SVGseksXbjI)"><path class="jfd-47bzo"/><path class="cnlqre7gc"/><path class="f8dnqwb0r"/><path class="vfptp1bvw"/><g transform="matrix(.6 0 0 .6 15.9 13.6)"><path class="aenkokq5o"/><path class="db3l-o_gi"/><ellipse class="v-a3flbov"/></g></g></g>`,
 		"fallback": "vscode-icons:file-type-sqlproj",
 	});
 }

@@ -46,7 +46,7 @@ function Component({width, height, ...props}) {
   fill: var(--svg-color--fafafa, #fafafa);
   d: path("M11.48 23.2c-.67.1-1.1.19-1.11.2h-.08a.36.36 0 0 1-.08-.71c.01 0 .36-.09.92-.17l.17-.82l-2.46-.19a15 15 0 0 0-.41 3.05a1.6 1.6 0 0 0 .44 1.2a1.2 1.2 0 0 0 .87.33c1.96-.12 3.35-.9 4.7-1.65l.05-.03a20 20 0 0 1 2.06-1.05c-1.75-.5-3.85-.33-5.07-.16m3.17-13.33a1.7 1.7 0 0 1 .99.3a1 1 0 0 0 .36.06a1 1 0 0 0 .37-.07a1.7 1.7 0 0 1 .98-.29h2.62a3.97 3.97 0 0 0-7.94 0z");
 }
-</style><circle class="d4gjmmazr"/><path class="lol9h8w8o"/><path class="inwc3bcsc"/><path class="uowwz187x"/><path class="kdkbzs8zw"/><path class="ifo_2abup"/><path class="ssi48u96j"/>`,
+</style><g transform="translate(1.45 1.45)scale(.90926)"><circle class="d4gjmmazr"/><path class="lol9h8w8o"/><path class="inwc3bcsc"/><path class="uowwz187x"/><path class="kdkbzs8zw"/><path class="ifo_2abup"/><path class="ssi48u96j"/></g>`,
 		"fallback": "vscode-icons:file-type-dbt-bouncer",
 	});
 }

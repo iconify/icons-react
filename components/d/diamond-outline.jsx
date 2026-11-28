@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/n3d7irbky.css';
+import '../../css/s/sltei3bqz.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="n3d7irbky"/>`,
+		"content": `<path class="sltei3bqz"/>`,
 		"fallback": "pinhead:diamond-outline",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/q/qoo4avrcy.css';
+import '../../css/t/ttl5mlb8n.css';
 
 const viewBox = {"width":15,"height":15};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="qoo4avrcy"/>`,
+		"content": `<path class="ttl5mlb8n"/>`,
 		"fallback": "pinhead:diamond",
 	});
 }

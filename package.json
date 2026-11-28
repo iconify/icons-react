@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/selfhst",
   "type": "module",
-  "version": "1.0.35",
+  "version": "1.0.36",
   "homepage": "https://icon-sets.iconify.design/selfhst/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-4.0",
@@ -1989,6 +1989,10 @@
     "./aviato-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/aviato-light.jsx"
+    },
+    "./awin": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/awin.jsx"
     },
     "./azirevpn": {
       "types": "./types/hqrkovbr.d.ts",
@@ -21302,6 +21306,18 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/prunemate-light.jsx"
     },
+    "./prusa-connect": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prusa-connect.jsx"
+    },
+    "./prusa-connect-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prusa-connect-dark.jsx"
+    },
+    "./prusa-connect-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/p/prusa-connect-light.jsx"
+    },
     "./ps5-mqtt": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/p/ps5-mqtt.jsx"
@@ -22561,6 +22577,18 @@
     "./relaytv-light": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/r/relaytv-light.jsx"
+    },
+    "./releasewatcher": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/releasewatcher.jsx"
+    },
+    "./releasewatcher-dark": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/releasewatcher-dark.jsx"
+    },
+    "./releasewatcher-light": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/r/releasewatcher-light.jsx"
     },
     "./relic-storage": {
       "types": "./types/hqrkovbr.d.ts",

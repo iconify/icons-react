@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/openmoji",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "homepage": "https://icon-sets.iconify.design/openmoji/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "CC-BY-SA-4.0",
@@ -345,6 +345,10 @@
     "./axe2": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/a/axe2.jsx"
+    },
+    "./azores-flag": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/a/azores-flag.jsx"
     },
     "./b-button-blood-type": {
       "types": "./types/hqrkovbr.d.ts",

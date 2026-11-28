@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/lucide",
   "type": "module",
-  "version": "1.0.67",
+  "version": "1.0.68",
   "homepage": "https://icon-sets.iconify.design/lucide/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "ISC",
@@ -618,6 +618,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/baggage-claim.jsx"
     },
+    "./balcony": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/balcony.jsx"
+    },
     "./ball-wave": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/ball-wave.jsx"
@@ -1090,9 +1094,17 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/boxes-linked.jsx"
     },
+    "./boxing-glove": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/boxing-glove.jsx"
+    },
     "./braces": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/b/braces.jsx"
+    },
+    "./braces-sigma": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/b/braces-sigma.jsx"
     },
     "./brackets": {
       "types": "./types/hqrkovbr.d.ts",
@@ -1678,6 +1690,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-down-up.jsx"
     },
+    "./chevrons-down-up-offset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-down-up-offset.jsx"
+    },
     "./chevrons-from-axis-dashed-horizontal": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-from-axis-dashed-horizontal.jsx"
@@ -1713,6 +1729,10 @@
     "./chevrons-right-left": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/chevrons-right-left.jsx"
+    },
+    "./chevrons-right-left-offset": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/chevrons-right-left-offset.jsx"
     },
     "./chevrons-to-axis-dashed-horizontal": {
       "types": "./types/hqrkovbr.d.ts",
@@ -4938,6 +4958,10 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail-search.jsx"
     },
+    "./mail-send": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/m/mail-send.jsx"
+    },
     "./mail-x": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/m/mail-x.jsx"
@@ -7570,6 +7594,42 @@
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-text.jsx"
     },
+    "./square-text-align-bottom-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-bottom-center.jsx"
+    },
+    "./square-text-align-bottom-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-bottom-left.jsx"
+    },
+    "./square-text-align-bottom-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-bottom-right.jsx"
+    },
+    "./square-text-align-middle-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-middle-center.jsx"
+    },
+    "./square-text-align-middle-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-middle-left.jsx"
+    },
+    "./square-text-align-middle-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-middle-right.jsx"
+    },
+    "./square-text-align-top-center": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-top-center.jsx"
+    },
+    "./square-text-align-top-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-top-left.jsx"
+    },
+    "./square-text-align-top-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/square-text-align-top-right.jsx"
+    },
     "./square-user": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/square-user.jsx"
@@ -7609,6 +7669,14 @@
     "./squirrel": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/s/squirrel.jsx"
+    },
+    "./stairs-arrow-down-left": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs-arrow-down-left.jsx"
+    },
+    "./stairs-arrow-up-right": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/s/stairs-arrow-up-right.jsx"
     },
     "./stamp": {
       "types": "./types/hqrkovbr.d.ts",

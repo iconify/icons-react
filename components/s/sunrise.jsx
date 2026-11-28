@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/o/oi-w9dbxf.css';
+import '../../css/o/o67rcdcet.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="oi-w9dbxf"/>`,
+		"content": `<path class="o67rcdcet"/>`,
 		"fallback": "lucide:sunrise",
 	});
 }

@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/u/ub1plsr2f.css';
+import '../../css/k/kruyp5nwu.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="ub1plsr2f"/>`,
+		"content": `<path class="kruyp5nwu"/>`,
 		"fallback": "lucide:waves-arrow-up",
 	});
 }

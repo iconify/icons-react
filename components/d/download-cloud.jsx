@@ -1,8 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/n/nrj6p8qat.css';
-import '../../css/d/d1rl93c2g.css';
-import '../../css/a/a171m_bbe.css';
+import '../../css/b/bng7-4bni.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="d1rl93c2g"/><path class="a171m_bbe"/></g>`,
+		"content": `<path class="bng7-4bni"/>`,
 		"fallback": "lucide:download-cloud",
 	});
 }

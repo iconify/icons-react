@@ -1,6 +1,6 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
-import '../../css/m/m53xum0-t.css';
+import '../../css/i/igkq-7b-k.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -11,7 +11,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<path class="m53xum0-t"/>`,
+		"content": `<path class="igkq-7b-k"/>`,
 		"fallback": "lucide:wind-arrow-up",
 	});
 }

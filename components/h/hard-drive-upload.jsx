@@ -1,9 +1,9 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/f/fv3a1acik.css';
+import '../../css/g/gyq9bw-zf.css';
 import '../../css/m/m6a3e3btz.css';
-import '../../css/p/p0sd-vr-x.css';
+import '../../css/n/nak-4qbbw.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -14,7 +14,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="fv3a1acik"/><rect class="m6a3e3btz"/><path class="p0sd-vr-x"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="gyq9bw-zf"/><rect class="m6a3e3btz"/><path class="nak-4qbbw"/></g>`,
 		"fallback": "lucide:hard-drive-upload",
 	});
 }

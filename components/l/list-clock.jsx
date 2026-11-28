@@ -1,8 +1,8 @@
 import { Icon } from '@iconify/css-react';
 import { createElement } from 'react';
 import '../../css/n/nrj6p8qat.css';
-import '../../css/r/rws7fccvp.css';
-import '../../css/f/fl5ge85lc.css';
+import '../../css/h/hxa95ebxv.css';
+import '../../css/i/i33aicalk.css';
 
 const viewBox = {"width":24,"height":24};
 
@@ -13,7 +13,7 @@ function Component({width, height, ...props}) {
 		width,
 		height,
 		viewBox,
-		"content": `<g class="nrj6p8qat"><path class="rws7fccvp"/><circle class="fl5ge85lc"/></g>`,
+		"content": `<g class="nrj6p8qat"><path class="hxa95ebxv"/><circle class="i33aicalk"/></g>`,
 		"fallback": "lucide:list-clock",
 	});
 }

@@ -1,7 +1,7 @@
 {
   "name": "@iconify-react/thesvg",
   "type": "module",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "homepage": "https://icon-sets.iconify.design/thesvg/",
   "bugs": "https://github.com/iconify/icons-react/issues",
   "license": "MIT",
@@ -3017,6 +3017,10 @@
     "./custom-ink": {
       "types": "./types/hqrkovbr.d.ts",
       "default": "./components/c/custom-ink.jsx"
+    },
+    "./customtkinter": {
+      "types": "./types/hqrkovbr.d.ts",
+      "default": "./components/c/customtkinter.jsx"
     },
     "./cybercut": {
       "types": "./types/hqrkovbr.d.ts",
